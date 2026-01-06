@@ -197,7 +197,7 @@
 48	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = Umaru_Dikko__8
-# text = À jìkin àkwàːtìn sai akà r̃ubùːtaː ‘Zuwàː gà Maꞌaikatar̃ Har̃koːkin Wàje, Gwamnatìn Tàːr̃ayyàr̃ Nàjeːr̃iyàː, Ìkko’, wàːtòː indà zaː à kai shì kèːnan.
+# text = à jìkin àkwàːtìn sai akà r̃ubùːtaː " zuwàː gà maꞌaikatar̃ har̃koːkin wàje, gwamnatìn tàːr̃ayyàr̃ Nàjeːr̃iyàː, Ìkko" , wàːtòː indà zaː à kai shì kèːnan.
 # text_ortho = À jìkin àkwàːtìn sai akà r̃ubùːtaː ‘Zuwàː gà Maꞌaikatar̃ Har̃koːkin Wàje, Gwamnatìn Tàːr̃ayyàr̃ Nàjeːr̃iyàː, Ìkko’, wàːtòː indà zaː à kai shì kèːnan.
 1	à	à	ADP	_	_	5	mod	_	_
 2	jìkin	jìkiː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	_
@@ -205,7 +205,7 @@
 4	sai	sai	ADV	_	_	5	mod	_	_
 5	akà	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	_
 6	r̃ubùːtaː	r̃ubùːtaː	NOUN	_	ExtPos=NOUN|Gender=Fem	5	comp:aux	_	_
-7	‘	‘	PUNCT	_	_	8	punct	_	_
+7	"	"	PUNCT	_	_	8	punct	_	_
 8	zuwàː	zuwàː	ADP	_	_	6	comp:obj	_	_
 9	gà	gà	ADP	_	_	8	comp:obl	_	_
 10	maꞌaikatar̃	maꞌaikatar̃	NOUN	_	Definite=Ind|Gender=Fem	9	comp:obj	_	_
@@ -214,18 +214,19 @@
 13	,	,	PUNCT	_	_	14	punct	_	_
 14	gwamnatìn	gwamnatìː	NOUN	_	Definite=Cons|Gender=Masc	10	mod	_	_
 15	tàːr̃ayyàr̃	tàːr̃ayyàr̃	NOUN	_	Definite=Cons|Number=Plur	14	mod	_	_
-16	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	14	mod	_	SpaceAfter=No
+16	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	15	mod	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	_
 18	Ìkko	Ìkko	PROPN	_	_	14	mod	_	SpaceAfter=No
-19	’,	’,	PUNCT	_	_	8	punct	_	_
-20	wàːtòː	wàːtòː	PART	_	Gender=Masc	21	discourse	_	_
-21	indà	indà	ADV	_	_	10	conj:dicto	_	_
-22	zaː	zaː	AUX	_	_	21	mod@relcl	_	_
-23	à	yà	AUX	_	Mood=Sub|Person=4	22	subj	_	_
-24	kai	kaːy-	VERB	_	_	22	comp:aux	_	_
-25	shì	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	24	comp:obj	_	_
-26	kèːnan	kèːnan	PART	_	_	21	discourse@foc	_	SpaceAfter=No
-27	.	.	PUNCT	_	_	5	punct	_	_
+19	"	"	PUNCT	_	_	8	punct	_	_
+20	,	,	PUNCT	_	_	22	punct	_	_
+21	wàːtòː	wàːtòː	PART	_	Gender=Masc	22	discourse	_	_
+22	indà	indà	ADV	_	_	10	conj:dicto	_	_
+23	zaː	zaː	AUX	_	_	22	mod@relcl	_	_
+24	à	yà	AUX	_	Mood=Sub|Person=4	23	subj	_	_
+25	kai	kaːy-	VERB	_	_	23	comp:aux	_	_
+26	shì	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	25	comp:obj	_	_
+27	kèːnan	kèːnan	PART	_	_	22	discourse@foc	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = Umaru_Dikko__9
 # text = à wajen indà ya kàmaːtà à r̃ubùːtà wandà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà oːfishin jàkaːdàn Nàjeːr̃iyàː, Landàn' .
@@ -337,7 +338,7 @@
 11	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = Umaru_Dikko__13_split1
-# text = à loːkàcin shàr̃iꞌàr̃, mài shàr̃iꞌàː yaː cêː an bayyànà Ùːmar̃ù Dikkò dà cêwaː: “ wani ƙàːsur̃gumin ɓàraːwòː neː dà bà'à taɓà yîn irìnsà ba à duːniyàː. "
+# text = à loːkàcin shàr̃iꞌàr̃, mài shàr̃iꞌàː yaː cêː an bayyànà Ùːmar̃ù Dikkò dà cêwaː: “ wani ƙàːsur̃gumin ɓàraːwòː neː dà bà'à taɓà yîn irìnsà ba à duːniyàː. " .
 # text_ortho = À loːkàcin shàr̃iꞌàr̃, Mài Shàr̃iꞌàː yaː cêː an bayyànà Ùːmar̃ù Dikkò dà cêwaː: “Wani ƙàːsur̃gumin ɓàraːwòː neː dà bà à taɓà yîn irìnsà ba à duːniyàː.” Sai à watàn Jànair̃u na shekaràr̃ alif dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː Gwamnatìn Nàjeːr̃iyàː ta bùkàːci Bìr̃taːniyà tà miːƙàː matà shiː don à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː kân lâifin cîn hancìː dà kàrɓar̃ r̃ashawaː ta fâm miliyàn bàr̃kàtài.
 1	à	à	ADP	_	_	7	mod	_	_
 2	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	_
@@ -369,6 +370,7 @@
 28	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	27	comp:obj	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	20	punct	_	_
 30	"	"	PUNCT	_	_	20	punct	_	_
+31	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = Umaru_Dikko__13_split2
 # text = sai à watàn jànair̃u na shekaràr̃ alif dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː gwamnatìn Nàjeːr̃iyàː ta bùkàːci Bìr̃taːniyà tà miːƙàː matà shiː don à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː kân lâifin cîn hancìː dà kàrɓar̃ r̃ashawaː ta fâm miliyàn bàr̃kàtài.
@@ -443,8 +445,8 @@
 20	kuɗiː	kuɗiː	NOUN	_	Gender=Masc	19	comp:obj	_	_
 21	nair̃àː	nair̃àː	NOUN	_	Gender=Masc	20	mod	_	_
 22	miliyàn	miliyàn	NOUN	_	Definite=Cons|Number=Plur	21	mod:num	_	_
-23	bìlaː	bìlaː	NOUN	_	Definite=Ind	22	mod	_	_
-24	adàdin	adàdin	SCONJ	_	_	23	mod	_	_
+23	bìlaː	bìlaː	ADP	_	Definite=Ind	22	mod	_	_
+24	adàdin	adàdin	NOUN	_	_	23	comp:obj	_	_
 25	ba	ba	PART	_	Polarity=Neg	19	mod	_	_
 26	ta	na/ta	ADP	_	Case=Gen|Gender=Fem	19	mod	_	_
 27	hanyàr̃	hanyàr̃	NOUN	_	Gender=Fem	26	comp:obj	_	_
@@ -453,7 +455,7 @@
 30	dà	dà	CCONJ	_	_	33	cc	_	_
 31	kuma	kuma	PART	_	_	30	discourse@top	_	_
 32	duk	dukà	DET	_	_	33	det	_	_
-33	sauran	sauran	NOUN	_	_	19	conj:coord	_	_
+33	sauran	sauran	NOUN	_	_	16	conj:coord	_	_
 34	laifuffukàn	laifuffukàː	NOUN	_	Definite=Cons|Gender=Masc	33	mod	_	_
 35	dà	dà	SCONJ	_	_	34	mod@relcl	_	_
 36	akèː	nàː	AUX	_	Aspect=Prog|Person=4	35	comp:obj	_	_
@@ -462,8 +464,8 @@
 39	aikàtaː	aiant-	VERB	_	_	38	comp:aux	_	SpaceAfter=No
 40	.	.	PUNCT	_	_	13	punct	_	_
 
-# sent_id = Umaru_Dikko__15
-# text = Ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà, yanà mài cêwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː.
+# sent_id = Umaru_Dikko__15_split1
+# text = ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà ,
 # text_ortho = Ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà, yanà mài cêwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː.
 1	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 2	cèː	cêː	VERB	_	_	1	comp:aux	_	_
@@ -481,25 +483,29 @@
 14	à	à	ADP	_	_	7	mod	_	_
 15	nân	nân	ADV	_	PronType=Dem	14	comp:obj	_	_
 16	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	15	mod	_	SpaceAfter=No
-17	,	,	PUNCT	_	_	18	punct	_	_
-18	yanà	nà	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	_
-19	mài	mài	PART	_	Gender=Masc	18	comp:pred	_	_
-20	cêwaː	cê	VERB	_	ExtPos=NOUN|Gender=Fem	19	comp:obj	_	_
-21	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	20	comp:obj	_	_
-22	kasànceː	kasant-	VERB	_	_	21	comp:aux	_	_
-23	cikin	cikin	ADP	_	_	22	comp:obl	_	_
-24	wani	wani	DET	_	Definite=Spec|Gender=Masc	26	det	_	_
-25	mùmmuːnan	mùmmuːnan	NOUN	_	Definite=Cons|Number=Plur	23	comp:obj	_	_
-26	haɗàr̃iː	haɗàr̃iː	NOUN	_	Gender=Masc	25	mod	_	_
-27	ìdan	ìdan	SCONJ	_	_	21	mod	_	_
-28	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	27	comp:obj	_	_
-29	koːmàː	koːm-	VERB	_	_	28	comp:aux	_	_
-30	gidaː	gidaː	NOUN	_	Gender=Masc	29	comp:obj@G	_	_
-31	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	30	mod	_	SpaceAfter=No
-32	.	.	PUNCT	_	_	18	punct	_	_
+17	,	,	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Umaru_Dikko__15_split2
+# text = yanà mài cêwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː .
+# text_ortho = Ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà, yanà mài cêwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː.
+1	yanà	nà	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	_
+2	mài	mài	PART	_	Gender=Masc	1	comp:pred	_	_
+3	cêwaː	cê	VERB	_	ExtPos=NOUN|Gender=Fem	2	comp:obj	_	_
+4	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	3	comp:obj	_	_
+5	kasànceː	kasant-	VERB	_	_	4	comp:aux	_	_
+6	cikin	cikin	ADP	_	_	5	comp:obl	_	_
+7	wani	wani	DET	_	Definite=Spec|Gender=Masc	9	det	_	_
+8	mùmmuːnan	mùmmuːnan	NOUN	_	Definite=Cons|Number=Plur	6	comp:obj	_	_
+9	haɗàr̃iː	haɗàr̃iː	NOUN	_	Gender=Masc	8	mod	_	_
+10	ìdan	ìdan	SCONJ	_	_	4	mod	_	_
+11	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	10	comp:obj	_	_
+12	koːmàː	koːm-	VERB	_	_	11	comp:aux	_	_
+13	gidaː	gidaː	NOUN	_	Gender=Masc	12	comp:obj@G	_	_
+14	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	13	mod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = Umaru_Dikko__16
-# text = à wàncan loːkàcîn dà ya kai ƙaːrar̃ neːman à baː shì mafakaː à nân Bìr̃tàniyà, Ùːmar̃ù Dikkò cêwaː ya yi, ‘ in dàː zân koːmàː Nàjeːr̃iyàː, jàmaꞌàː zaː'à taːràː sù yi kallon loːkàcîn dà zaː'à sâː soːjà sù bindìgeː ni. '
+# text = à wàncan loːkàcîn dà ya kai ƙaːrar̃ neːman à baː shì mafakaː à nân Bìr̃tàniyà, Ùːmar̃ù Dikkò cêwaː ya yi, " in dàː zân koːmàː Nàjeːr̃iyàː, jàmaꞌàː zaː'à taːràː sù yi kallon loːkàcîn dà zaː'à sâː soːjà sù bindìgeː ni. " .
 # text_ortho = À wàncan loːkàcîn dà ya kai ƙaːrar̃ neːman à baː shì mafakaː à nân Bìr̃tàniyà, Ùːmar̃ù Dikkò cêwaː ya yi, ‘In dàː zân koːmàː Nàjeːr̃iyàː, jàmaꞌàː zaː à taːràː sù yi kallon loːkàcîn dà zaː à sâː soːjà sù bindìgeː ni.’
 1	à	à	ADP	_	_	19	mod	_	_
 2	wàncan	wàncan	DET	_	Gender=Masc|PronType=Dem	3	det	_	_
@@ -523,7 +529,7 @@
 20	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	19	comp:cleft	_	_
 21	yi	yi	VERB	_	_	20	comp:aux	_	SpaceAfter=No
 22	,	,	PUNCT	_	_	30	punct	_	_
-23	‘	‘	PUNCT	_	_	30	punct	_	_
+23	"	"	PUNCT	_	_	30	punct	_	_
 24	in	in	SCONJ	_	_	30	mod	_	_
 25	dàː	dàː	SCONJ	_	_	24	unk	_	_
 26	zân	zâi	AUX	_	Number=Sing|Person=1|Tense=Fut	24	comp:obj	_	_
@@ -545,7 +551,8 @@
 42	bindìgeː	bindì	VERB	_	_	41	comp:aux	_	_
 43	ni	ni	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	42	comp:obj	_	SpaceAfter=No
 44	.	.	PUNCT	_	_	30	punct	_	_
-45	'	'	PUNCT	_	_	30	punct	_	_
+45	"	"	PUNCT	_	_	30	punct	_	_
+46	.	.	PUNCT	_	_	19	punct	_	_
 
 # sent_id = Umaru_Dikko__17
 # text = tòː àmmaː duk dà hakà, àkwai waɗàndà kèː ganin cêwaː bàː wannàn dàliːlìː neː ya sâː yakèː sôn yà yi zamansà à nân Bìr̃taːniyà ba.
@@ -617,7 +624,7 @@
 34	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = Umaru_Dikko__19
-# text = hakà nan à bàːr̃a ɗîn wani lauyàː na maꞌaikatar̃ har̃koːkin cikin gidan Bìr̃taːniyà yaː gayàː wà Ùːmar̃ù Dikkò cêwaː, " inàː jîn dai kaː tseːroː dàgà Nàjeːr̃iyàː neː bà wai don kanàː tsòːron zaː'à ƙuntàtaː makà ba, sai don kanàː tsòːron zaː'à gur̃faːnar̃ dà kai à gàban shàr̃iꞌàː kawài. "
+# text = hakà nan à bàːr̃a ɗîn wani lauyàː na maꞌaikatar̃ har̃koːkin cikin gidan Bìr̃taːniyà yaː gayàː wà Ùːmar̃ù Dikkò cêwaː, " inàː jîn dai kaː tseːroː dàgà Nàjeːr̃iyàː neː bà wai don kanàː tsòːron zaː'à ƙuntàtaː makà ba, sai don kanàː tsòːron zaː'à gur̃faːnar̃ dà kai à gàban shàr̃iꞌàː kawài. " .
 # text_ortho = Hakà nan à bàːr̃a ɗîn wani lauyàː na Maꞌaikatar̃ Har̃koːkin Cikin Gidan Bìr̃taːniyà yaː gayàː wà Ùːmar̃ù Dikkò cêwaː, ‘Inàː jîn dai kaː tseːroː dàgà Nàjeːr̃iyàː neː bà wai don kanàː tsòːron zaː à ƙuntàtaː makà ba, sai don kanàː tsòːron zaː à gur̃faːnar̃ dà kai à gàban shàr̃iꞌàː kawài.’
 1	hakà	hakà	ADV	_	_	14	mod	_	_
 2	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	det	_	_
@@ -672,4 +679,5 @@
 51	kawài	kawài	ADV	_	_	50	mod	_	SpaceAfter=No
 52	.	.	PUNCT	_	_	22	punct	_	_
 53	"	"	PUNCT	_	_	22	punct	_	_
+54	.	.	PUNCT	_	_	14	punct	_	_
 
