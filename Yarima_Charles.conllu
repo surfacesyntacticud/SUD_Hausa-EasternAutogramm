@@ -138,41 +138,41 @@
 29	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = Yarima_Charles__5
-# text = Gidân nàː gab dà bàːkin tèːku kuma har̃ yànzu yanàː dà bạn shàꞌawàː da haskàkâːwaː duk dà gyàːre-gyàːren zaːmàniː dà akà yi masà loːkàcîn dà Nàːjeːr̃iyàː takèː cìke dà ar̃zìkin mân feːtùr̃.
+# text = gidân nàː gab dà bàːkin tèːku kuma har̃ yànzu yanàː dà ban shàꞌawàː da haskàkâːwaː duk dà gyàːre-gyàːren zaːmàniː dà akà yi masà loːkàcîn dà Nàːjeːr̃iyàː takèː cìke dà ar̃zìkin mân feːtùr̃.
 # text_ortho = Gidân nàː gab dà bàːkin tèːku kuma har̃ yànzu yanàː dà ban shàꞌawàː da haskàkâːwaː duk dà gyàːre-gyàːren zaːmàniː dà akà yi masà loːkàcîn dà Nàːjeːr̃iyàː takèː cìke dà ar̃zìkin mân feːtùr̃.
-1	gidân	gidaː	NOUN	_	Definite=Def	10	subj	_	_
-2	nàː	neː	PART	_	_	1	discourse@foc	_	_
-3	gab	gab	ADP	_	_	10	comp:pred	_	_
+1	gidân	gidaː	NOUN	_	Definite=Def	2	subj	_	_
+2	nàː	neː	AUX	_	_	0	root	_	_
+3	gab	gab	ADP	_	_	2	comp:pred	_	_
 4	dà	dà	ADP	_	_	3	comp:obj	_	_
 5	bàːkin	bàːkin	ADP	_	Definite=Cons|Gender=Masc	3	comp:obj	_	_
 6	tèːku	tèːku	PRON	_	Gender=Masc|Number=Plur	5	mod	_	_
-7	kuma	kuma	PART	_	_	5	discourse@top	_	_
-8	har̃	hat	SCONJ	_	_	3	mod	_	_
+7	kuma	kuma	CCONJ	_	_	10	cc	_	_
+8	har̃	har̃	ADP	_	_	10	mod	_	_
 9	yànzu	yànzu	ADV	_	_	8	comp:obj	_	_
-10	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	_
+10	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	2	conj:coord	_	_
 11	dà	dà	ADP	_	_	10	comp:pred	_	_
 12	ban	ban	VERB	_	ExtPos=NOUN|Gender=Masc	11	comp:obj	_	_
 13	shàꞌawàː	shàꞌawàː	NOUN	_	Gender=Fem	12	comp:aux	_	_
 14	da	da	PART	_	_	13	mod	_	_
 15	haskàkâːwaː	haskàk-	VERB	_	Number=Plur	14	comp:obj	_	_
-16	duk	dukà	DET	_	_	18	det	_	_
-17	dà	dà	CCONJ	_	_	18	cc	_	_
-18	gyàːre-gyàːren	gyàːre-gyàːreː	NOUN	_	Definite=Cons|Number=Plur	15	conj:coord	_	_
+16	duk	dukà	DET	_	_	12	mod	_	_
+17	dà	dà	CCONJ	_	_	16	compound	_	_
+18	gyàːre-gyàːren	gyàːre-gyàːreː	NOUN	_	Definite=Cons|Number=Plur	16	comp:obj	_	_
 19	zaːmàniː	zaːmàniː	NOUN	_	Gender=Masc	18	mod	_	_
-20	dà	dà	SCONJ	_	_	26	mod@relcl	_	_
+20	dà	dà	SCONJ	_	_	18	mod@relcl	_	_
 21	akà	nàː	AUX	_	Aspect=Prog|Person=4	20	comp:obj	_	_
 22	yi	yi	VERB	_	_	21	comp:aux	_	_
 23	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	22	comp:obl	_	_
-24	loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	22	comp:pred	_	_
+24	loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	22	mod	_	_
 25	dà	dà	SCONJ	_	_	24	comp:obl	_	_
-26	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	18	conj:coord	_	_
-27	takèː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	21	parataxis@conj	_	_
+26	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	27	subj	_	_
+27	takèː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	25	comp:obj	_	_
 28	cìke	cik-	VERB	_	_	27	comp:aux	_	_
 29	dà	dà	CCONJ	_	_	28	comp:obl	_	_
-30	ar̃zìkin	ar̃zìkiː	NOUN	_	Definite=Cons|Gender=Masc	26	conj:coord	_	_
+30	ar̃zìkin	ar̃zìkiː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	_
 31	mân	mâi	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	_
-32	feːtùr̃	feːtùr̃	X	_	_	31	mod	_	SpaceAfter=No
-33	.	.	PUNCT	_	_	10	punct	_	_
+32	feːtùr̃	feːtùr̃	NOUN	_	_	31	mod	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = Yarima_Charles__6
 # text = Tòː àmmaː bàː dukkàn abuːbuwàn jîn daːɗin ràːyuwaː dà kèː cikin gidân kèː aikìː kàmar̃ yaddà ya kàmaːtà ba.
@@ -486,17 +486,17 @@
 # text_ortho = hakà maː màcìːzai, dà ƙanaːnàn gàdaː, kâi har̃ maː dà giːwàːyē.
 1	hakà	hakà	ADV	_	_	0	root	_	_
 2	maː	maː	PART	_	_	1	discourse@top	_	_
-3	màcìːzai	màcìːzai	NOUN	_	Definite=Ind|Gender=Masc	1	comp:obj	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	6	punct	_	_
-5	dà	dà	CCONJ	_	_	3	cc	_	_
-6	ƙanaːnàn	ƙanaːnàː	NOUN	_	Definite=Cons|Number=Plur	3	mod	_	_
-7	gàdaː	gàdaː	NOUN	_	Definite=Ind|Gender=Fem	6	mod	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	10	punct	_	_
-9	kâi	kâi	NOUN	_	Definite=Ind|Gender=Masc	10	mod	_	_
-10	har̃	har̃	ADP	_	_	1	mod	_	_
+3	màcìːzai	màcìːzai	NOUN	_	Definite=Ind|Gender=Masc	1	comp:cleft	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	dà	dà	CCONJ	_	_	7	cc	_	_
+6	ƙanaːnàn	ƙanaːnàː	ADJ	_	Definite=Cons|Number=Plur	7	mod	_	_
+7	gàdaː	gàdaː	NOUN	_	Definite=Ind|Gender=Fem	3	conj:coord	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	13	punct	_	_
+9	kâi	kâi	INTJ	_	Definite=Ind|Gender=Masc	13	discourse	_	_
+10	har̃	har̃	ADP	_	_	13	cc	_	_
 11	maː	maː	PART	_	_	10	discourse@top	_	_
-12	dà	dà	CCONJ	_	_	13	cc	_	_
-13	giːwàːyē	giːwàːyē	NOUN	_	Definite=Ind|Gender=Masc	10	comp:obj	_	SpaceAfter=No
+12	dà	dà	ADP	_	_	10	compound	_	_
+13	giːwàːyē	giːwàːyē	NOUN	_	Definite=Ind|Gender=Masc	7	conj:coord	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = Yarima_Charles__18

@@ -89,9 +89,9 @@
 13	dà	dà	ADP	_	_	11	comp:pred	_	_
 14	kyâu	kyâu	AUX	_	Definite=Ind|Gender=Masc	13	comp:obj	_	_
 15	sòːsai	sòːsai	ADV	_	_	13	comp:obj	_	SpaceAfter=No
-16	,	,	PUNCT	_	_	17	punct	_	_
-17	har̃	har̃	SCONJ	_	_	11	mod	_	_
-18	baː	baː	PART	_	Polarity=Neg	17	comp:obj	_	_
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	har̃	har̃	CCONJ	_	_	18	cc	_	_
+18	baː	baː	PART	_	Polarity=Neg	11	conj:coord	_	_
 19	kàː	kàa	PRON	_	Case=Acc|Gender=Masc|Person=2|PronType=Prs	18	comp:obj@R	_	_
 20	iyà	iyàː	VERB	_	_	18	comp:aux	_	_
 21	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	20	comp:obj	_	_
@@ -474,9 +474,9 @@
 6	gyaːrà	gya	VERB	_	_	5	comp:aux	_	_
 7	hanyoːyin	hanyoːyiː	NOUN	_	Definite=Cons|Number=Plur	6	comp:obj	_	_
 8	saːdâr̃waː	saːdâr̃waː	VERB	_	Number=Plur	7	mod	_	_
-9	tsàkaːninsù	tsàkaːnin	NOUN	_	Case=Gen|Number=Plur|Person=3	12	mod	_	_
-10	har̃	har̃	SCONJ	_	_	6	mod	_	_
-11	anàː	nàː	AUX	_	Aspect=Prog|Person=4	10	comp:obj	_	_
+9	tsàkaːninsù	tsàkaːnin	NOUN	_	Case=Gen|Number=Plur|Person=3	8	mod	_	_
+10	har̃	har̃	CCONJ	_	_	11	cc	_	_
+11	anàː	nàː	AUX	_	Aspect=Prog|Person=4	5	conj:coord	_	_
 12	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc	11	comp:aux	_	_
 13	râi	râi	NOUN	_	Gender=Masc	12	comp:obj	_	_
 14	nân	nân	ADV	_	PronType=Dem	12	mod	_	_

@@ -184,14 +184,14 @@
 # text_ortho = Manufoːfin sìyaːsàː irìn na Tàːrayyàr̃ Nàːjeːr̃iyàː kuma bà sù yàr̃da Nàːjeːr̃iyàː tà yi hulɗàː dà wata ƙasaː koː ƙungìyaː mài nasabàː dà Afir̃kà ta Kudù ba.
 1	manufoːfin	manufoːfiː	NOUN	_	Definite=Cons|Gender=Masc	8	dislocated@subj	_	_
 2	sìyaːsàː	sìyaːsàː	NOUN	_	Gender=Fem	1	mod	_	_
-3	irìn	irìn	ADP	_	_	9	mod	_	_
-4	na	na	ADP	_	_	2	mod	_	_
+3	irìn	irìn	ADP	_	_	1	mod	_	_
+4	na	na	ADP	_	_	3	mod	_	_
 5	tàːrayyàr̃	tàːrayyàr̃	NOUN	_	Definite=Cons|Gender=Fem	4	comp:obj	_	_
-6	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	3	conj:appos	_	_
-7	kuma	kuma	PART	_	_	6	discourse@top	_	_
+6	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	5	conj:appos	_	_
+7	kuma	kuma	PART	_	_	1	discourse@top	_	_
 8	bàsù	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Polarity=Neg	0	root	_	_
 9	yàr̃da	yàr̃da	VERB	_	_	8	comp:aux	_	_
-10	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	9	comp:obj	_	_
+10	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	11	subj	_	_
 11	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	9	comp:obj	_	_
 12	yi	yi	VERB	_	_	11	comp:aux	_	_
 13	hulɗàː	hulɗàː	NOUN	_	Gender=Fem	12	comp:pred	_	_
@@ -199,18 +199,18 @@
 15	wata	wata	DET	_	Gender=Fem	16	det	_	_
 16	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	14	comp:obj	_	_
 17	koː	koː	CCONJ	_	_	18	cc	_	_
-18	ƙungìyaː	ƙungìyaː	NOUN	_	Gender=Fem	13	conj:coord	_	_
+18	ƙungìyaː	ƙungìyaː	NOUN	_	Gender=Fem	16	conj:coord	_	_
 19	mài	mài	PART	_	Number=Sing	18	mod	_	_
 20	nasabàː	nasabàː	NOUN	_	Gender=Fem	19	comp:obj	_	_
-21	dà	dà	ADP	_	_	18	comp:obl	_	_
+21	dà	dà	ADP	_	_	20	comp:obl	_	_
 22	Afir̃kà	Afir̃kà	PROPN	_	_	21	comp:obj	_	_
 23	ta	na	ADP	_	_	22	mod	_	_
 24	Kudù	Kudù	PROPN	_	_	23	comp:obj	_	_
-25	ba	ba	PART	_	Polarity=Neg	18	mod	_	SpaceAfter=No
+25	ba	ba	PART	_	Polarity=Neg	9	mod	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = Wasanni_a_Afirka__7
-# text = Tô, àbîn dà ya kaːwoː rùːɗaːnîn shiː nèː shùːgàban Hùkuːmàr̃ Dambe ta Nàːjeːr̃iyàː, 'Chief Ralph Ogunbufunmi', shiː nèː ya baː dà sanâr̃waː cêːwaː Lasisi bàː zâi jeː wàːsân ba, har̃ ya cèː sun tattàunà hakàn dà Ministàn Wàːsànniː na Nàːjeːr̃iyàː.
+# text = tô, àbîn dà ya kaːwoː rùːɗaːnîn shiː nèː shùːgàban hùkuːmàr̃ dambe ta Nàːjeːr̃iyàː, " Chief Ralph Ogunbufunmi ", shiː nèː ya baː dà sanâr̃waː cêːwaː Lasisi bàː zâi jeː wàːsân ba, har̃ ya cèː sun tattàunà hakàn dà ministàn wàːsànniː na Nàːjeːr̃iyàː.
 # text_ortho = Tô, àbîn dà ya kaːwoː rùːɗaːnîn shiː nèː shùːgàban Hùkuːmàr̃ Dambe ta Nàːjeːr̃iyàː, 'Chief Ralph Ogunbufunmi', shiː nèː ya baː dà sanâr̃waː cêːwaː Lasisi bàː zâi jeː wàːsân ba, har̃ ya cèː sun tattàunà hakàn dà Ministàn Wàːsànniː na Nàːjeːr̃iyàː.
 1	tô	tô	INTJ	_	_	9	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
@@ -221,20 +221,20 @@
 7	rùːɗaːnîn	rùːɗaːniː	NOUN	_	Definite=Def|Number=Plur	6	comp:obj	_	_
 8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	_
 9	nèː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	_
-10	shùːgàban	shùːgàban	ADP	_	Definite=Cons	9	dislocated@comp	_	_
+10	shùːgàban	shùːgàban	ADP	_	Definite=Cons	22	dislocated@top	_	_
 11	hùkuːmàr̃	hùkuːmàr̃	NOUN	_	Definite=Ind|Gender=Masc	10	mod	_	_
 12	dambe	dambe	ADP	_	_	11	mod	_	_
 13	ta	ta	ADP	_	_	11	mod	_	_
 14	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	13	comp:obj	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	17	punct	_	_
-16	'	'	PUNCT	_	_	17	punct	_	_
+16	"	"	PUNCT	_	_	17	punct	_	_
 17	Chief	chief	PROPN	_	_	10	conj:appos	_	_
 18	Ralph	Ralph	PROPN	_	_	17	flat@name	_	_
 19	Ogunbufunmi	Ogunbufunmi	PROPN	_	Definite=Cons|Number=Plur	18	flat@name	_	_
-20	'	'	PUNCT	_	_	17	punct	_	SpaceAfter=No
-21	,	,	PUNCT	_	_	9	punct	_	_
-22	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	_
-23	nèː	neː	AUX	_	Gender=Masc|Number=Plur	22	discourse@foc	_	_
+20	"	"	PUNCT	_	_	17	punct	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	dislocated@comp	_	_
+23	nèː	neː	PART	_	Gender=Masc|PartType=Foc	22	discourse@foc	_	_
 24	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	22	comp:cleft	_	_
 25	baː	baː	VERB	_	_	24	comp:aux	_	_
 26	dà	dà	ADP	_	_	25	comp:obl	_	_
@@ -248,7 +248,7 @@
 34	ba	ba	PART	_	Polarity=Neg	32	mod	_	SpaceAfter=No
 35	,	,	PUNCT	_	_	37	punct	_	_
 36	har̃	har̃	CCONJ	_	_	37	cc	_	_
-37	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	24	conj:coord	_	_
+37	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	25	conj:coord	_	_
 38	cèː	cêː	VERB	_	_	37	comp:aux	_	_
 39	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	38	comp:obj	_	_
 40	tattàunà	tattà	VERB	_	Case=Gen|Number=Sing|Person=1	39	comp:aux	_	_
@@ -402,7 +402,7 @@
 15	à	à	ADP	_	_	13	comp:obl	_	_
 16	bàtûn	bàtûn	NOUN	_	Definite=Def|Gender=Masc	15	comp:obj	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	21	punct	_	_
-18	har̃	har̃	SCONJ	_	_	12	mod	_	_
+18	har̃	har̃	CCONJ	_	_	30	cc	_	_
 19	maː	maː	PART	_	_	18	discourse@top	_	_
 20	wata	wata	DET	_	Gender=Fem	21	det	_	_
 21	jàr̃iːdàː	jàr̃iːdàː	NOUN	_	Gender=Fem	30	subj	_	_
@@ -414,7 +414,7 @@
 27	'Sunday	'sunday	PUNCT	_	_	26	punct	_	_
 28	Concord	Concord	PROPN	_	_	27	flat@name	_	_
 29	'	'	PUNCT	_	_	22	punct	_	_
-30	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	13	comp:obj	_	_
+30	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	12	conj:coord	_	_
 31	r̃ubùːtà	r̃ubùːt-	VERB	_	ExtPos=NOUN|Gender=Fem	37	comp:aux	_	_
 32	shar̃hìː	shar̃hìː	NOUN	_	Gender=Masc	31	comp:obj	_	_
 33	à	à	ADP	_	_	31	comp:obl	_	_
