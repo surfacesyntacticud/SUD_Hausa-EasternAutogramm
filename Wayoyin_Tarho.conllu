@@ -1,15 +1,15 @@
 # sent_id = Wayoyin_Tarho__1
 # text = Waːyoːyin tàr̃hôː à Afìr̃kà - bàbban cîː gàba ?
 # text_ortho = Waːyoːyin tàr̃hôː à Afìr̃kà - bàbban cîː gàba ?
-1	waːyoːyin	waːyoːyin	DET	_	Number=Plur|PronType=Dem	2	det	_	_
-2	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	0	root	_	_
-3	à	à	ADP	_	_	2	comp:obl	_	_
+1	waːyoːyin	waːyoːyin	NOUN	_	Number=Plur|PronType=Dem	0	root	_	_
+2	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	1	mod	_	_
+3	à	à	ADP	_	_	1	mod	_	_
 4	Afìr̃kà	Afìr̃kà	PROPN	_	_	3	comp:obj	_	_
-5	-	-	PUNCT	_	_	2	punct	_	_
-6	bàbban	bàbbaː	NOUN	_	Definite=Cons	2	mod	_	_
-7	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	mod	_	_
+5	-	-	PUNCT	_	_	7	punct	_	_
+6	bàbban	bàbbaː	ADJ	_	Definite=Cons	7	mod	_	_
+7	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	mod	_	_
 8	gàba	gàba	ADV	_	_	7	mod	_	_
-9	?	?	PUNCT	_	_	2	punct	_	_
+9	?	?	PUNCT	_	_	1	punct	_	_
 
 # sent_id = Wayoyin_Tarho__2
 # text = Kullum ìdan gidan r̃eːdiyòn 'BBC' zâi gabaːtar̃ dà shìrye-shìryensà gà ƙasàːshen Afìr̃kà, doːlè yà yi àmfàːniː dà wayàr̃ tàr̃hôː.
@@ -19,7 +19,7 @@
 3	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj	_	_
 4	r̃eːdiyòn	r̃eːdiyòː	NOUN	_	Definite=Cons|Gender=Masc	3	mod	_	_
 5	"	"	PUNCT	_	_	6	punct	_	_
-6	BBC	BBC	PROPN	_	Definite=Cons|Number=Plur	4	mod	_	wordform='BBC
+6	BBC	BBC	PROPN	_	Definite=Cons|Number=Plur	3	mod	_	wordform='BBC
 7	"	"	PUNCT	_	_	6	punct	_	wordform='
 8	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	2	comp:obj	_	_
 9	gabaːtar̃	gabaːtar̃	NOUN	_	Gender=Fem	8	comp:aux	_	_
@@ -41,62 +41,62 @@
 # sent_id = Wayoyin_Tarho__3
 # text = Wani loːkàciː àbîn yanàː dà ban haushiː, sabòːdà irìn wàhalàr̃ dà akàn saːmùː kàːfìn à bugà wayàː zuwàː ƙasàːshen Afìr̃kà, mùsammàn maː ƙasàːsheː kàmar̃ Zàyâr dà Sudân.
 # text_ortho = Wani loːkàciː àbîn yanàː dà ban haushiː, sabòːdà irìn wàhalàr̃ dà akàn saːmùː kàːfìn à bugà wayàː zuwàː ƙasàːshen Afìr̃kà, mùsammàn maː ƙasàːsheː kàmar̃ Zàyâr dà Sudân.
-1	wani	wani	DET	_	Definite=Spec|Gender=Masc	3	det	_	_
+1	wani	wani	DET	_	Definite=Spec|Gender=Masc	2	det	_	_
 2	loːkàciː	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	4	mod	_	_
 3	àbîn	àbiː	NOUN	_	Definite=Cons|Gender=Masc	4	subj	_	_
 4	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	_
 5	dà	dà	ADP	_	_	4	comp:pred	_	_
 6	ban	baː	VERB	_	ExtPos=NOUN|Gender=Masc	5	comp:obj	_	_
 7	haushiː	haushiː	NOUN	_	Definite=Ind|Gender=Masc	6	comp:obj	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	10	punct	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
 9	sabòːdà	sabòːdà	SCONJ	_	_	4	discourse	_	_
 10	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	9	comp:obj	_	_
 11	wàhalàr̃	wàhalàr̃	NOUN	_	Definite=Ind|Gender=Fem	10	mod	_	_
-12	dà	dà	SCONJ	_	_	10	mod@relcl	_	_
+12	dà	dà	SCONJ	_	_	11	mod@relcl	_	_
 13	akàn	nànː	AUX	_	Aspect=Prog|Person=4	12	comp:obj	_	_
 14	saːmùː	saːm-	VERB	_	_	13	comp:aux	_	_
-15	kàːfìn	kàːfiː	NOUN	_	Definite=Def|Gender=Masc	14	comp:obj	_	_
-16	à	yà	AUX	_	Mood=Sub|Person=4	9	comp:obj	_	_
+15	kàːfìn	kàːfiː	SCONJ	_	Definite=Def|Gender=Masc	14	mod	_	_
+16	à	yà	AUX	_	Mood=Sub|Person=4	15	comp:obj	_	_
 17	bugà	bug-	VERB	_	_	16	comp:aux	_	_
 18	wayàː	wayàː	NOUN	_	Gender=Masc	17	comp:obj	_	_
-19	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc	18	comp:obl	_	_
+19	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc	17	comp:obl	_	_
 20	ƙasàːshen	ƙasàːshen	ADJ	_	Definite=Cons|Number=Plur	19	comp:obj	_	_
 21	Afìr̃kà	Afìr̃kà	PROPN	_	_	20	mod	_	SpaceAfter=No
-22	,	,	PUNCT	_	_	23	punct	_	_
-23	mùsammàn	mùsammà	NOUN	_	Definite=Cons|Gender=Masc	16	parataxis@conj	_	_
+22	,	,	PUNCT	_	_	25	punct	_	_
+23	mùsammàn	mùsammà	CCONJ	_	Definite=Cons|Gender=Masc	25	cc	_	_
 24	maː	maː	PART	_	_	23	discourse@top	_	_
-25	ƙasàːsheː	ƙasàːsheː	NOUN	_	Gender=Masc	23	mod	_	_
+25	ƙasàːsheː	ƙasàːsheː	NOUN	_	Gender=Masc	20	conj:coord	_	_
 26	kàmar̃	kàmar̃	ADP	_	_	25	mod	_	_
-27	Zàyâr	Zàyâr	PROPN	_	_	25	conj:appos	_	_
+27	Zàyâr	Zàyâr	PROPN	_	_	26	comp:obj	_	_
 28	dà	dà	CCONJ	_	_	29	cc	_	_
 29	Sudân	Sudân	PROPN	_	_	27	conj:coord	_	SpaceAfter=No
 30	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = Wayoyin_Tarho__4
-# text = Wani loːkàciː kuma koː kaː sàːmi laːyìː sai kà ga bâː shi dà kyâu sòːsai, har̃ baː kàː iyà jîn àbîn dà akèː fàɗaː.
+# text = wani loːkàciː kuma koː kaː sàːmi laːyìː sai kà ga bâː shi dà kyâu sòːsai, har̃ baː baːkàː iyà jîn àbîn dà akèː fàɗaː.
 # text_ortho = Wani loːkàciː kuma koː kaː sàːmi laːyìː sai kà ga bâː shi dà kyâu sòːsai, har̃ baː kàː iyà jîn àbîn dà akèː fàɗaː.
 1	wani	wani	DET	_	Definite=Spec|Gender=Masc	2	det	_	_
 2	loːkàciː	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	9	mod	_	_
 3	kuma	kuma	PART	_	_	2	discourse@top	_	_
-4	koː	koː	SCONJ	_	_	2	mod@relcl	_	_
+4	koː	koː	SCONJ	_	_	9	mod	_	_
 5	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	4	comp:obj	_	_
 6	sàːmi	saːm-	VERB	_	_	5	comp:aux	_	_
 7	laːyìː	laːyìː	NOUN	_	Definite=Ind|Gender=Masc	6	comp:obj	_	_
 8	sai	sai	ADV	_	_	9	mod	_	_
 9	kà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=2	0	root	_	_
 10	ga	gan-	VERB	_	_	9	comp:aux	_	_
-11	bâː	baːbù	AUX	_	Polarity=Neg	10	comp:obj	_	_
+11	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	10	comp:obj	_	_
 12	shi	shi	PRON	_	Gender=Masc|Person=3	11	subj	_	_
 13	dà	dà	ADP	_	_	11	comp:pred	_	_
 14	kyâu	kyâu	AUX	_	Definite=Ind|Gender=Masc	13	comp:obj	_	_
-15	sòːsai	sòːsai	ADV	_	_	13	comp:obj	_	SpaceAfter=No
-16	,	,	PUNCT	_	_	18	punct	_	_
-17	har̃	har̃	CCONJ	_	_	18	cc	_	_
-18	baː	baː	PART	_	Polarity=Neg	11	conj:coord	_	_
-19	kàː	kàa	PRON	_	Case=Acc|Gender=Masc|Person=2|PronType=Prs	18	comp:obj@R	_	_
-20	iyà	iyàː	VERB	_	_	18	comp:aux	_	_
+15	sòːsai	sòːsai	ADV	_	_	14	mod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	har̃	har̃	CCONJ	_	_	19	cc	_	_
+18	baː	baː	PART	_	Polarity=Neg	19	mod	_	_
+19	baːkàː	yaː	PRON	_	Case=Acc|Gender=Masc|Person=2|Polarity=Neg	11	conj:coord	_	_
+20	iyà	iyàː	VERB	_	_	19	comp:aux	_	_
 21	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	20	comp:obj	_	_
-22	àbîn	àbî	NOUN	_	Definite=Cons|Gender=Masc	21	udep	_	_
+22	àbîn	àbî	NOUN	_	Definite=Cons|Gender=Masc	21	comp:obj	_	_
 23	dà	dà	SCONJ	_	_	22	mod@relcl	_	_
 24	akèː	nàː	AUX	_	Aspect=Prog|Person=4	23	comp:obj	_	_
 25	fàɗaː	fàɗaː	VERB	_	_	24	comp:aux	_	SpaceAfter=No
@@ -409,7 +409,7 @@
 15	baː	baː	PART	_	Polarity=Neg	10	comp:aux	_	_
 16	àː	àː	INTJ	_	_	17	discourse	_	_
 17	jîn	jîː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	15	subj	_	_
-18	màganàr̃	màganàr̃	NOUN	_	Definite=Ind|Gender=Fem	17	udep	_	_
+18	màganàr̃	màganàr̃	NOUN	_	Definite=Ind|Gender=Fem	17	comp:obj	_	_
 19	sòːsai	sòːsai	ADV	_	_	18	mod	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	10	punct	_	_
 
@@ -422,7 +422,7 @@
 4	nèː	neː	PART	_	_	6	discourse@foc	_	_
 5	sabòːdà	sabòːdà	SCONJ	_	_	2	discourse	_	_
 6	zaman	zamn-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	subj	_	_
-7	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	6	udep	_	_
+7	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	6	mod	_	_
 8	màllakàr̃	màllakàr̃	NOUN	_	Definite=Ind|Gender=Fem	7	mod	_	_
 9	dà	dà	ADP	_	_	7	mod@relcl	_	_
 10	ƙasàːshen	ƙasàːshen	NOUN	_	Definite=Cons|Number=Plur	7	mod	_	_
