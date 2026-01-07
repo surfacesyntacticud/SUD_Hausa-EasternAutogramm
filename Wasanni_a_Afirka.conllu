@@ -139,7 +139,7 @@
 # text_ortho = Hùkuːmàr̃ Dambe ta Nàːjeːr̃iyàː baː tàː sôː tà ƙyaːlè Lasisi yà yi wàːsân sabòːdà ita Ƙungìyar̃ Dambe ta Duːniyàː taː amìnceː dà ƙasar̃ Afir̃kà ta Kudù, wàːtòː indà gwamnatìn kèː nũnà waːriyar̃ launìn faːtàː, kuma tanàː hulɗàː dà ita.
 1	hùkuːmàr̃	hùkuːmàr̃	NOUN	_	_	5	mod	_	_
 2	dambe	dambe	NOUN	_	_	1	mod	_	_
-3	ta	na/ta	ADP	_	_	1	mod	_	_
+3	ta	na	ADP	_	_	1	mod	_	_
 4	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	3	comp:obj	_	_
 5	baːtàː	yaː	AUX	_	Case=Acc|Gender=Fem|Person=3|Polarity=Neg	0	root	_	_
 6	sôː	soː	VERB	_	ExtPos=NOUN|Gender=Masc	5	comp:aux	_	_
@@ -160,7 +160,7 @@
 21	dà	dà	ADP	_	_	20	comp:obl	_	_
 22	ƙasar̃	ƙasar̃	ADJ	_	Definite=Cons|Gender=Fem	21	comp:obj	_	_
 23	Afir̃kà	Afir̃kà	PROPN	_	_	22	conj:appos	_	_
-24	ta	na/ta	ADP	_	_	23	mod	_	_
+24	ta	na	ADP	_	_	23	mod	_	_
 25	Kudù	Kudù	PROPN	_	_	24	comp:obj	_	SpaceAfter=No
 26	,	,	PUNCT	_	_	30	punct	_	_
 27	wàːtòː	wàːtòː	PART	_	_	30	discourse	_	_
@@ -297,7 +297,7 @@
 3	sakatar̃èn	sakatar̃èː	NOUN	_	Definite=Cons|Gender=Masc	17	subj	_	_
 4	hùkuːmàr̃	hùkuːmàr̃	NOUN	_	Definite=Ind|Number=Plur	3	mod	_	_
 5	dambe	dambe	NOUN	_	_	4	mod	_	_
-6	ta	na/ta	ADP	_	_	4	mod	_	_
+6	ta	na	ADP	_	_	4	mod	_	_
 7	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	6	comp:obj	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
 9	wani	wani	PRON	_	Definite=Spec|Gender=Masc	3	conj:appos	_	_
@@ -521,7 +521,7 @@
 12	"	"	PUNCT	_	_	13	punct	_	_
 13	Patronage	Patronage	PROPN	_	_	11	mod	_	wordform='Patronage
 14	"	"	PUNCT	_	_	13	punct	_	wordform='
-15	ta	na/ta	ADP	_	_	11	mod	_	_
+15	ta	na	ADP	_	_	11	mod	_	_
 16	Làːbeːr̃iyà	Làːbeːr̃iyà	PROPN	_	_	15	comp:obj	_	_
 17	dà	dà	CCONJ	_	_	10	comp:obl	_	_
 18	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	17	comp:obj	_	_
@@ -551,7 +551,7 @@
 16	"	"	PUNCT	_	_	17	punct	_	_
 17	USKA	USKA	PROPN	_	_	15	mod	_	_
 18	"	"	PUNCT	_	_	17	punct	_	wordform='
-19	ta	na/ta	ADP	_	_	15	mod	_	_
+19	ta	na	ADP	_	_	15	mod	_	_
 20	Àljeːr̃iyà	Àljeːr̃iyà	PROPN	_	_	19	comp:obj	_	_
 21	dà	dà	CCONJ	_	_	14	comp:obl	_	_
 22	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	comp:obj	_	_
