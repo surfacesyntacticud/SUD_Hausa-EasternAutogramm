@@ -113,9 +113,9 @@
 7	canjàːwaː	canj-	VERB	_	ExtPos=NOUN|Gender=Fem	6	comp:obj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = Wayoyin_Tarho__6
-# text = kàmar̃ shèːkaràː bìyar̃ dà sukà wucèː, ìdan kanàː sôn kà bugà wayàː zuwàː Bùr̃kiːnà Faːsò dàgà " Vancouver ", can cikin ƙasar̃ Kyanadà, àbîn bà zâi yìwu ba - zaː kà ɓaːtà loːkàciː dà yawàː kàːfìn àfàrētàː yà haɗàː ka, koː kùwa kà ji wata màganàː bàː tàːre dà kaː sàːmi laːyìː ba.
-# text_ortho = Kàmar̃ shèːkaràː bìyar̃ dà sukà wucèː, ìdan kanàː sôn kà bugà wayàː zuwàː Bùr̃kiːnà Faːsò dàgà 'Vancouver', can cikin ƙasar̃ Kyanadà, àbîn bà zâi yìwu ba - zaː kà ɓaːtà loːkàciː dà yawàː kàːfìn àfàrētàː yà haɗàː ka, koː kùwa kà ji wata màganàː bàː tàːre dà kaː sàːmi laːyìː ba.
+# sent_id = Wayoyin_Tarho__6a
+# text = kàmar̃ shèːkaràː bìyar̃ dà sukà wucèː , ìdan kanàː sôn kà bugà wayàː zuwàː Bùr̃kiːnà Faːsò dàgà " Vancouver " , can cikin ƙasar̃ Kyanadà , àbîn bà zâi yìwu ba -
+# text_ortho = Kàmar̃ shèːkaràː bìyar̃ dà sukà wucèː, ìdan kanàː sôn kà bugà wayàː zuwàː Bùr̃kiːnà Faːsò dàgà 'Vancouver', can cikin ƙasar̃ Kyanadà, àbîn bà zâi yìwu ba -
 1	kàmar̃	kàmar̃	ADP	_	_	29	mod	_	_
 2	shèːkaràː	shèːkaràː	NOUN	_	Definite=Ind|Gender=Fem	1	comp:obj	_	_
 3	bìyar̃	bìyar̃	NUM	_	_	2	det	_	_
@@ -147,32 +147,36 @@
 29	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	0	root	_	_
 30	yìwu	yìi	VERB	_	ExtPos=NOUN	29	comp:aux	_	_
 31	ba	ba	PART	_	Polarity=Neg	30	mod	_	_
-32	-	-	PUNCT	_	_	33	punct	_	_
-33	zaːkà	zâi	AUX	_	Gender=Masc|Mood=Sub|Person=2	29	mod	_	wordform=kà
-34	ɓaːtà	ɓaːtàː	VERB	_	_	33	comp:aux	_	_
-35	loːkàciː	loːkàciː	NOUN	_	Definite=Ind|Gender=Masc	34	comp:obj	_	_
-36	dà	dà	SCONJ	_	_	49	cc	_	_
-37	yawàː	yawàː	NOUN	_	Gender=Masc	36	comp:obj	_	_
-38	kàːfìn	kàːfìː	ADP	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	47	mod	_	_
-39	àfàrētàː	àfàrētàː	NOUN	_	Gender=Fem	38	comp:obj	_	_
-40	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	34	mod	_	_
-41	haɗàː	haɗàː	VERB	_	_	40	comp:aux	_	_
-42	ka	ka	PRON	_	Gender=Masc|Person=2	41	comp:obj	_	SpaceAfter=No
-43	,	,	PUNCT	_	_	52	punct	_	_
-44	koː	koː	CCONJ	_	_	46	cc	_	_
-45	kùwa	kùwa	PART	_	_	44	discourse@top	_	_
-46	kà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=2	52	comp:obj	_	_
-47	ji	ji	VERB	_	_	46	comp:aux	_	_
-48	wata	wata	DET	_	Definite=Spec|Gender=Fem	49	det	_	_
-49	màganàː	màganàː	NOUN	_	Gender=Fem	40	subj	_	_
-50	bàː	bàː	PART	_	Polarity=Neg	46	mod	_	_
-51	tàːre	tàːre	ADV	_	_	52	mod	_	_
-52	dà	dà	SCONJ	_	_	49	mod@relcl	_	_
-53	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	52	comp:obj	_	_
-54	sàːmi	sàːmiː	VERB	_	_	53	comp:aux	_	_
-55	laːyìː	laːyìː	NOUN	_	Definite=Ind|Gender=Masc	54	comp:obj	_	_
-56	ba	ba	PART	_	Polarity=Neg	47	mod	_	SpaceAfter=No
-57	.	.	PUNCT	_	_	29	punct	_	_
+32	-	-	PUNCT	_	_	29	punct	_	_
+
+# sent_id = Wayoyin_Tarho__6b
+# text = zaːkà ɓaːtà loːkàciː dà yawàː kàːfìn àfàrētàː yà haɗàː ka , koː kùwa kà ji wata màganàː bàː tàːre dà kaː sàːmi laːyìː ba .
+# text_ortho = Kàmar̃ shèːkaràː bìyar̃ dà sukà wucèː, ìdan kanàː sôn kà bugà wayàː zuwàː Bùr̃kiːnà Faːsò dàgà 'Vancouver', can cikin ƙasar̃ Kyanadà, àbîn bà zâi yìwu ba - zaː kà ɓaːtà loːkàciː dà yawàː kàːfìn àfàrētàː yà haɗàː ka, koː kùwa kà ji wata màganàː bàː tàːre dà kaː sàːmi laːyìː ba.
+1	zaːkà	zâi	AUX	_	Gender=Masc|Mood=Sub|Person=2	0	root	_	wordform=kà
+2	ɓaːtà	ɓaːtàː	VERB	_	_	1	comp:aux	_	_
+3	loːkàciː	loːkàciː	NOUN	_	Definite=Ind|Gender=Masc	2	comp:obj	_	_
+4	dà	dà	SCONJ	_	_	3	mod	_	_
+5	yawàː	yawàː	NOUN	_	Gender=Masc	4	comp:obj	_	_
+6	kàːfìn	kàːfìː	SCONJ	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	mod	_	_
+7	àfàrētàː	àfàrētàː	NOUN	_	Gender=Masc	8	subj	_	_
+8	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	2	mod	_	_
+9	haɗàː	haɗàː	VERB	_	_	8	comp:aux	_	_
+10	ka	ka	PRON	_	Gender=Masc|Person=2	9	comp:obj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	koː	koː	CCONJ	_	_	14	cc	_	_
+13	kùwa	kùwa	PART	_	_	12	discourse@top	_	_
+14	kà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=2	8	conj:coord	_	_
+15	ji	ji	VERB	_	_	14	comp:aux	_	_
+16	wata	wata	DET	_	Definite=Spec|Gender=Fem	17	det	_	_
+17	màganàː	màganàː	NOUN	_	Gender=Fem	15	comp:obj	_	_
+18	bàː	bàː	PART	_	Polarity=Neg	19	mod	_	_
+19	tàːre	tàːre	ADV	_	_	15	mod	_	_
+20	dà	dà	ADP	_	_	19	mod	_	_
+21	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	20	comp:obj	_	_
+22	sàːmi	sàːmiː	VERB	_	_	21	comp:aux	_	_
+23	laːyìː	laːyìː	NOUN	_	Definite=Ind|Gender=Masc	22	comp:obj	_	_
+24	ba	ba	PART	_	Polarity=Neg	19	mod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = Wayoyin_Tarho__7
 # text = Àmmaː yànzu baːbù irìn wannàn wàhalàr̃.
