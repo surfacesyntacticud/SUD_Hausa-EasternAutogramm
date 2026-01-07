@@ -441,37 +441,37 @@
 2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	dislocated@subj	_	_
 3	maː	maː	PART	_	_	2	discourse@top	_	_
 4	Lasisi	Lasisi	PROPN	_	_	2	conj:appos	_	_
-5	kânsà	kânsà	NOUN	_	PronType=Dem	2	conj:appos	_	_
+5	kânsà	kânsà	PRON	_	PronType=Dem	4	conj:appos	_	_
 6	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	_
 7	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	_
 8	à	yà	AUX	_	Mood=Sub|Person=4	7	comp:obj	_	_
 9	barìː	bar-	VERB	_	_	8	comp:aux	_	_
-10	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	8	parataxis@conj	_	_
+10	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	8	parataxis@mod	_	_
 11	yi	yi	VERB	_	_	10	comp:aux	_	_
 12	waːsân	waːsân	NOUN	_	Definite=Def	11	comp:obj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = Wasanni_a_Afirka__13
-# text = Tòː yànzu kuma gàː wasu dàgà sàːkàmakon wàːsànnîn dà akà yi na gàːsar̃ ƙwallon ƙafàː don cîn Koːfìn Ƙasàːshen Afır̃kà.
+# text = tòː yànzu kuma gàː wasu dàgà sàːkàmakon wàːsànnîn dà akà yi na gàːsar̃ ƙwallon ƙafàː don cîn koːfìn ƙasàːshen Afır̃kà.
 # text_ortho = Tòː yànzu kuma gàː wasu dàgà sàːkàmakon wàːsànnîn dà akà yi na gàːsar̃ ƙwallon ƙafàː don cîn Koːfìn Ƙasàːshen Afır̃kà.
 1	tòː	tòː	INTJ	_	_	4	discourse	_	_
 2	yànzu	yànzu	ADV	_	_	4	mod	_	_
 3	kuma	kuma	PART	_	_	2	discourse@top	_	_
-4	gàː	gàː	PART	_	_	0	root	_	_
-5	wasu	wasu	DET	_	Definite=Spec|Number=Plur	4	subj	_	_
-6	dàgà	dàgà	ADP	_	_	4	comp:pred	_	_
+4	gàː	gàː	PART	_	PartType=Pred	0	root	_	_
+5	wasu	wasu	DET	_	Definite=Spec|Number=Plur	4	comp:pred	_	_
+6	dàgà	dàgà	ADP	_	_	5	mod	_	_
 7	sàːkàmakon	sàːkàmakoː	NOUN	_	Definite=Cons|Number=Plur	6	comp:obj	_	_
 8	wàːsànnîn	wàːsànniː	PRON	_	Case=Gen|Gender=Masc|Person=3	7	mod	_	_
 9	dà	dà	SCONJ	_	_	7	mod@relcl	_	_
 10	akà	nàː	AUX	_	Aspect=Prog|Person=4	9	comp:obj	_	_
 11	yi	yi	VERB	_	_	10	comp:aux	_	_
-12	na	na	ADP	_	Case=Gen	11	comp:pred	_	_
-13	gàːsar̃	gàːsar̃	ADP	_	Definite=Cons|Gender=Fem	12	comp:obj	_	_
+12	na	na	ADP	_	Case=Gen	7	mod	_	_
+13	gàːsar̃	gàːsar̃	NOUN	_	Definite=Cons|Gender=Fem	12	comp:obj	_	_
 14	ƙwallon	ƙwallon	ADJ	_	_	13	mod	_	_
 15	ƙafàː	ƙafàː	ADJ	_	Gender=Fem	14	mod	_	_
-16	don	don	SCONJ	_	_	4	mod	_	_
+16	don	don	SCONJ	_	_	13	mod	_	_
 17	cîn	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	comp:obj	_	_
-18	koːfìn	koːfìn	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	17	mod	_	_
+18	koːfìn	koːfìn	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	17	comp:obj	_	_
 19	ƙasàːshen	ƙasàːshen	ADP	_	Definite=Cons|Number=Plur	18	comp:obj	_	_
 20	Afır̃kà	Afir̃kà	PROPN	_	_	19	mod	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	4	punct	_	_
@@ -489,18 +489,18 @@
 8	laːshè	laːs-	VERB	_	_	7	comp:aux	_	_
 9	ƙungìyar̃	ƙungìyar̃	NOUN	_	_	8	comp:obj	_	_
 10	"	"	PUNCT	_	_	11	punct	_	_
-11	Al-Merrekh	Al-merrekh	PROPN	_	_	9	conj:appos	_	_
+11	Al-Merrekh	Al-merrekh	PROPN	_	_	9	mod	_	_
 12	"	"	PUNCT	_	_	11	punct	_	wordform='
 13	ta	ta	ADP	_	_	9	mod	_	_
 14	Sudân	Sudân	PROPN	_	Definite=Cons|Number=Plur	13	comp:obj	_	_
-15	dà	dà	CCONJ	_	_	14	cc	_	_
-16	cîː	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:obj	_	_
-17	ɗaya	ɗaya	NUM	_	_	10	flat@name	_	_
-18	dà	dà	SCONJ	_	_	14	mod@relcl	_	_
-19	bâː	baːbù	PART	_	Polarity=Neg	18	comp:obj	_	_
-20	koː	koː	CCONJ	_	_	19	subj	_	_
+15	dà	dà	CCONJ	_	_	8	mod	_	_
+16	cîː	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:obj	_	_
+17	ɗaya	ɗaya	NUM	_	_	16	mod	_	_
+18	dà	dà	CCONJ	_	_	19	cc	_	_
+19	bâː	baːbù	PART	_	Polarity=Neg	17	conj:coord	_	_
+20	koː	koː	ADV	_	_	21	mod	_	_
 21	ɗaya	ɗaya	NUM	_	_	19	subj	_	_
-22	à	à	ADP	_	_	19	comp:pred	_	_
+22	à	à	ADP	_	_	8	mod	_	_
 23	Tùːniːsiyà	Tùːniːsiyà	PROPN	_	_	22	comp:obj	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -508,11 +508,11 @@
 # text = ƙungìyar̃ " Asi Abengourou " ta Aːbir̃u Kwâs taː laːshè ƙungìyar̃ 'Patronage " ta Làːbeːr̃iyà dà cîː ukù dà ɗaya.
 # text_ortho = Ƙungìyar̃ 'Asi Abengourou' ta Aːbir̃u Kwâs taː laːshè ƙungìyar̃ 'Patronage' ta Làːbeːr̃iyà dà cîː ukù dà ɗaya.
 1	ƙungìyar̃	ƙungìyar̃	NOUN	_	Gender=Fem	9	subj	_	_
-2	"	"	PUNCT	_	_	1	mod	_	_
+2	"	"	PUNCT	_	_	3	punct	_	_
 3	Asi	Asi	PROPN	_	_	1	mod	_	_
-4	Abengourou	Abengourou	PROPN	_	Gender=Masc	1	conj:appos	_	_
-5	"	"	PUNCT	_	_	1	punct	_	wordform='
-6	ta	ta	ADP	_	_	1	mod	_	_
+4	Abengourou	Abengourou	PROPN	_	Gender=Masc	3	flat@name	_	_
+5	"	"	PUNCT	_	_	3	punct	_	wordform='
+6	ta	ta	ADP	_	_	3	mod	_	_
 7	Aːbir̃u	Aːbir̃u	PROPN	_	_	6	comp:obj	_	_
 8	Kwâs	Kwâs	PROPN	_	_	7	flat@name	_	_
 9	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	_
@@ -523,11 +523,11 @@
 14	"	"	PUNCT	_	_	13	punct	_	wordform='
 15	ta	na/ta	ADP	_	_	11	mod	_	_
 16	Làːbeːr̃iyà	Làːbeːr̃iyà	PROPN	_	_	15	comp:obj	_	_
-17	dà	dà	CCONJ	_	_	16	cc	_	_
-18	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:obj	_	_
-19	ukù	ukù	AUX	_	_	18	comp:cleft	_	_
-20	dà	dà	CCONJ	_	_	18	comp:obl	_	_
-21	ɗaya	ɗaya	NUM	_	_	15	comp:obj	_	SpaceAfter=No
+17	dà	dà	CCONJ	_	_	10	comp:obl	_	_
+18	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	17	comp:obj	_	_
+19	ukù	ukù	NUM	_	_	18	comp:cleft	_	_
+20	dà	dà	CCONJ	_	_	21	cc	_	_
+21	ɗaya	ɗaya	NUM	_	_	19	conj:coord	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = Wasanni_a_Afirka__16
@@ -538,27 +538,27 @@
 3	kuma	kuma	PART	_	_	1	discourse@top	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	_
 5	ƙungìyar̃	ƙungìyar̃	NOUN	_	Definite=Cons|Gender=Fem	13	subj	_	_
-6	"	"	PUNCT	_	_	5	mod	_	_
+6	"	"	PUNCT	_	_	7	punct	_	_
 7	Stade	Stade	PROPN	_	_	5	mod	_	_
-8	Malien	Malien	PROPN	_	_	6	flat@name	_	_
-9	"	"	PUNCT	_	_	5	punct	_	wordform='
+8	Malien	Malien	PROPN	_	_	7	flat@name	_	_
+9	"	"	PUNCT	_	_	7	punct	_	wordform='
 10	ta	ta	ADP	_	_	5	mod	_	_
 11	ƙasar̃	ƙasar̃	NOUN	_	_	10	comp:obj	_	_
-12	Màːli	Màːli	PROPN	_	_	11	flat@name	_	_
+12	Màːli	Màːli	PROPN	_	_	11	mod	_	_
 13	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	_
 14	laːshè	laːs-	VERB	_	_	13	comp:aux	_	_
 15	ƙungìyar̃	ƙungìyar̃	NOUN	_	_	14	comp:obj	_	_
-16	"	"	PUNCT	_	_	15	mod	_	_
+16	"	"	PUNCT	_	_	17	punct	_	_
 17	USKA	USKA	PROPN	_	_	15	mod	_	_
-18	"	"	PUNCT	_	_	19	punct	_	wordform='
+18	"	"	PUNCT	_	_	17	punct	_	wordform='
 19	ta	na/ta	ADP	_	_	15	mod	_	_
 20	Àljeːr̃iyà	Àljeːr̃iyà	PROPN	_	_	19	comp:obj	_	_
-21	dà	dà	CCONJ	_	_	22	cc	_	_
-22	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:obj	_	_
-23	ɗaya	ɗaya	NUM	_	_	22	mod:num	_	_
-24	dà	dà	SCONJ	_	_	20	cc	_	_
-25	bâː	baːbù	PART	_	Polarity=Neg	24	comp:obj	_	_
-26	koː	koː	CCONJ	_	_	25	comp:aux	_	_
+21	dà	dà	CCONJ	_	_	14	comp:obl	_	_
+22	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	comp:obj	_	_
+23	ɗaya	ɗaya	NUM	_	_	22	mod	_	_
+24	dà	dà	CCONJ	_	_	25	cc	_	_
+25	bâː	baːbù	PART	_	Polarity=Neg	23	conj:coord	_	_
+26	koː	koː	ADV	_	_	27	mod	_	_
 27	ɗaya	ɗaya	NUM	_	_	25	subj	_	SpaceAfter=No
 28	.	.	PUNCT	_	_	13	punct	_	_
 
