@@ -217,16 +217,15 @@
 16	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	15	mod	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	_
 18	Ìkko	Ìkko	PROPN	_	_	14	mod	_	SpaceAfter=No
-19	"	"	PUNCT	_	_	8	punct	_	_
+19	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	_
 21	wàːtòː	wàːtòː	PART	_	Gender=Masc	22	discourse	_	_
 22	indà	indà	ADV	_	_	10	conj:dicto	_	_
-23	zaː	zaː	AUX	_	_	22	mod@relcl	_	_
-24	à	yà	AUX	_	Mood=Sub|Person=4	23	subj	_	_
-25	kai	kaːy-	VERB	_	_	23	comp:aux	_	_
-26	shì	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	25	comp:obj	_	_
-27	kèːnan	kèːnan	PART	_	_	22	discourse@foc	_	SpaceAfter=No
-28	.	.	PUNCT	_	_	5	punct	_	_
+23	zaːà	zâi	AUX	_	Mood=Sub|Person=4	22	mod@relcl	_	wordform=à
+24	kai	kaːy-	VERB	_	_	23	comp:aux	_	_
+25	shì	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	24	comp:obj	_	_
+26	kèːnan	kèːnan	PART	_	_	22	discourse@foc	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = Umaru_Dikko__9
 # text = à wajen indà ya kàmaːtà à r̃ubùːtà wandà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà oːfishin jàkaːdàn Nàjeːr̃iyàː, " Landàn" .
@@ -254,7 +253,7 @@
 21	,	,	PUNCT	_	_	23	punct	_	_
 22	"	"	PUNCT	_	_	23	punct	_	_
 23	Landàn	Landàn	PROPN	_	_	18	mod	_	SpaceAfter=No
-24	"	"	PUNCT	_	_	23	punct	_	wordform='
+24	"	"	PUNCT	_	_	23	punct	_	SpaceAfter=No|wordform='
 25	.	.	PUNCT	_	_	16	punct	_	_
 
 # sent_id = Umaru_Dikko__10
@@ -370,7 +369,7 @@
 27	à	à	ADP	_	_	24	mod	_	_
 28	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	27	comp:obj	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	20	punct	_	_
-30	"	"	PUNCT	_	_	20	punct	_	_
+30	"	"	PUNCT	_	_	20	punct	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = Umaru_Dikko__13_split2
@@ -552,7 +551,7 @@
 42	bindìgeː	bindì	VERB	_	_	41	comp:aux	_	_
 43	ni	ni	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	42	comp:obj	_	SpaceAfter=No
 44	.	.	PUNCT	_	_	30	punct	_	_
-45	"	"	PUNCT	_	_	30	punct	_	_
+45	"	"	PUNCT	_	_	30	punct	_	SpaceAfter=No
 46	.	.	PUNCT	_	_	19	punct	_	_
 
 # sent_id = Umaru_Dikko__17
@@ -679,6 +678,6 @@
 50	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Gender=Masc	49	comp:obj	_	_
 51	kawài	kawài	ADV	_	_	50	mod	_	SpaceAfter=No
 52	.	.	PUNCT	_	_	22	punct	_	_
-53	"	"	PUNCT	_	_	22	punct	_	_
+53	"	"	PUNCT	_	_	22	punct	_	SpaceAfter=No
 54	.	.	PUNCT	_	_	14	punct	_	_
 

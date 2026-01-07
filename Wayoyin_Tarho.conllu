@@ -73,7 +73,7 @@
 30	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = Wayoyin_Tarho__4
-# text = wani loːkàciː kuma koː kaː sàːmi laːyìː sai kà ga bâː shi dà kyâu sòːsai, har̃ baː baːkàː iyà jîn àbîn dà akèː fàɗaː.
+# text = wani loːkàciː kuma koː kaː sàːmi laːyìː sai kà ga bâː shi dà kyâu sòːsai, har̃ baːkàː iyà jîn àbîn dà akèː fàɗaː.
 # text_ortho = Wani loːkàciː kuma koː kaː sàːmi laːyìː sai kà ga bâː shi dà kyâu sòːsai, har̃ baː kàː iyà jîn àbîn dà akèː fàɗaː.
 1	wani	wani	DET	_	Definite=Spec|Gender=Masc	2	det	_	_
 2	loːkàciː	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	9	mod	_	_
@@ -90,17 +90,16 @@
 13	dà	dà	ADP	_	_	11	comp:pred	_	_
 14	kyâu	kyâu	AUX	_	Definite=Ind|Gender=Masc	13	comp:obj	_	_
 15	sòːsai	sòːsai	ADV	_	_	14	mod	_	SpaceAfter=No
-16	,	,	PUNCT	_	_	19	punct	_	_
-17	har̃	har̃	CCONJ	_	_	19	cc	_	_
-18	baː	baː	PART	_	Polarity=Neg	19	mod	_	_
-19	baːkàː	yaː	PRON	_	Case=Acc|Gender=Masc|Person=2|Polarity=Neg	11	conj:coord	_	_
-20	iyà	iyàː	VERB	_	_	19	comp:aux	_	_
-21	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	20	comp:obj	_	_
-22	àbîn	àbî	NOUN	_	Definite=Cons|Gender=Masc	21	comp:obj	_	_
-23	dà	dà	SCONJ	_	_	22	mod@relcl	_	_
-24	akèː	nàː	AUX	_	Aspect=Prog|Person=4	23	comp:obj	_	_
-25	fàɗaː	fàɗaː	VERB	_	_	24	comp:aux	_	SpaceAfter=No
-26	.	.	PUNCT	_	_	9	punct	_	_
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	har̃	har̃	CCONJ	_	_	18	cc	_	_
+18	baːkàː	yaː	PRON	_	Case=Acc|Gender=Masc|Person=2|Polarity=Neg	11	conj:coord	_	_
+19	iyà	iyàː	VERB	_	_	18	comp:aux	_	_
+20	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	19	comp:obj	_	_
+21	àbîn	àbî	NOUN	_	Definite=Cons|Gender=Masc	20	comp:obj	_	_
+22	dà	dà	SCONJ	_	_	21	mod@relcl	_	_
+23	akèː	nàː	AUX	_	Aspect=Prog|Person=4	22	comp:obj	_	_
+24	fàɗaː	fàɗaː	VERB	_	_	23	comp:aux	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = Wayoyin_Tarho__5
 # text = tòː àmmaː yànzu al'amur̃àː sun faːrà canjàːwaː.
@@ -115,16 +114,16 @@
 8	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = Wayoyin_Tarho__6
-# text = Kàmar̃ shèːkaràː bìyar̃ dà sukà wucèː, ìdan kanàː sôn kà bugà wayàː zuwàː Bùr̃kiːnà Faːsò dàgà 'Vancouver', can cikin ƙasar̃ Kyanadà, àbîn bà zâi yìwu ba - zaː kà ɓaːtà loːkàciː dà yawàː kàːfìn àfàrētàː yà haɗàː ka, koː kùwa kà ji wata màganàː bàː tàːre dà kaː sàːmi laːyìː ba.
+# text = kàmar̃ shèːkaràː bìyar̃ dà sukà wucèː, ìdan kanàː sôn kà bugà wayàː zuwàː Bùr̃kiːnà Faːsò dàgà " Vancouver ", can cikin ƙasar̃ Kyanadà, àbîn bà zâi yìwu ba - zaː kà ɓaːtà loːkàciː dà yawàː kàːfìn àfàrētàː yà haɗàː ka, koː kùwa kà ji wata màganàː bàː tàːre dà kaː sàːmi laːyìː ba.
 # text_ortho = Kàmar̃ shèːkaràː bìyar̃ dà sukà wucèː, ìdan kanàː sôn kà bugà wayàː zuwàː Bùr̃kiːnà Faːsò dàgà 'Vancouver', can cikin ƙasar̃ Kyanadà, àbîn bà zâi yìwu ba - zaː kà ɓaːtà loːkàciː dà yawàː kàːfìn àfàrētàː yà haɗàː ka, koː kùwa kà ji wata màganàː bàː tàːre dà kaː sàːmi laːyìː ba.
-1	kàmar̃	kàmar̃	ADP	_	_	28	mod	_	_
+1	kàmar̃	kàmar̃	ADP	_	_	29	mod	_	_
 2	shèːkaràː	shèːkaràː	NOUN	_	Definite=Ind|Gender=Fem	1	comp:obj	_	_
 3	bìyar̃	bìyar̃	NUM	_	_	2	det	_	_
 4	dà	dà	SCONJ	_	_	2	mod@relcl	_	_
 5	sukà	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	4	comp:obj	_	_
 6	wucèː	wucèː	VERB	_	_	5	comp:aux	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	1	punct	_	_
-8	ìdan	ìdan	SCONJ	_	_	28	mod	_	_
+8	ìdan	ìdan	SCONJ	_	_	29	mod	_	_
 9	kanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=2	8	comp:obj	_	_
 10	sôn	soː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	9	comp:aux	_	_
 11	kà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=2	10	comp:obj	_	_
@@ -133,23 +132,23 @@
 14	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc	12	comp:obl	_	_
 15	Bùr̃kiːnà	Bùr̃kiːnà	PROPN	_	_	14	conj:appos	_	_
 16	Faːsò	Faːsò	PROPN	_	_	15	flat@name	_	_
-17	dàgà	dàgà	ADP	_	_	13	comp:obl	_	_
-18	Vancouver	vancouver	PROPN	_	Gender=Masc	15	flat@name	_	_
-19	"	"	PUNCT	_	_	15	punct	_	SpaceAfter=No|wordform='
-20	,	,	PUNCT	_	_	21	punct	_	_
-21	can	can	ADV	_	PronType=Dem	13	mod	_	_
-22	cikin	cikin	ADP	_	_	52	mod	_	_
-23	ƙasar̃	ƙasar̃	NOUN	_	Definite=Cons|Gender=Fem	22	comp:obj	_	_
-24	Kyanadà	kyanadà	PROPN	_	_	23	flat@name	_	SpaceAfter=No
-25	,	,	PUNCT	_	_	8	punct	_	_
-26	àbîn	àbî	NOUN	_	Definite=Cons|Gender=Masc	28	dislocated@subj	_	_
-27	bà	bà	PART	_	Polarity=Neg	28	mod	_	_
-28	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	0	root	_	_
-29	yìwu	yìi	VERB	_	ExtPos=NOUN	28	comp:aux	_	_
-30	ba	ba	PART	_	Polarity=Neg	29	mod	_	_
-31	-	-	PUNCT	_	_	33	punct	_	_
-32	zaː	zaː	PART	_	_	28	mod	_	_
-33	kà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=2	28	mod	_	_
+17	dàgà	dàgà	ADP	_	_	12	comp:obl	_	_
+18	"	"	PUNCT	_	_	19	punct	_	_
+19	Vancouver	vancouver	PROPN	_	_	17	comp:obj	_	_
+20	"	"	PUNCT	_	_	19	punct	_	SpaceAfter=No|wordform='
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	can	can	ADV	_	PronType=Dem	19	mod	_	_
+23	cikin	cikin	ADP	_	_	22	mod	_	_
+24	ƙasar̃	ƙasar̃	NOUN	_	Definite=Cons|Gender=Fem	23	comp:obj	_	_
+25	Kyanadà	kyanadà	PROPN	_	_	24	flat@name	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	8	punct	_	_
+27	àbîn	àbî	NOUN	_	Definite=Cons|Gender=Masc	29	dislocated@subj	_	_
+28	bà	bà	PART	_	Polarity=Neg	29	mod	_	_
+29	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	0	root	_	_
+30	yìwu	yìi	VERB	_	ExtPos=NOUN	29	comp:aux	_	_
+31	ba	ba	PART	_	Polarity=Neg	30	mod	_	_
+32	-	-	PUNCT	_	_	33	punct	_	_
+33	zaːkà	zâi	AUX	_	Gender=Masc|Mood=Sub|Person=2	29	mod	_	wordform=kà
 34	ɓaːtà	ɓaːtàː	VERB	_	_	33	comp:aux	_	_
 35	loːkàciː	loːkàciː	NOUN	_	Definite=Ind|Gender=Masc	34	comp:obj	_	_
 36	dà	dà	SCONJ	_	_	49	cc	_	_
@@ -173,7 +172,7 @@
 54	sàːmi	sàːmiː	VERB	_	_	53	comp:aux	_	_
 55	laːyìː	laːyìː	NOUN	_	Definite=Ind|Gender=Masc	54	comp:obj	_	_
 56	ba	ba	PART	_	Polarity=Neg	47	mod	_	SpaceAfter=No
-57	.	.	PUNCT	_	_	28	punct	_	_
+57	.	.	PUNCT	_	_	29	punct	_	_
 
 # sent_id = Wayoyin_Tarho__7
 # text = Àmmaː yànzu baːbù irìn wannàn wàhalàr̃.
@@ -218,29 +217,28 @@
 1	dàgà	dàgà	ADP	_	_	3	mod	_	_
 2	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	comp:obj	_	_
 3	nèː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	_
-4	zaː	zaː	PART	_	_	3	comp:cleft	_	_
-5	à	yà	AUX	_	Mood=Sub|Person=4	3	comp:cleft	_	_
-6	aikàː	aikàː	VERB	_	_	5	comp:aux	_	_
-7	dà	dà	ADP	_	_	6	comp:obl	_	_
-8	sàːƙôn	sàːƙoː	NOUN	_	Definite=Def|Gender=Masc	7	comp:obj	_	_
-9	zuwàː	zoː	ADP	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:obj	_	_
-10	bàːkin	bàːkin	ADP	_	Definite=Cons|Gender=Masc	9	comp:obl	_	_
-11	tèːkun	tèːkun	NOUN	_	Definite=Cons|Gender=Masc	10	mod	_	_
-12	Kyanadà	Kyanadà	PROPN	_	_	11	mod	_	SpaceAfter=No
-13	,	,	PUNCT	_	_	14	punct	_	_
-14	sànnan	sànnan	ADV	_	_	18	mod	_	_
-15	zuwàː	zoː	ADP	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	unk	_	_
-16	Widemouth	Widemouth	PROPN	_	_	15	comp:obj	_	_
-17	"	"	PUNCT	_	_	14	punct	_	wordform='
-18	à	à	ADP	_	_	5	parataxis@conj	_	_
-19	ƙasar̃	ƙasar̃	VERB	_	_	18	comp:aux	_	_
-20	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	19	comp:obj	_	_
-21	ta	ta	ADP	_	_	19	comp:obl	_	_
-22	wasu	wani	DET	_	Definite=Spec|Number=Plur	23	det	_	_
-23	wayoːyin	wayoːyiː	NOUN	_	Definite=Cons|Gender=Masc	20	conj:appos	_	_
-24	ƙàr̃ƙashin	ƙàr̃ƙashin	NOUN	_	Definite=Cons|Number=Plur	23	mod	_	_
-25	tèːku	tèːku	NOUN	_	Gender=Masc	23	mod	_	SpaceAfter=No
-26	.	.	PUNCT	_	_	3	punct	_	_
+4	zaːà	zâi	AUX	_	Mood=Sub|Person=4	3	comp:cleft	_	wordform=à
+5	aikàː	aikàː	VERB	_	_	4	comp:aux	_	_
+6	dà	dà	ADP	_	_	5	comp:obl	_	_
+7	sàːƙôn	sàːƙoː	NOUN	_	Definite=Def|Gender=Masc	6	comp:obj	_	_
+8	zuwàː	zoː	ADP	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:obj	_	_
+9	bàːkin	bàːkin	ADP	_	Definite=Cons|Gender=Masc	8	comp:obl	_	_
+10	tèːkun	tèːkun	NOUN	_	Definite=Cons|Gender=Masc	9	mod	_	_
+11	Kyanadà	Kyanadà	PROPN	_	_	10	mod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	sànnan	sànnan	ADV	_	_	17	mod	_	_
+14	zuwàː	zoː	ADP	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	unk	_	_
+15	Widemouth	Widemouth	PROPN	_	_	14	comp:obj	_	_
+16	"	"	PUNCT	_	_	13	punct	_	wordform='
+17	à	à	ADP	_	_	4	parataxis@conj	_	_
+18	ƙasar̃	ƙasar̃	VERB	_	_	17	comp:aux	_	_
+19	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	18	comp:obj	_	_
+20	ta	ta	ADP	_	_	18	comp:obl	_	_
+21	wasu	wani	DET	_	Definite=Spec|Number=Plur	22	det	_	_
+22	wayoːyin	wayoːyiː	NOUN	_	Definite=Cons|Gender=Masc	19	conj:appos	_	_
+23	ƙàr̃ƙashin	ƙàr̃ƙashin	NOUN	_	Definite=Cons|Number=Plur	22	mod	_	_
+24	tèːku	tèːku	NOUN	_	Gender=Masc	22	mod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = Wayoyin_Tarho__10
 # text = Dàgà Bìr̃taːniyà kuma sai sàːƙôn yà tàfi zuwàː kudancin Fàr̃ansà.
@@ -308,16 +306,15 @@
 14	kuma	kuma	PART	_	_	13	discourse@top	_	_
 15	kuɗîn	kuɗiː	NOUN	_	Definite=Cons|Gender=Masc	17	subj	_	_
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	_
-17	zaː	zaː	PART	_	_	9	comp:obj	_	_
-18	à	yà	AUX	_	Mood=Sub|Person=4	17	parataxis@conj	_	_
-19	biyaː	biyaː	VERB	_	_	18	comp:aux	_	_
-20	à	à	ADP	_	Mood=Sub|Person=4	19	comp:obl	_	_
-21	kân	kân	ADP	_	_	20	comp:obj	_	_
-22	koːwànè	koːwànè	DET	_	_	23	det	_	_
-23	sàːƙon	sàːƙoː	NOUN	_	Definite=Cons|Gender=Masc	20	comp:obj	_	_
-24	wayàr̃	wayàr̃	NOUN	_	Definite=Cons|Gender=Fem	23	mod	_	_
-25	tàrhôː	tàrhôː	NOUN	_	Gender=Masc	24	mod	_	SpaceAfter=No
-26	.	.	PUNCT	_	_	2	punct	_	_
+17	zaːà	zâi	AUX	_	Mood=Sub|Person=4	16	comp:obj	_	wordform=à
+18	biyaː	biyaː	VERB	_	_	17	comp:aux	_	_
+19	à	à	ADP	_	Mood=Sub|Person=4	18	comp:obl	_	_
+20	kân	kân	ADP	_	_	19	comp:obj	_	_
+21	koːwànè	koːwànè	DET	_	_	22	det	_	_
+22	sàːƙon	sàːƙoː	NOUN	_	Definite=Cons|Gender=Masc	19	comp:obj	_	_
+23	wayàr̃	wayàr̃	NOUN	_	Definite=Cons|Gender=Fem	22	mod	_	_
+24	tàrhôː	tàrhôː	NOUN	_	Gender=Masc	23	mod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = Wayoyin_Tarho__14
 # text = Àmmaː yàːya har̃kàr̃ wayàr̃ tàr̃hôː takè à ƙasàːshen Afìr̃kà?
@@ -492,6 +489,6 @@
 25	Afir̃kà	Afir̃kà	PROPN	_	_	23	mod	_	_
 26	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	21	comp:cleft	_	_
 27	yi	yi	VERB	_	_	26	comp:aux	_	_
-28	sauƙiː	sauƙiː	NOUN	_	Gender=Masc	27	comp:pred	_	_
+28	sauƙiː	sauƙiː	NOUN	_	Gender=Masc	27	comp:pred	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	5	punct	_	_
 
