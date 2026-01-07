@@ -229,7 +229,7 @@
 28	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = Umaru_Dikko__9
-# text = à wajen indà ya kàmaːtà à r̃ubùːtà wandà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà oːfishin jàkaːdàn Nàjeːr̃iyàː, Landàn' .
+# text = à wajen indà ya kàmaːtà à r̃ubùːtà wandà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà oːfishin jàkaːdàn Nàjeːr̃iyàː, " Landàn" .
 # text_ortho = À wajen indà ya kàmaːtà à r̃ubùːtà wandà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà ꞌOːfishin Jàkaːdàn Nàjeːr̃iyàː, Landàn’.
 1	à	à	ADP	_	_	16	dislocated@top	_	_
 2	wajen	wajen	NOUN	_	_	1	compound	_	_
@@ -251,10 +251,11 @@
 18	oːfishin	oːfishiː	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	_
 19	jàkaːdàn	jàkaːdàː	NOUN	_	Definite=Cons|Number=Plur	18	mod	_	_
 20	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	Number=Plur	19	mod	_	SpaceAfter=No
-21	,	,	PUNCT	_	_	22	punct	_	_
-22	Landàn	Landàn	PROPN	_	_	18	mod	_	SpaceAfter=No
-23	'	'	PUNCT	_	_	22	punct	_	_
-24	.	.	PUNCT	_	_	16	punct	_	_
+21	,	,	PUNCT	_	_	23	punct	_	_
+22	"	"	PUNCT	_	_	23	punct	_	_
+23	Landàn	Landàn	PROPN	_	_	18	mod	_	SpaceAfter=No
+24	"	"	PUNCT	_	_	23	punct	_	wordform='
+25	.	.	PUNCT	_	_	16	punct	_	_
 
 # sent_id = Umaru_Dikko__10
 # text = Indà Allàh ya ɗigàː wà gàːrin Ùmar̃ù Dikkò noːnòː shiː nèː wannàn àkwàːtì dai bài sàːmi taːshìː samà à cikin jirgiː ba.
