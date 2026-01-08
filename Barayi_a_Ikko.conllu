@@ -2,7 +2,7 @@
 # text = An gwabzàː tsàkaːnin ꞌyan sàndaː dà ɓàràːyiː à Ìkko
 1	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	_
 2	gwabzàː	gwabz-	VERB	_	_	1	comp:aux	_	_
-3	tsàkaːnin	tsàkaːniː	ADP	_	Definite=Cons	2	comp:obl	_	_
+3	tsàkaːnin	tsàkaːnin	ADP	_	Definite=Cons	2	comp:obl	_	_
 4	ꞌyan	ɗan	ADJ	_	Definite=Cons|Number=Plur	3	comp:obj	_	_
 5	sàndaː	sàndaː	NOUN	_	Definite=Ind	4	compound	_	_
 6	dà	dà	CCONJ	_	_	7	cc	_	_
@@ -16,8 +16,8 @@
 2	dà	dà	CCONJ	_	_	1	mod	_	_
 3	dare	dare	ADV	_	_	2	comp:obj	_	_
 4	à	à	ADP	_	_	14	mod	_	_
-5	bir̃nin	bir̃nin	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	_
-6	Ìkko	ìkko	PROPN	_	_	5	mod	_	_
+5	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	_
+6	Ìkko	Ìkko	PROPN	_	_	5	mod	_	_
 7	wasu	wasu	DET	_	Definite=Spec|Number=Plur	8	det	_	_
 8	ꞌyan	ɗan	NOUN	_	Definite=Cons|Number=Plur	14	subj	_	_
 9	sàndaː	sàndaː	NOUN	_	Gender=Masc	8	compound	_	_
@@ -33,7 +33,7 @@
 19	ƙòːƙariː	ƙòːƙariː	NOUN	_	Number=Plur	18	comp:aux	_	_
 20	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	19	comp:obj	_	_
 21	fasà	fasàː	VERB	_	_	20	comp:aux	_	_
-22	ƙoːfàr̃	ƙoːfàr̃	NOUN	_	Definite=Ind|Gender=Fem	21	comp:obj	_	_
+22	ƙoːfàr̃	ƙoːfàː	NOUN	_	Definite=Ind|Gender=Fem	21	comp:obj	_	_
 23	bankìn	bankìː	NOUN	_	Definite=Cons|Gender=Masc	22	mod	_	_
 24	‘	‘	PUNCT	_	_	25	punct	_	_
 25	First	First	PROPN	_	_	23	mod	_	_
@@ -59,8 +59,8 @@
 10	mafìː	mafìː	PART	_	Gender=Masc	9	mod	_	_
 11	girmaː	girmaː	NOUN	_	Gender=Masc	10	comp:obj	_	_
 12	à	à	ADP	_	_	10	mod	_	_
-13	cikin	cikin	ADP	_	_	12	compound	_	_
-14	ƙasar̃	ƙasar̃	NOUN	_	_	12	comp:obj	_	_
+13	cikin	cikiː	ADP	_	Definite=Cons|Gender=Masc	12	comp.obj	_	_
+14	ƙasar̃	ƙasaː	NOUN	_	_	12	comp:obj	_	_
 15	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	14	mod	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -133,23 +133,23 @@
 1	loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	10	mod	_	_
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	_
 3	ƙùːraː	ƙùːraː	NOUN	_	Definite=Ind|Gender=Fem	4	subj	_	_
-4	ta	na	ADP	_	Case=Gen|Gender=Fem	2	comp:obj	_	_
+4	ta	ta	ADP	_	Case=Gen|Gender=Fem	2	comp:obj	_	_
 5	lafàː	lafàː	VERB	_	_	4	comp:obj	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	_
 7	sai	sai	ADV	_	_	10	mod	_	_
 8	ꞌyan	ɗan	NOUN	_	Definite=Cons|Number=Plur	10	subj	_	_
-9	sàndân	sàndân	NOUN	_	_	8	compound	_	_
+9	sàndân	sàndaː	NOUN	_	_	8	compound	_	_
 10	sukà	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	_
 11	gaːnoː	gaːn-	VERB	_	_	10	comp:aux	_	_
-12	gàːwàwwakin	gàːwàwwakin	NOUN	_	_	11	comp:obj	_	_
+12	gàːwàwwakin	gàːwàwwakiː	NOUN	_	_	11	comp:obj	_	_
 13	mutàːneː	mùtûm	NOUN	_	Definite=Ind|Number=Plur	12	mod	_	_
 14	bakwài	bakwài	NUM	_	_	13	mod:num	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = Barayi_a_Ikko__7
 # text = kàːkàːkin ꞌyan sàndaː ya cèː mutàːnên dà sukà yi ƙòːkarin yîn wannàn saːtàː sun kai à ƙallà suː goːmà shâː ukù neː, kuma yaː tabbàtaː sauraː gùdaː shidàn dà sukà gudù duk sun sàːmi raunukàː.
-1	kàːkàːkin	kàːkàːkin	NOUN	_	_	4	subj	_	_
-2	ꞌyan	ꞌyan	NOUN	_	Definite=Cons|Number=Plur	1	mod	_	_
+1	kàːkàːkin	kàːkàːkiː	NOUN	_	_	4	subj	_	_
+2	ꞌyan	ɗan	NOUN	_	Definite=Cons|Number=Plur	1	mod	_	_
 3	sàndaː	sàndaː	NOUN	_	_	2	compound	_	_
 4	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 5	cèː	cêː	VERB	_	_	4	comp:aux	_	_
@@ -220,25 +220,25 @@
 
 # sent_id = Barayi_a_Ikko__9
 # text = yàːyîn dà hakàn kèː fàːruwaː, hêdkwatàr̃ ꞌyan sàndân à bir̃nin Ìkko taː bayyànà cêːwaː yawàn fàshe-fàshe dà sàːce-sàːcên dà akèː yîː à cikin Nàːjeːr̃iyàr̃ yaː fi irìn waɗàndà akà yi cikin shèːkàruː biyûn dà sukà wucèː.
-1	yàːyîn	yàːyîn	NOUN	_	_	13	mod	_	_
+1	yàːyîn	yàːyîː	NOUN	_	_	13	mod	_	_
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	_
 3	hakàn	hakàn	ADV	_	_	4	subj	_	_
 4	kèː	nàː	AUX	_	Aspect=Prog	2	comp:obj	_	_
 5	fàːruwaː	fàːruwaː	NOUN	_	Gender=Fem	4	comp:obj	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	_
-7	hêdkwatàr̃	hêdkwatàr̃	NOUN	_	Definite=Ind|Gender=Fem	13	subj	_	_
-8	ꞌyan	ꞌyan	NOUN	_	_	7	mod	_	_
-9	sàndân	sàndân	NOUN	_	Definite=Def	8	compound	_	_
+7	hêdkwatàr̃	hêdkwatàː	NOUN	_	Definite=Ind|Gender=Fem	13	subj	_	_
+8	ꞌyan	ɗan	NOUN	_	Definite=Cons|Number=Plur	7	mod	_	_
+9	sàndân	sàndaː	NOUN	_	Definite=Def	8	compound	_	_
 10	à	à	ADP	_	_	7	mod	_	_
 11	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	_
 12	Ìkko	Ìkko	PROPN	_	_	11	mod	_	_
 13	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	_
 14	bayyànà	bayyànà	VERB	_	Number=Plur	13	comp:aux	_	_
 15	cêːwaː	cêː	SCONJ	_	ExtPos=NOUN|Gender=Fem	14	comp:obj	_	_
-16	yawàn	yawàn	NOUN	_	Definite=Cons|Gender=Masc	26	subj	_	_
+16	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	26	subj	_	_
 17	fàshe-fàshe	fàshe-fàshe	NOUN	_	_	16	mod	_	_
 18	dà	dà	CCONJ	_	_	19	cc	_	_
-19	sàːce-sàːcên	sàːce-sàːcên	NOUN	_	Definite=Ind|Number=Plur	17	conj:coord	_	_
+19	sàːce-sàːcên	sàːce-sàːceː	NOUN	_	Definite=Ind|Number=Plur	17	conj:coord	_	_
 20	dà	dà	SCONJ	_	_	19	mod@relcl	_	_
 21	akèː	nàː	AUX	_	Aspect=Prog|Person=4	20	comp:obj	_	_
 22	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	21	comp:aux	_	_
@@ -261,7 +261,7 @@
 
 # sent_id = Barayi_a_Ikko__10
 # text = sanâr̃wâr̃ ta cèː sàu dubuː ɗaya dà ɗàriː ukù dà tàlàːtin dà takwàs neː ɓàràːyiː sukà yi saːtàː à bir̃nîn à bàːra, koː dà yakè wannàn adàdiː bài kai yawàn sàːce-sàːcên dà akà yi à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà ba.
-1	sanâr̃wâr̃	sanâr̃wâr̃	NOUN	_	Definite=Ind|Gender=Fem	2	subj	_	_
+1	sanâr̃wâr̃	sanâr̃wâː	NOUN	_	Definite=Ind|Gender=Fem	2	subj	_	_
 2	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	_
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	_
 4	sàu	sàu	NOUN	_	_	3	comp:obj	_	_
@@ -280,7 +280,7 @@
 17	yi	yi	VERB	_	_	16	comp:aux	_	_
 18	saːtàː	saːtàː	VERB	_	Gender=Fem	17	comp:pred	_	_
 19	à	à	ADP	_	_	17	mod	_	_
-20	bir̃nîn	bir̃nîn	NOUN	_	Definite=Def|Gender=Masc	19	comp:obj	_	_
+20	bir̃nîn	bir̃niː	NOUN	_	Definite=Def|Gender=Masc	19	comp:obj	_	_
 21	à	à	ADP	_	Mood=Sub|Person=4	17	mod	_	_
 22	bàːra	bàːra	VERB	_	_	21	comp:obj	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	24	punct	_	_
@@ -291,13 +291,13 @@
 28	adàdiː	adàdiː	NOUN	_	Gender=Masc	29	subj	_	_
 29	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	24	comp:obj	_	_
 30	kai	kai	VERB	_	_	29	comp:aux	_	_
-31	yawàn	yawàn	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	30	comp:obl	_	_
-32	sàːce-sàːcên	sàːce-sàːcên	NOUN	_	_	31	mod	_	_
+31	yawàn	yawàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	30	comp:obl	_	_
+32	sàːce-sàːcên	sàːce-sàːceː	NOUN	_	_	31	mod	_	_
 33	dà	dà	SCONJ	_	_	32	mod@relcl	_	_
 34	akà	yaː	AUX	_	Aspect=Prog|Person=4	33	comp:obj	_	_
 35	yi	yi	VERB	_	_	34	comp:aux	_	_
 36	à	à	ADP	_	_	35	mod	_	_
-37	shèːkaràr̃	shèːkaràr̃	NOUN	_	_	36	comp:obj	_	_
+37	shèːkaràr̃	shèːkaràː	NOUN	_	_	36	comp:obj	_	_
 38	alìf	alìf	NOUN	_	_	37	mod:num	_	_
 39	dà	dà	CCONJ	_	_	40	cc	_	_
 40	ɗàriː	ɗàriː	NUM	_	_	38	conj:coord	_	_
@@ -311,7 +311,7 @@
 
 # sent_id = Barayi_a_Ikko__11
 # text = ꞌyan sàndaː sukà cêː dàliːlìn dà ya sâː sàːce-sàːcên sukà ràgu shiː nèː don mutàːnensù sun ƙaːrà himmàː wajen yaːƙìː dà ɓàràːyiː, sun kuma wargàzà ƙungiỳar̃ bàbban ɓàraːwòn nan mài suːnaː ‘ Lawrence Anini’ wandà kèː dà yâraː ɓàràːyiː à sâssaː dàbam dàbam à Nàːjeːr̃iyàː.
-1	ꞌyan	ꞌyan	NOUN	_	_	3	subj	_	_
+1	ꞌyan	ɗan	NOUN	_	Definite=Cons|Number=Plur	3	subj	_	_
 2	sàndaː	sàndaː	NOUN	_	_	1	compound	_	_
 3	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	_
@@ -319,7 +319,7 @@
 6	dà	dà	SCONJ	_	_	5	mod@relcl	_	_
 7	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	6	comp:obj	_	_
 8	sâː	sâː	VERB	_	_	7	comp:aux	_	_
-9	sàːce-sàːcên	sàːce-sàːcên	NOUN	_	_	10	subj	_	_
+9	sàːce-sàːcên	sàːce-sàːceː	NOUN	_	_	10	subj	_	_
 10	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	8	comp:obj	_	_
 11	ràgu	ràgu	VERB	_	_	10	comp:aux	_	_
 12	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	13	comp:pred	_	_
@@ -363,14 +363,14 @@
 # sent_id = Barayi_a_Ikko__12
 # text = ꞌYan sàndân sun ƙaːràː dà cêːwaː dòːkar̃ soːjì ta biyu - waddà ta baː dà iːkòː à kaːmà màːsu aikàtà lâifi à tsarèː - ita maː taː taimàkaː wajen ragè yawàn sàːce-sàːcên dà akèː yîː.
 1	ꞌyan	ɗan	NOUN	_	_	3	subj	_	_
-2	sàndân	sàndân	NOUN	_	_	1	compound	_	_
+2	sàndân	sàndaː	NOUN	_	_	1	compound	_	_
 3	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
 4	ƙaːràː	ƙaːràː	VERB	_	_	3	comp:aux	_	_
 5	dà	dà	ADP	_	_	4	comp:obl	_	_
 6	cêːwaː	cêː	VERB	_	Gender=Fem	5	comp:obj	_	_
-7	dòːkar̃	dòːkar̃	NOUN	_	_	27	dislocated@subj	_	_
+7	dòːkar̃	dòːkaː	NOUN	_	_	27	dislocated@subj	_	_
 8	soːjì	soːjì	NOUN	_	Gender=Masc	7	mod	_	_
-9	ta	na	ADP	_	_	8	mod	_	_
+9	ta	ta	ADP	_	_	8	mod	_	_
 10	biyu	biyu	NUM	_	_	9	comp:obj	_	_
 11	-	-	PART	_	_	13	punct	_	_
 12	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	13	subj	_	_

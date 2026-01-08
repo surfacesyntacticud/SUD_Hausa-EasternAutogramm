@@ -8,7 +8,7 @@
 5	zìyaːr̃àː	zìyaːr̃àː	NOUN	_	Definite=Ind	4	comp:obj	_	_
 6	zuwàː	zuwàː	ADP	_	_	5	mod	_	_
 7	Afìr̃kà	Afìr̃kà	PROPN	_	_	6	comp:obj	_	_
-8	ta	na	ADP	_	_	7	mod	_	_
+8	ta	ta	ADP	_	_	7	mod	_	_
 9	Yâmma	Yâmma	PROPN	_	_	8	comp:obj	_	_
 
 # sent_id = Yarima_Charles__2
@@ -27,7 +27,7 @@
 11	mài	mài	PART	_	Number=Sing	9	mod	_	_
 12	suːnaː	suːnaː	NOUN	_	Case=Gen|Number=Sing|Person=1	11	comp:obj	_	_
 13	«	«	PUNCT	_	_	14	punct	_	_
-14	Britannia	britannia	PROPN	_	_	16	vocative	_	_
+14	Britannia	Britannia	PROPN	_	_	16	vocative	_	_
 15	»	»	PUNCT	_	_	14	punct	_	_
 16	à	yà	AUX	_	Mood=Sub|Person=4	24	comp:obj	_	_
 17	gaːɓàr̃	gaːɓàaː	VERB	_	_	16	comp:aux	_	_
@@ -47,7 +47,7 @@
 31	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem	29	comp:aux	_	_
 32	'yan	ɗan	NOUN	_	Definite=Cons|Number=Plur	35	mod	_	_
 33	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	31	comp:obj	_	_
-34	sàrautàr̃	sàrautàr̃	NOUN	_	Definite=Cons|Gender=Fem	33	mod	_	_
+34	sàrautàr̃	sàrautàː	NOUN	_	Definite=Cons|Gender=Fem	33	mod	_	_
 35	Bìrtaːniyàː	Bìrtaːniyàː	PROPN	_	_	33	mod	_	_
 36	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	28	comp:obj	_	_
 37	zìyaːr̃àr̃	X	VERB	_	_	36	comp:aux	_	_
@@ -55,13 +55,13 @@
 39	.	.	PUNCT	_	_	24	punct	_	_
 
 # sent_id = Yarima_Charles__3
-# text = Yâːraː ƙanaːnàː dà kèː kân gadoːjiː na bir̃nin Ìkko sunàː tàllàn tarkòn ɓeːr̃aː, da kamfàːyeː, dà agoːgunàn ‘Rolex’ na jàbu à tsàːkaːnin cùnkoːson moːtoːci, duk sun daːkatar̃ dà tàllàce-tàllàcensù dòːmin sù yi kallon hàdàː-hadâr̃ da takèː àukuwaː à bàːkin tèːkûn.
+# text = yâːraː ƙanaːnàː dà kèː kân gadoːjiː na bir̃nin Ìkko sunàː tàllàn tarkòn ɓeːr̃aː, da kamfàːyeː, dà agoːgunàn ‘ Rolex’ na jàbu à tsàːkaːnin cùnkoːson moːtoːci, duk sun daːkatar̃ dà tàllàce-tàllàcensù dòːmin sù yi kallon hàdàː-hadâr̃ da takèː àukuwaː à bàːkin tèːkûn.
 # text_ortho = Yâːraː ƙanaːnàː dà kèː kân gadoːjiː na bir̃nin Ìkko sunàː tàllàn tarkòn ɓeːr̃aː, da kamfàːyeː, dà agoːgunàn ‘Rolex’ na jàbu à tsàːkaːnin cùnkoːson moːtoːci, duk sun daːkatar̃ dà tàllàce-tàllàcensù dòːmin sù yi kallon hàdàː-hadâr̃ da takèː àukuwaː à bàːkin tèːkûn.
 1	yâːraː	yaːròː	NOUN	_	Definite=Ind|Number=Plur	10	subj	_	_
-2	ƙanaːnàː	ƙanaːnàː	ADV	_	Number=Plur	10	subj	_	_
-3	dà	dà	SCONJ	_	_	2	mod@relcl	_	_
-4	kèː	keː	PART	_	Aspect=Prog	3	comp:obj	_	_
-5	kân	kân	ADP	_	_	2	mod	_	_
+2	ƙanaːnàː	ƙanaːnàː	ADJ	_	Number=Plur	1	mod	_	_
+3	dà	dà	SCONJ	_	_	1	mod@relcl	_	_
+4	kèː	keː	AUX	_	Aspect=Prog|Relative=Yes	3	comp:obj	_	_
+5	kân	kân	ADP	_	_	4	comp:pred	_	_
 6	gadoːjiː	gadoːjiː	NOUN	_	Definite=Ind|Number=Plur	5	comp:obj	_	_
 7	na	na	ADP	_	_	6	mod	_	_
 8	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	_
@@ -77,7 +77,7 @@
 18	dà	dà	CCONJ	_	_	19	cc	_	_
 19	agoːgunàn	agoːgunàː	NOUN	_	Definite=Cons|Number=Plur	31	subj	_	_
 20	‘	‘	PUNCT	_	_	19	punct	_	_
-21	Rolex	rolex	PROPN	_	_	31	dislocated@subj	_	SpaceAfter=No
+21	Rolex	Rolex	PROPN	_	_	31	dislocated@subj	_	SpaceAfter=No
 22	’	’	PUNCT	_	_	19	punct	_	_
 23	na	na	ADP	_	_	19	mod	_	_
 24	jàbu	jàbu	ADJ	_	Number=Plur	23	comp:obj	_	_
@@ -100,8 +100,8 @@
 41	takèː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	40	comp:obj	_	_
 42	àukuwaː	àukuwaː	NOUN	_	ExtPos=NOUN|Gender=Fem	41	comp:aux	_	_
 43	à	à	ADP	_	_	42	comp:obl	_	_
-44	bàːkin	bàːkin	ADP	_	_	43	compound	_	_
-45	tèːkûn	tèːkûn	NOUN	_	Definite=Cons|Gender=Masc	43	comp:obj	_	SpaceAfter=No
+44	bàːkin	bàːkiː	ADP	_	Definite=Cons|Gender=Masc	43	comp.obj	_	_
+45	tèːkûn	tèːkuː	NOUN	_	Definite=Cons|Gender=Masc	43	comp:obj	_	SpaceAfter=No
 46	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = Yarima_Charles__4
@@ -110,7 +110,7 @@
 1	bìsàː	bìsàː	ADP	_	Number=Plur	0	root	_	_
 2	àlꞌaːdàː	àlꞌaːdàː	NOUN	_	Gender=Fem	1	comp:aux	_	_
 3	bàːƙin	bàːƙin	ADP	_	Definite=Cons|Gender=Masc	2	comp:obl	_	_
-4	Gwamnatin	gwamnatin	PROPN	_	_	3	mod	_	_
+4	Gwamnatin	Gwamnatin	PROPN	_	_	3	mod	_	_
 5	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	Number=Plur	11	mod	_	_
 6	sukàn	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	1	comp:cleft	_	_
 7	sàuka	sauk-	VERB	_	_	6	comp:aux	_	_
@@ -133,7 +133,7 @@
 24	à	à	ADP	_	_	21	mod	_	_
 25	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	24	comp:obj	_	_
 26	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	22	mod	_	_
-27	màllakàr̃	màllakàr̃	NOUN	_	_	26	mod	_	_
+27	màllakàr̃	màllakàː	NOUN	_	_	26	mod	_	_
 28	Bìrtaːniyàː	Bìrtaːniyàː	PROPN	_	_	26	mod	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -171,7 +171,7 @@
 29	dà	dà	CCONJ	_	_	28	comp:obl	_	_
 30	ar̃zìkin	ar̃zìkiː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	_
 31	mân	mâi	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	_
-32	feːtùr̃	feːtùr̃	NOUN	_	_	31	mod	_	SpaceAfter=No
+32	feːtùr̃	feːtùː	NOUN	_	_	31	mod	_	SpaceAfter=No
 33	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = Yarima_Charles__6
@@ -263,7 +263,7 @@
 27	zaːsù	zâi	AUX	_	Mood=Sub|Number=Plur|Person=3	26	comp:obj	_	wordform=sù
 28	iyà	iyàː	VERB	_	_	27	comp:aux	_	_
 29	raːmà	raːmàː	VERB	_	_	28	comp:obj	_	_
-30	irin	iriː	ADP	_	Definite=Cons|Gender=Masc	29	comp:obj	_	_
+30	irin	irin	ADP	_	Definite=Cons|Gender=Masc	29	comp:obj	_	_
 31	kar̃imcìn	kar̃imcìː	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	_
 32	dà	dà	SCONJ	_	_	31	mod@relcl	_	_
 33	ꞌyan	ɗan	ADJ	_	Definite=Cons|Number=Plur	32	comp:obj	_	_
@@ -278,7 +278,7 @@
 # text_ortho = Jiyà kuma Gwamnàn Jihàr̃ Ànambar̃à da uwar̃gidansà sukà tàrbi Yàr̃iːmà da Gimbìyaː à fiːlin jirgin samàn na Inugù.
 1	jiyà	jiyà	PRON	_	_	0	root	_	_
 2	kuma	kuma	PART	_	_	1	discourse@top	_	_
-3	Gwamnàn	gwamnàː	PROPN	_	Definite=Cons|Gender=Masc	1	conj:appos	_	_
+3	Gwamnàn	Gwamnàn	PROPN	_	Definite=Cons|Gender=Masc	1	conj:appos	_	_
 4	Jihàr̃	Jihàr̃	PROPN	_	_	3	mod	_	_
 5	Ànambar̃à	Ànambar̃à	PROPN	_	_	3	flat@name	_	_
 6	da	da	CCONJ	_	_	7	cc	_	_
@@ -291,7 +291,7 @@
 13	à	à	ADP	_	_	9	comp:obl	_	_
 14	fiːlin	fiːliː	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	_
 15	jirgin	jirgiː	NOUN	_	Definite=Cons|Gender=Masc	14	mod	_	_
-16	samàn	samàn	NOUN	_	_	14	mod	_	_
+16	samàn	samàː	NOUN	_	_	14	mod	_	_
 17	na	na	ADP	_	Case=Gen	16	mod	_	_
 18	Inugù	Inugù	PROPN	_	_	17	comp:obj	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	1	punct	_	_
@@ -335,7 +335,7 @@
 5	àbinci	àbinci	NOUN	_	Definite=Ind|Gender=Masc	4	comp:obj	_	_
 6	irìː-irìː	irìː-irìː	PROPN	_	Definite=Ind|Gender=Masc	4	comp:obj	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	_
-8	màsu	mi	ADP	_	Number=Plur	13	dislocated@top	_	_
+8	màsu	màsu	ADP	_	Number=Plur	13	dislocated@top	_	_
 9	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc	8	comp:obj	_	_
 10	bàːkiː	bàːkiː	NOUN	_	Definite=Ind|Gender=Masc	9	comp:obj	_	_
 11	miyau	miyau	NOUN	_	Definite=Ind|Gender=Masc	9	comp:obl	_	_
@@ -367,7 +367,7 @@
 7	shàꞌawàː	shàꞌawàː	NOUN	_	Definite=Ind|Gender=Fem	6	comp:obj	_	_
 8	kàmar̃	kàmar̃	ADP	_	_	7	mod	_	_
 9	wata	wata	DET	_	Gender=Fem	10	det	_	_
-10	shirgeːgìyar̃	shirgeːgìyar̃	NOUN	_	Definite=Cons|Gender=Fem	7	conj:appos	_	_
+10	shirgeːgìyar̃	shirgeːgìyaː	NOUN	_	Definite=Cons|Gender=Fem	7	conj:appos	_	_
 11	tar̃waɗaː	tar̃waɗaː	NUM	_	_	10	det	_	_
 12	dà	dà	SCONJ	_	_	10	mod@relcl	_	_
 13	akà	nàː	AUX	_	Aspect=Prog|Person=4	12	comp:obj	_	_
