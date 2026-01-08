@@ -10,7 +10,7 @@
 8	à	à	ADP	_	_	2	mod	_	_
 9	Ìkko	Ìkko	PROPN	_	_	8	comp:obj	_	_
 
-# sent_id = Barayi_a_Ikko__2_split1
+# sent_id = Barayi_a_Ikko__2a
 # text = jiyà dà dare à bir̃nin Ìkko wasu ꞌyan sàndaː màːsu ɗàuke dà màkàːmai sukà iskè wasu ɓàràːyiː sunàː ƙòːƙariː sù fasà ƙoːfàr̃ bankìn ‘ First Bank ’ don sù shìga ciki -
 1	jiyà	jiyà	ADV	_	_	14	discourse	_	_
 2	dà	dà	CCONJ	_	_	1	mod	_	_
@@ -45,7 +45,7 @@
 31	ciki	ciki	ADV	_	_	30	comp:obl	_	_
 32	-	-	PART	_	_	14	punct	_	_
 
-# sent_id = Barayi_a_Ikko__2_split2
+# sent_id = Barayi_a_Ikko__2b
 # text = bankìn ‘ First Bank ’ shiː nèː kuma bankìː mafìː girmaː à cikin ƙasar̃ Nàːjeːr̃iyàː .
 1	bankìn	bankìː	NOUN	_	Definite=Cons|Gender=Masc	7	subj	_	_
 2	‘	‘	PUNCT	_	_	3	punct	_	_
@@ -248,7 +248,7 @@
 26	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	15	comp:obj	_	_
 27	fi	fi	VERB	_	_	26	comp:aux	_	_
 28	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:obj	_	_
-29	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	31	comp:obj	_	_
+29	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	31	comp:pred	_	_
 30	akà	nàː	AUX	_	Aspect=Prog|Person=4	28	mod@relcl	_	_
 31	yi	yi	VERB	_	_	30	comp:aux	_	_
 32	cikin	cikin	ADP	_	_	31	mod	_	_
