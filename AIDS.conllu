@@ -7,9 +7,9 @@
 4	jìkiː	jìkiː	NOUN	_	Gender=Masc	3	mod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	_	_
 6	wato	wato	DET	_	Gender=Masc	8	discourse	_	_
-7	‘	‘	PUNCT	_	_	8	punct	_	_
+7	"	"	PUNCT	_	_	8	punct	_	wordform=‘
 8	AIDS	AIDS	PROPN	_	_	1	conj:dicto	_	SpaceAfter=No
-9	’	’	PUNCT	_	_	8	punct	_	_
+9	"	"	PUNCT	_	_	8	punct	_	wordform=’
 
 # sent_id = AIDS__2a
 # text = cùːtâr̃ nan mài karyà gàrkuwar̃ jìkiː – wàːtòː AIDS – cùːtaː cèː dà akèː bazàːwaː ta jiniː dà màniyyìː;
@@ -413,7 +413,7 @@
 7	kwàmìtî	kwàmìtî	NOUN	_	Definite=Ind	6	mod	_	_
 8	kân	kân	ADP	_	_	7	mod	_	_
 9	cùːtar̃	cùːtaː	NOUN	_	Definite=Ind|Gender=Fem	8	comp:obj	_	_
-10	AIDS	AIDS	PROPN	_	_	6	mod	_	SpaceAfter=No
+10	AIDS	AIDS	PROPN	_	_	9	mod	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 13	ƙaːràː	ƙaːràː	VERB	_	_	12	comp:aux	_	_

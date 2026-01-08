@@ -1,8 +1,8 @@
 # sent_id = Yarima_Charles__1
 # text = Yàr̃iːmà Charles yaː kai zìyaːr̃àː zuwàː Afìr̃kà ta Yâmma
 # text_ortho = Yàr̃iːmà Charles yaː kai zìyaːr̃àː zuwàː Afìr̃kà ta Yâmma
-1	yàr̃iːmà	yàr̃iːmà	INTJ	_	_	3	mod	_	_
-2	Charles	Charles	PROPN	_	_	1	mod	_	_
+1	Yàr̃iːmà	Yàr̃iːmà	PROPN	_	_	2	mod	_	_
+2	Charles	Charles	PROPN	_	_	3	subj	_	_
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 4	kai	kai	VERB	_	_	3	comp:aux	_	_
 5	zìyaːr̃àː	zìyaːr̃àː	NOUN	_	Definite=Ind	4	comp:obj	_	_
@@ -15,26 +15,26 @@
 # text = gàː mafìː yawancin ꞌyan Nàːjeːr̃iyàː, ɓullôːwar jirgin ruwân nan mài suːnaː « Britannia » à gaːɓàr̃ tèːkun Ìkko kwaːnan baːya, ita cèː àlaːmàː ta farkoː dà ta nuːnà cêːwaː 'yan gidan sàrautàr̃ Bìrtaːniyàː sunàː zìyaːr̃àr̃ Nàːjeːr̃iyàː.
 # text_ortho = Gàː mafìː yawancin ꞌyan Nàːjeːr̃iyàː, ɓullôːwar jirgin ruwân nan mài suːnaː « Britannia » à gaːɓàr̃ tèːkun Ìkko kwaːnan baːya, ita cèː àlaːmàː ta farkoː dà ta nuːnà cêːwaː 'yan gidan sàrautàr̃ Bìrtaːniyàː sunàː zìyaːr̃àr̃ Nàːjeːr̃iyàː.
 1	gàː	gàː	PART	_	_	24	mod	_	_
-2	mafìː	mafìː	NOUN	_	Gender=Masc	1	subj	_	_
-3	yawancin	yawanciː	NOUN	_	Definite=Cons|Gender=Masc	1	subj	_	_
+2	mafìː	mafìː	PART	_	Gender=Masc|PartType=Der	1	subj	_	_
+3	yawancin	yawanciː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj	_	_
 4	ꞌyan	ꞌyan	ADJ	_	_	3	mod	_	_
-5	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	3	mod	_	SpaceAfter=No
+5	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	4	compound	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	_
 7	ɓullôːwar	ɓullôːwaː	NOUN	_	Definite=Cons|Number=Plur	24	subj	_	_
 8	jirgin	jirgiː	NOUN	_	Definite=Cons|Gender=Masc	7	mod	_	_
 9	ruwân	ruwaː	NOUN	_	Definite=Cons|Number=Plur	8	mod	_	_
-10	nan	nan	DET	_	PronType=Dem	9	det	_	_
-11	mài	mài	PART	_	Number=Sing	9	mod	_	_
-12	suːnaː	suːnaː	NOUN	_	Case=Gen|Number=Sing|Person=1	11	comp:obj	_	_
+10	nan	nan	DET	_	PronType=Dem	8	det	_	_
+11	mài	mài	PART	_	Number=Sing	8	mod	_	_
+12	suːnaː	suːnaː	NOUN	_	Case=Gen|Number=Sing|Person=1	11	compound	_	_
 13	«	«	PUNCT	_	_	14	punct	_	_
-14	Britannia	Britannia	PROPN	_	_	16	vocative	_	_
+14	Britannia	Britannia	PROPN	_	_	12	mod	_	_
 15	»	»	PUNCT	_	_	14	punct	_	_
-16	à	yà	AUX	_	Mood=Sub|Person=4	24	comp:obj	_	_
-17	gaːɓàr̃	gaːɓàaː	VERB	_	_	16	comp:aux	_	_
-18	tèːkun	tèːkun	ADP	_	Definite=Cons|Gender=Masc	17	comp:obj	_	_
-19	Ìkko	Ìkko	PROPN	_	_	18	comp:obj	_	_
-20	kwaːnan	kwaːnaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	25	mod	_	_
-21	baːya	baːya	ADV	_	_	18	mod	_	SpaceAfter=No
+16	à	à	ADP	_	_	7	mod	_	_
+17	gaːɓàr̃	gaːɓàː	NOUN	_	Gender=Fem	16	comp:obj	_	_
+18	tèːkun	tèːkun	ADP	_	Definite=Cons|Gender=Masc	17	mod	_	_
+19	Ìkko	Ìkko	PROPN	_	_	18	mod	_	_
+20	kwaːnan	kwaːnaː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	7	mod	_	_
+21	baːya	baːya	ADV	_	_	20	mod	_	SpaceAfter=No
 22	,	,	PUNCT	_	_	1	punct	_	_
 23	ita	ita	PRON	_	Gender=Fem|Person=3	24	comp:pred	_	_
 24	cèː	neː	AUX	_	Gender=Fem	0	root	_	_
@@ -44,13 +44,13 @@
 28	dà	dà	SCONJ	_	_	25	mod@relcl	_	_
 29	ta	ta	AUX	_	Case=Gen|Gender=Fem	28	comp:obj	_	_
 30	nuːnà	nuːn-	VERB	_	_	29	comp:obj	_	_
-31	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem	29	comp:aux	_	_
-32	'yan	ɗan	NOUN	_	Definite=Cons|Number=Plur	35	mod	_	_
-33	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	31	comp:obj	_	_
-34	sàrautàr̃	sàrautàː	NOUN	_	Definite=Cons|Gender=Fem	33	mod	_	_
-35	Bìrtaːniyàː	Bìrtaːniyàː	PROPN	_	_	33	mod	_	_
-36	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	28	comp:obj	_	_
-37	zìyaːr̃àr̃	X	VERB	_	_	36	comp:aux	_	_
+31	cêːwaː	cêːwaː	SCONJ	_	ExtPos=NOUN|Gender=Fem	30	comp:obj	_	_
+32	'yan	ɗan	NOUN	_	Definite=Cons|Number=Plur	36	subj	_	_
+33	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	32	mod	_	_
+34	sàrautàr̃	sàrautàː	NOUN	_	Definite=Cons|Gender=Fem	32	mod	_	_
+35	Bìrtaːniyàː	Bìrtaːniyàː	PROPN	_	_	34	mod	_	_
+36	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	31	comp:obj	_	_
+37	zìyaːr̃àr̃	zìyaːr̃àː	NOUN	_	Definite=Cons|Gender=Fem	36	comp:aux	_	_
 38	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	37	comp:obj	_	SpaceAfter=No
 39	.	.	PUNCT	_	_	24	punct	_	_
 
@@ -76,10 +76,10 @@
 17	,	,	PUNCT	_	_	19	punct	_	_
 18	dà	dà	CCONJ	_	_	19	cc	_	_
 19	agoːgunàn	agoːgunàː	NOUN	_	Definite=Cons|Number=Plur	31	subj	_	_
-20	‘	‘	PUNCT	_	_	19	punct	_	_
-21	Rolex	Rolex	PROPN	_	_	31	dislocated@subj	_	SpaceAfter=No
-22	’	’	PUNCT	_	_	19	punct	_	_
-23	na	na	ADP	_	_	19	mod	_	_
+20	"	"	PUNCT	_	_	19	punct	_	wordform=‘
+21	Rolex	Rolex	PROPN	_	_	19	mod	_	SpaceAfter=No
+22	"	"	PUNCT	_	_	19	punct	_	wordform=’
+23	na	na	ADP	_	_	21	mod	_	_
 24	jàbu	jàbu	ADJ	_	Number=Plur	23	comp:obj	_	_
 25	à	à	ADP	_	_	16	mod	_	_
 26	tsàːkaːnin	tsàːkaːniː	NOUN	_	Definite=Cons|Number=Plur	25	comp:obj	_	_
@@ -105,7 +105,7 @@
 46	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = Yarima_Charles__4
-# text = Bìsàː àlꞌaːdàː bàːƙin Gwamnatin Nàːjeːr̃iyàː sukàn sàuka nèː à tsoːhon gidan Gwamnatì dà kèː l̀kko, wandà à dâː shiː nèː gidan Gwamnà à loːkàcin mulkìn màllakàr̃ Bìrtaːniyàː.
+# text = bìsàː àlꞌaːdàː bàːƙin Gwamnatin Nàːjeːr̃iyàː sukàn sàuka nèː à tsoːhon gidan gwamnatì dà kèː Ìkko, wandà à dâː shiː nèː gidan gwamnà à loːkàcin mulkìn màllakàr̃ Bìrtaːniyàː.
 # text_ortho = Bìsàː àlꞌaːdàː bàːƙin Gwamnatin Nàːjeːr̃iyàː sukàn sàuka nèː à tsoːhon gidan Gwamnatì dà kèː l̀kko, wandà à dâː shiː nèː gidan Gwamnà à loːkàcin mulkìn màllakàr̃ Bìrtaːniyàː.
 1	bìsàː	bìsàː	ADP	_	Number=Plur	0	root	_	_
 2	àlꞌaːdàː	àlꞌaːdàː	NOUN	_	Gender=Fem	1	comp:aux	_	_
@@ -118,7 +118,7 @@
 9	à	à	ADP	_	_	7	comp:obl	_	_
 10	tsoːhon	tsoːhoː	ADJ	_	Definite=Cons|Gender=Masc	9	comp:obj	_	_
 11	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj@G	_	_
-12	Gwamnatì	Gwamnatì	PROPN	_	_	11	mod	_	_
+12	gwamnatì	gwamnatì	NOUN	_	_	11	mod	_	_
 13	dà	dà	SCONJ	_	_	11	mod@relcl	_	_
 14	kèː	nèːː	AUX	_	Aspect=Prog	13	comp:obj	_	_
 15	Ìkko	Ìkko	PROPN	_	_	14	conj:coord	_	SpaceAfter=No
@@ -129,7 +129,7 @@
 20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	21	comp:pred	_	_
 21	nèː	neː	AUX	_	Gender=Masc|Number=Plur	18	discourse	_	_
 22	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:pred	_	_
-23	Gwamnà	Gwamnà	PROPN	_	_	22	mod	_	_
+23	gwamnà	gwamnà	NOUN	_	_	22	mod	_	_
 24	à	à	ADP	_	_	21	mod	_	_
 25	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	24	comp:obj	_	_
 26	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	22	mod	_	_
@@ -207,10 +207,10 @@
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	_
 5	Fir̃aːyìm	Fir̃aːyìm	PROPN	_	_	14	conj:coord	_	_
 6	Ministàː	Ministàː	PROPN	_	_	5	flat@name	_	_
-7	‘	‘	PUNCT	_	_	8	punct	_	_
+7	"	"	PUNCT	_	_	8	punct	_	wordform=‘
 8	Margaret	Margaret	PROPN	_	_	13	mod	_	_
 9	Thatcher	Thatcher	PROPN	_	_	8	flat@name	_	SpaceAfter=No
-10	’	’	PUNCT	_	_	8	punct	_	_
+10	"	"	PUNCT	_	_	8	punct	_	wordform=’
 11	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	_
 12	kai	kai	VERB	_	_	11	comp:aux	_	_
 13	zìyaːr̃àː	zìyaːr̃àː	NOUN	_	Gender=Fem	12	comp:obj	_	_
@@ -234,22 +234,22 @@
 # sent_id = Yarima_Charles__8
 # text = Àmfàːnin jirgin ruwân nan wàːtòː ‘Britannia’ shiː nèː don Yàr̃iːmà Charles dà Gimbìyaː sù sàːmu wani wurîn dà sukà saːbàː dà shiː, indà zaː sù iyà raːmà irin kar̃imcìn dà ꞌyan Nàːjeːr̃iyàː sukà yi musù.
 # text_ortho = Àmfàːnin jirgin ruwân nan wàːtòː ‘Britannia’ shiː nèː don Yàr̃iːmà Charles dà Gimbìyaː sù sàːmu wani wurîn dà sukà saːbàː dà shiː, indà zaː sù iyà raːmà irin kar̃imcìn dà ꞌyan Nàːjeːr̃iyàː sukà yi musù.
-1	àmfàːnin	àmfàːniː	NOUN	_	Definite=Cons|Gender=Masc	16	dislocated@subj	_	_
+1	àmfàːnin	àmfàːniː	NOUN	_	Definite=Cons|Gender=Masc	10	subj	_	_
 2	jirgin	jirgiː	NOUN	_	Definite=Cons|Gender=Masc	1	mod	_	_
 3	ruwân	ruwaː	NOUN	_	Definite=Cons|Number=Plur	1	mod	_	_
 4	nan	nan	DET	_	PronType=Dem	3	det	_	_
 5	wàːtòː	wàːtòː	X	_	Gender=Masc	16	discourse	_	_
-6	‘	‘	PUNCT	_	_	7	punct	_	_
+6	"	"	PUNCT	_	_	7	punct	_	wordform=‘
 7	Britannia	Britannia	PROPN	_	_	16	dislocated@top	_	SpaceAfter=No
-8	’	’	PUNCT	_	_	7	punct	_	_
-9	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	16	mod	_	_
-10	nèː	neː	PART	_	_	9	discourse@foc	_	_
-11	don	don	ADP	_	_	16	mod	_	_
-12	Yàr̃iːmà	Yàr̃iːmà	PROPN	_	_	7	mod	_	_
-13	Charles	Charles	PROPN	_	_	15	flat@name	_	_
+8	"	"	PUNCT	_	_	7	punct	_	wordform=’
+9	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	10	comp:pred	_	_
+10	nèː	neː	PART	_	_	0	discourse@foc	_	_
+11	don	don	ADP	_	_	10	dislocated@comp	_	_
+12	Yàr̃iːmà	Yàr̃iːmà	PROPN	_	_	13	mod	_	_
+13	Charles	Charles	PROPN	_	_	16	subj	_	_
 14	dà	dà	CCONJ	_	_	15	cc	_	_
-15	Gimbìyaː	Gimbìyaː	PROPN	_	_	12	conj:coord	_	_
-16	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	0	root	_	_
+15	Gimbìyaː	Gimbìyaː	PROPN	_	_	13	conj:coord	_	_
+16	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	11	comp:obj	_	_
 17	sàːmu	saːmùː	VERB	_	_	16	comp:aux	_	_
 18	wani	wani	DET	_	Definite=Spec|Gender=Masc	19	det	_	_
 19	wurîn	wuriː	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	_
@@ -279,8 +279,8 @@
 1	jiyà	jiyà	PRON	_	_	0	root	_	_
 2	kuma	kuma	PART	_	_	1	discourse@top	_	_
 3	Gwamnàn	Gwamnàn	PROPN	_	Definite=Cons|Gender=Masc	1	conj:appos	_	_
-4	Jihàr̃	Jihàr̃	PROPN	_	_	3	mod	_	_
-5	Ànambar̃à	Ànambar̃à	PROPN	_	_	3	flat@name	_	_
+4	Jihàr̃	Jihàr̃	PROPN	_	_	5	mod	_	_
+5	Ànambar̃à	Ànambar̃à	PROPN	_	_	3	mod	_	_
 6	da	da	CCONJ	_	_	7	cc	_	_
 7	uwar̃gidansà	uwar̃gidaː	NOUN	_	Gender=Fem	3	conj:coord	_	_
 8	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	1	comp:cleft	_	_
