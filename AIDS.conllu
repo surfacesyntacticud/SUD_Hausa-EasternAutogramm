@@ -334,7 +334,7 @@
 
 # sent_id = AIDS__11
 # text_ortho = Duk dà haka, Ministàn Kiːwòn Laːfiyàː na Nàːjeːr̃iyàː, Fàr̃feːsàː Ransome-Kuti, yaː cêː cùːtar̃ AIDS taː kashè mutàːneː goːmà shâː shidà dàgà cikin tàlàːtin dà bìyar̃ dà sukà kàːmu dà ita tun loːkàcîn dà ta shigoː Nàːjeːriyàː fìye dà shèːkàruː ukù dà sukà wucèː.
-# text = Duk dà haka, Ministàn Kiːwòn Laːfiyàː na Nàːjeːr̃iyàː, Fàr̃feːsàː Ransome-Kuti, yaː cêː cùːtar̃ AIDS taː kashè mutàːneː goːmà shâː shidà dàgà cikin tàlàːtin dà bìyar̃ dà sukà kàːmu dà ita tun loːkàcîn dà ta shigoː Nàːjeːriyàː fìye dà shèːkàruː ukù dà sukà wucèː.
+# text = duk dà haka, ministàn kiːwòn laːfiyàː na Nàːjeːr̃iyàː, Fàr̃feːsàː Ransome-Kuti, yaː cêː cùːtar̃ AIDS taː kashè mutàːneː goːmà shâː shidà dàgà cikin tàlàːtin dà bìyar̃ dà sukà kàːmu dà ita tun loːkàcîn dà ta shigoː Nàːjeːriyàː fìye dà shèːkàruː ukù dà sukà wucèː.
 1	duk	dukà	PRON	_	_	14	mod	_	_
 2	dà	dà	CCONJ	_	_	3	cc	_	_
 3	haka	haka	ADV	_	_	1	conj:coord	_	SpaceAfter=No
@@ -362,7 +362,7 @@
 25	cikin	cikin	ADP	_	_	24	comp:obl	_	_
 26	tàlàːtin	tàlàːtin	NUM	_	_	25	comp:obj	_	_
 27	dà	dà	CCONJ	_	_	28	cc	_	_
-28	bìyar̃	bìyar̃	NUM	_	Foreign=Yes	26	conj:coord	_	_
+28	bìyar̃	bìyar̃	NUM	_	_	26	conj:coord	_	_
 29	dà	dà	SCONJ	_	_	26	mod@relcl	_	_
 30	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	29	comp:obj	_	_
 31	kàːmu	nàːmuː	VERB	_	_	30	comp:aux	_	_
@@ -402,9 +402,9 @@
 14	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = AIDS__13
-# text = ministàn, wandà shiː nèː shùːgàban kwàmìtî kân cùːtar̃ AIDS, ya ƙaːràː dà cêːwaː kwàmìtînsà yanàː naːnàːtaː wà asibitoːciː sù tabbatar̃ dà kyâun jinîn dà zaː sù ɗuːràː wà maràsaː laːfiyàː, koː dà yakè yaː cêː bàbbar̃ màtsalàː ita cèː rashìn naːꞌur̃oːr̃in duːbà jiniː.
+# text = ministàn, wandà shiː nèː shùːgàban kwàmìtî kân cùːtar̃ AIDS, ya ƙaːràː dà cêːwaː kwàmìtînsà yanàː naːnàːtaː wà asibitoːciː sù tabbatar̃ dà kyâun jinîn dà zaːsù ɗuːràː wà maràsaː laːfiyàː, koː dà yakè yaː cêː bàbbar̃ màtsalàː ita cèː rashìn naːꞌur̃oːr̃in duːbà jiniː.
 # text_ortho = Ministàn, wandà shiː nèː shùːgàban kwàmìtî kân cùːtar̃ AIDS, ya ƙaːràː dà cêːwaː kwàmìtînsà yanàː naːnàːtaː wà asibitoːciː sù tabbatar̃ dà kyâun jinîn dà zaː sù ɗuːràː wà maràsaː laːfiyàː, koː dà yakè yaː cêː bàbbar̃ màtsalàː ita cèː rashìn naːꞌur̃oːr̃in duːbà jiniː.
-1	ministàn	ministàː	NOUN	_	Foreign=Yes	12	subj	_	SpaceAfter=No
+1	ministàn	ministàː	NOUN	_	_	12	subj	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	5	subj	_	_
 4	shiː	shiː	PRON	_	Gender=Masc|Person=3	5	comp:pred	_	_
