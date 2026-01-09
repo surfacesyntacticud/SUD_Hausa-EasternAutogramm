@@ -1,11 +1,11 @@
 # sent_id = 11_Fela_Kuti__1
-# text = Labaːr̃în ˤFela Kutiˤ
+# text = Labaːr̃în 'Fela Kuti'
 1	Labaːr̃în	_	_	_	_	_	_	_	_
-2	ˤFela	_	_	_	_	_	_	_	_
-3	Kutiˤ	_	_	_	_	_	_	_	_
+2	'Fela	_	_	_	_	_	_	_	_
+3	Kuti'	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__2
-# text = À gaskiyaː ìdan kaː ga Fela Kuti yana tìːƙar̃ rawar̃sà à gàban jàːmaˤàː, dà kyar̃ zaːkà yarda dà cêwaː shèːkàrunsà hàmsin nèː dà haihùwaː.
+# text = À gaskiyaː ìdan kaː ga Fela Kuti yana tìːƙar̃ rawar̃sà à gàban jàːma'àː, dà kyar̃ zaːkà yarda dà cêwaː shèːkàrunsà hàmsin nèː dà haihùwaː.
 1	À	_	_	_	_	_	_	_	_
 2	gaskiyaː	_	_	_	_	_	_	_	_
 3	ìdan	_	_	_	_	_	_	_	_
@@ -18,7 +18,7 @@
 10	rawar̃sà	_	_	_	_	_	_	_	_
 11	à	_	_	_	_	_	_	_	_
 12	gàban	_	_	_	_	_	_	_	_
-13	jàːmaˤàː	_	_	_	_	_	_	_	SpaceAfter=No
+13	jàːma'àː	_	_	_	_	_	_	_	SpaceAfter=No
 14	,	_	_	_	_	_	_	_	_
 15	dà	_	_	_	_	_	_	_	_
 16	kyar̃	_	_	_	_	_	_	_	_
@@ -34,7 +34,7 @@
 26	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__3
-# text = Shiː dai mùtûm neː dà ya dade an san shì à kân sànaːˤàŕsà, koː dà yakèː kuma yaː fuːskanci wasu wahaloːliːdà daːmaː.
+# text = Shiː dai mùtûm neː dà ya dade an san shì à kân sànaː'àŕsà, koː dà yakèː kuma yaː fuːskanci wasu wahaloːliːdà daːmaː.
 1	Shiː	_	_	_	_	_	_	_	_
 2	dai	_	_	_	_	_	_	_	_
 3	mùtûm	_	_	_	_	_	_	_	_
@@ -47,7 +47,7 @@
 10	shì	_	_	_	_	_	_	_	_
 11	à	_	_	_	_	_	_	_	_
 12	kân	_	_	_	_	_	_	_	_
-13	sànaːˤàŕsà	_	_	_	_	_	_	_	SpaceAfter=No
+13	sànaː'àŕsà	_	_	_	_	_	_	_	SpaceAfter=No
 14	,	_	_	_	_	_	_	_	_
 15	koː	_	_	_	_	_	_	_	_
 16	dà	_	_	_	_	_	_	_	_
@@ -135,7 +135,7 @@
 22	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__6
-# text = Koː à loːkàcîn Fela yaː iya kaɗa ˤpianoˤ dà buːsà ˤsaxophoneˤ, dàgà bìsaːniː kuma ya zama shugàban makàɗaː dà mawakansà.
+# text = Koː à loːkàcîn Fela yaː iya kaɗa 'piano' dà buːsà 'saxophone', dàgà bìsaːniː kuma ya zama shugàban makàɗaː dà mawakansà.
 1	Koː	_	_	_	_	_	_	_	_
 2	à	_	_	_	_	_	_	_	_
 3	loːkàcîn	_	_	_	_	_	_	_	_
@@ -143,10 +143,10 @@
 5	yaː	_	_	_	_	_	_	_	_
 6	iya	_	_	_	_	_	_	_	_
 7	kaɗa	_	_	_	_	_	_	_	_
-8	ˤpianoˤ	_	_	_	_	_	_	_	_
+8	'piano'	_	_	_	_	_	_	_	_
 9	dà	_	_	_	_	_	_	_	_
 10	buːsà	_	_	_	_	_	_	_	_
-11	ˤsaxophoneˤ	_	_	_	_	_	_	_	SpaceAfter=No
+11	'saxophone'	_	_	_	_	_	_	_	SpaceAfter=No
 12	,	_	_	_	_	_	_	_	_
 13	dàgà	_	_	_	_	_	_	_	_
 14	bìsaːniː	_	_	_	_	_	_	_	_
@@ -160,7 +160,7 @@
 22	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__7
-# text = Tò àmmaː irin mabuːsâr̃ nan mài kàmaː dà algaità dà akề kira ˤsaxophoneˤ, ita cèː koːwa ya fi dangàntà kàɗe-kàɗen Fela da ita.
+# text = Tò àmmaː irin mabuːsâr̃ nan mài kàmaː dà algaità dà akề kira 'saxophone', ita cèː koːwa ya fi dangàntà kàɗe-kàɗen Fela da ita.
 1	Tò	_	_	_	_	_	_	_	_
 2	àmmaː	_	_	_	_	_	_	_	_
 3	irin	_	_	_	_	_	_	_	_
@@ -173,7 +173,7 @@
 10	dà	_	_	_	_	_	_	_	_
 11	akề	_	_	_	_	_	_	_	_
 12	kira	_	_	_	_	_	_	_	_
-13	ˤsaxophoneˤ	_	_	_	_	_	_	_	SpaceAfter=No
+13	'saxophone'	_	_	_	_	_	_	_	SpaceAfter=No
 14	,	_	_	_	_	_	_	_	_
 15	ita	_	_	_	_	_	_	_	_
 16	cèː	_	_	_	_	_	_	_	_
@@ -315,7 +315,7 @@
 34	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__12
-# text = Don hakà neː à shekarar̃ alìf dà ɗàriː tar̃a dà hàmsin dà takwas ya ző nân Landân, indà ya shiga Kwaleːjin Kade-Kade dà Wake-Wake ta ˤTrinityˤ.
+# text = Don hakà neː à shekarar̃ alìf dà ɗàriː tar̃a dà hàmsin dà takwas ya ző nân Landân, indà ya shiga Kwaleːjin Kade-Kade dà Wake-Wake ta 'Trinity'.
 1	Don	_	_	_	_	_	_	_	_
 2	hakà	_	_	_	_	_	_	_	_
 3	neː	_	_	_	_	_	_	_	_
@@ -342,7 +342,7 @@
 24	dà	_	_	_	_	_	_	_	_
 25	Wake-Wake	_	_	_	_	_	_	_	_
 26	ta	_	_	_	_	_	_	_	_
-27	ˤTrinityˤ	_	_	_	_	_	_	_	SpaceAfter=No
+27	'Trinity'	_	_	_	_	_	_	_	SpaceAfter=No
 28	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__13
@@ -390,7 +390,7 @@
 15	alìf	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__15
-# text = dà dàriː tarà dà sittin dà tara, ya sauyà suːnan ayàr̃in makàdansà ya koːma ˤAfrica 70ˤ, sànnan ya faːrà yîn fayar̃ayai irl-iri wadandal sukà sàː shi cikin sahun makàːdan zaːmàniː na duːniyaː baːkiː daya.
+# text = dà dàriː tarà dà sittin dà tara, ya sauyà suːnan ayàr̃in makàdansà ya koːma 'Africa 70', sànnan ya faːrà yîn fayar̃ayai irl-iri wadandal sukà sàː shi cikin sahun makàːdan zaːmàniː na duːniyaː baːkiː daya.
 1	dà	_	_	_	_	_	_	_	_
 2	dàriː	_	_	_	_	_	_	_	_
 3	tarà	_	_	_	_	_	_	_	_
@@ -406,8 +406,8 @@
 13	makàdansà	_	_	_	_	_	_	_	_
 14	ya	_	_	_	_	_	_	_	_
 15	koːma	_	_	_	_	_	_	_	_
-16	ˤAfrica	_	_	_	_	_	_	_	_
-17	70ˤ	_	_	_	_	_	_	_	SpaceAfter=No
+16	'Africa	_	_	_	_	_	_	_	_
+17	70'	_	_	_	_	_	_	_	SpaceAfter=No
 18	,	_	_	_	_	_	_	_	_
 19	sànnan	_	_	_	_	_	_	_	_
 20	ya	_	_	_	_	_	_	_	_
@@ -430,7 +430,7 @@
 37	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__16
-# text = À wannàn loːkàciː nèː kuma mâitar̃ Fela à shaˤanin siyaːsa ta faːrà fitôːwaː fiːliː.
+# text = À wannàn loːkàciː nèː kuma mâitar̃ Fela à sha'anin siyaːsa ta faːrà fitôːwaː fiːliː.
 1	À	_	_	_	_	_	_	_	_
 2	wannàn	_	_	_	_	_	_	_	_
 3	loːkàciː	_	_	_	_	_	_	_	_
@@ -439,7 +439,7 @@
 6	mâitar̃	_	_	_	_	_	_	_	_
 7	Fela	_	_	_	_	_	_	_	_
 8	à	_	_	_	_	_	_	_	_
-9	shaˤanin	_	_	_	_	_	_	_	_
+9	sha'anin	_	_	_	_	_	_	_	_
 10	siyaːsa	_	_	_	_	_	_	_	_
 11	ta	_	_	_	_	_	_	_	_
 12	faːrà	_	_	_	_	_	_	_	_
@@ -448,17 +448,17 @@
 15	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__17
-# text = Ya kar̃à wani gidan tàːruwar̃ àlˤummàː à ùnguwar̃ "Surulereˤ dà kèː baːyan bir̃nin Ìkko, wandal ya lakabaː wà suːnaː ˤThe Shrineˤ.
+# text = Ya kar̃à wani gidan tàːruwar̃ àl'ummàː à ùnguwar̃ "Surulere' dà kèː baːyan bir̃nin Ìkko, wandal ya lakabaː wà suːnaː 'The Shrine'.
 1	Ya	_	_	_	_	_	_	_	_
 2	kar̃à	_	_	_	_	_	_	_	_
 3	wani	_	_	_	_	_	_	_	_
 4	gidan	_	_	_	_	_	_	_	_
 5	tàːruwar̃	_	_	_	_	_	_	_	_
-6	àlˤummàː	_	_	_	_	_	_	_	_
+6	àl'ummàː	_	_	_	_	_	_	_	_
 7	à	_	_	_	_	_	_	_	_
 8	ùnguwar̃	_	_	_	_	_	_	_	_
 9	"	_	_	_	_	_	_	_	_
-10	Surulereˤ	_	_	_	_	_	_	_	_
+10	Surulere'	_	_	_	_	_	_	_	_
 11	dà	_	_	_	_	_	_	_	_
 12	kèː	_	_	_	_	_	_	_	_
 13	baːyan	_	_	_	_	_	_	_	_
@@ -470,8 +470,8 @@
 19	lakabaː	_	_	_	_	_	_	_	_
 20	wà	_	_	_	_	_	_	_	_
 21	suːnaː	_	_	_	_	_	_	_	_
-22	ˤThe	_	_	_	_	_	_	_	_
-23	Shrineˤ	_	_	_	_	_	_	_	SpaceAfter=No
+22	'The	_	_	_	_	_	_	_	_
+23	Shrine'	_	_	_	_	_	_	_	SpaceAfter=No
 24	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__18
@@ -509,7 +509,7 @@
 31	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__19
-# text = À shekarar̃ alìf da ɗàriː tarà dà sàbàˤin dà bakwài neː àbîn ya kai magaryar̃ tikềwaː, loːkàcîn daː soːjoːjin gwamnatin Janar ˤObasanjoˤ sukà yi farmaki kaːn gidan Fela dà kè Ikko.
+# text = À shekarar̃ alìf da ɗàriː tarà dà sàbà'in dà bakwài neː àbîn ya kai magaryar̃ tikềwaː, loːkàcîn daː soːjoːjin gwamnatin Janar 'Obasanjo' sukà yi farmaki kaːn gidan Fela dà kè Ikko.
 1	À	_	_	_	_	_	_	_	_
 2	shekarar̃	_	_	_	_	_	_	_	_
 3	alìf	_	_	_	_	_	_	_	_
@@ -517,7 +517,7 @@
 5	ɗàriː	_	_	_	_	_	_	_	_
 6	tarà	_	_	_	_	_	_	_	_
 7	dà	_	_	_	_	_	_	_	_
-8	sàbàˤin	_	_	_	_	_	_	_	_
+8	sàbà'in	_	_	_	_	_	_	_	_
 9	dà	_	_	_	_	_	_	_	_
 10	bakwài	_	_	_	_	_	_	_	_
 11	neː	_	_	_	_	_	_	_	_
@@ -532,7 +532,7 @@
 20	soːjoːjin	_	_	_	_	_	_	_	_
 21	gwamnatin	_	_	_	_	_	_	_	_
 22	Janar	_	_	_	_	_	_	_	_
-23	ˤObasanjoˤ	_	_	_	_	_	_	_	_
+23	'Obasanjo'	_	_	_	_	_	_	_	_
 24	sukà	_	_	_	_	_	_	_	_
 25	yi	_	_	_	_	_	_	_	_
 26	farmaki	_	_	_	_	_	_	_	_
@@ -545,7 +545,7 @@
 33	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__20
-# text = Aka dauki mahaiflyar̃sà mài shekaruː fiye dà sàbàˤin à duːniya à loːkàcin, akà jefà ta ta taːgaː, kuma ta raːsu baːyan dan loːkaːciː kankane sabòːdà raunukàn dà ta ji.
+# text = Aka dauki mahaiflyar̃sà mài shekaruː fiye dà sàbà'in à duːniya à loːkàcin, akà jefà ta ta taːgaː, kuma ta raːsu baːyan dan loːkaːciː kankane sabòːdà raunukàn dà ta ji.
 1	Aka	_	_	_	_	_	_	_	_
 2	dauki	_	_	_	_	_	_	_	_
 3	mahaiflyar̃sà	_	_	_	_	_	_	_	_
@@ -553,7 +553,7 @@
 5	shekaruː	_	_	_	_	_	_	_	_
 6	fiye	_	_	_	_	_	_	_	_
 7	dà	_	_	_	_	_	_	_	_
-8	sàbàˤin	_	_	_	_	_	_	_	_
+8	sàbà'in	_	_	_	_	_	_	_	_
 9	à	_	_	_	_	_	_	_	_
 10	duːniya	_	_	_	_	_	_	_	_
 11	à	_	_	_	_	_	_	_	_
@@ -613,7 +613,7 @@
 16	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__23
-# text = Dà gwamnatin farar̃-hùːlaː ta karbi mulkìːà shěkarar̃ alìf ɗà ɗàriː tar̃à ɗà sàbàˤin dà tara, sai Fela ya kar̃a jaːmˤiyyaːrsàː ta kaːnsaː, wadda ya kiraː "The Movement of the Peopleˤ, wato Jamˤiyyar̃ Jamaˤa.
+# text = Dà gwamnatin farar̃-hùːlaː ta karbi mulkìːà shěkarar̃ alìf ɗà ɗàriː tar̃à ɗà sàbà'in dà tara, sai Fela ya kar̃a jaːm'iyyaːrsàː ta kaːnsaː, wadda ya kiraː "The Movement of the People', wato Jam'iyyar̃ Jama'a.
 1	Dà	_	_	_	_	_	_	_	_
 2	gwamnatin	_	_	_	_	_	_	_	_
 3	farar̃-hùːlaː	_	_	_	_	_	_	_	_
@@ -626,7 +626,7 @@
 10	ɗàriː	_	_	_	_	_	_	_	_
 11	tar̃à	_	_	_	_	_	_	_	_
 12	ɗà	_	_	_	_	_	_	_	_
-13	sàbàˤin	_	_	_	_	_	_	_	_
+13	sàbà'in	_	_	_	_	_	_	_	_
 14	dà	_	_	_	_	_	_	_	_
 15	tara	_	_	_	_	_	_	_	SpaceAfter=No
 16	,	_	_	_	_	_	_	_	_
@@ -634,7 +634,7 @@
 18	Fela	_	_	_	_	_	_	_	_
 19	ya	_	_	_	_	_	_	_	_
 20	kar̃a	_	_	_	_	_	_	_	_
-21	jaːmˤiyyaːrsàː	_	_	_	_	_	_	_	_
+21	jaːm'iyyaːrsàː	_	_	_	_	_	_	_	_
 22	ta	_	_	_	_	_	_	_	_
 23	kaːnsaː	_	_	_	_	_	_	_	SpaceAfter=No
 24	,	_	_	_	_	_	_	_	_
@@ -646,15 +646,15 @@
 30	Movement	_	_	_	_	_	_	_	_
 31	of	_	_	_	_	_	_	_	_
 32	the	_	_	_	_	_	_	_	_
-33	Peopleˤ	_	_	_	_	_	_	_	SpaceAfter=No
+33	People'	_	_	_	_	_	_	_	SpaceAfter=No
 34	,	_	_	_	_	_	_	_	_
 35	wato	_	_	_	_	_	_	_	_
-36	Jamˤiyyar̃	_	_	_	_	_	_	_	_
-37	Jamaˤa	_	_	_	_	_	_	_	SpaceAfter=No
+36	Jam'iyyar̃	_	_	_	_	_	_	_	_
+37	Jama'a	_	_	_	_	_	_	_	SpaceAfter=No
 38	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__24
-# text = Ya reːrà wata waːkaː game dà manufoːfin jamˤiyyar̃ taːsà, waddal à cikintà yu cèː kâmaːtaː ya yi dukkan jama aːr Nijeriyà tà yi huːtuː na wati guːdaː, don koːwaː yà sẵmi suːkuːnin tuːnaːnin hanyar̃ dà zaː à bullo wà matsaloːlin dà ƙasar̃ keː fuːskanta.
+# text = Ya reːrà wata waːkaː game dà manufoːfin jam'iyyar̃ taːsà, waddal à cikintà yu cèː kâmaːtaː ya yi dukkan jama aːr Nijeriyà tà yi huːtuː na wati guːdaː, don koːwaː yà sẵmi suːkuːnin tuːnaːnin hanyar̃ dà zaː à bullo wà matsaloːlin dà ƙasar̃ keː fuːskanta.
 1	Ya	_	_	_	_	_	_	_	_
 2	reːrà	_	_	_	_	_	_	_	_
 3	wata	_	_	_	_	_	_	_	_
@@ -662,7 +662,7 @@
 5	game	_	_	_	_	_	_	_	_
 6	dà	_	_	_	_	_	_	_	_
 7	manufoːfin	_	_	_	_	_	_	_	_
-8	jamˤiyyar̃	_	_	_	_	_	_	_	_
+8	jam'iyyar̃	_	_	_	_	_	_	_	_
 9	taːsà	_	_	_	_	_	_	_	SpaceAfter=No
 10	,	_	_	_	_	_	_	_	_
 11	waddal	_	_	_	_	_	_	_	_
@@ -704,7 +704,7 @@
 47	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__25
-# text = Sai kwatsàm à shekaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà huɗu akà kaːmà Fela, akà gurfaːnar̃ dà shiː gàban shàr̃íˤàː, indà akà yankèː masà hukuncìn daurìn shèːkàruː bìyar̃ à kûrkukû kân laːifin fitaː dà kudaden kasashen wàje dàgà cikin ƙasar̃ - wato aikin sùmoːga.
+# text = Sai kwatsàm à shekaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà huɗu akà kaːmà Fela, akà gurfaːnar̃ dà shiː gàban shàr̃í'àː, indà akà yankèː masà hukuncìn daurìn shèːkàruː bìyar̃ à kûrkukû kân laːifin fitaː dà kudaden kasashen wàje dàgà cikin ƙasar̃ - wato aikin sùmoːga.
 1	Sai	_	_	_	_	_	_	_	_
 2	kwatsàm	_	_	_	_	_	_	_	_
 3	à	_	_	_	_	_	_	_	_
@@ -726,7 +726,7 @@
 19	dà	_	_	_	_	_	_	_	_
 20	shiː	_	_	_	_	_	_	_	_
 21	gàban	_	_	_	_	_	_	_	_
-22	shàr̃íˤàː	_	_	_	_	_	_	_	SpaceAfter=No
+22	shàr̃í'àː	_	_	_	_	_	_	_	SpaceAfter=No
 23	,	_	_	_	_	_	_	_	_
 24	indà	_	_	_	_	_	_	_	_
 25	akà	_	_	_	_	_	_	_	_
@@ -778,7 +778,7 @@
 20	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__27
-# text = Wani àbù kuma dà ya sâː sauran duːniya ta shìga nuːnà shàʼawà gàme dà Fela, shiː nèː gàme dà maːtansà na aureː suː àshirin dà bakwai, wadanda ya auri dukkànsù à shekaràr̃ alìf dà ɗàriː tara dà sàbàˤin dà takwas.
+# text = Wani àbù kuma dà ya sâː sauran duːniya ta shìga nuːnà shàʼawà gàme dà Fela, shiː nèː gàme dà maːtansà na aureː suː àshirin dà bakwai, wadanda ya auri dukkànsù à shekaràr̃ alìf dà ɗàriː tara dà sàbà'in dà takwas.
 1	Wani	_	_	_	_	_	_	_	_
 2	àbù	_	_	_	_	_	_	_	_
 3	kuma	_	_	_	_	_	_	_	_
@@ -818,7 +818,7 @@
 37	ɗàriː	_	_	_	_	_	_	_	_
 38	tara	_	_	_	_	_	_	_	_
 39	dà	_	_	_	_	_	_	_	_
-40	sàbàˤin	_	_	_	_	_	_	_	_
+40	sàbà'in	_	_	_	_	_	_	_	_
 41	dà	_	_	_	_	_	_	_	_
 42	takwas	_	_	_	_	_	_	_	SpaceAfter=No
 43	.	_	_	_	_	_	_	_	_
