@@ -11,7 +11,7 @@
 9	Ìkko	Ìkko	PROPN	_	_	8	comp:obj	_	_
 
 # sent_id = Barayi_a_Ikko__2a
-# text = jiyà dà dare à bir̃nin Ìkko wasu ꞌyan sàndaː màːsu ɗàuke dà màkàːmai sukà iskè wasu ɓàràːyiː sunàː ƙòːƙariː sù fasà ƙoːfàr̃ bankìn ‘ First Bank ’ don sù shìga ciki -
+# text = jiyà dà dare à bir̃nin Ìkko wasu ꞌyan sàndaː màːsu ɗàuke dà màkàːmai sukà iskè wasu ɓàràːyiː sunàː ƙòːƙariː sù fasà ƙoːfàr̃ bankìn " First Bank" don sù shìga ciki .
 1	jiyà	jiyà	ADV	_	_	14	discourse	_	_
 2	dà	dà	CCONJ	_	_	1	mod	_	_
 3	dare	dare	ADV	_	_	2	comp:obj	_	_
@@ -43,7 +43,7 @@
 29	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	28	comp:obj	_	_
 30	shìga	shig-	VERB	_	_	29	comp:aux	_	_
 31	ciki	ciki	ADV	_	_	30	comp:obl	_	_
-32	-	-	PART	_	_	14	punct	_	_
+32	.	.	PUNCT	_	_	14	punct	_	_
 
 # sent_id = Barayi_a_Ikko__2b
 # text = bankìn ‘ First Bank ’ shiː nèː kuma bankìː mafìː girmaː à cikin ƙasar̃ Nàːjeːr̃iyàː .
@@ -164,7 +164,7 @@
 14	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	5	comp:obj	_	_
 15	kai	kaːy-	VERB	_	_	14	comp:aux	_	_
 16	à	à	ADP	_	_	22	mod	_	_
-17	ƙallà	ƙallà	ADV	_	_	16	comp:aux	_	_
+17	ƙallà	ƙallà	ADV	_	_	16	comp:obj	_	_
 18	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	22	subj	_	_
 19	goːmà	goːmà	NUM	_	_	22	comp:pred	_	_
 20	shâː	shâː	ADP	_	_	19	mod	_	_
@@ -353,7 +353,7 @@
 40	yâraː	yːròː	NOUN	_	Gender=Fem|Number=Plur	39	comp:obj	_	_
 41	ɓàràːyiː	ɓàràːyiː	NOUN	_	Gender=Masc	40	mod	_	_
 42	à	à	ADP	_	_	38	mod	_	_
-43	sâssaː	sâssaː	VERB	_	Voice=Cau	42	comp:aux	_	_
+43	sâssaː	sâssaː	VERB	_	Voice=Cau	42	comp:obj	_	_
 44	dàbam	dàbam	ADV	_	_	43	comp:obl	_	_
 45	dàbam	dàbam	ADV	_	_	44	conj:redup	_	_
 46	à	à	ADP	_	_	38	mod	_	_
@@ -372,7 +372,7 @@
 8	soːjì	soːjì	NOUN	_	Gender=Masc	7	mod	_	_
 9	ta	ta	ADP	_	_	8	mod	_	_
 10	biyu	biyu	NUM	_	_	9	comp:obj	_	_
-11	-	-	PART	_	_	13	punct	_	_
+11	-	-	PUNCT	_	_	13	punct	_	_
 12	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	13	subj	_	_
 13	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	7	mod@relcl	_	_
 14	baː	baː	VERB	_	_	13	comp:aux	_	_
