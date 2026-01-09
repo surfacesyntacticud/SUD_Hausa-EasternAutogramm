@@ -108,7 +108,7 @@
 # text = bìsàː àlꞌaːdàː bàːƙin Gwamnatin Nàːjeːr̃iyàː sukàn sàuka nèː à tsoːhon gidan gwamnatì dà kèː Ìkko, wandà à dâː shiː nèː gidan gwamnà à loːkàcin mulkìn màllakàr̃ Bìrtaːniyàː.
 # text_ortho = Bìsàː àlꞌaːdàː bàːƙin Gwamnatin Nàːjeːr̃iyàː sukàn sàuka nèː à tsoːhon gidan Gwamnatì dà kèː l̀kko, wandà à dâː shiː nèː gidan Gwamnà à loːkàcin mulkìn màllakàr̃ Bìrtaːniyàː.
 1	bìsàː	bìsàː	ADP	_	Number=Plur	6	mod	_	_
-2	àlꞌaːdàː	àlꞌaːdàː	NOUN	_	Gender=Fem	1	comp:aux	_	_
+2	àlꞌaːdàː	àlꞌaːdàː	NOUN	_	Gender=Fem	1	comp:obj	_	_
 3	bàːƙin	bàːƙin	NOUN	_	Definite=Cons|Number=Plur	6	subj	_	_
 4	Gwamnatin	Gwamnatin	PROPN	_	_	3	mod	_	_
 5	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	Number=Plur	4	mod	_	_
@@ -125,7 +125,7 @@
 16	,	,	PUNCT	_	_	17	punct	_	_
 17	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	11	conj:appos	_	_
 18	à	à	ADP	_	_	21	mod	_	_
-19	dâː	dâː	ADV	_	_	18	comp:aux	_	_
+19	dâː	dâː	ADV	_	_	18	comp:obj	_	_
 20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	21	comp:pred	_	_
 21	nèː	neː	AUX	_	Gender=Masc|Number=Plur	17	mod@relcl	_	_
 22	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	21	dislocated@comp	_	_
@@ -152,7 +152,7 @@
 10	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	2	conj:coord	_	_
 11	dà	dà	ADP	_	_	10	comp:pred	_	_
 12	ban	ban	VERB	_	ExtPos=NOUN|Gender=Masc	11	comp:obj	_	_
-13	shàꞌawàː	shàꞌawàː	NOUN	_	Gender=Fem	12	comp:aux	_	_
+13	shàꞌawàː	shàꞌawàː	NOUN	_	Gender=Fem	12	comp:obj	_	_
 14	da	da	PART	_	_	13	mod	_	_
 15	haskàkâːwaː	haskàk-	VERB	_	Number=Plur	14	comp:obj	_	_
 16	duk	dukà	DET	_	_	12	mod	_	_
