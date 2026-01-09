@@ -1,48 +1,48 @@
 # sent_id = 09_Salman_Rushdie__1
-# text = Zaː à bugà littaːfin nan na 'Salman Rushdie' à kasar̃ Japàn
+# text = Zaː à bugà littaːfìn nan na " Salman Rushdie " à ƙasar̃ Jàpân
 1	Zaː	_	_	_	_	_	_	_	_
 2	à	_	_	_	_	_	_	_	_
 3	bugà	_	_	_	_	_	_	_	_
-4	littaːfin	_	_	_	_	_	_	_	_
+4	littaːfìn	_	_	_	_	_	_	_	_
 5	nan	_	_	_	_	_	_	_	_
 6	na	_	_	_	_	_	_	_	_
-7	'Salman	_	_	_	_	_	_	_	_
-8	Rushdie'	_	_	_	_	_	_	_	_
-9	à	_	_	_	_	_	_	_	_
-10	kasar̃	_	_	_	_	_	_	_	_
-11	Japàn	_	_	_	_	_	_	_	_
+7	"	"	_	_	_	_	_	_	_
+8	Salman	Salman	_	_	_	_	_	_	_
+9	Rushdie	Rushdie	_	_	_	_	_	_	_
+10	"	"	_	_	_	_	_	_	_
+11	à	_	_	_	_	_	_	_	_
+12	ƙasar̃	_	_	_	_	_	_	_	_
+13	Jàpân	_	_	_	_	_	_	_	_
 
-# sent_id = 09_Salman_Rushdie__2
-# text = Kwanàkin baya à kasar̃ Ir̃àn an saːkè jaddadà hukuncin kisàn dà akà yankèː kàn Salman Rushdie, watò mar̃uːbuːcin littaːfın nan na 'Ayoːyin.
-1	Kwanàkin	_	_	_	_	_	_	_	_
-2	baya	_	_	_	_	_	_	_	_
+# sent_id = 09_Salman_Rushdie__2-3
+# text = Kwàːnàkin baːya à ƙasar̃ Ir̃àn an saːkè jaddàdà hukuncìn kisàn dà akà yankèː kân Salman Rushdie, wà:tò: mar̃ùbùːcin littaːfìn nan na "AːyoːyinShaidan".
+1	Kwàːnàkin	_	_	_	_	_	_	_	_
+2	baːya	_	_	_	_	_	_	_	_
 3	à	_	_	_	_	_	_	_	_
-4	kasar̃	_	_	_	_	_	_	_	_
+4	ƙasar̃	_	_	_	_	_	_	_	wordform=kasar̃
 5	Ir̃àn	_	_	_	_	_	_	_	_
 6	an	_	_	_	_	_	_	_	_
 7	saːkè	_	_	_	_	_	_	_	_
-8	jaddadà	_	_	_	_	_	_	_	_
-9	hukuncin	_	_	_	_	_	_	_	_
+8	jaddàdà	_	_	_	_	_	_	_	_
+9	hukuncìn	_	_	_	_	_	_	_	_
 10	kisàn	_	_	_	_	_	_	_	_
 11	dà	_	_	_	_	_	_	_	_
 12	akà	_	_	_	_	_	_	_	_
 13	yankèː	_	_	_	_	_	_	_	_
-14	kàn	_	_	_	_	_	_	_	_
+14	kân	kâi	_	_	_	_	_	_	_
 15	Salman	_	_	_	_	_	_	_	_
 16	Rushdie	_	_	_	_	_	_	_	SpaceAfter=No
 17	,	_	_	_	_	_	_	_	_
-18	watò	_	_	_	_	_	_	_	_
-19	mar̃uːbuːcin	_	_	_	_	_	_	_	_
-20	littaːfın	_	_	_	_	_	_	_	_
+18	wà:tò:	_	_	_	_	_	_	_	_
+19	mar̃ùbùːcin	_	_	_	_	_	_	_	_
+20	littaːfìn	_	_	_	_	_	_	_	_
 21	nan	_	_	_	_	_	_	_	_
 22	na	_	_	_	_	_	_	_	_
-23	'Ayoːyin	_	_	_	_	_	_	_	SpaceAfter=No
-24	.	_	_	_	_	_	_	_	_
-
-# sent_id = 09_Salman_Rushdie__3
-# text = Shaidan.
-1	Shaidan	_	_	_	_	_	_	_	SpaceAfter=No
-2	.	_	_	_	_	_	_	_	_
+23	"	"	_	_	_	_	_	_	SpaceAfter=No
+24	Aːyoːyin	Aːyoːyin	_	_	_	_	_	_	SpaceAfter=No
+25	Shaidan	_	_	_	_	_	_	_	SpaceAfter=No
+26	"	"	_	_	_	_	_	_	SpaceAfter=No
+27	.	_	_	_	_	_	_	_	_
 
 # sent_id = 09_Salman_Rushdie__4
 # text = À gobe kuma zaː à bugà littaːfin à cikin Japananci.
@@ -130,7 +130,7 @@
 31	'Gianni	_	_	_	_	_	_	_	_
 32	Palma'	_	_	_	_	_	_	_	_
 33	dan	_	_	_	_	_	_	_	_
-34	kasar̃	_	_	_	_	_	_	_	_
+34	ƙasar̃	_	_	_	_	_	_	_	wordform=kasar̃
 35	İtaliyà	_	_	_	_	_	_	_	SpaceAfter=No
 36	,	_	_	_	_	_	_	_	_
 37	yaː	_	_	_	_	_	_	_	_
@@ -463,7 +463,7 @@
 15	kàm	_	_	_	_	_	_	_	_
 16	yanàː	_	_	_	_	_	_	_	_
 17	kaunar̃	_	_	_	_	_	_	_	_
-18	kasar̃	_	_	_	_	_	_	_	_
+18	ƙasar̃	_	_	_	_	_	_	_	wordform=kasar̃
 19	Jàpàn	_	_	_	_	_	_	_	SpaceAfter=No
 20	,	_	_	_	_	_	_	_	_
 21	kuma	_	_	_	_	_	_	_	_

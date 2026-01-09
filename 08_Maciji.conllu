@@ -8,12 +8,12 @@
 6	dafìː	_	_	_	_	_	_	_	_
 
 # sent_id = 08_Maciji__2
-# text = À gàrin ' Gboko ' dà kèː jihàr̃ Binuwài can areːwacin Nàːjeːr̃iyàː an kai wasu mutàneː gùdaː takwàs asìbitì baːyân dà sukà cikà cikìnsù dà àbincîn dà sukà yi miyàr̃sà dà naːmàn wani shirgeːgèn macìːjiː.
+# text = À gàrin " Gboko " dà kèː jihàr̃ Binuwài can areːwacin Nàːjeːr̃iyàː an kai wasu mutàneː gùdaː takwàs asìbitì baːyân dà sukà cikà cikìnsù dà àbincîn dà sukà yi miyàr̃sà dà naːmàn wani shirgeːgèn macìːjiː.
 1	À	_	_	_	_	_	_	_	_
 2	gàrin	_	_	_	_	_	_	_	_
-3	'	'	_	_	_	_	_	_	_
+3	"	"	_	_	_	_	_	_	_
 4	Gboko	Gboko	_	_	_	_	_	_	_
-5	'	'	_	_	_	_	_	_	_
+5	"	"	_	_	_	_	_	_	_
 6	dà	_	_	_	_	_	_	_	_
 7	kèː	_	_	_	_	_	_	_	_
 8	jihàr̃	_	_	_	_	_	_	_	_
@@ -46,8 +46,8 @@
 35	macìːjiː	_	_	_	_	_	_	_	SpaceAfter=No
 36	.	_	_	_	_	_	_	_	_
 
-# sent_id = 08_Maciji__3
-# text = Yaddà wannàn àl'amàr̃iː ya fàːru shiː nèː suː mutàːnên sun ɗaukoː gaːwar̃ wannàn macìːjiː nèː baːyân dà wata bàbbar̃ moːtàː ta laːtsèː shi à bisà hanyàː dà dàddare, sukà nùfi dà shiː zuwàː gidaː. Sun yi kusan kwaːnaː ukù sunàː ta dafà wannan kùmurciː kàːfin sù ci nasar̃àr̃ dafàː shi luɓus dòːmin cîː.
+# sent_id = 08_Maciji__3a
+# text = Yaddà wannàn àl'amàr̃iː ya fàːru shiː nèː suː mutàːnên sun ɗaukoː gaːwar̃ wannàn macìːjiː nèː baːyân dà wata bàbbar̃ moːtàː ta laːtsèː shi à bisà hanyàː dà dàddare , sukà nùfi dà shiː zuwàː gidaː .
 1	Yaddà	_	_	_	_	_	_	_	_
 2	wannàn	_	_	_	_	_	_	_	_
 3	àl'amàr̃iː	_	_	_	_	_	_	_	_
@@ -84,26 +84,29 @@
 34	zuwàː	_	_	_	_	_	_	_	_
 35	gidaː	_	_	_	_	_	_	_	SpaceAfter=No
 36	.	_	_	_	_	_	_	_	_
-37	Sun	_	_	_	_	_	_	_	_
-38	yi	_	_	_	_	_	_	_	_
-39	kusan	_	_	_	_	_	_	_	_
-40	kwaːnaː	_	_	_	_	_	_	_	_
-41	ukù	_	_	_	_	_	_	_	_
-42	sunàː	_	_	_	_	_	_	_	_
-43	ta	_	_	_	_	_	_	_	_
-44	dafà	_	_	_	_	_	_	_	_
-45	wannan	_	_	_	_	_	_	_	_
-46	kùmurciː	_	_	_	_	_	_	_	_
-47	kàːfin	_	_	_	_	_	_	_	_
-48	sù	_	_	_	_	_	_	_	_
-49	ci	_	_	_	_	_	_	_	_
-50	nasar̃àr̃	_	_	_	_	_	_	_	_
-51	dafàː	_	_	_	_	_	_	_	_
-52	shi	_	_	_	_	_	_	_	_
-53	luɓus	_	_	_	_	_	_	_	_
-54	dòːmin	_	_	_	_	_	_	_	_
-55	cîː	_	_	_	_	_	_	_	SpaceAfter=No
-56	.	_	_	_	_	_	_	_	_
+
+# sent_id = 08_Maciji__3b
+# text = Sun yi kusan kwaːnaː ukù sunàː ta dafà wannan kùmurciː kàːfin sù ci nasar̃àr̃ dafàː shi luɓus dòːmin cîː .
+1	Sun	_	_	_	_	_	_	_	_
+2	yi	_	_	_	_	_	_	_	_
+3	kusan	_	_	_	_	_	_	_	_
+4	kwaːnaː	_	_	_	_	_	_	_	_
+5	ukù	_	_	_	_	_	_	_	_
+6	sunàː	_	_	_	_	_	_	_	_
+7	ta	_	_	_	_	_	_	_	_
+8	dafà	_	_	_	_	_	_	_	_
+9	wannan	_	_	_	_	_	_	_	_
+10	kùmurciː	_	_	_	_	_	_	_	_
+11	kàːfin	_	_	_	_	_	_	_	_
+12	sù	_	_	_	_	_	_	_	_
+13	ci	_	_	_	_	_	_	_	_
+14	nasar̃àr̃	_	_	_	_	_	_	_	_
+15	dafàː	_	_	_	_	_	_	_	_
+16	shi	_	_	_	_	_	_	_	_
+17	luɓus	_	_	_	_	_	_	_	_
+18	dòːmin	_	_	_	_	_	_	_	_
+19	cîː	_	_	_	_	_	_	_	SpaceAfter=No
+20	.	_	_	_	_	_	_	_	_
 
 # sent_id = 08_Maciji__4
 # text = Tòː indà màtsalar̃ ta faːrà taːshìː shiː nèː baːyân dà sukà cînyẽ macìːjîn dà sukà dafàn, nan dà nan sai waɗànnân mutàːneː sukà faːrà jîn wani àbù nàː mur̃ɗàː musù cikin cikkunànsù.
