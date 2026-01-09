@@ -12,7 +12,7 @@
 9	?	?	PUNCT	_	_	1	punct	_	_
 
 # sent_id = Wayoyin_Tarho__2
-# text = Kullum ìdan gidan r̃eːdiyòn 'BBC' zâi gabaːtar̃ dà shìrye-shìryensà gà ƙasàːshen Afìr̃kà, doːlè yà yi àmfàːniː dà wayàr̃ tàr̃hôː.
+# text = kullum ìdan gidan r̃eːdiyòn " BBC " zâi gabaːtar̃ dà shìrye-shìryensà gà ƙasàːshen Afìr̃kà, doːlè yà yi àmfàːniː dà wayàr̃ tàr̃hôː.
 # text_ortho = Kullum ìdan gidan r̃eːdiyòn 'BBC' zâi gabaːtar̃ dà shìrye-shìryensà gà ƙasàːshen Afìr̃kà, doːlè yà yi àmfàːniː dà wayàr̃ tàr̃hôː.
 1	kullum	kullum	ADV	_	_	16	mod	_	_
 2	ìdan	ìdan	SCONJ	_	_	16	mod	_	_
@@ -24,7 +24,7 @@
 8	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	2	comp:obj	_	_
 9	gabaːtar̃	gabaːtaː	NOUN	_	Gender=Fem	8	comp:aux	_	_
 10	dà	dà	ADP	_	_	9	comp:obl	_	_
-11	shìrye-shìryensà	shìrye-shìryensà	NOUN	_	Case=Gen|Gender=Masc|Person=3	10	comp:obj	_	_
+11	shìrye-shìryensà	shìrye-shìrye	NOUN	_	Definite=Cons|Number=Plur	10	comp:obj	_	_
 12	gà	gà	ADP	_	_	9	comp:obl	_	_
 13	ƙasàːshen	ƙasàːshen	ADP	_	Definite=Cons|Number=Plur	12	comp:obj	_	_
 14	Afìr̃kà	Afìr̃kà	PROPN	_	_	13	flat@name	_	SpaceAfter=No
@@ -394,7 +394,7 @@
 # text_ortho = Irìn waɗànnân zàːgàːye-zàːgàːyên dà akèː yîː dà wayàr̃ tàr̃hôː yanàː ɓaːtà laːyìː, kuma baː àː jîn màganàr̃ sòːsai.
 1	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	10	mod	_	_
 2	waɗànnân	waɗànnân	PRON	_	Number=Plur|PronType=Dem	1	mod	_	_
-3	zàːgàːye-zàːgàːyên	zàːgàːye-zàːgàːyeː	NOUN	_	Definite=Ind|Number=Plur	1	mod	_	_
+3	zàːgàːye-zàːgàːyên	zàːgàːye-zàːgàːye	NOUN	_	Definite=PrevRef|Number=Plur	1	mod	_	_
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	_
 5	akèː	nàː	AUX	_	Aspect=Prog|Person=4	4	comp:obj	_	_
 6	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	5	comp:aux	_	_
@@ -408,7 +408,7 @@
 14	kuma	kuma	CCONJ	_	_	15	cc	_	_
 15	baː'àː	nàː	AUX	_	Aspect=Prog|Person=4|Polarity=Neg	10	conj:coord	_	_
 16	jîn	jîː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	15	comp:aux	_	_
-17	màganàr̃	màganàː	NOUN	_	Definite=Ind|Gender=Fem	16	comp:obj	_	_
+17	màganàr̃	màganàː	NOUN	_	Definite=PrevRef|Gender=Fem	16	comp:obj	_	_
 18	sòːsai	sòːsai	ADV	_	_	16	mod	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	10	punct	_	_
 

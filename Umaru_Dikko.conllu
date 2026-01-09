@@ -116,7 +116,7 @@
 16	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = Umaru_Dikko__6
-# text = Baːyan shèːkaràː  gùdaː nèː kuma àlꞌamàr̃in na Ùmar̃ù Dikkò ya kai gà wani saːbon matsayiː baːyân dà akà yi ƙòːƙarin saːcèː shi à Ingìlà.
+# text = baːyan shèːkaràː gùdaː nèː kuma àlꞌamàr̃in na Ùmar̃ù Dikkò ya kai gà wani saːbon matsayiː baːyân dà akà yi ƙòːƙarin saːcèː shi à Ingìlà.
 # text_ortho = Baːyan shèːkaràː  gùdaː nèː kuma àlꞌamàr̃in na Ùmar̃ù Dikkò ya kai gà wani saːbon matsayiː baːyân dà akà yi ƙòːƙarin saːcèː shi à Ingìlà.
 1	baːyan	baːyan	ADP	_	_	10	mod	_	_
 2	shèːkaràː	shèːkaràː	NOUN	_	Number=Plur	1	comp:obj	_	_
@@ -138,7 +138,7 @@
 18	akà	nàː	AUX	_	Aspect=Prog|Person=4	17	comp:obj	_	_
 19	yi	yi	VERB	_	_	18	comp:aux	_	_
 20	ƙòːƙarin	ƙòːƙariː	NOUN	_	Definite=Cons|Gender=Masc	19	comp:pred	_	_
-21	saːcèː	saːcèː	NOUN	_	Gender=Fem	20	comp:obj	_	_
+21	saːcèː	saːt-	NOUN	_	Gender=Fem	20	comp:obj	_	_
 22	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	21	comp:obj	_	_
 23	à	à	ADP	_	_	21	mod	_	_
 24	Ingìlà	Ingìlà	PROPN	_	_	23	comp:obj	_	SpaceAfter=No
@@ -416,7 +416,7 @@
 39	r̃ashawaː	r̃ashawaː	NOUN	_	Gender=Fem	38	mod	_	_
 40	ta	ta	ADP	_	Gender=Fem	39	mod	_	_
 41	fâm	faː	NOUN	_	_	40	comp:aux	_	_
-42	miliyàn	miliyàː	NUM	_	Definite=Cons|Gender=Masc	41	mod:num	_	_
+42	miliyàn	miliyàn	NUM	_	_	41	mod:num	_	_
 43	bàr̃kàtài	bàr̃kàtài	NOUN	_	_	42	mod	_	SpaceAfter=No
 44	.	.	PUNCT	_	_	18	_	_	_
 
@@ -464,12 +464,12 @@
 39	aikàtaː	aiant-	VERB	_	_	38	comp:aux	_	SpaceAfter=No
 40	.	.	PUNCT	_	_	13	punct	_	_
 
-# sent_id = Umaru_Dikko__15a
-# text = ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà ,
+# sent_id = Umaru_Dikko__15
+# text = ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà, yanà mài cêwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː.
 # text_ortho = Ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà, yanà mài cêwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː.
 1	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 2	cèː	cêː	VERB	_	_	1	comp:aux	_	_
-3	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	4	subj	_	_
+3	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	4	dislocated@subj	_	_
 4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	2	comp:obj	_	_
 5	càncànci	càncànci	VERB	_	_	4	comp:aux	_	_
 6	à	yà	AUX	_	Mood=Sub|Person=4	5	comp:obj	_	_
@@ -483,26 +483,22 @@
 14	à	à	ADP	_	_	7	mod	_	_
 15	nân	nân	ADV	_	PronType=Dem	14	comp:obj	_	_
 16	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	15	mod	_	SpaceAfter=No
-17	,	,	PUNCT	_	_	1	punct	_	_
-
-# sent_id = Umaru_Dikko__15b
-# text = yanà mài cêwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː .
-# text_ortho = Ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà, yanà mài cêwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː.
-1	yanà	nà	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	_
-2	mài	mài	PART	_	Gender=Masc	1	comp:pred	_	_
-3	cêwaː	cê	VERB	_	ExtPos=NOUN|Gender=Fem	2	comp:obj	_	_
-4	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	3	comp:obj	_	_
-5	kasànceː	kasant-	VERB	_	_	4	comp:aux	_	_
-6	cikin	cikin	ADP	_	_	5	comp:obl	_	_
-7	wani	wani	DET	_	Definite=Spec|Gender=Masc	9	det	_	_
-8	mùmmuːnan	mùmmuːnaː	ADJ	_	Definite=Cons|Number=Plur	9	mod	_	_
-9	haɗàr̃iː	haɗàr̃iː	NOUN	_	Gender=Masc	6	comp:obj	_	_
-10	ìdan	ìdan	SCONJ	_	_	4	mod	_	_
-11	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	10	comp:obj	_	_
-12	koːmàː	koːm-	VERB	_	_	11	comp:aux	_	_
-13	gidaː	gidaː	NOUN	_	Gender=Masc	12	comp:obj@G	_	_
-14	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	13	mod	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	1	punct	_	_
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	yanà	nà	AUX	_	Aspect=Prog|ExtPos=SCONJ|Gender=Masc|Person=3	5	parataxis@mod	_	Idiom=Yes
+19	mài	mài	PART	_	Gender=Masc	18	comp:pred	_	InIdiom=Yes
+20	cêwaː	cê	VERB	_	ExtPos=NOUN|Gender=Fem	19	comp:obj	_	InIdiom=Yes
+21	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	18	comp:obj	_	_
+22	kasànceː	kasant-	VERB	_	_	21	comp:aux	_	_
+23	cikin	cikin	ADP	_	_	22	comp:obl	_	_
+24	wani	wani	DET	_	Definite=Spec|Gender=Masc	26	det	_	_
+25	mùmmuːnan	mùmmuːnaː	ADJ	_	Definite=Cons|Number=Plur	26	mod	_	_
+26	haɗàr̃iː	haɗàr̃iː	NOUN	_	Gender=Masc	23	comp:obj	_	_
+27	ìdan	ìdan	SCONJ	_	_	21	mod	_	_
+28	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	27	comp:obj	_	_
+29	koːmàː	koːm-	VERB	_	_	28	comp:aux	_	_
+30	gidaː	gidaː	NOUN	_	Gender=Masc	29	comp:obj@G	_	_
+31	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	30	mod	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = Umaru_Dikko__16
 # text = à wàncan loːkàcîn dà ya kai ƙaːrar̃ neːman à baː shì mafakaː à nân Bìr̃tàniyà, Ùːmar̃ù Dikkò cêwaː ya yi, " in dàː zân koːmàː Nàjeːr̃iyàː, jàmaꞌàː zaː'à taːràː sù yi kallon loːkàcîn dà zaː'à sâː soːjà sù bindìgeː ni. " .
