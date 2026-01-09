@@ -418,7 +418,7 @@
 41	fâm	faː	NOUN	_	_	40	comp:aux	_	_
 42	miliyàn	miliyàn	NUM	_	_	41	mod:num	_	_
 43	bàr̃kàtài	bàr̃kàtài	NOUN	_	_	42	mod	_	SpaceAfter=No
-44	.	.	PUNCT	_	_	18	_	_	_
+44	.	.	PUNCT	_	_	18	punct	_	_
 
 # sent_id = Umaru_Dikko__14
 # text = tôː à duk loːkàcin zamansà à nân Bìr̃taːniyà dai, Ùːmar̃ù Dikkò yaː shaː naːnàːtà cêwaː shiː bài sàːci kuɗiː nair̃àː miliyàn bìlaː adàdin ba ta hanyàr̃ gàdàː-gadar̃ shìnkaːfaː dà kuma duk sauran laifuffukàn dà akèː zàrgin yaː aikàtaː.
@@ -566,7 +566,7 @@
 11	cêwaː	cêwaː	SCONJ	_	Gender=Fem	10	comp:obj	_	_
 12	bàː	bàː	PART	_	Polarity=Neg	14	mod	_	_
 13	wannàn	wannàn	DET	_	PronType=Dem	14	det	_	_
-14	dàliːlìː	dàliːlìː	NOUN	_	_	11	_	_	_
+14	dàliːlìː	dàliːlìː	NOUN	_	_	11	comp:obj	_	_
 15	neː	neː	PART	_	Gender=Masc|PartType=Foc	14	discourse@foc	_	_
 16	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	14	comp:cleft	_	_
 17	sâː	sâː	VERB	_	_	16	comp:aux	_	_

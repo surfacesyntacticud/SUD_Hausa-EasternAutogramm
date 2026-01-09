@@ -35,10 +35,10 @@
 21	fasà	fasàː	VERB	_	_	20	comp:aux	_	_
 22	ƙoːfàr̃	ƙoːfàː	NOUN	_	Definite=Ind|Gender=Fem	21	comp:obj	_	_
 23	bankìn	bankìː	NOUN	_	Definite=Cons|Gender=Masc	22	mod	_	_
-24	‘	‘	PUNCT	_	_	25	punct	_	_
+24	"	"	PUNCT	_	_	25	punct	_	wordform=‘
 25	First	First	PROPN	_	_	23	mod	_	_
 26	Bank	Bank	PROPN	_	_	25	flat@name	_	SpaceAfter=No
-27	’	’	PUNCT	_	_	25	punct	_	_
+27	"	"	PUNCT	_	_	25	punct	_	wordform=’
 28	don	don	SCONJ	_	_	21	mod	_	_
 29	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	28	comp:obj	_	_
 30	shìga	shig-	VERB	_	_	29	comp:aux	_	_
@@ -48,10 +48,10 @@
 # sent_id = Barayi_a_Ikko__2b
 # text = bankìn ‘ First Bank ’ shiː nèː kuma bankìː mafìː girmaː à cikin ƙasar̃ Nàːjeːr̃iyàː .
 1	bankìn	bankìː	NOUN	_	Definite=Cons|Gender=Masc	7	subj	_	_
-2	‘	‘	PUNCT	_	_	3	punct	_	_
+2	"	"	PUNCT	_	_	3	punct	_	wordform=‘
 3	First	First	PROPN	_	_	1	mod	_	_
 4	Bank	Bank	PROPN	_	_	3	flat@name	_	SpaceAfter=No
-5	’	’	PUNCT	_	_	3	punct	_	_
+5	"	"	PUNCT	_	_	3	punct	_	wordform=’
 6	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	comp:pred	_	_
 7	nèː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	_
 8	kuma	kuma	PART	_	PartType=Disc	7	discourse@top	_	_
@@ -238,7 +238,7 @@
 16	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	26	subj	_	_
 17	fàshe-fàshe	fàshe-fàshe	NOUN	_	_	16	mod	_	_
 18	dà	dà	CCONJ	_	_	19	cc	_	_
-19	sàːce-sàːcên	sàːce-sàːceː	NOUN	_	Definite=Ind|Number=Plur	17	conj:coord	_	_
+19	sàːce-sàːcên	sàːce-sàːce	NOUN	_	Definite=Ind|Number=Plur	17	conj:coord	_	_
 20	dà	dà	SCONJ	_	_	19	mod@relcl	_	_
 21	akèː	nàː	AUX	_	Aspect=Prog|Person=4	20	comp:obj	_	_
 22	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	21	comp:aux	_	_
@@ -284,7 +284,7 @@
 21	à	à	ADP	_	Mood=Sub|Person=4	17	mod	_	_
 22	bàːra	bàːra	VERB	_	_	21	comp:obj	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	24	punct	_	_
-24	koː	koː	SCONJ	_	_	4	mod	_	Idiom=Yes
+24	koː	koː	SCONJ	_	ExtPos=SCONJ	4	mod	_	Idiom=Yes
 25	dà	dà	SCONJ	_	_	24	comp:obj	_	InIdiom=Yes
 26	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	25	comp:obj	_	InIdiom=Yes
 27	wannàn	wannàn	DET	_	PronType=Dem	28	det	_	_
@@ -292,7 +292,7 @@
 29	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	24	comp:obj	_	_
 30	kai	kai	VERB	_	_	29	comp:aux	_	_
 31	yawàn	yawàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	30	comp:obl	_	_
-32	sàːce-sàːcên	sàːce-sàːceː	NOUN	_	_	31	mod	_	_
+32	sàːce-sàːcên	sàːce-sàːce	NOUN	_	_	31	mod	_	_
 33	dà	dà	SCONJ	_	_	32	mod@relcl	_	_
 34	akà	yaː	AUX	_	Aspect=Prog|Person=4	33	comp:obj	_	_
 35	yi	yi	VERB	_	_	34	comp:aux	_	_
@@ -310,7 +310,7 @@
 47	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = Barayi_a_Ikko__11
-# text = ꞌyan sàndaː sukà cêː dàliːlìn dà ya sâː sàːce-sàːcên sukà ràgu shiː nèː don mutàːnensù sun ƙaːrà himmàː wajen yaːƙìː dà ɓàràːyiː, sun kuma wargàzà ƙungiỳar̃ bàbban ɓàraːwòn nan mài suːnaː ‘ Lawrence Anini’ wandà kèː dà yâraː ɓàràːyiː à sâssaː dàbam dàbam à Nàːjeːr̃iyàː.
+# text = ꞌyan sàndaː sukà cêː dàliːlìn dà ya sâː sàːce-sàːcên sukà ràgu shiː nèː don mutàːnensù sun ƙaːrà himmàː wajen yaːƙìː dà ɓàràːyiː, sun kuma wargàzà ƙungiỳar̃ bàbban ɓàraːwòn nan mài suːnaː " Lawrence Anini" wandà kèː dà yâraː ɓàràːyiː à sâssaː dàbam dàbam à Nàːjeːr̃iyàː.
 1	ꞌyan	ɗan	NOUN	_	Definite=Cons|Number=Plur	3	subj	_	_
 2	sàndaː	sàndaː	NOUN	_	_	1	compound	_	_
 3	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
@@ -319,13 +319,13 @@
 6	dà	dà	SCONJ	_	_	5	mod@relcl	_	_
 7	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	6	comp:obj	_	_
 8	sâː	sâː	VERB	_	_	7	comp:aux	_	_
-9	sàːce-sàːcên	sàːce-sàːceː	NOUN	_	_	10	subj	_	_
+9	sàːce-sàːcên	sàːce-sàːce	NOUN	_	_	10	subj	_	_
 10	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	8	comp:obj	_	_
 11	ràgu	ràgu	VERB	_	_	10	comp:aux	_	_
 12	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	13	comp:pred	_	_
 13	nèː	neː	PART	_	_	4	comp:obj	_	_
 14	don	don	SCONJ	_	_	13	dislocated@comp	_	_
-15	mutàːnensù	mutàːneːsù	NOUN	_	Case=Gen|Number=Plur|Person=3	16	subj	_	_
+15	mutàːnensù	mutàːneː	NOUN	_	Case=Gen|Number=Plur|Person=3	16	subj	_	_
 16	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	14	comp:obj	_	_
 17	ƙaːrà	ƙaːràː	VERB	_	_	16	comp:aux	_	_
 18	himmàː	himmàː	VERB	_	Gender=Masc	17	comp:obj	_	_
@@ -343,10 +343,10 @@
 30	nan	nan	DET	_	PronType=Dem	29	det	_	_
 31	mài	mài	PART	_	Number=Sing|PartType=Der	29	mod	_	_
 32	suːnaː	suːnaː	NOUN	_	Case=Gen|Number=Sing|Person=1	31	compound	_	_
-33	‘	‘	PUNCT	_	_	34	punct	_	_
+33	"	"	PUNCT	_	_	34	punct	_	wordform=‘
 34	Lawrence	Lawrence	PROPN	_	_	32	mod	_	_
 35	Anini	Anini	PROPN	_	_	34	flat@name	_	SpaceAfter=No
-36	’	’	PUNCT	_	_	34	punct	_	_
+36	"	"	PUNCT	_	_	34	punct	_	wordform=’
 37	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	38	subj	_	_
 38	kèː	keː	PRON	_	Aspect=Prog	29	mod@relcl	_	_
 39	dà	dà	ADP	_	_	38	comp:pred	_	_
@@ -361,7 +361,7 @@
 48	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = Barayi_a_Ikko__12
-# text = ꞌYan sàndân sun ƙaːràː dà cêːwaː dòːkar̃ soːjì ta biyu - waddà ta baː dà iːkòː à kaːmà màːsu aikàtà lâifi à tsarèː - ita maː taː taimàkaː wajen ragè yawàn sàːce-sàːcên dà akèː yîː.
+# text = ꞌyan sàndân sun ƙaːràː dà cêːwaː dòːkar̃ soːjì ta biyu - waddà ta baː dà iːkòː à kaːmà màːsu aikàtà lâifi à tsarèː - ita maː taː taimàkaː wajen ragè yawàn sàːce-sàːcên dà akèː yîː.
 1	ꞌyan	ɗan	NOUN	_	_	3	subj	_	_
 2	sàndân	sàndaː	NOUN	_	_	1	compound	_	_
 3	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
@@ -393,7 +393,7 @@
 29	wajen	wajen	ADP	_	_	28	comp:obl	_	_
 30	ragè	nàː	VERB	_	Gender=Fem|Number=Plur	29	comp:obj	_	_
 31	yawàn	yawàn	ADJ	_	Definite=Cons|Gender=Masc	30	comp:obj	_	_
-32	sàːce-sàːcên	sàːce-sàːcêː	NOUN	_	Definite=Cons|Gender=Masc	31	mod	_	_
+32	sàːce-sàːcên	sàːce-sàːce	NOUN	_	Definite=Cons|Gender=Masc	31	mod	_	_
 33	dà	dà	SCONJ	_	_	32	mod@relcl	_	_
 34	akèː	nàː	AUX	_	Aspect=Prog|Person=4	33	comp:obj	_	_
 35	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	34	comp:aux	_	SpaceAfter=No
