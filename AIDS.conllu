@@ -32,7 +32,7 @@
 16	ta	ta	ADP	_	Gender=Fem|Person=3	15	mod:obl	_	_
 17	jiniː	jiniː	NOUN	_	Definite=Ind|Gender=Masc	16	comp:obj	_	_
 18	dà	dà	CCONJ	_	_	19	cc	_	_
-19	màniyyìː	màniyyìː	NOUN	_	Gender=Masc	16	comp:obj	_	SpaceAfter=No
+19	màniyyìː	màniyyìː	NOUN	_	Gender=Masc	17	conj:coord	_	SpaceAfter=No
 20	;	;	PUNCT	_	_	12	punct	_	_
 
 # sent_id = AIDS__2b
@@ -193,7 +193,7 @@
 3	akà	nàː	AUX	_	Aspect=Prog|Person=4	2	mod@relcl	_	_
 4	sanìː	sanìː	VERB	_	_	3	comp:aux	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	_
-6	cùːtar̃	cùːtaː	NOUN	_	Definite=Ind|Gender=Fem	8	subj	_	_
+6	cùːtar̃	cùːtaː	NOUN	_	Definite=Ind|Gender=Fem	8	dislocated@subj	_	_
 7	AIDS	AIDS	PROPN	_	_	6	mod	_	_
 8	bâː	baːbù	PART	_	Polarity=Neg	0	root	_	_
 9	ta	ta	PRON	_	Gender=Fem|Person=3	8	subj	_	_
@@ -230,7 +230,7 @@
 40	iyà	iyàː	VERB	_	_	39	comp:aux	_	_
 41	bazà	bazàː	VERB	_	_	40	comp:obj	_	_
 42	cùːtâr̃	cùːtâː	NOUN	_	Definite=Ind|Gender=Fem	41	comp:obj	_	_
-43	ta	ta	ADP	_	_	41	comp:obj	_	_
+43	ta	ta	ADP	_	_	41	comp:obl	_	_
 44	jininsà	jiniːtà	NOUN	_	Gender=Masc|PronType=Dem	43	comp:obj	_	_
 45	dà	dà	CCONJ	_	_	46	cc	_	_
 46	màniyyìnsà	màniyyìːsù	NOUN	_	Definite=Cons|Gender=Fem|Person=3	44	conj:coord	_	_
@@ -557,9 +557,9 @@
 # text = ìdan hakà neː kùwa, doːlè neː à yi ƙoːƙariː à waːyar̃ dà kân mutàːneː dà sù gùji dukkàn àbîn dà zâi sâː sù kàːmu dà cùːtar̃ AIDS.
 # text_ortho = Ìdan hakà neː kùwa, doːlè neː à yi ƙoːƙariː à waːyar̃ dà kân mutàːneː dà sù gùji dukkàn àbîn dà zâi sâː sù kàːmu dà cùːtar̃ AIDS.
 1	ìdan	ìdan	SCONJ	_	_	6	mod	_	_
-2	hakà	hakà	ADV	_	_	1	comp:obj	_	_
+2	hakà	hakà	ADV	_	_	3	comp:pred	_	_
 3	neː	neː	AUX	_	Gender=Masc|Number=Plur	1	comp:obj	_	_
-4	kùwa	kùwa	PART	_	_	3	discourse@top	_	SpaceAfter=No
+4	kùwa	kùwa	PART	_	_	1	discourse@top	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	_
 6	doːlè	doːlè	ADV	_	_	0	root	_	_
 7	neː	neː	PART	_	Gender=Masc|PartType=Foc	6	discourse@foc	_	_

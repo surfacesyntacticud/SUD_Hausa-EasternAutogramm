@@ -81,8 +81,8 @@
 22	"	"	PUNCT	_	_	21	punct	_	wordform=’
 23	na	na	ADP	_	_	21	mod	_	_
 24	jàbu	jàbu	ADJ	_	Number=Plur	23	comp:obj	_	_
-25	à	à	ADP	_	_	11	mod	_	_
-26	tsàːkaːnin	tsàːkaːniː	NOUN	_	Definite=Cons|Number=Plur	25	comp:obj	_	_
+25	à	à	ADP	_	ExtPos=ADP	11	mod	_	Idiom=Yes
+26	tsàːkaːnin	tsàːkaːniː	NOUN	_	Definite=Cons|Number=Plur	25	comp:obj	_	InIdiom=Yes
 27	cùnkoːson	cùnkoːsoː	NOUN	_	Definite=Cons|Gender=Masc	25	comp:obj	_	_
 28	moːtoːci	moːtoːci	NOUN	_	Gender=Masc	27	mod	_	SpaceAfter=No
 29	,	,	PUNCT	_	_	31	punct	_	_
@@ -142,8 +142,8 @@
 # text_ortho = Gidân nàː gab dà bàːkin tèːku kuma har̃ yànzu yanàː dà ban shàꞌawàː da haskàkâːwaː duk dà gyàːre-gyàːren zaːmàniː dà akà yi masà loːkàcîn dà Nàːjeːr̃iyàː takèː cìke dà ar̃zìkin mân feːtùr̃.
 1	gidân	gidaː	NOUN	_	Definite=Def	2	subj	_	_
 2	nàː	neː	AUX	_	_	0	root	_	_
-3	gab	gab	ADP	_	_	2	comp:pred	_	_
-4	dà	dà	ADP	_	_	3	comp:obj	_	_
+3	gab	gab	ADP	_	ExtPos=ADP	2	comp:pred	_	Idiom=Yes
+4	dà	dà	ADP	_	_	3	comp:obj	_	InIdiom=Yes
 5	bàːkin	bàːkin	ADP	_	Definite=Cons|Gender=Masc	3	comp:obj	_	_
 6	tèːku	tèːku	PRON	_	Gender=Masc|Number=Plur	5	mod	_	_
 7	kuma	kuma	CCONJ	_	_	10	cc	_	_
