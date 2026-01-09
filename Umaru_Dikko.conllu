@@ -501,7 +501,7 @@
 32	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = Umaru_Dikko__16
-# text = à wàncan loːkàcîn dà ya kai ƙaːrar̃ neːman à baː shì mafakaː à nân Bìr̃tàniyà, Ùːmar̃ù Dikkò cêwaː ya yi, " in dàː zân koːmàː Nàjeːr̃iyàː, jàmaꞌàː zaː'à taːràː sù yi kallon loːkàcîn dà zaː'à sâː soːjà sù bindìgeː ni. " .
+# text = à wàncan loːkàcîn dà ya kai ƙaːrar̃ neːman à baː shì mafakaː à nân Bìr̃tàniyà, Ùːmar̃ù Dikkò cêwaː ya yi, " in dàː zân koːmàː Nàjeːr̃iyàː, jàmaꞌàː zaː'à taːràː sù yi kallon loːkàcîn dà zaː'à sâː soːjà sù bindìgeː ni. ".
 # text_ortho = À wàncan loːkàcîn dà ya kai ƙaːrar̃ neːman à baː shì mafakaː à nân Bìr̃tàniyà, Ùːmar̃ù Dikkò cêwaː ya yi, ‘In dàː zân koːmàː Nàjeːr̃iyàː, jàmaꞌàː zaː à taːràː sù yi kallon loːkàcîn dà zaː à sâː soːjà sù bindìgeː ni.’
 1	à	à	ADP	_	_	19	mod	_	_
 2	wàncan	wàncan	DET	_	Gender=Masc|PronType=Dem	3	det	_	_
@@ -509,8 +509,8 @@
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	_
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	comp:obj	_	_
 6	kai	kai	VERB	_	_	5	comp:aux	_	_
-7	ƙaːrar̃	ƙaːrar̃	VERB	_	_	6	mod	_	_
-8	neːman	neːman	VERB	_	PronType=Dem	7	det	_	_
+7	ƙaːrar̃	ƙaːraː	NOUN	_	_	6	mod	_	_
+8	neːman	neːman	VERB	_	PronType=Dem	7	mod	_	_
 9	à	yà	AUX	_	Mood=Sub|Person=4	8	comp:obj	_	_
 10	baː	baː	VERB	_	_	9	comp:aux	_	_
 11	shì	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	10	comp:obj@R	_	_
@@ -623,7 +623,7 @@
 # text = hakà nan à bàːr̃a ɗîn wani lauyàː na maꞌaikatar̃ har̃koːkin cikin gidan Bìr̃taːniyà yaː gayàː wà Ùːmar̃ù Dikkò cêwaː, " inàː jîn dai kaː tseːroː dàgà Nàjeːr̃iyàː neː bà wai don kanàː tsòːron zaː'à ƙuntàtaː makà ba, sai don kanàː tsòːron zaː'à gur̃faːnar̃ dà kai à gàban shàr̃iꞌàː kawài. " .
 # text_ortho = Hakà nan à bàːr̃a ɗîn wani lauyàː na Maꞌaikatar̃ Har̃koːkin Cikin Gidan Bìr̃taːniyà yaː gayàː wà Ùːmar̃ù Dikkò cêwaː, ‘Inàː jîn dai kaː tseːroː dàgà Nàjeːr̃iyàː neː bà wai don kanàː tsòːron zaː à ƙuntàtaː makà ba, sai don kanàː tsòːron zaː à gur̃faːnar̃ dà kai à gàban shàr̃iꞌàː kawài.’
 1	hakà	hakà	ADV	_	_	14	mod	_	_
-2	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	det	_	_
+2	nan	nan	DET	_	Definite=Def|PronType=Dem	1	det	_	_
 3	à	à	ADP	_	_	14	mod	_	_
 4	bàːr̃a	bàːr̃a	VERB	_	_	3	comp:obj	_	_
 5	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	4	det	_	_

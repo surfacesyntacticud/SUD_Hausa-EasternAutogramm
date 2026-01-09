@@ -78,8 +78,8 @@
 43	ta	na	AUX	_	Aspect=Perf|Gender=Fem|Person=3	36	mod@relcl	_	_
 44	shiryàː	shiryàː	VERB	_	_	43	comp:aux	_	_
 45	don	don	SCONJ	_	_	44	mod	_	_
-46	neːmoː	neːmoː	NOUN	_	Gender=Masc	45	comp:obj	_	_
-47	wani	wani	PRON	_	Definite=Spec|Gender=Masc	46	det	_	_
+46	neːmoː	neːmoː	VERB	_	Gender=Masc	45	comp:obj	_	_
+47	wani	wani	PRON	_	Definite=Spec|Gender=Masc	46	comp:obj	_	_
 48	wandà	wandà	PRON	_	PronType=Rel	49	subj	_	_
 49	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	47	mod@relcl	_	_
 50	ɗàuki	ɗaukaː	VERB	_	_	49	comp:aux	_	_
@@ -347,7 +347,7 @@
 4	dà	dà	ADP	_	_	3	comp:obl	_	_
 5	cêːwaː	cêː	VERB	_	Gender=Fem	4	comp:obj	_	_
 6	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	9	subj	_	_
-7	wannàn	wannàn	PRON	_	Gender=Masc|PronType=Dem	8	det	_	_
+7	wannàn	wannàn	DET	_	Gender=Masc|PronType=Dem	8	det	_	_
 8	dambe	dambe	SCONJ	_	_	6	mod	_	_
 9	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	5	mod@relcl	_	_
 10	saːɓàː	saːɓàː	VERB	_	_	9	comp:aux	_	_
