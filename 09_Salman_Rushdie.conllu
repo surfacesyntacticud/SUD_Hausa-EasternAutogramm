@@ -323,8 +323,8 @@
 11	.	_	_	_	_	_	_	_	_
 
 # sent_id = 09_Salman_Rushdie__14
-# text = Shikenan, sai 'yan sànda sukà kaːmèː shi sukà yì gàba dà shiː
-1	Shikenan	_	_	_	_	_	_	_	SpaceAfter=No
+# text = Shiːkèːnan, sai 'yan sànda sukà kaːmèː shi sukà yi gàba dà shiː .
+1	Shiːkèːnan	_	_	_	_	_	_	_	SpaceAfter=No|wordform=Shikenan
 2	,	_	_	_	_	_	_	_	_
 3	sai	_	_	_	_	_	_	_	_
 4	'yan	_	_	_	_	_	_	_	_
@@ -333,37 +333,38 @@
 7	kaːmèː	_	_	_	_	_	_	_	_
 8	shi	_	_	_	_	_	_	_	_
 9	sukà	_	_	_	_	_	_	_	_
-10	yì	_	_	_	_	_	_	_	_
+10	yi	_	_	_	_	_	_	_	_
 11	gàba	_	_	_	_	_	_	_	_
 12	dà	_	_	_	_	_	_	_	_
 13	shiː	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
 
 # sent_id = 09_Salman_Rushdie__15
-# text = Tòː à can hawa na àshir̃in neː akèː yîn wannàn tàːro na manèːmaː labàːr̃ai dà shiː Gianni Palma ya kirawoː.
+# text = Tòː à can hawaː na àshìr̃in nèː akèː yîn wannàn tàːroː na manèːmaː làːbàːr̃ai dà shiː Gianni Palma ya kiraːwoː.
 1	Tòː	_	_	_	_	_	_	_	_
 2	à	_	_	_	_	_	_	_	_
 3	can	_	_	_	_	_	_	_	_
-4	hawa	_	_	_	_	_	_	_	_
+4	hawaː	_	_	_	_	_	_	_	_
 5	na	_	_	_	_	_	_	_	_
-6	àshir̃in	_	_	_	_	_	_	_	_
-7	neː	_	_	_	_	_	_	_	_
+6	àshìr̃in	_	_	_	_	_	_	_	_
+7	nèː	_	_	_	_	_	_	_	_
 8	akèː	_	_	_	_	_	_	_	_
 9	yîn	_	_	_	_	_	_	_	_
 10	wannàn	_	_	_	_	_	_	_	_
-11	tàːro	_	_	_	_	_	_	_	_
+11	tàːroː	_	_	_	_	_	_	_	_
 12	na	_	_	_	_	_	_	_	_
 13	manèːmaː	_	_	_	_	_	_	_	_
-14	labàːr̃ai	_	_	_	_	_	_	_	_
+14	làːbàːr̃ai	_	_	_	_	_	_	_	_
 15	dà	_	_	_	_	_	_	_	_
 16	shiː	_	_	_	_	_	_	_	_
 17	Gianni	_	_	_	_	_	_	_	_
 18	Palma	_	_	_	_	_	_	_	_
 19	ya	_	_	_	_	_	_	_	_
-20	kirawoː	_	_	_	_	_	_	_	SpaceAfter=No
+20	kiraːwoː	_	_	_	_	_	_	_	SpaceAfter=No
 21	.	_	_	_	_	_	_	_	_
 
 # sent_id = 09_Salman_Rushdie__16
-# text = Tòː shiː Gianni Palma sai ya zoː ya buːde tàːrő akà faːrà màganaː.
+# text = Tòː shiː Gianni Palma sai ya zoː ya buːɗè tàːroː akà faːrà màganàː.
 1	Tòː	_	_	_	_	_	_	_	_
 2	shiː	_	_	_	_	_	_	_	_
 3	Gianni	_	_	_	_	_	_	_	_
@@ -372,36 +373,36 @@
 6	ya	_	_	_	_	_	_	_	_
 7	zoː	_	_	_	_	_	_	_	_
 8	ya	_	_	_	_	_	_	_	_
-9	buːde	_	_	_	_	_	_	_	_
-10	tàːrő	_	_	_	_	_	_	_	_
+9	buːɗè	_	_	_	_	_	_	_	_
+10	tàːroː	_	_	_	_	_	_	_	_
 11	akà	_	_	_	_	_	_	_	_
 12	faːrà	_	_	_	_	_	_	_	_
-13	màganaː	_	_	_	_	_	_	_	SpaceAfter=No
+13	màganàː	_	_	_	_	_	_	_	SpaceAfter=No
 14	.	_	_	_	_	_	_	_	_
 
 # sent_id = 09_Salman_Rushdie__17
-# text = Can sai wani mùtùm ya taːsoː ya jeː ya ɗauki irin 'yar̃ naː'uːràːr̃ nan dà akèː ɗaukar̃ màgana - wàn maːkarufo ya jeː ya farà duːkàn Gianni Palma dà ita.
+# text = Can sai wani mùtûm ya taːsoː ya jeː ya ɗàuki irìn 'yar̃ naː'uːr̃âr̃ nan dà akèː ɗaukàr̃ màganàː - wàːtòː maːkar̃ufôː ya jeː ya farà duːkàn Gianni Palma dà ita.
 1	Can	_	_	_	_	_	_	_	_
 2	sai	_	_	_	_	_	_	_	_
 3	wani	_	_	_	_	_	_	_	_
-4	mùtùm	_	_	_	_	_	_	_	_
+4	mùtûm	_	_	_	_	_	_	_	_
 5	ya	_	_	_	_	_	_	_	_
 6	taːsoː	_	_	_	_	_	_	_	_
 7	ya	_	_	_	_	_	_	_	_
 8	jeː	_	_	_	_	_	_	_	_
 9	ya	_	_	_	_	_	_	_	_
-10	ɗauki	_	_	_	_	_	_	_	_
-11	irin	_	_	_	_	_	_	_	_
+10	ɗàuki	_	_	_	_	_	_	_	_
+11	irìn	_	_	_	_	_	_	_	_
 12	'yar̃	_	_	_	_	_	_	_	_
-13	naː'uːràːr̃	_	_	_	_	_	_	_	_
+13	naː'uːr̃âr̃	_	_	_	_	_	_	_	_
 14	nan	_	_	_	_	_	_	_	_
 15	dà	_	_	_	_	_	_	_	_
 16	akèː	_	_	_	_	_	_	_	_
-17	ɗaukar̃	_	_	_	_	_	_	_	_
-18	màgana	_	_	_	_	_	_	_	_
+17	ɗaukàr̃	_	_	_	_	_	_	_	_
+18	màganàː	_	_	_	_	_	_	_	_
 19	-	_	_	_	_	_	_	_	_
-20	wàn	_	_	_	_	_	_	_	_
-21	maːkarufo	_	_	_	_	_	_	_	_
+20	wàːtòː	_	_	_	_	_	_	_	_
+21	maːkar̃ufôː	_	_	_	_	_	_	_	_
 22	ya	_	_	_	_	_	_	_	_
 23	jeː	_	_	_	_	_	_	_	_
 24	ya	_	_	_	_	_	_	_	_
@@ -414,26 +415,26 @@
 31	.	_	_	_	_	_	_	_	_
 
 # sent_id = 09_Salman_Rushdie__18
-# text = Shikenan sai 'yan sàndan ciki tare dà wasu 'yan jar̃idū sukà taimàkaː akà kaːme shi akaː sakaː masà ankwa à hannunsà akà yi wàje dà shiː.
-1	Shikenan	_	_	_	_	_	_	_	_
+# text = Shiːkèːnan sai 'yan sàndan ciki tàːre dà wasu 'yan jàːr̃ìːduː sukà taimàkaː akà kaːmèː shi akà sakàː masà ankwàː à hannunsà akà yi wàje dà shiː.
+1	Shiːkèːnan	_	_	_	_	_	_	_	wordform=Shikenan
 2	sai	_	_	_	_	_	_	_	_
 3	'yan	_	_	_	_	_	_	_	_
 4	sàndan	_	_	_	_	_	_	_	_
 5	ciki	_	_	_	_	_	_	_	_
-6	tare	_	_	_	_	_	_	_	_
+6	tàːre	_	_	_	_	_	_	_	_
 7	dà	_	_	_	_	_	_	_	_
 8	wasu	_	_	_	_	_	_	_	_
 9	'yan	_	_	_	_	_	_	_	_
-10	jar̃idū	_	_	_	_	_	_	_	_
+10	jàːr̃ìːduː	_	_	_	_	_	_	_	_
 11	sukà	_	_	_	_	_	_	_	_
 12	taimàkaː	_	_	_	_	_	_	_	_
 13	akà	_	_	_	_	_	_	_	_
-14	kaːme	_	_	_	_	_	_	_	_
+14	kaːmèː	_	_	_	_	_	_	_	_
 15	shi	_	_	_	_	_	_	_	_
-16	akaː	_	_	_	_	_	_	_	_
-17	sakaː	_	_	_	_	_	_	_	_
+16	akà	_	_	_	_	_	_	_	_
+17	sakàː	_	_	_	_	_	_	_	_
 18	masà	_	_	_	_	_	_	_	_
-19	ankwa	_	_	_	_	_	_	_	_
+19	ankwàː	_	_	_	_	_	_	_	_
 20	à	_	_	_	_	_	_	_	_
 21	hannunsà	_	_	_	_	_	_	_	_
 22	akà	_	_	_	_	_	_	_	_
@@ -444,67 +445,67 @@
 27	.	_	_	_	_	_	_	_	_
 
 # sent_id = 09_Salman_Rushdie__19
-# text = Loːkàcîn dà akèː tàfiya dà shiː sai ya kaː dà bằkiː ya cèː shiː kàm yanàː kaunar̃ kasar̃ Jàpàn, kuma bài kàmaːtà ita kasať Jàpàn ɗîn tà tsoːmà bằkintà cikin wannàn àl'amariː ba.
+# text = Loːkàcîn dà akèː tàfiyàː dà shiː sai ya kaː dà bàːkiː ya cèː shiː kàm yanàː ƙàunar̃ ƙasar̃ Jàpân, kuma bài kàmaːtà ita ƙasar̃ Jàpân ɗîn tà tsoːmà bàːkintà cikin wannàn àl'amàr̃iː ba.
 1	Loːkàcîn	_	_	_	_	_	_	_	_
 2	dà	_	_	_	_	_	_	_	_
 3	akèː	_	_	_	_	_	_	_	_
-4	tàfiya	_	_	_	_	_	_	_	_
+4	tàfiyàː	_	_	_	_	_	_	_	_
 5	dà	_	_	_	_	_	_	_	_
 6	shiː	_	_	_	_	_	_	_	_
 7	sai	_	_	_	_	_	_	_	_
 8	ya	_	_	_	_	_	_	_	_
 9	kaː	_	_	_	_	_	_	_	_
 10	dà	_	_	_	_	_	_	_	_
-11	bằkiː	_	_	_	_	_	_	_	_
+11	bàːkiː	_	_	_	_	_	_	_	_
 12	ya	_	_	_	_	_	_	_	_
 13	cèː	_	_	_	_	_	_	_	_
 14	shiː	_	_	_	_	_	_	_	_
 15	kàm	_	_	_	_	_	_	_	_
 16	yanàː	_	_	_	_	_	_	_	_
-17	kaunar̃	_	_	_	_	_	_	_	_
+17	ƙàunar̃	_	_	_	_	_	_	_	_
 18	ƙasar̃	_	_	_	_	_	_	_	wordform=kasar̃
-19	Jàpàn	_	_	_	_	_	_	_	SpaceAfter=No
+19	Jàpân	_	_	_	_	_	_	_	SpaceAfter=No
 20	,	_	_	_	_	_	_	_	_
 21	kuma	_	_	_	_	_	_	_	_
 22	bài	_	_	_	_	_	_	_	_
 23	kàmaːtà	_	_	_	_	_	_	_	_
 24	ita	_	_	_	_	_	_	_	_
-25	kasať	_	_	_	_	_	_	_	_
-26	Jàpàn	_	_	_	_	_	_	_	_
+25	ƙasar̃	_	_	_	_	_	_	_	_
+26	Jàpân	_	_	_	_	_	_	_	_
 27	ɗîn	_	_	_	_	_	_	_	_
 28	tà	_	_	_	_	_	_	_	_
 29	tsoːmà	_	_	_	_	_	_	_	_
-30	bằkintà	_	_	_	_	_	_	_	_
+30	bàːkintà	_	_	_	_	_	_	_	_
 31	cikin	_	_	_	_	_	_	_	_
 32	wannàn	_	_	_	_	_	_	_	_
-33	àl'amariː	_	_	_	_	_	_	_	_
+33	àl'amàr̃iː	_	_	_	_	_	_	_	_
 34	ba	_	_	_	_	_	_	_	SpaceAfter=No
 35	.	_	_	_	_	_	_	_	_
 
 # sent_id = 09_Salman_Rushdie__20
-# text = Tòː daː maː tun kwànàkin baya and yin wannàn hàyàniyaː game dà littaːfin na Ayoːyin Shaidàn, domin kùwa à raːnať Lahàdi dà ta wucèː maː, wasu Mùsùlmiː suː kìmaːnìn đàːriː dà àshifin à wata ùnguwar̃ Tokyo sun yi wata zaːngà-zangà baːyàn dà sukà idať dà sallà.
+# text = Tòː dâː maː tun kwàːnàkin baːya anàː yîn wannàn hàyàːniyaː gàme dà littaːfìn na Aːyoːyin Shàiɗân, dòːmin kùwa à raːnar̃ Lahàdì dà ta wucèː maː, wasu Mùsùlmiː suː kìːmaːnìn ɗàːriː dà àshìr̃in à wata ùnguwar̃ Tokyo sun yi wata zaːngà-zangà baːyân dà sukà idar̃ dà sallàː.
 1	Tòː	_	_	_	_	_	_	_	_
-2	daː	_	_	_	_	_	_	_	_
+2	dâː	_	_	_	_	_	_	_	_
 3	maː	_	_	_	_	_	_	_	_
 4	tun	_	_	_	_	_	_	_	_
-5	kwànàkin	_	_	_	_	_	_	_	_
-6	baya	_	_	_	_	_	_	_	_
-7	and	_	_	_	_	_	_	_	_
-8	yin	_	_	_	_	_	_	_	_
+5	kwàːnàkin	_	_	_	_	_	_	_	_
+6	baːya	_	_	_	_	_	_	_	_
+7	anàː	_	_	_	_	_	_	_	_
+8	yîn	_	_	_	_	_	_	_	_
 9	wannàn	_	_	_	_	_	_	_	_
-10	hàyàniyaː	_	_	_	_	_	_	_	_
-11	game	_	_	_	_	_	_	_	_
+10	hàyàːniyaː	_	_	_	_	_	_	_	_
+11	gàme	_	_	_	_	_	_	_	_
 12	dà	_	_	_	_	_	_	_	_
-13	littaːfin	_	_	_	_	_	_	_	_
+13	littaːfìn	_	_	_	_	_	_	_	_
 14	na	_	_	_	_	_	_	_	_
-15	Ayoːyin	_	_	_	_	_	_	_	_
-16	Shaidàn	_	_	_	_	_	_	_	SpaceAfter=No
+15	Aːyoːyin	_	_	_	_	_	_	_	_
+16	Shàiɗân	_	_	_	_	_	_	_	SpaceAfter=No
 17	,	_	_	_	_	_	_	_	_
-18	domin	_	_	_	_	_	_	_	_
+18	dòːmin	_	_	_	_	_	_	_	_
 19	kùwa	_	_	_	_	_	_	_	_
 20	à	_	_	_	_	_	_	_	_
-21	raːnať	_	_	_	_	_	_	_	_
-22	Lahàdi	_	_	_	_	_	_	_	_
+21	raːnar̃	_	_	_	_	_	_	_	_
+22	Lahàdì	_	_	_	_	_	_	_	_
 23	dà	_	_	_	_	_	_	_	_
 24	ta	_	_	_	_	_	_	_	_
 25	wucèː	_	_	_	_	_	_	_	_
@@ -513,10 +514,10 @@
 28	wasu	_	_	_	_	_	_	_	_
 29	Mùsùlmiː	_	_	_	_	_	_	_	_
 30	suː	_	_	_	_	_	_	_	_
-31	kìmaːnìn	_	_	_	_	_	_	_	_
-32	đàːriː	_	_	_	_	_	_	_	_
+31	kìːmaːnìn	_	_	_	_	_	_	_	_
+32	ɗàːriː	_	_	_	_	_	_	_	_
 33	dà	_	_	_	_	_	_	_	_
-34	àshifin	_	_	_	_	_	_	_	_
+34	àshìr̃in	_	_	_	_	_	_	_	_
 35	à	_	_	_	_	_	_	_	_
 36	wata	_	_	_	_	_	_	_	_
 37	ùnguwar̃	_	_	_	_	_	_	_	_
@@ -525,16 +526,16 @@
 40	yi	_	_	_	_	_	_	_	_
 41	wata	_	_	_	_	_	_	_	_
 42	zaːngà-zangà	_	_	_	_	_	_	_	_
-43	baːyàn	_	_	_	_	_	_	_	_
+43	baːyân	_	_	_	_	_	_	_	_
 44	dà	_	_	_	_	_	_	_	_
 45	sukà	_	_	_	_	_	_	_	_
-46	idať	_	_	_	_	_	_	_	_
+46	idar̃	_	_	_	_	_	_	_	_
 47	dà	_	_	_	_	_	_	_	_
-48	sallà	_	_	_	_	_	_	_	SpaceAfter=No
+48	sallàː	_	_	_	_	_	_	_	SpaceAfter=No
 49	.	_	_	_	_	_	_	_	_
 
 # sent_id = 09_Salman_Rushdie__21
-# text = Sun fitoː kân tiːtunàː sunàː zàngà-zangà ta ƙîn jinìn wannan littaːfìː dà akèː sôn bugàːwaː à harshèn Japananciː ɗîn.
+# text = Sun fitoː kân tiːtunàː sunàː zàngà-zangà ta ƙîn jinìn wannàn littaːfìː dà akèː sôn bugàːwaː à harshèn Japananciː ɗîn.
 1	Sun	_	_	_	_	_	_	_	_
 2	fitoː	_	_	_	_	_	_	_	_
 3	kân	_	_	_	_	_	_	_	_
@@ -544,7 +545,7 @@
 7	ta	_	_	_	_	_	_	_	_
 8	ƙîn	_	_	_	_	_	_	_	_
 9	jinìn	_	_	_	_	_	_	_	_
-10	wannan	_	_	_	_	_	_	_	_
+10	wannàn	_	_	_	_	_	_	_	_
 11	littaːfìː	_	_	_	_	_	_	_	_
 12	dà	_	_	_	_	_	_	_	_
 13	akèː	_	_	_	_	_	_	_	_
@@ -594,7 +595,7 @@
 34	.	_	_	_	_	_	_	_	_
 
 # sent_id = 09_Salman_Rushdie__23
-# text = Sai dai kuma shiː Gianni Palma yaː kafèː kàn cêːwaːː lalleː kàm yanaː nan à kân bàkansà, bà zâi jaː dà baːya ba.
+# text = Sai dai kuma shiː Gianni Palma yaː kafèː kân cêːwaː lalleː kàm yanàː nan à kân bàkansà, bàː zâi jaː dà baːya ba.
 1	Sai	_	_	_	_	_	_	_	_
 2	dai	_	_	_	_	_	_	_	_
 3	kuma	_	_	_	_	_	_	_	_
@@ -603,17 +604,17 @@
 6	Palma	_	_	_	_	_	_	_	_
 7	yaː	_	_	_	_	_	_	_	_
 8	kafèː	_	_	_	_	_	_	_	_
-9	kàn	_	_	_	_	_	_	_	_
-10	cêːwaːː	_	_	_	_	_	_	_	_
+9	kân	_	_	_	_	_	_	_	_
+10	cêːwaː	_	_	_	_	_	_	_	_
 11	lalleː	_	_	_	_	_	_	_	_
 12	kàm	_	_	_	_	_	_	_	_
-13	yanaː	_	_	_	_	_	_	_	_
+13	yanàː	_	_	_	_	_	_	_	_
 14	nan	_	_	_	_	_	_	_	_
 15	à	_	_	_	_	_	_	_	_
 16	kân	_	_	_	_	_	_	_	_
 17	bàkansà	_	_	_	_	_	_	_	SpaceAfter=No
 18	,	_	_	_	_	_	_	_	_
-19	bà	_	_	_	_	_	_	_	_
+19	bàː	_	_	_	_	_	_	_	_
 20	zâi	_	_	_	_	_	_	_	_
 21	jaː	_	_	_	_	_	_	_	_
 22	dà	_	_	_	_	_	_	_	_
