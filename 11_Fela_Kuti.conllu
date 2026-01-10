@@ -1,11 +1,13 @@
 # sent_id = 11_Fela_Kuti__1
-# text = Labaːr̃în 'Fela Kuti'
-1	Labaːr̃în	_	_	_	_	_	_	_	_
-2	'Fela	_	_	_	_	_	_	_	_
-3	Kuti'	_	_	_	_	_	_	_	_
+# text = Làːbaːr̃ìn " Fela Kuti "
+1	Làːbaːr̃ìn	_	_	_	_	_	_	_	_
+2	"	"	_	_	_	_	_	_	_
+3	Fela	Fela	_	_	_	_	_	_	_
+4	Kuti	Kuti	_	_	_	_	_	_	_
+5	"	"	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__2
-# text = À gaskiyaː ìdan kaː ga Fela Kuti yana tìːƙar̃ rawar̃sà à gàban jàːma'àː, dà kyar̃ zaːkà yarda dà cêwaː shèːkàrunsà hàmsin nèː dà haihùwaː.
+# text = À gaskiyaː ìdan kaː ga Fela Kuti yanàː tìːƙar̃ rawar̃sà à gàban jàma'àː, dà ƙyar̃ zaːkà yàr̃da dà cêwaː shèːkàrunsà hàmsin nèː dà haihùwaː.
 1	À	_	_	_	_	_	_	_	_
 2	gaskiyaː	_	_	_	_	_	_	_	_
 3	ìdan	_	_	_	_	_	_	_	_
@@ -13,17 +15,17 @@
 5	ga	_	_	_	_	_	_	_	_
 6	Fela	_	_	_	_	_	_	_	_
 7	Kuti	_	_	_	_	_	_	_	_
-8	yana	_	_	_	_	_	_	_	_
+8	yanàː	_	_	_	_	_	_	_	wordform=yana
 9	tìːƙar̃	_	_	_	_	_	_	_	_
 10	rawar̃sà	_	_	_	_	_	_	_	_
 11	à	_	_	_	_	_	_	_	_
 12	gàban	_	_	_	_	_	_	_	_
-13	jàːma'àː	_	_	_	_	_	_	_	SpaceAfter=No
+13	jàma'àː	_	_	_	_	_	_	_	SpaceAfter=No
 14	,	_	_	_	_	_	_	_	_
 15	dà	_	_	_	_	_	_	_	_
-16	kyar̃	_	_	_	_	_	_	_	_
+16	ƙyar̃	_	_	_	_	_	_	_	_
 17	zaːkà	_	_	_	_	_	_	_	_
-18	yarda	_	_	_	_	_	_	_	_
+18	yàr̃da	_	_	_	_	_	_	_	_
 19	dà	_	_	_	_	_	_	_	_
 20	cêwaː	_	_	_	_	_	_	_	_
 21	shèːkàrunsà	_	_	_	_	_	_	_	_
@@ -34,60 +36,61 @@
 26	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__3
-# text = Shiː dai mùtûm neː dà ya dade an san shì à kân sànaː'àŕsà, koː dà yakèː kuma yaː fuːskanci wasu wahaloːliːdà daːmaː.
+# text = Shiː dai mùtûm neː dà ya daɗèː an san shì à kân sànaː'àr̃sà, koː dà yakè kuma yaː fùskànci wasu wahaloːliː dà daːmaː.
 1	Shiː	_	_	_	_	_	_	_	_
 2	dai	_	_	_	_	_	_	_	_
 3	mùtûm	_	_	_	_	_	_	_	_
 4	neː	_	_	_	_	_	_	_	_
 5	dà	_	_	_	_	_	_	_	_
 6	ya	_	_	_	_	_	_	_	_
-7	dade	_	_	_	_	_	_	_	_
+7	daɗèː	_	_	_	_	_	_	_	_
 8	an	_	_	_	_	_	_	_	_
 9	san	_	_	_	_	_	_	_	_
 10	shì	_	_	_	_	_	_	_	_
 11	à	_	_	_	_	_	_	_	_
 12	kân	_	_	_	_	_	_	_	_
-13	sànaː'àŕsà	_	_	_	_	_	_	_	SpaceAfter=No
+13	sànaː'àr̃sà	_	_	_	_	_	_	_	SpaceAfter=No
 14	,	_	_	_	_	_	_	_	_
 15	koː	_	_	_	_	_	_	_	_
 16	dà	_	_	_	_	_	_	_	_
-17	yakèː	_	_	_	_	_	_	_	_
+17	yakè	_	_	_	_	_	_	_	_
 18	kuma	_	_	_	_	_	_	_	_
 19	yaː	_	_	_	_	_	_	_	_
-20	fuːskanci	_	_	_	_	_	_	_	_
+20	fùskànci	_	_	_	_	_	_	_	_
 21	wasu	_	_	_	_	_	_	_	_
-22	wahaloːliːdà	_	_	_	_	_	_	_	_
-23	daːmaː	_	_	_	_	_	_	_	SpaceAfter=No
-24	.	_	_	_	_	_	_	_	_
+22	wahaloːliː	wahaloːliː	_	_	_	_	_	_	_
+23	dà	dà	_	_	_	_	_	_	_
+24	daːmaː	_	_	_	_	_	_	_	SpaceAfter=No
+25	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__4
-# text = Fela dai bàyar̃abề neː gàba dà baya, wandà akà hàifaː à gàrin Àbêkuːta à shèkarar̃ alìf dà ɗàriː tara dà tàlàtin dà takwàs, tồ àmmaː dà ya kai matsayin sauràyiː, sai ya koːma Ìkko indà ya zama àkawu à wani oːfishin gwamnati.
+# text = Fela dai bàyar̃abề neː gàba dà baːya, wandà akà hàifaː à gàrin Àbêːkùta à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàlàːtin dà takwàs, tòː àmmaː dà ya kai matsayin sauràyiː, sai ya koːmàː Ìkko indà ya zama àkàːwu à wani oːfishin gwamnatì.
 1	Fela	_	_	_	_	_	_	_	_
 2	dai	_	_	_	_	_	_	_	_
 3	bàyar̃abề	_	_	_	_	_	_	_	_
 4	neː	_	_	_	_	_	_	_	_
 5	gàba	_	_	_	_	_	_	_	_
 6	dà	_	_	_	_	_	_	_	_
-7	baya	_	_	_	_	_	_	_	SpaceAfter=No
+7	baːya	_	_	_	_	_	_	_	SpaceAfter=No
 8	,	_	_	_	_	_	_	_	_
 9	wandà	_	_	_	_	_	_	_	_
 10	akà	_	_	_	_	_	_	_	_
 11	hàifaː	_	_	_	_	_	_	_	_
 12	à	_	_	_	_	_	_	_	_
 13	gàrin	_	_	_	_	_	_	_	_
-14	Àbêkuːta	_	_	_	_	_	_	_	_
+14	Àbêːkùta	_	_	_	_	_	_	_	_
 15	à	_	_	_	_	_	_	_	_
-16	shèkarar̃	_	_	_	_	_	_	_	_
+16	shèːkaràr̃	_	_	_	_	_	_	_	_
 17	alìf	_	_	_	_	_	_	_	_
 18	dà	_	_	_	_	_	_	_	_
 19	ɗàriː	_	_	_	_	_	_	_	_
-20	tara	_	_	_	_	_	_	_	_
+20	tar̃à	_	_	_	_	_	_	_	_
 21	dà	_	_	_	_	_	_	_	_
-22	tàlàtin	_	_	_	_	_	_	_	_
+22	tàlàːtin	_	_	_	_	_	_	_	_
 23	dà	_	_	_	_	_	_	_	_
 24	takwàs	_	_	_	_	_	_	_	SpaceAfter=No
 25	,	_	_	_	_	_	_	_	_
-26	tồ	_	_	_	_	_	_	_	_
+26	tòː	_	_	_	_	_	_	_	_
 27	àmmaː	_	_	_	_	_	_	_	_
 28	dà	_	_	_	_	_	_	_	_
 29	ya	_	_	_	_	_	_	_	_
@@ -97,99 +100,105 @@
 33	,	_	_	_	_	_	_	_	_
 34	sai	_	_	_	_	_	_	_	_
 35	ya	_	_	_	_	_	_	_	_
-36	koːma	_	_	_	_	_	_	_	_
+36	koːmàː	_	_	_	_	_	_	_	_
 37	Ìkko	_	_	_	_	_	_	_	_
 38	indà	_	_	_	_	_	_	_	_
 39	ya	_	_	_	_	_	_	_	_
 40	zama	_	_	_	_	_	_	_	_
-41	àkawu	_	_	_	_	_	_	_	_
+41	àkàːwu	_	_	_	_	_	_	_	_
 42	à	_	_	_	_	_	_	_	_
 43	wani	_	_	_	_	_	_	_	_
 44	oːfishin	_	_	_	_	_	_	_	_
-45	gwamnati	_	_	_	_	_	_	_	SpaceAfter=No
+45	gwamnatì	_	_	_	_	_	_	_	SpaceAfter=No
 46	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__5
-# text = À loːkàcîn dà yakề yîn wannàn aikì neː ya dingà koːkarin zamaː makadi, yana wake-wàːkensaː à kuːlâb-kuːlâb na bir̃nin Ìkko.
+# text = À loːkàcîn dà yakèː yîn wannàn aikìː neː ya dingà ƙòːƙarin zamaː makàɗiː, yanàː wàːƙe-wàːƙensà à kùlâb-kùlâb na bir̃nin Ìkko.
 1	À	_	_	_	_	_	_	_	_
 2	loːkàcîn	_	_	_	_	_	_	_	_
 3	dà	_	_	_	_	_	_	_	_
-4	yakề	_	_	_	_	_	_	_	_
+4	yakèː	_	_	_	_	_	_	_	wordform=yakề
 5	yîn	_	_	_	_	_	_	_	_
 6	wannàn	_	_	_	_	_	_	_	_
-7	aikì	_	_	_	_	_	_	_	_
+7	aikìː	_	_	_	_	_	_	_	_
 8	neː	_	_	_	_	_	_	_	_
 9	ya	_	_	_	_	_	_	_	_
 10	dingà	_	_	_	_	_	_	_	_
-11	koːkarin	_	_	_	_	_	_	_	_
+11	ƙòːƙarin	_	_	_	_	_	_	_	_
 12	zamaː	_	_	_	_	_	_	_	_
-13	makadi	_	_	_	_	_	_	_	SpaceAfter=No
+13	makàɗiː	_	_	_	_	_	_	_	SpaceAfter=No
 14	,	_	_	_	_	_	_	_	_
-15	yana	_	_	_	_	_	_	_	_
-16	wake-wàːkensaː	_	_	_	_	_	_	_	_
+15	yanàː	_	_	_	_	_	_	_	wordform=yana
+16	wàːƙe-wàːƙensà	_	_	_	_	_	_	_	_
 17	à	_	_	_	_	_	_	_	_
-18	kuːlâb-kuːlâb	_	_	_	_	_	_	_	_
+18	kùlâb-kùlâb	_	_	_	_	_	_	_	_
 19	na	_	_	_	_	_	_	_	_
 20	bir̃nin	_	_	_	_	_	_	_	_
 21	Ìkko	_	_	_	_	_	_	_	SpaceAfter=No
 22	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__6
-# text = Koː à loːkàcîn Fela yaː iya kaɗa 'piano' dà buːsà 'saxophone', dàgà bìsaːniː kuma ya zama shugàban makàɗaː dà mawakansà.
+# text = Koː à loːkàcîn Fela yaː iyà kaɗà " piano " dà buːsà "saxophone", dàgà bìsaːniː kuma ya zama shùːgàban makàɗaː dà mawakansà.
 1	Koː	_	_	_	_	_	_	_	_
 2	à	_	_	_	_	_	_	_	_
 3	loːkàcîn	_	_	_	_	_	_	_	_
 4	Fela	_	_	_	_	_	_	_	_
 5	yaː	_	_	_	_	_	_	_	_
-6	iya	_	_	_	_	_	_	_	_
-7	kaɗa	_	_	_	_	_	_	_	_
-8	'piano'	_	_	_	_	_	_	_	_
-9	dà	_	_	_	_	_	_	_	_
-10	buːsà	_	_	_	_	_	_	_	_
-11	'saxophone'	_	_	_	_	_	_	_	SpaceAfter=No
-12	,	_	_	_	_	_	_	_	_
-13	dàgà	_	_	_	_	_	_	_	_
-14	bìsaːniː	_	_	_	_	_	_	_	_
-15	kuma	_	_	_	_	_	_	_	_
-16	ya	_	_	_	_	_	_	_	_
-17	zama	_	_	_	_	_	_	_	_
-18	shugàban	_	_	_	_	_	_	_	_
-19	makàɗaː	_	_	_	_	_	_	_	_
-20	dà	_	_	_	_	_	_	_	_
-21	mawakansà	_	_	_	_	_	_	_	SpaceAfter=No
-22	.	_	_	_	_	_	_	_	_
+6	iyà	_	_	_	_	_	_	_	_
+7	kaɗà	_	_	_	_	_	_	_	_
+8	"	"	_	_	_	_	_	_	_
+9	piano	piano	_	_	_	_	_	_	_
+10	"	"	_	_	_	_	_	_	_
+11	dà	_	_	_	_	_	_	_	_
+12	buːsà	_	_	_	_	_	_	_	_
+13	"	"	_	_	_	_	_	_	SpaceAfter=No
+14	saxophone	saxophone	_	_	_	_	_	_	SpaceAfter=No
+15	"	"	_	_	_	_	_	_	SpaceAfter=No
+16	,	_	_	_	_	_	_	_	_
+17	dàgà	_	_	_	_	_	_	_	_
+18	bìsaːniː	_	_	_	_	_	_	_	_
+19	kuma	_	_	_	_	_	_	_	_
+20	ya	_	_	_	_	_	_	_	_
+21	zama	_	_	_	_	_	_	_	_
+22	shùːgàban	_	_	_	_	_	_	_	_
+23	makàɗaː	_	_	_	_	_	_	_	_
+24	dà	_	_	_	_	_	_	_	_
+25	mawakansà	_	_	_	_	_	_	_	SpaceAfter=No
+26	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__7
-# text = Tò àmmaː irin mabuːsâr̃ nan mài kàmaː dà algaità dà akề kira 'saxophone', ita cèː koːwa ya fi dangàntà kàɗe-kàɗen Fela da ita.
+# text = Tò àmmaː irìn mabuːsâr̃ nan mài kàmaː dà algaitàː dà akèː kiràː "saxophone", ita cèː koːwaː ya fi dangàntà kàɗe-kàɗen Fela dà ita.
 1	Tò	_	_	_	_	_	_	_	_
 2	àmmaː	_	_	_	_	_	_	_	_
-3	irin	_	_	_	_	_	_	_	_
+3	irìn	_	_	_	_	_	_	_	_
 4	mabuːsâr̃	_	_	_	_	_	_	_	_
 5	nan	_	_	_	_	_	_	_	_
 6	mài	_	_	_	_	_	_	_	_
 7	kàmaː	_	_	_	_	_	_	_	_
 8	dà	_	_	_	_	_	_	_	_
-9	algaità	_	_	_	_	_	_	_	_
+9	algaitàː	_	_	_	_	_	_	_	_
 10	dà	_	_	_	_	_	_	_	_
-11	akề	_	_	_	_	_	_	_	_
-12	kira	_	_	_	_	_	_	_	_
-13	'saxophone'	_	_	_	_	_	_	_	SpaceAfter=No
-14	,	_	_	_	_	_	_	_	_
-15	ita	_	_	_	_	_	_	_	_
-16	cèː	_	_	_	_	_	_	_	_
-17	koːwa	_	_	_	_	_	_	_	_
-18	ya	_	_	_	_	_	_	_	_
-19	fi	_	_	_	_	_	_	_	_
-20	dangàntà	_	_	_	_	_	_	_	_
-21	kàɗe-kàɗen	_	_	_	_	_	_	_	_
-22	Fela	_	_	_	_	_	_	_	_
-23	da	_	_	_	_	_	_	_	_
-24	ita	_	_	_	_	_	_	_	SpaceAfter=No
-25	.	_	_	_	_	_	_	_	_
+11	akèː	_	_	_	_	_	_	_	_
+12	kiràː	_	_	_	_	_	_	_	_
+13	"	"	_	_	_	_	_	_	SpaceAfter=No
+14	saxophone	saxophone	_	_	_	_	_	_	SpaceAfter=No
+15	"	"	_	_	_	_	_	_	SpaceAfter=No
+16	,	_	_	_	_	_	_	_	_
+17	ita	_	_	_	_	_	_	_	_
+18	cèː	_	_	_	_	_	_	_	_
+19	koːwaː	_	_	_	_	_	_	_	_
+20	ya	_	_	_	_	_	_	_	_
+21	fi	_	_	_	_	_	_	_	_
+22	dangàntà	_	_	_	_	_	_	_	_
+23	kàɗe-kàɗen	_	_	_	_	_	_	_	_
+24	Fela	_	_	_	_	_	_	_	_
+25	dà	_	_	_	_	_	_	_	_
+26	ita	_	_	_	_	_	_	_	SpaceAfter=No
+27	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__8
-# text = Bara wàccan nèː shiː dà kânsà ya bayyànà yaddà ya faːrà àmfàːniːiː dà ita, indà ya cèː: Daː maː àkwai irin wannàːn àlgaitaː à kar̃kashin gadoːnaː, wàccè² daya ɗàgà cikin makàɗaːnaː kề buːsaːwaː.
-1	Bara	_	_	_	_	_	_	_	_
+# text = Bàːra wàccan nèː shiː dà kânsà ya bayyànà yaddà ya faːrà àmfàːniː dà ita, indà ya cèː: " Dâː maː àkwai irin wannàn àlgaitàː à ƙar̃ƙashin gadoːnaː, wàccè ɗaya ɗàgà cikin makàɗaːnaː kèː buːsàːwaː. "
+1	Bàːra	_	_	_	_	_	_	_	_
 2	wàccan	_	_	_	_	_	_	_	_
 3	nèː	_	_	_	_	_	_	_	_
 4	shiː	_	_	_	_	_	_	_	_
@@ -200,7 +209,7 @@
 9	yaddà	_	_	_	_	_	_	_	_
 10	ya	_	_	_	_	_	_	_	_
 11	faːrà	_	_	_	_	_	_	_	_
-12	àmfàːniːiː	_	_	_	_	_	_	_	_
+12	àmfàːniː	_	_	_	_	_	_	_	_
 13	dà	_	_	_	_	_	_	_	_
 14	ita	_	_	_	_	_	_	_	SpaceAfter=No
 15	,	_	_	_	_	_	_	_	_
@@ -208,151 +217,162 @@
 17	ya	_	_	_	_	_	_	_	_
 18	cèː	_	_	_	_	_	_	_	SpaceAfter=No
 19	:	_	_	_	_	_	_	_	_
-20	Daː	_	_	_	_	_	_	_	_
-21	maː	_	_	_	_	_	_	_	_
-22	àkwai	_	_	_	_	_	_	_	_
-23	irin	_	_	_	_	_	_	_	_
-24	wannàːn	_	_	_	_	_	_	_	_
-25	àlgaitaː	_	_	_	_	_	_	_	_
-26	à	_	_	_	_	_	_	_	_
-27	kar̃kashin	_	_	_	_	_	_	_	_
-28	gadoːnaː	_	_	_	_	_	_	_	SpaceAfter=No
-29	,	_	_	_	_	_	_	_	_
-30	wàccè²	_	_	_	_	_	_	_	_
-31	daya	_	_	_	_	_	_	_	_
-32	ɗàgà	_	_	_	_	_	_	_	_
-33	cikin	_	_	_	_	_	_	_	_
-34	makàɗaːnaː	_	_	_	_	_	_	_	_
-35	kề	_	_	_	_	_	_	_	_
-36	buːsaːwaː	_	_	_	_	_	_	_	SpaceAfter=No
-37	.	_	_	_	_	_	_	_	_
+20	"	"	_	_	_	_	_	_	_
+21	Dâː	Dâː	_	_	_	_	_	_	_
+22	maː	_	_	_	_	_	_	_	_
+23	àkwai	_	_	_	_	_	_	_	_
+24	irin	_	_	_	_	_	_	_	_
+25	wannàn	_	_	_	_	_	_	_	_
+26	àlgaitàː	_	_	_	_	_	_	_	_
+27	à	_	_	_	_	_	_	_	_
+28	ƙar̃ƙashin	_	_	_	_	_	_	_	_
+29	gadoːnaː	_	_	_	_	_	_	_	SpaceAfter=No
+30	,	_	_	_	_	_	_	_	_
+31	wàccè	_	_	_	_	_	_	_	_
+32	ɗaya	_	_	_	_	_	_	_	_
+33	ɗàgà	_	_	_	_	_	_	_	_
+34	cikin	_	_	_	_	_	_	_	_
+35	makàɗaːnaː	_	_	_	_	_	_	_	_
+36	kèː	_	_	_	_	_	_	_	_
+37	buːsàːwaː	_	_	_	_	_	_	_	SpaceAfter=No
+38	.	.	_	_	_	_	_	_	_
+39	"	"	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__9
-# text = Rân nan sai na daukeː tà na saː à bằkiː na faːrà buːsaːwaː.
-1	Rân	_	_	_	_	_	_	_	_
-2	nan	_	_	_	_	_	_	_	_
-3	sai	_	_	_	_	_	_	_	_
-4	na	_	_	_	_	_	_	_	_
-5	daukeː	_	_	_	_	_	_	_	_
-6	tà	_	_	_	_	_	_	_	_
-7	na	_	_	_	_	_	_	_	_
-8	saː	_	_	_	_	_	_	_	_
-9	à	_	_	_	_	_	_	_	_
-10	bằkiː	_	_	_	_	_	_	_	_
-11	na	_	_	_	_	_	_	_	_
-12	faːrà	_	_	_	_	_	_	_	_
-13	buːsaːwaː	_	_	_	_	_	_	_	SpaceAfter=No
-14	.	_	_	_	_	_	_	_	_
+# text = " Rân nan sai na ɗàukeː tà na sâː à bàːkiː na faːrà buːsàːwaː. "
+1	"	"	_	_	_	_	_	_	_
+2	Rân	Rân	_	_	_	_	_	_	_
+3	nan	_	_	_	_	_	_	_	_
+4	sai	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	ɗàukeː	_	_	_	_	_	_	_	_
+7	tà	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	sâː	_	_	_	_	_	_	_	_
+10	à	_	_	_	_	_	_	_	_
+11	bàːkiː	_	_	_	_	_	_	_	_
+12	na	_	_	_	_	_	_	_	_
+13	faːrà	_	_	_	_	_	_	_	_
+14	buːsàːwaː	_	_	_	_	_	_	_	SpaceAfter=No
+15	.	.	_	_	_	_	_	_	_
+16	"	"	_	_	_	_	_	_	_
 
-# sent_id = 11_Fela_Kuti__10
-# text = Abin mamaːkt sai na ji maː naː fi iyà âmfàniː dà ita fiye dà bàdùjalaː 3 TÒ dàgà wannàn loːkàciː nèː na farà koyon yaddà akè àmfàːniːiː ɗà saxaphone.
-1	Abin	_	_	_	_	_	_	_	_
-2	mamaːkt	_	_	_	_	_	_	_	_
-3	sai	_	_	_	_	_	_	_	_
-4	na	_	_	_	_	_	_	_	_
-5	ji	_	_	_	_	_	_	_	_
-6	maː	_	_	_	_	_	_	_	_
-7	naː	_	_	_	_	_	_	_	_
-8	fi	_	_	_	_	_	_	_	_
-9	iyà	_	_	_	_	_	_	_	_
-10	âmfàniː	_	_	_	_	_	_	_	_
-11	dà	_	_	_	_	_	_	_	_
-12	ita	_	_	_	_	_	_	_	_
-13	fiye	_	_	_	_	_	_	_	_
-14	dà	_	_	_	_	_	_	_	_
-15	bàdùjalaː	_	_	_	_	_	_	_	_
-16	3	_	_	_	_	_	_	_	_
-17	TÒ	_	_	_	_	_	_	_	_
-18	dàgà	_	_	_	_	_	_	_	_
-19	wannàn	_	_	_	_	_	_	_	_
-20	loːkàciː	_	_	_	_	_	_	_	_
-21	nèː	_	_	_	_	_	_	_	_
-22	na	_	_	_	_	_	_	_	_
-23	farà	_	_	_	_	_	_	_	_
-24	koyon	_	_	_	_	_	_	_	_
-25	yaddà	_	_	_	_	_	_	_	_
-26	akè	_	_	_	_	_	_	_	_
-27	àmfàːniːiː	_	_	_	_	_	_	_	_
-28	ɗà	_	_	_	_	_	_	_	_
-29	saxaphone	_	_	_	_	_	_	_	SpaceAfter=No
-30	.	_	_	_	_	_	_	_	_
+# sent_id = 11_Fela_Kuti__10a
+# text = " Àbin màːmaːkìː sai na ji maː naː fi iyà àmfàːniː dà ita fìye dà bàdùːjalaː . "
+1	"	"	_	_	_	_	_	_	_
+2	Àbin	Àbin	_	_	_	_	_	_	_
+3	màːmaːkìː	_	_	_	_	_	_	_	_
+4	sai	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	ji	_	_	_	_	_	_	_	_
+7	maː	_	_	_	_	_	_	_	_
+8	naː	_	_	_	_	_	_	_	_
+9	fi	_	_	_	_	_	_	_	_
+10	iyà	_	_	_	_	_	_	_	_
+11	àmfàːniː	_	_	_	_	_	_	_	_
+12	dà	_	_	_	_	_	_	_	_
+13	ita	_	_	_	_	_	_	_	_
+14	fìye	_	_	_	_	_	_	_	_
+15	dà	_	_	_	_	_	_	_	_
+16	bàdùːjalaː	_	_	_	_	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+18	"	"	_	_	_	_	_	_	_
+
+# sent_id = 11_Fela_Kuti__10b
+# text = " Tòː dàgà wannàn loːkàciː nèː na farà kòːyon yaddà akèː àmfàːniː ɗà saxaphone . "
+1	"	"	_	_	_	_	_	_	_
+2	Tòː	_	_	_	_	_	_	_	_
+3	dàgà	_	_	_	_	_	_	_	_
+4	wannàn	_	_	_	_	_	_	_	_
+5	loːkàciː	_	_	_	_	_	_	_	_
+6	nèː	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	farà	_	_	_	_	_	_	_	_
+9	kòːyon	_	_	_	_	_	_	_	_
+10	yaddà	_	_	_	_	_	_	_	_
+11	akèː	_	_	_	_	_	_	_	_
+12	àmfàːniː	_	_	_	_	_	_	_	_
+13	ɗà	_	_	_	_	_	_	_	_
+14	saxaphone	_	_	_	_	_	_	_	SpaceAfter=No
+15	.	.	_	_	_	_	_	_	_
+16	"	"	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__11
-# text = Bayan wani dan loːkàciː, sai Fela ya ga cêwaː baːbù àbìn dà zâi fi ɗặcèː waː dà shiː kàmar̃ yà jeː wata ƙasar̃̃ wàje, yà kaːroː ilìmin kidi dà waːka.
-1	Bayan	_	_	_	_	_	_	_	_
+# text = Baːyan wani ɗan loːkàciː, sai Fela ya ga cêːwaː baːbù àbîn dà zâi fi daːcèːwaː dà shiː kàmar̃ yà jeː wata ƙasar̃wàje, yà ƙaːroː ilìmin kiɗìː dà waːƙàː.
+1	Baːyan	_	_	_	_	_	_	_	_
 2	wani	_	_	_	_	_	_	_	_
-3	dan	_	_	_	_	_	_	_	_
+3	ɗan	_	_	_	_	_	_	_	_
 4	loːkàciː	_	_	_	_	_	_	_	SpaceAfter=No
 5	,	_	_	_	_	_	_	_	_
 6	sai	_	_	_	_	_	_	_	_
 7	Fela	_	_	_	_	_	_	_	_
 8	ya	_	_	_	_	_	_	_	_
 9	ga	_	_	_	_	_	_	_	_
-10	cêwaː	_	_	_	_	_	_	_	_
+10	cêːwaː	_	_	_	_	_	_	_	wordform=cêwaː
 11	baːbù	_	_	_	_	_	_	_	_
-12	àbìn	_	_	_	_	_	_	_	_
+12	àbîn	_	_	_	_	_	_	_	_
 13	dà	_	_	_	_	_	_	_	_
 14	zâi	_	_	_	_	_	_	_	_
 15	fi	_	_	_	_	_	_	_	_
-16	ɗặcèː	_	_	_	_	_	_	_	_
-17	waː	_	_	_	_	_	_	_	_
-18	dà	_	_	_	_	_	_	_	_
-19	shiː	_	_	_	_	_	_	_	_
-20	kàmar̃	_	_	_	_	_	_	_	_
-21	yà	_	_	_	_	_	_	_	_
-22	jeː	_	_	_	_	_	_	_	_
-23	wata	_	_	_	_	_	_	_	_
-24	ƙasar̃	_	_	_	_	_	_	_	SpaceAfter=No
-25	̃	_	_	_	_	_	_	_	_
-26	wàje	_	_	_	_	_	_	_	SpaceAfter=No
-27	,	_	_	_	_	_	_	_	_
-28	yà	_	_	_	_	_	_	_	_
-29	kaːroː	_	_	_	_	_	_	_	_
-30	ilìmin	_	_	_	_	_	_	_	_
-31	kidi	_	_	_	_	_	_	_	_
-32	dà	_	_	_	_	_	_	_	_
-33	waːka	_	_	_	_	_	_	_	SpaceAfter=No
-34	.	_	_	_	_	_	_	_	_
+16	daːcèːwaː	ɗaːcèːwaː	_	_	_	_	_	_	_
+17	dà	_	_	_	_	_	_	_	_
+18	shiː	_	_	_	_	_	_	_	_
+19	kàmar̃	_	_	_	_	_	_	_	_
+20	yà	_	_	_	_	_	_	_	_
+21	jeː	_	_	_	_	_	_	_	_
+22	wata	_	_	_	_	_	_	_	_
+23	ƙasar̃	_	_	_	_	_	_	_	SpaceAfter=No
+24	wàje	_	_	_	_	_	_	_	SpaceAfter=No
+25	,	_	_	_	_	_	_	_	_
+26	yà	_	_	_	_	_	_	_	_
+27	ƙaːroː	_	_	_	_	_	_	_	_
+28	ilìmin	_	_	_	_	_	_	_	_
+29	kiɗìː	_	_	_	_	_	_	_	_
+30	dà	_	_	_	_	_	_	_	_
+31	waːƙàː	_	_	_	_	_	_	_	SpaceAfter=No
+32	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__12
-# text = Don hakà neː à shekarar̃ alìf dà ɗàriː tar̃a dà hàmsin dà takwas ya ző nân Landân, indà ya shiga Kwaleːjin Kade-Kade dà Wake-Wake ta 'Trinity'.
+# text = Don hakà neː à shèːkaràr̃ alìf dà ɗàriː tar̃à dà hàmsin dà takwàs ya zoː nân Landân, indà ya shìga Kwaleːjìn Kàɗe-Kàɗe dà Wàːƙe-Wàːƙe ta "Trinity".
 1	Don	_	_	_	_	_	_	_	_
 2	hakà	_	_	_	_	_	_	_	_
 3	neː	_	_	_	_	_	_	_	_
 4	à	_	_	_	_	_	_	_	_
-5	shekarar̃	_	_	_	_	_	_	_	_
+5	shèːkaràr̃	_	_	_	_	_	_	_	_
 6	alìf	_	_	_	_	_	_	_	_
 7	dà	_	_	_	_	_	_	_	_
 8	ɗàriː	_	_	_	_	_	_	_	_
-9	tar̃a	_	_	_	_	_	_	_	_
+9	tar̃à	_	_	_	_	_	_	_	_
 10	dà	_	_	_	_	_	_	_	_
 11	hàmsin	_	_	_	_	_	_	_	_
 12	dà	_	_	_	_	_	_	_	_
-13	takwas	_	_	_	_	_	_	_	_
+13	takwàs	_	_	_	_	_	_	_	_
 14	ya	_	_	_	_	_	_	_	_
-15	ző	_	_	_	_	_	_	_	_
+15	zoː	_	_	_	_	_	_	_	_
 16	nân	_	_	_	_	_	_	_	_
 17	Landân	_	_	_	_	_	_	_	SpaceAfter=No
 18	,	_	_	_	_	_	_	_	_
 19	indà	_	_	_	_	_	_	_	_
 20	ya	_	_	_	_	_	_	_	_
-21	shiga	_	_	_	_	_	_	_	_
-22	Kwaleːjin	_	_	_	_	_	_	_	_
-23	Kade-Kade	_	_	_	_	_	_	_	_
+21	shìga	_	_	_	_	_	_	_	_
+22	Kwaleːjìn	_	_	_	_	_	_	_	_
+23	Kàɗe-Kàɗe	_	_	_	_	_	_	_	_
 24	dà	_	_	_	_	_	_	_	_
-25	Wake-Wake	_	_	_	_	_	_	_	_
+25	Wàːƙe-Wàːƙe	_	_	_	_	_	_	_	_
 26	ta	_	_	_	_	_	_	_	_
-27	'Trinity'	_	_	_	_	_	_	_	SpaceAfter=No
-28	.	_	_	_	_	_	_	_	_
+27	"	"	_	_	_	_	_	_	SpaceAfter=No
+28	Trinity	Trinity	_	_	_	_	_	_	SpaceAfter=No
+29	"	"	_	_	_	_	_	_	SpaceAfter=No
+30	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__13
-# text = Baːyan shekàruː huɗu nèː ya koːmaː Nàːjeːr̃iyàː indà ya yi ta gwajìː, kuma yana àmfàːniː dà salon kàɗe-kàɗe dà wàːƙe-wàːƙe irìː-irìː.
+# text = Baːyan shèːkàruː huɗu nèː ya koːmàː Nàːjeːr̃iyàː indà ya yi ta gwajìː, kuma yanàː àmfàːniː dà salon kàɗe-kàɗe dà wàːƙe-wàːƙe irìː-irìː.
 1	Baːyan	_	_	_	_	_	_	_	_
-2	shekàruː	_	_	_	_	_	_	_	_
+2	shèːkàruː	_	_	_	_	_	_	_	_
 3	huɗu	_	_	_	_	_	_	_	_
 4	nèː	_	_	_	_	_	_	_	_
 5	ya	_	_	_	_	_	_	_	_
-6	koːmaː	_	_	_	_	_	_	_	_
+6	koːmàː	_	_	_	_	_	_	_	_
 7	Nàːjeːr̃iyàː	_	_	_	_	_	_	_	_
 8	indà	_	_	_	_	_	_	_	_
 9	ya	_	_	_	_	_	_	_	_
@@ -361,7 +381,7 @@
 12	gwajìː	_	_	_	_	_	_	_	SpaceAfter=No
 13	,	_	_	_	_	_	_	_	_
 14	kuma	_	_	_	_	_	_	_	_
-15	yana	_	_	_	_	_	_	_	_
+15	yanàː	_	_	_	_	_	_	_	wordform=yana
 16	àmfàːniː	_	_	_	_	_	_	_	_
 17	dà	_	_	_	_	_	_	_	_
 18	salon	_	_	_	_	_	_	_	_
@@ -371,14 +391,14 @@
 22	irìː-irìː	_	_	_	_	_	_	_	SpaceAfter=No
 23	.	_	_	_	_	_	_	_	_
 
-# sent_id = 11_Fela_Kuti__14
-# text = To àmmaː sai baːyan yaː yì wàtànniː goːmà à Amir̃kà neː, à shèːkaràr̃ alìf
-1	To	_	_	_	_	_	_	_	_
+# sent_id = 11_Fela_Kuti__14-5
+# text = Tòː àmmaː sai baːyan yaː yi wàtànniː goːmà à Amir̃kà neː, à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sìttin dà tar̃à, ya sauyà suːnan aːyàr̃in makàɗansà ya koːmàː " Africa 70", sànnan ya faːrà yîn fàyàːfàyai irìː-irìː waɗàndà sukà sâː shi cikin sahun makàɗan zaːmàniː na duːniyàː bàːkiː ɗaya.
+1	Tòː	_	_	_	_	_	_	_	_
 2	àmmaː	_	_	_	_	_	_	_	_
 3	sai	_	_	_	_	_	_	_	_
 4	baːyan	_	_	_	_	_	_	_	_
 5	yaː	_	_	_	_	_	_	_	_
-6	yì	_	_	_	_	_	_	_	_
+6	yi	_	_	_	_	_	_	_	_
 7	wàtànniː	_	_	_	_	_	_	_	_
 8	goːmà	_	_	_	_	_	_	_	_
 9	à	_	_	_	_	_	_	_	_
@@ -388,49 +408,48 @@
 13	à	_	_	_	_	_	_	_	_
 14	shèːkaràr̃	_	_	_	_	_	_	_	_
 15	alìf	_	_	_	_	_	_	_	_
-
-# sent_id = 11_Fela_Kuti__15
-# text = dà dàriː tarà dà sittin dà tara, ya sauyà suːnan ayàr̃in makàdansà ya koːma 'Africa 70', sànnan ya faːrà yîn fayar̃ayai irl-iri wadandal sukà sàː shi cikin sahun makàːdan zaːmàniː na duːniyaː baːkiː daya.
-1	dà	_	_	_	_	_	_	_	_
-2	dàriː	_	_	_	_	_	_	_	_
-3	tarà	_	_	_	_	_	_	_	_
-4	dà	_	_	_	_	_	_	_	_
-5	sittin	_	_	_	_	_	_	_	_
-6	dà	_	_	_	_	_	_	_	_
-7	tara	_	_	_	_	_	_	_	SpaceAfter=No
-8	,	_	_	_	_	_	_	_	_
-9	ya	_	_	_	_	_	_	_	_
-10	sauyà	_	_	_	_	_	_	_	_
-11	suːnan	_	_	_	_	_	_	_	_
-12	ayàr̃in	_	_	_	_	_	_	_	_
-13	makàdansà	_	_	_	_	_	_	_	_
-14	ya	_	_	_	_	_	_	_	_
-15	koːma	_	_	_	_	_	_	_	_
-16	'Africa	_	_	_	_	_	_	_	_
-17	70'	_	_	_	_	_	_	_	SpaceAfter=No
-18	,	_	_	_	_	_	_	_	_
-19	sànnan	_	_	_	_	_	_	_	_
-20	ya	_	_	_	_	_	_	_	_
-21	faːrà	_	_	_	_	_	_	_	_
-22	yîn	_	_	_	_	_	_	_	_
-23	fayar̃ayai	_	_	_	_	_	_	_	_
-24	irl-iri	_	_	_	_	_	_	_	_
-25	wadandal	_	_	_	_	_	_	_	_
-26	sukà	_	_	_	_	_	_	_	_
-27	sàː	_	_	_	_	_	_	_	_
-28	shi	_	_	_	_	_	_	_	_
-29	cikin	_	_	_	_	_	_	_	_
-30	sahun	_	_	_	_	_	_	_	_
-31	makàːdan	_	_	_	_	_	_	_	_
-32	zaːmàniː	_	_	_	_	_	_	_	_
-33	na	_	_	_	_	_	_	_	_
-34	duːniyaː	_	_	_	_	_	_	_	_
-35	baːkiː	_	_	_	_	_	_	_	_
-36	daya	_	_	_	_	_	_	_	SpaceAfter=No
-37	.	_	_	_	_	_	_	_	_
+16	dà	_	_	_	_	_	_	_	_
+17	ɗàriː	_	_	_	_	_	_	_	_
+18	tar̃à	_	_	_	_	_	_	_	_
+19	dà	_	_	_	_	_	_	_	_
+20	sìttin	_	_	_	_	_	_	_	_
+21	dà	_	_	_	_	_	_	_	_
+22	tar̃à	_	_	_	_	_	_	_	SpaceAfter=No
+23	,	_	_	_	_	_	_	_	_
+24	ya	_	_	_	_	_	_	_	_
+25	sauyà	_	_	_	_	_	_	_	_
+26	suːnan	_	_	_	_	_	_	_	_
+27	aːyàr̃in	_	_	_	_	_	_	_	_
+28	makàɗansà	_	_	_	_	_	_	_	_
+29	ya	_	_	_	_	_	_	_	_
+30	koːmàː	_	_	_	_	_	_	_	_
+31	"	"	_	_	_	_	_	_	_
+32	Africa	Africa	_	_	_	_	_	_	_
+33	70	70	_	_	_	_	_	_	SpaceAfter=No
+34	"	"	_	_	_	_	_	_	SpaceAfter=No
+35	,	_	_	_	_	_	_	_	_
+36	sànnan	_	_	_	_	_	_	_	_
+37	ya	_	_	_	_	_	_	_	_
+38	faːrà	_	_	_	_	_	_	_	_
+39	yîn	_	_	_	_	_	_	_	_
+40	fàyàːfàyai	_	_	_	_	_	_	_	_
+41	irìː-irìː	_	_	_	_	_	_	_	_
+42	waɗàndà	_	_	_	_	_	_	_	wordform=wadandal
+43	sukà	_	_	_	_	_	_	_	_
+44	sâː	_	_	_	_	_	_	_	_
+45	shi	_	_	_	_	_	_	_	_
+46	cikin	_	_	_	_	_	_	_	_
+47	sahun	_	_	_	_	_	_	_	_
+48	makàɗan	_	_	_	_	_	_	_	_
+49	zaːmàniː	_	_	_	_	_	_	_	_
+50	na	_	_	_	_	_	_	_	_
+51	duːniyàː	_	_	_	_	_	_	_	_
+52	bàːkiː	_	_	_	_	_	_	_	_
+53	ɗaya	_	_	_	_	_	_	_	SpaceAfter=No
+54	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__16
-# text = À wannàn loːkàciː nèː kuma mâitar̃ Fela à sha'anin siyaːsa ta faːrà fitôːwaː fiːliː.
+# text = À wannàn loːkàciː nèː kuma mâitar̃ Fela à sha'ànin sìyaːsàː ta faːrà fitôːwaː fiːliː.
 1	À	_	_	_	_	_	_	_	_
 2	wannàn	_	_	_	_	_	_	_	_
 3	loːkàciː	_	_	_	_	_	_	_	_
@@ -439,8 +458,8 @@
 6	mâitar̃	_	_	_	_	_	_	_	_
 7	Fela	_	_	_	_	_	_	_	_
 8	à	_	_	_	_	_	_	_	_
-9	sha'anin	_	_	_	_	_	_	_	_
-10	siyaːsa	_	_	_	_	_	_	_	_
+9	sha'ànin	_	_	_	_	_	_	_	_
+10	sìyaːsàː	_	_	_	_	_	_	_	_
 11	ta	_	_	_	_	_	_	_	_
 12	faːrà	_	_	_	_	_	_	_	_
 13	fitôːwaː	_	_	_	_	_	_	_	_
@@ -448,9 +467,9 @@
 15	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__17
-# text = Ya kar̃à wani gidan tàːruwar̃ àl'ummàː à ùnguwar̃ "Surulere' dà kèː baːyan bir̃nin Ìkko, wandal ya lakabaː wà suːnaː 'The Shrine'.
+# text = Ya kafà wani gidan tàːruwar̃ àl'ummàː à ùnguwar̃ " Surulere " dà kèː baːyan bir̃nin Ìkko, wandà ya laƙàbaː wà suːnaː " The Shrine".
 1	Ya	_	_	_	_	_	_	_	_
-2	kar̃à	_	_	_	_	_	_	_	_
+2	kafà	_	_	_	_	_	_	_	_
 3	wani	_	_	_	_	_	_	_	_
 4	gidan	_	_	_	_	_	_	_	_
 5	tàːruwar̃	_	_	_	_	_	_	_	_
@@ -458,64 +477,65 @@
 7	à	_	_	_	_	_	_	_	_
 8	ùnguwar̃	_	_	_	_	_	_	_	_
 9	"	_	_	_	_	_	_	_	_
-10	Surulere'	_	_	_	_	_	_	_	_
-11	dà	_	_	_	_	_	_	_	_
-12	kèː	_	_	_	_	_	_	_	_
-13	baːyan	_	_	_	_	_	_	_	_
-14	bir̃nin	_	_	_	_	_	_	_	_
-15	Ìkko	_	_	_	_	_	_	_	SpaceAfter=No
-16	,	_	_	_	_	_	_	_	_
-17	wandal	_	_	_	_	_	_	_	_
-18	ya	_	_	_	_	_	_	_	_
-19	lakabaː	_	_	_	_	_	_	_	_
-20	wà	_	_	_	_	_	_	_	_
-21	suːnaː	_	_	_	_	_	_	_	_
-22	'The	_	_	_	_	_	_	_	_
-23	Shrine'	_	_	_	_	_	_	_	SpaceAfter=No
-24	.	_	_	_	_	_	_	_	_
+10	Surulere	Surulere	_	_	_	_	_	_	_
+11	"	"	_	_	_	_	_	_	_
+12	dà	_	_	_	_	_	_	_	_
+13	kèː	_	_	_	_	_	_	_	_
+14	baːyan	_	_	_	_	_	_	_	_
+15	bir̃nin	_	_	_	_	_	_	_	_
+16	Ìkko	_	_	_	_	_	_	_	SpaceAfter=No
+17	,	_	_	_	_	_	_	_	_
+18	wandà	_	_	_	_	_	_	_	_
+19	ya	_	_	_	_	_	_	_	_
+20	laƙàbaː	_	_	_	_	_	_	_	_
+21	wà	_	_	_	_	_	_	_	_
+22	suːnaː	_	_	_	_	_	_	_	_
+23	"	"	_	_	_	_	_	_	_
+24	The	The	_	_	_	_	_	_	_
+25	Shrine	Shrine	_	_	_	_	_	_	SpaceAfter=No
+26	"	"	_	_	_	_	_	_	SpaceAfter=No
+27	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__18
-# text = Hakanan yaː yi amfàniː dà wàːƙe-wàːƙensà wajen toːnà àsir̃in irin matsaloːlîn dà ƙasar̃̃sà Nàjeːr̃iyà kè fùskantaː, har̃ ya bakantaː rân mahuːkuːntan kasaːr̃ jim kadan baːyan Yaːkin Baːsaːsa.
-1	Hakanan	_	_	_	_	_	_	_	_
+# text = Hakànan yaː yi àmfàniː dà wàːƙe-wàːƙensà wajen toːnà àsir̃in irìn matsaloːlîn dà ƙasar̃sà Nàjeːr̃iyàː kèː fùskantàː, har̃ ya baƙàntà rân mahùkùntan ƙasâr̃ jìm kadan baːyan Yaːƙìn Baːsaːsàː.
+1	Hakànan	_	_	_	_	_	_	_	_
 2	yaː	_	_	_	_	_	_	_	_
 3	yi	_	_	_	_	_	_	_	_
-4	amfàniː	_	_	_	_	_	_	_	_
+4	àmfàniː	_	_	_	_	_	_	_	_
 5	dà	_	_	_	_	_	_	_	_
 6	wàːƙe-wàːƙensà	_	_	_	_	_	_	_	_
 7	wajen	_	_	_	_	_	_	_	_
 8	toːnà	_	_	_	_	_	_	_	_
 9	àsir̃in	_	_	_	_	_	_	_	_
-10	irin	_	_	_	_	_	_	_	_
+10	irìn	_	_	_	_	_	_	_	_
 11	matsaloːlîn	_	_	_	_	_	_	_	_
 12	dà	_	_	_	_	_	_	_	_
-13	ƙasar̃	_	_	_	_	_	_	_	SpaceAfter=No
-14	̃	_	_	_	_	_	_	_	_
-15	sà	_	_	_	_	_	_	_	_
-16	Nàjeːr̃iyà	_	_	_	_	_	_	_	_
-17	kè	_	_	_	_	_	_	_	_
-18	fùskantaː	_	_	_	_	_	_	_	SpaceAfter=No
-19	,	_	_	_	_	_	_	_	_
-20	har̃	_	_	_	_	_	_	_	_
-21	ya	_	_	_	_	_	_	_	_
-22	bakantaː	_	_	_	_	_	_	_	_
-23	rân	_	_	_	_	_	_	_	_
-24	mahuːkuːntan	_	_	_	_	_	_	_	_
-25	kasaːr̃	_	_	_	_	_	_	_	_
-26	jim	_	_	_	_	_	_	_	_
-27	kadan	_	_	_	_	_	_	_	_
-28	baːyan	_	_	_	_	_	_	_	_
-29	Yaːkin	_	_	_	_	_	_	_	_
-30	Baːsaːsa	_	_	_	_	_	_	_	SpaceAfter=No
-31	.	_	_	_	_	_	_	_	_
+13	ƙasar̃sà	ƙasar̃sà	_	_	_	_	_	_	_
+14	Nàjeːr̃iyàː	_	_	_	_	_	_	_	_
+15	kèː	_	_	_	_	_	_	_	_
+16	fùskantàː	_	_	_	_	_	_	_	SpaceAfter=No
+17	,	_	_	_	_	_	_	_	_
+18	har̃	_	_	_	_	_	_	_	_
+19	ya	_	_	_	_	_	_	_	_
+20	baƙàntà	_	_	_	_	_	_	_	_
+21	rân	_	_	_	_	_	_	_	_
+22	mahùkùntan	_	_	_	_	_	_	_	_
+23	ƙasâr̃	_	_	_	_	_	_	_	_
+24	jìm	_	_	_	_	_	_	_	_
+25	kadan	_	_	_	_	_	_	_	_
+26	baːyan	_	_	_	_	_	_	_	_
+27	Yaːƙìn	_	_	_	_	_	_	_	_
+28	Baːsaːsàː	_	_	_	_	_	_	_	SpaceAfter=No
+29	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__19
-# text = À shekarar̃ alìf da ɗàriː tarà dà sàbà'in dà bakwài neː àbîn ya kai magaryar̃ tikềwaː, loːkàcîn daː soːjoːjin gwamnatin Janar 'Obasanjo' sukà yi farmaki kaːn gidan Fela dà kè Ikko.
+# text = À shèːkaràr̃ alìf dà ɗàriː tar̃à dà sàbà'in dà bakwài neː àbîn ya kai magaryar̃ tiƙềwaː, loːkàcîn daː soːjoːjin gwamnatìn Janàr̃ " Obasanjo " sukà yi fàr̃makìː kân gidan Fela dà kèː Ìkko.
 1	À	_	_	_	_	_	_	_	_
-2	shekarar̃	_	_	_	_	_	_	_	_
+2	shèːkaràr̃	_	_	_	_	_	_	_	_
 3	alìf	_	_	_	_	_	_	_	_
-4	da	_	_	_	_	_	_	_	_
+4	dà	_	_	_	_	_	_	_	_
 5	ɗàriː	_	_	_	_	_	_	_	_
-6	tarà	_	_	_	_	_	_	_	_
+6	tar̃à	_	_	_	_	_	_	_	_
 7	dà	_	_	_	_	_	_	_	_
 8	sàbà'in	_	_	_	_	_	_	_	_
 9	dà	_	_	_	_	_	_	_	_
@@ -525,53 +545,55 @@
 13	ya	_	_	_	_	_	_	_	_
 14	kai	_	_	_	_	_	_	_	_
 15	magaryar̃	_	_	_	_	_	_	_	_
-16	tikềwaː	_	_	_	_	_	_	_	SpaceAfter=No
+16	tiƙềwaː	_	_	_	_	_	_	_	SpaceAfter=No
 17	,	_	_	_	_	_	_	_	_
 18	loːkàcîn	_	_	_	_	_	_	_	_
 19	daː	_	_	_	_	_	_	_	_
 20	soːjoːjin	_	_	_	_	_	_	_	_
-21	gwamnatin	_	_	_	_	_	_	_	_
-22	Janar	_	_	_	_	_	_	_	_
-23	'Obasanjo'	_	_	_	_	_	_	_	_
-24	sukà	_	_	_	_	_	_	_	_
-25	yi	_	_	_	_	_	_	_	_
-26	farmaki	_	_	_	_	_	_	_	_
-27	kaːn	_	_	_	_	_	_	_	_
-28	gidan	_	_	_	_	_	_	_	_
-29	Fela	_	_	_	_	_	_	_	_
-30	dà	_	_	_	_	_	_	_	_
-31	kè	_	_	_	_	_	_	_	_
-32	Ikko	_	_	_	_	_	_	_	SpaceAfter=No
-33	.	_	_	_	_	_	_	_	_
+21	gwamnatìn	_	_	_	_	_	_	_	wordform=gwamnatin
+22	Janàr̃	_	_	_	_	_	_	_	_
+23	"	"	_	_	_	_	_	_	_
+24	Obasanjo	Obasanjo	_	_	_	_	_	_	_
+25	"	"	_	_	_	_	_	_	_
+26	sukà	_	_	_	_	_	_	_	_
+27	yi	_	_	_	_	_	_	_	_
+28	fàr̃makìː	_	_	_	_	_	_	_	_
+29	kân	_	_	_	_	_	_	_	wordform=kaːn
+30	gidan	_	_	_	_	_	_	_	_
+31	Fela	_	_	_	_	_	_	_	_
+32	dà	_	_	_	_	_	_	_	_
+33	kèː	_	_	_	_	_	_	_	_
+34	Ìkko	_	_	_	_	_	_	_	SpaceAfter=No|wordform=Ikko
+35	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__20
-# text = Aka dauki mahaiflyar̃sà mài shekaruː fiye dà sàbà'in à duːniya à loːkàcin, akà jefà ta ta taːgaː, kuma ta raːsu baːyan dan loːkaːciː kankane sabòːdà raunukàn dà ta ji.
-1	Aka	_	_	_	_	_	_	_	_
-2	dauki	_	_	_	_	_	_	_	_
-3	mahaiflyar̃sà	_	_	_	_	_	_	_	_
+# text = Akà ɗàuki mahaifìyar̃sà mài shèːkàruː fìye dà sàbà'in à duːniyàː à loːkàcîn, akà jefàː ta ta taːgàː, kuma ta ràsu baːyan ɗan loːkàciː ƙànƙanèː sabòːdà raunukàn dà ta ji.
+1	Akà	_	_	_	_	_	_	_	_
+2	ɗàuki	_	_	_	_	_	_	_	_
+3	mahaifìyar̃sà	_	_	_	_	_	_	_	_
 4	mài	_	_	_	_	_	_	_	_
-5	shekaruː	_	_	_	_	_	_	_	_
-6	fiye	_	_	_	_	_	_	_	_
+5	shèːkàruː	_	_	_	_	_	_	_	_
+6	fìye	_	_	_	_	_	_	_	_
 7	dà	_	_	_	_	_	_	_	_
 8	sàbà'in	_	_	_	_	_	_	_	_
 9	à	_	_	_	_	_	_	_	_
-10	duːniya	_	_	_	_	_	_	_	_
+10	duːniyàː	_	_	_	_	_	_	_	_
 11	à	_	_	_	_	_	_	_	_
-12	loːkàcin	_	_	_	_	_	_	_	SpaceAfter=No
+12	loːkàcîn	_	_	_	_	_	_	_	SpaceAfter=No
 13	,	_	_	_	_	_	_	_	_
 14	akà	_	_	_	_	_	_	_	_
-15	jefà	_	_	_	_	_	_	_	_
+15	jefàː	_	_	_	_	_	_	_	_
 16	ta	_	_	_	_	_	_	_	_
 17	ta	_	_	_	_	_	_	_	_
-18	taːgaː	_	_	_	_	_	_	_	SpaceAfter=No
+18	taːgàː	_	_	_	_	_	_	_	SpaceAfter=No
 19	,	_	_	_	_	_	_	_	_
 20	kuma	_	_	_	_	_	_	_	_
 21	ta	_	_	_	_	_	_	_	_
-22	raːsu	_	_	_	_	_	_	_	_
+22	ràsu	_	_	_	_	_	_	_	_
 23	baːyan	_	_	_	_	_	_	_	_
-24	dan	_	_	_	_	_	_	_	_
-25	loːkaːciː	_	_	_	_	_	_	_	_
-26	kankane	_	_	_	_	_	_	_	_
+24	ɗan	_	_	_	_	_	_	_	_
+25	loːkàciː	_	_	_	_	_	_	_	_
+26	ƙànƙanèː	_	_	_	_	_	_	_	_
 27	sabòːdà	_	_	_	_	_	_	_	_
 28	raunukàn	_	_	_	_	_	_	_	_
 29	dà	_	_	_	_	_	_	_	_
@@ -580,8 +602,8 @@
 32	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__21
-# text = Tôː àmmaː koː kàɗan wannàn bài karyà zuːcìyar̃ Fela ba.
-1	Tôː	_	_	_	_	_	_	_	_
+# text = Tòː àmmaː koː kàɗan wannàn bài karyà zuːcìyar̃ Fela ba.
+1	Tòː	_	_	_	_	_	_	_	_
 2	àmmaː	_	_	_	_	_	_	_	_
 3	koː	_	_	_	_	_	_	_	_
 4	kàɗan	_	_	_	_	_	_	_	_
@@ -594,14 +616,14 @@
 11	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__22
-# text = Yaː ci gàba da suːkàr̃ làmiːr̃ìn gwamnatin à cikin kàɗe-kàɗe dà wàːƙe-wàːƙên dà yakèː yîː.
+# text = Yaː ci gàba dà suːkàr̃ làmiːr̃ìn gwamnatìn à cikin kàɗe-kàɗe dà wàːƙe-wàːƙên dà yakèː yîː.
 1	Yaː	_	_	_	_	_	_	_	_
 2	ci	_	_	_	_	_	_	_	_
 3	gàba	_	_	_	_	_	_	_	_
-4	da	_	_	_	_	_	_	_	_
+4	dà	_	_	_	_	_	_	_	_
 5	suːkàr̃	_	_	_	_	_	_	_	_
 6	làmiːr̃ìn	_	_	_	_	_	_	_	_
-7	gwamnatin	_	_	_	_	_	_	_	_
+7	gwamnatìn	_	_	_	_	_	_	_	wordform=gwamnatin
 8	à	_	_	_	_	_	_	_	_
 9	cikin	_	_	_	_	_	_	_	_
 10	kàɗe-kàɗe	_	_	_	_	_	_	_	_
@@ -613,102 +635,102 @@
 16	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__23
-# text = Dà gwamnatin farar̃-hùːlaː ta karbi mulkìːà shěkarar̃ alìf ɗà ɗàriː tar̃à ɗà sàbà'in dà tara, sai Fela ya kar̃a jaːm'iyyaːrsàː ta kaːnsaː, wadda ya kiraː "The Movement of the People', wato Jam'iyyar̃ Jama'a.
+# text = Dà gwamnatìn farar̃-hùːlaː ta kàrɓi mulkìː à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sàbà'in dà tar̃à, sai Fela ya kafà jaːm'iyyàr̃sà ta kânsà, waddà ya kiraː " The Movement of the People", wàːtòː Jàm'iyyàr̃ Jàma'àː.
 1	Dà	_	_	_	_	_	_	_	_
-2	gwamnatin	_	_	_	_	_	_	_	_
+2	gwamnatìn	_	_	_	_	_	_	_	wordform=gwamnatin
 3	farar̃-hùːlaː	_	_	_	_	_	_	_	_
 4	ta	_	_	_	_	_	_	_	_
-5	karbi	_	_	_	_	_	_	_	_
-6	mulkìːà	_	_	_	_	_	_	_	_
-7	shěkarar̃	_	_	_	_	_	_	_	_
-8	alìf	_	_	_	_	_	_	_	_
-9	ɗà	_	_	_	_	_	_	_	_
-10	ɗàriː	_	_	_	_	_	_	_	_
-11	tar̃à	_	_	_	_	_	_	_	_
-12	ɗà	_	_	_	_	_	_	_	_
-13	sàbà'in	_	_	_	_	_	_	_	_
-14	dà	_	_	_	_	_	_	_	_
-15	tara	_	_	_	_	_	_	_	SpaceAfter=No
-16	,	_	_	_	_	_	_	_	_
-17	sai	_	_	_	_	_	_	_	_
-18	Fela	_	_	_	_	_	_	_	_
-19	ya	_	_	_	_	_	_	_	_
-20	kar̃a	_	_	_	_	_	_	_	_
-21	jaːm'iyyaːrsàː	_	_	_	_	_	_	_	_
-22	ta	_	_	_	_	_	_	_	_
-23	kaːnsaː	_	_	_	_	_	_	_	SpaceAfter=No
-24	,	_	_	_	_	_	_	_	_
-25	wadda	_	_	_	_	_	_	_	_
-26	ya	_	_	_	_	_	_	_	_
-27	kiraː	_	_	_	_	_	_	_	_
-28	"	_	_	_	_	_	_	_	_
-29	The	_	_	_	_	_	_	_	_
-30	Movement	_	_	_	_	_	_	_	_
-31	of	_	_	_	_	_	_	_	_
-32	the	_	_	_	_	_	_	_	_
-33	People'	_	_	_	_	_	_	_	SpaceAfter=No
-34	,	_	_	_	_	_	_	_	_
-35	wato	_	_	_	_	_	_	_	_
-36	Jam'iyyar̃	_	_	_	_	_	_	_	_
-37	Jama'a	_	_	_	_	_	_	_	SpaceAfter=No
-38	.	_	_	_	_	_	_	_	_
+5	kàrɓi	_	_	_	_	_	_	_	_
+6	mulkìː	mulkìː	_	_	_	_	_	_	_
+7	à	à	_	_	_	_	_	_	_
+8	shèːkaràr̃	_	_	_	_	_	_	_	_
+9	alìf	_	_	_	_	_	_	_	_
+10	dà	_	_	_	_	_	_	_	_
+11	ɗàriː	_	_	_	_	_	_	_	_
+12	tar̃à	_	_	_	_	_	_	_	_
+13	dà	_	_	_	_	_	_	_	_
+14	sàbà'in	_	_	_	_	_	_	_	_
+15	dà	_	_	_	_	_	_	_	_
+16	tar̃à	_	_	_	_	_	_	_	SpaceAfter=No
+17	,	_	_	_	_	_	_	_	_
+18	sai	_	_	_	_	_	_	_	_
+19	Fela	_	_	_	_	_	_	_	_
+20	ya	_	_	_	_	_	_	_	_
+21	kafà	_	_	_	_	_	_	_	_
+22	jaːm'iyyàr̃sà	_	_	_	_	_	_	_	_
+23	ta	_	_	_	_	_	_	_	_
+24	kânsà	_	_	_	_	_	_	_	SpaceAfter=No
+25	,	_	_	_	_	_	_	_	_
+26	waddà	_	_	_	_	_	_	_	_
+27	ya	_	_	_	_	_	_	_	_
+28	kiraː	_	_	_	_	_	_	_	_
+29	"	_	_	_	_	_	_	_	_
+30	The	_	_	_	_	_	_	_	_
+31	Movement	_	_	_	_	_	_	_	_
+32	of	_	_	_	_	_	_	_	_
+33	the	_	_	_	_	_	_	_	_
+34	People	People	_	_	_	_	_	_	SpaceAfter=No
+35	"	"	_	_	_	_	_	_	SpaceAfter=No
+36	,	_	_	_	_	_	_	_	_
+37	wàːtòː	_	_	_	_	_	_	_	_
+38	Jàm'iyyàr̃	_	_	_	_	_	_	_	_
+39	Jàma'àː	_	_	_	_	_	_	_	SpaceAfter=No
+40	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__24
-# text = Ya reːrà wata waːkaː game dà manufoːfin jam'iyyar̃ taːsà, waddal à cikintà yu cèː kâmaːtaː ya yi dukkan jama aːr Nijeriyà tà yi huːtuː na wati guːdaː, don koːwaː yà sẵmi suːkuːnin tuːnaːnin hanyar̃ dà zaː à bullo wà matsaloːlin dà ƙasar̃ keː fuːskanta.
+# text = Ya reːrà wata waːƙàː gàme dà manufoːfin jàm'iyyàr̃ taːsà, waddà à cikintà ya cèː kàmaːtàː ya yi dukkàn jàma'àr̃ Nàːjeːr̃iyàː tà yi huːtuː na watàː gùdaː, don koːwaː yà sàːmi sùkuːnìn tùnàːnin hanyàr̃ dà zaː'à ɓulloː wà matsaloːlîn dà ƙasar̃ kèː fùskantàː.
 1	Ya	_	_	_	_	_	_	_	_
 2	reːrà	_	_	_	_	_	_	_	_
 3	wata	_	_	_	_	_	_	_	_
-4	waːkaː	_	_	_	_	_	_	_	_
-5	game	_	_	_	_	_	_	_	_
+4	waːƙàː	_	_	_	_	_	_	_	_
+5	gàme	_	_	_	_	_	_	_	_
 6	dà	_	_	_	_	_	_	_	_
 7	manufoːfin	_	_	_	_	_	_	_	_
-8	jam'iyyar̃	_	_	_	_	_	_	_	_
+8	jàm'iyyàr̃	_	_	_	_	_	_	_	_
 9	taːsà	_	_	_	_	_	_	_	SpaceAfter=No
 10	,	_	_	_	_	_	_	_	_
-11	waddal	_	_	_	_	_	_	_	_
+11	waddà	_	_	_	_	_	_	_	_
 12	à	_	_	_	_	_	_	_	_
 13	cikintà	_	_	_	_	_	_	_	_
-14	yu	_	_	_	_	_	_	_	_
+14	ya	_	_	_	_	_	_	_	_
 15	cèː	_	_	_	_	_	_	_	_
-16	kâmaːtaː	_	_	_	_	_	_	_	_
+16	kàmaːtàː	_	_	_	_	_	_	_	_
 17	ya	_	_	_	_	_	_	_	_
 18	yi	_	_	_	_	_	_	_	_
-19	dukkan	_	_	_	_	_	_	_	_
-20	jama	_	_	_	_	_	_	_	_
-21	aːr	_	_	_	_	_	_	_	_
-22	Nijeriyà	_	_	_	_	_	_	_	_
-23	tà	_	_	_	_	_	_	_	_
-24	yi	_	_	_	_	_	_	_	_
-25	huːtuː	_	_	_	_	_	_	_	_
-26	na	_	_	_	_	_	_	_	_
-27	wati	_	_	_	_	_	_	_	_
-28	guːdaː	_	_	_	_	_	_	_	SpaceAfter=No
-29	,	_	_	_	_	_	_	_	_
-30	don	_	_	_	_	_	_	_	_
-31	koːwaː	_	_	_	_	_	_	_	_
-32	yà	_	_	_	_	_	_	_	_
-33	sẵmi	_	_	_	_	_	_	_	_
-34	suːkuːnin	_	_	_	_	_	_	_	_
-35	tuːnaːnin	_	_	_	_	_	_	_	_
-36	hanyar̃	_	_	_	_	_	_	_	_
-37	dà	_	_	_	_	_	_	_	_
-38	zaː	_	_	_	_	_	_	_	_
-39	à	_	_	_	_	_	_	_	_
-40	bullo	_	_	_	_	_	_	_	_
-41	wà	_	_	_	_	_	_	_	_
-42	matsaloːlin	_	_	_	_	_	_	_	_
-43	dà	_	_	_	_	_	_	_	_
-44	ƙasar̃	_	_	_	_	_	_	_	_
-45	keː	_	_	_	_	_	_	_	_
-46	fuːskanta	_	_	_	_	_	_	_	SpaceAfter=No
-47	.	_	_	_	_	_	_	_	_
+19	dukkàn	_	_	_	_	_	_	_	_
+20	jàma'àr̃	jamaaːr	_	_	_	_	_	_	_
+21	Nàːjeːr̃iyàː	_	_	_	_	_	_	_	_
+22	tà	_	_	_	_	_	_	_	_
+23	yi	_	_	_	_	_	_	_	_
+24	huːtuː	_	_	_	_	_	_	_	_
+25	na	_	_	_	_	_	_	_	_
+26	watàː	_	_	_	_	_	_	_	_
+27	gùdaː	_	_	_	_	_	_	_	SpaceAfter=No
+28	,	_	_	_	_	_	_	_	_
+29	don	_	_	_	_	_	_	_	_
+30	koːwaː	_	_	_	_	_	_	_	_
+31	yà	_	_	_	_	_	_	_	_
+32	sàːmi	_	_	_	_	_	_	_	_
+33	sùkuːnìn	_	_	_	_	_	_	_	_
+34	tùnàːnin	_	_	_	_	_	_	_	_
+35	hanyàr̃	_	_	_	_	_	_	_	_
+36	dà	_	_	_	_	_	_	_	_
+37	zaː'à	zaːà	_	_	_	_	_	_	_
+38	ɓulloː	_	_	_	_	_	_	_	_
+39	wà	_	_	_	_	_	_	_	_
+40	matsaloːlîn	_	_	_	_	_	_	_	_
+41	dà	_	_	_	_	_	_	_	_
+42	ƙasar̃	_	_	_	_	_	_	_	_
+43	kèː	_	_	_	_	_	_	_	_
+44	fùskantàː	_	_	_	_	_	_	_	SpaceAfter=No
+45	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__25
-# text = Sai kwatsàm à shekaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà huɗu akà kaːmà Fela, akà gurfaːnar̃ dà shiː gàban shàr̃í'àː, indà akà yankèː masà hukuncìn daurìn shèːkàruː bìyar̃ à kûrkukû kân laːifin fitaː dà kudaden kasashen wàje dàgà cikin ƙasar̃ - wato aikin sùmoːga.
+# text = Sai kwatsàm à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà huɗu akà kaːmà Fela, akà gurfaːnar̃ dà shiː gàban shàr̃i'àː, indà akà yankèː masà hukuncìn ɗaurìn shèːkàruː bìyar̃ à kûr̃kukùː kân lâifin fìtaː dà kuɗàːɗen ƙasàːshen wàje dàgà cikin ƙasâr̃ - wàːtòː aikìn sùmoːgàː.
 1	Sai	_	_	_	_	_	_	_	_
 2	kwatsàm	_	_	_	_	_	_	_	_
 3	à	_	_	_	_	_	_	_	_
-4	shekaràr̃	_	_	_	_	_	_	_	_
+4	shèːkaràr̃	_	_	_	_	_	_	_	_
 5	alìf	_	_	_	_	_	_	_	_
 6	dà	_	_	_	_	_	_	_	_
 7	ɗàriː	_	_	_	_	_	_	_	_
@@ -726,39 +748,39 @@
 19	dà	_	_	_	_	_	_	_	_
 20	shiː	_	_	_	_	_	_	_	_
 21	gàban	_	_	_	_	_	_	_	_
-22	shàr̃í'àː	_	_	_	_	_	_	_	SpaceAfter=No
+22	shàr̃i'àː	_	_	_	_	_	_	_	SpaceAfter=No
 23	,	_	_	_	_	_	_	_	_
 24	indà	_	_	_	_	_	_	_	_
 25	akà	_	_	_	_	_	_	_	_
 26	yankèː	_	_	_	_	_	_	_	_
 27	masà	_	_	_	_	_	_	_	_
 28	hukuncìn	_	_	_	_	_	_	_	_
-29	daurìn	_	_	_	_	_	_	_	_
+29	ɗaurìn	_	_	_	_	_	_	_	_
 30	shèːkàruː	_	_	_	_	_	_	_	_
 31	bìyar̃	_	_	_	_	_	_	_	_
 32	à	_	_	_	_	_	_	_	_
-33	kûrkukû	_	_	_	_	_	_	_	_
+33	kûr̃kukùː	_	_	_	_	_	_	_	_
 34	kân	_	_	_	_	_	_	_	_
-35	laːifin	_	_	_	_	_	_	_	_
-36	fitaː	_	_	_	_	_	_	_	_
+35	lâifin	_	_	_	_	_	_	_	_
+36	fìtaː	_	_	_	_	_	_	_	_
 37	dà	_	_	_	_	_	_	_	_
-38	kudaden	_	_	_	_	_	_	_	_
-39	kasashen	_	_	_	_	_	_	_	_
+38	kuɗàːɗen	_	_	_	_	_	_	_	_
+39	ƙasàːshen	_	_	_	_	_	_	_	_
 40	wàje	_	_	_	_	_	_	_	_
 41	dàgà	_	_	_	_	_	_	_	_
 42	cikin	_	_	_	_	_	_	_	_
-43	ƙasar̃	_	_	_	_	_	_	_	_
+43	ƙasâr̃	_	_	_	_	_	_	_	_
 44	-	_	_	_	_	_	_	_	_
-45	wato	_	_	_	_	_	_	_	_
-46	aikin	_	_	_	_	_	_	_	_
-47	sùmoːga	_	_	_	_	_	_	_	SpaceAfter=No
+45	wàːtòː	_	_	_	_	_	_	_	_
+46	aikìn	_	_	_	_	_	_	_	_
+47	sùmoːgàː	_	_	_	_	_	_	_	SpaceAfter=No
 48	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__26
-# text = Àmmaː baːyan shekara biyu kawài sai akà sàki goːgân naːkù, wato baːyan an sami sauyìn gwamnati à Najeːr̃iya.
+# text = Àmmaː baːyan shèːkaràː biyu kawài sai akà sàki goːgân naːkù, wato baːyan an sàːmi sauyìn gwamnatì à Nàːjeːr̃iyàː.
 1	Àmmaː	_	_	_	_	_	_	_	_
 2	baːyan	_	_	_	_	_	_	_	_
-3	shekara	_	_	_	_	_	_	_	_
+3	shèːkaràː	_	_	_	_	_	_	_	_
 4	biyu	_	_	_	_	_	_	_	_
 5	kawài	_	_	_	_	_	_	_	_
 6	sai	_	_	_	_	_	_	_	_
@@ -770,15 +792,15 @@
 12	wato	_	_	_	_	_	_	_	_
 13	baːyan	_	_	_	_	_	_	_	_
 14	an	_	_	_	_	_	_	_	_
-15	sami	_	_	_	_	_	_	_	_
+15	sàːmi	_	_	_	_	_	_	_	_
 16	sauyìn	_	_	_	_	_	_	_	_
-17	gwamnati	_	_	_	_	_	_	_	_
+17	gwamnatì	_	_	_	_	_	_	_	_
 18	à	_	_	_	_	_	_	_	_
-19	Najeːr̃iya	_	_	_	_	_	_	_	SpaceAfter=No
+19	Nàːjeːr̃iyàː	_	_	_	_	_	_	_	SpaceAfter=No
 20	.	_	_	_	_	_	_	_	_
 
 # sent_id = 11_Fela_Kuti__27
-# text = Wani àbù kuma dà ya sâː sauran duːniya ta shìga nuːnà shàʼawà gàme dà Fela, shiː nèː gàme dà maːtansà na aureː suː àshirin dà bakwai, wadanda ya auri dukkànsù à shekaràr̃ alìf dà ɗàriː tara dà sàbà'in dà takwas.
+# text = Wani àbù kuma dà ya sâː sauran duːniyàː ta shìga nuːnà shàʼawàː gàme dà Fela, shiː nèː gàme dà maːtansà na aureː suː àshìr̃in dà bakwài, waɗàndà ya àuri dukkànsù à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sàbà'in dà takwàs.
 1	Wani	_	_	_	_	_	_	_	_
 2	àbù	_	_	_	_	_	_	_	_
 3	kuma	_	_	_	_	_	_	_	_
@@ -786,11 +808,11 @@
 5	ya	_	_	_	_	_	_	_	_
 6	sâː	_	_	_	_	_	_	_	_
 7	sauran	_	_	_	_	_	_	_	_
-8	duːniya	_	_	_	_	_	_	_	_
+8	duːniyàː	_	_	_	_	_	_	_	_
 9	ta	_	_	_	_	_	_	_	_
 10	shìga	_	_	_	_	_	_	_	_
 11	nuːnà	_	_	_	_	_	_	_	_
-12	shàʼawà	_	_	_	_	_	_	_	_
+12	shàʼawàː	_	_	_	_	_	_	_	_
 13	gàme	_	_	_	_	_	_	_	_
 14	dà	_	_	_	_	_	_	_	_
 15	Fela	_	_	_	_	_	_	_	SpaceAfter=No
@@ -803,23 +825,23 @@
 22	na	_	_	_	_	_	_	_	_
 23	aureː	_	_	_	_	_	_	_	_
 24	suː	_	_	_	_	_	_	_	_
-25	àshirin	_	_	_	_	_	_	_	_
+25	àshìr̃in	_	_	_	_	_	_	_	_
 26	dà	_	_	_	_	_	_	_	_
-27	bakwai	_	_	_	_	_	_	_	SpaceAfter=No
+27	bakwài	_	_	_	_	_	_	_	SpaceAfter=No
 28	,	_	_	_	_	_	_	_	_
-29	wadanda	_	_	_	_	_	_	_	_
+29	waɗàndà	_	_	_	_	_	_	_	_
 30	ya	_	_	_	_	_	_	_	_
-31	auri	_	_	_	_	_	_	_	_
+31	àuri	_	_	_	_	_	_	_	_
 32	dukkànsù	_	_	_	_	_	_	_	_
 33	à	_	_	_	_	_	_	_	_
-34	shekaràr̃	_	_	_	_	_	_	_	_
+34	shèːkaràr̃	_	_	_	_	_	_	_	_
 35	alìf	_	_	_	_	_	_	_	_
 36	dà	_	_	_	_	_	_	_	_
 37	ɗàriː	_	_	_	_	_	_	_	_
-38	tara	_	_	_	_	_	_	_	_
+38	tar̃à	_	_	_	_	_	_	_	_
 39	dà	_	_	_	_	_	_	_	_
 40	sàbà'in	_	_	_	_	_	_	_	_
 41	dà	_	_	_	_	_	_	_	_
-42	takwas	_	_	_	_	_	_	_	SpaceAfter=No
+42	takwàs	_	_	_	_	_	_	_	SpaceAfter=No
 43	.	_	_	_	_	_	_	_	_
 
