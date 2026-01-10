@@ -1,8 +1,8 @@
 # sent_id = 13_Rikicin_tekun_Pasha__1
-# text = An yi zanga-zanga a areːwacin Nàːjéfiya game dà rikicin tekun Pishà
+# text = An yi zàngà-zangà a areːwacin Nàːjéfiya game dà rikicin tekun Pishà
 1	An	_	_	_	_	_	_	_	_
 2	yi	_	_	_	_	_	_	_	_
-3	zanga-zanga	_	_	_	_	_	_	_	_
+3	zàngà-zangà	_	_	_	_	_	_	_	_
 4	a	_	_	_	_	_	_	_	_
 5	areːwacin	_	_	_	_	_	_	_	_
 6	Nàːjéfiya	_	_	_	_	_	_	_	_
@@ -14,7 +14,7 @@
 
 # sent_id = 13_Rikicin_tekun_Pasha__2
 # text = A Nàːjeːr̃iy Sarkin Musalmi, Alhaji İbrahim Dasoːki, ya yi kiràː gàː jaːma aːrsa da so yi hifis da wasa takaːrdő da yanza akeː rarrábawa à kasɗr̃ daː nufio zugà àl'ummaːr misulmi si dhuki wası mitikai game da rikicin nan na Tekun Pasha.
-1	A	_	_	_	_	_	_	_	_
+1	À	_	_	_	_	_	_	_	wordform=A
 2	Nàːjeːr̃iy	_	_	_	_	_	_	_	_
 3	Sarkin	_	_	_	_	_	_	_	_
 4	Musalmi	_	_	_	_	_	_	_	SpaceAfter=No
@@ -61,7 +61,7 @@
 45	.	_	_	_	_	_	_	_	_
 
 # sent_id = 13_Rikicin_tekun_Pasha__3
-# text = Mài Martaba ya yi wannan kirin neː blyan zinga zangaː goda biya da aka yi à arewacin ƙasâr̃, indà akà cêː mutàːneː dà daːmaː sunaː goːyon bayan shùːgàban ƙasâr̃ İki, wat "Saddam Hussein".
+# text = Mài Martaba ya yi wannan kirin neː baːyan zàngà-zangà gùdaː biya da akà yi à arewacin ƙasâr̃, indà akà cêː mutàːneː dà daːmaː sunàː goːyon bayan shùːgàban ƙasâr̃ İki, wat " Saddam Hussein".
 1	Mài	_	_	_	_	_	_	_	_
 2	Martaba	_	_	_	_	_	_	_	_
 3	ya	_	_	_	_	_	_	_	_
@@ -69,40 +69,39 @@
 5	wannan	_	_	_	_	_	_	_	_
 6	kirin	_	_	_	_	_	_	_	_
 7	neː	_	_	_	_	_	_	_	_
-8	blyan	_	_	_	_	_	_	_	_
-9	zinga	_	_	_	_	_	_	_	_
-10	zangaː	_	_	_	_	_	_	_	_
-11	goda	_	_	_	_	_	_	_	_
-12	biya	_	_	_	_	_	_	_	_
-13	da	_	_	_	_	_	_	_	_
-14	aka	_	_	_	_	_	_	_	_
-15	yi	_	_	_	_	_	_	_	_
-16	à	_	_	_	_	_	_	_	_
-17	arewacin	_	_	_	_	_	_	_	_
-18	ƙasâr̃	_	_	_	_	_	_	_	SpaceAfter=No
-19	,	_	_	_	_	_	_	_	_
-20	indà	_	_	_	_	_	_	_	_
-21	akà	_	_	_	_	_	_	_	_
-22	cêː	_	_	_	_	_	_	_	_
-23	mutàːneː	_	_	_	_	_	_	_	_
-24	dà	_	_	_	_	_	_	_	_
-25	daːmaː	_	_	_	_	_	_	_	_
-26	sunaː	_	_	_	_	_	_	_	_
-27	goːyon	_	_	_	_	_	_	_	_
-28	bayan	_	_	_	_	_	_	_	_
-29	shùːgàban	_	_	_	_	_	_	_	_
-30	ƙasâr̃	_	_	_	_	_	_	_	_
-31	İki	_	_	_	_	_	_	_	SpaceAfter=No
-32	,	_	_	_	_	_	_	_	_
-33	wat	_	_	_	_	_	_	_	_
-34	"	_	_	_	_	_	_	_	_
-35	Saddam	_	_	_	_	_	_	_	_
-36	Hussein	_	_	_	_	_	_	_	SpaceAfter=No
-37	".	_	_	_	_	_	_	_	_
+8	baːyan	_	_	_	_	_	_	_	_
+9	zàngà-zangà	zàngà-zangà	_	_	_	_	_	_	_
+10	gùdaː	_	_	_	_	_	_	_	_
+11	biya	_	_	_	_	_	_	_	_
+12	da	_	_	_	_	_	_	_	_
+13	akà	_	_	_	_	_	_	_	_
+14	yi	_	_	_	_	_	_	_	_
+15	à	_	_	_	_	_	_	_	_
+16	arewacin	_	_	_	_	_	_	_	_
+17	ƙasâr̃	_	_	_	_	_	_	_	SpaceAfter=No
+18	,	_	_	_	_	_	_	_	_
+19	indà	_	_	_	_	_	_	_	_
+20	akà	_	_	_	_	_	_	_	_
+21	cêː	_	_	_	_	_	_	_	_
+22	mutàːneː	_	_	_	_	_	_	_	_
+23	dà	_	_	_	_	_	_	_	_
+24	daːmaː	_	_	_	_	_	_	_	_
+25	sunàː	_	_	_	_	_	_	_	wordform=sunaː
+26	goːyon	_	_	_	_	_	_	_	_
+27	bayan	_	_	_	_	_	_	_	_
+28	shùːgàban	_	_	_	_	_	_	_	_
+29	ƙasâr̃	_	_	_	_	_	_	_	_
+30	İki	_	_	_	_	_	_	_	SpaceAfter=No
+31	,	_	_	_	_	_	_	_	_
+32	wat	_	_	_	_	_	_	_	_
+33	"	_	_	_	_	_	_	_	_
+34	Saddam	_	_	_	_	_	_	_	_
+35	Hussein	_	_	_	_	_	_	_	SpaceAfter=No
+36	".	_	_	_	_	_	_	_	_
 
 # sent_id = 13_Rikicin_tekun_Pasha__4
 # text = A sanatwiìː tasà dai.
-1	A	_	_	_	_	_	_	_	_
+1	À	_	_	_	_	_	_	_	wordform=A
 2	sanatwiìː	_	_	_	_	_	_	_	_
 3	tasà	_	_	_	_	_	_	_	_
 4	dai	_	_	_	_	_	_	_	SpaceAfter=No
@@ -149,14 +148,14 @@
 # text = Haka kuma and zasm cewa à halin 10 yanau and rarrabh was tikaːitaː a srewacin Nijernyk wadandi sukà ski thân dà Kasksben Rawance suke wa friki Wani jawabi da aka bugh à wata jifill, wandi nhà về yanaː buyyáná rulayın wata haːbbar Runglyar muːsuːlmin arewacin Nijeːiyar veː, và vì kinh gà dukkaːn misidmí dà seː thì tsaye và bayyanaː nu ayansu a game dà rikicın Tekun Pasha din.
 1	Haka	_	_	_	_	_	_	_	_
 2	kuma	_	_	_	_	_	_	_	_
-3	and	_	_	_	_	_	_	_	_
+3	anàː	_	_	_	_	_	_	_	wordform=and
 4	zasm	_	_	_	_	_	_	_	_
 5	cewa	_	_	_	_	_	_	_	_
 6	à	_	_	_	_	_	_	_	_
 7	halin	_	_	_	_	_	_	_	_
 8	10	_	_	_	_	_	_	_	_
 9	yanau	_	_	_	_	_	_	_	_
-10	and	_	_	_	_	_	_	_	_
+10	anàː	_	_	_	_	_	_	_	wordform=and
 11	rarrabh	_	_	_	_	_	_	_	_
 12	was	_	_	_	_	_	_	_	_
 13	tikaːitaː	_	_	_	_	_	_	_	_
@@ -185,15 +184,15 @@
 36	wandi	_	_	_	_	_	_	_	_
 37	nhà	_	_	_	_	_	_	_	_
 38	về	_	_	_	_	_	_	_	_
-39	yanaː	_	_	_	_	_	_	_	_
+39	yanàː	_	_	_	_	_	_	_	wordform=yanaː
 40	buyyáná	_	_	_	_	_	_	_	_
 41	rulayın	_	_	_	_	_	_	_	_
 42	wata	_	_	_	_	_	_	_	_
-43	haːbbar	_	_	_	_	_	_	_	_
-44	Runglyar	_	_	_	_	_	_	_	_
+43	haːbbar̃	_	_	_	_	_	_	_	wordform=haːbbar
+44	Runglyar̃	_	_	_	_	_	_	_	wordform=Runglyar
 45	muːsuːlmin	_	_	_	_	_	_	_	_
 46	arewacin	_	_	_	_	_	_	_	_
-47	Nijeːiyar	_	_	_	_	_	_	_	_
+47	Nijeːiyar̃	_	_	_	_	_	_	_	wordform=Nijeːiyar
 48	veː	_	_	_	_	_	_	_	SpaceAfter=No
 49	,	_	_	_	_	_	_	_	_
 50	và	_	_	_	_	_	_	_	_
@@ -247,7 +246,7 @@
 24	shoːga	_	_	_	_	_	_	_	_
 25	haːnnin	_	_	_	_	_	_	_	_
 26	muːsalmi	_	_	_	_	_	_	_	_
-27	sunaː	_	_	_	_	_	_	_	_
+27	sunàː	_	_	_	_	_	_	_	wordform=sunaː
 28	likuti	_	_	_	_	_	_	_	_
 29	dà	_	_	_	_	_	_	_	_
 30	vuː	_	_	_	_	_	_	_	_
@@ -262,7 +261,7 @@
 39	à	_	_	_	_	_	_	_	_
 40	Rasit	_	_	_	_	_	_	_	_
 41	na	_	_	_	_	_	_	_	_
-42	foːdar	_	_	_	_	_	_	_	_
+42	foːdar̃	_	_	_	_	_	_	_	wordform=foːdar
 43	ta'ayr	_	_	_	_	_	_	_	_
 44	Kliškis	_	_	_	_	_	_	_	_
 45	ya	_	_	_	_	_	_	_	_
@@ -365,10 +364,10 @@
 11	matàːsaː	_	_	_	_	_	_	_	_
 
 # sent_id = 13_Rikicin_tekun_Pasha__11
-# text = sukà yi zàngà-zangaːr̃ nuːnà rashin goːyon bayan Shugabaː 'George Bush' dà kuma Shuːgàbaː Saddam Hussein.
+# text = sukà yi zàngà-zangàr̃ nuːnà rashin goːyon bayan Shugabaː 'George Bush' dà kuma Shuːgàbaː Saddam Hussein.
 1	sukà	_	_	_	_	_	_	_	_
 2	yi	_	_	_	_	_	_	_	_
-3	zàngà-zangaːr̃	_	_	_	_	_	_	_	_
+3	zàngà-zangàr̃	_	_	_	_	_	_	_	_
 4	nuːnà	_	_	_	_	_	_	_	_
 5	rashin	_	_	_	_	_	_	_	_
 6	goːyon	_	_	_	_	_	_	_	_
@@ -384,10 +383,10 @@
 16	.	_	_	_	_	_	_	_	_
 
 # sent_id = 13_Rikicin_tekun_Pasha__12
-# text = An yi zàngà-zangaː ta biyuːn à Kano indal 'yan sandan kashè tár̃zomaː sukà yi sammakő zuwa hàr̃aːbàr̃ Jaːmi ar̃ Bayerò ta Kano, don sửhana daliban jaːmi'aːr gudaːnar̃ dà zaːngaː-zangár̃ loːmaːnaːr dàː sukà shiryà yîː don nuːnà rashin aminceːwarsù ɗà harin dà ƙasar̃̃ Amir̃ka dàː àːboːkan kawàːncentà sukà kai wà 30 ƙasar̃ Iraki.
+# text = An yi zàngà-zangà ta biyuːn à Kano indal 'yan sandan kashè tár̃zomaː sukà yi sammakő zuwa hàr̃aːbàr̃ Jaːmi ar̃ Bayerò ta Kano, don sửhana daliban jaːmi'aːr gudaːnar̃ dà zaːngaː-zangár̃ loːmaːnaːr dàː sukà shiryà yîː don nuːnà rashin aminceːwarsù ɗà harin dà ƙasar̃̃ Amir̃ka dàː àːboːkan kawàːncentà sukà kai wà 30 ƙasar̃ Iraki.
 1	An	_	_	_	_	_	_	_	_
 2	yi	_	_	_	_	_	_	_	_
-3	zàngà-zangaː	_	_	_	_	_	_	_	_
+3	zàngà-zangà	_	_	_	_	_	_	_	_
 4	ta	_	_	_	_	_	_	_	_
 5	biyuːn	_	_	_	_	_	_	_	_
 6	à	_	_	_	_	_	_	_	_
@@ -540,7 +539,7 @@
 32	.	_	_	_	_	_	_	_	_
 
 # sent_id = 13_Rikicin_tekun_Pasha__16
-# text = Baːbù wani fuːhoːtòn raunuka dàː akà sâmû saːnàdiyyaːr̃ zàngà-zangar̃ dà aka yi duk à Katsinà dà kuma Kano, tò àmmaː kiran da Sarkin Mùsùlmiː ya yi na à zaunàː laːfiyaː vaː nuːnà kenan àːkwai yìːwuwar̃ barkeːwar taːshin hankalí
+# text = Baːbù wani fuːhoːtòn raunuka dàː akà sâmû saːnàdiyyaːr̃ zàngà-zangàr̃ dà aka yi duk à Katsinà dà kuma Kano, tò àmmaː kiran da Sarkin Mùsùlmiː ya yi na à zaunàː laːfiyaː vaː nuːnà kenan àːkwai yìːwuwar̃ barkeːwar̃ taːshin hankalí
 1	Baːbù	_	_	_	_	_	_	_	_
 2	wani	_	_	_	_	_	_	_	_
 3	fuːhoːtòn	_	_	_	_	_	_	_	_
@@ -549,7 +548,7 @@
 6	akà	_	_	_	_	_	_	_	_
 7	sâmû	_	_	_	_	_	_	_	_
 8	saːnàdiyyaːr̃	_	_	_	_	_	_	_	_
-9	zàngà-zangar̃	_	_	_	_	_	_	_	_
+9	zàngà-zangàr̃	_	_	_	_	_	_	_	_
 10	dà	_	_	_	_	_	_	_	_
 11	aka	_	_	_	_	_	_	_	_
 12	yi	_	_	_	_	_	_	_	_
@@ -577,7 +576,7 @@
 34	kenan	_	_	_	_	_	_	_	_
 35	àːkwai	_	_	_	_	_	_	_	_
 36	yìːwuwar̃	_	_	_	_	_	_	_	_
-37	barkeːwar	_	_	_	_	_	_	_	_
+37	barkeːwar̃	_	_	_	_	_	_	_	wordform=barkeːwar
 38	taːshin	_	_	_	_	_	_	_	_
 39	hankalí	_	_	_	_	_	_	_	_
 
