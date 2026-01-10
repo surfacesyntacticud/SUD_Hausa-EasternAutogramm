@@ -96,7 +96,7 @@
 33	.	_	_	_	_	_	_	_	_
 
 # sent_id = 12_Bala'in_tafkin_Nyos__4
-# text = Sai ruwân ya zama kàmar̃ hazoː, hàɗe kuma dà iskàr̃, aká hankàɗaː su ta indà ruwan kòːgiː yakèː bîː zuwàː cikin kwarìː sukà shìga ƙauyukàː dà gòːnàkiː.
+# text = Sai ruwân ya zama kàmar̃ hazoː, hàɗe kuma dà iskàr̃, akà hankàɗaː su ta indà ruwan kòːgiː yakèː bîː zuwàː cikin kwarìː sukà shìga ƙauyukàː dà gòːnàkiː.
 1	Sai	_	_	_	_	_	_	_	_
 2	ruwân	_	_	_	_	_	_	_	_
 3	ya	_	_	_	_	_	_	_	_
@@ -109,7 +109,7 @@
 10	dà	_	_	_	_	_	_	_	_
 11	iskàr̃	_	_	_	_	_	_	_	SpaceAfter=No
 12	,	_	_	_	_	_	_	_	_
-13	aká	_	_	_	_	_	_	_	_
+13	akà	_	_	_	_	_	_	_	_
 14	hankàɗaː	_	_	_	_	_	_	_	_
 15	su	_	_	_	_	_	_	_	_
 16	ta	_	_	_	_	_	_	_	_
@@ -265,8 +265,8 @@
 33	huɗu	_	_	_	_	_	_	_	SpaceAfter=No
 34	.	_	_	_	_	_	_	_	_
 
-# sent_id = 12_Bala'in_tafkin_Nyos__10
-# text = À wànnan loːkàciː mutàːneː tàlàːtin dà bakwài neː sukà mutù . Hakà nan kuma yaː gaːnoː cêːwaː àkwai irìn waɗànnân tafkunàː har̃ sìttin à wannàn yankìː à cikin Kàmàr̃u dà Nàːjeːr̃iyàː, indà sabòːdà yanàyin duwàːtsun wurîn anàː iyà saːmùn irìn wannàn aman gâs à koːwànè loːkàciː .
+# sent_id = 12_Bala'in_tafkin_Nyos__10a
+# text = À wànnan loːkàciː mutàːneː tàlàːtin dà bakwài neː sukà mutù .
 1	À	_	_	_	_	_	_	_	wordform=A
 2	wànnan	_	_	_	_	_	_	_	_
 3	loːkàciː	_	_	_	_	_	_	_	_
@@ -278,43 +278,46 @@
 9	sukà	_	_	_	_	_	_	_	_
 10	mutù	mutù	_	_	_	_	_	_	_
 11	.	.	_	_	_	_	_	_	_
-12	Hakà	_	_	_	_	_	_	_	_
-13	nan	_	_	_	_	_	_	_	_
-14	kuma	_	_	_	_	_	_	_	_
-15	yaː	_	_	_	_	_	_	_	_
-16	gaːnoː	_	_	_	_	_	_	_	_
-17	cêːwaː	_	_	_	_	_	_	_	_
-18	àkwai	_	_	_	_	_	_	_	_
-19	irìn	_	_	_	_	_	_	_	_
-20	waɗànnân	_	_	_	_	_	_	_	_
-21	tafkunàː	_	_	_	_	_	_	_	_
-22	har̃	_	_	_	_	_	_	_	_
-23	sìttin	_	_	_	_	_	_	_	_
-24	à	_	_	_	_	_	_	_	_
-25	wannàn	_	_	_	_	_	_	_	_
-26	yankìː	_	_	_	_	_	_	_	_
-27	à	_	_	_	_	_	_	_	_
-28	cikin	_	_	_	_	_	_	_	_
-29	Kàmàr̃u	_	_	_	_	_	_	_	_
-30	dà	_	_	_	_	_	_	_	_
-31	Nàːjeːr̃iyàː	_	_	_	_	_	_	_	SpaceAfter=No
-32	,	_	_	_	_	_	_	_	_
-33	indà	_	_	_	_	_	_	_	_
-34	sabòːdà	_	_	_	_	_	_	_	_
-35	yanàyin	_	_	_	_	_	_	_	_
-36	duwàːtsun	_	_	_	_	_	_	_	_
-37	wurîn	_	_	_	_	_	_	_	_
-38	anàː	_	_	_	_	_	_	_	_
-39	iyà	_	_	_	_	_	_	_	_
-40	saːmùn	_	_	_	_	_	_	_	_
-41	irìn	_	_	_	_	_	_	_	_
-42	wannàn	_	_	_	_	_	_	_	_
-43	aman	_	_	_	_	_	_	_	_
-44	gâs	_	_	_	_	_	_	_	_
-45	à	_	_	_	_	_	_	_	_
-46	koːwànè	_	_	_	_	_	_	_	_
-47	loːkàciː	_	_	_	_	_	_	_	_
-48	.	_	_	_	_	_	_	_	_
+
+# sent_id = 12_Bala'in_tafkin_Nyos__10b
+# text = Hakà nan kuma yaː gaːnoː cêːwaː àkwai irìn waɗànnân tafkunàː har̃ sìttin à wannàn yankìː à cikin Kàmàr̃u dà Nàːjeːr̃iyàː , indà sabòːdà yanàyin duwàːtsun wurîn anàː iyà saːmùn irìn wannàn aman gâs à koːwànè loːkàciː .
+1	Hakà	_	_	_	_	_	_	_	_
+2	nan	_	_	_	_	_	_	_	_
+3	kuma	_	_	_	_	_	_	_	_
+4	yaː	_	_	_	_	_	_	_	_
+5	gaːnoː	_	_	_	_	_	_	_	_
+6	cêːwaː	_	_	_	_	_	_	_	_
+7	àkwai	_	_	_	_	_	_	_	_
+8	irìn	_	_	_	_	_	_	_	_
+9	waɗànnân	_	_	_	_	_	_	_	_
+10	tafkunàː	_	_	_	_	_	_	_	_
+11	har̃	_	_	_	_	_	_	_	_
+12	sìttin	_	_	_	_	_	_	_	_
+13	à	_	_	_	_	_	_	_	_
+14	wannàn	_	_	_	_	_	_	_	_
+15	yankìː	_	_	_	_	_	_	_	_
+16	à	_	_	_	_	_	_	_	_
+17	cikin	_	_	_	_	_	_	_	_
+18	Kàmàr̃u	_	_	_	_	_	_	_	_
+19	dà	_	_	_	_	_	_	_	_
+20	Nàːjeːr̃iyàː	_	_	_	_	_	_	_	SpaceAfter=No
+21	,	_	_	_	_	_	_	_	_
+22	indà	_	_	_	_	_	_	_	_
+23	sabòːdà	_	_	_	_	_	_	_	_
+24	yanàyin	_	_	_	_	_	_	_	_
+25	duwàːtsun	_	_	_	_	_	_	_	_
+26	wurîn	_	_	_	_	_	_	_	_
+27	anàː	_	_	_	_	_	_	_	_
+28	iyà	_	_	_	_	_	_	_	_
+29	saːmùn	_	_	_	_	_	_	_	_
+30	irìn	_	_	_	_	_	_	_	_
+31	wannàn	_	_	_	_	_	_	_	_
+32	aman	_	_	_	_	_	_	_	_
+33	gâs	_	_	_	_	_	_	_	_
+34	à	_	_	_	_	_	_	_	_
+35	koːwànè	_	_	_	_	_	_	_	_
+36	loːkàciː	_	_	_	_	_	_	_	_
+37	.	_	_	_	_	_	_	_	_
 
 # sent_id = 12_Bala'in_tafkin_Nyos__11
 # text = Yaddà zaː'à iyà cirèː gâs ɗîn shiː nèː à yi famfòn ruwân dà kèː dà carbon dioxide dàgà cikin tafkìn, à fid dà shiː gàbaː ɗayansà.
@@ -348,123 +351,127 @@
 28	.	_	_	_	_	_	_	_	_
 
 # sent_id = 12_Bala'in_tafkin_Nyos__12
-# text = Sai dai kuma and tvoron klá gas din ya kira bulfiolosa cikin taticin da zarar an ragt ruwans.
+# text = Sai dai kuma anàː tsòːron ƙiːlà gâs ɗîn yà ƙaːrà ɓulɓulôːwaː cikin tafkìn dà zaːrar̃ an ragè ruwansà.
 1	Sai	_	_	_	_	_	_	_	_
 2	dai	_	_	_	_	_	_	_	_
 3	kuma	_	_	_	_	_	_	_	_
-4	and	_	_	_	_	_	_	_	_
-5	tvoron	_	_	_	_	_	_	_	_
-6	klá	_	_	_	_	_	_	_	_
-7	gas	_	_	_	_	_	_	_	_
-8	din	_	_	_	_	_	_	_	_
-9	ya	_	_	_	_	_	_	_	_
-10	kira	_	_	_	_	_	_	_	_
-11	bulfiolosa	_	_	_	_	_	_	_	_
+4	anàː	_	_	_	_	_	_	_	wordform=and
+5	tsòːron	_	_	_	_	_	_	_	_
+6	ƙiːlà	_	_	_	_	_	_	_	_
+7	gâs	_	_	_	_	_	_	_	_
+8	ɗîn	_	_	_	_	_	_	_	_
+9	yà	_	_	_	_	_	_	_	_
+10	ƙaːrà	_	_	_	_	_	_	_	_
+11	ɓulɓulôːwaː	_	_	_	_	_	_	_	_
 12	cikin	_	_	_	_	_	_	_	_
-13	taticin	_	_	_	_	_	_	_	_
-14	da	_	_	_	_	_	_	_	_
-15	zarar̃	_	_	_	_	_	_	_	wordform=zarar
+13	tafkìn	_	_	_	_	_	_	_	_
+14	dà	_	_	_	_	_	_	_	_
+15	zaːrar̃	_	_	_	_	_	_	_	wordform=zarar
 16	an	_	_	_	_	_	_	_	_
-17	ragt	_	_	_	_	_	_	_	_
-18	ruwans	_	_	_	_	_	_	_	SpaceAfter=No
+17	ragè	_	_	_	_	_	_	_	_
+18	ruwansà	_	_	_	_	_	_	_	SpaceAfter=No
 19	.	_	_	_	_	_	_	_	_
 
-# sent_id = 12_Bala'in_tafkin_Nyos__13
-# text = Rage nauyin raven, wandal munkaaːftaːn soić ganin zái thai dà mượn gái ɗiːa, mái yiwuwa ně koma zi jiwa wani muːmmanan hadar̃t Don haka mashna haiyya sukà kaːn shawarar cêwaː bài kàmaːtà yawàn ruwân ɗà zaːà kwaːshề dàgà tar̃kin yà wucè yawan ruwan samàn dà kẻ shigaː cikinsà ba.
-1	Rage	_	_	_	_	_	_	_	_
+# sent_id = 12_Bala'in_tafkin_Nyos__13a
+# text = Ragè nauyin ruwân , wandà manàzàr̃tân sukèː ganin zâi tsai dà aman gâs ɗîn , mài yìwuwaː nèː kuma zâi jaːwoː wani mùmmuːnan haɗàr̃iː .
+1	Ragè	_	_	_	_	_	_	_	_
 2	nauyin	_	_	_	_	_	_	_	_
-3	raven	_	_	_	_	_	_	_	SpaceAfter=No
+3	ruwân	_	_	_	_	_	_	_	SpaceAfter=No
 4	,	_	_	_	_	_	_	_	_
-5	wandal	_	_	_	_	_	_	_	_
-6	munkaaːftaːn	_	_	_	_	_	_	_	_
-7	soić	_	_	_	_	_	_	_	_
+5	wandà	_	_	_	_	_	_	_	_
+6	manàzàr̃tân	_	_	_	_	_	_	_	_
+7	sukèː	_	_	_	_	_	_	_	_
 8	ganin	_	_	_	_	_	_	_	_
-9	zái	_	_	_	_	_	_	_	_
-10	thai	_	_	_	_	_	_	_	_
+9	zâi	_	_	_	_	_	_	_	_
+10	tsai	_	_	_	_	_	_	_	_
 11	dà	_	_	_	_	_	_	_	_
-12	mượn	_	_	_	_	_	_	_	_
-13	gái	_	_	_	_	_	_	_	_
-14	ɗiːa	_	_	_	_	_	_	_	SpaceAfter=No
+12	aman	_	_	_	_	_	_	_	_
+13	gâs	_	_	_	_	_	_	_	_
+14	ɗîn	_	_	_	_	_	_	_	SpaceAfter=No
 15	,	_	_	_	_	_	_	_	_
-16	mái	_	_	_	_	_	_	_	_
-17	yiwuwa	_	_	_	_	_	_	_	_
-18	ně	_	_	_	_	_	_	_	_
-19	koma	_	_	_	_	_	_	_	_
-20	zi	_	_	_	_	_	_	_	_
-21	jiwa	_	_	_	_	_	_	_	_
+16	mài	_	_	_	_	_	_	_	_
+17	yìwuwaː	_	_	_	_	_	_	_	_
+18	nèː	_	_	_	_	_	_	_	_
+19	kuma	_	_	_	_	_	_	_	_
+20	zâi	_	_	_	_	_	_	_	_
+21	jaːwoː	_	_	_	_	_	_	_	_
 22	wani	_	_	_	_	_	_	_	_
-23	muːmmanan	_	_	_	_	_	_	_	_
-24	hadar̃t	_	_	_	_	_	_	_	_
-25	Don	_	_	_	_	_	_	_	_
-26	haka	_	_	_	_	_	_	_	_
-27	mashna	_	_	_	_	_	_	_	_
-28	haiyya	_	_	_	_	_	_	_	_
-29	sukà	_	_	_	_	_	_	_	_
-30	kân	_	_	_	_	_	_	_	wordform=kaːn
-31	shawarar̃	_	_	_	_	_	_	_	wordform=shawarar
-32	cêːwaː	_	_	_	_	_	_	_	wordform=cêwaː
-33	bài	_	_	_	_	_	_	_	_
-34	kàmaːtà	_	_	_	_	_	_	_	_
-35	yawàn	_	_	_	_	_	_	_	_
-36	ruwân	_	_	_	_	_	_	_	_
-37	ɗà	_	_	_	_	_	_	_	_
-38	zaːà	_	_	_	_	_	_	_	_
-39	kwaːshề	_	_	_	_	_	_	_	_
-40	dàgà	_	_	_	_	_	_	_	_
-41	tafkìn	_	_	_	_	_	_	_	wordform=tar̃kin
-42	yà	_	_	_	_	_	_	_	_
-43	wucè	_	_	_	_	_	_	_	_
-44	yawan	_	_	_	_	_	_	_	_
-45	ruwan	_	_	_	_	_	_	_	_
-46	samàn	_	_	_	_	_	_	_	_
-47	dà	_	_	_	_	_	_	_	_
-48	kẻ	_	_	_	_	_	_	_	_
-49	shigaː	_	_	_	_	_	_	_	_
-50	cikinsà	_	_	_	_	_	_	_	_
-51	ba	_	_	_	_	_	_	_	SpaceAfter=No
-52	.	_	_	_	_	_	_	_	_
+23	mùmmuːnan	_	_	_	_	_	_	_	_
+24	haɗàr̃iː	_	_	_	_	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = 12_Bala'in_tafkin_Nyos__13b
+# text = Don hakà masànaː kìːmiyyàː sukà kaːwoː shaːwar̃àr̃ cêːwaː bài kàmaːtà yawàn ruwân dà zaː'à kwaːshèː dàgà tafkìn yà wucè yawàn ruwan samàn dà kèː shìgaː cikinsà ba .
+1	Don	Don	_	_	_	_	_	_	_
+2	hakà	_	_	_	_	_	_	_	_
+3	masànaː	_	_	_	_	_	_	_	_
+4	kìːmiyyàː	_	_	_	_	_	_	_	_
+5	sukà	_	_	_	_	_	_	_	_
+6	kaːwoː	_	_	_	_	_	_	_	wordform=kaːn
+7	shaːwar̃àr̃	_	_	_	_	_	_	_	wordform=shawarar
+8	cêːwaː	_	_	_	_	_	_	_	wordform=cêwaː
+9	bài	_	_	_	_	_	_	_	_
+10	kàmaːtà	_	_	_	_	_	_	_	_
+11	yawàn	_	_	_	_	_	_	_	_
+12	ruwân	_	_	_	_	_	_	_	_
+13	dà	_	_	_	_	_	_	_	_
+14	zaː'à	_	_	_	_	_	_	_	_
+15	kwaːshèː	_	_	_	_	_	_	_	_
+16	dàgà	_	_	_	_	_	_	_	_
+17	tafkìn	_	_	_	_	_	_	_	wordform=tar̃kin
+18	yà	_	_	_	_	_	_	_	_
+19	wucè	_	_	_	_	_	_	_	_
+20	yawàn	_	_	_	_	_	_	_	_
+21	ruwan	_	_	_	_	_	_	_	_
+22	samàn	_	_	_	_	_	_	_	_
+23	dà	_	_	_	_	_	_	_	_
+24	kèː	_	_	_	_	_	_	_	_
+25	shìgaː	_	_	_	_	_	_	_	_
+26	cikinsà	_	_	_	_	_	_	_	_
+27	ba	_	_	_	_	_	_	_	SpaceAfter=No
+28	.	_	_	_	_	_	_	_	_
 
 # sent_id = 12_Bala'in_tafkin_Nyos__14
-# text = Haka nan kuma manàzàr̃taː sun baː dà shawarar cêwaː kàmaːta ya yi à luғa dà haːlin ruwan Tar̃kin Nyos din kaːfin à kwashè gâs ɗiːn, àbín dà zâi zamo àbù mài hadariː kwar̃ai.
-1	Haka	_	_	_	_	_	_	_	_
+# text = Hakà nan kuma manàzàr̃taː sun baː dà shaːwar̃àr̃ cêːwaː kàmaːtàː yaː yi à lùːr̃a dà haːlin ruwan Tafkìn Nyos ɗîn kàːfin à kwaːshè gâs ɗîn, àbîn dà zâi zamoː àbù mài haɗàr̃iː kwar̃ai.
+1	Hakà	_	_	_	_	_	_	_	_
 2	nan	_	_	_	_	_	_	_	_
 3	kuma	_	_	_	_	_	_	_	_
 4	manàzàr̃taː	_	_	_	_	_	_	_	_
 5	sun	_	_	_	_	_	_	_	_
 6	baː	_	_	_	_	_	_	_	_
 7	dà	_	_	_	_	_	_	_	_
-8	shawarar̃	_	_	_	_	_	_	_	wordform=shawarar
+8	shaːwar̃àr̃	_	_	_	_	_	_	_	wordform=shawarar
 9	cêːwaː	_	_	_	_	_	_	_	wordform=cêwaː
-10	kàmaːta	_	_	_	_	_	_	_	_
-11	ya	_	_	_	_	_	_	_	_
+10	kàmaːtàː	_	_	_	_	_	_	_	_
+11	yaː	_	_	_	_	_	_	_	_
 12	yi	_	_	_	_	_	_	_	_
 13	à	_	_	_	_	_	_	_	_
-14	luғa	_	_	_	_	_	_	_	_
+14	lùːr̃a	_	_	_	_	_	_	_	_
 15	dà	_	_	_	_	_	_	_	_
 16	haːlin	_	_	_	_	_	_	_	_
 17	ruwan	_	_	_	_	_	_	_	_
 18	Tafkìn	_	_	_	_	_	_	_	wordform=Tar̃kin
 19	Nyos	_	_	_	_	_	_	_	_
-20	din	_	_	_	_	_	_	_	_
-21	kaːfin	_	_	_	_	_	_	_	_
+20	ɗîn	_	_	_	_	_	_	_	_
+21	kàːfin	_	_	_	_	_	_	_	_
 22	à	_	_	_	_	_	_	_	_
-23	kwashè	_	_	_	_	_	_	_	_
+23	kwaːshè	_	_	_	_	_	_	_	_
 24	gâs	_	_	_	_	_	_	_	_
-25	ɗiːn	_	_	_	_	_	_	_	SpaceAfter=No
+25	ɗîn	_	_	_	_	_	_	_	SpaceAfter=No
 26	,	_	_	_	_	_	_	_	_
-27	àbín	_	_	_	_	_	_	_	_
+27	àbîn	_	_	_	_	_	_	_	_
 28	dà	_	_	_	_	_	_	_	_
 29	zâi	_	_	_	_	_	_	_	_
-30	zamo	_	_	_	_	_	_	_	_
+30	zamoː	_	_	_	_	_	_	_	_
 31	àbù	_	_	_	_	_	_	_	_
 32	mài	_	_	_	_	_	_	_	_
-33	hadariː	_	_	_	_	_	_	_	_
+33	haɗàr̃iː	_	_	_	_	_	_	_	_
 34	kwar̃ai	_	_	_	_	_	_	_	SpaceAfter=No
 35	.	_	_	_	_	_	_	_	_
 
 # sent_id = 12_Bala'in_tafkin_Nyos__15
-# text = Bandaː hakà maː zâi kasànceː àbù mài tsàːdar̃ gàske.
-1	Bandaː	_	_	_	_	_	_	_	_
+# text = Bandà hakà maː zâi kasànceː àbù mài tsàːdar̃ gàske.
+1	Bandà	_	_	_	_	_	_	_	_
 2	hakà	_	_	_	_	_	_	_	_
 3	maː	_	_	_	_	_	_	_	_
 4	zâi	_	_	_	_	_	_	_	_
@@ -476,46 +483,45 @@
 10	.	_	_	_	_	_	_	_	_
 
 # sent_id = 12_Bala'in_tafkin_Nyos__16
-# text = Babban dai rigaːkar̃in dà mazaunaː yankın zaː sử iyà yì shiː nèː sử taːshì sủ koːmà neːsà kwar̃ai dàgaː indà tar̃kin yakèː.
-1	Babban	_	_	_	_	_	_	_	_
+# text = Bàbban dai rìgàːkafìn dà mazàunaː yankìn zaːsù iyà yî: shiː nèː sù taːshì sù koːmàː neːsà ƙwar̃ai dàgà indà tafkìn yakè.
+1	Bàbban	_	_	_	_	_	_	_	_
 2	dai	_	_	_	_	_	_	_	_
-3	rigaːkar̃in	_	_	_	_	_	_	_	_
+3	rìgàːkafìn	_	_	_	_	_	_	_	_
 4	dà	_	_	_	_	_	_	_	_
-5	mazaunaː	_	_	_	_	_	_	_	_
-6	yankın	_	_	_	_	_	_	_	_
-7	zaː	_	_	_	_	_	_	_	_
-8	sử	_	_	_	_	_	_	_	_
-9	iyà	_	_	_	_	_	_	_	_
-10	yì	_	_	_	_	_	_	_	_
-11	shiː	_	_	_	_	_	_	_	_
-12	nèː	_	_	_	_	_	_	_	_
-13	sử	_	_	_	_	_	_	_	_
-14	taːshì	_	_	_	_	_	_	_	_
-15	sủ	_	_	_	_	_	_	_	_
-16	koːmà	_	_	_	_	_	_	_	_
-17	neːsà	_	_	_	_	_	_	_	_
-18	kwar̃ai	_	_	_	_	_	_	_	_
-19	dàgaː	_	_	_	_	_	_	_	_
-20	indà	_	_	_	_	_	_	_	_
-21	tafkìn	_	_	_	_	_	_	_	wordform=tar̃kin
-22	yakèː	_	_	_	_	_	_	_	SpaceAfter=No
-23	.	_	_	_	_	_	_	_	_
+5	mazàunaː	_	_	_	_	_	_	_	_
+6	yankìn	_	_	_	_	_	_	_	_
+7	zaːsù	zaːsù	_	_	_	_	_	_	_
+8	iyà	_	_	_	_	_	_	_	_
+9	yî:	_	_	_	_	_	_	_	_
+10	shiː	_	_	_	_	_	_	_	_
+11	nèː	_	_	_	_	_	_	_	_
+12	sù	_	_	_	_	_	_	_	_
+13	taːshì	_	_	_	_	_	_	_	_
+14	sù	_	_	_	_	_	_	_	_
+15	koːmàː	_	_	_	_	_	_	_	_
+16	neːsà	_	_	_	_	_	_	_	_
+17	ƙwar̃ai	_	_	_	_	_	_	_	_
+18	dàgà	_	_	_	_	_	_	_	_
+19	indà	_	_	_	_	_	_	_	_
+20	tafkìn	_	_	_	_	_	_	_	wordform=tar̃kin
+21	yakè	_	_	_	_	_	_	_	SpaceAfter=No
+22	.	_	_	_	_	_	_	_	_
 
 # sent_id = 12_Bala'in_tafkin_Nyos__17
-# text = À shekaraːr̃ alìf dà ɗàriː tara dà tàmẫnín dà shidaː dai mutàneː fiye dà dubuː ɗà ɗàriː bakwài neː sukà mutû, kuma Allah neː kawai ya san yawan wadandal zá sú mutù idan tar̃kin ya saːkè yîn wani aman gàːs din.
+# text = À shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà dai mutàneː fìye dà dubuː ɗà ɗàriː bakwài neː sukà mutù, kuma Allàh neː kawài ya san yawàn waɗàndà zaːsù mutù ìdan tafkìn ya saːkè yîn wani aman gâs ɗîn.
 1	À	_	_	_	_	_	_	_	_
-2	shekaraːr̃	_	_	_	_	_	_	_	_
+2	shèːkaràr̃	_	_	_	_	_	_	_	_
 3	alìf	_	_	_	_	_	_	_	_
 4	dà	_	_	_	_	_	_	_	_
 5	ɗàriː	_	_	_	_	_	_	_	_
-6	tara	_	_	_	_	_	_	_	_
+6	tar̃à	_	_	_	_	_	_	_	_
 7	dà	_	_	_	_	_	_	_	_
-8	tàmẫnín	_	_	_	_	_	_	_	_
+8	tàmàːnin	_	_	_	_	_	_	_	_
 9	dà	_	_	_	_	_	_	_	_
-10	shidaː	_	_	_	_	_	_	_	_
+10	shidà	_	_	_	_	_	_	_	_
 11	dai	_	_	_	_	_	_	_	_
 12	mutàneː	_	_	_	_	_	_	_	_
-13	fiye	_	_	_	_	_	_	_	_
+13	fìye	_	_	_	_	_	_	_	_
 14	dà	_	_	_	_	_	_	_	_
 15	dubuː	_	_	_	_	_	_	_	_
 16	ɗà	_	_	_	_	_	_	_	_
@@ -523,27 +529,26 @@
 18	bakwài	_	_	_	_	_	_	_	_
 19	neː	_	_	_	_	_	_	_	_
 20	sukà	_	_	_	_	_	_	_	_
-21	mutû	_	_	_	_	_	_	_	SpaceAfter=No
+21	mutù	_	_	_	_	_	_	_	SpaceAfter=No
 22	,	_	_	_	_	_	_	_	_
 23	kuma	_	_	_	_	_	_	_	_
-24	Allah	_	_	_	_	_	_	_	_
+24	Allàh	_	_	_	_	_	_	_	_
 25	neː	_	_	_	_	_	_	_	_
-26	kawai	_	_	_	_	_	_	_	_
+26	kawài	_	_	_	_	_	_	_	_
 27	ya	_	_	_	_	_	_	_	_
 28	san	_	_	_	_	_	_	_	_
-29	yawan	_	_	_	_	_	_	_	_
+29	yawàn	_	_	_	_	_	_	_	_
 30	waɗàndà	_	_	_	_	_	_	_	wordform=wadandal
-31	zá	_	_	_	_	_	_	_	_
-32	sú	_	_	_	_	_	_	_	_
-33	mutù	_	_	_	_	_	_	_	_
-34	idan	_	_	_	_	_	_	_	_
-35	tafkìn	_	_	_	_	_	_	_	wordform=tar̃kin
-36	ya	_	_	_	_	_	_	_	_
-37	saːkè	_	_	_	_	_	_	_	_
-38	yîn	_	_	_	_	_	_	_	_
-39	wani	_	_	_	_	_	_	_	_
-40	aman	_	_	_	_	_	_	_	_
-41	gàːs	_	_	_	_	_	_	_	_
-42	din	_	_	_	_	_	_	_	SpaceAfter=No
-43	.	_	_	_	_	_	_	_	_
+31	zaːsù	zâi	_	_	_	_	_	_	_
+32	mutù	_	_	_	_	_	_	_	_
+33	ìdan	_	_	_	_	_	_	_	_
+34	tafkìn	_	_	_	_	_	_	_	wordform=tar̃kin
+35	ya	_	_	_	_	_	_	_	_
+36	saːkè	_	_	_	_	_	_	_	_
+37	yîn	_	_	_	_	_	_	_	_
+38	wani	_	_	_	_	_	_	_	_
+39	aman	_	_	_	_	_	_	_	_
+40	gâs	_	_	_	_	_	_	_	_
+41	ɗîn	_	_	_	_	_	_	_	SpaceAfter=No
+42	.	_	_	_	_	_	_	_	_
 
