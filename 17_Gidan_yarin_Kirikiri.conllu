@@ -5,7 +5,7 @@
 3	Ƙìr̃iƙìr̃i	_	_	_	_	_	_	_	_
 
 # sent_id = 17_Gidan_yarin_Kirikiri__2
-# text = Wani fahoːtòn da Kungiyar̃ Neːmàː wà Jama'a Hakkinsuː ta Najeːr̃iya (= KNIH) ta bugà yaː cô gidan kûr̃kukuːn Ƙìr̃iƙìr̃i mài tsauraran mátakan tsar, wandal kuma kẻ can bir̃nín Ikko, yanaː cike màːkil da 'yan fursuːnaː fiye da yawan wadandal ya kàmaːtà sù kasànceː à cikinsà.
+# text = Wani fahoːtòn da Kungiyar̃ Neːmàː wà Jama'a Hakkinsuː ta Nàːjeːr̃iyàː (= KNIH) ta bugà yaː cô gidan kûr̃kukuːn Ƙìr̃iƙìr̃i mài tsauraran mátakan tsar̃, wandal kuma kẻ can bir̃nín Ìkko, yanàː cike màːkil da 'yan fursuːnaː fiye da yawan waɗàndà ya kàmaːtà sù kasànceː à cikinsà.
 1	Wani	_	_	_	_	_	_	_	_
 2	fahoːtòn	_	_	_	_	_	_	_	_
 3	da	_	_	_	_	_	_	_	_
@@ -15,7 +15,7 @@
 7	Jama'a	_	_	_	_	_	_	_	_
 8	Hakkinsuː	_	_	_	_	_	_	_	_
 9	ta	_	_	_	_	_	_	_	_
-10	Najeːr̃iya	_	_	_	_	_	_	_	_
+10	Nàːjeːr̃iyàː	_	_	_	_	_	_	_	_
 11	(=	_	_	_	_	_	_	_	_
 12	KNIH	_	_	_	_	_	_	_	SpaceAfter=No
 13	)	_	_	_	_	_	_	_	_
@@ -29,16 +29,16 @@
 21	mài	_	_	_	_	_	_	_	_
 22	tsauraran	_	_	_	_	_	_	_	_
 23	mátakan	_	_	_	_	_	_	_	_
-24	tsar	_	_	_	_	_	_	_	SpaceAfter=No
+24	tsar̃	_	_	_	_	_	_	_	SpaceAfter=No|wordform=tsar
 25	,	_	_	_	_	_	_	_	_
 26	wandal	_	_	_	_	_	_	_	_
 27	kuma	_	_	_	_	_	_	_	_
 28	kẻ	_	_	_	_	_	_	_	_
 29	can	_	_	_	_	_	_	_	_
 30	bir̃nín	_	_	_	_	_	_	_	_
-31	Ikko	_	_	_	_	_	_	_	SpaceAfter=No
+31	Ìkko	_	_	_	_	_	_	_	SpaceAfter=No|wordform=Ikko
 32	,	_	_	_	_	_	_	_	_
-33	yanaː	_	_	_	_	_	_	_	_
+33	yanàː	_	_	_	_	_	_	_	wordform=yanaː
 34	cike	_	_	_	_	_	_	_	_
 35	màːkil	_	_	_	_	_	_	_	_
 36	da	_	_	_	_	_	_	_	_
@@ -47,7 +47,7 @@
 39	fiye	_	_	_	_	_	_	_	_
 40	da	_	_	_	_	_	_	_	_
 41	yawan	_	_	_	_	_	_	_	_
-42	wadandal	_	_	_	_	_	_	_	_
+42	waɗàndà	_	_	_	_	_	_	_	wordform=wadandal
 43	ya	_	_	_	_	_	_	_	_
 44	kàmaːtà	_	_	_	_	_	_	_	_
 45	sù	_	_	_	_	_	_	_	_
@@ -161,7 +161,7 @@
 
 # sent_id = 17_Gidan_yarin_Kirikiri__5
 # text = Kamar yaddà KNJH ta cè, kusan rabin dukkan yan Tursunonin daː kể jirán à zartar̃ musú da hukuncin kisk, yaːnzu sun kai shěkári goːma sha biyar̃ à cikin haːlin jiran.
-1	Kamar	_	_	_	_	_	_	_	_
+1	Kamar̃	_	_	_	_	_	_	_	wordform=Kamar
 2	yaddà	_	_	_	_	_	_	_	_
 3	KNJH	_	_	_	_	_	_	_	_
 4	ta	_	_	_	_	_	_	_	_
@@ -243,10 +243,10 @@
 8	ɗàgà	_	_	_	_	_	_	_	_
 9	cikin	_	_	_	_	_	_	_	_
 10	saːraːrruːn	_	_	_	_	_	_	_	_
-11	sunaː	_	_	_	_	_	_	_	_
+11	sunàː	_	_	_	_	_	_	_	wordform=sunaː
 12	jiran	_	_	_	_	_	_	_	_
 13	à	_	_	_	_	_	_	_	_
-14	gabaːtar	_	_	_	_	_	_	_	_
+14	gabaːtar̃	_	_	_	_	_	_	_	wordform=gabaːtar
 15	dà	_	_	_	_	_	_	_	_
 16	seː	_	_	_	_	_	_	_	_
 17	neː	_	_	_	_	_	_	_	_
@@ -342,11 +342,11 @@
 13	zaːsù	_	_	_	_	_	_	_	_
 14	yi	_	_	_	_	_	_	_	_
 15	barcę	_	_	_	_	_	_	_	_
-16	wadandal	_	_	_	_	_	_	_	_
+16	waɗàndà	_	_	_	_	_	_	_	wordform=wadandal
 17	ma	_	_	_	_	_	_	_	_
 18	keː	_	_	_	_	_	_	_	_
 19	barcin	_	_	_	_	_	_	_	_
-20	sunaː	_	_	_	_	_	_	_	_
+20	sunàː	_	_	_	_	_	_	_	wordform=sunaː
 21	yînsaː	_	_	_	_	_	_	_	_
 22	neː	_	_	_	_	_	_	_	_
 23	à	_	_	_	_	_	_	_	_
@@ -403,9 +403,9 @@
 33	isasshen	_	_	_	_	_	_	_	_
 34	hasken	_	_	_	_	_	_	_	_
 35	lantar̃ki	_	_	_	_	_	_	_	_
-36	yanaː	_	_	_	_	_	_	_	_
+36	yanàː	_	_	_	_	_	_	_	wordform=yanaː
 37	saːnaːdiyyar̃	_	_	_	_	_	_	_	_
-38	baːzuwar	_	_	_	_	_	_	_	_
+38	baːzuwar̃	_	_	_	_	_	_	_	wordform=baːzuwar
 39	wasu	_	_	_	_	_	_	_	_
 40	kwaːyoːyin	_	_	_	_	_	_	_	_
 41	cûtaː	_	_	_	_	_	_	_	_
@@ -511,7 +511,7 @@
 5	neː	_	_	_	_	_	_	_	_
 6	kudadeːn	_	_	_	_	_	_	_	_
 7	dà	_	_	_	_	_	_	_	_
-8	gwamnatin	_	_	_	_	_	_	_	_
+8	gwamnatìn	_	_	_	_	_	_	_	wordform=gwamnatin
 9	ke	_	_	_	_	_	_	_	_
 10	waːrewa	_	_	_	_	_	_	_	_
 11	domin	_	_	_	_	_	_	_	_
@@ -529,7 +529,7 @@
 23	ma'aːikatan	_	_	_	_	_	_	_	_
 24	gidan	_	_	_	_	_	_	_	_
 25	yaːrin	_	_	_	_	_	_	_	_
-26	sunaː	_	_	_	_	_	_	_	_
+26	sunàː	_	_	_	_	_	_	_	wordform=sunaː
 27	taːimakon	_	_	_	_	_	_	_	_
 28	kânsù	_	_	_	_	_	_	_	_
 29	dà	_	_	_	_	_	_	_	_
@@ -569,12 +569,12 @@
 1	Gwamnati	_	_	_	_	_	_	_	_
 2	dai	_	_	_	_	_	_	_	_
 3	taː	_	_	_	_	_	_	_	_
-4	bayar	_	_	_	_	_	_	_	_
+4	bayar̃	_	_	_	_	_	_	_	wordform=bayar
 5	dà	_	_	_	_	_	_	_	_
 6	dàlilin	_	_	_	_	_	_	_	_
 7	mutuwarsû	_	_	_	_	_	_	_	_
 8	dà	_	_	_	_	_	_	_	_
-9	cêwaː	_	_	_	_	_	_	_	_
+9	cêːwaː	_	_	_	_	_	_	_	wordform=cêwaː
 10	ta	_	_	_	_	_	_	_	_
 11	Allàh	_	_	_	_	_	_	_	_
 12	dà	_	_	_	_	_	_	_	_
@@ -592,7 +592,7 @@
 24	tun	_	_	_	_	_	_	_	_
 25	bà	_	_	_	_	_	_	_	_
 26	maː	_	_	_	_	_	_	_	_
-27	kaːrmar	_	_	_	_	_	_	_	_
+27	kaːrmar̃	_	_	_	_	_	_	_	wordform=kaːrmar
 28	cïwòn	_	_	_	_	_	_	_	_
 29	fuːkaː	_	_	_	_	_	_	_	_
 30	ba	_	_	_	_	_	_	_	SpaceAfter=No
@@ -604,7 +604,7 @@
 2	ta	_	_	_	_	_	_	_	_
 3	kaːrà	_	_	_	_	_	_	_	_
 4	ɗà	_	_	_	_	_	_	_	_
-5	cêwaː	_	_	_	_	_	_	_	_
+5	cêːwaː	_	_	_	_	_	_	_	wordform=cêwaː
 6	tanàː	_	_	_	_	_	_	_	_
 7	shakkar̃	_	_	_	_	_	_	_	_
 8	ikir̃aːrin	_	_	_	_	_	_	_	_
@@ -649,7 +649,7 @@
 11	haifar̃	_	_	_	_	_	_	_	_
 12	dà	_	_	_	_	_	_	_	_
 13	shằgidaddun	_	_	_	_	_	_	_	_
-14	mutâne	_	_	_	_	_	_	_	SpaceAfter=No
+14	mutàːneː	_	_	_	_	_	_	_	SpaceAfter=No|wordform=mutâne
 15	,	_	_	_	_	_	_	_	_
 16	kuma	_	_	_	_	_	_	_	_
 17	bà	_	_	_	_	_	_	_	_

@@ -1,13 +1,13 @@
 # sent_id = 14_Miyagun_kwayoyi__1
-# text = Matsalar̃ miyagun kwaːyoːyiː à Najeriya
+# text = Matsalar̃ miyagun kwaːyoːyiː à Nàːjeːr̃iyàː
 1	Matsalar̃	_	_	_	_	_	_	_	_
 2	miyagun	_	_	_	_	_	_	_	_
 3	kwaːyoːyiː	_	_	_	_	_	_	_	_
 4	à	_	_	_	_	_	_	_	_
-5	Najeriya	_	_	_	_	_	_	_	_
+5	Nàːjeːr̃iyàː	_	_	_	_	_	_	_	_
 
 # sent_id = 14_Miyagun_kwayoyi__2
-# text = Huːkuːmàr̃ Yaːki dà Fataucin Miyagun Kwayoːyiː ta Najěr̃iyal taː cê taː r̃agar̃gàzà wata kungiyar masu fataucin miyagun kwaːyoːyiː baːyan taː car̃kè wasu gâggan shugàbànnin kungiyâr gùdaː huɗu, kuma taː kwaːcè kilô gùdaː na hoːdàr̃ kồkên wadda akà yi niyyàr̃ fasa-kwàurintà? zuwa Amir̃kà.
+# text = Huːkuːmàr̃ Yaːki dà Fataucin Miyagun Kwayoːyiː ta Nàːjeːr̃iyàː taː cê taː r̃agar̃gàzà wata kungiyar̃ masu fataucin miyagun kwaːyoːyiː baːyan taː car̃kè wasu gâggan shugàbànnin kungiyâr gùdaː huɗu, kuma taː kwaːcè kilô gùdaː na hoːdàr̃ kồkên wadda akà yi niyyàr̃ fasa-kwàurintà? zuwa Amir̃kà.
 1	Huːkuːmàr̃	_	_	_	_	_	_	_	_
 2	Yaːki	_	_	_	_	_	_	_	_
 3	dà	_	_	_	_	_	_	_	_
@@ -15,13 +15,13 @@
 5	Miyagun	_	_	_	_	_	_	_	_
 6	Kwayoːyiː	_	_	_	_	_	_	_	_
 7	ta	_	_	_	_	_	_	_	_
-8	Najěr̃iyal	_	_	_	_	_	_	_	_
+8	Nàːjeːr̃iyàː	_	_	_	_	_	_	_	_
 9	taː	_	_	_	_	_	_	_	_
 10	cê	_	_	_	_	_	_	_	_
 11	taː	_	_	_	_	_	_	_	_
 12	r̃agar̃gàzà	_	_	_	_	_	_	_	_
 13	wata	_	_	_	_	_	_	_	_
-14	kungiyar	_	_	_	_	_	_	_	_
+14	kungiyar̃	_	_	_	_	_	_	_	wordform=kungiyar
 15	masu	_	_	_	_	_	_	_	_
 16	fataucin	_	_	_	_	_	_	_	_
 17	miyagun	_	_	_	_	_	_	_	_
@@ -55,12 +55,12 @@
 45	.	_	_	_	_	_	_	_	_
 
 # sent_id = 14_Miyagun_kwayoyi__3
-# text = À 'yan shekàrun nàn Najeːriːyà ta zama wata bàbbar̃ hanyar̃ fasà-kwaurin miyagun kwayoːyiː dàgà kasashen yankın Gabàs mài Niːsaː³ zuwa kasashen Tuːr̃ai dà Amir̃kà.
+# text = À 'yan shekàrun nàn Nàːjeːr̃iyàː ta zama wata bàbbar̃ hanyar̃ fasà-kwaurin miyagun kwayoːyiː dàgà kasashen yankın Gabàs mài Niːsaː³ zuwa kasashen Tuːr̃ai dà Amir̃kà.
 1	À	_	_	_	_	_	_	_	_
 2	'yan	_	_	_	_	_	_	_	_
 3	shekàrun	_	_	_	_	_	_	_	_
 4	nàn	_	_	_	_	_	_	_	_
-5	Najeːriːyà	_	_	_	_	_	_	_	_
+5	Nàːjeːr̃iyàː	_	_	_	_	_	_	_	_
 6	ta	_	_	_	_	_	_	_	_
 7	zama	_	_	_	_	_	_	_	_
 8	wata	_	_	_	_	_	_	_	_
@@ -83,7 +83,7 @@
 25	.	_	_	_	_	_	_	_	_
 
 # sent_id = 14_Miyagun_kwayoyi__4
-# text = Hanà fàsà-kwàurin miyagun kwaːyoːyiː dai wata bàbbar̃ màtsalà ceː dà ta àddabi ƙasar̃̃ Nàjeriya, kuma an cê kasâr̃ ceː ta ukù à duːniya wadda akà fi kaːmà 'yan ƙasar̃̃tà sabồdà laifuffukan fasà-kwàurin miyagun kwaːyoːyiː.
+# text = Hanà fàsà-kwàurin miyagun kwaːyoːyiː dai wata bàbbar̃ màtsalà ceː dà ta àddabi ƙasar̃Nàːjeːr̃iyàː, kuma an cê kasâr̃ ceː ta ukù à duːniya wadda akà fi kaːmà 'yan ƙasar̃tà sabồdà laifuffukan fasà-kwàurin miyagun kwaːyoːyiː.
 1	Hanà	_	_	_	_	_	_	_	_
 2	fàsà-kwàurin	_	_	_	_	_	_	_	_
 3	miyagun	_	_	_	_	_	_	_	_
@@ -97,42 +97,40 @@
 11	ta	_	_	_	_	_	_	_	_
 12	àddabi	_	_	_	_	_	_	_	_
 13	ƙasar̃	_	_	_	_	_	_	_	SpaceAfter=No
-14	̃	_	_	_	_	_	_	_	_
-15	Nàjeriya	_	_	_	_	_	_	_	SpaceAfter=No
-16	,	_	_	_	_	_	_	_	_
-17	kuma	_	_	_	_	_	_	_	_
-18	an	_	_	_	_	_	_	_	_
-19	cê	_	_	_	_	_	_	_	_
-20	kasâr̃	_	_	_	_	_	_	_	_
-21	ceː	_	_	_	_	_	_	_	_
-22	ta	_	_	_	_	_	_	_	_
-23	ukù	_	_	_	_	_	_	_	_
-24	à	_	_	_	_	_	_	_	_
-25	duːniya	_	_	_	_	_	_	_	_
-26	wadda	_	_	_	_	_	_	_	_
-27	akà	_	_	_	_	_	_	_	_
-28	fi	_	_	_	_	_	_	_	_
-29	kaːmà	_	_	_	_	_	_	_	_
-30	'yan	_	_	_	_	_	_	_	_
-31	ƙasar̃	_	_	_	_	_	_	_	SpaceAfter=No
-32	̃	_	_	_	_	_	_	_	_
-33	tà	_	_	_	_	_	_	_	_
-34	sabồdà	_	_	_	_	_	_	_	_
-35	laifuffukan	_	_	_	_	_	_	_	_
-36	fasà-kwàurin	_	_	_	_	_	_	_	_
-37	miyagun	_	_	_	_	_	_	_	_
-38	kwaːyoːyiː	_	_	_	_	_	_	_	SpaceAfter=No
-39	.	_	_	_	_	_	_	_	_
+14	Nàːjeːr̃iyàː	_	_	_	_	_	_	_	SpaceAfter=No
+15	,	_	_	_	_	_	_	_	_
+16	kuma	_	_	_	_	_	_	_	_
+17	an	_	_	_	_	_	_	_	_
+18	cê	_	_	_	_	_	_	_	_
+19	kasâr̃	_	_	_	_	_	_	_	_
+20	ceː	_	_	_	_	_	_	_	_
+21	ta	_	_	_	_	_	_	_	_
+22	ukù	_	_	_	_	_	_	_	_
+23	à	_	_	_	_	_	_	_	_
+24	duːniya	_	_	_	_	_	_	_	_
+25	wadda	_	_	_	_	_	_	_	_
+26	akà	_	_	_	_	_	_	_	_
+27	fi	_	_	_	_	_	_	_	_
+28	kaːmà	_	_	_	_	_	_	_	_
+29	'yan	_	_	_	_	_	_	_	_
+30	ƙasar̃	_	_	_	_	_	_	_	SpaceAfter=No
+31	tà	_	_	_	_	_	_	_	_
+32	sabồdà	_	_	_	_	_	_	_	_
+33	laifuffukan	_	_	_	_	_	_	_	_
+34	fasà-kwàurin	_	_	_	_	_	_	_	_
+35	miyagun	_	_	_	_	_	_	_	_
+36	kwaːyoːyiː	_	_	_	_	_	_	_	SpaceAfter=No
+37	.	_	_	_	_	_	_	_	_
 
 # sent_id = 14_Miyagun_kwayoyi__5
-# text = Huːkuːmàr à yàu taː cê ita kungiyar 'yan sùmoːgà dìn dà ta kaːma, anaː jîn cêːwaː tana da kwakkwaːran tuːshè à Najeːr̃iyà, dà Bìr̃taːniyà, dà kuma Amir̃kà.
+# text = Huːkuːmàr à yàu taː cê ita kungiyar̃ 'yan sùmoːgà dìn dà ta kaːma, anaː jîn cêːwaː tana da kwakkwaːran tuːshè à Nàːjeːr̃iyàː, dà Bìr̃taːniyà, dà kuma Amir̃kà.
 1	Huːkuːmàr	_	_	_	_	_	_	_	_
 2	à	_	_	_	_	_	_	_	_
 3	yàu	_	_	_	_	_	_	_	_
 4	taː	_	_	_	_	_	_	_	_
 5	cê	_	_	_	_	_	_	_	_
 6	ita	_	_	_	_	_	_	_	_
-7	kungiyar	_	_	_	_	_	_	_	_
+7	kungiyar̃	_	_	_	_	_	_	_	wordform=kungiyar
 8	'yan	_	_	_	_	_	_	_	_
 9	sùmoːgà	_	_	_	_	_	_	_	_
 10	dìn	_	_	_	_	_	_	_	_
@@ -148,7 +146,7 @@
 20	kwakkwaːran	_	_	_	_	_	_	_	_
 21	tuːshè	_	_	_	_	_	_	_	_
 22	à	_	_	_	_	_	_	_	_
-23	Najeːr̃iyà	_	_	_	_	_	_	_	SpaceAfter=No
+23	Nàːjeːr̃iyàː	_	_	_	_	_	_	_	SpaceAfter=No
 24	,	_	_	_	_	_	_	_	_
 25	dà	_	_	_	_	_	_	_	_
 26	Bìr̃taːniyà	_	_	_	_	_	_	_	SpaceAfter=No
@@ -186,7 +184,7 @@
 24	bayyànà	_	_	_	_	_	_	_	_
 25	kânsà	_	_	_	_	_	_	_	_
 26	dà	_	_	_	_	_	_	_	_
-27	cêwaː	_	_	_	_	_	_	_	_
+27	cêːwaː	_	_	_	_	_	_	_	wordform=cêwaː
 28	shiː	_	_	_	_	_	_	_	_
 29	bàbban	_	_	_	_	_	_	_	_
 30	dan	_	_	_	_	_	_	_	_
@@ -200,7 +198,7 @@
 2	taː	_	_	_	_	_	_	_	_
 3	kuma	_	_	_	_	_	_	_	_
 4	ceː	_	_	_	_	_	_	_	_
-5	and	_	_	_	_	_	_	_	_
+5	anàː	_	_	_	_	_	_	_	wordform=and
 6	koːkarin	_	_	_	_	_	_	_	_
 7	neːman	_	_	_	_	_	_	_	_
 8	wani	_	_	_	_	_	_	_	_
@@ -214,14 +212,14 @@
 16	jin	_	_	_	_	_	_	_	_
 17	15	_	_	_	_	_	_	_	_
 18	cêːwaː	_	_	_	_	_	_	_	_
-19	yanaː	_	_	_	_	_	_	_	_
+19	yanàː	_	_	_	_	_	_	_	wordform=yanaː
 20	Amir̃ka	_	_	_	_	_	_	_	_
 21	yanzu	_	_	_	_	_	_	_	SpaceAfter=No
 22	.	_	_	_	_	_	_	_	_
 
 # sent_id = 14_Miyagun_kwayoyi__8
 # text = Kàmar̃ yaddà Huːkuːmár ta cèː, an sàːmu nasarar kaːmà mutàːnên neː sabòːdà binciken aːsiriː dà akà yi ta yi baː jì baː gani, wandal har̃ ya yi saːnadiyyar koːkarin dà ma aːikaːtan Huːkuːmaːr̃ sukà yi à fiːliːn jirgin saman Ikko.
-1	Kàmar	_	_	_	_	_	_	_	SpaceAfter=No
+1	Kàmar̃	_	_	_	_	_	_	_	SpaceAfter=No|wordform=Kàmar
 2	̃	_	_	_	_	_	_	_	_
 3	yaddà	_	_	_	_	_	_	_	_
 4	Huːkuːmár	_	_	_	_	_	_	_	_
@@ -230,7 +228,7 @@
 7	,	_	_	_	_	_	_	_	_
 8	an	_	_	_	_	_	_	_	_
 9	sàːmu	_	_	_	_	_	_	_	_
-10	nasarar	_	_	_	_	_	_	_	_
+10	nasarar̃	_	_	_	_	_	_	_	wordform=nasarar
 11	kaːmà	_	_	_	_	_	_	_	_
 12	mutàːnên	_	_	_	_	_	_	_	_
 13	neː	_	_	_	_	_	_	_	_
@@ -251,7 +249,7 @@
 28	har̃	_	_	_	_	_	_	_	_
 29	ya	_	_	_	_	_	_	_	_
 30	yi	_	_	_	_	_	_	_	_
-31	saːnadiyyar	_	_	_	_	_	_	_	_
+31	saːnadiyyar̃	_	_	_	_	_	_	_	wordform=saːnadiyyar
 32	koːkarin	_	_	_	_	_	_	_	_
 33	dà	_	_	_	_	_	_	_	_
 34	ma	_	_	_	_	_	_	_	_
@@ -263,7 +261,7 @@
 40	fiːliːn	_	_	_	_	_	_	_	_
 41	jirgin	_	_	_	_	_	_	_	_
 42	saman	_	_	_	_	_	_	_	_
-43	Ikko	_	_	_	_	_	_	_	SpaceAfter=No
+43	Ìkko	_	_	_	_	_	_	_	SpaceAfter=No|wordform=Ikko
 44	.	_	_	_	_	_	_	_	_
 
 # sent_id = 14_Miyagun_kwayoyi__9
@@ -284,7 +282,7 @@
 14	wannaːn	_	_	_	_	_	_	_	_
 15	kungiya	_	_	_	_	_	_	_	SpaceAfter=No
 16	,	_	_	_	_	_	_	_	_
-17	Huːkuːmar	_	_	_	_	_	_	_	_
+17	Huːkuːmar̃	_	_	_	_	_	_	_	wordform=Huːkuːmar
 18	taː	_	_	_	_	_	_	_	_
 19	kuma	_	_	_	_	_	_	_	_
 20	tsareː	_	_	_	_	_	_	_	_
@@ -372,7 +370,7 @@
 25	,	_	_	_	_	_	_	_	_
 
 # sent_id = 14_Miyagun_kwayoyi__12
-# text = Sai dai àmmaː wani loːkacin, ita foːbár̃ tanàː tsaːgewaː à cikin cikin wadandal ke dauke da kwaːyoːyin, wanda kuma hakan yana jaːwo muːguːwar mutawa, A wannan karòn shìː mútumìn dà akà kaːmàː yaː hadiyê koːkeːn neː tre dà yên âmlâni ɗà miyar̃ kußèwa, waccè ya yi àmfàːniː dà ita dômin saːmoːn saukin hadiyewar, waddal kuma dà maː and cinta soːsai à Naːjaːnyaː.
+# text = Sai dai àmmaː wani loːkacin, ita foːbár̃ tanàː tsaːgewaː à cikin cikin waɗàndà ke dauke da kwaːyoːyin, wanda kuma hakan yanàː jaːwo muːguːwar̃ mutawa, À wannan karòn shìː mútumìn dà akà kaːmàː yaː hadiyê koːkeːn neː tre dà yên âmlâni ɗà miyar̃ kußèwa, waccè ya yi àmfàːniː dà ita dômin saːmoːn saukin hadiyewar̃, waddal kuma dà maː anàː cinta soːsai à Nàːjeːr̃iyàː.
 1	Sai	_	_	_	_	_	_	_	_
 2	dai	_	_	_	_	_	_	_	_
 3	àmmaː	_	_	_	_	_	_	_	_
@@ -386,7 +384,7 @@
 11	à	_	_	_	_	_	_	_	_
 12	cikin	_	_	_	_	_	_	_	_
 13	cikin	_	_	_	_	_	_	_	_
-14	wadandal	_	_	_	_	_	_	_	_
+14	waɗàndà	_	_	_	_	_	_	_	wordform=wadandal
 15	ke	_	_	_	_	_	_	_	_
 16	dauke	_	_	_	_	_	_	_	_
 17	da	_	_	_	_	_	_	_	_
@@ -395,12 +393,12 @@
 20	wanda	_	_	_	_	_	_	_	_
 21	kuma	_	_	_	_	_	_	_	_
 22	hakan	_	_	_	_	_	_	_	_
-23	yana	_	_	_	_	_	_	_	_
+23	yanàː	_	_	_	_	_	_	_	wordform=yana
 24	jaːwo	_	_	_	_	_	_	_	_
-25	muːguːwar	_	_	_	_	_	_	_	_
+25	muːguːwar̃	_	_	_	_	_	_	_	wordform=muːguːwar
 26	mutawa	_	_	_	_	_	_	_	SpaceAfter=No
 27	,	_	_	_	_	_	_	_	_
-28	A	_	_	_	_	_	_	_	_
+28	À	_	_	_	_	_	_	_	wordform=A
 29	wannan	_	_	_	_	_	_	_	_
 30	karòn	_	_	_	_	_	_	_	_
 31	shìː	_	_	_	_	_	_	_	_
@@ -429,17 +427,17 @@
 54	dômin	_	_	_	_	_	_	_	_
 55	saːmoːn	_	_	_	_	_	_	_	_
 56	saukin	_	_	_	_	_	_	_	_
-57	hadiyewar	_	_	_	_	_	_	_	SpaceAfter=No
+57	hadiyewar̃	_	_	_	_	_	_	_	SpaceAfter=No|wordform=hadiyewar
 58	,	_	_	_	_	_	_	_	_
 59	waddal	_	_	_	_	_	_	_	_
 60	kuma	_	_	_	_	_	_	_	_
 61	dà	_	_	_	_	_	_	_	_
 62	maː	_	_	_	_	_	_	_	_
-63	and	_	_	_	_	_	_	_	_
+63	anàː	_	_	_	_	_	_	_	wordform=and
 64	cinta	_	_	_	_	_	_	_	_
 65	soːsai	_	_	_	_	_	_	_	_
 66	à	_	_	_	_	_	_	_	_
-67	Naːjaːnyaː	_	_	_	_	_	_	_	SpaceAfter=No
+67	Nàːjeːr̃iyàː	_	_	_	_	_	_	_	SpaceAfter=No
 68	.	_	_	_	_	_	_	_	_
 
 # sent_id = 14_Miyagun_kwayoyi__13
@@ -464,7 +462,7 @@
 18	fataucin	_	_	_	_	_	_	_	_
 19	miylgun	_	_	_	_	_	_	_	_
 20	kwaːyby	_	_	_	_	_	_	_	_
-21	wadandal	_	_	_	_	_	_	_	_
+21	waɗàndà	_	_	_	_	_	_	_	wordform=wadandal
 22	aka	_	_	_	_	_	_	_	_
 23	tar̃waːtsaː	_	_	_	_	_	_	_	_
 24	har̃	_	_	_	_	_	_	_	_
@@ -494,7 +492,7 @@
 7	nasar̃ir̃	_	_	_	_	_	_	_	_
 8	kaːmà	_	_	_	_	_	_	_	_
 9	maːsu	_	_	_	_	_	_	_	_
-10	daukar	_	_	_	_	_	_	_	_
+10	daukar̃	_	_	_	_	_	_	_	wordform=daukar
 11	miyagun	_	_	_	_	_	_	_	_
 12	kwaːyoːyiː	_	_	_	_	_	_	_	SpaceAfter=No
 13	,	_	_	_	_	_	_	_	_
@@ -536,7 +534,7 @@
 13	tsùndum	_	_	_	_	_	_	_	_
 14	à	_	_	_	_	_	_	_	_
 15	cikin	_	_	_	_	_	_	_	_
-16	maganar	_	_	_	_	_	_	_	_
+16	maganar̃	_	_	_	_	_	_	_	wordform=maganar
 17	shar̃i'aːr	_	_	_	_	_	_	_	_
 18	wata	_	_	_	_	_	_	_	_
 19	maːraː	_	_	_	_	_	_	_	_
@@ -565,7 +563,7 @@
 42	neː	_	_	_	_	_	_	_	_
 43	da	_	_	_	_	_	_	_	_
 44	laːifin	_	_	_	_	_	_	_	_
-45	kaːrbar	_	_	_	_	_	_	_	_
+45	kaːrbar̃	_	_	_	_	_	_	_	wordform=kaːrbar
 46	hanet	_	_	_	_	_	_	_	_
 47	na	_	_	_	_	_	_	_	_
 48	kusan	_	_	_	_	_	_	_	_
@@ -619,7 +617,7 @@
 9	,	_	_	_	_	_	_	_	_
 10	yanà	_	_	_	_	_	_	_	_
 11	mài	_	_	_	_	_	_	_	_
-12	cêwaː	_	_	_	_	_	_	_	_
+12	cêːwaː	_	_	_	_	_	_	_	wordform=cêwaː
 13	mânyan	_	_	_	_	_	_	_	_
 14	masu	_	_	_	_	_	_	_	_
 15	fataucin	_	_	_	_	_	_	_	_
@@ -717,7 +715,7 @@
 8	faːraː	_	_	_	_	_	_	_	_
 9	dà	_	_	_	_	_	_	_	_
 10	cêwar̃	_	_	_	_	_	_	_	_
-11	kàmar	_	_	_	_	_	_	_	_
+11	kàmar̃	_	_	_	_	_	_	_	wordform=kàmar
 12	hakà	_	_	_	_	_	_	_	SpaceAfter=No
 13	:	_	_	_	_	_	_	_	_
 14	'Jenny	_	_	_	_	_	_	_	SpaceAfter=No
