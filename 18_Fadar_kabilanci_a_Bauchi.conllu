@@ -86,7 +86,7 @@
 12	lamarín	_	_	_	_	_	_	_	SpaceAfter=No
 13	,	_	_	_	_	_	_	_	_
 14	har̃	_	_	_	_	_	_	_	_
-15	yanzu	_	_	_	_	_	_	_	_
+15	yànzu	_	_	_	_	_	_	_	wordform=yanzu
 16	akwai	_	_	_	_	_	_	_	_
 17	àlamun	_	_	_	_	_	_	_	_
 18	rashin	_	_	_	_	_	_	_	_
@@ -107,7 +107,7 @@
 33	asibitin	_	_	_	_	_	_	_	_
 34	gàːrîn	_	_	_	_	_	_	_	SpaceAfter=No
 35	,	_	_	_	_	_	_	_	_
-36	loːkacin	_	_	_	_	_	_	_	_
+36	loːkàcîn	_	_	_	_	_	_	_	wordform=loːkacin
 37	dà	_	_	_	_	_	_	_	_
 38	'yan	_	_	_	_	_	_	_	_
 39	sàːndaː	_	_	_	_	_	_	_	_
@@ -115,7 +115,7 @@
 41	rikà	_	_	_	_	_	_	_	_
 42	har̃bi	_	_	_	_	_	_	_	_
 43	à	_	_	_	_	_	_	_	_
-44	hàfaːbaːr	_	_	_	_	_	_	_	_
+44	hàfaːbaːr̃	_	_	_	_	_	_	_	wordform=hàfaːbaːr
 45	asibitin	_	_	_	_	_	_	_	SpaceAfter=No
 46	.	_	_	_	_	_	_	_	_
 
@@ -197,7 +197,7 @@
 17	àddiːnìː	_	_	_	_	_	_	_	_
 18	à	_	_	_	_	_	_	_	_
 19	Nàːjeːr̃iyàː	_	_	_	_	_	_	_	_
-20	wanda	_	_	_	_	_	_	_	_
+20	wandà	_	_	_	_	_	_	_	wordform=wanda
 21	ya	_	_	_	_	_	_	_	_
 22	saːmoː	_	_	_	_	_	_	_	_
 23	asalf	_	_	_	_	_	_	_	_
@@ -293,7 +293,7 @@
 20	gà	_	_	_	_	_	_	_	_
 21	bàbban	_	_	_	_	_	_	_	_
 22	bir̃nin	_	_	_	_	_	_	_	_
-23	jihaːr	_	_	_	_	_	_	_	SpaceAfter=No
+23	jihaːr̃	_	_	_	_	_	_	_	SpaceAfter=No|wordform=jihaːr
 24	,	_	_	_	_	_	_	_	_
 25	wandal	_	_	_	_	_	_	_	_
 26	ɗàgà	_	_	_	_	_	_	_	_
@@ -448,7 +448,7 @@
 9	kudancin	_	_	_	_	_	_	_	_
 10	Nàːjeːr̃iyàː	_	_	_	_	_	_	_	SpaceAfter=No
 11	,	_	_	_	_	_	_	_	_
-12	wadanda	_	_	_	_	_	_	_	_
+12	waɗàndà	_	_	_	_	_	_	_	wordform=wadanda
 13	aƙasar̃	_	_	_	_	_	_	_	SpaceAfter=No
 14	insù	_	_	_	_	_	_	_	_
 15	mabiyaː	_	_	_	_	_	_	_	_
@@ -462,7 +462,7 @@
 23	arewacin	_	_	_	_	_	_	_	_
 24	ƙasar̃	_	_	_	_	_	_	_	SpaceAfter=No
 25	,	_	_	_	_	_	_	_	_
-26	wadanda	_	_	_	_	_	_	_	_
+26	waɗàndà	_	_	_	_	_	_	_	wordform=wadanda
 27	mafìː	_	_	_	_	_	_	_	_
 28	yawànsù	_	_	_	_	_	_	_	_
 29	Mùsùlmi	_	_	_	_	_	_	_	_
@@ -476,14 +476,14 @@
 37	.	_	_	_	_	_	_	_	_
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__15
-# text = Wasu maː har̃ sukàn jingìnà ruːshewar̃ Jàmhuːr̃iyà ta Farkoː à shèːkaràr̃ alìf dà dàriː tarà dà sìttin dà shidà, dà kuma Jamhuːr̃iya ta Biyu à shèːkaràr̃ alìf dà ɗàriː tara dà tàmằnin dà ukù bìsa rashin jituwar̃ àddiːni.
+# text = Wasu maː har̃ sukàn jingìnà ruːshewar̃ Jàmhuːr̃iyàː ta Farkoː à shèːkaràr̃ alìf dà dàriː tarà dà sìttin dà shidà, dà kuma Jàmhuːr̃iyàr̃ ta Biyu à shèːkaràr̃ alìf dà ɗàriː tara dà tàmằnin dà ukù bìsa rashin jituwar̃ àddiːni.
 1	Wasu	_	_	_	_	_	_	_	_
 2	maː	_	_	_	_	_	_	_	_
 3	har̃	_	_	_	_	_	_	_	_
 4	sukàn	_	_	_	_	_	_	_	_
 5	jingìnà	_	_	_	_	_	_	_	_
 6	ruːshewar̃	_	_	_	_	_	_	_	_
-7	Jàmhuːr̃iyà	_	_	_	_	_	_	_	_
+7	Jàmhuːr̃iyàː	_	_	_	_	_	_	_	_
 8	ta	_	_	_	_	_	_	_	_
 9	Farkoː	_	_	_	_	_	_	_	_
 10	à	_	_	_	_	_	_	_	_
@@ -499,7 +499,7 @@
 20	,	_	_	_	_	_	_	_	_
 21	dà	_	_	_	_	_	_	_	_
 22	kuma	_	_	_	_	_	_	_	_
-23	Jamhuːr̃iya	_	_	_	_	_	_	_	_
+23	Jàmhuːr̃iyàr̃	_	_	_	_	_	_	_	_
 24	ta	_	_	_	_	_	_	_	_
 25	Biyu	_	_	_	_	_	_	_	_
 26	à	_	_	_	_	_	_	_	_
@@ -627,7 +627,7 @@
 23	àddiːnin	_	_	_	_	_	_	_	_
 24	Kir̃istaː	_	_	_	_	_	_	_	SpaceAfter=No
 25	,	_	_	_	_	_	_	_	_
-26	dan	_	_	_	_	_	_	_	_
+26	ɗan	_	_	_	_	_	_	_	wordform=dan
 27	ƙasar̃	_	_	_	_	_	_	_	SpaceAfter=No
 28	Jaːmùs	_	_	_	_	_	_	_	_
 29	mài	_	_	_	_	_	_	_	_

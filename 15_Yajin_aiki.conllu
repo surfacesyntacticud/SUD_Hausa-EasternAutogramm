@@ -1,26 +1,26 @@
 # sent_id = 15_Yajin_aiki__1
-# text = An yi yaːjìn aiki à Jamhuːr̃iyar̃ Nijaːr̃ don neːman dimuːkuːfadiyya
+# text = An yi yaːjìn aikìː à Jàmhuːr̃iyàr̃ Nìːjâr̃ don neːman dìmùkùr̃àːdiyyàː
 1	An	_	_	_	_	_	_	_	_
 2	yi	_	_	_	_	_	_	_	_
 3	yaːjìn	_	_	_	_	_	_	_	_
-4	aiki	_	_	_	_	_	_	_	_
+4	aikìː	_	_	_	_	_	_	_	wordform=aiki
 5	à	_	_	_	_	_	_	_	_
-6	Jamhuːr̃iyar̃	_	_	_	_	_	_	_	wordform=Jamhuːr̃iyar
-7	Nijaːr̃	_	_	_	_	_	_	_	_
+6	Jàmhuːr̃iyàr̃	_	_	_	_	_	_	_	wordform=Jamhuːr̃iyar
+7	Nìːjâr̃	_	_	_	_	_	_	_	_
 8	don	_	_	_	_	_	_	_	_
 9	neːman	_	_	_	_	_	_	_	_
-10	dimuːkuːfadiyya	_	_	_	_	_	_	_	_
+10	dìmùkùr̃àːdiyyàː	_	_	_	_	_	_	_	_
 
 # sent_id = 15_Yajin_aiki__2
-# text = Wasu rahotanniː dàgà bábban bir̃nin ƙasar̃̃ Jaːmhuːr̃iyar̃ Nijár̃ sun nuːnà saːmuːn goːyon baːyaː dàgà sâssaː dà dâmaː gà kiran yin yaːjın aiki.
+# text = Wasu rahotanniː dàgà bábban bir̃nin ƙasar̃Jàmhuːr̃iyàr̃ Nìːjâr̃ sun nuːnà saːmuːn goːyon baːyaː dàgà sâssaː dà dâmaː gà kiran yin yaːjın aikìː.
 1	Wasu	_	_	_	_	_	_	_	_
 2	rahotanniː	_	_	_	_	_	_	_	_
 3	dàgà	_	_	_	_	_	_	_	_
 4	bábban	_	_	_	_	_	_	_	_
 5	bir̃nin	_	_	_	_	_	_	_	_
 6	ƙasar̃	_	_	_	_	_	_	_	SpaceAfter=No
-7	Jaːmhuːr̃iyar̃	_	_	_	_	_	_	_	_
-8	Nijár̃	_	_	_	_	_	_	_	_
+7	Jàmhuːr̃iyàr̃	_	_	_	_	_	_	_	_
+8	Nìːjâr̃	_	_	_	_	_	_	_	_
 9	sun	_	_	_	_	_	_	_	_
 10	nuːnà	_	_	_	_	_	_	_	_
 11	saːmuːn	_	_	_	_	_	_	_	_
@@ -34,7 +34,7 @@
 19	kiran	_	_	_	_	_	_	_	_
 20	yin	_	_	_	_	_	_	_	_
 21	yaːjın	_	_	_	_	_	_	_	_
-22	aiki	_	_	_	_	_	_	_	SpaceAfter=No
+22	aikìː	_	_	_	_	_	_	_	SpaceAfter=No|wordform=aiki
 23	.	_	_	_	_	_	_	_	_
 
 # sent_id = 15_Yajin_aiki__3
@@ -123,7 +123,7 @@
 28	.	_	_	_	_	_	_	_	_
 
 # sent_id = 15_Yajin_aiki__6
-# text = Ita kùwa Hadaddiyar̃ Kungiyar̃ " Yan Koːdagoːn tanàː dàgà kân gàban kàmfên ɗiːn neːman à kar̃a tar̃arkın siyaːsàː mài jàm lyyuː dà dâmaː à ƙasar̃, kuma taː yi aːmfàniː dà daːmar̃ raːnar̃ bikin 'yan koːdagoː ta shèːkaràr̃ nân wajen yin kiran à kaːwoː kaːrshen mulkin jam'iyyar̃ siyaːsàː kwâyaː daya tal à Jamhuːriyar̃ Nijâr.
+# text = Ita kùwa Hadaddiyar̃ Kungiyar̃ " Yan Koːdagoːn tanàː dàgà kân gàban kàmfên ɗiːn neːman à kar̃a tar̃arkın siyaːsàː mài jàm lyyuː dà dâmaː à ƙasar̃, kuma taː yi aːmfàniː dà daːmar̃ raːnar̃ bikin 'yan koːdagoː ta shèːkaràr̃ nân wajen yin kiran à kaːwoː kaːrshen mulkin jam'iyyar̃ siyaːsàː kwâyaː daya tal à Jàmhuːr̃iyàr̃ Nìːjâr̃.
 1	Ita	_	_	_	_	_	_	_	_
 2	kùwa	_	_	_	_	_	_	_	wordform=kuwa
 3	Hadaddiyar̃	_	_	_	_	_	_	_	wordform=Hadaddiyar
@@ -176,8 +176,8 @@
 50	daya	_	_	_	_	_	_	_	_
 51	tal	_	_	_	_	_	_	_	_
 52	à	_	_	_	_	_	_	_	_
-53	Jamhuːriyar̃	_	_	_	_	_	_	_	wordform=Jamhuːriyar
-54	Nijâr̃	_	_	_	_	_	_	_	SpaceAfter=No|wordform=Nijâr
+53	Jàmhuːr̃iyàr̃	_	_	_	_	_	_	_	wordform=Jamhuːriyar
+54	Nìːjâr̃	_	_	_	_	_	_	_	SpaceAfter=No|wordform=Nijâr
 55	.	_	_	_	_	_	_	_	_
 
 # sent_id = 15_Yajin_aiki__7
@@ -320,7 +320,7 @@
 41	.	_	_	_	_	_	_	_	_
 
 # sent_id = 15_Yajin_aiki__11
-# text = Wannan yaːjın aikin dai yaː biyoː bayan sanar̃ wật dà gwamnatin kasaːr̃ ta bayar neː à watàn jiya, cêːwaː tanàː shirin sauyà tsaːrin mulkin Jàmhuːr̃iyar Nijɗt din don à samu daːmar̃ kar̃a tsaːrt mài jamlyyű dà daːmaː.
+# text = Wannan yaːjın aikin dai yaː biyoː bayan sanar̃ wật dà gwamnatìn kasaːr̃ ta bayar̃ neː à watàn jiya, cêːwaː tanàː shirin sauyà tsaːrin mulkin Jàmhuːr̃iyar̃ Nìːjâr̃ ɗîn don à samu daːmar̃ kar̃a tsaːrt mài jamlyyű dà daːmaː.
 1	Wannan	_	_	_	_	_	_	_	_
 2	yaːjın	_	_	_	_	_	_	_	_
 3	aikin	_	_	_	_	_	_	_	_
@@ -347,7 +347,7 @@
 24	tsaːrin	_	_	_	_	_	_	_	_
 25	mulkin	_	_	_	_	_	_	_	_
 26	Jàmhuːr̃iyar̃	_	_	_	_	_	_	_	wordform=Jàmhuːr̃iyar
-27	Nijɗt	_	_	_	_	_	_	_	_
+27	Nìːjâr̃	_	_	_	_	_	_	_	_
 28	ɗîn	_	_	_	_	_	_	_	wordform=din
 29	don	_	_	_	_	_	_	_	_
 30	à	_	_	_	_	_	_	_	_
@@ -420,13 +420,13 @@
 19	.	_	_	_	_	_	_	_	_
 
 # sent_id = 15_Yajin_aiki__14
-# text = Dà dâmaː dai 'yan ƙasar̃̃ Nijaːr̃ sunaː jin gwamnatinsù baː tàː kaddamar̃ dà sauye-saːuyên dà saurín dà ya kàmaːtaː.
+# text = Dà dâmaː dai 'yan ƙasar̃Nìːjâr̃ sunàː jin gwamnatinsù baː tàː kaddamar̃ dà sauye-saːuyên dà saurín dà ya kàmaːtaː.
 1	Dà	_	_	_	_	_	_	_	_
 2	dâmaː	_	_	_	_	_	_	_	_
 3	dai	_	_	_	_	_	_	_	_
 4	'yan	_	_	_	_	_	_	_	_
 5	ƙasar̃	_	_	_	_	_	_	_	SpaceAfter=No
-6	Nijaːr̃	_	_	_	_	_	_	_	_
+6	Nìːjâr̃	_	_	_	_	_	_	_	_
 7	sunàː	_	_	_	_	_	_	_	wordform=sunaː
 8	jin	_	_	_	_	_	_	_	_
 9	gwamnatinsù	_	_	_	_	_	_	_	_
@@ -509,7 +509,7 @@
 40	dà	_	_	_	_	_	_	_	_
 41	gwamnatinsaː	_	_	_	_	_	_	_	_
 42	take	_	_	_	_	_	_	_	_
-43	aiki	_	_	_	_	_	_	_	_
+43	aikìː	_	_	_	_	_	_	_	wordform=aiki
 44	dà	_	_	_	_	_	_	_	_
 45	suː	_	_	_	_	_	_	_	SpaceAfter=No
 46	.	_	_	_	_	_	_	_	_
@@ -571,7 +571,7 @@
 17	.	_	_	_	_	_	_	_	_
 
 # sent_id = 15_Yajin_aiki__19
-# text = Yajin aikin naːsaː kuːwa na nuːnà goːyon baːyaː nèː gà ma aːikaːtan Bankin Raːyaː Kasaːr̃ ta Nijaːr, wadandal sukà rasa ayyukaːnsuː baːyân daː gwamnatin kasàːr ta yankeː shaːwar̃ar̃ rufè bankin.
+# text = Yajin aikin naːsaː kuːwa na nuːnà goːyon baːyaː nèː gà ma aːikaːtan Bankin Raːyaː Kasaːr̃ ta Nìːjâr̃, waɗàndà sukà rasa ayyukaːnsuː baːyân daː gwamnatìn kasàːr̃ ta yankeː shaːwar̃ar̃ rufè bankin.
 1	Yajin	_	_	_	_	_	_	_	_
 2	aikin	_	_	_	_	_	_	_	_
 3	naːsaː	_	_	_	_	_	_	_	_
@@ -588,7 +588,7 @@
 14	Raːyaː	_	_	_	_	_	_	_	_
 15	Kasaːr̃	_	_	_	_	_	_	_	_
 16	ta	_	_	_	_	_	_	_	_
-17	Nijaːr̃	_	_	_	_	_	_	_	SpaceAfter=No|wordform=Nijaːr
+17	Nìːjâr̃	_	_	_	_	_	_	_	SpaceAfter=No|wordform=Nijaːr
 18	,	_	_	_	_	_	_	_	_
 19	waɗàndà	_	_	_	_	_	_	_	wordform=wadandal
 20	sukà	_	_	_	_	_	_	_	_
