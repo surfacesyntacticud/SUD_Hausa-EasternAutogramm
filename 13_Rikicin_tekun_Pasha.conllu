@@ -9,7 +9,7 @@
 7	gàme	_	_	_	_	_	_	_	_
 8	dà	_	_	_	_	_	_	_	_
 9	rìkicin	_	_	_	_	_	_	_	_
-10	tèːkun	_	_	_	_	_	_	_	_
+10	Tèːkun	_	_	_	_	_	_	_	wordform=tèːkun
 11	Paːshà	_	_	_	_	_	_	_	_
 
 # sent_id = 13_Rikicin_tekun_Pasha__2
@@ -55,7 +55,7 @@
 39	rìkicîn	_	_	_	_	_	_	_	_
 40	nan	_	_	_	_	_	_	_	_
 41	na	_	_	_	_	_	_	_	_
-42	tèːkun	_	_	_	_	_	_	_	_
+42	Tèːkun	_	_	_	_	_	_	_	wordform=tèːkun
 43	Paːshà	_	_	_	_	_	_	_	SpaceAfter=No
 44	.	_	_	_	_	_	_	_	_
 
@@ -171,67 +171,66 @@
 26	.	.	_	_	_	_	_	_	_
 
 # sent_id = 13_Rikicin_tekun_Pasha__6b
-# text = Wani jàwaːbìː da aka bugh à wata jifill, wandi nhà về yanàː buyyáná rulayın wata haːbbar̃ Runglyar̃ muːsuːlmin arewacin Nijeːiyar̃ veː, và vì kinh gà dukkaːn misidmí dà seː thì tsaye và bayyanaː nu ayansu a game dà rìkicin tèːkun Paːshà din.
+# text = Wani jàwaːbìː dà akà bugàː à wata jàr̃iːdàː, wandà akà cêː yanàː bayyànàː r̃a'àyin wata bàbbar̃ ƙungìyar̃ mùsùlmin areːwacin Nàːjeːr̃iyàː neː, yaː yi kiràː gà dukkàn mùsùlmiː dà sù taːshì tsàye sù bayyànà r̃a'àyinsù à gàme dà rìkicin tèːkun Paːshà ɗîn.
 1	Wani	Wani	_	_	_	_	_	_	_
 2	jàwaːbìː	_	_	_	_	_	_	_	_
 3	dà	_	_	_	_	_	_	_	wordform=da
-4	aka	_	_	_	_	_	_	_	_
-5	bugh	_	_	_	_	_	_	_	_
+4	akà	_	_	_	_	_	_	_	wordform=aka
+5	bugàː	_	_	_	_	_	_	_	_
 6	à	_	_	_	_	_	_	_	_
 7	wata	_	_	_	_	_	_	_	_
-8	jifill	_	_	_	_	_	_	_	SpaceAfter=No
+8	jàr̃iːdàː	_	_	_	_	_	_	_	SpaceAfter=No
 9	,	_	_	_	_	_	_	_	_
-10	wandi	_	_	_	_	_	_	_	_
-11	nhà	_	_	_	_	_	_	_	_
-12	về	_	_	_	_	_	_	_	_
+10	wandà	_	_	_	_	_	_	_	_
+11	akà	_	_	_	_	_	_	_	_
+12	cêː	_	_	_	_	_	_	_	_
 13	yanàː	_	_	_	_	_	_	_	wordform=yanaː
-14	buyyáná	_	_	_	_	_	_	_	_
-15	rulayın	_	_	_	_	_	_	_	_
+14	bayyànàː	_	_	_	_	_	_	_	_
+15	r̃a'àyin	_	_	_	_	_	_	_	_
 16	wata	_	_	_	_	_	_	_	_
-17	haːbbar̃	_	_	_	_	_	_	_	wordform=haːbbar
-18	Runglyar̃	_	_	_	_	_	_	_	wordform=Runglyar
-19	muːsuːlmin	_	_	_	_	_	_	_	_
-20	arewacin	_	_	_	_	_	_	_	_
-21	Nijeːiyar̃	_	_	_	_	_	_	_	wordform=Nijeːiyar
-22	veː	_	_	_	_	_	_	_	SpaceAfter=No
+17	bàbbar̃	_	_	_	_	_	_	_	wordform=haːbbar
+18	ƙungìyar̃	_	_	_	_	_	_	_	wordform=Runglyar
+19	mùsùlmin	_	_	_	_	_	_	_	_
+20	areːwacin	_	_	_	_	_	_	_	_
+21	Nàːjeːr̃iyàː	_	_	_	_	_	_	_	wordform=Nijeːiyar
+22	neː	_	_	_	_	_	_	_	SpaceAfter=No
 23	,	_	_	_	_	_	_	_	_
-24	và	_	_	_	_	_	_	_	_
-25	vì	_	_	_	_	_	_	_	_
-26	kinh	_	_	_	_	_	_	_	_
+24	yaː	_	_	_	_	_	_	_	_
+25	yi	_	_	_	_	_	_	_	_
+26	kiràː	_	_	_	_	_	_	_	_
 27	gà	_	_	_	_	_	_	_	_
-28	dukkaːn	_	_	_	_	_	_	_	_
-29	misidmí	_	_	_	_	_	_	_	_
+28	dukkàn	_	_	_	_	_	_	_	_
+29	mùsùlmiː	_	_	_	_	_	_	_	_
 30	dà	_	_	_	_	_	_	_	_
-31	seː	_	_	_	_	_	_	_	_
-32	thì	_	_	_	_	_	_	_	_
-33	tsaye	_	_	_	_	_	_	_	_
-34	và	_	_	_	_	_	_	_	_
-35	bayyanaː	_	_	_	_	_	_	_	_
-36	nu	_	_	_	_	_	_	_	_
-37	ayansu	_	_	_	_	_	_	_	_
-38	a	_	_	_	_	_	_	_	_
-39	game	_	_	_	_	_	_	_	_
-40	dà	_	_	_	_	_	_	_	_
-41	rìkicin	_	_	_	_	_	_	_	_
-42	tèːkun	_	_	_	_	_	_	_	_
-43	Paːshà	_	_	_	_	_	_	_	_
-44	din	_	_	_	_	_	_	_	SpaceAfter=No
-45	.	_	_	_	_	_	_	_	_
+31	sù	_	_	_	_	_	_	_	_
+32	taːshì	_	_	_	_	_	_	_	_
+33	tsàye	_	_	_	_	_	_	_	_
+34	sù	_	_	_	_	_	_	_	_
+35	bayyànà	_	_	_	_	_	_	_	_
+36	r̃a'àyinsù	_	_	_	_	_	_	_	_
+37	à	_	_	_	_	_	_	_	_
+38	gàme	_	_	_	_	_	_	_	_
+39	dà	_	_	_	_	_	_	_	_
+40	rìkicin	_	_	_	_	_	_	_	_
+41	Tèːkun	_	_	_	_	_	_	_	wordform=tèːkun
+42	Paːshà	_	_	_	_	_	_	_	_
+43	ɗîn	_	_	_	_	_	_	_	SpaceAfter=No
+44	.	_	_	_	_	_	_	_	_
 
 # sent_id = 13_Rikicin_tekun_Pasha__7
-# text = Wani mài màgan da yawan Sarkin Mùsùlmiː yaː jaddadaː cewa nina kin jinin Amiikaa Nàːjeːr̃iyàː fa lyin watu yan tuːraːri nèː, kuma shoːga haːnnin muːsalmi sunàː likuti dà vuː nữ kawai subida yunsin dà akẻ ɗà shì à Rasit na foːdar̃ ta'ayr Kliškis ya korma ceː shagibannin muːsuːlni à Nàːjeːr̃iyàː sung sử sà naːnaː rashin plyon blyansa za měmáyêwit di Inki ta yi wa Kiwit kaːnd koma di rushin
+# text = Wani mài màganàː dà yaːwun Sarkin Mùsùlmiː yaː jaddàːdà cewa nina kin jinin Amiikaa Nàːjeːr̃iyàː fa lyin watu yan tuːraːri nèː, kuma shoːga haːnnin muːsalmi sunàː likuti dà vuː nữ kawai subida yunsin dà akẻ ɗà shì à Rasit na foːdar̃ ta'ayr Kliškis ya korma ceː shagibannin muːsuːlni à Nàːjeːr̃iyàː sung sử sà naːnaː rashin plyon blyansa za měmáyêwit di Inki ta yi wa Kiwit kaːnd koma di rushin
 1	Wani	_	_	_	_	_	_	_	_
 2	mài	_	_	_	_	_	_	_	_
-3	màgan	_	_	_	_	_	_	_	_
+3	màganàː	_	_	_	_	_	_	_	_
 4	dà	_	_	_	_	_	_	_	wordform=da
-5	yawan	_	_	_	_	_	_	_	_
+5	yaːwun	_	_	_	_	_	_	_	_
 6	Sarkin	_	_	_	_	_	_	_	_
 7	Mùsùlmiː	_	_	_	_	_	_	_	_
 8	yaː	_	_	_	_	_	_	_	_
-9	jaddadaː	_	_	_	_	_	_	_	_
+9	jaddàːdà	_	_	_	_	_	_	_	_
 10	cewa	_	_	_	_	_	_	_	_
 11	nina	_	_	_	_	_	_	_	_
-12	kin	_	_	_	_	_	_	_	_
+12	ƙîn	_	_	_	_	_	_	_	wordform=kin
 13	jinin	_	_	_	_	_	_	_	_
 14	Amiikaa	_	_	_	_	_	_	_	_
 15	Nàːjeːr̃iyàː	_	_	_	_	_	_	_	_
@@ -304,7 +303,7 @@
 9	và	_	_	_	_	_	_	_	_
 10	l	_	_	_	_	_	_	_	_
 11	wandal	_	_	_	_	_	_	_	_
-12	aka	_	_	_	_	_	_	_	_
+12	akà	_	_	_	_	_	_	_	wordform=aka
 13	yi	_	_	_	_	_	_	_	_
 14	hanzarin	_	_	_	_	_	_	_	_
 15	kaːi	_	_	_	_	_	_	_	_
@@ -315,7 +314,7 @@
 20	hain	_	_	_	_	_	_	_	_
 21	thaunkumin	_	_	_	_	_	_	_	_
 22	dà	_	_	_	_	_	_	_	wordform=da
-23	aka	_	_	_	_	_	_	_	_
+23	akà	_	_	_	_	_	_	_	wordform=aka
 24	sa	_	_	_	_	_	_	_	_
 25	wa	_	_	_	_	_	_	_	_
 26	Iriki	_	_	_	_	_	_	_	_
@@ -550,7 +549,7 @@
 8	saːnàdiyyaːr̃	_	_	_	_	_	_	_	_
 9	zàngà-zangàr̃	_	_	_	_	_	_	_	_
 10	dà	_	_	_	_	_	_	_	_
-11	aka	_	_	_	_	_	_	_	_
+11	akà	_	_	_	_	_	_	_	wordform=aka
 12	yi	_	_	_	_	_	_	_	_
 13	duk	_	_	_	_	_	_	_	_
 14	à	_	_	_	_	_	_	_	_
