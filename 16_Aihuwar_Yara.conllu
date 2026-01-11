@@ -9,12 +9,12 @@
 7	Nàːjeːr̃iyàː	_	_	_	_	_	_	_	_
 
 # sent_id = 16_Aihuwar_Yara__2
-# text = Zuwà gà ƙàrshen wannàn shekarar̃ dà mukè ciki, an kiyàstà maːtaː à Nàːjeːr̃iyàː kiminin dubuː sàbà'in dà biyar̃ nèː zaːsù rasă raːyukánsü à dàlilin sămün tangarda wajen haihuwa koː kuma maː tun sunàː dà cikt.
+# text = Zuwà gà ƙàrshen wannàn shèːkaràr̃ dà mukè ciki, an kiyàstà maːtaː à Nàːjeːr̃iyàː kiminin dubuː sàbà'in dà biyar̃ nèː zaːsù rasă raːyukánsü à dàlilin sămün tangarda wajen haihuwa koː kuma maː tun sunàː dà cikt.
 1	Zuwà	_	_	_	_	_	_	_	_
 2	gà	_	_	_	_	_	_	_	_
 3	ƙàrshen	_	_	_	_	_	_	_	_
 4	wannàn	_	_	_	_	_	_	_	_
-5	shekarar̃	_	_	_	_	_	_	_	_
+5	shèːkaràr̃	_	_	_	_	_	_	_	_
 6	dà	_	_	_	_	_	_	_	_
 7	mukè	_	_	_	_	_	_	_	_
 8	ciki	_	_	_	_	_	_	_	SpaceAfter=No
@@ -90,7 +90,7 @@
 38	.	_	_	_	_	_	_	_	_
 
 # sent_id = 16_Aihuwar_Yara__4
-# text = An cẽ wai adàdin măce-máce dà lahàniː gà maːtaː yaː ribà adadin mace-màce à cikin jarrai dà kàmar̃ sâu àshirin, kuma yaːraː sun môrề wà shirin wasu kungiyoːyr̃ na düniya kamar̃ na Asüsün Taimakon Yaːraː na Majalisar̃ Dinkin Düniya
+# text = An cẽ wai adàdin măce-máce dà lahàniː gà maːtaː yaː ribà adadin mace-màce à cikin jarrai dà kàmar̃ sâu àshirin, kuma yaːraː sun môrề wà shirin wasu ƙungiyoːyiː na düniya kamar̃ na Asüsün Taimakon Yaːraː na Majalisar̃ Dinkin Düniya
 1	An	_	_	_	_	_	_	_	_
 2	cẽ	_	_	_	_	_	_	_	_
 3	wai	_	_	_	_	_	_	_	_
@@ -119,7 +119,7 @@
 26	wà	_	_	_	_	_	_	_	_
 27	shirin	_	_	_	_	_	_	_	_
 28	wasu	_	_	_	_	_	_	_	_
-29	kungiyoːyr̃	_	_	_	_	_	_	_	_
+29	ƙungiyoːyiː	_	_	_	_	_	_	_	_
 30	na	_	_	_	_	_	_	_	_
 31	düniya	_	_	_	_	_	_	_	_
 32	kamar̃	_	_	_	_	_	_	_	_
@@ -164,7 +164,7 @@
 2	kallà	_	_	_	_	_	_	_	_
 3	maːtaː	_	_	_	_	_	_	_	_
 4	uků	_	_	_	_	_	_	_	_
-5	zuwa	_	_	_	_	_	_	_	_
+5	zuwàː	_	_	_	_	_	_	_	wordform=zuwa
 6	huấu	_	_	_	_	_	_	_	_
 7	nèː	_	_	_	_	_	_	_	_
 8	kẻ	_	_	_	_	_	_	_	_
@@ -245,7 +245,7 @@
 17	faruwa	_	_	_	_	_	_	_	_
 18	à	_	_	_	_	_	_	_	_
 19	loːkaːcin	_	_	_	_	_	_	_	_
-20	da	_	_	_	_	_	_	_	_
+20	dà	_	_	_	_	_	_	_	wordform=da
 21	sukè	_	_	_	_	_	_	_	_
 22	dà	_	_	_	_	_	_	_	_
 23	jūnaː	_	_	_	_	_	_	_	_
@@ -304,7 +304,7 @@
 24	koː	_	_	_	_	_	_	_	_
 25	kuma	_	_	_	_	_	_	_	_
 26	à	_	_	_	_	_	_	_	_
-27	loːkacin	_	_	_	_	_	_	_	_
+27	loːkàcîn	_	_	_	_	_	_	_	wordform=loːkacin
 28	màigida	_	_	_	_	_	_	_	_
 29	baː	_	_	_	_	_	_	_	_
 30	và	_	_	_	_	_	_	_	_
@@ -367,7 +367,7 @@
 18	dà	_	_	_	_	_	_	_	_
 19	akè	_	_	_	_	_	_	_	_
 20	ciki	_	_	_	_	_	_	_	_
-21	yanzu	_	_	_	_	_	_	_	_
+21	yànzu	_	_	_	_	_	_	_	wordform=yanzu
 22	an	_	_	_	_	_	_	_	_
 23	watsar̃	_	_	_	_	_	_	_	_
 24	daː	_	_	_	_	_	_	_	_
@@ -414,7 +414,7 @@
 26	;	_	_	_	_	_	_	_	_
 
 # sent_id = 16_Aihuwar_Yara__13
-# text = wannàn adàdī kuwa wani àbin tsồroː nèː gà kasa waddal yawan jama'àrtà kashi biyu nèː dàgà cikin ɗariː na yawàn mutàːnên dà akè dà suː à duk dūniya bàːkī dayantà.
+# text = wannàn adàdī kùwa wani àbin tsồroː nèː gà ƙasaː waddal yawan jama'àrtà kashi biyu nèː dàgà cikin ɗariː na yawàn mutàːnên dà akè dà suː à duk dūniya bàːkī dayantà.
 1	wannàn	_	_	_	_	_	_	_	_
 2	adàdī	_	_	_	_	_	_	_	_
 3	kùwa	_	_	_	_	_	_	_	wordform=kuwa
@@ -423,30 +423,29 @@
 6	tsồroː	_	_	_	_	_	_	_	_
 7	nèː	_	_	_	_	_	_	_	_
 8	gà	_	_	_	_	_	_	_	_
-9	kasa	_	_	_	_	_	_	_	_
+9	ƙasaː	_	_	_	_	_	_	_	_
 10	waddal	_	_	_	_	_	_	_	_
 11	yawan	_	_	_	_	_	_	_	_
-12	jama	_	_	_	_	_	_	_	_
-13	'àrtà	_	_	_	_	_	_	_	_
-14	kashi	_	_	_	_	_	_	_	_
-15	biyu	_	_	_	_	_	_	_	_
-16	nèː	_	_	_	_	_	_	_	_
-17	dàgà	_	_	_	_	_	_	_	_
-18	cikin	_	_	_	_	_	_	_	_
-19	ɗariː	_	_	_	_	_	_	_	_
-20	na	_	_	_	_	_	_	_	_
-21	yawàn	_	_	_	_	_	_	_	_
-22	mutàːnên	_	_	_	_	_	_	_	_
-23	dà	_	_	_	_	_	_	_	_
-24	akè	_	_	_	_	_	_	_	_
-25	dà	_	_	_	_	_	_	_	_
-26	suː	_	_	_	_	_	_	_	_
-27	à	_	_	_	_	_	_	_	_
-28	duk	_	_	_	_	_	_	_	_
-29	dūniya	_	_	_	_	_	_	_	_
-30	bàːkī	_	_	_	_	_	_	_	_
-31	dayantà	_	_	_	_	_	_	_	SpaceAfter=No
-32	.	_	_	_	_	_	_	_	_
+12	jama'àrtà	jama'àrtà	_	_	_	_	_	_	_
+13	kashi	_	_	_	_	_	_	_	_
+14	biyu	_	_	_	_	_	_	_	_
+15	nèː	_	_	_	_	_	_	_	_
+16	dàgà	_	_	_	_	_	_	_	_
+17	cikin	_	_	_	_	_	_	_	_
+18	ɗariː	_	_	_	_	_	_	_	_
+19	na	_	_	_	_	_	_	_	_
+20	yawàn	_	_	_	_	_	_	_	_
+21	mutàːnên	_	_	_	_	_	_	_	_
+22	dà	_	_	_	_	_	_	_	_
+23	akè	_	_	_	_	_	_	_	_
+24	dà	_	_	_	_	_	_	_	_
+25	suː	_	_	_	_	_	_	_	_
+26	à	_	_	_	_	_	_	_	_
+27	duk	_	_	_	_	_	_	_	_
+28	dūniya	_	_	_	_	_	_	_	_
+29	bàːkī	_	_	_	_	_	_	_	_
+30	dayantà	_	_	_	_	_	_	_	SpaceAfter=No
+31	.	_	_	_	_	_	_	_	_
 
 # sent_id = 16_Aihuwar_Yara__14
 # text = Wani mühimmìn àbù dà akà fi dàːmuwaː dà shiː à lōkàcin wannàn tàːro na ganin cê waː maːtaː sun sami haifuwaː laːfiya, shiː nèː yi wà yâraː maːtaː aureː dà saurī.
@@ -465,7 +464,7 @@
 13	tàːro	_	_	_	_	_	_	_	_
 14	na	_	_	_	_	_	_	_	_
 15	ganin	_	_	_	_	_	_	_	_
-16	cê	_	_	_	_	_	_	_	_
+16	cêː	_	_	_	_	_	_	_	wordform=cê
 17	waː	_	_	_	_	_	_	_	_
 18	maːtaː	_	_	_	_	_	_	_	_
 19	sun	_	_	_	_	_	_	_	_
@@ -515,7 +514,7 @@
 2	likitōcī	_	_	_	_	_	_	_	_
 3	kuma	_	_	_	_	_	_	_	_
 4	sun	_	_	_	_	_	_	_	_
-5	cê	_	_	_	_	_	_	_	_
+5	cêː	_	_	_	_	_	_	_	wordform=cê
 6	loːkàciː	_	_	_	_	_	_	_	_
 7	ya	_	_	_	_	_	_	_	_
 8	yi	_	_	_	_	_	_	_	_
