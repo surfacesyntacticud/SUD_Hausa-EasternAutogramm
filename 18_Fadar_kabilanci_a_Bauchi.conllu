@@ -120,7 +120,7 @@
 46	.	_	_	_	_	_	_	_	_
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__5
-# text = r̃àhòːtànnîn sun ci gaba dà cêːwaː wannan shiː nèː taːshìn hankalr̃ na àddiːnìː mafìː muːni dà aka tabà yîː à Nàːjeːr̃iyàː tun bayan rìkicin Kar̃âncaːn dà akà yi à shekarar̃ alìf da
+# text = r̃àhòːtànnîn sun ci gaba dà cêːwaː wannan shiː nèː taːshìn hankalr̃ na àddiːnìː mafìː muːni dà akà tabà yîː à Nàːjeːr̃iyàː tun bayan rìkicin Kar̃âncaːn dà akà yi à shèːkaràr̃ alìf dà
 1	r̃àhòːtànnîn	_	_	_	_	_	_	_	_
 2	sun	_	_	_	_	_	_	_	_
 3	ci	_	_	_	_	_	_	_	_
@@ -137,7 +137,7 @@
 14	mafìː	_	_	_	_	_	_	_	_
 15	muːni	_	_	_	_	_	_	_	_
 16	dà	_	_	_	_	_	_	_	_
-17	aka	_	_	_	_	_	_	_	_
+17	akà	_	_	_	_	_	_	_	wordform=aka
 18	tabà	_	_	_	_	_	_	_	_
 19	yîː	_	_	_	_	_	_	_	_
 20	à	_	_	_	_	_	_	_	_
@@ -150,9 +150,9 @@
 27	akà	_	_	_	_	_	_	_	_
 28	yi	_	_	_	_	_	_	_	_
 29	à	_	_	_	_	_	_	_	_
-30	shekarar̃	_	_	_	_	_	_	_	_
+30	shèːkaràr̃	_	_	_	_	_	_	_	_
 31	alìf	_	_	_	_	_	_	_	_
-32	da	_	_	_	_	_	_	_	_
+32	dà	_	_	_	_	_	_	_	wordform=da
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__6
 # text = ɗàriː tara dà tàmẫnin ɗà uku tsaːkaːnin Mùsùlmiː dà Kifistoːct, inda mutàneː gômà sha huɗu sukà halaka.
@@ -160,7 +160,7 @@
 2	tara	_	_	_	_	_	_	_	_
 3	dà	_	_	_	_	_	_	_	_
 4	tàmẫnin	_	_	_	_	_	_	_	_
-5	ɗà	_	_	_	_	_	_	_	_
+5	dà	_	_	_	_	_	_	_	wordform=ɗà
 6	uku	_	_	_	_	_	_	_	_
 7	tsaːkaːnin	_	_	_	_	_	_	_	_
 8	Mùsùlmiː	Mùsùlmiː	_	_	_	_	_	_	_
@@ -177,7 +177,7 @@
 19	.	_	_	_	_	_	_	_	_
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__7
-# text = Wannan taːrzoːmaː dà akà yi dai, wata kwakkwaːrar̃ aːlâmaː ceː mài nuːnà irin rashin jituwar̃ àddiːnìː à Nàːjeːr̃iyàː wanda ya saːmoː asalf tun dâgà kìmaːnin shekaruː goːmàn dà sukà wucě.
+# text = Wannan taːrzoːmaː dà akà yi dai, wata kwakkwaːrar̃ aːlâmaː ceː mài nuːnà irin rashin jituwar̃ àddiːnìː à Nàːjeːr̃iyàː wanda ya saːmoː asalf tun dâgà kìmaːnin shèːkàruː goːmàn dà sukà wucě.
 1	Wannan	_	_	_	_	_	_	_	_
 2	taːrzoːmaː	_	_	_	_	_	_	_	_
 3	dà	_	_	_	_	_	_	_	_
@@ -204,7 +204,7 @@
 24	tun	_	_	_	_	_	_	_	_
 25	dâgà	_	_	_	_	_	_	_	_
 26	kìmaːnin	_	_	_	_	_	_	_	_
-27	shekaruː	_	_	_	_	_	_	_	_
+27	shèːkàruː	_	_	_	_	_	_	_	_
 28	goːmàn	_	_	_	_	_	_	_	_
 29	dà	_	_	_	_	_	_	_	_
 30	sukà	_	_	_	_	_	_	_	_
@@ -322,11 +322,11 @@
 1	'Yan	_	_	_	_	_	_	_	_
 2	jaridun	_	_	_	_	_	_	_	_
 3	Nàːjeːr̃iyàː	_	_	_	_	_	_	_	_
-4	da	_	_	_	_	_	_	_	_
+4	dà	_	_	_	_	_	_	_	wordform=da
 5	keː	_	_	_	_	_	_	_	_
 6	Baucîn	_	_	_	_	_	_	_	_
 7	sun	_	_	_	_	_	_	_	_
-8	cê	_	_	_	_	_	_	_	_
+8	cêː	_	_	_	_	_	_	_	wordform=cê
 9	sun	_	_	_	_	_	_	_	_
 10	ga	_	_	_	_	_	_	_	_
 11	janaː'izaːr̃	_	_	_	_	_	_	_	_
@@ -348,7 +348,7 @@
 27	kân	_	_	_	_	_	_	_	wordform=kaːn
 28	hanyar̃	_	_	_	_	_	_	_	wordform=hanyar
 29	Bauci	_	_	_	_	_	_	_	_
-30	zuwa	_	_	_	_	_	_	_	_
+30	zuwàː	_	_	_	_	_	_	_	wordform=zuwa
 31	Jás	_	_	_	_	_	_	_	_
 32	sun	_	_	_	_	_	_	_	_
 33	ceː	_	_	_	_	_	_	_	_
@@ -376,7 +376,7 @@
 8	Kir̃istoːciː	_	_	_	_	_	_	_	_
 9	ɗàriː	_	_	_	_	_	_	_	_
 10	nèː	_	_	_	_	_	_	_	_
-11	aka	_	_	_	_	_	_	_	_
+11	akà	_	_	_	_	_	_	_	wordform=aka
 12	kasheː	_	_	_	_	_	_	_	SpaceAfter=No
 13	,	_	_	_	_	_	_	_	_
 14	kuma	_	_	_	_	_	_	_	_
@@ -416,25 +416,24 @@
 9	dàgà	_	_	_	_	_	_	_	_
 10	kudancin	_	_	_	_	_	_	_	_
 11	ƙasar̃	_	_	_	_	_	_	_	SpaceAfter=No
-12	̃	_	_	_	_	_	_	_	_
-13	sun	_	_	_	_	_	_	_	_
-14	yi	_	_	_	_	_	_	_	_
-15	zàrgin	_	_	_	_	_	_	_	_
-16	cêːwaː	_	_	_	_	_	_	_	wordform=cêwaː
-17	Mùsùlmiː	_	_	_	_	_	_	_	_
-18	maːsu	_	_	_	_	_	_	_	_
-19	tsananin	_	_	_	_	_	_	_	_
-20	r̃a'ayin	_	_	_	_	_	_	_	_
-21	àddiːnt	_	_	_	_	_	_	_	_
-22	3	_	_	_	_	_	_	_	_
-23	suː	_	_	_	_	_	_	_	_
-24	nèː	_	_	_	_	_	_	_	_
-25	sukà	_	_	_	_	_	_	_	_
-26	janyő	_	_	_	_	_	_	_	_
-27	wadannân	_	_	_	_	_	_	_	_
-28	tàːshe-tashen	_	_	_	_	_	_	_	_
-29	hankulàː	_	_	_	_	_	_	_	SpaceAfter=No
-30	.	_	_	_	_	_	_	_	_
+12	sun	_	_	_	_	_	_	_	_
+13	yi	_	_	_	_	_	_	_	_
+14	zàrgin	_	_	_	_	_	_	_	_
+15	cêːwaː	_	_	_	_	_	_	_	wordform=cêwaː
+16	Mùsùlmiː	_	_	_	_	_	_	_	_
+17	maːsu	_	_	_	_	_	_	_	_
+18	tsananin	_	_	_	_	_	_	_	_
+19	r̃a'ayin	_	_	_	_	_	_	_	_
+20	àddiːnt	_	_	_	_	_	_	_	_
+21	3	_	_	_	_	_	_	_	_
+22	suː	_	_	_	_	_	_	_	_
+23	nèː	_	_	_	_	_	_	_	_
+24	sukà	_	_	_	_	_	_	_	_
+25	janyő	_	_	_	_	_	_	_	_
+26	wadannân	_	_	_	_	_	_	_	_
+27	tàːshe-tashen	_	_	_	_	_	_	_	_
+28	hankulàː	_	_	_	_	_	_	_	SpaceAfter=No
+29	.	_	_	_	_	_	_	_	_
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__14
 # text = Dâː maː dai rashìn jituwar̃ àddiːnìː tsàkaːnin 'yan kudancin Nàːjeːr̃iyàː, wadanda aƙasar̃̃insù mabiyaː àddiːnìn Kir̃istaː neː, dà kuma 'yan arewacin ƙasar̃, wadanda mafìː yawànsù Mùsùlmi nèː, bàː bàƙon àbù ba nèː.
@@ -451,34 +450,33 @@
 11	,	_	_	_	_	_	_	_	_
 12	wadanda	_	_	_	_	_	_	_	_
 13	aƙasar̃	_	_	_	_	_	_	_	SpaceAfter=No
-14	̃	_	_	_	_	_	_	_	_
-15	insù	_	_	_	_	_	_	_	_
-16	mabiyaː	_	_	_	_	_	_	_	_
-17	àddiːnìn	_	_	_	_	_	_	_	_
-18	Kir̃istaː	_	_	_	_	_	_	_	_
-19	neː	_	_	_	_	_	_	_	SpaceAfter=No
-20	,	_	_	_	_	_	_	_	_
-21	dà	_	_	_	_	_	_	_	_
-22	kuma	_	_	_	_	_	_	_	_
-23	'yan	_	_	_	_	_	_	_	_
-24	arewacin	_	_	_	_	_	_	_	_
-25	ƙasar̃	_	_	_	_	_	_	_	SpaceAfter=No
-26	,	_	_	_	_	_	_	_	_
-27	wadanda	_	_	_	_	_	_	_	_
-28	mafìː	_	_	_	_	_	_	_	_
-29	yawànsù	_	_	_	_	_	_	_	_
-30	Mùsùlmi	_	_	_	_	_	_	_	_
-31	nèː	_	_	_	_	_	_	_	SpaceAfter=No
-32	,	_	_	_	_	_	_	_	_
-33	bàː	_	_	_	_	_	_	_	_
-34	bàƙon	_	_	_	_	_	_	_	_
-35	àbù	_	_	_	_	_	_	_	_
-36	ba	_	_	_	_	_	_	_	_
-37	nèː	_	_	_	_	_	_	_	SpaceAfter=No
-38	.	_	_	_	_	_	_	_	_
+14	insù	_	_	_	_	_	_	_	_
+15	mabiyaː	_	_	_	_	_	_	_	_
+16	àddiːnìn	_	_	_	_	_	_	_	_
+17	Kir̃istaː	_	_	_	_	_	_	_	_
+18	neː	_	_	_	_	_	_	_	SpaceAfter=No
+19	,	_	_	_	_	_	_	_	_
+20	dà	_	_	_	_	_	_	_	_
+21	kuma	_	_	_	_	_	_	_	_
+22	'yan	_	_	_	_	_	_	_	_
+23	arewacin	_	_	_	_	_	_	_	_
+24	ƙasar̃	_	_	_	_	_	_	_	SpaceAfter=No
+25	,	_	_	_	_	_	_	_	_
+26	wadanda	_	_	_	_	_	_	_	_
+27	mafìː	_	_	_	_	_	_	_	_
+28	yawànsù	_	_	_	_	_	_	_	_
+29	Mùsùlmi	_	_	_	_	_	_	_	_
+30	nèː	_	_	_	_	_	_	_	SpaceAfter=No
+31	,	_	_	_	_	_	_	_	_
+32	bàː	_	_	_	_	_	_	_	_
+33	bàƙon	_	_	_	_	_	_	_	_
+34	àbù	_	_	_	_	_	_	_	_
+35	ba	_	_	_	_	_	_	_	_
+36	nèː	_	_	_	_	_	_	_	SpaceAfter=No
+37	.	_	_	_	_	_	_	_	_
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__15
-# text = Wasu maː har̃ sukàn jingìnà ruːshewar̃ Jàmhuːr̃iyà ta Farkoː à shekaràr̃ alìf dà dàriː tarà ɗà sìttin dà shidà, dà kuma Jamhuːr̃iya ta Biyu à shekaràr̃ alìf dà ɗàriː tara dà tàmằnin dà ukù bìsa rashin jituwar àddiːni.
+# text = Wasu maː har̃ sukàn jingìnà ruːshewar̃ Jàmhuːr̃iyà ta Farkoː à shèːkaràr̃ alìf dà dàriː tarà dà sìttin dà shidà, dà kuma Jamhuːr̃iya ta Biyu à shèːkaràr̃ alìf dà ɗàriː tara dà tàmằnin dà ukù bìsa rashin jituwar̃ àddiːni.
 1	Wasu	_	_	_	_	_	_	_	_
 2	maː	_	_	_	_	_	_	_	_
 3	har̃	_	_	_	_	_	_	_	_
@@ -489,12 +487,12 @@
 8	ta	_	_	_	_	_	_	_	_
 9	Farkoː	_	_	_	_	_	_	_	_
 10	à	_	_	_	_	_	_	_	_
-11	shekaràr̃	_	_	_	_	_	_	_	_
+11	shèːkaràr̃	_	_	_	_	_	_	_	_
 12	alìf	_	_	_	_	_	_	_	_
 13	dà	_	_	_	_	_	_	_	_
 14	dàriː	_	_	_	_	_	_	_	_
 15	tarà	_	_	_	_	_	_	_	_
-16	ɗà	_	_	_	_	_	_	_	_
+16	dà	_	_	_	_	_	_	_	wordform=ɗà
 17	sìttin	_	_	_	_	_	_	_	_
 18	dà	_	_	_	_	_	_	_	_
 19	shidà	_	_	_	_	_	_	_	SpaceAfter=No
@@ -505,7 +503,7 @@
 24	ta	_	_	_	_	_	_	_	_
 25	Biyu	_	_	_	_	_	_	_	_
 26	à	_	_	_	_	_	_	_	_
-27	shekaràr̃	_	_	_	_	_	_	_	_
+27	shèːkaràr̃	_	_	_	_	_	_	_	_
 28	alìf	_	_	_	_	_	_	_	_
 29	dà	_	_	_	_	_	_	_	_
 30	ɗàriː	_	_	_	_	_	_	_	_
@@ -631,17 +629,16 @@
 25	,	_	_	_	_	_	_	_	_
 26	dan	_	_	_	_	_	_	_	_
 27	ƙasar̃	_	_	_	_	_	_	_	SpaceAfter=No
-28	̃	_	_	_	_	_	_	_	_
-29	Jaːmùs	_	_	_	_	_	_	_	_
-30	mài	_	_	_	_	_	_	_	_
-31	suːnaː	_	_	_	_	_	_	_	_
-32	'Reinhard	_	_	_	_	_	_	_	_
-33	Bonnke'	_	_	_	_	_	_	_	SpaceAfter=No
-34	,	_	_	_	_	_	_	_	_
-35	ya	_	_	_	_	_	_	_	_
-36	kai	_	_	_	_	_	_	_	_
-37	Kano	_	_	_	_	_	_	_	SpaceAfter=No
-38	.	_	_	_	_	_	_	_	_
+28	Jaːmùs	_	_	_	_	_	_	_	_
+29	mài	_	_	_	_	_	_	_	_
+30	suːnaː	_	_	_	_	_	_	_	_
+31	'Reinhard	_	_	_	_	_	_	_	_
+32	Bonnke'	_	_	_	_	_	_	_	SpaceAfter=No
+33	,	_	_	_	_	_	_	_	_
+34	ya	_	_	_	_	_	_	_	_
+35	kai	_	_	_	_	_	_	_	_
+36	Kano	_	_	_	_	_	_	_	SpaceAfter=No
+37	.	_	_	_	_	_	_	_	_
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__19
 # text = Masu zàngà-zangàr̃ sun yi maːcìː à tiːtunàn Kanòː, sunàː kunnà wutaː gà kantunàː dà moːtoːciː.
