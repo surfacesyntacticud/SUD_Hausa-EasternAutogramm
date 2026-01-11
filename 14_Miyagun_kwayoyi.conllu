@@ -17,7 +17,7 @@
 7	ta	_	_	_	_	_	_	_	_
 8	Nàːjeːr̃iyàː	_	_	_	_	_	_	_	_
 9	taː	_	_	_	_	_	_	_	_
-10	cê	_	_	_	_	_	_	_	_
+10	cêː	_	_	_	_	_	_	_	wordform=cê
 11	taː	_	_	_	_	_	_	_	_
 12	r̃agar̃gàzà	_	_	_	_	_	_	_	_
 13	wata	_	_	_	_	_	_	_	_
@@ -100,7 +100,7 @@
 15	,	_	_	_	_	_	_	_	_
 16	kuma	_	_	_	_	_	_	_	_
 17	an	_	_	_	_	_	_	_	_
-18	cê	_	_	_	_	_	_	_	_
+18	cêː	_	_	_	_	_	_	_	wordform=cê
 19	kasâr̃	_	_	_	_	_	_	_	_
 20	ceː	_	_	_	_	_	_	_	_
 21	ta	_	_	_	_	_	_	_	_
@@ -122,14 +122,14 @@
 37	.	_	_	_	_	_	_	_	_
 
 # sent_id = 14_Miyagun_kwayoyi__5
-# text = Huːkuːmàr à yàu taː cê ita kungiyar̃ 'yan sùmoːgà dìn dà ta kaːma, anaː jîn cêːwaː tana da kwakkwaːran tuːshè à Nàːjeːr̃iyàː, dà Bìr̃taːniyà, dà kuma Amir̃kà.
+# text = Huːkuːmàr à yàu taː cêː ita ƙungìyar̃ 'yan sùmoːgà dìn dà ta kaːma, anaː jîn cêːwaː tana dà kwakkwaːran tuːshè à Nàːjeːr̃iyàː, dà Bìr̃taːniyà, dà kuma Amir̃kà.
 1	Huːkuːmàr	_	_	_	_	_	_	_	_
 2	à	_	_	_	_	_	_	_	_
 3	yàu	_	_	_	_	_	_	_	_
 4	taː	_	_	_	_	_	_	_	_
-5	cê	_	_	_	_	_	_	_	_
+5	cêː	_	_	_	_	_	_	_	wordform=cê
 6	ita	_	_	_	_	_	_	_	_
-7	kungiyar̃	_	_	_	_	_	_	_	wordform=kungiyar
+7	ƙungìyar̃	_	_	_	_	_	_	_	wordform=kungiyar
 8	'yan	_	_	_	_	_	_	_	_
 9	sùmoːgà	_	_	_	_	_	_	_	_
 10	dìn	_	_	_	_	_	_	_	_
@@ -156,16 +156,16 @@
 31	.	_	_	_	_	_	_	_	_
 
 # sent_id = 14_Miyagun_kwayoyi__6
-# text = Bandà kaːmà mutàně huɗu wadanda akà cê 'yan kungiyâf dà akề zàrgiː nèː, Huːkuːmàr̃ taː cê tana neːman wani mùtûm wanda ya bayyànà kânsà dà cêwaː shiː bàbban dan kasuwa nèː.
+# text = Bandà kaːmà mutàně huɗu wadanda akà cêː 'yan ƙungìyar̃ dà akề zàrgiː nèː, Huːkuːmàr̃ taː cêː tana neːman wani mùtûm wanda ya bayyànà kânsà dà cêːwaː shiː bàbban dan kasuwa nèː.
 1	Bandà	_	_	_	_	_	_	_	_
 2	kaːmà	_	_	_	_	_	_	_	_
 3	mutàně	_	_	_	_	_	_	_	_
 4	huɗu	_	_	_	_	_	_	_	_
 5	wadanda	_	_	_	_	_	_	_	_
 6	akà	_	_	_	_	_	_	_	_
-7	cê	_	_	_	_	_	_	_	_
+7	cêː	_	_	_	_	_	_	_	wordform=cê
 8	'yan	_	_	_	_	_	_	_	_
-9	kungiyâf	_	_	_	_	_	_	_	_
+9	ƙungìyar̃	_	_	_	_	_	_	_	_
 10	dà	_	_	_	_	_	_	_	_
 11	akề	_	_	_	_	_	_	_	_
 12	zàrgiː	_	_	_	_	_	_	_	_
@@ -173,7 +173,7 @@
 14	,	_	_	_	_	_	_	_	_
 15	Huːkuːmàr̃	_	_	_	_	_	_	_	_
 16	taː	_	_	_	_	_	_	_	_
-17	cê	_	_	_	_	_	_	_	_
+17	cêː	_	_	_	_	_	_	_	wordform=cê
 18	tana	_	_	_	_	_	_	_	_
 19	neːman	_	_	_	_	_	_	_	_
 20	wani	_	_	_	_	_	_	_	_
@@ -263,7 +263,7 @@
 43	.	_	_	_	_	_	_	_	_
 
 # sent_id = 14_Miyagun_kwayoyi__9
-# text = Baːya dà tsare mutaːneː huduːn dà aká bayyanaː mânyaː neː sòsai à cikin wannaːn kungiya, Huːkuːmar̃ taː kuma tsareː wandaː akè zàrgí dà daukar̃ ƙwaːyoːyin, wanda kurma akà cê ya hadiye hoːdaːr koːkên dîn, wadda také à naːnnade cikin fibaː - wàn àbên nan dà akề àmfâniː dà shi don hana haifuːwa.
+# text = Baːya dà tsare mutaːneː huduːn dà aká bayyanaː mânyaː neː sòsai à cikin wannaːn ƙungìyaː, Huːkuːmar̃ taː kuma tsareː wandaː akè zàrgí dà daukar̃ ƙwaːyoːyin, wanda kurma akà cêː ya hadiye hoːdaːr koːkên dîn, waddà také à naːnnade cikin fibaː - wàn àbên nan dà akề àmfâniː dà shi don hana haifuːwa.
 1	Baːya	_	_	_	_	_	_	_	_
 2	dà	_	_	_	_	_	_	_	_
 3	tsare	_	_	_	_	_	_	_	_
@@ -278,7 +278,7 @@
 12	à	_	_	_	_	_	_	_	_
 13	cikin	_	_	_	_	_	_	_	_
 14	wannaːn	_	_	_	_	_	_	_	_
-15	kungiya	_	_	_	_	_	_	_	SpaceAfter=No
+15	ƙungìyaː	_	_	_	_	_	_	_	SpaceAfter=No
 16	,	_	_	_	_	_	_	_	_
 17	Huːkuːmar̃	_	_	_	_	_	_	_	wordform=Huːkuːmar
 18	taː	_	_	_	_	_	_	_	_
@@ -294,7 +294,7 @@
 28	wanda	_	_	_	_	_	_	_	_
 29	kurma	_	_	_	_	_	_	_	_
 30	akà	_	_	_	_	_	_	_	_
-31	cê	_	_	_	_	_	_	_	_
+31	cêː	_	_	_	_	_	_	_	wordform=cê
 32	ya	_	_	_	_	_	_	_	_
 33	hadiye	_	_	_	_	_	_	_	_
 34	hoːdaːr	_	_	_	_	_	_	_	_
@@ -439,7 +439,7 @@
 68	.	_	_	_	_	_	_	_	_
 
 # sent_id = 14_Miyagun_kwayoyi__13
-# text = Huːkuːmar̃ ta cèː wannan kaːmaː mutànên na bẩya haːyan naːn, yaː ƙaːrà yawàn kungiyoyin dà kèː fataucìn miyàːgun ƙwaːyoːyiː waɗàndà akà tar̃waːtsaː har̃ yà zuwaː biyar̃, tun loːkácín dà aká kar̃a Huːkuːmaːr̃ à farkon hàːra.
+# text = Huːkuːmar̃ ta cèː wannan kaːmaː mutànên na bẩya haːyan naːn, yaː ƙaːrà yawàn ƙungìyoːyin dà kèː fataucìn miyàːgun ƙwaːyoːyiː waɗàndà akà tar̃waːtsaː har̃ yà zuwaː biyar̃, tun loːkácín dà aká kar̃a Huːkuːmaːr̃ à farkon hàːra.
 1	Huːkuːmar̃	_	_	_	_	_	_	_	_
 2	ta	_	_	_	_	_	_	_	_
 3	cèː	_	_	_	_	_	_	_	_
@@ -454,7 +454,7 @@
 12	yaː	_	_	_	_	_	_	_	_
 13	ƙaːrà	_	_	_	_	_	_	_	_
 14	yawàn	_	_	_	_	_	_	_	_
-15	kungiyoyin	_	_	_	_	_	_	_	_
+15	ƙungìyoːyin	_	_	_	_	_	_	_	_
 16	dà	_	_	_	_	_	_	_	_
 17	kèː	_	_	_	_	_	_	_	_
 18	fataucìn	_	_	_	_	_	_	_	_
@@ -636,7 +636,7 @@
 4	Mr	_	_	_	_	_	_	_	_
 5	Oyakhilome	_	_	_	_	_	_	_	_
 6	yaː	_	_	_	_	_	_	_	_
-7	cê	_	_	_	_	_	_	_	_
+7	cêː	_	_	_	_	_	_	_	wordform=cê
 8	baːbù	_	_	_	_	_	_	_	_
 9	shakka	_	_	_	_	_	_	_	_
 10	yanằ	_	_	_	_	_	_	_	_
@@ -683,7 +683,7 @@
 # text = An kuma cê har̃ anà rarràbà hoːtunàn wasu wasikuː na soyayyà dà ya fubuːtaː matà à bir̃nin Ìkko.
 1	An	_	_	_	_	_	_	_	_
 2	kuma	_	_	_	_	_	_	_	_
-3	cê	_	_	_	_	_	_	_	_
+3	cêː	_	_	_	_	_	_	_	wordform=cê
 4	har̃	_	_	_	_	_	_	_	_
 5	anà	_	_	_	_	_	_	_	_
 6	rarràbà	_	_	_	_	_	_	_	_
@@ -708,7 +708,7 @@
 3	cikin	_	_	_	_	_	_	_	_
 4	wàsikûn	_	_	_	_	_	_	_	_
 5	an	_	_	_	_	_	_	_	_
-6	cê	_	_	_	_	_	_	_	_
+6	cêː	_	_	_	_	_	_	_	wordform=cê
 7	taː	_	_	_	_	_	_	_	_
 8	faːraː	_	_	_	_	_	_	_	_
 9	dà	_	_	_	_	_	_	_	_
