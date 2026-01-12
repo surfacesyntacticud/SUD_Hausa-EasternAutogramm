@@ -1,0 +1,333 @@
+# sent_id = 08_Maciji__1
+# text = An ci wani macìːjiː mài dafìː
+1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	_
+2	ci	ci	VERB	_	_	1	comp:aux	_	_
+3	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	4	det	_	_
+4	macìːjiː	macìːjiː	NOUN	_	Definite=Ind|Number=Plur	2	comp:obj	_	_
+5	mài	mài	PART	_	Number=Sing	4	mod	_	_
+6	dafìː	dafìː	NOUN	_	Definite=Ind	5	comp:obj	_	_
+
+# sent_id = 08_Maciji__2
+# text = À gàrin " Gboko " dà kèː jihàr̃ Binuwài can areːwacin Nàːjeːr̃iyàː an kai wasu mutàneː gùdaː takwàs asìbitì baːyân dà sukà cikà cikìnsù dà àbincîn dà sukà yi miyàr̃sà dà naːmàn wani shirgeːgèn macìːjiː.
+1	À	à	ADP	_	_	13	mod	_	_
+2	gàrin	gàriː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	_
+3	"	"	PUNCT	_	_	4	punct	_	_
+4	Gboko	Gboko	PROPN	_	_	2	mod	_	_
+5	"	"	PUNCT	_	_	4	punct	_	_
+6	dà	dà	SCONJ	_	_	2	mod@relcl	_	_
+7	kèː	keː	AUX	_	Aspect=Prog	6	comp:obj	_	_
+8	jihàr̃	jihàr̃	ADP	_	_	7	comp:pred	_	_
+9	Binuwài	Binuwài	PROPN	_	_	8	mod	_	_
+10	can	can	ADV	_	PronType=Dem	16	mod	_	_
+11	areːwacin	areːwaciː	NOUN	_	Definite=Cons|Gender=Masc	10	mod	_	_
+12	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	11	mod	_	_
+13	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	_
+14	kai	kai	VERB	_	_	13	comp:aux	_	_
+15	wasu	wasu	DET	_	Definite=Spec|Number=Plur	16	det	_	_
+16	mutàneː	ùtûm	NOUN	_	Number=Plur	14	comp:obj	_	_
+17	gùdaː	gùdaː	NUM	_	_	16	mod:num	_	_
+18	takwàs	takwàs	NUM	_	Definite=Cons|Gender=Masc	17	mod	_	_
+19	asìbitì	asìbitì	NOUN	_	Gender=Masc	18	mod	_	wordform=asibiti
+20	baːyân	baːyân	ADP	_	Definite=Def	14	mod	_	_
+21	dà	dà	SCONJ	_	_	20	comp:obj	_	_
+22	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	21	comp:obj	_	_
+23	cikà	cik-	VERB	_	_	22	comp:aux	_	_
+24	cikìnsù	cikìː	NOUN	_	Case=Gen|Number=Plur|Person=3	23	comp:obj	_	_
+25	dà	dà	ADP	_	_	23	comp:obl	_	_
+26	àbincîn	àbinciː	NOUN	_	Definite=Cons|Gender=Masc	25	comp:obj	_	_
+27	dà	dà	SCONJ	_	_	26	mod@relcl	_	_
+28	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	27	comp:obj	_	_
+29	yi	yi	VERB	_	_	28	comp:aux	_	_
+30	miyàr̃sà	miyàr̃sà	NOUN	_	Gender=Fem	29	comp:pred	_	_
+31	dà	dà	ADP	_	_	29	comp:obl	_	_
+32	naːmàn	naːm-	NOUN	_	Definite=Cons|Gender=Masc	31	comp:obj	_	_
+33	wani	wani	DET	_	Definite=Spec|Gender=Masc	34	det	_	_
+34	shirgeːgèn	shirgeːgèː	NOUN	_	Definite=Cons|Gender=Masc	32	mod	_	_
+35	macìːjiː	macìːjiː	NOUN	_	Number=Plur	34	mod	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 08_Maciji__3a
+# text = Yaddà wannàn àl'amàr̃iː ya fàːru shiː nèː suː mutàːnên sun ɗaukoː gaːwar̃ wannàn macìːjiː nèː baːyân dà wata bàbbar̃ moːtàː ta laːtsèː shi à bisà hanyàː dà dàddare , sukà nùfi dà shiː zuwàː gidaː .
+1	Yaddà	yaddà	PROPN	_	_	10	mod	_	_
+2	wannàn	wannàn	DET	_	PronType=Dem	3	det	_	_
+3	àl'amàr̃iː	àl'amàr̃iː	NOUN	_	Gender=Masc	4	subj	_	_
+4	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	mod@relcl	_	_
+5	fàːru	faːr-	VERB	_	_	4	comp:aux	_	_
+6	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	10	dislocated@subj	_	_
+7	nèː	neː	PART	_	_	8	discourse@foc	_	_
+8	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	dislocated@subj	_	_
+9	mutàːnên	mutàːnêː	NOUN	_	Definite=Cons|Number=Plur	10	subj	_	_
+10	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
+11	ɗaukoː	ɗaukaː	VERB	_	_	10	comp:aux	_	_
+12	gaːwar̃	gaːwar̃	NOUN	_	_	11	comp:obj	_	_
+13	wannàn	wannàn	DET	_	PronType=Dem	14	det	_	_
+14	macìːjiː	macìːjiː	NOUN	_	Definite=Ind|Number=Plur	12	comp:obj	_	_
+15	nèː	neː	PART	_	_	14	discourse@foc	_	_
+16	baːyân	baːyân	ADP	_	Definite=Def	11	mod	_	_
+17	dà	dà	SCONJ	_	_	16	comp:obj	_	_
+18	wata	wata	DET	_	Gender=Fem	20	det	_	_
+19	bàbbar̃	bàbbar̃	ADJ	_	_	20	mod	_	_
+20	moːtàː	moːtàː	NOUN	_	Definite=Ind	21	subj	_	_
+21	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	16	comp:obj	_	_
+22	laːtsèː	laːtsèː	VERB	_	_	21	comp:aux	_	_
+23	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	22	comp:obj	_	_
+24	à	à	ADP	_	Mood=Sub|Person=4	22	comp:obl	_	_
+25	bisà	bisà	ADP	_	_	24	comp:obj	_	_
+26	hanyàː	hanyàː	NOUN	_	Definite=Ind	25	comp:obj	_	_
+27	dà	dà	CCONJ	_	_	28	cc	_	_
+28	dàddare	dàddare	ADV	_	_	26	conj:coord	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	21	parataxis@conj	_	_
+31	nùfi	nùfi	VERB	_	_	30	comp:aux	_	_
+32	dà	dà	ADP	_	_	31	comp:obl	_	_
+33	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	32	comp:obj	_	_
+34	zuwàː	zuwàː	ADP	_	_	31	comp:obl	_	_
+35	gidaː	gidaː	NOUN	_	Gender=Masc	34	comp:obj	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 08_Maciji__3b
+# text = Sun yi kusan kwaːnaː ukù sunàː ta dafà wannan kùmurciː kàːfin sù ci nasar̃àr̃ dafàː shi luɓus dòːmin cîː .
+1	Sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
+2	yi	yi	VERB	_	_	1	comp:aux	_	_
+3	kusan	kusan	ADV	_	_	2	mod	_	_
+4	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	2	comp:pred	_	_
+5	ukù	ukù	NUM	_	_	4	mod:num	_	_
+6	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	1	parataxis@conj	_	_
+7	ta	ta	PART	_	Aspect=Iter	6	compound:prt	_	_
+8	dafà	dafàː	VERB	_	_	6	comp:aux	_	_
+9	wannan	wannan	DET	_	Definite=Spec|Gender=Masc	10	det	_	_
+10	kùmurciː	kùmurciː	NOUN	_	Gender=Masc	8	comp:obj	_	_
+11	kàːfin	kàːfin	SCONJ	_	_	8	mod	_	_
+12	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	11	comp:obj	_	_
+13	ci	ci	VERB	_	_	12	comp:aux	_	_
+14	nasar̃àr̃	nasar̃àr̃	NOUN	_	Definite=Ind|Gender=Fem	13	comp:obj	_	_
+15	dafàː	dafàː	ADP	_	_	13	mod	_	_
+16	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	15	comp:obj	_	_
+17	luɓus	luɓus	NOUN	_	Definite=Cons	13	mod	_	_
+18	dòːmin	dòːmiː	ADP	_	_	17	mod	_	_
+19	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc	18	comp:obj	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 08_Maciji__4
+# text = Tòː indà màtsalar̃ ta faːrà taːshìː shiː nèː baːyân dà sukà cînyẽ macìːjîn dà sukà dafàn, nan dà nan sai waɗànnân mutàːneː sukà faːrà jîn wani àbù nàː mur̃ɗàː musù cikin cikkunànsù.
+1	Tòː	tòː	INTJ	_	_	24	discourse	_	_
+2	indà	indà	PRON	_	PronType=Rel	24	mod	_	_
+3	màtsalar̃	màtsalaː	NOUN	_	Definite=Ind|Gender=Fem	4	subj	_	_
+4	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	2	mod@relcl	_	_
+5	faːrà	faːràː	VERB	_	_	4	comp:aux	_	_
+6	taːshìː	taːshìː	NOUN	_	ExtPos=NOUN|Gender=Masc	5	comp:obj	_	_
+7	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	5	comp:obj	_	_
+8	nèː	neː	PART	_	Gender=Masc|Number=Plur	2	discourse@foc	_	_
+9	baːyân	baːyân	NOUN	_	Definite=Def	5	mod	_	_
+10	dà	dà	SCONJ	_	_	9	comp:obj	_	_
+11	sukà	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	10	comp:obj	_	_
+12	cînyẽ	cîni	VERB	_	_	11	comp:aux	_	_
+13	macìːjîn	macìːjiː	NOUN	_	Definite=Def|Number=Plur	12	comp:obj	_	_
+14	dà	dà	SCONJ	_	_	13	mod@relcl	_	_
+15	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	14	comp:obj	_	_
+16	dafàn	daf-	VERB	_	_	15	comp:aux	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	2	punct	_	_
+18	nan	nan	ADV	_	Definite=Def|ExtPos=ADV|PronType=Dem	24	mod	_	_
+19	dà	dà	CCONJ	_	_	20	cc	_	_
+20	nan	nan	ADV	_	Definite=Def|PronType=Dem	18	conj:coord	_	_
+21	sai	sai	ADV	_	_	24	mod	_	_
+22	waɗànnân	waɗànnân	DET	_	Number=Plur|PronType=Dem	23	det	_	_
+23	mutàːneː	mùtûm	NOUN	_	Definite=Ind|Number=Plur	24	subj	_	_
+24	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
+25	faːrà	faːràː	VERB	_	_	24	comp:aux	_	_
+26	jîn	jîː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	25	comp:obj	_	_
+27	wani	wani	DET	_	Definite=Spec|Gender=Masc	28	det	_	_
+28	àbù	àbù	NOUN	_	Gender=Masc	26	comp:obj	_	_
+29	nàː	nàː	AUX	_	Aspect=Prog	28	discourse@foc	_	_
+30	mur̃ɗàː	mur̃ɗàː	VERB	_	_	29	comp:aux	_	_
+31	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	30	comp:obl	_	_
+32	cikin	cikin	ADP	_	_	30	comp:obl	_	_
+33	cikkunànsù	cikkunàːsù	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur|Person=3	32	comp:obj	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	24	punct	_	_
+
+# sent_id = 08_Maciji__5
+# text = Dàgà nan kuma sai sukà shìga yîn amai.
+1	Dàgà	Dàgà	PROPN	_	_	5	mod	_	_
+2	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	comp:obj	_	_
+3	kuma	kuma	PART	_	_	1	discourse@top	_	_
+4	sai	sai	ADV	_	_	5	mod	_	_
+5	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
+6	shìga	shig-	VERB	_	ExtPos=NOUN|Gender=Fem	5	comp:aux	_	_
+7	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	6	comp:obj@G	_	_
+8	amai	amai	NOUN	_	Gender=Masc	7	udep	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 08_Maciji__6
+# text = Nan dà nan sai maƙwàbtaː suka kwàːshi waɗànnân mutàːnên dà sukà shaː gaːrar̃ dàfaffen macìːjîn zuwàː asìbitìn Gboko, indà likitoːciː sukà tàːru sukà yi ta aikìː har̃ tsawon saː'oː'iː dòːmin neːman cèːton raːyukànsù.
+1	Nan	nan	ADV	_	_	6	mod	_	_
+2	dà	dà	CCONJ	_	_	3	cc	_	_
+3	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	conj:coord	_	_
+4	sai	sai	ADV	_	_	6	mod	_	_
+5	maƙwàbtaː	maƙwàb	NOUN	_	Definite=Ind|Number=Plur	6	subj	_	_
+6	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	wordform=suka
+7	kwàːshi	kwaːs-	VERB	_	_	6	comp:aux	_	_
+8	waɗànnân	waɗànnân	DET	_	Number=Plur|PronType=Dem	9	det	_	_
+9	mutàːnên	mùtûm	NOUN	_	Definite=Cons|Number=Plur	6	subj	_	_
+10	dà	dà	SCONJ	_	_	9	mod@relcl	_	_
+11	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	10	comp:obj	_	_
+12	shaː	shaː	VERB	_	_	11	comp:aux	_	_
+13	gaːrar̃	gaːraː	NOUN	_	Definite=Ind|Gender=Fem	12	comp:obj	_	_
+14	dàfaffen	dàfaffe	ADP	_	_	13	mod	_	_
+15	macìːjîn	macìːjiː	NOUN	_	Definite=Def|Number=Plur	13	mod	_	_
+16	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc	13	mod	_	_
+17	asìbitìn	asìbitìː	NOUN	_	Definite=Cons|Gender=Masc	16	comp:obj	_	_
+18	Gboko	Gboko	PROPN	_	_	17	mod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	indà	indà	ADV	_	PronType=Rel	9	conj:appos	_	_
+21	likitoːciː	likitoːciː	NOUN	_	Number=Plur	22	subj	_	_
+22	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	20	mod@relcl	_	_
+23	tàːru	tàːru	VERB	_	_	22	comp:aux	_	_
+24	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	22	parataxis@conj	_	_
+25	yi	yi	VERB	_	_	24	comp:aux	_	_
+26	ta	ta	PART	_	Aspect=Iter	25	compound:prt	_	_
+27	aikìː	aikìː	NOUN	_	Definite=Ind|Gender=Masc	25	comp:pred	_	_
+28	har̃	har̃	ADP	_	_	25	mod	_	_
+29	tsawon	tsawoː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	_
+30	saː'oː'iː	saː'oː'iː	NOUN	_	Gender=Masc	29	mod	_	_
+31	dòːmin	dòːmin	SCONJ	_	_	25	mod	_	_
+32	neːman	neːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	31	comp:obj	_	_
+33	cèːton	cèːtoː	NOUN	_	Definite=Cons|Gender=Masc	32	comp:obj	_	_
+34	raːyukànsù	raːyukàːsù	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur|Person=3	33	mod	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 08_Maciji__7
+# text = Loːkàcîn dà hakàn kèː fàːruwaː, wasu jàːmi'an asìbitìn sukà cêː wai naːmàn macijîn dà waɗànnân mutàːnên sukà cînyeː wandà kuma ya kusa zamaː sanàdin ajàlinsù - yanàː ɗaya dàgà cikin irìn màcìːzân nan nèː màːsu dafìn gàske.
+1	Loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	10	mod	_	_
+2	dà	dà	SCONJ	_	_	1	mod@relcl	_	_
+3	hakàn	hakàn	ADV	_	_	4	subj	_	_
+4	kèː	nàː	AUX	_	Aspect=Prog	2	comp:obj	_	_
+5	fàːruwaː	fàːruwaː	NOUN	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:aux	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	1	punct	_	_
+7	wasu	wasu	DET	_	Definite=Spec|Number=Plur	8	det	_	_
+8	jàːmi'an	jàːmi'aː	ADJ	_	Definite=Cons|Number=Plur	10	subj	_	_
+9	asìbitìn	asìbitìː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	_
+10	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
+11	cêː	cêː	VERB	_	_	10	comp:aux	_	_
+12	wai	wai	SCONJ	_	_	11	comp:obj	_	_
+13	naːmàn	naːmàː	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	_
+14	macijîn	macijiː	NOUN	_	Definite=Def|Gender=Masc	13	mod	_	_
+15	dà	dà	SCONJ	_	_	14	mod@relcl	_	_
+16	waɗànnân	waɗànnân	DET	_	Number=Plur|PronType=Dem	17	det	_	_
+17	mutàːnên	mùtûm	NOUN	_	Definite=Cons|Number=Plur	18	subj	_	_
+18	sukà	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	15	comp:obj	_	_
+19	cînyeː	cînyeː	VERB	_	_	18	comp:aux	_	_
+20	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	19	comp:obj	_	_
+21	kuma	kuma	PART	_	_	20	discourse@top	_	_
+22	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	20	comp:obj	_	_
+23	kusa	kusa	VERB	_	_	22	comp:obl	_	_
+24	zamaː	zamaː	VERB	_	ExtPos=NOUN|Gender=Masc	23	comp:obj	_	_
+25	sanàdin	sanàdiː	NOUN	_	Definite=Cons	24	comp:pred	_	_
+26	ajàlinsù	ajàliː	NOUN	_	Definite=Cons|Number=Plur|Person=3	25	comp:obj	_	_
+27	-	-	PUNCT	_	_	28	punct	_	_
+28	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	22	parataxis@conj	_	_
+29	ɗaya	ɗaya	NUM	_	_	28	comp:aux	_	_
+30	dàgà	dàgà	ADP	_	_	24	comp:obl	_	_
+31	cikin	cikin	ADP	_	_	30	comp:obl	_	_
+32	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	31	comp:obj	_	_
+33	màcìːzân	màcìːzaː	NOUN	_	Definite=Cons|Gender=Fem	32	mod	_	_
+34	nan	nan	DET	_	PronType=Dem	33	det	_	_
+35	nèː	neː	PART	_	_	33	discourse@foc	_	_
+36	màːsu	mài	ADP	_	Number=Plur	29	comp:obl	_	_
+37	dafìn	dafìː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	36	comp:obj	_	_
+38	gàske	gàske	NOUN	_	_	37	mod	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 08_Maciji__8
+# text = Sun kuma ƙaːràː dà cêːwaː baːàː cîn naːmànsù mùsammàn dai ganin yawàn kwàːnàkîn dà akà ɗaukàː anàː dafà macìːjîn kàːfin yà dàfu luɓus.
+1	Sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
+2	kuma	kuma	PART	_	_	1	discourse@top	_	_
+3	ƙaːràː	ƙaːràː	VERB	_	_	1	comp:aux	_	_
+4	dà	dà	ADP	_	_	3	comp:obl	_	_
+5	cêːwaː	cêː	VERB	_	Gender=Fem	4	comp:obj	_	_
+6	baːàː	nː	AUX	_	Aspect=Prog|Person=4|Polarity=Neg	5	comp:obj	_	_
+7	cîn	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	_
+8	naːmànsù	naːmàːsù	PRON	_	Case=Gen|Number=Plur|Person=3	7	comp:obj	_	_
+9	mùsammàn	mùsammàn	NOUN	_	Case=Gen|Number=Plur|Person=3	7	mod	_	_
+10	dai	dai	PART	_	_	6	discourse@top	_	_
+11	ganin	ganiː	VERB	_	Definite=Cons|Gender=Masc	6	comp:aux	_	_
+12	yawàn	yawàn	ADJ	_	Definite=Cons|Gender=Masc	11	comp:obj	_	_
+13	kwàːnàkîn	kwàːnàkiː	NOUN	_	Definite=Cons|Gender=Masc	12	mod	_	_
+14	dà	dà	SCONJ	_	_	13	mod@relcl	_	_
+15	akà	nàː	AUX	_	Aspect=Prog|Person=4	14	comp:obj	_	_
+16	ɗaukàː	ɗaukàː	VERB	_	ExtPos=NOUN|Gender=Fem	15	comp:aux	_	_
+17	anàː	nàː	AUX	_	Aspect=Prog|Person=4	6	conj:coord	_	_
+18	dafà	dafàː	VERB	_	_	17	comp:aux	_	_
+19	macìːjîn	macìːjiː	NOUN	_	Definite=Def|Number=Plur	18	comp:obj	_	_
+20	kàːfin	kàːfin	SCONJ	_	_	18	mod	_	_
+21	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	20	comp:obj	_	_
+22	dàfu	dàfu	VERB	_	_	21	comp:aux	_	_
+23	luɓus	luɓus	ADV	_	_	22	mod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 08_Maciji__9
+# text = Jàːmì'ân sun yi kiràː gà mutàːnên dà kèː zàune à yankìn dà sù kìyàːyi ɗaukàr̃ gaːwàwwakin dàbboːbiː sunàː tàfiyàː dà suː gidaː don sù dafàː sù sàːmu àbinci.
+1	Jàːmì'ân	jàːmì'aː	PROPN	_	Definite=Cons|Number=Plur	2	subj	_	_
+2	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
+3	yi	yi	VERB	_	_	2	comp:aux	_	_
+4	kiràː	kiràː	VERB	_	Gender=Masc	3	comp:pred	_	_
+5	gà	gà	ADP	_	_	3	comp:obl	_	_
+6	mutàːnên	mùtûm	NOUN	_	Definite=Cons|Number=Plur	5	comp:obj	_	_
+7	dà	dà	SCONJ	_	_	6	mod@relcl	_	_
+8	kèː	keː	AUX	_	Aspect=Prog	7	comp:obj	_	_
+9	zàune	zaun-	VERB	_	ExtPos=ADV|VerbForm=Stat	8	comp:pred	_	_
+10	à	à	ADP	_	_	9	comp:obl	_	_
+11	yankìn	yankìː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	_
+12	dà	dà	SCONJ	_	_	11	mod@relcl	_	_
+13	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	12	comp:obj	_	_
+14	kìyàːyi	kìyàay-	VERB	_	_	13	comp:aux	_	_
+15	ɗaukàr̃	ɗaukàː	NOUN	_	_	14	comp:obj	_	_
+16	gaːwàwwakin	gaːwàwwakiː	NOUN	_	Definite=Cons|Number=Plur	15	mod	_	_
+17	dàbboːbiː	dàbboːbiː	NOUN	_	Number=Plur	16	mod	_	_
+18	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	2	parataxis@conj	_	_
+19	tàfiyàː	tàfiyàː	VERB	_	ExtPos=NOUN|Gender=Fem	18	comp:aux	_	_
+20	dà	dà	ADP	_	_	19	comp:obl	_	_
+21	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	comp:obj	_	_
+22	gidaː	gidaː	NOUN	_	Gender=Masc	19	comp:obj@G	_	_
+23	don	don	SCONJ	_	_	19	mod	_	_
+24	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	23	comp:obj	_	_
+25	dafàː	daf-	VERB	_	_	24	comp:aux	_	_
+26	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	24	conj:coord	_	_
+27	sàːmu	saːmùː	VERB	_	_	26	comp:aux	_	_
+28	àbinci	àbinci	NOUN	_	Gender=Masc	27	comp:obj	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 08_Maciji__10
+# text = Hakà kuma jàːmì'an asìbitìn sun yi wani gàr̃gàɗiː gàme dà maːgungunàn kashè ƙwàːriː irì dàbam dàbam waɗànɗà manòːmaː kèː àmfàniː dà suː don kaɗà wasu ƙwàːriː sù laːlàːtaː musù àmfàːnin goːnaː.
+1	Hakà	hakà	ADV	_	_	5	mod	_	_
+2	kuma	kuma	PART	_	_	1	discourse@top	_	_
+3	jàːmì'an	jàːmì'aː	NOUN	_	Definite=Cons|Number=Plur	5	subj	_	_
+4	asìbitìn	asìbitìː	NOUN	_	Definite=Def|Gender=Masc	3	mod	_	_
+5	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
+6	yi	yi	VERB	_	_	5	comp:aux	_	_
+7	wani	wani	DET	_	Definite=Spec|Gender=Masc	11	det	_	_
+8	gàr̃gàɗiː	gàr̃gàɗiː	NOUN	_	Definite=Cons|Gender=Fem	28	mod	_	_
+9	gàme	gamàː	VERB	_	ExtPos=ADP|VerbForm=Part	6	comp:obl	_	_
+10	dà	dà	ADP	_	_	9	compound	_	_
+11	maːgungunàn	maːgungunàː	NOUN	_	Definite=Cons|Number=Plur	9	comp:obj	_	_
+12	kashè	yasː	AUX	_	_	11	mod	_	_
+13	ƙwàːriː	ƙwàːriː	NOUN	_	Gender=Masc	12	comp:obj	_	_
+14	irì	irì	ADP	_	Gender=Masc	11	mod	_	_
+15	dàbam	dàbak	ADV	_	_	14	mod	_	_
+16	dàbam	dàbam	ADV	_	_	15	mod	_	_
+17	waɗànɗà	waɗànɗà	PRON	_	Number=Plur|PronType=Rel	19	subj	_	_
+18	manòːmaː	manòːmaː	NOUN	_	Gender=Fem	19	subj	_	_
+19	kèː	nèːː	AUX	_	Aspect=Prog	11	mod@relcl	_	_
+20	àmfàniː	àmfàniː	NOUN	_	Gender=Masc	19	comp:aux	_	_
+21	dà	dà	ADP	_	_	20	comp:obl	_	_
+22	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	comp:obj	_	_
+23	don	don	SCONJ	_	_	20	mod	_	_
+24	kaɗà	kaɗà	PART	_	Mood=Jus|Polarity=Neg	27	mod	_	_
+25	wasu	wasu	DET	_	Definite=Spec|Number=Plur	26	det	_	_
+26	ƙwàːriː	ƙwàːriː	NOUN	_	Gender=Masc	27	subj	_	_
+27	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	23	comp:obj	_	_
+28	laːlàːtaː	laːlàːtaː	VERB	_	ExtPos=NOUN|Gender=Fem	27	comp:aux	_	_
+29	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	28	comp:obl	_	_
+30	àmfàːnin	àmfàːniː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	_
+31	goːnaː	goːnaː	NOUN	_	_	30	mod	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	5	punct	_	_
+
