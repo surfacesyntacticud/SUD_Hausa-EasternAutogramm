@@ -31,8 +31,8 @@
 3	gàba	gàba	ADV	_	_	2	comp:obl	_	_
 4	dà	dà	ADP	_	_	3	comp:obj	_	_
 5	shirìn	shirìː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	_
-6	baːyar̃	baːyar̃	ADV	_	_	5	mod	_	_
-7	dà	dà	CCONJ	_	_	8	cc	_	_
+6	baːyar̃	baːyar̃	VERB	_	_	5	mod	_	_
+7	dà	dà	ADP	_	_	6	comp:obl	_	_
 8	mulkìː	mulkìː	NOUN	_	Gender=Masc	5	conj:coord	_	_
 9	gà	gà	ADP	_	_	8	mod	_	_
 10	farar̃-hùːlaː	farar̃-hùːlaː	NOUN	_	Definite=Ind	9	comp:obj	_	SpaceAfter=No
@@ -41,14 +41,14 @@
 13	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	1	conj:coord	_	wordform=tanaː
 14	àlfahàr̃iː	àlfahàr̃iː	NOUN	_	Gender=Masc	13	comp:aux	_	_
 15	dà	dà	ADP	_	_	14	comp:obl	_	_
-16	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	_
+16	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	Gloss=type.Masc.Cons
 17	abuːbuwàn	àbù	NOUN	_	Definite=Cons|Number=Plur	16	mod	_	_
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	_
 19	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	18	comp:obj	_	_
 20	yi	yi	VERB	_	_	19	comp:aux	_	_
-21	danganèː	danganèː	ADV	_	Gender=Masc	20	comp:pred	_	_
-22	dà	dà	ADP	_	_	21	mod	_	_
-23	kaːrè	kar-	NOUN	_	Gender=Masc	22	comp:obj	_	_
+21	danganèː	danganèː	NOUN	_	ExtPos=ADP|Gender=Masc	20	comp:pred	_	Gloss=relation.Masc|Idiom=Yes
+22	dà	dà	ADP	_	_	21	compound	_	Gloss=with|InIdiom=Yes
+23	kaːrè	kar-	NOUN	_	Gender=Masc	21	comp:obj	_	_
 24	haƙƙìn	haƙƙìː	NOUN	_	Definite=Cons|Gender=Masc	23	mod	_	_
 25	bìl	bìl	ADP	_	_	24	mod	_	_
 26	Adamà	Adamà	PROPN	_	_	25	comp:obj	_	SpaceAfter=No
@@ -77,8 +77,8 @@
 19	kaːmà	kaːm-	VERB	_	_	18	comp:aux	_	_
 20	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	19	comp:obj	_	_
 21	soːjà	soːjà	NOUN	_	Gender=Masc	20	mod	_	_
-22	à	à	ADP	_	Mood=Sub|Person=4	19	mod	_	_
-23	ƙasâr̃	ƙasâr̃	NOUN	_	_	22	comp:obj	_	SpaceAfter=No
+22	à	à	ADP	_	_	19	mod	_	_
+23	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	22	comp:obj	_	Gloss=country.Fem.PrevRef|SpaceAfter=No
 24	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 10_Daurin_Siyasa__5
@@ -90,8 +90,8 @@
 5	ita	ita	PRON	_	Gender=Fem|Person=3	4	comp:obj	_	_
 6	gwamnatìn	gwamnatìː	NOUN	_	Definite=Cons|Gender=Masc	5	conj:appos	_	_
 7	tâː	neː	AUX	_	Gender=Fem	6	discourse@foc	_	_
-8	iyà	iyàː	VERB	_	_	3	comp:aux	_	_
-9	tsarèː	tsarèː	VERB	_	_	8	comp:obj	_	_
+8	iyà	iy-	VERB	_	_	3	comp:aux	_	_
+9	tsarèː	tsar-	VERB	_	_	8	comp:obj	_	_
 10	mùtûm	mùtûm	NOUN	_	Definite=Ind	9	comp:obj	_	_
 11	har̃	har̃	ADP	_	_	9	mod	_	_
 12	tsawon	tsawoː	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	_
@@ -133,7 +133,7 @@
 5	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	mod	_	_
 6	gàba	gàba	ADV	_	_	5	mod	_	_
 7	dà	dà	SCONJ	_	_	6	comp:obj	_	_
-8	tsarè	tsarèː	VERB	_	_	6	comp:obj	_	_
+8	tsarè	tsar-	VERB	_	_	6	comp:obj	_	_
 9	mùtumìn	mùtumìː	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	_
 10	har̃	har̃	ADV	_	_	6	mod	_	_
 11	sai	sai	ADV	_	_	14	mod	_	_
@@ -148,7 +148,7 @@
 1	Ìdan	ìdan	SCONJ	_	_	13	mod	_	_
 2	kuma	kuma	PART	_	_	1	discourse@top	_	_
 3	akà	nàː	AUX	_	Aspect=Prog|Person=4	1	comp:obj	_	_
-4	tsarè	tsarèː	VERB	_	_	3	comp:aux	_	_
+4	tsarè	tsar-	VERB	_	_	3	comp:aux	_	_
 5	mùtûm	mùtûm	NOUN	_	Definite=Ind	4	comp:obj	_	_
 6	bisàː	bisàː	ADP	_	_	4	comp:obl	_	_
 7	wannàn	wannàn	DET	_	PronType=Dem	8	det	_	_
@@ -165,7 +165,7 @@
 18	dà	dà	SCONJ	_	_	15	mod@relcl	_	_
 19	zaː	zaː	AUX	_	_	18	comp:obj	_	_
 20	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	13	conj:coord	_	_
-21	iyà	iyàː	VERB	_	_	20	comp:aux	_	_
+21	iyà	iy-	VERB	_	_	20	comp:aux	_	_
 22	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc	21	comp:obj	_	_
 23	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	22	comp:obj	_	_
 
@@ -236,7 +236,7 @@
 1	Yànzu	yànzu	ADV	_	_	3	mod	_	_
 2	dai	dai	PART	_	_	1	discourse@top	_	_
 3	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
-4	gabaːtar̃	gabaːtaː	NOUN	_	_	3	comp:aux	_	_
+4	gabaːtar̃	gabaːtaː	VERB	_	_	3	comp:aux	_	_
 5	dà	dà	ADP	_	_	4	comp:obl	_	_
 6	wata	wata	DET	_	Gender=Fem	7	det	_	_
 7	ƙaːraː	ƙaːraː	NOUN	_	Gender=Fem	5	comp:obj	_	_
@@ -368,7 +368,7 @@
 19	dubuː	dubuː	NUM	_	_	18	det	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	_
 21	à	à	ADP	_	ExtPos=ADP	17	comp:obl	_	_
-22	ƙàrƙashin	ƙàrƙashiː	NOUN	_	Definite=Cons|Gender=Masc	21	comp.obj	_	_
+22	ƙàrƙashin	ƙàrƙashin	ADP	_	_	21	comp.obj	_	_
 23	wannàn	wannàn	DET	_	PronType=Dem	24	det	_	_
 24	Dòːkaː	Dòːkaː	PROPN	_	_	21	comp:obj	_	_
 25	ta	ta	ADP	_	_	24	mod	_	_
