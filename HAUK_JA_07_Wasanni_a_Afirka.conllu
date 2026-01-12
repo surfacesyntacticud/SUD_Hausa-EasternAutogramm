@@ -76,13 +76,13 @@
 41	ta	ta	ADP	_	_	39	mod	_	_
 42	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	41	comp:obj	_	_
 43	ta	na	AUX	_	Aspect=Perf|Gender=Fem|Person=3	36	mod@relcl	_	_
-44	shiryàː	shiryàː	VERB	_	_	43	comp:aux	_	_
+44	shiryàː	shir-	VERB	_	_	43	comp:aux	_	_
 45	don	don	SCONJ	_	_	44	mod	_	_
-46	neːmoː	neːmoː	VERB	_	Gender=Masc	45	comp:obj	_	_
+46	neːmoː	neːm-	VERB	_	Gender=Masc	45	comp:obj	_	_
 47	wani	wani	PRON	_	Definite=Spec|Gender=Masc	46	comp:obj	_	_
 48	wandà	wandà	PRON	_	PronType=Rel	49	subj	_	_
 49	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	47	mod@relcl	_	_
-50	ɗàuki	ɗaukaː	VERB	_	_	49	comp:aux	_	_
+50	ɗàuki	ɗauk-	VERB	_	_	49	comp:aux	_	_
 51	kambin	kambiː	ADJ	_	Definite=Cons|Gender=Masc	50	comp:obj	_	_
 52	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	51	compound	_	_
 53	na	na	ADP	_	Case=Gen	51	mod	_	_
@@ -106,7 +106,7 @@
 10	gar̃damàː	gar̃damàː	NOUN	_	Gender=Fem	8	comp:obj	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	_
-13	shiryà	shiry-	VERB	_	_	12	comp:aux	_	_
+13	shiryà	shir-	VERB	_	_	12	comp:aux	_	_
 14	Lasisi	Lasisi	PROPN	_	_	15	subj	_	_
 15	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	13	comp:obj	_	_
 16	gwabzàː	gwabz-	VERB	_	_	15	comp:aux	_	_
@@ -184,7 +184,7 @@
 # text_ortho = Manufoːfin sìyaːsàː irìn na Tàːrayyàr̃ Nàːjeːr̃iyàː kuma bà sù yàr̃da Nàːjeːr̃iyàː tà yi hulɗàː dà wata ƙasaː koː ƙungìyaː mài nasabàː dà Afir̃kà ta Kudù ba.
 1	manufoːfin	manufoːfiː	NOUN	_	Definite=Cons|Gender=Masc	8	dislocated@subj	_	_
 2	sìyaːsàː	sìyaːsàː	NOUN	_	Gender=Fem	1	mod	_	_
-3	irìn	irìn	ADP	_	_	1	mod	_	_
+3	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	1	mod	_	Gloss=type.Masc.Cons
 4	na	na	ADP	_	_	3	mod	_	_
 5	tàːrayyàr̃	tàːrayyàː	NOUN	_	Definite=Cons|Gender=Fem	4	comp:obj	_	_
 6	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	5	conj:appos	_	_

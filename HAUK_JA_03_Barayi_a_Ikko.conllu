@@ -22,7 +22,7 @@
 8	ꞌyan	ɗan	NOUN	_	Definite=Cons|Number=Plur	14	subj	_	_
 9	sàndaː	sàndaː	NOUN	_	Gender=Masc	8	compound	_	_
 10	màːsu	mài	PART	_	Number=Plur	8	mod	_	_
-11	ɗàuke	ɗàuke	VERB	_	ExtPos=ADV|VerbForm=Part	10	comp:obj	_	_
+11	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Part	10	comp:obj	_	_
 12	dà	dà	SCONJ	_	_	11	comp:obl	_	_
 13	màkàːmai	makàːiː	NOUN	_	Case=Gen|Gender=Masc|Person=3	12	comp:obj	_	_
 14	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
@@ -59,8 +59,8 @@
 10	mafìː	mafìː	PART	_	Gender=Masc	9	mod	_	_
 11	girmaː	girmaː	NOUN	_	Gender=Masc	10	comp:obj	_	_
 12	à	à	ADP	_	_	10	mod	_	_
-13	cikin	cikiː	ADP	_	Definite=Cons|Gender=Masc	12	comp.obj	_	_
-14	ƙasar̃	ƙasaː	NOUN	_	_	12	comp:obj	_	_
+13	cikin	cikin	ADP	_	_	12	comp:obj	_	_
+14	ƙasar̃	ƙasaː	NOUN	_	_	13	comp:obj	_	_
 15	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	14	mod	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -191,7 +191,7 @@
 1	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 2	kuma	kuma	PART	_	_	1	discourse@top	_	_
 3	yi	yi	VERB	_	_	1	comp:aux	_	_
-4	kiràː	kiràː	VERB	_	Gender=Masc	3	comp:pred	_	_
+4	kiràː	kir-	VERB	_	Gender=Masc	3	comp:pred	_	_
 5	gà	gà	ADP	_	_	3	comp:obl	_	_
 6	dukkàn	dukkàn	DET	_	PronType=Tot	7	det	_	_
 7	asibitoːciː	asibitoːciː	NOUN	_	Gender=Masc	5	comp:obj	_	_
@@ -210,7 +210,7 @@
 20	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	19	comp:obj	_	_
 21	danganèː	danganèː	ADV	_	Number=Plur	19	comp:obl	_	_
 22	dà	dà	ADP	_	_	21	mod	_	_
-23	irìn	irìn	ADP	_	Definite=Cons|Gender=Masc	22	comp:obj	_	_
+23	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	22	comp:obj	_	Gloss=type.Masc.Cons
 24	wannàn	wannàn	DET	_	PronType=Dem	25	det	_	_
 25	rauniː	rauniː	NOUN	_	Gender=Masc	23	mod	_	_
 26	na	na	ADP	_	Case=Gen	25	mod	_	_
@@ -247,7 +247,7 @@
 25	Nàːjeːr̃iyàr̃	Nàːjeːr̃iyàr̃	PROPN	_	_	24	comp:obj	_	_
 26	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	15	comp:obj	_	_
 27	fi	fi	VERB	_	_	26	comp:aux	_	_
-28	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:obj	_	_
+28	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:obj	_	Gloss=type.Masc.Cons
 29	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	31	comp:pred	_	_
 30	akà	nàː	AUX	_	Aspect=Prog|Person=4	28	mod@relcl	_	_
 31	yi	yi	VERB	_	_	30	comp:aux	_	_
@@ -281,7 +281,7 @@
 18	saːtàː	saːtàː	VERB	_	Gender=Fem	17	comp:pred	_	_
 19	à	à	ADP	_	_	17	mod	_	_
 20	bir̃nîn	bir̃niː	NOUN	_	Definite=Def|Gender=Masc	19	comp:obj	_	_
-21	à	à	ADP	_	Mood=Sub|Person=4	17	mod	_	_
+21	à	à	ADP	_	_	17	mod	_	_
 22	bàːra	bàːra	VERB	_	_	21	comp:obj	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	24	punct	_	_
 24	koː	koː	SCONJ	_	ExtPos=SCONJ	4	mod	_	Idiom=Yes

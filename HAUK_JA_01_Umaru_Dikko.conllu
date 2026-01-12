@@ -30,7 +30,7 @@
 7	tseːrèː	tseːr-	VERB	_	_	6	comp:aux	_	_
 8	neː	neː	PART	_	Gender=Masc|Number=Plur	7	discourse@foc	_	_
 9	dàgà	dàgà	ADP	_	_	7	comp:obl	_	_
-10	ƙasâr̃	ƙasâː	NOUN	_	_	9	comp:obj	_	_
+10	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	9	comp:obj	_	Gloss=country.Fem.PrevRef
 11	baːyan	baːyan	ADP	_	_	7	mod	_	_
 12	juːyìn	juːyìː	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	_
 13	mulkìn	mulkiː	NOUN	_	Definite=Cons|Gender=Masc	12	mod	_	_
@@ -90,7 +90,7 @@
 21	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	17	parataxis@conj	_	_
 22	yi	yi	VERB	_	_	21	comp:aux	_	_
 23	shìgaː	shìgaː	NOUN	_	ExtPos=NOUN|Gender=Fem	22	comp:pred	_	_
-24	irìn	irìn	ADP	_	_	23	mod	_	_
+24	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	23	mod	_	Gloss=type.Masc.Cons
 25	ta	ta	ADP	_	Case=Gen|Gender=Fem	24	mod	_	_
 26	fàːdaː	fàːdaː	NOUN	_	Gender=Fem	25	comp:obj	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	5	punct	_	_
@@ -156,9 +156,9 @@
 7	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
 8	cafkèː	cafk-	VERB	_	_	7	comp:aux	_	_
 9	shi	shi	PRON	_	Gender=Masc|Person=3	8	comp:obj	_	_
-10	à	à	ADP	_	ExtPos=ADP	8	comp:obl	_	Idiom=Yes
-11	kân	kâi	NOUN	_	Definite=Cons|Gender=Masc	10	comp.obj	_	InIdiom=Yes
-12	tiːtìn	tiːtìː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	_
+10	à	à	ADP	_	_	8	comp:obl	_	_
+11	kân	kân	ADP	_	_	10	comp:obj	_	_
+12	tiːtìn	tiːtìː	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	_
 13	Landàn	Landàn	PROPN	_	_	12	mod	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
 15	sukà	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	7	parataxis@conj	_	_
@@ -190,7 +190,7 @@
 41	gam	gan	IDEO	_	_	39	mod	_	SpaceAfter=No
 42	,	,	PUNCT	_	_	43	punct	_	_
 43	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	38	parataxis:conj	_	_
-44	shirin	shiriː	VERB	_	Definite=Cons|Gender=Masc	43	comp:aux	_	_
+44	shirin	shir-	VERB	_	Definite=Cons|Gender=Masc	43	comp:aux	_	_
 45	kai	kaːy-	VERB	_	_	44	comp:obj	_	_
 46	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	45	comp:obj@T	_	_
 47	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	45	comp:obj@G	_	SpaceAfter=No
@@ -200,7 +200,7 @@
 # text = à jìkin àkwàːtìn sai akà r̃ubùːtaː " zuwàː gà maꞌaikatar̃ har̃koːkin wàje, gwamnatìn tàːr̃ayyàr̃ Nàjeːr̃iyàː, Ìkko" , wàːtòː indà zaː à kai shì kèːnan.
 # text_ortho = À jìkin àkwàːtìn sai akà r̃ubùːtaː ‘Zuwàː gà Maꞌaikatar̃ Har̃koːkin Wàje, Gwamnatìn Tàːr̃ayyàr̃ Nàjeːr̃iyàː, Ìkko’, wàːtòː indà zaː à kai shì kèːnan.
 1	à	à	ADP	_	_	5	mod	_	_
-2	jìkin	jìkiː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	_
+2	jìkin	jìkin	ADP	_	_	1	comp:obj	_	_
 3	àkwàːtìn	àkwàːtìː	NOUN	_	Definite=Def|Gender=Masc	2	mod	_	_
 4	sai	sai	ADV	_	_	5	mod	_	_
 5	akà	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	_
@@ -231,7 +231,7 @@
 # text = à wajen indà ya kàmaːtà à r̃ubùːtà wandà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà oːfishin jàkaːdàn Nàjeːr̃iyàː, " Landàn" .
 # text_ortho = À wajen indà ya kàmaːtà à r̃ubùːtà wandà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà ꞌOːfishin Jàkaːdàn Nàjeːr̃iyàː, Landàn’.
 1	à	à	ADP	_	_	16	dislocated@top	_	_
-2	wajen	wajeː	NOUN	_	Definite=Cons|Gender=Masc	1	comp.obj	_	_
+2	wajen	wajen	ADP	_	_	1	comp.obj	_	_
 3	indà	indà	PRON	_	PronType=Rel	2	mod	_	_
 4	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	mod@relcl	_	_
 5	kàmaːtà	kàmaːtà	NOUN	_	Definite=Ind	4	comp:aux	_	_
@@ -278,8 +278,8 @@
 17	taːshìː	taːs-	VERB	_	Gender=Masc	16	comp:obj	_	_
 18	samà	samà	ADV	_	_	17	mod	_	_
 19	à	à	ADP	_	_	17	comp:obl	_	_
-20	cikin	cikiː	ADP	_	Definite=Cons|Gender=Masc	19	comp.obj	_	_
-21	jirgiː	jirgiː	NOUN	_	Gender=Masc	19	comp:obj	_	_
+20	cikin	cikin	ADP	_	_	19	comp:obj	_	_
+21	jirgiː	jirgiː	NOUN	_	Gender=Masc	20	comp:obj	_	_
 22	ba	ba	PART	_	Polarity=Neg	16	mod	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	11	punct	_	_
 
@@ -404,9 +404,9 @@
 27	gur̃faːnar̃	gur̃faːnar̃	VERB	_	_	26	comp:obj	_	_
 28	dà	dà	ADP	_	_	27	comp:obl	_	_
 29	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	28	comp:obj	_	_
-30	à	à	ADP	_	Mood=Sub|Person=4	27	comp:obl	_	_
-31	gàban	gàbaː	ADP	_	Definite=Cons|Gender=Masc	30	comp.obj	_	_
-32	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Gender=Fem	30	comp:obj	_	_
+30	à	à	ADP	_	_	27	comp:obl	_	_
+31	gàban	gàban	ADP	_	_	30	comp:obj	_	_
+32	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Gender=Fem	31	comp:obj	_	_
 33	kân	kân	ADP	_	_	27	comp:obl	_	_
 34	lâifin	lâifiː	NOUN	_	Definite=Cons|Gender=Masc	33	comp:obj	_	_
 35	cîn	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	34	mod	_	_
@@ -473,13 +473,13 @@
 4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	2	comp:obj	_	_
 5	càncànci	càncànci	VERB	_	_	4	comp:aux	_	_
 6	à	yà	AUX	_	Mood=Sub|Person=4	5	comp:obj	_	_
-7	ɗàukeː	ɗàukaː	VERB	_	_	6	comp:aux	_	_
+7	ɗàukeː	ɗauk-	VERB	_	_	6	comp:aux	_	_
 8	shì	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	7	comp:obj	_	_
 9	à	à	ADP	_	_	7	comp:obl	_	_
-10	matsayin	matsayin	ADP	_	_	9	comp:obl	_	_
-11	ɗan	ɗan	ADJ	_	Definite=Cons|Gender=Masc	9	comp:obj	_	_
+10	matsayin	matsayin	ADP	_	_	9	comp:obj	_	_
+11	ɗan	ɗan	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	_
 12	gudùn	gudùː	NOUN	_	Definite=Cons|Gender=Masc	11	compound	_	_
-13	hijir̃aː	hijir̃aː	NOUN	_	Gender=Fem	12	compound	_	_
+13	hijir̃aː	hijir̃aː	NOUN	_	Gender=Fem	12	mod	_	_
 14	à	à	ADP	_	_	7	mod	_	_
 15	nân	nân	ADV	_	PronType=Dem	14	comp:obj	_	_
 16	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	15	mod	_	SpaceAfter=No
@@ -510,7 +510,7 @@
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	comp:obj	_	_
 6	kai	kai	VERB	_	_	5	comp:aux	_	_
 7	ƙaːrar̃	ƙaːraː	NOUN	_	_	6	mod	_	_
-8	neːman	neːman	VERB	_	PronType=Dem	7	mod	_	_
+8	neːman	neːm-	VERB	_	PronType=Dem	7	mod	_	_
 9	à	yà	AUX	_	Mood=Sub|Person=4	8	comp:obj	_	_
 10	baː	baː	VERB	_	_	9	comp:aux	_	_
 11	shì	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	10	comp:obj@R	_	_

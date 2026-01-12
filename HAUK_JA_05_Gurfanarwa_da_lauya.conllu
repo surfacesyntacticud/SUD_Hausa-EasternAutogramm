@@ -47,7 +47,7 @@
 13	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	1	conj:coord	_	_
 14	tàːƙamaː	tàːƙamaː	NOUN	_	Gender=Fem	13	comp:aux	_	_
 15	dà	dà	ADP	_	_	14	comp:obl	_	_
-16	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	_
+16	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	Gloss=type.Masc.Cons
 17	abuːbuwàn	àbù	NOUN	_	Definite=Cons|Number=Plur	16	mod	_	_
 18	dà	dà	SCONJ	_	_	16	mod@relcl	_	_
 19	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	18	comp:obj	_	_
@@ -202,9 +202,9 @@
 35	gur̃faːnar̃	gur̃faːn-	VERB	_	_	34	comp:aux	_	_
 36	dà	dà	ADP	_	_	35	comp:obl	_	_
 37	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	36	comp:obj	_	_
-38	à	à	ADP	_	ExtPos=ADP	35	comp:obl	_	_
-39	gàban	gàbaː	NOUN	_	Definite=Cons|Gender=Masc	38	comp.obj	_	_
-40	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Definite=Ind|Gender=Fem	38	comp:obj	_	_
+38	à	à	ADP	_	_	35	comp:obl	_	_
+39	gàban	gàban	ADP	_	_	38	comp:obj	_	_
+40	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Definite=Ind|Gender=Fem	39	comp:obj	_	_
 41	ba	ba	PART	_	Polarity=Neg	30	mod	_	SpaceAfter=No
 42	.	.	PUNCT	_	_	11	punct	_	_
 
@@ -229,7 +229,7 @@
 17	dà	dà	ADP	_	_	16	mod	_	_
 18	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	17	comp:obj	_	_
 19	à	à	ADP	_	ExtPos=ADP	15	mod	_	_
-20	gàban	gàbaː	ADP	_	Definite=Cons|Gender=Masc	19	comp.obj	_	_
+20	gàban	gàban	ADP	_	_	19	comp.obj	_	_
 21	wata	wata	DET	_	Gender=Fem	22	det	_	_
 22	koːtù	koːtù	NUM	_	Gender=Fem	19	comp:obj	_	_
 23	ta	ta	ADP	_	Case=Gen|Gender=Fem	22	mod	_	_
@@ -242,7 +242,7 @@
 30	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	29	mod	_	_
 31	ƙafàr̃	ƙafàː	NOUN	_	Definite=Cons|Gender=Fem	30	comp:pred	_	_
 32	àngùlu	àngùlu	NOUN	_	Gender=Masc	31	mod	_	_
-33	à	à	ADP	_	Mood=Sub|Person=4	34	mod	_	_
+33	à	à	ADP	_	_	34	mod	_	_
 34	shirìn	shirìː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	_
 35	miːƙà	miːƙà	PRON	_	Number=Plur	34	mod	_	_
 36	mulkìː	mulkìː	NOUN	_	Gender=Masc	34	comp:obj	_	_
@@ -290,8 +290,8 @@
 33	r̃aꞌàyin	r̃aꞌàyiː	NOUN	_	Definite=Cons|Number=Plur	32	comp:obj	_	_
 34	canjìː	canjìː	NOUN	_	Gender=Masc	33	mod	_	_
 35	à	à	ADP	_	_	26	comp:obl	_	_
-36	cikin	cikin	ADP	_	_	35	comp.obj	_	_
-37	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	35	comp:obj	_	_
+36	cikin	cikin	ADP	_	_	35	comp:obj	_	_
+37	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	36	comp:obj	_	_
 38	Maːyù	Maːyù	PROPN	_	_	37	mod	_	SpaceAfter=No
 39	.	.	PUNCT	_	_	16	punct	_	_
 
@@ -369,7 +369,7 @@
 1	Yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 2	fitoː	fitoː	VERB	_	_	1	comp:aux	_	_
 3	à	à	ADP	_	_	2	comp:obl	_	_
-4	kaːnun	kaːnuː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	_
+4	kaːnun	kân	ADP	_	_	3	comp:obj	_	_
 5	làːbàːr̃ai	làːbàːr̃ai	NOUN	_	Case=Gen|Gender=Masc|Person=3	4	mod	_	_
 6	nèː	neː	PART	_	_	4	discourse@foc	_	_
 7	à	à	ADP	_	_	2	comp:obl	_	_
@@ -589,9 +589,9 @@
 13	dà	dà	ADP	_	_	12	comp:obl	_	_
 14	Chief	Chief	PROPN	_	_	13	comp:obj	_	_
 15	G.F.	G.f.	PROPN	_	_	14	flat@name	_	_
-16	à	à	ADP	_	Mood=Sub|Person=4	12	comp:obl	_	_
-17	gàban	gàbaː	ADP	_	Definite=Cons|Gender=Masc	16	comp.obj	_	_
-18	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Definite=Ind|Gender=Fem	16	comp:obj	_	SpaceAfter=No
+16	à	à	ADP	_	_	12	comp:obl	_	_
+17	gàban	gàban	ADP	_	_	16	comp:obj	_	_
+18	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Definite=Ind|Gender=Fem	17	comp:obj	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	22	punct	_	_
 20	koː	koː	CCONJ	_	_	22	cc	_	_
 21	kùwa	kùwa	PART	_	_	20	discourse@top	_	_
