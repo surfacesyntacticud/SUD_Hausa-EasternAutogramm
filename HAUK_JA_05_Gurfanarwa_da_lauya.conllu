@@ -34,7 +34,7 @@
 # text = Tanàː cîː gàba dà shirìn baːyar̃ dà mulkìː gà farar̃-hùːlaː, kuma tanàː tàːƙamaː dà irìn abuːbuwàn dà ta yi danganèː dà kaːrè haƙƙìn ꞌyan ƙasâr̃.
 1	Tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	_
 2	cîː	cîː	VERB	_	ExtPos=NOUN|Gender=Masc	1	comp:aux	_	_
-3	gàba	gàba	ADV	_	_	2	comp:obl	_	_
+3	gàba	gàba	ADV	_	_	2	mod	_	_
 4	dà	dà	ADP	_	_	2	comp:obl	_	_
 5	shirìn	shirìː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	_
 6	baːyar̃	baːyar̃	VERB	_	_	5	mod	_	_
@@ -52,11 +52,11 @@
 18	dà	dà	SCONJ	_	_	16	mod@relcl	_	_
 19	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	18	comp:obj	_	_
 20	yi	yi	VERB	_	_	19	comp:aux	_	_
-21	danganèː	danganèː	NOUN	_	ExtPos=ADP|Gender=Masc	20	mod	_	Gloss=relation.Masc|Idiom=Yes
-22	dà	dà	ADP	_	_	21	compound	_	Gloss=with|InIdiom=Yes
+21	danganèː	danganèː	NOUN	_	ExtPos=SCONJ|Gender=Masc	20	mod	_	Idiom=Yes
+22	dà	dà	ADP	_	_	21	compound	_	InIdiom=Yes
 23	kaːrè	kaːr-	VERB	_	_	21	comp:obj	_	_
 24	haƙƙìn	haƙƙìː	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	_
-25	ꞌyan	ɗan	NOUN	_	Definite=Cons|Number=Plur	24	mod	_	_
+25	ꞌyan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	24	mod	_	_
 26	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	25	compound	_	Gloss=country.Fem.PrevRef|SpaceAfter=No
 27	.	.	PUNCT	_	_	1	punct	_	_
 
