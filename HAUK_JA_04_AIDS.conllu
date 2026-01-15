@@ -1,0 +1,597 @@
+# sent_id = AIDS__1
+# text = Cùːtar̃ karyà gàrkuwar̃ jìkiː, wato ‘AIDS’
+# text_ortho = Cùːtar̃ karyà gàrkuwar̃ jìkiː, wato ‘AIDS’
+1	cùːtar̃	cùːtaː	NOUN	_	Gender=Fem	0	root	_	_
+2	karyà	karyàː	VERB	_	_	1	mod	_	_
+3	gàrkuwar̃	gàrkuwaː	NOUN	_	Definite=Cons|Gender=Fem	2	comp:obj	_	_
+4	jìkiː	jìkiː	NOUN	_	Gender=Masc	3	mod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	wato	wato	DET	_	Gender=Masc	8	discourse	_	_
+7	"	"	PUNCT	_	_	8	punct	_	wordform=‘
+8	AIDS	AIDS	PROPN	_	_	1	conj:dicto	_	SpaceAfter=No
+9	"	"	PUNCT	_	_	8	punct	_	wordform=’
+
+# sent_id = AIDS__2a
+# text = cùːtâr̃ nan mài karyà gàrkuwar̃ jìkiː – wàːtòː AIDS – cùːtaː cèː dà akèː bazàːwaː ta jiniː dà màniyyìː;
+# text_ortho = Cùːtâr̃ nan mài karyà gàrkuwar̃ jìkiː – wàːtòː AIDS – cùːtaː cèː dà akèː bazàːwaː ta jiniː dà màniyyìː;
+1	cùːtâr̃	cùːtâː	NOUN	_	Definite=Ind|Gender=Fem	12	subj	_	_
+2	nan	nan	DET	_	Definite=Def|PronType=Dem	1	det	_	_
+3	mài	mài	ADP	_	Number=Sing	1	mod	_	_
+4	karyà	karyàː	VERB	_	_	3	comp:obj	_	_
+5	gàrkuwar̃	gàrkuwaː	NOUN	_	Definite=Cons|Gender=Fem	4	comp:obj	_	_
+6	jìkiː	jìkiː	NOUN	_	Definite=Ind	5	mod	_	_
+7	–	–	PUNCT	_	_	9	punct	_	_
+8	wàːtòː	wàːtòː	NOUN	_	Gender=Masc	9	discourse	_	_
+9	AIDS	AIDS	PROPN	_	_	1	conj:dicto	_	_
+10	–	–	PUNCT	_	_	9	punct	_	_
+11	cùːtaː	cùːtaː	NOUN	_	Gender=Fem	12	comp:pred	_	_
+12	cèː	neː	AUX	_	Gender=Fem	0	root	_	_
+13	dà	dà	SCONJ	_	_	11	mod@relcl	_	_
+14	akèː	nàː	AUX	_	Aspect=Prog|Person=4	13	comp:obj	_	_
+15	bazàːwaː	bazàːwaː	VERB	_	Gender=Fem	14	comp:aux	_	_
+16	ta	ta	ADP	_	Gender=Fem|Person=3	15	mod:obl	_	_
+17	jiniː	jiniː	NOUN	_	Definite=Ind|Gender=Masc	16	comp:obj	_	_
+18	dà	dà	CCONJ	_	_	19	cc	_	_
+19	màniyyìː	màniyyìː	NOUN	_	Gender=Masc	17	conj:coord	_	SpaceAfter=No
+20	;	;	PUNCT	_	_	12	punct	_	_
+
+# sent_id = AIDS__2b
+# text = wàːtòː ìdan akà ɗuːràː wà wani mài jinyàː jinin wani mài ɗàuke dà ƙwaːyoːyin cùːtar̃ AIDS, tòː shiː wandà akà ɗuːràː wà jiniː zâi kàːmu dà ƙwaːyoːyin cùːtâr̃.
+# text_ortho = watòː ìdan akà ɗuːràː wà wani mài jinyàː jinin wani mài ɗàuke dà ƙwaːyoːyin cùːtar̃ AIDS, tòː shiː wandà akà ɗuːràː wà jiniː zâi kamu dà ƙwaːyoːyin cùːtâr̃.
+1	wàːtòː	wàːtòː	PART	_	_	25	discourse	_	_
+2	ìdan	ìdan	SCONJ	_	_	25	mod	_	_
+3	akà	nàː	AUX	_	Aspect=Prog|Person=4	2	comp:obj	_	_
+4	ɗuːràː	ɗuːràː	VERB	_	ExtPos=NOUN|Gender=Fem	3	comp:aux	_	_
+5	wà	wà	ADP	_	_	4	comp:obl	_	_
+6	wani	wani	PRON	_	Definite=Spec|Gender=Masc	5	comp:obj	_	_
+7	mài	mài	PART	_	Number=Sing	6	mod	_	_
+8	jinyàː	jinyàː	NOUN	_	_	7	comp:obj	_	_
+9	jinin	jiniː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	_
+10	wani	wani	DET	_	Definite=Spec|Gender=Masc	9	mod	_	_
+11	mài	mài	PART	_	Number=Sing	10	mod	_	_
+12	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Part	11	comp:obj	_	_
+13	dà	dà	ADP	_	_	12	comp:obl	_	_
+14	ƙwaːyoːyin	ƙwaːyoːyiː	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	_
+15	cùːtar̃	cùːtaː	NOUN	_	Definite=Ind|Gender=Fem	14	mod	_	_
+16	AIDS	AIDS	PROPN	_	_	15	mod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	2	punct	_	_
+18	tòː	tòː	INTJ	_	_	25	discourse	_	_
+19	shiː	shiː	PRON	_	Gender=Masc|Person=3	25	dislocated@subj	_	_
+20	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	19	conj:appos	_	_
+21	akà	nàː	AUX	_	Aspect=Prog|Person=4	20	mod@relcl	_	_
+22	ɗuːràː	ɗuːràː	VERB	_	ExtPos=NOUN|Gender=Fem	21	comp:aux	_	_
+23	wà	wà	PRON	_	Gender=Masc|PronType=Dem	22	comp:obl	_	_
+24	jiniː	jiniː	NOUN	_	Definite=Ind|Gender=Masc	22	comp:obj	_	_
+25	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	0	root	_	_
+26	kàːmu	kaːm-	VERB	_	_	25	comp:aux	_	_
+27	dà	dà	ADP	_	_	26	comp:obl	_	_
+28	ƙwaːyoːyin	ƙwaːyoːyiː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:obj	_	_
+29	cùːtâr̃	cùːtâː	NOUN	_	Definite=Ind|Gender=Fem	28	mod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	25	punct	_	_
+
+# sent_id = AIDS__3
+# text = Hakà kuma ìdan anàː yi wà mutàːneː dàbam dàbam àlluːràː dà àlluːràː gùdaː, tòː ìdan wani dàgà cikin waɗàndà akà yi wà àlluːr̃àr̃ yanàː dà ƙwaːyoːyin cùːtar̃ AIDS à jìkinsà, zâi bazà ƙwaːyoːyin cùːtâr̃ gà sauran waɗàndà akà yi wà àlluːr̃àr̃.
+# text_ortho = Hakà kuma ìdan anàː yi wà mutàːneː dàbam dàbam àlluːràː dà àlluːràː gùdaː, tòː ìdan wani dàgà cikin waɗàndà akà yi wà àlluːr̃àr̃ yanàː dà ƙwaːyoːyin cùːtar̃ AIDS à jìkinsà, zâi bazà ƙwaːyoːyin cùːtâr̃ gà sauran waɗàndà akà yi wà àlluːr̃àr̃.
+1	hakà	hakà	ADV	_	_	33	mod	_	_
+2	kuma	kuma	PART	_	_	1	discourse@top	_	_
+3	ìdan	ìdan	SCONJ	_	_	33	mod	_	_
+4	anàː	nàː	AUX	_	Aspect=Prog|Person=4	3	comp:obj	_	_
+5	yi	yi	VERB	_	_	4	comp:aux	_	_
+6	wà	wà	ADP	_	Case=Dat	5	comp:obl	_	_
+7	mutàːneː	mùtûm	NOUN	_	Number=Plur	6	comp:obj	_	_
+8	dàbam	dàbam	ADV	_	_	7	mod	_	_
+9	dàbam	dàbam	ADV	_	_	8	conj:redup	_	_
+10	àlluːràː	àlluːràː	NOUN	_	Definite=Ind|Gender=Fem	5	comp:pred	_	_
+11	dà	dà	ADP	_	_	5	comp:obl	_	_
+12	àlluːràː	àlluːràː	NOUN	_	Definite=Ind|Gender=Fem	11	comp:obj	_	_
+13	gùdaː	gùdaː	NUM	_	_	12	mod:num	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	3	punct	_	_
+15	tòː	tòː	INTJ	_	_	33	discourse	_	_
+16	ìdan	ìdan	SCONJ	_	_	33	mod	_	_
+17	wani	wani	DET	_	Definite=Spec|Gender=Masc	25	subj	_	_
+18	dàgà	dàgà	ADP	_	_	17	mod	_	_
+19	cikin	cikin	ADP	_	_	18	comp:obj	_	_
+20	waɗàndà	waɗàndà	PRON	_	Number=Plur|PronType=Rel	19	comp:obj	_	_
+21	akà	nàː	AUX	_	Aspect=Prog|Person=4	20	mod@relcl	_	_
+22	yi	yi	VERB	_	_	21	comp:aux	_	_
+23	wà	wà	ADP	_	Case=Dat	22	comp:obl	_	_
+24	àlluːr̃àr̃	àlluːr̃àː	NOUN	_	Definite=Ind|Gender=Fem	22	comp:pred	_	_
+25	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	16	comp:obj	_	_
+26	dà	dà	ADP	_	_	25	comp:pred	_	_
+27	ƙwaːyoːyin	ƙwaːyoːyiː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:obj	_	_
+28	cùːtar̃	cùːtaː	NOUN	_	Definite=Ind|Gender=Fem	27	mod	_	_
+29	AIDS	AIDS	PROPN	_	_	28	mod	_	_
+30	à	à	ADP	_	_	25	mod	_	_
+31	jìkinsà	jìkiː	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	30	comp:obj	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	16	punct	_	_
+33	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	0	root	_	_
+34	bazà	bazà	VERB	_	_	33	comp:aux	_	_
+35	ƙwaːyoːyin	ƙwaːyoːyiː	NOUN	_	Definite=Cons|Gender=Masc	34	comp:obj	_	_
+36	cùːtâr̃	cùːtâː	NOUN	_	Definite=Ind|Gender=Fem	35	mod	_	_
+37	gà	gà	ADP	_	_	34	comp:obl	_	_
+38	sauran	sauraː	NOUN	_	Definite=Cons	37	comp:obj	_	_
+39	waɗàndà	waɗàndà	PRON	_	Number=Plur|PronType=Rel	38	mod	_	_
+40	akà	nàː	AUX	_	Aspect=Prog|Person=4	39	mod@relcl	_	_
+41	yi	yi	VERB	_	_	40	comp:aux	_	_
+42	wà	wà	ADP	_	Gender=Masc|PronType=Dem	41	comp:obl	_	_
+43	àlluːr̃àr̃	àlluːr̃àː	NOUN	_	Definite=Ind|Gender=Fem	41	comp:pred	_	SpaceAfter=No
+44	.	.	PUNCT	_	_	33	punct	_	_
+
+# sent_id = AIDS__4
+# text = Bayan hakà, duk wata irìn taːràːwaː – wàːtòː jìmaːꞌì - tsàkaːnin màcè dà namijì koː tsàkaːnin namijì dà namijì, tanàː dà haɗàriː.
+# text_ortho = Bayan hakà, duk wata irìn taːràːwaː – wàːtòː jìmaːꞌì - tsàkaːnin màcè dà namijì koː tsàkaːnin namijì dà namijì, tanàː dà haɗàriː.
+1	bayan	bayan	ADP	_	_	22	mod	_	_
+2	hakà	hakà	ADV	_	_	1	comp:obj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	duk	dukà	DET	_	_	6	det	_	_
+5	wata	wata	DET	_	Gender=Fem	6	det	_	_
+6	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	22	subj	_	Gloss=type.Masc.Cons
+7	taːràːwaː	taːr-	NOUN	_	ExtPos=NOUN|Gender=Fem	6	mod	_	_
+8	–	–	PUNCT	_	_	10	punct	_	_
+9	wàːtòː	wàːtòː	NOUN	_	Gender=Masc	10	discourse	_	_
+10	jìmaːꞌì	jìmaːꞌì	NOUN	_	Gender=Masc	7	conj:dicto	_	_
+11	-	-	PUNCT	_	_	10	punct	_	_
+12	tsàkaːnin	tsàkaːnin	ADP	_	Definite=Cons|Gender=Masc	10	mod	_	_
+13	màcè	màcè	NOUN	_	Definite=Ind|Gender=Fem	12	comp:obj	_	_
+14	dà	dà	CCONJ	_	_	15	cc	_	_
+15	namijì	namijì	NOUN	_	Gender=Masc	13	conj:coord	_	_
+16	koː	koː	CCONJ	_	_	17	cc	_	_
+17	tsàkaːnin	tsàkaːnin	ADP	_	Definite=Cons|Gender=Masc	12	conj:coord	_	_
+18	namijì	namijì	NOUN	_	Definite=Ind|Gender=Masc	17	comp:obj	_	_
+19	dà	dà	CCONJ	_	_	20	cc	_	_
+20	namijì	namijì	NOUN	_	Gender=Masc	18	conj:coord	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	6	punct	_	_
+22	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	_
+23	dà	dà	ADP	_	_	22	comp:pred	_	_
+24	haɗàriː	haɗàriː	NOUN	_	Definite=Ind|Number=Plur	23	comp:obj	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	22	punct	_	_
+
+# sent_id = AIDS__5
+# text = Màcè mài taːràːwaː dà namijì tanàː iyà baː shì ƙwaːyoːyin cùːtâr̃;
+# text_ortho = Màcè mài taːràːwaː dà namijì tanàː iyà baː shì ƙwaːyoːyin cùːtâr̃;
+1	màcè	màcè	NOUN	_	Gender=Fem	6	subj	_	_
+2	mài	mài	ADP	_	Number=Sing	1	mod	_	_
+3	taːràːwaː	taːr-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	2	comp:obj	_	_
+4	dà	dà	SCONJ	_	_	3	comp:obl	_	_
+5	namijì	namijì	NOUN	_	Gender=Masc	4	comp:obj	_	_
+6	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	_
+7	iyà	iy-	VERB	_	_	6	comp:aux	_	_
+8	baː	baː	VERB	_	_	7	comp:obj	_	_
+9	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	8	comp:obj@R	_	_
+10	ƙwaːyoːyin	ƙwaːyoːyiː	NOUN	_	Definite=Cons	8	comp:obj@T	_	_
+11	cùːtâr̃	cùːtâː	NOUN	_	_	10	mod	_	SpaceAfter=No
+12	;	;	PUNCT	_	_	6	punct	_	_
+
+# sent_id = AIDS__6
+# text = hakà kuma namijì mài taːràːwaː dà màcè koː namijì, shiː maː yanàː iyà bazà cùːtâr̃ ta màniyyìnsà.
+# text_ortho = hakà kuma namijì mài taːràːwaː dà màcè koː namijì, shiː maː yanàː iyà bazà cùːtâr̃ ta màniyyìnsà.
+1	hakà	hakà	ADV	_	_	13	mod	_	_
+2	kuma	kuma	PART	_	_	1	discourse@top	_	_
+3	namijì	namijì	NOUN	_	Definite=Ind|Gender=Masc	13	dislocated@subj	_	_
+4	mài	mài	ADP	_	Number=Sing	3	mod	_	_
+5	taːràːwaː	taːr-	VERB	_	ExtPos=NOUN|Gender=Fem	4	comp:obj	_	_
+6	dà	dà	CCONJ	_	_	5	comp:obl	_	_
+7	màcè	màcè	NOUN	_	Definite=Ind|Gender=Fem	6	comp:obj	_	_
+8	koː	koː	CCONJ	_	_	9	cc	_	_
+9	namijì	namijì	NOUN	_	Gender=Masc	7	conj:coord	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	3	punct	_	_
+11	shiː	shiː	PRON	_	Gender=Masc|Person=3	13	dislocated@subj	_	_
+12	maː	maː	PART	_	_	11	discourse@top	_	_
+13	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	_
+14	iyà	iy-	VERB	_	_	13	comp:aux	_	_
+15	bazà	bazà	ADP	_	_	14	comp:obj	_	_
+16	cùːtâr̃	cùːtâː	NOUN	_	Definite=Ind|Gender=Fem	15	comp:obj	_	_
+17	ta	ta	ADP	_	Case=Gen|Gender=Fem	15	comp:obl	_	_
+18	màniyyìnsà	màniyyìːsù	NOUN	_	Definite=Cons|Gender=Masc|Person=3	17	comp:obj	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = AIDS__7
+# text = Kàmar̃ yaddà akà sanìː, cùːtar̃ AIDS bâː ta dà maːgàniː, kuma mài ɗàuke dà ƙwaːyoːyin cùːtâr̃ à jininsà, bàː zaː à ga wata àlaːmàː ta cùːtâr̃ à jìkinsà ba, sai dai à jininsà, kuma yanàː iyà bazà cùːtâr̃ ta jininsà dà màniyyìnsà har̃ shèːkaràː takwàs koː tar̃a kàːfin ainihin cùːtâr̃ tà faːrà laːlàːtà jìkinsà, tà zama ajàlinsà.
+# text_ortho = Kàmar̃ yaddà akà sanìː, cùːtar̃ AIDS bâː ta dà maːgàniː, kuma mài ɗàuke dà ƙwaːyoːyin cùːtâr̃ à jininsà, bàː zaː à ga wata àlaːmàː ta cùːtâr̃ à jìkinsà ba, sai dai à jininsà, kuma yanàː iyà bazà cùːtâr̃ ta jininsà dà màniyyìnsà har̃ shèːkaràː takwàs koː tar̃a kàːfin ainihin cùːtâr̃ tà faːrà laːlàːtà jìkinsà, tà zama ajàlinsà.
+1	kàmar̃	kàmar̃	ADP	_	_	8	mod	_	_
+2	yaddà	yaddà	ADV	_	_	1	comp:obj	_	_
+3	akà	nàː	AUX	_	Aspect=Prog|Person=4	2	mod@relcl	_	_
+4	sanìː	sanìː	VERB	_	_	3	comp:aux	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	cùːtar̃	cùːtaː	NOUN	_	Definite=Ind|Gender=Fem	8	dislocated@subj	_	_
+7	AIDS	AIDS	PROPN	_	_	6	mod	_	_
+8	bâː	baːbù	PART	_	Polarity=Neg	0	root	_	_
+9	ta	ta	PRON	_	Gender=Fem|Person=3	8	subj	_	_
+10	dà	dà	ADP	_	_	8	comp:pred	_	_
+11	maːgàniː	maːgàniː	NOUN	_	Definite=Ind|Gender=Masc	10	comp:obj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	23	punct	_	_
+13	kuma	kuma	CCONJ	_	_	23	cc	_	_
+14	mài	mài	ADP	_	Gender=Masc	23	dislocated@top	_	_
+15	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Stat	14	comp:obj	_	_
+16	dà	dà	ADP	_	_	15	comp:obl	_	_
+17	ƙwaːyoːyin	ƙwaːyoːyiː	NOUN	_	Definite=Cons|Number=Plur	16	comp:obj	_	_
+18	cùːtâr̃	cùːtâː	NOUN	_	Definite=Ind|Gender=Fem	17	compound	_	_
+19	à	à	ADP	_	_	15	mod	_	_
+20	jininsà	jiniːtà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	19	comp:obj	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	14	punct	_	_
+22	bàː	bàː	PART	_	Polarity=Neg	23	mod	_	_
+23	zaːà	zâi	AUX	_	Mood=Sub|Person=4	_	_	_	wordform=à
+24	ga	ganiː	VERB	_	_	23	comp:aux	_	_
+25	wata	wata	DET	_	Gender=Fem	26	det	_	_
+26	àlaːmàː	àlaːmàː	NOUN	_	Definite=Ind|Gender=Fem	24	comp:obj	_	_
+27	ta	ta	PRON	_	Gender=Fem|Person=3	26	mod	_	_
+28	cùːtâr̃	cùːtâː	NOUN	_	Definite=Ind|Gender=Fem	27	comp:obj	_	_
+29	à	à	ADP	_	_	24	comp:obl	_	_
+30	jìkinsà	jìkiːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	29	comp:obj	_	_
+31	ba	ba	PART	_	Polarity=Neg	24	mod	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	33	punct	_	_
+33	sai	sai	ADP	_	_	24	mod	_	_
+34	dai	dai	PART	_	_	33	discourse@top	_	_
+35	à	à	ADP	_	_	33	comp:obj	_	_
+36	jininsà	jiniːtà	VERB	_	_	35	comp:obj	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	39	punct	_	_
+38	kuma	kuma	CCONJ	_	_	39	cc	_	_
+39	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	23	conj:coord	_	_
+40	iyà	iy-	VERB	_	_	39	comp:aux	_	_
+41	bazà	bazàː	VERB	_	_	40	comp:obj	_	_
+42	cùːtâr̃	cùːtâː	NOUN	_	Definite=Ind|Gender=Fem	41	comp:obj	_	_
+43	ta	ta	ADP	_	_	41	comp:obl	_	_
+44	jininsà	jiniːtà	NOUN	_	Gender=Masc|PronType=Dem	43	comp:obj	_	_
+45	dà	dà	CCONJ	_	_	46	cc	_	_
+46	màniyyìnsà	màniyyìːsù	NOUN	_	Definite=Cons|Gender=Fem|Person=3	44	conj:coord	_	_
+47	har̃	har̃	ADP	_	_	41	mod	_	_
+48	shèːkaràː	shèːkaràː	NOUN	_	Definite=Ind|Gender=Fem	47	comp:obj	_	_
+49	takwàs	takwàs	NUM	_	_	48	mod:num	_	_
+50	koː	koː	CCONJ	_	_	51	cc	_	_
+51	tar̃a	tar̃a	NUM	_	_	49	conj:coord	_	_
+52	kàːfin	kàːfin	SCONJ	_	_	41	mod	_	_
+53	ainihin	ainihiː	ADJ	_	Definite=Cons|Gender=Masc	54	mod	_	_
+54	cùːtâr̃	cùːtâː	NOUN	_	Definite=Ind|Gender=Masc	55	subj	_	_
+55	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	52	comp:obj	_	_
+56	faːrà	faːràː	VERB	_	_	55	comp:aux	_	_
+57	laːlàːtà	laːlàːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	56	comp:obj	_	_
+58	jìkinsà	jìkiːsù	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur|Person=3	57	comp:obj	_	SpaceAfter=No
+59	,	,	PUNCT	_	_	60	punct	_	_
+60	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	57	mod	_	_
+61	zama	zama	VERB	_	_	60	comp:aux	_	_
+62	ajàlinsà	ajàliː	NOUN	_	Definite=Ind|Gender=Fem	61	comp:pred	_	SpaceAfter=No
+63	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = AIDS__8
+# text_ortho = An sàːmi r̃àhoːtòː dàgà Àbijân, bàbban bir̃nin Aːbir̃ù Kwâs, wandà ya nuːnà cêːwaː rabìn mazân dà akà yi wà gwajìː à wani bàbban asìbitì sunàː ɗàuke dà ƙwaːyoːyin cùːtâr̃.
+# text = An sàːmi r̃àhoːtòː dàgà Àbijân, bàbban bir̃nin Aːbir̃ù Kwâs, wandà ya nuːnà cêːwaː rabìn mazân dà akà yi wà gwajìː à wani bàbban asìbitì sunàː ɗàuke dà ƙwaːyoːyin cùːtâr̃.
+1	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	_
+2	sàːmi	saːm-	VERB	_	_	1	comp:aux	_	_
+3	r̃àhoːtòː	r̃àhoːtòː	NOUN	_	Gender=Masc	2	comp:obj	_	_
+4	dàgà	dàgà	ADP	_	_	2	comp:obl	_	_
+5	Àbijân	Àbijân	PROPN	_	_	4	comp:obj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	bàbban	bàbbaː	ADJ	_	Definite=Cons|Gender=Masc	8	compound	_	_
+8	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	5	conj:appos	_	_
+9	Aːbir̃ù	Aːbir̃ù	PROPN	_	_	8	mod	_	_
+10	Kwâs	Kwâs	PROPN	_	_	9	flat@name	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	13	subj	_	_
+13	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	mod@relcl	_	_
+14	nuːnà	nuːn-	VERB	_	_	13	comp:aux	_	_
+15	cêːwaː	cêː	SCONJ	_	ExtPos=NOUN|Gender=Fem	14	comp:obj	_	_
+16	rabìn	rabìː	NOUN	_	Definite=Cons|Gender=Masc	27	subj	_	_
+17	mazân	mazaː	NOUN	_	Definite=Def|Gender=Masc	16	mod	_	_
+18	dà	dà	SCONJ	_	_	17	mod@relcl	_	_
+19	akà	nàː	AUX	_	Aspect=Prog|Person=4	18	comp:obj	_	_
+20	yi	yi	VERB	_	_	19	comp:aux	_	_
+21	wà	wà	ADP	_	Case=Dat	20	comp:obl	_	_
+22	gwajìː	gwajìː	NOUN	_	ExtPos=NOUN|Gender=Masc	20	comp:pred	_	_
+23	à	à	ADP	_	_	20	mod	_	_
+24	wani	wani	DET	_	Definite=Spec|Gender=Masc	26	det	_	_
+25	bàbban	bàbbaː	ADJ	_	Definite=Cons|Gender=Masc	26	mod	_	_
+26	asìbitì	asìbitì	NOUN	_	Gender=Masc	23	comp:obj	_	_
+27	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	15	comp:obj	_	_
+28	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Stat	27	comp:pred	_	_
+29	dà	dà	ADP	_	_	28	comp:obl	_	_
+30	ƙwaːyoːyin	ƙwaːyoːyiː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	_
+31	cùːtâr̃	cùːtâː	NOUN	_	_	30	compound	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = AIDS__9
+# text_ortho = Tòː ꞌyàːꞌyàː àbîn yakè à ƙasar̃ Nàːjeːr̃iyàː ?
+# text = Tòː ꞌyàːꞌyàː àbîn yakè à ƙasar̃ Nàːjeːr̃iyàː ?
+1	tòː	tòː	INTJ	_	_	2	discourse	_	_
+2	ꞌyàːꞌyàː	ꞌyàːꞌyàː	ADV	_	_	0	root	_	_
+3	àbîn	àbù	NOUN	_	Definite=Ind	4	subj	_	_
+4	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	2	comp:cleft	_	_
+5	à	à	ADP	_	_	4	comp:pred	_	_
+6	ƙasar̃	ƙasaː	NOUN	_	_	5	comp:obj	_	_
+7	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	6	mod	_	_
+8	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = AIDS__10
+# text_ortho = À Nàːjeːr̃iyàː dai bà à yi wani bìncìkeː ba don tabbatar̃ dà yawàn mutàːnên dà kèː ɗàuke dà ƙwaːyoːyin cùːtâr̃ à jìkinsù kàmar̃ yaddà akà yi à Àbìjân.
+# text = à Nàːjeːr̃iyàː dai bà'à yi wani bìncìkeː ba don tabbatar̃ dà yawàn mutàːnên dà kèː ɗàuke dà ƙwaːyoːyin cùːtâr̃ à jìkinsù kàmar̃ yaddà akà yi à Àbìjân.
+1	à	à	ADP	_	_	4	mod	_	_
+2	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	1	comp:obj	_	_
+3	dai	dai	PART	_	_	1	discourse@top	_	_
+4	bà'à	yaː	AUX	_	Aspect=Perf|Person=4|Polarity=Neg	0	root	_	_
+5	yi	yi	VERB	_	_	4	comp:aux	_	_
+6	wani	wani	DET	_	Definite=Spec|Gender=Masc	7	det	_	_
+7	bìncìkeː	bìncìkeː	NOUN	_	Gender=Masc	5	comp:pred	_	_
+8	ba	ba	PART	_	Polarity=Neg	5	mod	_	_
+9	don	don	SCONJ	_	_	5	mod	_	_
+10	tabbatar̃	tabbataː	VERB	_	_	9	comp:obj	_	_
+11	dà	dà	ADP	_	_	10	comp:obl	_	_
+12	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	_
+13	mutàːnên	mùtûm	NOUN	_	Definite=Cons|Number=Plur	12	comp:obj	_	_
+14	dà	dà	SCONJ	_	_	13	mod@relcl	_	_
+15	kèː	keː	AUX	_	Aspect=Prog	14	comp:obj	_	_
+16	ɗàuke	ɗauk-	VERB	_	_	15	conj:dicto	_	_
+17	dà	dà	CCONJ	_	_	16	comp:obl	_	_
+18	ƙwaːyoːyin	ƙwaːyoːyiː	NOUN	_	Definite=Cons|Number=Plur	17	comp:obj	_	_
+19	cùːtâr̃	cùːtâː	NOUN	_	Gender=Fem	18	compound	_	_
+20	à	à	ADP	_	_	16	mod	_	_
+21	jìkinsù	jìkiːsù	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur|Person=3	20	comp:obj	_	_
+22	kàmar̃	kàmar̃	ADP	_	_	5	mod	_	_
+23	yaddà	yaddà	ADV	_	PronType=Rel	22	comp:obj	_	_
+24	akà	akà	AUX	_	Aspect=Prog|Person=4	23	mod@relcl	_	_
+25	yi	yi	VERB	_	_	24	comp:aux	_	_
+26	à	à	ADP	_	_	25	mod	_	_
+27	Àbìjân	Àbìjân	PROPN	_	_	26	comp:obj	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = AIDS__11
+# text_ortho = Duk dà haka, Ministàn Kiːwòn Laːfiyàː na Nàːjeːr̃iyàː, Fàr̃feːsàː Ransome-Kuti, yaː cêː cùːtar̃ AIDS taː kashè mutàːneː goːmà shâː shidà dàgà cikin tàlàːtin dà bìyar̃ dà sukà kàːmu dà ita tun loːkàcîn dà ta shigoː Nàːjeːriyàː fìye dà shèːkàruː ukù dà sukà wucèː.
+# text = duk dà haka, ministàn kiːwòn laːfiyàː na Nàːjeːr̃iyàː, Fàr̃feːsàː Ransome-Kuti, yaː cêː cùːtar̃ AIDS taː kashè mutàːneː goːmà shâː shidà dàgà cikin tàlàːtin dà bìyar̃ dà sukà kàːmu dà ita tun loːkàcîn dà ta shigoː Nàːjeːriyàː fìye dà shèːkàruː ukù dà sukà wucèː.
+1	duk	dukà	PRON	_	_	14	mod	_	_
+2	dà	dà	CCONJ	_	_	3	cc	_	_
+3	haka	haka	ADV	_	_	1	conj:coord	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	ministàn	ministàː	NOUN	_	Definite=Cons|Gender=Masc	14	subj	_	_
+6	kiːwòn	kiːwòː	NOUN	_	Definite=Cons|Gender=Masc	5	mod	_	_
+7	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	6	mod	_	_
+8	na	na	ADP	_	_	5	mod	_	_
+9	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	8	comp:obj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	Fàr̃feːsàː	Fàr̃feːsàː	PROPN	_	_	5	conj:appos	_	_
+12	Ransome-Kuti	Ransome-Kuti	PROPN	_	_	11	flat@name	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	5	punct	_	_
+14	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
+15	cêː	cêː	VERB	_	_	14	comp:aux	_	_
+16	cùːtar̃	cùːtaː	NOUN	_	Gender=Fem	18	subj	_	_
+17	AIDS	AIDS	PROPN	_	_	16	compound	_	_
+18	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	15	comp:obj	_	_
+19	kashè	kas-	VERB	_	_	18	comp:aux	_	_
+20	mutàːneː	mùtûm	NOUN	_	Number=Plur	19	comp:obj	_	_
+21	goːmà	goːmà	NUM	_	_	20	mod:num	_	_
+22	shâː	shâː	ADP	_	_	21	mod	_	_
+23	shidà	shidà	NUM	_	_	22	comp:obj	_	_
+24	dàgà	dàgà	ADP	_	_	20	mod	_	_
+25	cikin	cikin	ADP	_	_	24	comp:obl	_	_
+26	tàlàːtin	tàlàːtin	NUM	_	_	25	comp:obj	_	_
+27	dà	dà	CCONJ	_	_	28	cc	_	_
+28	bìyar̃	bìyar̃	NUM	_	_	26	conj:coord	_	_
+29	dà	dà	SCONJ	_	_	26	mod@relcl	_	_
+30	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	29	comp:obj	_	_
+31	kàːmu	nàːmuː	VERB	_	_	30	comp:aux	_	_
+32	dà	dà	ADP	_	_	31	comp:obl	_	_
+33	ita	ita	PRON	_	Gender=Fem|Person=3	32	comp:obj	_	_
+34	tun	tun	ADP	_	_	31	mod	_	_
+35	loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	34	comp:obj	_	_
+36	dà	dà	SCONJ	_	_	35	mod@relcl	_	_
+37	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	36	comp:obj	_	_
+38	shigoː	shigoː	VERB	_	_	37	comp:obj	_	_
+39	Nàːjeːriyàː	Nàːjeːriyàː	PROPN	_	_	38	comp:obj@G	_	_
+40	fìye	fìye	VERB	_	_	38	mod	_	_
+41	dà	dà	CCONJ	_	_	40	comp:obl	_	_
+42	shèːkàruː	shèːkaràː	NOUN	_	Definite=Ind|Number=Plur	41	comp:obj	_	_
+43	ukù	ukù	NUM	_	_	42	mod:num	_	_
+44	dà	dà	SCONJ	_	_	42	mod@relcl	_	_
+45	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	44	comp:obj	_	_
+46	wucèː	wut-	VERB	_	_	45	comp:aux	_	SpaceAfter=No
+47	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = AIDS__12
+# text = Kuma mazaː sun fi maːtaː yawàː à cikin waɗàndà ta kashèː à ƙasâr̃.
+# text_ortho = Kuma mazaː sun fi maːtaː yawàː à cikin waɗàndà ta kashèː à ƙasâr̃.
+1	kuma	kuma	PART	_	_	3	discourse	_	_
+2	mazaː	mazaː	NOUN	_	Number=Plur	3	subj	_	_
+3	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
+4	fi	fi	VERB	_	_	3	comp:aux	_	_
+5	maːtaː	maːtaː	NOUN	_	Definite=Ind|Number=Plur	4	comp:obj	_	_
+6	yawàː	yawàː	NOUN	_	Gender=Masc	4	mod	_	_
+7	à	à	ADP	_	_	4	comp:obl	_	_
+8	cikin	cikin	ADP	_	_	7	comp.obj	_	_
+9	waɗàndà	waɗàndà	PRON	_	Number=Plur|PronType=Rel	7	comp:obj	_	_
+10	ta	na	AUX	_	Aspect=Perf|Gender=Fem|Person=3	9	mod@relcl	_	_
+11	kashèː	kas-	VERB	_	_	10	comp:aux	_	_
+12	à	à	ADP	_	_	11	mod	_	_
+13	ƙasâr̃	ƙasaː	VERB	_	Definite=PrevRef|Gender=Fem	12	comp:obj	_	Gloss=country.Fem.PrevRef|SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = AIDS__13
+# text = ministàn, wandà shiː nèː shùːgàban kwàmìtî kân cùːtar̃ AIDS, ya ƙaːràː dà cêːwaː kwàmìtînsà yanàː naːnàːtaː wà asibitoːciː sù tabbatar̃ dà kyâun jinîn dà zaːsù ɗuːràː wà maràsaː laːfiyàː, koː dà yakè yaː cêː bàbbar̃ màtsalàː ita cèː rashìn naːꞌur̃oːr̃in duːbà jiniː.
+# text_ortho = Ministàn, wandà shiː nèː shùːgàban kwàmìtî kân cùːtar̃ AIDS, ya ƙaːràː dà cêːwaː kwàmìtînsà yanàː naːnàːtaː wà asibitoːciː sù tabbatar̃ dà kyâun jinîn dà zaː sù ɗuːràː wà maràsaː laːfiyàː, koː dà yakè yaː cêː bàbbar̃ màtsalàː ita cèː rashìn naːꞌur̃oːr̃in duːbà jiniː.
+1	ministàn	ministàː	NOUN	_	_	12	subj	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	5	subj	_	_
+4	shiː	shiː	PRON	_	Gender=Masc|Person=3	5	comp:pred	_	_
+5	nèː	neː	AUX	_	Gender=Masc|Number=Plur	1	mod@relcl	_	_
+6	shùːgàban	shùːgàban	NUM	_	_	5	dislocated@comp	_	_
+7	kwàmìtî	kwàmìtî	NOUN	_	Definite=Ind	6	mod	_	_
+8	kân	kân	ADP	_	_	7	mod	_	_
+9	cùːtar̃	cùːtaː	NOUN	_	Definite=Ind|Gender=Fem	8	comp:obj	_	_
+10	AIDS	AIDS	PROPN	_	_	9	mod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
+13	ƙaːràː	ƙaːràː	VERB	_	_	12	comp:aux	_	_
+14	dà	dà	ADP	_	_	13	comp:obl	_	_
+15	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem	14	comp:obj	_	_
+16	kwàmìtînsà	kwàmìtînsà	NOUN	_	Gender=Fem	17	subj	_	_
+17	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	15	comp:obj	_	_
+18	naːnàːtaː	naːnàːtaː	VERB	_	ExtPos=NOUN|Gender=Fem	17	comp:aux	_	_
+19	wà	wà	ADP	_	_	18	comp:obl	_	_
+20	asibitoːciː	asibitoːciː	NOUN	_	Gender=Masc	19	comp:obj	_	_
+21	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	18	comp:obj	_	_
+22	tabbatar̃	tabbatar̃	VERB	_	_	21	comp:aux	_	_
+23	dà	dà	ADP	_	_	22	comp:obl	_	_
+24	kyâun	kyâu	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	_
+25	jinîn	jiniː	VERB	_	Definite=Def|Gender=Masc	24	mod	_	_
+26	dà	dà	SCONJ	_	_	25	mod@relcl	_	_
+27	zaːsù	zâi	AUX	_	Mood=Sub|Number=Plur|Person=3	26	comp:obj	_	wordform=sù
+28	ɗuːràː	ɗuːràː	VERB	_	ExtPos=NOUN|Gender=Fem	27	comp:aux	_	_
+29	wà	wà	ADP	_	_	28	comp:obl	_	_
+30	maràsaː	maràsaː	NOUN	_	Definite=Ind|Gender=Fem	29	comp:obj	_	_
+31	laːfiyàː	laːfiyàː	NOUN	_	Definite=Ind|Gender=Fem	28	comp:obj@T	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	33	punct	_	_
+33	koː	koː	SCONJ	_	ExtPos=SCONJ	22	mod	_	Idiom=Yes
+34	dà	dà	SCONJ	_	_	33	unk	_	InIdiom=Yes
+35	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	34	unk	_	InIdiom=Yes
+36	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	33	comp:obj	_	_
+37	cêː	cêː	VERB	_	_	36	comp:aux	_	_
+38	bàbbar̃	bàbbar̃	ADJ	_	_	39	mod	_	_
+39	màtsalàː	màtsalàː	NOUN	_	Definite=Ind|Gender=Fem	41	subj	_	_
+40	ita	ita	PRON	_	Gender=Fem|Person=3	41	comp:pred	_	_
+41	cèː	neː	AUX	_	Gender=Fem	37	comp:obj	_	_
+42	rashìn	rashìː	NOUN	_	Definite=Cons|Gender=Fem	41	dislocated@comp	_	_
+43	naːꞌur̃oːr̃in	naːꞌur̃oːr̃iː	NOUN	_	Definite=Cons|Gender=Masc	42	mod	_	_
+44	duːbà	duːbà	VERB	_	_	43	mod	_	_
+45	jiniː	jiniː	NOUN	_	Definite=Ind|Gender=Masc	44	comp:obj	_	SpaceAfter=No
+46	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = AIDS__14
+# text = Yaː kuma cêː doːlè neː asibitoːcîn sù riƙà àmfàːniː dà àllùːr̃ân dà akà tafàsaː.
+# text_ortho = Yaː kuma cêː doːlè neː asibitoːcîn sù riƙà àmfàːniː dà àllùːr̃ân dà akà tafàsaː.
+1	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
+2	kuma	kuma	PART	_	_	1	discourse@top	_	_
+3	cêː	cêː	VERB	_	_	1	comp:aux	_	_
+4	doːlè	doːlè	ADV	_	_	3	comp:obj	_	_
+5	neː	neː	PART	_	Gender=Masc|Number=Plur	4	discourse@foc	_	_
+6	asibitoːcîn	asibitoːciː	NOUN	_	Definite=Cons|Gender=Masc	7	subj	_	_
+7	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	4	comp:cleft	_	_
+8	riƙà	riƙ-	VERB	_	_	7	comp:aux	_	_
+9	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	8	comp:obj	_	_
+10	dà	dà	ADP	_	_	9	comp:obl	_	_
+11	àllùːr̃ân	àllùːr̃aː	NOUN	_	Definite=Def|Number=Plur	10	comp:obj	_	_
+12	dà	dà	SCONJ	_	_	11	mod@relcl	_	_
+13	akà	nàː	AUX	_	Aspect=Prog|Person=4	12	comp:obj	_	_
+14	tafàsaː	tafàsaː	VERB	_	_	13	comp:aux	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = AIDS__15
+# text = À ƙàrshẽ yaː cêː bàbban aikìn kwàmìtîn shiː nèː yà waːyar̃ dà kân jàmaꞌàː don sù kaːrè kânsù dàgà wannàn cùːtaː mài ban tsoːroː.
+# text_ortho = À ƙàrshẽ yaː cêː bàbban aikìn kwàmìtîn shiː nèː yà waːyar̃ dà kân jàmaꞌàː don sù kaːrè kânsù dàgà wannàn cùːtaː mài ban tsoːroː.
+1	à	à	ADP	_	_	3	mod	_	_
+2	ƙàrshẽ	ƙàrshẽ	NOUN	_	_	1	comp:obj	_	_
+3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
+4	cêː	cêː	VERB	_	_	3	comp:aux	_	_
+5	bàbban	bàbbaː	ADJ	_	Definite=Cons|Gender=Masc	6	mod	_	_
+6	aikìn	aikìː	NOUN	_	Definite=Cons|Gender=Masc	9	subj	_	_
+7	kwàmìtîn	kwàmìtiː	NOUN	_	Definite=Def|Gender=Masc	6	mod	_	_
+8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	_
+9	nèː	neː	AUX	_	Gender=Masc|Number=Plur	4	comp:obj	_	_
+10	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	9	dislocated@comp	_	_
+11	waːyar̃	waːyar̃	VERB	_	Gender=Fem	10	comp:aux	_	_
+12	dà	dà	ADP	_	_	11	comp:obl	_	_
+13	kân	kâi	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	_
+14	jàmaꞌàː	jàmaꞌàː	NOUN	_	Gender=Fem	13	comp:obj	_	_
+15	don	don	SCONJ	_	_	11	mod	_	_
+16	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	15	comp:obj	_	_
+17	kaːrè	kaːr-	VERB	_	_	16	comp:aux	_	_
+18	kânsù	kâːsù	PRON	_	Case=Gen|Number=Plur|Person=3	17	comp:obj	_	_
+19	dàgà	dàgà	ADP	_	_	17	comp:obl	_	_
+20	wannàn	wannàn	DET	_	PronType=Dem	21	det	_	_
+21	cùːtaː	cùːtaː	NOUN	_	Gender=Fem	19	comp:obj	_	_
+22	mài	mài	PART	_	Number=Sing	21	mod	_	_
+23	ban	baː	VERB	_	Definite=Cons|Gender=Masc	22	comp:obj	_	_
+24	tsoːroː	tsoːroː	NOUN	_	Gender=Masc	23	comp:obj	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = AIDS__16
+# text = wani likità dà akà yi hiːr̃a dà shiː à Ìkko yaː cêː ìdan akà yi làꞌakàr̃iː dà cêːwaː yawàn mutàːnen Nàːjeːr̃iyàː yaː fi miliyàn ɗàriː, tòː zâi yìwu à sàːmi mutàːneː dà daːmaː màːsu cùːtâr̃ koː kùwa waɗàndà cùːtâr̃ ta kashèː, dà bàsù kai kânsù asìbiti ba.
+# text_ortho = Wani likità dà akà yi hiːr̃a dà shiː à Ìkko yaː cêː ìdan akà yi làꞌakàr̃iː dà cêːwaː yawàn mutàːnen Nàːjeːr̃iyàː yaː fi miliyàn ɗàriː, tòː zâi yìwu à sàːmi mutàːneː dà daːmaː màːsu cùːtâr̃ koː kùwa waɗàndà cùːtâr̃ ta kashèː, dà bà sù kai kânsù asìbiti ba.
+1	wani	wani	DET	_	Definite=Spec|Gender=Masc	2	det	_	_
+2	likità	likità	NOUN	_	Definite=Cons|Gender=Fem|Person=3	11	subj	_	_
+3	dà	dà	SCONJ	_	_	2	mod@relcl	_	_
+4	akà	nàː	AUX	_	Aspect=Perf|Person=4	3	comp:obj	_	_
+5	yi	yi	VERB	_	_	4	comp:aux	_	_
+6	hiːr̃a	hiːr̃a	NOUN	_	Definite=Ind|Gender=Fem	5	comp:pred	_	_
+7	dà	dà	ADP	_	_	5	comp:obl	_	_
+8	shiː	shiː	PRON	_	Gender=Masc|Person=3	7	comp:obj	_	_
+9	à	à	ADP	_	_	5	mod	_	_
+10	Ìkko	Ìkko	PROPN	_	_	9	comp:obj	_	_
+11	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
+12	cêː	cêː	VERB	_	_	11	comp:aux	_	_
+13	ìdan	ìdan	SCONJ	_	_	28	mod	_	_
+14	akà	nàː	AUX	_	Aspect=Prog|Person=4	13	comp:obj	_	_
+15	yi	yi	VERB	_	_	14	comp:aux	_	_
+16	làꞌakàr̃iː	làꞌakàr̃iː	NOUN	_	Gender=Masc	15	comp:pred	_	_
+17	dà	dà	ADP	_	_	15	comp:obl	_	_
+18	cêːwaː	cêː	VERB	_	Gender=Fem	17	comp:obj	_	_
+19	yawàn	yawàn	ADJ	_	Definite=Cons|Gender=Masc	22	subj	_	_
+20	mutàːnen	mutàːneː	NOUN	_	Definite=Cons|Number=Plur	19	mod	_	_
+21	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	20	mod	_	_
+22	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	18	comp:obj	_	_
+23	fi	fi	VERB	_	_	22	comp:aux	_	_
+24	miliyàn	miliyàn	NOUN	_	_	23	comp:obj	_	_
+25	ɗàriː	ɗàriː	NUM	_	_	24	mod:num	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	28	punct	_	_
+27	tòː	tòː	INTJ	_	_	28	discourse	_	_
+28	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	12	comp:obj	_	_
+29	yìwu	yìi	VERB	_	ExtPos=NOUN	28	comp:aux	_	_
+30	à	yà	AUX	_	Mood=Sub|Person=4	28	subj	_	_
+31	sàːmi	saːm-	VERB	_	_	30	comp:aux	_	_
+32	mutàːneː	mutàːneː	NOUN	_	Number=Plur	31	comp:obj	_	_
+33	dà	dà	ADP	_	_	32	mod	_	_
+34	daːmaː	daːmaː	NOUN	_	_	33	comp:obj	_	_
+35	màːsu	mài	PART	_	Number=Plur	32	mod	_	_
+36	cùːtâr̃	cùːtâː	NOUN	_	Definite=Ind|Gender=Fem	35	comp:obj	_	_
+37	koː	koː	CCONJ	_	_	41	cc	_	_
+38	kùwa	kùwa	PART	_	_	37	discourse@top	_	_
+39	waɗàndà	waɗàndà	PRON	_	Number=Plur|PronType=Rel	42	comp:obj	_	_
+40	cùːtâr̃	cùːtâː	NOUN	_	Definite=Ind|Gender=Fem	41	subj	_	_
+41	ta	na	AUX	_	_	35	conj:coord	_	_
+42	kashèː	kas-	VERB	_	_	41	comp:aux	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	44	punct	_	_
+44	dà	dà	SCONJ	_	_	32	mod@relcl	_	_
+45	bàsù	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Polarity=Neg	44	comp:obj	_	_
+46	kai	kai	VERB	_	_	45	comp:aux	_	_
+47	kânsù	kânsù	PRON	_	Gender=Masc|Person=2|PronType=Prs|Reflex=Yes	46	comp:obj@T	_	_
+48	asìbiti	asìbiti	NOUN	_	Gender=Masc	46	comp:obj@G	_	_
+49	ba	ba	PART	_	Polarity=Neg	46	mod	_	SpaceAfter=No
+50	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = AIDS__17
+# text = ìdan hakà neː kùwa, doːlè neː à yi ƙoːƙariː à waːyar̃ dà kân mutàːneː dà sù gùji dukkàn àbîn dà zâi sâː sù kàːmu dà cùːtar̃ AIDS.
+# text_ortho = Ìdan hakà neː kùwa, doːlè neː à yi ƙoːƙariː à waːyar̃ dà kân mutàːneː dà sù gùji dukkàn àbîn dà zâi sâː sù kàːmu dà cùːtar̃ AIDS.
+1	ìdan	ìdan	SCONJ	_	_	6	mod	_	_
+2	hakà	hakà	ADV	_	_	3	comp:pred	_	_
+3	neː	neː	AUX	_	Gender=Masc|Number=Plur	1	comp:obj	_	_
+4	kùwa	kùwa	PART	_	_	1	discourse@top	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	doːlè	doːlè	ADV	_	_	0	root	_	_
+7	neː	neː	PART	_	Gender=Masc	6	discourse@foc	_	PartType=Foc
+8	à	yà	AUX	_	Mood=Sub|Person=4	6	comp:cleft	_	_
+9	yi	yi	VERB	_	_	8	comp:aux	_	_
+10	ƙoːƙariː	ƙoːƙariː	NOUN	_	Definite=Ind|Gender=Masc	9	comp:pred	_	_
+11	à	à	ADP	_	_	10	comp:obj	_	_
+12	waːyar̃	waːyar̃	VERB	_	Definite=Ind|Gender=Fem	11	comp:obj	_	_
+13	dà	dà	ADP	_	_	12	comp:obl	_	_
+14	kân	kâi	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	_
+15	mutàːneː	mùtûm	NOUN	_	Number=Plur	14	mod	_	_
+16	dà	dà	CCONJ	_	_	17	cc	_	_
+17	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	11	conj:coord	_	_
+18	gùji	gùi	VERB	_	_	17	comp:aux	_	_
+19	dukkàn	dukkàː	DET	_	Definite=Cons|Gender=Masc	20	det	_	_
+20	àbîn	àbî	NOUN	_	Definite=Cons|Gender=Masc	18	comp:obj	_	_
+21	dà	dà	SCONJ	_	_	20	mod@relcl	_	_
+22	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	21	comp:obj	_	_
+23	sâː	sâː	VERB	_	_	22	comp:aux	_	_
+24	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	23	comp:obj	_	_
+25	kàːmu	saːmùː	VERB	_	_	24	comp:aux	_	_
+26	dà	dà	ADP	_	_	25	comp:obl	_	_
+27	cùːtar̃	cùːtaː	NOUN	_	Definite=Ind|Gender=Fem	26	comp:obj	_	_
+28	AIDS	AIDS	PROPN	_	_	27	compound	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = AIDS__18
+# text = Tòː Allàh yà kiyàːyeː.
+# text_ortho = Tòː Allàh yà kiyàːyeː.
+1	tòː	tòː	INTJ	_	_	3	discourse	_	_
+2	Allàh	Allàh	PROPN	_	_	3	subj	_	_
+3	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	0	root	_	_
+4	kiyàːyeː	kiyaːy-	VERB	_	_	3	comp:aux	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	_
+
