@@ -437,20 +437,20 @@
 4	Chief	Chief	PROPN	_	_	6	subj	_	_
 5	G.F.	G.f.	PROPN	_	_	4	flat@name	_	_
 6	kèː	nàː	AUX	_	Aspect=Prog	3	comp:obj	_	_
-7	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	6	comp:aux	_	Gloss=do
+7	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	Gloss=do
 8	dà	dà	ADP	_	_	7	comp:obl	_	_
 9	hukuːmoːmiː	hukuːmoːː	NOUN	_	Number=Plur	8	comp:obj	_	_
 10	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
 12	sànàdiyyàr̃	sànàdiyyàː	NOUN	_	Definite=Ind|Gender=Fem	11	comp:pred	_	_
-13	zuwànsà	zuwànsà	ADP	_	_	11	mod	_	_
-14	koːtù	koːtù	NUM	_	_	13	comp:obj	_	_
-15	har̃	har̃	ADP	_	_	12	mod	_	_
-16	kìːmaːnìn	kìːmaːnìː	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	_
-17	sàu	sàu	ADP	_	Mood=Sub|Number=Plur|Person=3	16	mod	_	_
-18	tàlàːtin	tàlàːtin	NUM	_	_	16	mod	_	_
+13	zuwànsà	zoː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	12	mod	_	Gloss=go.Vnoun.Masc
+14	koːtù	koːtù	NOUN	_	_	13	comp:obj@G	_	_
+15	har̃	har̃	ADP	_	_	13	mod	_	_
+16	kìːmaːnìn	kìːmaːnìː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	_
+17	sàu	sàu	NOUN	_	Mood=Sub|Number=Plur|Person=3	16	mod	_	_
+18	tàlàːtin	tàlàːtin	NUM	_	_	17	mod:num	_	_
 19	dà	dà	CCONJ	_	_	20	cc	_	_
-20	bìyar̃	bìyar̃	NUM	_	_	16	conj:coord	_	SpaceAfter=No
+20	bìyar̃	bìyar̃	NUM	_	_	18	conj:coord	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = 05_Gurfanarwa_da_lauya__21
@@ -464,7 +464,7 @@
 7	muhimmancìː	muhimmancìː	NOUN	_	Gender=Masc	5	comp:obj	_	_
 8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	_
 9	nèː	neː	PART	_	Gender=Masc|Number=Plur	0	root	_	_
-10	neːman	neːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	dislocated@comp	_	_
+10	neːman	neːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	dislocated@subj	_	_
 11	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	10	comp:obj	_	_
 12	ga	gan-	VERB	_	_	11	comp:aux	_	_
 13	an	yaː	AUX	_	Aspect=Perf|Person=4	12	comp:obj	_	_
