@@ -547,40 +547,40 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya__24
 # text = Kaːmèː shîn kùwa yaː jaːwoː suːkàː sòːsai, kuma an yi kiràː gà Gwamnatì dà tà dainà àmfàːniː dà Dòːkâr̃ nan ta Biyu.
-1	Kaːmèː	Kaːmèː	PROPN	_	_	4	subj	_	_
-2	shîn	shîn	PRON	_	_	1	comp:obj	_	_
+1	Kaːmèː	kaːm-	VERB	_	_	4	subj	_	Gloss=catch
+2	shîn	shiː	PRON	_	_	1	comp:obj	_	_
 3	kùwa	kùwa	PART	_	_	1	discourse@top	_	_
 4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 5	jaːwoː	jaːwoː	VERB	_	_	4	comp:aux	_	_
-6	suːkàː	suːkàː	NOUN	_	Gender=Masc	5	comp:obj	_	_
+6	suːkàː	suːkàː	NOUN	_	Gender=Fem	5	comp:obj	_	Gloss=criticism.Fem
 7	sòːsai	sòːsai	ADV	_	_	5	mod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 9	kuma	kuma	CCONJ	_	_	10	cc	_	_
 10	an	yaː	AUX	_	Aspect=Perf|Person=4	4	conj:coord	_	_
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
-12	kiràː	kir-	VERB	_	Gender=Masc	11	comp:pred	_	_
+12	kiràː	kir-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:pred	_	Gloss=call.Vnoun.Masc
 13	gà	gà	ADP	_	_	12	comp:obl	_	_
 14	Gwamnatì	Gwamnatì	PROPN	_	_	13	comp:obj	_	_
 15	dà	dà	ADP	_	_	12	comp:obl	_	_
 16	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	15	comp:obj	_	_
-17	dainà	dainàː	VERB	_	_	16	comp:aux	_	_
+17	dainà	dain-	VERB	_	_	16	comp:aux	_	Gloss=cease
 18	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	17	comp:obj	_	_
 19	dà	dà	ADP	_	_	18	comp:obl	_	_
-20	Dòːkâr̃	Dòːkâr̃	PROPN	_	Definite=Cons|Gender=Fem	19	comp:obj	_	_
+20	Dòːkâr̃	dòːkaː	PROPN	_	Definite=Cons|Gender=Fem	19	comp:obj	_	Gloss=law.Fem.Cons
 21	nan	nan	DET	_	PronType=Dem	20	det	_	_
 22	ta	ta	ADP	_	_	20	mod	_	_
-23	Biyu	Biyu	PROPN	_	_	22	comp:obj	_	SpaceAfter=No
+23	Biyu	biyu	NUM	_	_	22	comp:obj	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__25-6
 # text = Baːbù shakkàː Gwamnatìn Nàːjeːr̃iyàː tanàː shân suːkàː sòsai, koː tà gur̃fanar̃ dà Chief G.F. à gàban shàr̃iꞌàː, koː kùwa tà sàkeː shì.
 1	Baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	5	subj	_	Gloss=there_is.Neg
-2	shakkàː	shakkàː	NOUN	_	Gender=Fem	1	subj	_	_
-3	Gwamnatìn	Gwamnatìn	PROPN	_	_	2	mod	_	_
+2	shakkàː	shakkàː	NOUN	_	Gender=Fem	1	subj	_	Gloss=doubt.Fem
+3	Gwamnatìn	Gwamnatìn	PROPN	_	_	5	subj	_	_
 4	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	3	mod	_	_
 5	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	_
 6	shân	shaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:aux	_	Gloss=experience
-7	suːkàː	suːkàː	NOUN	_	Gender=Fem	6	udep	_	_
+7	suːkàː	suːkàː	NOUN	_	Gender=Fem	6	comp:obj	_	Gloss=criticism.Fem
 8	sòsai	sòsai	ADV	_	_	6	mod	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 10	koː	koː	CCONJ	_	_	11	cc	_	_
