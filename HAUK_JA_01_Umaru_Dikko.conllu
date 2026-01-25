@@ -37,8 +37,8 @@
 14	dà	dà	SCONJ	_	_	12	mod@relcl	_	_
 15	soːjà	soːjà	NOUN	_	Gender=Fem	16	subj	_	_
 16	sukà	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	14	comp:obj	_	_
-17	yi	yi	VERB	_	_	16	comp:aux	_	_
-18	à	à	ADP	_	_	17	comp:obl	_	_
+17	yi	yi	VERB	_	_	16	comp:aux	_	Gloss=do
+18	à	à	ADP	_	_	17	comp:obl	_	Gloss=at
 19	watan	watan	DET	_	Definite=Cons|Gender=Masc	18	comp:obj	_	_
 20	disambàː	disambàː	NOUN	_	Gender=Fem	19	mod	_	_
 21	na	na	ADP	_	_	19	mod	_	_
@@ -88,7 +88,7 @@
 19	dà	dà	ADP	_	_	18	mod	_	_
 20	kàmaː	kàmaː	NOUN	_	Gender=Fem	19	comp:obj	_	_
 21	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	17	parataxis@conj	_	_
-22	yi	yi	VERB	_	_	21	comp:aux	_	_
+22	yi	yi	VERB	_	_	21	comp:aux	_	Gloss=do
 23	shìgaː	shìgaː	NOUN	_	ExtPos=NOUN|Gender=Fem	22	comp:pred	_	_
 24	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	23	mod	_	Gloss=type.Masc.Cons
 25	ta	ta	ADP	_	Case=Gen|Gender=Fem	24	mod	_	_
@@ -100,17 +100,17 @@
 # text_ortho = Baːyan yaː yi kwaːnaː ukù à can nèː ya zoː nân Landàn à jirgin samà.
 1	baːyan	baːyan	SCONJ	_	_	9	mod	_	_
 2	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	comp:obj	_	_
-3	yi	yi	VERB	_	_	2	comp:aux	_	_
+3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	kwaːnaː	kwaːn-	NOUN	_	ExtPos=NOUN|Gender=Masc	3	comp:pred	_	_
 5	ukù	ukù	NUM	_	_	4	mod:num	_	_
-6	à	à	ADP	_	_	3	mod	_	_
+6	à	à	ADP	_	_	3	mod	_	Gloss=at
 7	can	can	ADV	_	PronType=Dem	6	comp:obj	_	_
 8	nèː	neː	PART	_	_	6	discourse@foc	_	_
 9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 10	zoː	zoː	VERB	_	_	9	comp:aux	_	_
 11	nân	nân	ADV	_	PronType=Dem	10	comp:obj@G	_	_
 12	Landàn	Landàn	PROPN	_	Definite=Def|Gender=Masc	11	mod	_	_
-13	à	à	ADP	_	_	10	mod	_	_
+13	à	à	ADP	_	_	10	mod	_	Gloss=at
 14	jirgin	jirgiː	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	_
 15	samà	samà	ADV	_	_	14	compound	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	9	punct	_	_
@@ -136,11 +136,11 @@
 16	baːyân	baːyân	ADP	_	Definite=Def	11	mod	_	_
 17	dà	dà	SCONJ	_	_	16	comp:obj	_	_
 18	akà	nàː	AUX	_	Aspect=Prog|Person=4	17	comp:obj	_	_
-19	yi	yi	VERB	_	_	18	comp:aux	_	_
+19	yi	yi	VERB	_	_	18	comp:aux	_	Gloss=do
 20	ƙòːƙarin	ƙòːƙariː	NOUN	_	Definite=Cons|Gender=Masc	19	comp:pred	_	_
 21	saːcèː	saːt-	NOUN	_	Gender=Fem	20	comp:obj	_	_
 22	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	21	comp:obj	_	_
-23	à	à	ADP	_	_	21	mod	_	_
+23	à	à	ADP	_	_	21	mod	_	Gloss=at
 24	Ingìlà	Ingìlà	PROPN	_	_	23	comp:obj	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	10	punct	_	_
 
@@ -149,14 +149,14 @@
 # text_ortho = Waɗàndà sukà yi niyyàr̃ saːcèː shîn sun cafkèː shi à kân tiːtìn Landàn, sukà sâː masà ankwàː, sukà ɗuːràː masà ƙwàːyaː, sànnan sukà sâː shi à cikin wani kaːtòn àkwàːtì, sukà sâː ƙuːsàː sukà rufèː àkwàːtìn gam, sunàː shirin kai shì Nàːjeːr̃iyàː.
 1	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	7	subj	_	_
 2	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	1	mod@relcl	_	_
-3	yi	yi	VERB	_	_	2	comp:aux	_	_
+3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	niyyàr̃	niyyàː	NOUN	_	Definite=Ind|Gender=Fem	3	comp:pred	_	_
 5	saːcèː	saːcèː	ADJ	_	Gender=Fem	4	mod	_	_
 6	shîn	shi	PRON	_	Case=Acc|Definite=PrevRef|Gender=Masc|Person=3|PronType=Prs	5	comp:obj	_	_
 7	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
 8	cafkèː	cafk-	VERB	_	_	7	comp:aux	_	_
 9	shi	shi	PRON	_	Gender=Masc|Person=3	8	comp:obj	_	_
-10	à	à	ADP	_	_	8	comp:obl	_	_
+10	à	à	ADP	_	_	8	comp:obl	_	Gloss=at
 11	kân	kân	ADP	_	_	10	comp:obj	_	_
 12	tiːtìn	tiːtìː	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	_
 13	Landàn	Landàn	PROPN	_	_	12	mod	_	SpaceAfter=No
@@ -175,7 +175,7 @@
 26	sukà	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	20	parataxis@conj	_	_
 27	sâː	sâː	VERB	_	_	26	comp:aux	_	_
 28	shi	shi	PRON	_	Gender=Masc|Person=3	27	comp:obj	_	_
-29	à	à	ADP	_	_	27	comp:obl	_	_
+29	à	à	ADP	_	_	27	comp:obl	_	Gloss=at
 30	cikin	cikin	ADP	_	_	29	comp:obj	_	_
 31	wani	wani	DET	_	Definite=Spec|Gender=Masc	32	det	_	_
 32	kaːtòn	kaːtòː	NOUN	_	Definite=Cons|Gender=Masc	30	comp:obj	_	_
@@ -199,7 +199,7 @@
 # sent_id = Umaru_Dikko__8
 # text = à jìkin àkwàːtìn sai akà r̃ubùːtaː " zuwàː gà maꞌaikatar̃ har̃koːkin wàje, gwamnatìn tàːr̃ayyàr̃ Nàjeːr̃iyàː, Ìkko" , wàːtòː indà zaː à kai shì kèːnan.
 # text_ortho = À jìkin àkwàːtìn sai akà r̃ubùːtaː ‘Zuwàː gà Maꞌaikatar̃ Har̃koːkin Wàje, Gwamnatìn Tàːr̃ayyàr̃ Nàjeːr̃iyàː, Ìkko’, wàːtòː indà zaː à kai shì kèːnan.
-1	à	à	ADP	_	_	5	mod	_	_
+1	à	à	ADP	_	_	5	mod	_	Gloss=at
 2	jìkin	jìkin	ADP	_	_	1	comp:obj	_	_
 3	àkwàːtìn	àkwàːtìː	NOUN	_	Definite=Def|Gender=Masc	2	mod	_	_
 4	sai	sai	ADV	_	_	5	mod	_	_
@@ -219,7 +219,7 @@
 18	Ìkko	Ìkko	PROPN	_	_	14	mod	_	SpaceAfter=No
 19	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	_
-21	wàːtòː	wàːtòː	PART	_	Gender=Masc	22	discourse	_	_
+21	wàːtòː	wàːtòː	PART	_	_	22	discourse	_	Gloss=that_is
 22	indà	indà	ADV	_	_	10	conj:dicto	_	_
 23	zaːà	zâi	AUX	_	Mood=Sub|Person=4	22	mod@relcl	_	wordform=à
 24	kai	kaːy-	VERB	_	_	23	comp:aux	_	_
@@ -230,12 +230,12 @@
 # sent_id = Umaru_Dikko__9
 # text = à wajen indà ya kàmaːtà à r̃ubùːtà wandà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà oːfishin jàkaːdàn Nàjeːr̃iyàː, " Landàn" .
 # text_ortho = À wajen indà ya kàmaːtà à r̃ubùːtà wandà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà ꞌOːfishin Jàkaːdàn Nàjeːr̃iyàː, Landàn’.
-1	à	à	ADP	_	_	16	dislocated@top	_	_
+1	à	à	ADP	_	_	16	dislocated@top	_	Gloss=at
 2	wajen	wajen	ADP	_	_	1	comp.obj	_	_
 3	indà	indà	PRON	_	PronType=Rel	2	mod	_	_
 4	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	mod@relcl	_	_
 5	kàmaːtà	kàmaːtà	NOUN	_	Definite=Ind	4	comp:aux	_	_
-6	à	à	ADP	_	_	4	subj	_	_
+6	à	à	ADP	_	_	4	subj	_	Gloss=at
 7	r̃ubùːtà	r̃ubùːtà	NOUN	_	Case=Gen|Gender=Fem|Person=3	6	comp:obj	_	_
 8	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	7	comp:obj	_	_
 9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	8	mod@relcl	_	_
@@ -277,7 +277,7 @@
 16	sàːmi	saːm-	VERB	_	_	15	comp:aux	_	_
 17	taːshìː	taːs-	VERB	_	Gender=Masc	16	comp:obj	_	_
 18	samà	samà	ADV	_	_	17	mod	_	_
-19	à	à	ADP	_	_	17	comp:obl	_	_
+19	à	à	ADP	_	_	17	comp:obl	_	Gloss=at
 20	cikin	cikin	ADP	_	_	19	comp:obj	_	_
 21	jirgiː	jirgiː	NOUN	_	Gender=Masc	20	comp:obj	_	_
 22	ba	ba	PART	_	Polarity=Neg	16	mod	_	SpaceAfter=No
@@ -286,7 +286,7 @@
 # sent_id = Umaru_Dikko__11
 # text = à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː kuma wasu ꞌyan ƙasar̃ Ìsr̃aːꞌiːlà suː ukù, dà wani ɗan lèːƙen àsiːr̃ì mùtumìn Nàjeːr̃iyàː, sukà amsà lâifin ƙòːƙarin saːcè Ùːmar̃ù Dikkò.
 # text_ortho = À shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː kuma wasu ꞌyan ƙasar̃ Ìsr̃aːꞌiːlà suː ukù, dà wani ɗan lèːƙen àsiːr̃ì mùtumìn Nàjeːr̃iyàː, sukà amsà lâifin ƙòːƙarin saːcè Ùːmar̃ù Dikkò.
-1	à	à	ADP	_	_	28	mod	_	_
+1	à	à	ADP	_	_	28	mod	_	Gloss=at
 2	shèːkaràr̃	shèːkaràː	NOUN	_	_	1	comp:obj	_	_
 3	alìf	alìf	NUM	_	_	2	mod	_	_
 4	dà	dà	CCONJ	_	_	5	cc	_	_
@@ -333,14 +333,14 @@
 6	daurìː	daurìː	NOUN	_	Gender=Masc	5	mod	_	_
 7	mài	mài	PART	_	Number=Sing	5	mod	_	_
 8	tsawoː	tsawoː	NOUN	_	Gender=Masc	7	comp:obj	_	_
-9	à	à	ADP	_	_	3	mod	_	_
+9	à	à	ADP	_	_	3	mod	_	Gloss=at
 10	kûr̃kukùː	kûr̃kukùː	NOUN	_	Gender=Masc	9	comp:obj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = Umaru_Dikko__13a
 # text = à loːkàcin shàr̃iꞌàr̃, mài shàr̃iꞌàː yaː cêː an bayyànà Ùːmar̃ù Dikkò dà cêwaː: “ wani ƙàːsur̃gumin ɓàraːwòː neː dà bà'à taɓà yîn irìnsà ba à duːniyàː. " .
 # text_ortho = À loːkàcin shàr̃iꞌàr̃, Mài Shàr̃iꞌàː yaː cêː an bayyànà Ùːmar̃ù Dikkò dà cêwaː: “Wani ƙàːsur̃gumin ɓàraːwòː neː dà bà à taɓà yîn irìnsà ba à duːniyàː.” Sai à watàn Jànair̃u na shekaràr̃ alif dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː Gwamnatìn Nàjeːr̃iyàː ta bùkàːci Bìr̃taːniyà tà miːƙàː matà shiː don à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː kân lâifin cîn hancìː dà kàrɓar̃ r̃ashawaː ta fâm miliyàn bàr̃kàtài.
-1	à	à	ADP	_	_	7	mod	_	_
+1	à	à	ADP	_	_	7	mod	_	Gloss=at
 2	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	_
 3	shàr̃iꞌàr̃	shàr̃iꞌàː	NOUN	_	Case=Gen|Gender=Masc|Person=3	2	mod	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	_
@@ -363,10 +363,10 @@
 21	dà	dà	SCONJ	_	_	19	mod@relcl	_	_
 22	bà'à	yaː	AUX	_	Aspect=Perf|Person=4|Polarity=Neg	21	comp:obj	_	_
 23	taɓà	taɓ-	VERB	_	_	22	comp:aux	_	_
-24	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	23	comp:obj	_	_
+24	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	23	comp:obj	_	Gloss=do
 25	irìnsà	irìnsà	NOUN	_	Gender=Fem	24	comp:pred	_	_
 26	ba	ba	PART	_	Polarity=Neg	23	mod	_	_
-27	à	à	ADP	_	_	24	mod	_	_
+27	à	à	ADP	_	_	24	mod	_	Gloss=at
 28	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	27	comp:obj	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	20	punct	_	_
 30	"	"	PUNCT	_	_	20	punct	_	SpaceAfter=No
@@ -400,11 +400,11 @@
 23	matà	matà	PRON	_	Case=Dat|Gender=Fem|Person=3|PronType=Prs	22	comp:obl	_	_
 24	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	22	comp:obj	_	_
 25	don	don	SCONJ	_	_	22	mod	_	_
-26	à	à	ADP	_	_	25	comp:obj	_	_
+26	à	à	ADP	_	_	25	comp:obj	_	Gloss=at
 27	gur̃faːnar̃	gur̃faːnar̃	VERB	_	_	26	comp:obj	_	_
 28	dà	dà	ADP	_	_	27	comp:obl	_	_
 29	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	28	comp:obj	_	_
-30	à	à	ADP	_	_	27	comp:obl	_	_
+30	à	à	ADP	_	_	27	comp:obl	_	Gloss=at
 31	gàban	gàban	ADP	_	_	30	comp:obj	_	_
 32	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Gender=Fem	31	comp:obj	_	_
 33	kân	kân	ADP	_	_	27	comp:obl	_	_
@@ -424,11 +424,11 @@
 # text = tôː à duk loːkàcin zamansà à nân Bìr̃taːniyà dai, Ùːmar̃ù Dikkò yaː shaː naːnàːtà cêwaː shiː bài sàːci kuɗiː nair̃àː miliyàn bìlaː adàdin ba ta hanyàr̃ gàdàː-gadar̃ shìnkaːfaː dà kuma duk sauran laifuffukàn dà akèː zàrgin yaː aikàtaː.
 # text_ortho = Tôː à duk loːkàcin zamansà à nân Bìr̃taːniyà dai, Ùːmar̃ù Dikkò yaː shaː naːnàːtà cêwaː shiː bài sàːci kuɗiː nair̃àː miliyàn bìlaː adàdin ba ta hanyàr̃ gàdàː-gadar̃ shìnkaːfaː dà kuma duk sauran laifuffukàn dà akèː zàrgin yaː aikàtaː.
 1	tôː	tôː	INTJ	_	_	13	discourse	_	_
-2	à	à	ADP	_	_	13	mod	_	_
+2	à	à	ADP	_	_	13	mod	_	Gloss=at
 3	duk	dukà	DET	_	_	4	det	_	_
 4	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj	_	_
 5	zamansà	zamaːsù	VERB	_	Gender=Fem	4	mod	_	_
-6	à	à	ADP	_	_	5	mod	_	_
+6	à	à	ADP	_	_	5	mod	_	Gloss=at
 7	nân	nân	ADV	_	PronType=Dem	6	comp:obj	_	_
 8	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	7	comp:obj	_	_
 9	dai	dai	PART	_	_	6	discourse@top	_	SpaceAfter=No
@@ -475,12 +475,12 @@
 6	à	yà	AUX	_	Mood=Sub|Person=4	5	comp:obj	_	_
 7	ɗàukeː	ɗauk-	VERB	_	_	6	comp:aux	_	_
 8	shì	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	7	comp:obj	_	_
-9	à	à	ADP	_	_	7	comp:obl	_	_
+9	à	à	ADP	_	_	7	comp:obl	_	Gloss=at
 10	matsayin	matsayin	ADP	_	_	9	comp:obj	_	_
 11	ɗan	ɗan	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	_
 12	gudùn	gudùː	NOUN	_	Definite=Cons|Gender=Masc	11	compound	_	_
 13	hijir̃aː	hijir̃aː	NOUN	_	Gender=Fem	12	mod	_	_
-14	à	à	ADP	_	_	7	mod	_	_
+14	à	à	ADP	_	_	7	mod	_	Gloss=at
 15	nân	nân	ADV	_	PronType=Dem	14	comp:obj	_	_
 16	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	15	mod	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	_
@@ -503,7 +503,7 @@
 # sent_id = Umaru_Dikko__16
 # text = à wàncan loːkàcîn dà ya kai ƙaːrar̃ neːman à baː shì mafakaː à nân Bìr̃tàniyà, Ùːmar̃ù Dikkò cêwaː ya yi, " in dàː zân koːmàː Nàjeːr̃iyàː, jàmaꞌàː zaː'à taːràː sù yi kallon loːkàcîn dà zaː'à sâː soːjà sù bindìgeː ni. ".
 # text_ortho = À wàncan loːkàcîn dà ya kai ƙaːrar̃ neːman à baː shì mafakaː à nân Bìr̃tàniyà, Ùːmar̃ù Dikkò cêwaː ya yi, ‘In dàː zân koːmàː Nàjeːr̃iyàː, jàmaꞌàː zaː à taːràː sù yi kallon loːkàcîn dà zaː à sâː soːjà sù bindìgeː ni.’
-1	à	à	ADP	_	_	19	mod	_	_
+1	à	à	ADP	_	_	19	mod	_	Gloss=at
 2	wàncan	wàncan	DET	_	Gender=Masc|PronType=Dem	3	det	_	_
 3	loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	_
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	_
@@ -515,7 +515,7 @@
 10	baː	baː	VERB	_	_	9	comp:aux	_	_
 11	shì	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	10	comp:obj@R	_	_
 12	mafakaː	mafakaː	NOUN	_	Gender=Fem	10	comp:obj@T	_	_
-13	à	à	ADP	_	_	10	mod	_	_
+13	à	à	ADP	_	_	10	mod	_	Gloss=at
 14	nân	nân	ADV	_	PronType=Dem	13	comp:obj	_	_
 15	Bìr̃tàniyà	Bìr̃tàniyà	PROPN	_	_	14	mod	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	1	punct	_	_
@@ -523,7 +523,7 @@
 18	Dikkò	Dikkò	PROPN	_	_	17	flat@name	_	_
 19	cêːwaː	cêwaː	SCONJ	_	Gender=Fem	0	root	_	wordform=cêwaː
 20	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	19	comp:cleft	_	_
-21	yi	yi	VERB	_	_	20	comp:aux	_	SpaceAfter=No
+21	yi	yi	VERB	_	_	20	comp:aux	_	Gloss=do|SpaceAfter=No
 22	,	,	PUNCT	_	_	30	punct	_	_
 23	"	"	PUNCT	_	_	30	punct	_	_
 24	in	in	SCONJ	_	_	30	mod	_	_
@@ -536,7 +536,7 @@
 31	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	30	comp:cleft	_	_
 32	taːràː	taːr-	VERB	_	_	31	comp:aux	_	_
 33	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3|PronType=Prs	32	comp:obj	_	_
-34	yi	yi	VERB	_	_	33	comp:aux	_	_
+34	yi	yi	VERB	_	_	33	comp:aux	_	Gloss=do
 35	kallon	kalloː	ADJ	_	Definite=Cons|Gender=Masc	34	comp:pred	_	_
 36	loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	35	mod	_	_
 37	dà	dà	SCONJ	_	_	36	mod@relcl	_	_
@@ -567,15 +567,15 @@
 12	bàː	bàː	PART	_	Polarity=Neg	14	mod	_	_
 13	wannàn	wannàn	DET	_	PronType=Dem	14	det	_	_
 14	dàliːlìː	dàliːlìː	NOUN	_	_	11	comp:obj	_	_
-15	neː	neː	PART	_	Gender=Masc	14	discourse@foc	_	PartType=Foc
+15	neː	neː	PART	_	Gender=Masc|PartType=Foc	14	discourse@foc	_	_
 16	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	14	comp:cleft	_	_
 17	sâː	sâː	VERB	_	_	16	comp:aux	_	_
 18	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	17	comp:obj	_	_
 19	sôn	soː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp:aux	_	_
 20	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	19	comp:obj	_	_
-21	yi	yi	VERB	_	_	20	comp:aux	_	_
+21	yi	yi	VERB	_	_	20	comp:aux	_	Gloss=do
 22	zamansà	zam-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Person=3	21	comp:pred	_	_
-23	à	à	ADP	_	_	21	mod	_	_
+23	à	à	ADP	_	_	21	mod	_	Gloss=at
 24	nân	nân	ADV	_	PronType=Dem	23	comp:obj	_	_
 25	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	24	mod	_	_
 26	ba	ba	PART	_	Polarity=Neg	14	mod	_	SpaceAfter=No
@@ -586,7 +586,7 @@
 # text_ortho = Jàkaːdàn Nàjeːr̃iyàː à nân Landàn, Mr George Dove-Edwin, yaː fàďa à bàːra cêwaː zuːƙì-ta-Màlle cèː kawài dàliːlìn dà Ùːmar̃ù Dikkò kèː baːyâr̃waː cêwaː ìdan yaː koːmàː Nàjeːr̃iyàː kashèː shi zaː à yi.# text = Jàkaːdàn Nàjeːr̃iyàː à nân Landàn, Mr George Dove-Edwin, yaː fàďa à bàːra cêwaː zuːƙì-ta-Màlle cèː kawài dàliːlìn dà Ùːmar̃ù Dikkò kèː baːyâr̃waː cêwaː ìdan yaː koːmàː Nàjeːr̃iyàː kashèː shi zaː à yi.
 1	jàkaːdàn	jàkaːdàː	NOUN	_	Definite=Cons|Number=Plur	11	mod	_	_
 2	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	1	conj:appos	_	_
-3	à	à	ADP	_	_	1	mod	_	_
+3	à	à	ADP	_	_	1	mod	_	Gloss=at
 4	nân	nân	ADV	_	PronType=Dem	3	comp:obj	_	_
 5	Landàn	Landàn	PROPN	_	_	4	mod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	_
@@ -616,7 +616,7 @@
 30	kashèː	kas-	AUX	_	_	25	comp:obj	_	_
 31	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	30	comp:obj	_	_
 32	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	30	comp:cleft	_	_
-33	yi	yi	VERB	_	_	32	comp:aux	_	SpaceAfter=No
+33	yi	yi	VERB	_	_	32	comp:aux	_	Gloss=do|SpaceAfter=No
 34	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = Umaru_Dikko__19
@@ -624,7 +624,7 @@
 # text_ortho = Hakà nan à bàːr̃a ɗîn wani lauyàː na Maꞌaikatar̃ Har̃koːkin Cikin Gidan Bìr̃taːniyà yaː gayàː wà Ùːmar̃ù Dikkò cêwaː, ‘Inàː jîn dai kaː tseːroː dàgà Nàjeːr̃iyàː neː bà wai don kanàː tsòːron zaː à ƙuntàtaː makà ba, sai don kanàː tsòːron zaː à gur̃faːnar̃ dà kai à gàban shàr̃iꞌàː kawài.’
 1	hakà	hakà	ADV	_	_	14	mod	_	_
 2	nan	nan	DET	_	Definite=Def|PronType=Dem	1	det	_	_
-3	à	à	ADP	_	_	14	mod	_	_
+3	à	à	ADP	_	_	14	mod	_	Gloss=at
 4	bàːr̃a	bàːr̃a	VERB	_	_	3	comp:obj	_	_
 5	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	4	det	_	_
 6	wani	wani	DET	_	Definite=Spec|Gender=Masc	7	det	_	_
@@ -669,7 +669,7 @@
 45	gur̃faːnar̃	gur̃faːnar̃	VERB	_	Definite=Cons|Gender=Fem	44	comp:obj	_	_
 46	dà	dà	ADP	_	_	45	comp:obl	_	_
 47	kai	kai	PRON	_	Case=Nom|Gender=Masc|Person=2|PronType=Prs	46	comp:obj	_	_
-48	à	à	ADP	_	_	45	comp:obl	_	_
+48	à	à	ADP	_	_	45	comp:obl	_	Gloss=at
 49	gàban	gàban	ADP	_	Definite=Cons	48	comp:obj	_	_
 50	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Gender=Masc	49	comp:obj	_	_
 51	kawài	kawài	ADV	_	_	50	mod	_	SpaceAfter=No

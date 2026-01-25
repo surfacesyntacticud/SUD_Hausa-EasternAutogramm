@@ -21,7 +21,7 @@
 5	gàrkuwar̃	gàrkuwaː	NOUN	_	Definite=Cons|Gender=Fem	4	comp:obj	_	_
 6	jìkiː	jìkiː	NOUN	_	Definite=Ind	5	mod	_	_
 7	–	–	PUNCT	_	_	9	punct	_	_
-8	wàːtòː	wàːtòː	NOUN	_	Gender=Masc	9	discourse	_	_
+8	wàːtòː	wàːtòː	PART	_	_	9	discourse	_	Gloss=that_is
 9	AIDS	AIDS	PROPN	_	_	1	conj:dicto	_	_
 10	–	–	PUNCT	_	_	9	punct	_	_
 11	cùːtaː	cùːtaː	NOUN	_	Gender=Fem	12	comp:pred	_	_
@@ -38,7 +38,7 @@
 # sent_id = AIDS__2b
 # text = wàːtòː ìdan akà ɗuːràː wà wani mài jinyàː jinin wani mài ɗàuke dà ƙwaːyoːyin cùːtar̃ AIDS, tòː shiː wandà akà ɗuːràː wà jiniː zâi kàːmu dà ƙwaːyoːyin cùːtâr̃.
 # text_ortho = watòː ìdan akà ɗuːràː wà wani mài jinyàː jinin wani mài ɗàuke dà ƙwaːyoːyin cùːtar̃ AIDS, tòː shiː wandà akà ɗuːràː wà jiniː zâi kamu dà ƙwaːyoːyin cùːtâr̃.
-1	wàːtòː	wàːtòː	PART	_	_	25	discourse	_	_
+1	wàːtòː	wàːtòː	PART	_	_	25	discourse	_	Gloss=that_is
 2	ìdan	ìdan	SCONJ	_	_	25	mod	_	_
 3	akà	nàː	AUX	_	Aspect=Prog|Person=4	2	comp:obj	_	_
 4	ɗuːràː	ɗuːràː	VERB	_	ExtPos=NOUN|Gender=Fem	3	comp:aux	_	_
@@ -76,7 +76,7 @@
 2	kuma	kuma	PART	_	_	1	discourse@top	_	_
 3	ìdan	ìdan	SCONJ	_	_	33	mod	_	_
 4	anàː	nàː	AUX	_	Aspect=Prog|Person=4	3	comp:obj	_	_
-5	yi	yi	VERB	_	_	4	comp:aux	_	_
+5	yi	yi	VERB	_	_	4	comp:aux	_	Gloss=do
 6	wà	wà	ADP	_	Case=Dat	5	comp:obl	_	_
 7	mutàːneː	mùtûm	NOUN	_	Number=Plur	6	comp:obj	_	_
 8	dàbam	dàbam	ADV	_	_	7	mod	_	_
@@ -93,7 +93,7 @@
 19	cikin	cikin	ADP	_	_	18	comp:obj	_	_
 20	waɗàndà	waɗàndà	PRON	_	Number=Plur|PronType=Rel	19	comp:obj	_	_
 21	akà	nàː	AUX	_	Aspect=Prog|Person=4	20	mod@relcl	_	_
-22	yi	yi	VERB	_	_	21	comp:aux	_	_
+22	yi	yi	VERB	_	_	21	comp:aux	_	Gloss=do
 23	wà	wà	ADP	_	Case=Dat	22	comp:obl	_	_
 24	àlluːr̃àr̃	àlluːr̃àː	NOUN	_	Definite=Ind|Gender=Fem	22	comp:pred	_	_
 25	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	16	comp:obj	_	_
@@ -101,7 +101,7 @@
 27	ƙwaːyoːyin	ƙwaːyoːyiː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:obj	_	_
 28	cùːtar̃	cùːtaː	NOUN	_	Definite=Ind|Gender=Fem	27	mod	_	_
 29	AIDS	AIDS	PROPN	_	_	28	mod	_	_
-30	à	à	ADP	_	_	25	mod	_	_
+30	à	à	ADP	_	_	25	mod	_	Gloss=at
 31	jìkinsà	jìkiː	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	30	comp:obj	_	SpaceAfter=No
 32	,	,	PUNCT	_	_	16	punct	_	_
 33	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	0	root	_	_
@@ -112,7 +112,7 @@
 38	sauran	sauraː	NOUN	_	Definite=Cons	37	comp:obj	_	_
 39	waɗàndà	waɗàndà	PRON	_	Number=Plur|PronType=Rel	38	mod	_	_
 40	akà	nàː	AUX	_	Aspect=Prog|Person=4	39	mod@relcl	_	_
-41	yi	yi	VERB	_	_	40	comp:aux	_	_
+41	yi	yi	VERB	_	_	40	comp:aux	_	Gloss=do
 42	wà	wà	ADP	_	Gender=Masc|PronType=Dem	41	comp:obl	_	_
 43	àlluːr̃àr̃	àlluːr̃àː	NOUN	_	Definite=Ind|Gender=Fem	41	comp:pred	_	SpaceAfter=No
 44	.	.	PUNCT	_	_	33	punct	_	_
@@ -128,7 +128,7 @@
 6	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	22	subj	_	Gloss=type.Masc.Cons
 7	taːràːwaː	taːr-	NOUN	_	ExtPos=NOUN|Gender=Fem	6	mod	_	_
 8	–	–	PUNCT	_	_	10	punct	_	_
-9	wàːtòː	wàːtòː	NOUN	_	Gender=Masc	10	discourse	_	_
+9	wàːtòː	wàːtòː	PART	_	_	10	discourse	_	Gloss=that_is
 10	jìmaːꞌì	jìmaːꞌì	NOUN	_	Gender=Masc	7	conj:dicto	_	_
 11	-	-	PUNCT	_	_	10	punct	_	_
 12	tsàkaːnin	tsàkaːnin	ADP	_	Definite=Cons|Gender=Masc	10	mod	_	_
@@ -195,7 +195,7 @@
 5	,	,	PUNCT	_	_	1	punct	_	_
 6	cùːtar̃	cùːtaː	NOUN	_	Definite=Ind|Gender=Fem	8	dislocated@subj	_	_
 7	AIDS	AIDS	PROPN	_	_	6	mod	_	_
-8	bâː	baːbù	PART	_	Polarity=Neg	0	root	_	_
+8	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 9	ta	ta	PRON	_	Gender=Fem|Person=3	8	subj	_	_
 10	dà	dà	ADP	_	_	8	comp:pred	_	_
 11	maːgàniː	maːgàniː	NOUN	_	Definite=Ind|Gender=Masc	10	comp:obj	_	SpaceAfter=No
@@ -206,7 +206,7 @@
 16	dà	dà	ADP	_	_	15	comp:obl	_	_
 17	ƙwaːyoːyin	ƙwaːyoːyiː	NOUN	_	Definite=Cons|Number=Plur	16	comp:obj	_	_
 18	cùːtâr̃	cùːtâː	NOUN	_	Definite=Ind|Gender=Fem	17	compound	_	_
-19	à	à	ADP	_	_	15	mod	_	_
+19	à	à	ADP	_	_	15	mod	_	Gloss=at
 20	jininsà	jiniːtà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	19	comp:obj	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	14	punct	_	_
 22	bàː	bàː	PART	_	Polarity=Neg	23	mod	_	_
@@ -216,13 +216,13 @@
 26	àlaːmàː	àlaːmàː	NOUN	_	Definite=Ind|Gender=Fem	24	comp:obj	_	_
 27	ta	ta	PRON	_	Gender=Fem|Person=3	26	mod	_	_
 28	cùːtâr̃	cùːtâː	NOUN	_	Definite=Ind|Gender=Fem	27	comp:obj	_	_
-29	à	à	ADP	_	_	24	comp:obl	_	_
+29	à	à	ADP	_	_	24	comp:obl	_	Gloss=at
 30	jìkinsà	jìkiːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	29	comp:obj	_	_
 31	ba	ba	PART	_	Polarity=Neg	24	mod	_	SpaceAfter=No
 32	,	,	PUNCT	_	_	33	punct	_	_
 33	sai	sai	ADP	_	_	24	mod	_	_
 34	dai	dai	PART	_	_	33	discourse@top	_	_
-35	à	à	ADP	_	_	33	comp:obj	_	_
+35	à	à	ADP	_	_	33	comp:obj	_	Gloss=at
 36	jininsà	jiniːtà	VERB	_	_	35	comp:obj	_	SpaceAfter=No
 37	,	,	PUNCT	_	_	39	punct	_	_
 38	kuma	kuma	CCONJ	_	_	39	cc	_	_
@@ -274,10 +274,10 @@
 17	mazân	mazaː	NOUN	_	Definite=Def|Gender=Masc	16	mod	_	_
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	_
 19	akà	nàː	AUX	_	Aspect=Prog|Person=4	18	comp:obj	_	_
-20	yi	yi	VERB	_	_	19	comp:aux	_	_
+20	yi	yi	VERB	_	_	19	comp:aux	_	Gloss=do
 21	wà	wà	ADP	_	Case=Dat	20	comp:obl	_	_
 22	gwajìː	gwajìː	NOUN	_	ExtPos=NOUN|Gender=Masc	20	comp:pred	_	_
-23	à	à	ADP	_	_	20	mod	_	_
+23	à	à	ADP	_	_	20	mod	_	Gloss=at
 24	wani	wani	DET	_	Definite=Spec|Gender=Masc	26	det	_	_
 25	bàbban	bàbbaː	ADJ	_	Definite=Cons|Gender=Masc	26	mod	_	_
 26	asìbitì	asìbitì	NOUN	_	Gender=Masc	23	comp:obj	_	_
@@ -295,7 +295,7 @@
 2	ꞌyàːꞌyàː	ꞌyàːꞌyàː	ADV	_	_	0	root	_	_
 3	àbîn	àbù	NOUN	_	Definite=Ind	4	subj	_	_
 4	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	2	comp:cleft	_	_
-5	à	à	ADP	_	_	4	comp:pred	_	_
+5	à	à	ADP	_	_	4	comp:pred	_	Gloss=at
 6	ƙasar̃	ƙasaː	NOUN	_	_	5	comp:obj	_	_
 7	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	6	mod	_	_
 8	?	?	PUNCT	_	_	2	punct	_	_
@@ -303,11 +303,11 @@
 # sent_id = AIDS__10
 # text_ortho = À Nàːjeːr̃iyàː dai bà à yi wani bìncìkeː ba don tabbatar̃ dà yawàn mutàːnên dà kèː ɗàuke dà ƙwaːyoːyin cùːtâr̃ à jìkinsù kàmar̃ yaddà akà yi à Àbìjân.
 # text = à Nàːjeːr̃iyàː dai bà'à yi wani bìncìkeː ba don tabbatar̃ dà yawàn mutàːnên dà kèː ɗàuke dà ƙwaːyoːyin cùːtâr̃ à jìkinsù kàmar̃ yaddà akà yi à Àbìjân.
-1	à	à	ADP	_	_	4	mod	_	_
+1	à	à	ADP	_	_	4	mod	_	Gloss=at
 2	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	1	comp:obj	_	_
 3	dai	dai	PART	_	_	1	discourse@top	_	_
 4	bà'à	yaː	AUX	_	Aspect=Perf|Person=4|Polarity=Neg	0	root	_	_
-5	yi	yi	VERB	_	_	4	comp:aux	_	_
+5	yi	yi	VERB	_	_	4	comp:aux	_	Gloss=do
 6	wani	wani	DET	_	Definite=Spec|Gender=Masc	7	det	_	_
 7	bìncìkeː	bìncìkeː	NOUN	_	Gender=Masc	5	comp:pred	_	_
 8	ba	ba	PART	_	Polarity=Neg	5	mod	_	_
@@ -322,13 +322,13 @@
 17	dà	dà	CCONJ	_	_	16	comp:obl	_	_
 18	ƙwaːyoːyin	ƙwaːyoːyiː	NOUN	_	Definite=Cons|Number=Plur	17	comp:obj	_	_
 19	cùːtâr̃	cùːtâː	NOUN	_	Gender=Fem	18	compound	_	_
-20	à	à	ADP	_	_	16	mod	_	_
+20	à	à	ADP	_	_	16	mod	_	Gloss=at
 21	jìkinsù	jìkiːsù	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur|Person=3	20	comp:obj	_	_
 22	kàmar̃	kàmar̃	ADP	_	_	5	mod	_	_
 23	yaddà	yaddà	ADV	_	PronType=Rel	22	comp:obj	_	_
 24	akà	akà	AUX	_	Aspect=Prog|Person=4	23	mod@relcl	_	_
-25	yi	yi	VERB	_	_	24	comp:aux	_	_
-26	à	à	ADP	_	_	25	mod	_	_
+25	yi	yi	VERB	_	_	24	comp:aux	_	Gloss=do
+26	à	à	ADP	_	_	25	mod	_	Gloss=at
 27	Àbìjân	Àbìjân	PROPN	_	_	26	comp:obj	_	SpaceAfter=No
 28	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -392,12 +392,12 @@
 4	fi	fi	VERB	_	_	3	comp:aux	_	_
 5	maːtaː	maːtaː	NOUN	_	Definite=Ind|Number=Plur	4	comp:obj	_	_
 6	yawàː	yawàː	NOUN	_	Gender=Masc	4	mod	_	_
-7	à	à	ADP	_	_	4	comp:obl	_	_
+7	à	à	ADP	_	_	4	comp:obl	_	Gloss=at
 8	cikin	cikin	ADP	_	_	7	comp.obj	_	_
 9	waɗàndà	waɗàndà	PRON	_	Number=Plur|PronType=Rel	7	comp:obj	_	_
 10	ta	na	AUX	_	Aspect=Perf|Gender=Fem|Person=3	9	mod@relcl	_	_
 11	kashèː	kas-	VERB	_	_	10	comp:aux	_	_
-12	à	à	ADP	_	_	11	mod	_	_
+12	à	à	ADP	_	_	11	mod	_	Gloss=at
 13	ƙasâr̃	ƙasaː	VERB	_	Definite=PrevRef|Gender=Fem	12	comp:obj	_	Gloss=country.Fem.PrevRef|SpaceAfter=No
 14	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -473,7 +473,7 @@
 # sent_id = AIDS__15
 # text = À ƙàrshẽ yaː cêː bàbban aikìn kwàmìtîn shiː nèː yà waːyar̃ dà kân jàmaꞌàː don sù kaːrè kânsù dàgà wannàn cùːtaː mài ban tsoːroː.
 # text_ortho = À ƙàrshẽ yaː cêː bàbban aikìn kwàmìtîn shiː nèː yà waːyar̃ dà kân jàmaꞌàː don sù kaːrè kânsù dàgà wannàn cùːtaː mài ban tsoːroː.
-1	à	à	ADP	_	_	3	mod	_	_
+1	à	à	ADP	_	_	3	mod	_	Gloss=at
 2	ƙàrshẽ	ƙàrshẽ	NOUN	_	_	1	comp:obj	_	_
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	_
@@ -506,17 +506,17 @@
 2	likità	likità	NOUN	_	Definite=Cons|Gender=Fem|Person=3	11	subj	_	_
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	_
 4	akà	nàː	AUX	_	Aspect=Perf|Person=4	3	comp:obj	_	_
-5	yi	yi	VERB	_	_	4	comp:aux	_	_
+5	yi	yi	VERB	_	_	4	comp:aux	_	Gloss=do
 6	hiːr̃a	hiːr̃a	NOUN	_	Definite=Ind|Gender=Fem	5	comp:pred	_	_
 7	dà	dà	ADP	_	_	5	comp:obl	_	_
 8	shiː	shiː	PRON	_	Gender=Masc|Person=3	7	comp:obj	_	_
-9	à	à	ADP	_	_	5	mod	_	_
+9	à	à	ADP	_	_	5	mod	_	Gloss=at
 10	Ìkko	Ìkko	PROPN	_	_	9	comp:obj	_	_
 11	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 12	cêː	cêː	VERB	_	_	11	comp:aux	_	_
 13	ìdan	ìdan	SCONJ	_	_	28	mod	_	_
 14	akà	nàː	AUX	_	Aspect=Prog|Person=4	13	comp:obj	_	_
-15	yi	yi	VERB	_	_	14	comp:aux	_	_
+15	yi	yi	VERB	_	_	14	comp:aux	_	Gloss=do
 16	làꞌakàr̃iː	làꞌakàr̃iː	NOUN	_	Gender=Masc	15	comp:pred	_	_
 17	dà	dà	ADP	_	_	15	comp:obl	_	_
 18	cêːwaː	cêː	VERB	_	Gender=Fem	17	comp:obj	_	_
@@ -562,11 +562,11 @@
 4	kùwa	kùwa	PART	_	_	1	discourse@top	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	_
 6	doːlè	doːlè	ADV	_	_	0	root	_	_
-7	neː	neː	PART	_	Gender=Masc	6	discourse@foc	_	PartType=Foc
+7	neː	neː	PART	_	Gender=Masc|PartType=Foc	6	discourse@foc	_	_
 8	à	yà	AUX	_	Mood=Sub|Person=4	6	comp:cleft	_	_
-9	yi	yi	VERB	_	_	8	comp:aux	_	_
+9	yi	yi	VERB	_	_	8	comp:aux	_	Gloss=do
 10	ƙoːƙariː	ƙoːƙariː	NOUN	_	Definite=Ind|Gender=Masc	9	comp:pred	_	_
-11	à	à	ADP	_	_	10	comp:obj	_	_
+11	à	à	ADP	_	_	10	comp:obj	_	Gloss=at
 12	waːyar̃	waːyar̃	VERB	_	Definite=Ind|Gender=Fem	11	comp:obj	_	_
 13	dà	dà	ADP	_	_	12	comp:obl	_	_
 14	kân	kâi	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	_

@@ -37,7 +37,7 @@
 26	àbincîn	àbinciː	NOUN	_	Definite=Cons|Gender=Masc	25	comp:obj	_	_
 27	dà	dà	SCONJ	_	_	26	mod@relcl	_	_
 28	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	27	comp:obj	_	_
-29	yi	yi	VERB	_	_	28	comp:aux	_	_
+29	yi	yi	VERB	_	_	28	comp:aux	_	Gloss=do
 30	miyàr̃sà	miyàr̃sà	NOUN	_	Gender=Fem	29	comp:pred	_	_
 31	dà	dà	ADP	_	_	29	comp:obl	_	_
 32	naːmàn	naːm-	NOUN	_	Definite=Cons|Gender=Masc	31	comp:obj	_	_
@@ -71,8 +71,8 @@
 21	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	16	comp:obj	_	_
 22	laːtsèː	laːtsèː	VERB	_	_	21	comp:aux	_	_
 23	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	22	comp:obj	_	_
-24	à	à	ADP	_	_	22	comp:obl	_	_
-25	bisà	bisà	ADP	_	_	24	comp:obj	_	_
+24	à	à	ADP	_	_	22	comp:obl	_	Gloss=at
+25	bisà	bisà	ADP	_	_	24	comp:obj	_	Gloss=on_top
 26	hanyàː	hanyàː	NOUN	_	Definite=Ind	25	comp:obj	_	_
 27	dà	dà	CCONJ	_	_	28	cc	_	_
 28	dàddare	dàddare	ADV	_	_	26	conj:coord	_	SpaceAfter=No
@@ -88,7 +88,7 @@
 # sent_id = 08_Maciji__3b
 # text = Sun yi kusan kwaːnaː ukù sunàː ta dafà wannan kùmurciː kàːfin sù ci nasar̃àr̃ dafàː shi luɓus dòːmin cîː .
 1	Sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
-2	yi	yi	VERB	_	_	1	comp:aux	_	_
+2	yi	yi	VERB	_	_	1	comp:aux	_	Gloss=do
 3	kusan	kusan	ADV	_	_	2	mod	_	_
 4	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	2	comp:pred	_	_
 5	ukù	ukù	NUM	_	_	4	mod:num	_	_
@@ -153,7 +153,7 @@
 4	sai	sai	ADV	_	_	5	mod	_	_
 5	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
 6	shìga	shig-	VERB	_	ExtPos=NOUN|Gender=Fem	5	comp:aux	_	_
-7	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	6	comp:obj@G	_	_
+7	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	6	comp:obj@G	_	Gloss=do
 8	amai	amai	NOUN	_	Gender=Masc	7	udep	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -183,7 +183,7 @@
 22	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	20	mod@relcl	_	_
 23	tàːru	tàːru	VERB	_	_	22	comp:aux	_	_
 24	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	22	parataxis@conj	_	_
-25	yi	yi	VERB	_	_	24	comp:aux	_	_
+25	yi	yi	VERB	_	_	24	comp:aux	_	Gloss=do
 26	ta	ta	PART	_	Aspect=Iter	25	compound:prt	_	_
 27	aikìː	aikìː	NOUN	_	Definite=Ind|Gender=Masc	25	comp:pred	_	_
 28	har̃	har̃	ADP	_	_	25	mod	_	_
@@ -268,14 +268,14 @@
 # text = Jàːmì'ân sun yi kiràː gà mutàːnên dà kèː zàune à yankìn dà sù kìyàːyi ɗaukàr̃ gaːwàwwakin dàbboːbiː sunàː tàfiyàː dà suː gidaː don sù dafàː sù sàːmu àbinci.
 1	Jàːmì'ân	jàːmì'aː	PROPN	_	Definite=Cons|Number=Plur	2	subj	_	_
 2	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
-3	yi	yi	VERB	_	_	2	comp:aux	_	_
+3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	kiràː	kir-	VERB	_	Gender=Masc	3	comp:pred	_	_
 5	gà	gà	ADP	_	_	3	comp:obl	_	_
 6	mutàːnên	mùtûm	NOUN	_	Definite=Cons|Number=Plur	5	comp:obj	_	_
 7	dà	dà	SCONJ	_	_	6	mod@relcl	_	_
 8	kèː	keː	AUX	_	Aspect=Prog	7	comp:obj	_	_
 9	zàune	zaun-	VERB	_	ExtPos=ADV|VerbForm=Stat	8	comp:pred	_	_
-10	à	à	ADP	_	_	9	comp:obl	_	_
+10	à	à	ADP	_	_	9	comp:obl	_	Gloss=at
 11	yankìn	yankìː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	_
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	_
 13	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	12	comp:obj	_	_
@@ -303,7 +303,7 @@
 3	jàːmì'an	jàːmì'aː	NOUN	_	Definite=Cons|Number=Plur	5	subj	_	_
 4	asìbitìn	asìbitìː	NOUN	_	Definite=Def|Gender=Masc	3	mod	_	_
 5	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
-6	yi	yi	VERB	_	_	5	comp:aux	_	_
+6	yi	yi	VERB	_	_	5	comp:aux	_	Gloss=do
 7	wani	wani	DET	_	Definite=Spec|Gender=Masc	11	det	_	_
 8	gàr̃gàɗiː	gàr̃gàɗiː	NOUN	_	Definite=Cons|Gender=Fem	28	mod	_	_
 9	gàme	gamàː	VERB	_	ExtPos=ADP|VerbForm=Part	6	comp:obl	_	_

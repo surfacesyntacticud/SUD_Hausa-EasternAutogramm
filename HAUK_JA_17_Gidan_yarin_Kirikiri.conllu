@@ -52,7 +52,7 @@
 44	kàmaːtà	kàmaːtà	VERB	_	_	43	comp:aux	_	_
 45	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	43	conj:coord	_	_
 46	kasànceː	kasant-	VERB	_	_	45	comp:aux	_	_
-47	à	à	ADP	_	_	46	mod	_	_
+47	à	à	ADP	_	_	46	mod	_	Gloss=at
 48	cikinsà	cikin	NOUN	_	Gender=Fem	47	comp:obj	_	SpaceAfter=No
 49	.	.	PUNCT	_	_	16	punct	_	_
 
@@ -81,7 +81,7 @@
 21	neː	neː	PART	_	Gender=Masc	18	mod@relcl	_	_
 22	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	19	comp:obj	_	_
 23	ràsu	ràsu	VERB	_	_	22	comp:aux	_	_
-24	à	à	ADP	_	_	23	comp:obl	_	_
+24	à	à	ADP	_	_	23	comp:obl	_	Gloss=at
 25	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	24	comp:obj	_	_
 26	à	yà	AUX	_	Mood=Sub|Person=4	22	parataxis@conj	_	_
 27	bàːra	bàar-	VERB	_	_	26	comp:obj	_	_
@@ -91,12 +91,12 @@
 31	maː	maː	PART	_	_	30	discourse@top	_	_
 32	màːsu	mài	PART	_	Number=Plur	17	mod	_	_
 33	jiràn	jir-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	32	comp:obj	_	_
-34	à	à	ADP	_	_	23	comp:obl	_	_
+34	à	à	ADP	_	_	23	comp:obl	_	Gloss=at
 35	gabaːtar̃	gabaːtaː	VERB	_	_	34	comp:obj	_	_
 36	dà	dà	ADP	_	_	35	comp:obl	_	_
 37	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	34	comp:obj	_	_
 38	nèː	neː	PART	_	_	34	discourse@foc	_	_
-39	à	à	ADP	_	_	38	mod	_	_
+39	à	à	ADP	_	_	38	mod	_	Gloss=at
 40	gàban	gàban	ADP	_	_	39	comp.obj	_	_
 41	koːtù	koːtù	PRON	_	_	40	mod	_	SpaceAfter=No
 42	.	.	PUNCT	_	_	2	punct	_	_
@@ -123,7 +123,7 @@
 18	'yan	ɗan	NOUN	_	Definite=Cons|Number=Plur	20	subj	_	_
 19	fur̃sùnàn	fur̃sùnàn	NOUN	_	Definite=Def|Gender=Masc	18	mod	_	_
 20	sukàn	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	16	comp:obj	_	_
-21	yi	yi	VERB	_	_	20	comp:aux	_	_
+21	yi	yi	VERB	_	_	20	comp:aux	_	Gloss=do
 22	barciː	barciː	NOUN	_	Gender=Masc	21	comp:pred	_	_
 23	nèː	neː	PART	_	Gender=Masc|Number=Plur	21	discourse@foc	_	_
 24	kaːmùː-kaːmùː	kaːmùː-kaːmùː	X	_	Gender=Masc	21	mod	_	SpaceAfter=No
@@ -187,7 +187,7 @@
 26	goːmà	goːmà	NUM	_	_	25	mod:num	_	_
 27	shâː	shâː	ADP	_	_	26	flat@num	_	_
 28	bìyar̃	bìyar̃	NUM	_	_	27	flat@num	_	_
-29	à	à	ADP	_	_	24	comp:obl	_	_
+29	à	à	ADP	_	_	24	comp:obl	_	Gloss=at
 30	cikin	cikin	ADP	_	_	29	comp:obj	_	_
 31	haːlìn	haːlìː	NOUN	_	Definite=Cons|Gender=Masc	30	comp:obj	_	_
 32	jiràn	jiràː	NOUN	_	Definite=Def|Gender=Masc	31	mod	_	SpaceAfter=No
@@ -205,7 +205,7 @@
 8	àr̃bà'in	àr̃bà'in	NUM	_	_	5	conj:coord	_	_
 9	dà	dà	CCONJ	_	_	10	cc	_	_
 10	bìyar̃	bìyar̃	NUM	_	_	8	conj:coord	_	_
-11	à	à	ADP	_	_	2	mod	_	_
+11	à	à	ADP	_	_	2	mod	_	Gloss=at
 12	cikin	cikin	ADP	_	_	11	comp:obj	_	_
 13	kûr̃kukùn	kûr̃kukùː	NOUN	_	Definite=Cons|Gender=Masc	14	mod	_	_
 14	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	12	comp:obj	_	_
@@ -242,12 +242,12 @@
 10	tsàràrrûn	tsàràrruː	NOUN	_	Definite=Def|Gender=Masc	9	comp:obj	_	_
 11	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	wordform=sunaː
 12	jiràn	jiraː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:aux	_	_
-13	à	à	ADP	_	_	12	comp:obl	_	_
+13	à	à	ADP	_	_	12	comp:obl	_	Gloss=at
 14	gabaːtar̃	gabaːtaː	VERB	_	Gender=Fem	13	comp:obj	_	wordform=gabaːtar
 15	dà	dà	ADP	_	_	14	comp:obl	_	_
 16	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	comp:pred	_	_
 17	nèː	neː	AUX	_	Gender=Masc|Number=Plur	15	comp:obj	_	_
-18	à	à	ADP	_	_	17	mod	_	_
+18	à	à	ADP	_	_	17	mod	_	Gloss=at
 19	gàban	gàban	ADP	_	_	18	comp:obj	_	_
 20	shàr̃i'àː	shàr̃i'àː	NOUN	_	Definite=Ind|Gender=Fem	19	comp:obj	_	_
 21	.	.	PUNCT	_	_	11	punct	_	_
@@ -296,7 +296,7 @@
 8	dà	dà	SCONJ	_	_	7	mod@relcl	_	_
 9	kèː	keː	PART	_	Aspect=Prog	8	comp:obj	_	_
 10	àkwai	àkwai	PART	_	_	9	comp:pred	_	_
-11	à	à	ADP	_	_	10	mod	_	_
+11	à	à	ADP	_	_	10	mod	_	Gloss=at
 12	kûr̃kukùn	kûr̃kukùː	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	_
 13	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	12	mod	_	_
 14	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	5	comp:obj	_	_
@@ -304,7 +304,7 @@
 16	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	15	comp:obj	_	_
 17	dà	dà	ADP	_	_	16	comp:obl	_	wordform=da
 18	gadàːjeː	gadàːjeː	NOUN	_	Number=Plur	17	comp:obj	_	_
-19	à	à	ADP	_	_	16	mod	_	_
+19	à	à	ADP	_	_	16	mod	_	Gloss=at
 20	cikinsà	cikin	NOUN	_	Gender=Fem	19	comp:obj	_	_
 21	dòːmin	dòːmin	SCONJ	_	_	16	mod	_	_
 22	rashin	rashiː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	_
@@ -330,7 +330,7 @@
 3	rashìn	rashìː	NOUN	_	Definite=Cons|Gender=Masc	2	mod	_	_
 4	ìsasshen	ìsasshen	NOUN	_	Definite=Cons|Number=Plur	3	mod	_	_
 5	fiːliː	fiːliː	NOUN	_	Definite=Ind	4	mod	_	_
-6	à	à	ADP	_	_	3	mod	_	_
+6	à	à	ADP	_	_	3	mod	_	Gloss=at
 7	kûr̃kukùn	kûr̃kukuː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	1	punct	_	_
 9	anàː	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	_
@@ -338,7 +338,7 @@
 11	tsàràrruː	tsàràrruː	NOUN	_	Number=Plur	10	comp:obj	_	_
 12	idan	idan	SCONJ	_	_	10	mod	_	_
 13	zaːsù	zâi	AUX	_	Number=Plur|Person=3|Tense=Fut	12	comp:obj	_	_
-14	yi	yi	VERB	_	_	13	comp:aux	_	_
+14	yi	yi	VERB	_	_	13	comp:aux	_	Gloss=do
 15	barciː	barciː	NOUN	_	Definite=Ind|Gender=Masc	14	comp:pred	_	_
 16	;	;	PUNCT	_	_	9	punct	_	_
 
@@ -351,8 +351,8 @@
 5	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	wordform=sunaː
 6	yînsà	yîːsù	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Number=Plur|Person=3	5	comp:aux	_	_
 7	neː	neː	PART	_	Gender=Masc|Number=Plur	6	discourse@foc	_	_
-8	à	à	ADP	_	_	6	comp:obl	_	_
-9	bisà	bisà	ADP	_	_	8	comp:obj	_	_
+8	à	à	ADP	_	_	6	comp:obl	_	Gloss=at
+9	bisà	bisà	ADP	_	_	8	comp:obj	_	Gloss=on_top
 10	dàɓeː	dàɓeː	NOUN	_	Definite=Ind	9	comp:obj	_	_
 11	sabòːdà	sabòːdà	SCONJ	_	_	6	mod	_	_
 12	baː'à	nàː	AUX	_	Aspect=Prog|Person=4|Polarity=Neg	11	comp:obj	_	_
@@ -390,13 +390,13 @@
 17	dà	dà	ADP	_	_	16	comp:pred	_	_
 18	haɗàr̃iː	haɗàr̃iː	NOUN	_	Gender=Masc	17	comp:obj	_	SpaceAfter=No
 19	;	;	PUNCT	_	_	16	punct	_	_
-20	wàːtòː	wàːtòː	PART	_	_	16	cc	_	_
+20	wàːtòː	wàːtòː	PART	_	_	16	cc	_	Gloss=that_is
 21	zaːfiː	zaːfiː	NOUN	_	Gender=Masc	16	subj	_	_
 22	dà	dà	SCONJ	_	_	21	cc@preconj	_	_
 23	rashìn	rashìː	NOUN	_	Definite=Cons|Gender=Masc	16	subj	_	_
 24	ìsasshiyar̃	ìsasshiyaː	NOUN	_	Definite=Cons|Gender=Fem	23	mod	_	_
 25	iskàː	iskàː	NOUN	_	Definite=Ind|Gender=Fem	24	mod	_	_
-26	à	à	ADP	_	_	24	mod	_	_
+26	à	à	ADP	_	_	24	mod	_	Gloss=at
 27	cikin	cikiː	ADP	_	_	26	comp:obj	_	_
 28	ɗaːkunàː	ɗaːku	NOUN	_	Number=Plur	27	comp:obj	_	SpaceAfter=No
 29	,	,	PUNCT	_	_	36	punct	_	_
@@ -441,7 +441,7 @@
 20	dà	dà	ADP	_	_	19	compound	_	_
 21	kuma	kuma	PART	_	_	19	discourse@top	_	_
 22	ɓeːràːyeː	ɓeːràːyeː	NOUN	_	Definite=Ind|Number=Plur	15	conj:coord	_	_
-23	à	à	ADP	_	_	32	comp:obl	_	_
+23	à	à	ADP	_	_	32	comp:obl	_	Gloss=at
 24	cikin	cikin	ADP	_	_	23	comp:obj	_	_
 25	kûr̃kukùn	kûr̃kukuː	NOUN	_	Definite=Def|Gender=Masc	24	comp:obj	_	SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	_
@@ -499,7 +499,7 @@
 23	,	,	PUNCT	_	_	26	punct	_	_
 24	àbincîn	àbinciː	NOUN	_	Definite=Cons|Gender=Masc	26	subj	_	_
 25	kuma	kuma	PART	_	_	24	discourse@top	_	_
-26	bâː	baːbù	PART	_	Polarity=Neg	17	conj:coord	_	_
+26	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	17	conj:coord	_	Gloss=there_is.Neg
 27	shi	shi	PRON	_	Gender=Masc|Person=3	26	subj	_	_
 28	dà	dà	ADP	_	_	26	comp:pred	_	wordform=ɗà
 29	daːɗiː	daːɗiː	NOUN	_	Gender=Masc	28	comp:obj	_	SpaceAfter=No
@@ -523,7 +523,7 @@
 14	ɗàuràrrûn	ɗàuràrraː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:obj	_	_
 15	àbinci	àbinci	NOUN	_	Gender=Masc	14	mod	_	_
 16	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
-17	yi	yi	VERB	_	_	16	comp:aux	_	_
+17	yi	yi	VERB	_	_	16	comp:aux	_	Gloss=do
 18	ƙaranciː	ƙaranciː	NOUN	_	Gender=Masc	17	comp:pred	_	_
 19	ƙwar̃ai	ƙwar̃ai	ADV	_	_	18	mod	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	26	punct	_	_
@@ -561,7 +561,7 @@
 11	dà	dà	SCONJ	_	_	7	mod@relcl	_	_
 12	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	11	comp:obj	_	_
 13	mutù	mut-	VERB	_	_	12	comp:aux	_	_
-14	à	à	ADP	_	_	13	mod	_	_
+14	à	à	ADP	_	_	13	mod	_	Gloss=at
 15	kûr̃kukùn	kûr̃kukuː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:obj	_	_
 16	à	à	AUX	_	Mood=Sub|Person=4	13	mod	_	_
 17	bàːra	bàːra	VERB	_	_	16	comp:obj	_	SpaceAfter=No
@@ -644,7 +644,7 @@
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	_
 5	akè	nàː	AUX	_	Aspect=Prog|Person=4	4	comp:obj	_	_
 6	ciki	ciki	ADV	_	_	5	comp:pred	_	_
-7	à	à	ADP	_	_	5	mod	_	_
+7	à	à	ADP	_	_	5	mod	_	Gloss=at
 8	kûr̃kukùn	kûr̃kukùː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	_
 9	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	8	mod	_	_
 10	nàː	nàː	AUX	_	Aspect=Prog	2	comp:obj	_	_

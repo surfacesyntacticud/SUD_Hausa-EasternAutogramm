@@ -10,7 +10,7 @@
 8	Salman	Salman	PROPN	_	_	6	comp:obj	_	_
 9	Rushdie	Rushdie	PROPN	_	_	8	flat@name	_	_
 10	"	"	PUNCT	_	_	8	punct	_	_
-11	à	à	ADP	_	_	3	mod	_	_
+11	à	à	ADP	_	_	3	mod	_	Gloss=at
 12	ƙasar̃	ƙasaː	NOUN	_	_	11	comp:obj	_	_
 13	Jàpân	Jàpân	PROPN	_	_	12	mod	_	_
 
@@ -18,7 +18,7 @@
 # text = Kwàːnàkin baːya à ƙasar̃ Ir̃àn an saːkè jaddàdà hukuncìn kisàn dà akà yankèː kân Salman Rushdie, wà:tò: mar̃ùbùːcin littaːfìn nan na "AːyoːyinShaidan".
 1	Kwàːnàkin	kwàːnàkiː	PROPN	_	_	6	subj	_	_
 2	baːya	baːya	ADV	_	_	1	mod	_	_
-3	à	à	ADP	_	_	1	mod	_	_
+3	à	à	ADP	_	_	1	mod	_	Gloss=at
 4	ƙasar̃	ƙasaː	NOUN	_	_	3	comp:obj	_	wordform=kasar̃
 5	Ir̃àn	Ir̃àn	PROPN	_	_	4	mod	_	_
 6	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	_
@@ -29,7 +29,7 @@
 11	dà	dà	SCONJ	_	_	9	mod@relcl	_	_
 12	akà	nàː	AUX	_	Aspect=Prog|Person=4	11	comp:obj	_	_
 13	yankèː	yank-	VERB	_	_	12	comp:aux	_	_
-14	kân	kâi	ADP	_	Definite=Cons|Gender=Masc	13	comp:obj	_	_
+14	kân	kâi	NOUN	_	Definite=Cons	13	comp:obj	_	Gloss=head.Masc
 15	Salman	Salman	PROPN	_	_	14	mod	_	_
 16	Rushdie	Rushdie	PROPN	_	_	15	flat@name	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	19	punct	_	_
@@ -52,7 +52,7 @@
 4	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	1	comp:cleft	_	_
 5	bugà	bug-	VERB	_	_	4	comp:aux	_	_
 6	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	5	comp:obj	_	_
-7	à	à	ADP	_	ExtPos=ADP	5	comp:obl	_	_
+7	à	à	ADP	_	ExtPos=ADP	5	comp:obl	_	Gloss=at
 8	cikin	cikin	ADP	_	_	7	comp.obj	_	_
 9	Japananciː	Japananciː	PROPN	_	Number=Plur	7	comp:obj	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	_
@@ -64,13 +64,13 @@
 3	rìkicîn	rìkicîː	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	_
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	_
 5	akà	nàː	AUX	_	Aspect=Prog|Person=4	4	comp:obj	_	_
-6	yi	yi	VERB	_	_	5	comp:aux	_	_
-7	à	à	ADP	_	_	6	comp:obl	_	_
+6	yi	yi	VERB	_	_	5	comp:aux	_	Gloss=do
+7	à	à	ADP	_	_	6	comp:obl	_	Gloss=at
 8	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	_
 9	"	"	PUNCT	_	_	10	punct	_	_
 10	Tokyo	Tokyo	PROPN	_	_	8	mod	_	_
 11	"	"	PUNCT	_	_	10	punct	_	_
-12	à	à	ADP	_	ExtPos=ADP	6	comp:obl	_	_
+12	à	à	ADP	_	ExtPos=ADP	6	comp:obl	_	Gloss=at
 13	kân	kâi	NOUN	_	Definite=Cons|Gender=Masc	12	comp.obj	_	_
 14	wannàn	wannàn	DET	_	Gender=Masc|PronType=Dem	15	det	_	_
 15	littaːfìn	littaːfìː	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	_
@@ -140,7 +140,7 @@
 41	tàːron	tàːroː	NOUN	_	Definite=Cons|Gender=Masc	40	comp:obj	_	_
 42	manèːmaː	manèːmaː	VERB	_	Gender=Fem	45	comp:obj	_	_
 43	làːbàːr̃ai	làːbàːr̃ai	NOUN	_	Gender=Masc	42	comp:obj	_	_
-44	à	à	ADP	_	_	40	comp:obl	_	_
+44	à	à	ADP	_	_	40	comp:obl	_	Gloss=at
 45	kùlàːb	kùlàːː	VERB	_	_	44	comp:obj	_	_
 46	ɗîn	ɗiː	NOUN	_	Definite=Cons|Gender=Masc	41	mod	_	_
 47	nan	nan	DET	_	PronType=Dem	46	det	_	_
@@ -209,7 +209,7 @@
 21	biyu	biyu	NUM	_	_	20	mod:num	_	_
 22	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	13	parataxis@conj	_	_
 23	shìga	shig-	VERB	_	ExtPos=NOUN|Gender=Fem	22	comp:aux	_	_
-24	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	23	comp:obj@G	_	_
+24	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	23	comp:obj@G	_	Gloss=do
 25	zàngà-zangà	zàngà-zangà	ADV	_	_	24	comp:pred	_	_
 26	ta	ta	ADP	_	Case=Gen|Gender=Fem	24	mod	_	_
 27	ƙîn	ƙîi	VERB	_	Definite=Cons|Gender=Masc	26	comp:obj	_	_
@@ -266,10 +266,10 @@
 7	mùtumìn	mùtumìː	NOUN	_	Definite=Cons|Gender=Masc	5	conj:appos	_	_
 8	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	_
 9	can	can	ADV	_	PronType=Dem	8	comp:pred	_	_
-10	à	à	ADP	_	_	9	mod	_	_
+10	à	à	ADP	_	_	9	mod	_	Gloss=at
 11	asìbitì	asìbitì	NOUN	_	Gender=Masc	10	comp:obj	_	_
 12	ana	yanː	AUX	_	Aspect=Perf|Person=4	9	mod@relcl	_	_
-13	yi	yi	VERB	_	_	12	comp:aux	_	_
+13	yi	yi	VERB	_	_	12	comp:aux	_	Gloss=do
 14	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	13	comp:obl	_	_
 15	maːgàniː	maːgàniː	NOUN	_	Definite=Ind|Gender=Masc	13	comp:pred	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	8	punct	_	_
@@ -302,7 +302,7 @@
 24	bugà	bug-	VERB	_	_	23	comp:aux	_	_
 25	wannàn	wannàn	DET	_	PronType=Dem	26	det	_	_
 26	littaːfìn	littaːfìː	NOUN	_	Definite=Cons|Gender=Masc	24	comp:obj	_	_
-27	à	à	ADP	_	_	24	comp:obl	_	_
+27	à	à	ADP	_	_	24	comp:obl	_	Gloss=at
 28	cikin	cikiː	ADP	_	_	27	comp:obj	_	_
 29	harshèn	harshèː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	_
 30	Japananciː	Japananciː	PROPN	_	_	29	mod	_	SpaceAfter=No
@@ -333,7 +333,7 @@
 7	kaːmèː	kaːm-	VERB	_	_	6	comp:aux	_	_
 8	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	7	comp:obj	_	_
 9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	6	parataxis@conj	_	_
-10	yi	yi	VERB	_	_	9	comp:aux	_	_
+10	yi	yi	VERB	_	_	9	comp:aux	_	Gloss=do
 11	gàba	gàba	ADV	_	_	10	mod	_	_
 12	dà	dà	ADP	_	_	11	comp:obl	_	_
 13	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	12	comp:obj	_	_
@@ -342,14 +342,14 @@
 # sent_id = 09_Salman_Rushdie__15
 # text = Tòː à can hawaː na àshìr̃in nèː akèː yîn wannàn tàːroː na manèːmaː làːbàːr̃ai dà shiː Gianni Palma ya kiraːwoː.
 1	Tòː	tòː	INTJ	_	_	2	discourse	_	_
-2	à	à	ADP	_	_	0	root	_	_
+2	à	à	ADP	_	_	0	root	_	Gloss=at
 3	can	can	ADV	_	PronType=Dem	2	comp:obj	_	_
 4	hawaː	haw-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	subj	_	_
 5	na	na	ADP	_	Case=Gen	4	mod	_	_
 6	àshìr̃in	àshìr̃in	NUM	_	_	5	comp:obj	_	_
 7	nèː	neː	PART	_	_	5	discourse@foc	_	_
 8	akèː	nàː	AUX	_	Aspect=Prog|Person=4	2	comp:cleft	_	_
-9	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	8	comp:aux	_	_
+9	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	8	comp:aux	_	Gloss=do
 10	wannàn	wannàn	DET	_	PronType=Dem	11	det	_	_
 11	tàːroː	tàːroː	NOUN	_	Gender=Masc	9	comp:pred	_	_
 12	na	na	ADP	_	Case=Gen	11	mod	_	_
@@ -401,7 +401,7 @@
 17	ɗaukàr̃	ɗauk-	VERB	_	ExtPos=NOUN|Gender=Fem	16	comp:aux	_	_
 18	màganàː	màganàː	NOUN	_	Gender=Fem	17	comp:obj	_	_
 19	-	-	PUNCT	_	_	22	punct	_	_
-20	wàːtòː	wàːtòː	CCONJ	_	_	22	subj	_	_
+20	wàːtòː	wàːtòː	PART	_	_	22	subj	_	Gloss=that_is
 21	maːkar̃ufôː	maːkar̃ufôː	NOUN	_	Gender=Masc	22	subj	_	_
 22	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	9	parataxis@conj	_	_
 23	jeː	jeː	VERB	_	_	22	comp:aux	_	_
@@ -435,10 +435,10 @@
 17	sakàː	sak-	VERB	_	_	16	comp:aux	_	_
 18	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	17	comp:obl	_	_
 19	ankwàː	ankwàː	NOUN	_	Gender=Fem	17	comp:obj	_	_
-20	à	à	ADP	_	_	19	mod	_	_
+20	à	à	ADP	_	_	19	mod	_	Gloss=at
 21	hannunsà	hannuː	NOUN	_	Case=Gen|Definite=Cons|Number=Plur|Person=3	20	comp:obj	_	_
 22	akà	yaː	AUX	_	Aspect=Perf|Person=4	16	parataxis@conj	_	_
-23	yi	yi	VERB	_	_	22	comp:aux	_	_
+23	yi	yi	VERB	_	_	22	comp:aux	_	Gloss=do
 24	wàje	wàje	ADV	_	_	23	mod	_	_
 25	dà	dà	ADP	_	_	23	comp:obl	_	_
 26	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	25	comp:obj	_	SpaceAfter=No
@@ -491,7 +491,7 @@
 5	kwàːnàkin	kwàːnàkiː	NOUN	_	Definite=Cons|Number=Plur	4	comp:obj	_	_
 6	baːya	baːya	ADV	_	_	5	mod	_	_
 7	anàː	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	_
-8	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	7	comp:aux	_	_
+8	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	7	comp:aux	_	Gloss=do
 9	wannàn	wannàn	DET	_	PronType=Dem	10	det	_	_
 10	hàyàːniyaː	hàyàːniyaː	NOUN	_	Gender=Fem	8	udep	_	_
 11	gàme	gamàː	VERB	_	ExtPos=ADP|VerbForm=Stat	8	comp:obl	_	_
@@ -503,7 +503,7 @@
 17	,	,	PUNCT	_	_	20	punct	_	_
 18	dòːmin	dòːmin	SCONJ	_	_	8	mod	_	_
 19	kùwa	kùwa	PART	_	_	18	discourse@top	_	_
-20	à	à	ADP	_	_	39	mod	_	_
+20	à	à	ADP	_	_	39	mod	_	Gloss=at
 21	raːnar̃	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	20	comp:obj	_	_
 22	Lahàdì	Lahàdì	PROPN	_	_	21	mod	_	_
 23	dà	dà	SCONJ	_	_	21	mod@relcl	_	_
@@ -518,12 +518,12 @@
 32	ɗàːriː	ɗàːriː	NUM	_	Number=Plur	31	mod	_	_
 33	dà	dà	CCONJ	_	_	34	cc	_	_
 34	àshìr̃in	àshìr̃in	NUM	_	_	32	conj:coord	_	_
-35	à	à	ADP	_	_	42	mod	_	_
+35	à	à	ADP	_	_	42	mod	_	Gloss=at
 36	wata	wata	DET	_	Gender=Fem	37	det	_	_
 37	ùnguwar̃	ùnguwar̃	ADJ	_	_	35	comp:obj	_	_
 38	Tokyo	Tokyo	PROPN	_	_	37	mod	_	_
 39	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	7	parataxis@conj	_	_
-40	yi	yi	VERB	_	_	39	comp:aux	_	_
+40	yi	yi	VERB	_	_	39	comp:aux	_	Gloss=do
 41	wata	wata	DET	_	Gender=Fem	42	det	_	_
 42	zaːngà-zangà	zaːngà-zangà	NOUN	_	Gender=Fem	40	comp:pred	_	_
 43	baːyân	baːyân	SCONJ	_	_	40	mod	_	_
@@ -551,7 +551,7 @@
 13	akèː	nàː	AUX	_	Aspect=Prog|Person=4	12	comp:obj	_	_
 14	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:aux	_	_
 15	bugàːwaː	bug-	VERB	_	ExtPos=NOUN|Gender=Fem	14	comp:obj	_	_
-16	à	à	ADP	_	_	15	comp:obl	_	_
+16	à	à	ADP	_	_	15	comp:obl	_	Gloss=at
 17	harshèn	harshèː	NOUN	_	Definite=Cons|Gender=Masc	16	comp:obj	_	_
 18	Japananciː	Japananciː	PROPN	_	_	17	mod	_	_
 19	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	18	det	_	SpaceAfter=No
@@ -610,7 +610,7 @@
 12	kàm	kàm	IDEO	_	_	4	discourse@top	_	_
 13	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	10	comp:obj	_	_
 14	nan	nan	ADV	_	Definite=Def|PronType=Dem	13	comp:pred	_	_
-15	à	à	ADP	_	_	13	comp:pred	_	_
+15	à	à	ADP	_	_	13	comp:pred	_	Gloss=at
 16	kân	kân	ADP	_	_	15	comp:obj	_	_
 17	bàkansà	bàkansà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	16	comp:obj	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	20	punct	_	_

@@ -8,7 +8,7 @@
 6	mài	mài	PART	_	Number=Sing	5	mod	_	_
 7	r̃aꞌàyin	r̃aꞌàyiː	NOUN	_	Definite=Cons|Number=Plur	6	comp:obj	_	_
 8	canjìː	canjìː	NOUN	_	Definite=Ind	7	mod	_	_
-9	à	à	ADP	_	_	2	mod	_	_
+9	à	à	ADP	_	_	2	mod	_	Gloss=at
 10	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	9	comp:obj	_	_
 
 # sent_id = 05_Gurfanarwa_da_lauya__2
@@ -132,9 +132,9 @@
 9	mùtumìn	mùtûm	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	_
 10	har̃	har̃	ADP	_	_	6	mod	_	Gloss=until
 11	sai	sai	ADP	_	_	10	comp:obj	_	Gloss=until
-12	illaː	illaː	X	_	ExtPos=ADV	11	comp:obj	_	Idiom=Yes
+12	illaː	illaː	X	_	_	11	comp:obj	_	_
 13	maː	maː	PART	_	_	12	discourse@top	_	_
-14	shaː	shaː	X	_	_	12	flat@foreign	_	InIdiom=Yes
+14	shaː	shaː	X	_	ExtPos=ADV	12	flat@foreign	_	Idiom=Yes
 15	Àllaːhù	Àllaːhù	PROPN	_	_	14	flat@foreign	_	InIdiom=Yes|SpaceAfter=No
 16	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -145,17 +145,17 @@
 3	akà	nàː	AUX	_	Aspect=Prog|Person=4	1	comp:obj	_	_
 4	tsarèː	tsar-	VERB	_	_	3	comp:aux	_	_
 5	mùtûm	mùtûm	NOUN	_	Gender=Masc	4	comp:obj	_	_
-6	bìsàː	bìsàː	ADP	_	Number=Plur	4	comp:obl	_	_
+6	bìsàː	bìsàː	ADP	_	_	4	comp:obl	_	Gloss=according_to
 7	wannàn	wannàn	DET	_	PronType=Dem	8	det	_	_
 8	Dòːkaː	Dòːkaː	PROPN	_	_	6	comp:obj	_	_
 9	ta	ta	ADP	_	_	8	mod	_	_
 10	Biyu	biyu	NUM	_	_	9	comp:obj	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	1	punct	_	_
 12	tòː	tòː	INTJ	_	_	13	discourse	_	_
-13	baːbù	baːbù	PART	_	Polarity=Neg	0	root	_	Gloss=there_is.Neg|PartType=Pred
+13	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 14	wata	wani	DET	_	Gender=Fem	15	det	_	_
 15	koːtù	koːtù	NUM	_	PronType=Ind	13	subj	_	_
-16	à	à	ADP	_	_	13	comp:pred	_	_
+16	à	à	ADP	_	_	13	comp:pred	_	Gloss=at
 17	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	16	comp:obj	_	_
 18	dà	dà	SCONJ	_	_	15	mod@relcl	_	_
 19	zaːtà	zâi	AUX	_	Gender=Fem|Person=3|Tense=Fut	18	comp:obj	_	_
@@ -178,7 +178,7 @@
 11	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	_
 12	tsarèː	tsar-	VERB	_	_	11	comp:aux	_	_
 13	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	12	comp:obj	_	_
-14	à	à	ADP	_	_	12	comp:obl	_	_
+14	à	à	ADP	_	_	12	comp:obl	_	Gloss=at
 15	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	14	comp:obj	_	_
 16	har̃	har̃̃	ADP	_	_	12	mod	_	_
 17	tsawon	tsawoː	NOUN	_	Definite=Cons|Gender=Masc	16	comp:obj	_	_
@@ -202,7 +202,7 @@
 35	gur̃faːnar̃	gur̃faːn-	VERB	_	_	34	comp:aux	_	_
 36	dà	dà	ADP	_	_	35	comp:obl	_	_
 37	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	36	comp:obj	_	_
-38	à	à	ADP	_	_	35	comp:obl	_	_
+38	à	à	ADP	_	_	35	comp:obl	_	Gloss=at
 39	gàban	gàban	ADP	_	_	38	comp:obj	_	_
 40	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Definite=Ind|Gender=Fem	39	comp:obj	_	_
 41	ba	ba	PART	_	Polarity=Neg	30	mod	_	SpaceAfter=No
@@ -228,7 +228,7 @@
 16	gur̃faːnar̃	gur̃faːn-	VERB	_	_	15	comp:obj	_	_
 17	dà	dà	ADP	_	_	16	comp:obl	_	_
 18	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	17	comp:obj	_	_
-19	à	à	ADP	_	_	16	comp:obl	_	_
+19	à	à	ADP	_	_	16	comp:obl	_	Gloss=at
 20	gàban	gàban	ADP	_	_	19	comp.obj	_	_
 21	wata	wata	DET	_	Gender=Fem	22	det	_	_
 22	koːtù	koːtù	NUM	_	Gender=Fem	20	comp:obj	_	_
@@ -242,7 +242,7 @@
 30	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	29	mod	_	Gloss=do
 31	ƙafàr̃	ƙafàː	NOUN	_	Definite=Cons|Gender=Fem	30	comp:pred	_	_
 32	àngùlu	àngùlu	NOUN	_	Gender=Masc	31	mod	_	_
-33	à	à	ADP	_	_	30	comp:obl	_	_
+33	à	à	ADP	_	_	30	comp:obl	_	Gloss=at
 34	shirìn	shiry-	VERB	_	Definite=Cons|Gender=Masc	33	comp:obj	_	_
 35	miːƙà	miːƙ-	PRON	_	Number=Plur	34	comp:obj	_	_
 36	mulkìː	mulkìː	NOUN	_	Gender=Masc	35	comp:obj	_	_
@@ -281,7 +281,7 @@
 24	G.F.	G.F.	PROPN	_	_	22	conj:appos	_	_
 25	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	19	mod@relcl	_	_
 26	r̃ubùːtaː	r̃ubut-	VERB	_	ExtPos=NOUN|Gender=Fem	25	comp:aux	_	_
-27	à	à	ADP	_	_	26	mod	_	_
+27	à	à	ADP	_	_	26	mod	_	Gloss=at
 28	cikin	cikin	ADP	_	_	27	comp:obj	_	_
 29	wata	wata	DET	_	Gender=Fem	30	det	_	_
 30	mùjallàː	mùjallàː	NOUN	_	Definite=Ind	28	comp:obj	_	_
@@ -289,7 +289,7 @@
 32	màːsu	mài	PART	_	Number=Plur	31	comp:obj	_	_
 33	r̃aꞌàyin	r̃aꞌàyiː	NOUN	_	Definite=Cons|Number=Plur	32	comp:obj	_	_
 34	canjìː	canjìː	NOUN	_	Gender=Masc	33	mod	_	_
-35	à	à	ADP	_	_	26	mod	_	_
+35	à	à	ADP	_	_	26	mod	_	Gloss=at
 36	cikin	cikin	ADP	_	_	35	comp:obj	_	_
 37	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	36	comp:obj	_	_
 38	Maːyù	Maːyù	PROPN	_	_	37	compound	_	SpaceAfter=No
@@ -343,7 +343,7 @@
 21	har̃	har̃	ADP	_	_	19	comp:obl	_	_
 22	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem|Number=Plur	21	comp:obj	_	_
 23	bìyar̃	bìyar̃	NUM	_	_	22	det	_	_
-24	à	à	ADP	_	_	19	comp:obl	_	_
+24	à	à	ADP	_	_	19	comp:obl	_	Gloss=at
 25	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	24	comp:obj	_	_
 26	yaːrìː	yaːrìː	NOUN	_	Gender=Masc	25	mod	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	2	punct	_	_
@@ -368,11 +368,11 @@
 # text = Yaː fitoː à kaːnun làːbàːr̃ai nèː à shèːkaràr̃ alìf dà ɗàːriː tar̃à dà sìttin dà tar̃à loːkàcîn dà ya kaːrè wani leːbùr̃à dà akèː yîn zàrgin cêːwa wani jaːmìꞌin gwamnatì yaː yi wà màːtar̃sà fyàːɗeː.
 1	Yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 2	fitoː	fitoː	VERB	_	_	1	comp:aux	_	_
-3	à	à	ADP	_	_	2	comp:obl	_	_
+3	à	à	ADP	_	_	2	comp:obl	_	Gloss=at
 4	kaːnun	kân	ADP	_	_	3	comp:obj	_	_
 5	làːbàːr̃ai	làːbàːr̃ai	NOUN	_	Case=Gen|Gender=Masc|Person=3	4	mod	_	_
 6	nèː	neː	PART	_	_	4	discourse@foc	_	_
-7	à	à	ADP	_	_	2	comp:obl	_	_
+7	à	à	ADP	_	_	2	comp:obl	_	Gloss=at
 8	shèːkaràr̃	shèːkaràː	ADP	_	_	7	comp:obj	_	_
 9	alìf	alìf	NUM	_	_	4	mod	_	_
 10	dà	dà	CCONJ	_	_	11	cc	_	_
@@ -521,7 +521,7 @@
 3	Chief	Chief	PROPN	_	_	2	comp:obj	_	_
 4	G.F.	G.f.	PROPN	_	_	3	flat@name	_	_
 5	neː	neː	PART	_	Gender=Masc|Number=Plur	3	discourse@foc	_	_
-6	à	à	ADP	_	_	2	comp:obl	_	_
+6	à	à	ADP	_	_	2	comp:obl	_	Gloss=at
 7	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	6	comp:obj	_	_
 8	Yuːnì	Yuːnì	PROPN	_	_	7	mod	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	_
@@ -574,7 +574,7 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya__25-6
 # text = Baːbù shakkàː Gwamnatìn Nàːjeːr̃iyàː tanàː shân suːkàː sòsai, koː tà gur̃fanar̃ dà Chief G.F. à gàban shàr̃iꞌàː, koː kùwa tà sàkeː shì.
-1	Baːbù	baːbù	PART	_	Polarity=Neg	5	subj	_	Gloss=there_is.Neg|PartType=Pred
+1	Baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	5	subj	_	Gloss=there_is.Neg
 2	shakkàː	shakkàː	NOUN	_	Gender=Fem	1	subj	_	_
 3	Gwamnatìn	Gwamnatìn	PROPN	_	_	2	mod	_	_
 4	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	3	mod	_	_
@@ -589,7 +589,7 @@
 13	dà	dà	ADP	_	_	12	comp:obl	_	_
 14	Chief	Chief	PROPN	_	_	13	comp:obj	_	_
 15	G.F.	G.f.	PROPN	_	_	14	flat@name	_	_
-16	à	à	ADP	_	_	12	comp:obl	_	_
+16	à	à	ADP	_	_	12	comp:obl	_	Gloss=at
 17	gàban	gàban	ADP	_	_	16	comp:obj	_	_
 18	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Definite=Ind|Gender=Fem	17	comp:obj	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	22	punct	_	_

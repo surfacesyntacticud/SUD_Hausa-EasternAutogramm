@@ -20,7 +20,7 @@
 11	gwamnatoːcin	gwamnatoːciː	NOUN	_	Definite=Cons|Gender=Masc	10	mod	_	_
 12	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	11	mod	_	_
 13	soːjà	soːjà	NOUN	_	Gender=Masc	12	mod	_	_
-14	à	à	ADP	_	_	10	mod	_	_
+14	à	à	ADP	_	_	10	mod	_	Gloss=at
 15	Afir̃kà	Afir̃kà	PROPN	_	_	14	comp:obj	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -45,7 +45,7 @@
 17	abuːbuwàn	àbù	NOUN	_	Definite=Cons|Number=Plur	16	mod	_	_
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	_
 19	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	18	comp:obj	_	_
-20	yi	yi	VERB	_	_	19	comp:aux	_	_
+20	yi	yi	VERB	_	_	19	comp:aux	_	Gloss=do
 21	danganèː	danganèː	NOUN	_	ExtPos=ADP|Gender=Masc	20	comp:pred	_	Gloss=relation.Masc|Idiom=Yes
 22	dà	dà	ADP	_	_	21	compound	_	Gloss=with|InIdiom=Yes
 23	kaːrè	kar-	NOUN	_	Gender=Masc	21	comp:obj	_	_
@@ -77,7 +77,7 @@
 19	kaːmà	kaːm-	VERB	_	_	18	comp:aux	_	_
 20	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	19	comp:obj	_	_
 21	soːjà	soːjà	NOUN	_	Gender=Masc	20	mod	_	_
-22	à	à	ADP	_	_	19	mod	_	_
+22	à	à	ADP	_	_	19	mod	_	Gloss=at
 23	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	22	comp:obj	_	Gloss=country.Fem.PrevRef|SpaceAfter=No
 24	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -108,7 +108,7 @@
 23	zàrgeː	zàrgeː	VERB	_	_	22	comp:aux	_	_
 24	shì	shi	AUX	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	23	comp:obj	_	_
 25	dà	dà	ADP	_	_	23	comp:obl	_	wordform=da
-26	yi	yi	VERB	_	_	25	comp:obj	_	_
+26	yi	yi	VERB	_	_	25	comp:obj	_	Gloss=do
 27	wà	wà	ADP	_	Case=Dat	26	comp:obl	_	_
 28	tattalin	tattaliː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:pred	_	_
 29	ar̃zìkin	ar̃zìkiː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:pred	_	_
@@ -117,7 +117,7 @@
 32	,	,	PUNCT	_	_	35	punct	_	_
 33	koː	koː	CCONJ	_	_	35	cc	_	_
 34	kuma	kuma	PART	_	_	33	discourse@top	_	_
-35	yi	yi	VERB	_	_	22	conj:coord	_	_
+35	yi	yi	VERB	_	_	22	conj:coord	_	Gloss=do
 36	wà	wà	ADP	_	Case=Dat	35	comp:obl	_	_
 37	tsàron	tsàroː	NOUN	_	Definite=Cons|Gender=Masc	35	comp:pred	_	_
 38	ƙasaː	ƙasaː	NOUN	_	Definite=Ind|Gender=Fem	37	mod	_	wordform=kasaː
@@ -157,10 +157,10 @@
 10	Biyu	Biyu	PROPN	_	_	9	comp:obj	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	1	punct	_	_
 12	tòː	tòː	INTJ	_	_	13	discourse	_	_
-13	baːbù	bâː	PART	_	Polarity=Neg	0	root	_	_
+13	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 14	wata	wata	DET	_	Gender=Fem	15	det	_	_
 15	koːtù	koːtù	NUM	_	PronType=Ind	13	subj	_	_
-16	à	à	ADP	_	_	15	mod	_	_
+16	à	à	ADP	_	_	15	mod	_	Gloss=at
 17	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	16	comp:obj	_	_
 18	dà	dà	SCONJ	_	_	15	mod@relcl	_	_
 19	zaː	zaː	AUX	_	_	18	comp:obj	_	_
@@ -200,7 +200,7 @@
 27	daːcèː	daːcèː	VERB	_	_	26	comp:aux	_	_
 28	ba	ba	PART	_	Polarity=Neg	27	mod	_	_
 29	-	-	PUNCT	_	_	31	punct	_	_
-30	wàːtòː	wàːtòː	PART	_	_	31	discourse	_	_
+30	wàːtòː	wàːtòː	PART	_	_	31	discourse	_	Gloss=that_is
 31	anàː	nàː	AUX	_	Aspect=Prog|Person=4	16	conj:coord	_	_
 32	tsarèː	tsar-	VERB	_	_	31	comp:aux	_	_
 33	mutàneː	ùtûm	NOUN	_	Number=Plur	32	comp:obj	_	_
@@ -216,7 +216,7 @@
 43	al'amur̃ànsù	al'amur̃àː	NOUN	_	Case=Gen|Definite=Cons|Number=Plur|Person=3	44	subj	_	_
 44	bàsù	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Polarity=Neg	20	mod@relcl	_	_
 45	shàːfi	shàig-	VERB	_	_	31	comp:aux	_	_
-46	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	45	comp:obj	_	_
+46	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	45	comp:obj	_	Gloss=do
 47	wata	wata	DET	_	Gender=Fem	35	det	_	_
 48	maƙar̃ƙashìyaː	maƙar̃ƙashìyaː	NOUN	_	Gender=Fem	46	comp:pred	_	_
 49	gà	gà	ADP	_	_	27	comp:obl	_	_
@@ -240,7 +240,7 @@
 5	dà	dà	ADP	_	_	4	comp:obl	_	_
 6	wata	wata	DET	_	Gender=Fem	7	det	_	_
 7	ƙaːraː	ƙaːraː	NOUN	_	Gender=Fem	5	comp:obj	_	_
-8	à	à	ADP	_	_	7	mod	_	_
+8	à	à	ADP	_	_	7	mod	_	Gloss=at
 9	Bàbbar̃	Bàbbar̃	PROPN	_	_	8	comp:obj	_	_
 10	Koːtùn	Koːtùn	PROPN	_	_	9	flat@name	_	_
 11	Ìkko	Ìkko	PROPN	_	_	10	flat@name	_	_
@@ -287,7 +287,7 @@
 27	shèːkaràː	shèːkaràː	NOUN	_	Definite=Ind	26	mod	_	_
 28	biyu	biyu	NUM	_	_	27	det	_	SpaceAfter=No
 29	,	,	PUNCT	_	_	30	punct	_	_
-30	bìsàː	bìsàː	ADP	_	Definite=Ind|Gender=Fem	41	comp:obl	_	_
+30	bìsàː	bìsàː	ADP	_	Definite=Ind	41	comp:obl	_	Gloss=according_to
 31	wannàn	wannàn	DET	_	PronType=Dem	32	det	_	_
 32	dòːkaː	dòːkaː	NOUN	_	Definite=Ind|Gender=Fem	30	comp:obj	_	_
 33	ta	ta	ADP	_	Case=Gen|Gender=Fem	32	mod	_	_
@@ -306,7 +306,7 @@
 46	bînsà	bîːsù	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Person=3	45	comp:aux	_	_
 47	ba	ba	PART	_	Polarity=Neg	41	mod	_	_
 48	-	-	PUNCT	_	_	40	punct	_	_
-49	wàːtòː	wàːtòː	PRON	_	_	50	subj	_	_
+49	wàːtòː	wàːtòː	PART	_	_	50	subj	_	Gloss=that_is
 50	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	21	parataxis@conj	_	_
 51	koː	koː	VERB	_	_	50	comp:aux	_	_
 52	saːtar̃	saːtar̃	VERB	_	_	50	comp:aux	_	_
@@ -339,7 +339,7 @@
 19	tsàre	tsay-	ADV	_	ExtPos=ADV|VerbForm=Stat	18	comp:pred	_	_
 20	dà	dà	ADP	_	_	19	comp:obl	_	_
 21	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	comp:obj	_	_
-22	à	à	ADP	_	_	19	mod	_	_
+22	à	à	ADP	_	_	19	mod	_	Gloss=at
 23	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	22	comp:obj	_	_
 24	Ìkko	Ìkko	PROPN	_	_	23	mod	_	_
 25	kawai	kawai	PART	_	_	22	discourse@top	_	SpaceAfter=No
@@ -367,7 +367,7 @@
 18	mùtûm	mùtûm	NOUN	_	Gender=Masc	17	comp:obj	_	_
 19	dubuː	dubuː	NUM	_	_	18	det	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	_
-21	à	à	ADP	_	ExtPos=ADP	17	comp:obl	_	_
+21	à	à	ADP	_	ExtPos=ADP	17	comp:obl	_	Gloss=at
 22	ƙàrƙashin	ƙàrƙashin	ADP	_	_	21	comp.obj	_	_
 23	wannàn	wannàn	DET	_	PronType=Dem	24	det	_	_
 24	Dòːkaː	Dòːkaː	PROPN	_	_	21	comp:obj	_	_

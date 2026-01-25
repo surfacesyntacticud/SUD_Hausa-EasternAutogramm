@@ -15,7 +15,7 @@
 # text = gàː mafìː yawancin ꞌyan Nàːjeːr̃iyàː, ɓullôːwar jirgin ruwân nan mài suːnaː « Britannia » à gaːɓàr̃ tèːkun Ìkko kwaːnan baːya, ita cèː àlaːmàː ta farkoː dà ta nuːnà cêːwaː 'yan gidan sàrautàr̃ Bìrtaːniyàː sunàː zìyaːr̃àr̃ Nàːjeːr̃iyàː.
 # text_ortho = Gàː mafìː yawancin ꞌyan Nàːjeːr̃iyàː, ɓullôːwar jirgin ruwân nan mài suːnaː « Britannia » à gaːɓàr̃ tèːkun Ìkko kwaːnan baːya, ita cèː àlaːmàː ta farkoː dà ta nuːnà cêːwaː 'yan gidan sàrautàr̃ Bìrtaːniyàː sunàː zìyaːr̃àr̃ Nàːjeːr̃iyàː.
 1	gàː	gàː	PART	_	_	24	mod	_	_
-2	mafìː	mafìː	PART	_	Gender=Masc	1	subj	_	PartType=Der
+2	mafìː	mafìː	PART	_	Gender=Masc|PartType=Der	1	subj	_	_
 3	yawancin	yawanciː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj	_	_
 4	ꞌyan	ꞌyan	ADJ	_	_	3	mod	_	_
 5	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	4	compound	_	SpaceAfter=No
@@ -29,7 +29,7 @@
 13	«	«	PUNCT	_	_	14	punct	_	_
 14	Britannia	Britannia	PROPN	_	_	12	mod	_	_
 15	»	»	PUNCT	_	_	14	punct	_	_
-16	à	à	ADP	_	_	7	mod	_	_
+16	à	à	ADP	_	_	7	mod	_	Gloss=at
 17	gaːɓàr̃	gaːɓàː	NOUN	_	Gender=Fem	16	comp:obj	_	_
 18	Tèːkun	tèːkun	ADP	_	Definite=Cons|Gender=Masc	17	mod	_	wordform=tèːkun
 19	Ìkko	Ìkko	PROPN	_	_	18	mod	_	_
@@ -60,7 +60,7 @@
 1	yâːraː	yaːròː	NOUN	_	Definite=Ind|Number=Plur	10	subj	_	_
 2	ƙanaːnàː	ƙanaːnàː	ADJ	_	Number=Plur	1	mod	_	_
 3	dà	dà	SCONJ	_	_	1	mod@relcl	_	_
-4	kèː	keː	AUX	_	Aspect=Prog	3	comp:obj	_	Relative=Yes
+4	kèː	keː	AUX	_	Aspect=Prog|Relative=Yes	3	comp:obj	_	_
 5	kân	kân	ADP	_	_	4	comp:pred	_	_
 6	gadoːjiː	gadoːjiː	NOUN	_	Definite=Ind|Number=Plur	5	comp:obj	_	_
 7	na	na	ADP	_	_	6	mod	_	_
@@ -81,7 +81,7 @@
 22	"	"	PUNCT	_	_	21	punct	_	wordform=’
 23	na	na	ADP	_	_	21	mod	_	_
 24	jàbu	jàbu	ADJ	_	Number=Plur	23	comp:obj	_	_
-25	à	à	ADP	_	ExtPos=ADP	11	mod	_	Idiom=Yes
+25	à	à	ADP	_	ExtPos=ADP	11	mod	_	Gloss=at|Idiom=Yes
 26	tsàːkaːnin	tsàːkaːniː	NOUN	_	Definite=Cons|Number=Plur	25	comp:obj	_	InIdiom=Yes
 27	cùnkoːson	cùnkoːsoː	NOUN	_	Definite=Cons|Gender=Masc	25	comp:obj	_	_
 28	moːtoːci	moːtoːci	NOUN	_	Gender=Masc	27	mod	_	SpaceAfter=No
@@ -93,13 +93,13 @@
 34	tàllàce-tàllàcensù	tàllà	NOUN	_	Number=Plur	33	comp:obj	_	_
 35	dòːmin	dòːmin	SCONJ	_	_	32	mod	_	_
 36	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	35	comp:obj	_	_
-37	yi	yi	VERB	_	_	36	comp:aux	_	_
+37	yi	yi	VERB	_	_	36	comp:aux	_	Gloss=do
 38	kallon	kalloː	NOUN	_	Definite=Cons|Gender=Masc	37	comp:pred	_	_
 39	hàdàː-hadâr̃	hàdàː-hadàː	NOUN	_	_	38	mod	_	_
 40	dà	dà	SCONJ	_	_	39	mod@relcl	_	_
 41	takèː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	40	comp:obj	_	_
 42	àukuwaː	àukuwaː	NOUN	_	ExtPos=NOUN|Gender=Fem	41	comp:aux	_	_
-43	à	à	ADP	_	_	42	mod	_	_
+43	à	à	ADP	_	_	42	mod	_	Gloss=at
 44	bàːkin	bàːkin	ADP	_	_	43	comp.obj	_	_
 45	tèːkûn	tèːkuː	NOUN	_	Definite=Cons|Gender=Masc	44	mod	_	SpaceAfter=No
 46	.	.	PUNCT	_	_	10	punct	_	_
@@ -107,7 +107,7 @@
 # sent_id = Yarima_Charles__4
 # text = bìsàː àlꞌaːdàː bàːƙin Gwamnatin Nàːjeːr̃iyàː sukàn sàuka nèː à tsoːhon gidan gwamnatì dà kèː Ìkko, wandà à dâː shiː nèː gidan gwamnà à loːkàcin mulkìn màllakàr̃ Bìrtaːniyàː.
 # text_ortho = Bìsàː àlꞌaːdàː bàːƙin Gwamnatin Nàːjeːr̃iyàː sukàn sàuka nèː à tsoːhon gidan Gwamnatì dà kèː l̀kko, wandà à dâː shiː nèː gidan Gwamnà à loːkàcin mulkìn màllakàr̃ Bìrtaːniyàː.
-1	bìsàː	bìsàː	ADP	_	Number=Plur	6	mod	_	_
+1	bìsàː	bìsàː	ADP	_	_	6	mod	_	Gloss=according_to
 2	àlꞌaːdàː	àlꞌaːdàː	NOUN	_	Gender=Fem	1	comp:obj	_	_
 3	bàːƙin	bàːƙin	NOUN	_	Definite=Cons|Number=Plur	6	subj	_	_
 4	Gwamnatin	Gwamnatin	PROPN	_	_	3	mod	_	_
@@ -115,7 +115,7 @@
 6	sukàn	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
 7	sàuka	sauk-	VERB	_	_	6	comp:aux	_	_
 8	nèː	neː	PART	_	_	7	discourse@foc	_	_
-9	à	à	ADP	_	_	7	comp:obl	_	_
+9	à	à	ADP	_	_	7	comp:obl	_	Gloss=at
 10	tsoːhon	tsoːhoː	ADJ	_	Definite=Cons|Gender=Masc	11	mod	_	_
 11	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	9	comp:obj	_	_
 12	gwamnatì	gwamnatì	NOUN	_	_	11	mod	_	_
@@ -124,13 +124,13 @@
 15	Ìkko	Ìkko	PROPN	_	_	14	comp:pred	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	_
 17	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	11	conj:appos	_	_
-18	à	à	ADP	_	_	21	mod	_	_
+18	à	à	ADP	_	_	21	mod	_	Gloss=at
 19	dâː	dâː	ADV	_	_	18	comp:obj	_	_
 20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	21	comp:pred	_	_
 21	nèː	neː	AUX	_	Gender=Masc|Number=Plur	17	mod@relcl	_	_
 22	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	21	dislocated@comp	_	_
 23	gwamnà	gwamnà	NOUN	_	_	22	mod	_	_
-24	à	à	ADP	_	_	21	mod	_	_
+24	à	à	ADP	_	_	21	mod	_	Gloss=at
 25	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	24	comp:obj	_	_
 26	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	25	mod	_	_
 27	màllakàr̃	màllakàː	NOUN	_	_	26	mod	_	_
@@ -161,7 +161,7 @@
 19	zaːmàniː	zaːmàniː	NOUN	_	Gender=Masc	18	mod	_	_
 20	dà	dà	SCONJ	_	_	18	mod@relcl	_	_
 21	akà	nàː	AUX	_	Aspect=Prog|Person=4	20	comp:obj	_	_
-22	yi	yi	VERB	_	_	21	comp:aux	_	_
+22	yi	yi	VERB	_	_	21	comp:aux	_	Gloss=do
 23	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	22	comp:obl	_	_
 24	loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	22	mod	_	_
 25	dà	dà	SCONJ	_	_	24	comp:obl	_	_
@@ -220,7 +220,7 @@
 17	sukà	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	16	comp:obj	_	_
 18	wucèː	wucèː	VERB	_	_	17	comp:aux	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	_
-20	à	à	ADP	_	_	0	root	_	_
+20	à	à	ADP	_	_	0	root	_	Gloss=at
 21	boːkitì	boːkitì	NOUN	_	_	20	comp:obj	_	_
 22	neː	neː	PART	_	Gender=Masc|Number=Plur	20	discourse@foc	_	_
 23	akà	akà	AUX	_	Aspect=Perf|Person=4	20	comp:cleft	_	_
@@ -238,7 +238,7 @@
 2	jirgin	jirgiː	NOUN	_	Definite=Cons|Gender=Masc	1	mod	_	_
 3	ruwân	ruwaː	NOUN	_	Definite=Cons|Number=Plur	2	compound	_	_
 4	nan	nan	DET	_	PronType=Dem	2	det	_	_
-5	wàːtòː	wàːtòː	PART	_	Gender=Masc	7	discourse	_	_
+5	wàːtòː	wàːtòː	PART	_	_	7	discourse	_	Gloss=that_is
 6	"	"	PUNCT	_	_	7	punct	_	wordform=‘
 7	Britannia	Britannia	PROPN	_	_	2	conj:appos	_	SpaceAfter=No
 8	"	"	PUNCT	_	_	7	punct	_	wordform=’
@@ -269,7 +269,7 @@
 33	ꞌyan	ɗan	NOUN	_	Definite=Cons|Number=Plur	35	subj	_	_
 34	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	33	compound	_	_
 35	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	32	comp:obj	_	_
-36	yi	yi	VERB	_	_	35	comp:aux	_	_
+36	yi	yi	VERB	_	_	35	comp:aux	_	Gloss=do
 37	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	36	comp:obl	_	SpaceAfter=No
 38	.	.	PUNCT	_	_	10	punct	_	_
 
@@ -288,7 +288,7 @@
 10	Yàr̃iːmà	Yàr̃iːmà	PROPN	_	_	9	comp:obj	_	_
 11	dà	da	PART	_	_	12	cc	_	wordform=da
 12	Gimbìyaː	Gimbìyaː	PROPN	_	_	10	conj:coord	_	_
-13	à	à	ADP	_	_	9	comp:obl	_	_
+13	à	à	ADP	_	_	9	comp:obl	_	Gloss=at
 14	fiːlin	fiːliː	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	_
 15	jirgin	jirgiː	NOUN	_	Definite=Cons|Gender=Masc	14	mod	_	_
 16	samàn	samàː	NOUN	_	_	15	mod	_	_
@@ -360,7 +360,7 @@
 # sent_id = Yarima_Charles__12
 # text = baːbù àbîn dà ya fi ban shàꞌawàː kàmar̃ wata shirgeːgìyar̃ tar̃waɗaː dà akà ci.
 # text_ortho = Baːbù àbîn dà ya fi ban shàꞌawàː kàmar̃ wata shirgeːgìyar̃ tar̃waɗaː dà akà ci.
-1	baːbù	bâː	PART	_	Polarity=Neg	0	root	_	_
+1	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 2	àbîn	àbù	NOUN	_	Definite=Cons|Gender=Masc	1	subj	_	_
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	_
 4	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	comp:obj	_	_
@@ -372,7 +372,7 @@
 10	shirgeːgìyar̃	shirgeːgèː	ADJ	_	Definite=Cons|Gender=Fem	11	mod	_	_
 11	tar̃waɗaː	tar̃waɗaː	NUM	_	_	8	comp:obj	_	_
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	_
-13	akà	yaː	AUX	_	Aspect=Perf|Person=4	12	comp:obj	_	Relative=Yes
+13	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Yes	12	comp:obj	_	_
 14	ci	ci	VERB	_	_	13	comp:aux	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -396,7 +396,7 @@
 # sent_id = Yarima_Charles__14
 # text = À can kuma Yàr̃iːmà yaː zìyàr̃ci gandun daːjìː na Korup, wandà kuma wataƙiːlà shiː nèː gandun daːjìn dà ya fi koːwànneː girmaː, sànnan kuma ya fi koːwànneː yawàn itaːtuwàː irìː-irìː à duk faːɗin dūniyàː.
 # text_ortho = À can kuma Yàr̃iːmà yaː zìyàr̃ci gandun daːjìː na Korup, wandà kuma wataƙiːlà shiː nèː gandun daːjìn dà ya fi koːwànneː girmaː, sànnan kuma ya fi koːwànneː yawàn itaːtuwàː irìː-irìː à duk faːɗin dūniyàː.
-1	à	à	ADP	_	_	5	mod	_	_
+1	à	à	ADP	_	_	5	mod	_	Gloss=at
 2	can	can	ADV	_	PronType=Dem	1	comp:obj	_	_
 3	kuma	kuma	PART	_	_	1	discourse@top	_	_
 4	Yàr̃iːmà	Yàr̃iːmà	PROPN	_	_	5	subj	_	_
@@ -428,7 +428,7 @@
 30	yawàn	yawàn	ADJ	_	Definite=Cons|Gender=Masc	28	mod	_	_
 31	itaːtuwàː	itaː-	NOUN	_	Number=Plur	30	mod	_	_
 32	irìː-irìː	irìː-irìː	ADJ	_	Gender=Masc	31	mod	_	_
-33	à	à	ADP	_	_	28	mod	_	_
+33	à	à	ADP	_	_	28	mod	_	Gloss=at
 34	duk	dukà	DET	_	PronType=Tot	35	det	_	_
 35	faːɗin	faːɗiː	VERB	_	_	33	comp:obj	_	_
 36	dūniyàː	dūni	NOUN	_	Number=Plur	35	mod	_	SpaceAfter=No
@@ -470,7 +470,7 @@
 13	akè	nàː	AUX	_	Aspect=Prog|Person=4	12	comp:obj	_	_
 14	dà	dà	ADP	_	_	13	comp:pred	_	_
 15	suː	suː	PRON	_	Number=Plur|Person=2|PronType=Prs	14	comp:obj	_	_
-16	à	à	ADP	_	_	13	mod	_	_
+16	à	à	ADP	_	_	13	mod	_	Gloss=at
 17	Afìr̃kà	Afìr̃kà	PROPN	_	_	16	comp:obj	_	_
 18	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	0	root	_	_
 19	iskèː	isk-	VERB	_	_	18	comp:aux	_	_

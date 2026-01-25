@@ -18,7 +18,7 @@
 8	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	wordform=yana
 9	tìːƙar̃	tìːƙaː	VERB	_	ExtPos=NOUN|Gender=Fem	8	comp:aux	_	_
 10	rawar̃sà	rawar̃sà	NOUN	_	Gender=Fem	9	comp:obj	_	_
-11	à	à	ADP	_	ExtPos=ADP	9	comp:obl	_	_
+11	à	à	ADP	_	ExtPos=ADP	9	comp:obl	_	Gloss=at
 12	gàban	gàban	ADP	_	_	11	comp:obj	_	_
 13	jàma'àː	jàma'àː	NOUN	_	Definite=Ind|Gender=Fem	12	comp:obj	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	17	punct	_	_
@@ -47,7 +47,7 @@
 8	an	yaː	AUX	_	Aspect=Perf|Person=4	7	comp:obj	_	_
 9	san	sanìː	VERB	_	_	8	comp:aux	_	_
 10	shì	shi	PRON	_	Gender=Masc|Person=3	9	comp:obj	_	_
-11	à	à	ADP	_	_	9	comp:obl	_	_
+11	à	à	ADP	_	_	9	comp:obl	_	Gloss=at
 12	kân	kân	ADP	_	_	11	comp:obj	_	_
 13	sànaː'àr̃sà	sànaː'àr̃sà	NOUN	_	Definite=Ind|Gender=Fem	12	comp:obj	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
@@ -76,10 +76,10 @@
 9	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	11	comp:obj	_	_
 10	akà	nàː	AUX	_	Aspect=Prog|Person=4	3	mod@relcl	_	_
 11	hàifaː	hàifaː	VERB	_	_	10	comp:aux	_	_
-12	à	à	ADP	_	_	11	comp:obl	_	_
+12	à	à	ADP	_	_	11	comp:obl	_	Gloss=at
 13	gàrin	gàriː	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	_
 14	Àbêːkùta	Àbêːkùta	PROPN	_	_	13	mod	_	_
-15	à	à	ADP	_	_	11	comp:obl	_	_
+15	à	à	ADP	_	_	11	comp:obl	_	Gloss=at
 16	shèːkaràr̃	shèːkaràː	NOUN	_	_	15	comp:obj	_	_
 17	alìf	alìf	NOUN	_	_	16	mod	_	_
 18	dà	dà	CCONJ	_	_	19	cc	_	_
@@ -106,7 +106,7 @@
 39	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	38	mod@relcl	_	_
 40	zama	zama	VERB	_	_	39	comp:aux	_	_
 41	àkàːwu	àkàːwu	NOUN	_	ExtPos=NOUN|Gender=Fem	40	comp:pred	_	_
-42	à	à	ADP	_	_	40	comp:obl	_	_
+42	à	à	ADP	_	_	40	comp:obl	_	Gloss=at
 43	wani	wani	DET	_	Definite=Spec|Gender=Masc	44	det	_	_
 44	oːfishin	oːfishiː	NOUN	_	Definite=Cons|Gender=Masc	42	comp:obj	_	_
 45	gwamnatì	gwamnatì	NOUN	_	Definite=Def|Gender=Masc	44	mod	_	SpaceAfter=No
@@ -118,7 +118,7 @@
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	_
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	_
 4	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	3	comp:obj	_	wordform=yakề
-5	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	4	comp:aux	_	_
+5	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	4	comp:aux	_	Gloss=do
 6	wannàn	wannàn	DET	_	Gender=Masc|PronType=Dem	7	det	_	_
 7	aikìː	aikìː	NOUN	_	Gender=Masc	5	udep	_	_
 8	neː	neː	PART	_	Gender=Masc|Number=Plur	3	comp:obj	_	_
@@ -130,7 +130,7 @@
 14	,	,	PUNCT	_	_	15	punct	_	_
 15	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	9	parataxis@conj	_	wordform=yana
 16	wàːƙe-wàːƙensà	wàːƙe-wàːƙensà	VERB	_	Gender=Masc|PronType=Dem	15	comp:aux	_	_
-17	à	à	ADP	_	_	16	comp:obl	_	_
+17	à	à	ADP	_	_	16	comp:obl	_	Gloss=at
 18	kùlâb-kùlâb	kùlâb-kùlâb	NOUN	_	_	17	comp:obj	_	_
 19	na	na	ADP	_	_	18	mod	_	_
 20	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	19	comp:obj	_	_
@@ -140,7 +140,7 @@
 # sent_id = 11_Fela_Kuti__6
 # text = Koː à loːkàcîn Fela yaː iyà kaɗà " piano " dà buːsà "saxophone", dàgà bìsaːniː kuma ya zama shùːgàban makàɗaː dà mawakansà.
 1	Koː	koː	CCONJ	_	_	5	discourse	_	_
-2	à	à	ADP	_	_	5	mod	_	_
+2	à	à	ADP	_	_	5	mod	_	Gloss=at
 3	loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj	_	_
 4	Fela	Fela	PROPN	_	_	5	subj	_	_
 5	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
@@ -224,7 +224,7 @@
 24	irin	irin	ADP	_	Definite=Cons|Gender=Masc	23	subj	_	_
 25	wannàn	wannàn	DET	_	PronType=Dem	26	det	_	_
 26	àlgaitàː	àlgaitàː	NOUN	_	Gender=Fem	24	mod	_	_
-27	à	à	ADP	_	_	12	mod	_	_
+27	à	à	ADP	_	_	12	mod	_	Gloss=at
 28	ƙar̃ƙashin	ƙar̃ƙashiː	NOUN	_	Definite=Cons|Number=Plur	27	comp:obj	_	_
 29	gadoːnaː	gadoːnaː	NOUN	_	Case=Gen|Number=Sing|Person=1	27	comp:obj	_	SpaceAfter=No
 30	,	,	PUNCT	_	_	36	punct	_	_
@@ -249,7 +249,7 @@
 7	tà	ta	PRON	_	Case=Acc|Gender=Fem|Person=3|PronType=Prs	6	comp:obj	_	_
 8	na	yaː	AUX	_	Aspect=Perf|Number=Sing|Person=1	6	comp:obj	_	_
 9	sâː	sâː	VERB	_	_	8	comp:aux	_	_
-10	à	à	ADP	_	_	9	comp:obl	_	_
+10	à	à	ADP	_	_	9	comp:obl	_	Gloss=at
 11	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	10	comp:obj	_	_
 12	na	ya	AUX	_	Aspect=Perf|Number=Sing|Person=1	11	mod	_	_
 13	faːrà	faːr-	VERB	_	_	12	comp:aux	_	_
@@ -309,7 +309,7 @@
 8	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 9	ga	ganiː	VERB	_	_	8	comp:aux	_	_
 10	cêːwaː	cêwaː	SCONJ	_	Gender=Fem	9	comp:obj	_	wordform=cêwaː
-11	baːbù	bâː	PART	_	Polarity=Neg	10	comp:obj	_	_
+11	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	10	comp:obj	_	Gloss=there_is.Neg
 12	àbîn	àbù	NOUN	_	Definite=Cons|Gender=Masc	11	subj	_	_
 13	dà	dà	SCONJ	_	_	12	mod@relcl	_	_
 14	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	13	comp:obj	_	_
@@ -337,7 +337,7 @@
 1	Don	don	SCONJ	_	_	14	mod	_	_
 2	hakà	hakà	ADV	_	_	4	comp:obj	_	_
 3	neː	neː	PART	_	Gender=Masc	2	discourse@foc	_	_
-4	à	à	ADP	_	_	14	mod	_	_
+4	à	à	ADP	_	_	14	mod	_	Gloss=at
 5	shèːkaràr̃	shèːkaràː	NOUN	_	_	4	comp:obj	_	_
 6	alìf	alìf	NUM	_	_	5	mod	_	_
 7	dà	dà	CCONJ	_	_	8	cc	_	_
@@ -376,7 +376,7 @@
 7	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	6	comp:obj@G	_	_
 8	indà	indà	ADV	_	PronType=Rel	6	comp:obj@G	_	_
 9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	8	mod@relcl	_	_
-10	yi	yi	VERB	_	_	9	comp:aux	_	_
+10	yi	yi	VERB	_	_	9	comp:aux	_	Gloss=do
 11	ta	ta	PART	_	Aspect=Iter	10	compound:prt	_	_
 12	gwajìː	gwajìː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:pred	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	15	punct	_	_
@@ -398,14 +398,14 @@
 3	sai	sai	ADV	_	_	24	mod	_	_
 4	baːyan	baːyan	SCONJ	_	_	24	mod	_	_
 5	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	comp:obj	_	_
-6	yi	yi	VERB	_	_	5	comp:aux	_	_
+6	yi	yi	VERB	_	_	5	comp:aux	_	Gloss=do
 7	wàtànniː	wàtànniː	NOUN	_	Gender=Masc	6	comp:pred	_	_
 8	goːmà	goːmà	NUM	_	_	7	mod:num	_	_
-9	à	à	ADP	_	_	6	mod	_	_
+9	à	à	ADP	_	_	6	mod	_	Gloss=at
 10	Amir̃kà	Amir̃kà	PROPN	_	_	9	comp:obj	_	_
 11	neː	neː	PART	_	Gender=Masc|Number=Plur	9	discourse@foc	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	_
-13	à	à	ADP	_	_	6	mod	_	_
+13	à	à	ADP	_	_	6	mod	_	Gloss=at
 14	shèːkaràr̃	shèːkaràː	NOUN	_	_	13	comp:obj	_	_
 15	alìf	alìf	NOUN	_	_	14	mod	_	_
 16	dà	dà	CCONJ	_	_	17	cc	_	_
@@ -431,7 +431,7 @@
 36	sànnan	sànnan	ADV	_	_	37	mod	_	_
 37	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	24	parataxis@conj	_	_
 38	faːrà	faːr-	VERB	_	_	37	comp:aux	_	_
-39	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	38	comp:obj	_	_
+39	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	38	comp:obj	_	Gloss=do
 40	fàyàːfàyai	fàyàːfàyai	NOUN	_	_	39	comp:pred	_	_
 41	irìː-irìː	irìː-irìː	ADJ	_	Gender=Masc	40	mod	_	_
 42	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	44	comp:obj	_	wordform=wadandal
@@ -457,7 +457,7 @@
 5	kuma	kuma	PART	_	_	1	discourse@top	_	_
 6	mâitar̃	mâitar̃	NOUN	_	_	11	subj	_	_
 7	Fela	Fela	PROPN	_	_	6	mod	_	_
-8	à	à	ADP	_	_	6	mod	_	_
+8	à	à	ADP	_	_	6	mod	_	Gloss=at
 9	sha'ànin	sha'àniː	NOUN	_	Definite=Cons|Number=Plur	8	comp:obj	_	_
 10	sìyaːsàː	sìyaːsàː	NOUN	_	Definite=Ind|Gender=Fem	9	comp:obj	_	_
 11	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	_
@@ -474,7 +474,7 @@
 4	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj	_	_
 5	tàːruwar̃	tàːruwaː	VERB	_	Definite=Cons|Number=Plur	4	mod	_	_
 6	àl'ummàː	àl'ummàː	NOUN	_	Definite=Ind|Gender=Fem	5	mod	_	_
-7	à	à	ADP	_	_	13	mod	_	_
+7	à	à	ADP	_	_	13	mod	_	Gloss=at
 8	ùnguwar̃	ùnguwar̃	ADP	_	_	7	comp:obj	_	_
 9	"	"	PUNCT	_	_	10	punct	_	_
 10	Surulere	Surulere	PROPN	_	_	5	mod	_	_
@@ -500,7 +500,7 @@
 # text = Hakànan yaː yi àmfàniː dà wàːƙe-wàːƙensà wajen toːnà àsir̃in irìn matsaloːlîn dà ƙasar̃sà Nàjeːr̃iyàː kèː fùskantàː, har̃ ya baƙàntà rân mahùkùntan ƙasâr̃ jìm kadan baːyan Yaːƙìn Baːsaːsàː.
 1	Hakànan	hakànan	ADV	_	_	2	mod	_	_
 2	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
-3	yi	yi	VERB	_	_	2	comp:aux	_	_
+3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	àmfàniː	àmfàniː	NOUN	_	Gender=Fem	3	comp:pred	_	_
 5	dà	dà	ADP	_	_	3	comp:obl	_	_
 6	wàːƙe-wàːƙensà	wàːƙe-wàːƙensà	PRON	_	Number=Plur	7	comp:obj	_	_
@@ -556,7 +556,7 @@
 24	Obasanjo	Obasanjo	PROPN	_	_	30	mod	_	_
 25	"	"	PUNCT	_	_	24	punct	_	_
 26	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	13	parataxis@conj	_	_
-27	yi	yi	VERB	_	_	26	comp:aux	_	_
+27	yi	yi	VERB	_	_	26	comp:aux	_	Gloss=do
 28	fàr̃makìː	fàr̃makìː	NOUN	_	Gender=Masc	27	comp:pred	_	_
 29	kân	kân	ADP	_	_	27	mod	_	wordform=kaːn
 30	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	29	mod	_	_
@@ -576,9 +576,9 @@
 6	fìye	fìye	NUM	_	ExtPos=ADV|VerbForm=Stat	5	mod	_	_
 7	dà	dà	CCONJ	_	_	8	cc	_	_
 8	sàbà'in	sàbà'in	NUM	_	_	9	comp:obj	_	_
-9	à	à	ADP	_	_	2	mod	_	_
+9	à	à	ADP	_	_	2	mod	_	Gloss=at
 10	duːniyàː	duːniyàː	NOUN	_	_	9	comp:obj	_	_
-11	à	yà	ADP	_	_	9	conj:dicto	_	_
+11	à	yà	ADP	_	_	9	conj:dicto	_	Gloss=at
 12	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	11	comp:obj	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	_
 14	akà	nàː	AUX	_	Aspect=Prog|Person=4	1	parataxis@conj	_	_
@@ -624,14 +624,14 @@
 5	suːkàr̃	suːkàː	NOUN	_	Gender=Fem	4	comp:obj	_	_
 6	làmiːr̃ìn	làmiːr̃ìː	NOUN	_	Definite=Cons|Gender=Masc	5	mod	_	_
 7	gwamnatìn	gwamnatìː	NOUN	_	Definite=Def|Gender=Masc	6	mod	_	wordform=gwamnatin
-8	à	à	ADP	_	ExtPos=ADP	5	mod	_	_
+8	à	à	ADP	_	ExtPos=ADP	5	mod	_	Gloss=at
 9	cikin	cikin	ADP	_	_	8	comp:obj	_	_
 10	kàɗe-kàɗe	kàɗe-kàɗe	ADV	_	_	8	comp:obj	_	_
 11	dà	dà	ADP	_	_	10	mod	_	_
 12	wàːƙe-wàːƙên	wàːƙe-wàːƙên	PRON	_	Gender=Masc|PronType=Dem	8	comp:obj	_	_
 13	dà	dà	SCONJ	_	_	12	mod@relcl	_	_
 14	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	13	comp:obj	_	_
-15	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	14	comp:aux	_	SpaceAfter=No
+15	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	14	comp:aux	_	Gloss=do|SpaceAfter=No
 16	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 11_Fela_Kuti__23
@@ -642,7 +642,7 @@
 4	ta	ta	ADP	_	Case=Gen|Gender=Fem	2	mod@relcl	_	_
 5	kàrɓi	kàrɓi	VERB	_	_	4	comp:obj	_	_
 6	mulkìː	mulkìː	NOUN	_	Gender=Masc	5	mod	_	_
-7	à	à	ADP	_	_	5	comp:obl	_	_
+7	à	à	ADP	_	_	5	comp:obl	_	Gloss=at
 8	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Ind|Gender=Fem	7	comp:obj	_	_
 9	alìf	alìf	NOUN	_	_	8	mod	_	_
 10	dà	dà	CCONJ	_	_	11	cc	_	_
@@ -672,7 +672,7 @@
 34	People	People	PROPN	_	_	32	flat@name	_	SpaceAfter=No
 35	"	"	PUNCT	_	_	38	punct	_	SpaceAfter=No
 36	,	,	PUNCT	_	_	38	punct	_	_
-37	wàːtòː	wàːtòː	CCONJ	_	_	38	discourse	_	_
+37	wàːtòː	wàːtòː	PART	_	_	38	discourse	_	Gloss=that_is
 38	Jàm'iyyàr̃	Jàm'iyyàr̃	PROPN	_	_	30	conj:dicto	_	_
 39	Jàma'àː	Jàma'àː	PROPN	_	_	38	flat@name	_	SpaceAfter=No
 40	.	.	PUNCT	_	_	20	punct	_	_
@@ -690,18 +690,18 @@
 9	taːsà	taːsà	NUM	_	_	8	mod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	12	punct	_	_
 11	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	5	comp:obj	_	_
-12	à	à	ADP	_	_	14	mod	_	_
+12	à	à	ADP	_	_	14	mod	_	Gloss=at
 13	cikintà	cikintà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	12	comp:obj	_	_
 14	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	mod@relcl	_	_
 15	cèː	cêː	VERB	_	_	14	comp:aux	_	_
 16	kàmaːtàː	kàmaːtàː	NOUN	_	Gender=Fem	15	comp:obj	_	_
 17	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	14	parataxis@conj	_	_
-18	yi	yi	VERB	_	_	17	comp:aux	_	_
+18	yi	yi	VERB	_	_	17	comp:aux	_	Gloss=do
 19	dukkàn	dukkàn	DET	_	PronType=Tot	18	comp:pred	_	_
 20	jàma'àr̃	jàma'àː	NOUN	_	Definite=Ind|Gender=Fem	19	mod	_	_
 21	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	20	mod	_	_
 22	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	18	mod	_	_
-23	yi	yi	VERB	_	_	22	comp:aux	_	_
+23	yi	yi	VERB	_	_	22	comp:aux	_	Gloss=do
 24	huːtuː	huːtuː	NOUN	_	Gender=Masc	23	comp:pred	_	_
 25	na	na/ta	ADP	_	_	20	mod	_	_
 26	watàː	watàː	NOUN	_	Gender=Masc	25	comp:obj	_	_
@@ -729,7 +729,7 @@
 # text = Sai kwatsàm à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà huɗu akà kaːmà Fela, akà gurfaːnar̃ dà shiː gàban shàr̃i'àː, indà akà yankèː masà hukuncìn ɗaurìn shèːkàruː bìyar̃ à kûr̃kukùː kân lâifin fìtaː dà kuɗàːɗen ƙasàːshen wàje dàgà cikin ƙasâr̃ - wàːtòː aikìn sùmoːgàː.
 1	Sai	sai	ADV	_	_	2	mod	_	_
 2	kwatsàm	kwatseː	NOUN	_	Definite=Cons|Gender=Fem	0	root	_	_
-3	à	à	ADP	_	_	2	mod	_	_
+3	à	à	ADP	_	_	2	mod	_	Gloss=at
 4	shèːkaràr̃	shèːkaràː	NOUN	_	_	3	comp:obj	_	_
 5	alìf	alìf	NUM	_	_	4	mod	_	_
 6	dà	dà	CCONJ	_	_	7	cc	_	_
@@ -758,7 +758,7 @@
 29	ɗaurìn	ɗaurìː	NOUN	_	Definite=Cons|Gender=Masc	28	mod	_	_
 30	shèːkàruː	shèːkàruː	NOUN	_	Number=Plur	35	mod	_	_
 31	bìyar̃	bìyar̃	NUM	_	_	30	mod:num	_	_
-32	à	à	ADP	_	_	26	mod	_	_
+32	à	à	ADP	_	_	26	mod	_	Gloss=at
 33	kûr̃kukùː	kûr̃kukùː	NOUN	_	Gender=Masc	32	comp:obj	_	_
 34	kân	kân	ADP	_	_	28	mod	_	_
 35	lâifin	lâifiː	NOUN	_	Definite=Cons|Gender=Masc	34	comp:obj	_	_
@@ -771,7 +771,7 @@
 42	cikin	cikin	ADP	_	_	41	comp:obj	_	_
 43	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	42	comp:obj	_	Gloss=country.Fem.PrevRef
 44	-	-	PUNCT	_	_	46	punct	_	_
-45	wàːtòː	wàːtòː	DET	_	Gender=Masc	46	discourse	_	_
+45	wàːtòː	wàːtòː	PART	_	_	46	discourse	_	Gloss=that_is
 46	aikìn	aikìː	NOUN	_	Definite=Cons|Gender=Masc	32	comp:obj	_	_
 47	sùmoːgàː	sùmoːgàː	NOUN	_	Gender=Masc	46	mod	_	SpaceAfter=No
 48	.	.	PUNCT	_	_	2	punct	_	_
@@ -795,7 +795,7 @@
 15	sàːmi	saːm-	VERB	_	_	14	comp:aux	_	_
 16	sauyìn	sauyìː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	_
 17	gwamnatì	gwamnatì	NOUN	_	Definite=Def|Gender=Masc	16	mod	_	_
-18	à	à	ADP	_	_	15	comp:obl	_	_
+18	à	à	ADP	_	_	15	comp:obl	_	Gloss=at
 19	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	18	comp:obj	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -833,7 +833,7 @@
 30	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	19	comp:obj	_	_
 31	àuri	àuraː	VERB	_	_	30	comp:aux	_	_
 32	dukkànsù	dukkàːsù	NOUN	_	Definite=Cons|Number=Plur|Person=3	31	comp:obj	_	_
-33	à	à	ADP	_	_	31	comp:obl	_	_
+33	à	à	ADP	_	_	31	comp:obl	_	Gloss=at
 34	shèːkaràr̃	shèːkaràː	NOUN	_	_	33	comp:obj	_	_
 35	alìf	alìf	NOUN	_	_	34	mod	_	_
 36	dà	dà	CCONJ	_	_	37	cc	_	_

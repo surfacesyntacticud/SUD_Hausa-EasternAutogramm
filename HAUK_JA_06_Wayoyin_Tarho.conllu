@@ -3,7 +3,7 @@
 # text_ortho = Waːyoːyin tàr̃hôː à Afìr̃kà - bàbban cîː gàba ?
 1	waːyoːyin	waːyoːyiː	NOUN	_	Number=Plur|PronType=Dem	0	root	_	_
 2	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	1	mod	_	_
-3	à	à	ADP	_	_	1	mod	_	_
+3	à	à	ADP	_	_	1	mod	_	Gloss=at
 4	Afìr̃kà	Afìr̃kà	PROPN	_	_	3	comp:obj	_	_
 5	-	-	PUNCT	_	_	7	punct	_	_
 6	bàbban	bàbbaː	ADJ	_	Definite=Cons	7	mod	_	_
@@ -31,7 +31,7 @@
 15	,	,	PUNCT	_	_	2	punct	_	_
 16	doːlè	doːlè	ADV	_	_	0	root	_	_
 17	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	16	comp:cleft	_	_
-18	yi	yi	VERB	_	_	17	comp:aux	_	_
+18	yi	yi	VERB	_	_	17	comp:aux	_	Gloss=do
 19	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	18	comp:pred	_	_
 20	dà	dà	ADP	_	_	18	comp:obl	_	_
 21	wayàr̃	wayàː	NOUN	_	Definite=Cons|Gender=Fem	20	comp:obj	_	_
@@ -85,7 +85,7 @@
 8	sai	sai	ADV	_	_	9	mod	_	_
 9	kà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=2	0	root	_	_
 10	ga	gan-	VERB	_	_	9	comp:aux	_	_
-11	bâː	baːbù	PART	_	Polarity=Neg	10	comp:obj	_	PartType=Pred
+11	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	10	comp:obj	_	Gloss=there_is.Neg
 12	shi	shi	PRON	_	Gender=Masc|Person=3	11	subj	_	_
 13	dà	dà	ADP	_	_	11	comp:pred	_	_
 14	kyâu	kyâu	AUX	_	Definite=Ind|Gender=Masc	13	comp:obj	_	_
@@ -183,7 +183,7 @@
 # text_ortho = Àmmaː yànzu baːbù irìn wannàn wàhalàr̃.
 1	àmmaː	àmmaː	CCONJ	_	_	3	discourse	_	_
 2	yànzu	yànzu	ADV	_	_	3	mod	_	_
-3	baːbù	baːbù	PART	_	Polarity=Neg	0	root	_	_
+3	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 4	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	3	subj	_	Gloss=type.Masc.Cons
 5	wannàn	wannàn	DET	_	Gender=Masc|PronType=Dem	6	det	_	_
 6	wàhalàr̃	wàhalàː	NOUN	_	_	4	mod	_	SpaceAfter=No
@@ -200,7 +200,7 @@
 6	wata	wata	DET	_	Gender=Fem	7	det	_	_
 7	wayàr̃	wayàː	NOUN	_	Gender=Fem	5	comp:obj	_	_
 8	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	7	compound	_	_
-9	à	à	ADP	_	_	7	mod	_	_
+9	à	à	ADP	_	_	7	mod	_	Gloss=at
 10	yammacin	yammacin	ADP	_	_	9	comp:obj	_	_
 11	Kyanadà	Kyanadà	PROPN	_	_	10	mod	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	_
@@ -210,7 +210,7 @@
 16	zuwàː	zuwàː	ADP	_	_	15	comp:obl	_	_
 17	Montreal	Montreal	PROPN	_	_	16	comp:obj	_	_
 18	"	"	PUNCT	_	_	17	punct	_	wordform='
-19	à	à	ADP	_	ExtPos=ADP	17	mod	_	Idiom=Yes
+19	à	à	ADP	_	ExtPos=ADP	17	mod	_	Gloss=at|Idiom=Yes
 20	gabashin	gabashin	ADP	_	_	19	comp.obj	_	InIdiom=Yes
 21	Kyanadàn	Kyanadàn	PROPN	_	_	19	comp:obj	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	2	punct	_	_
@@ -220,7 +220,7 @@
 # text_ortho = Dàgà nan nèː zaː à aikàː dà sàːƙôn zuwàː bàːkin tèːkun Kyanadà, sànnan zuwàː 'Widemouth'' à ƙasar̃ Bìr̃taːniyà ta wasu wayoːyin ƙàr̃ƙashin tèːku.
 1	dàgà	dàgà	ADP	_	_	0	root	_	_
 2	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	comp:obj	_	_
-3	nèː	neː	PART	_	Gender=Masc	1	discourse@foc	_	PartType=Foc
+3	nèː	neː	PART	_	Gender=Masc|PartType=Foc	1	discourse@foc	_	_
 4	zaːà	zâi	AUX	_	Mood=Sub|Person=4	1	comp:cleft	_	wordform=à
 5	aikàː	aikàː	VERB	_	_	4	comp:aux	_	_
 6	dà	dà	ADP	_	_	5	comp:obl	_	_
@@ -235,7 +235,7 @@
 15	"	"	PUNCT	_	_	16	punct	_	_
 16	Widemouth	Widemouth	PROPN	_	_	14	comp:obj	_	_
 17	"	"	PUNCT	_	_	16	punct	_	wordform='
-18	à	à	ADP	_	_	16	mod	_	_
+18	à	à	ADP	_	_	16	mod	_	Gloss=at
 19	ƙasar̃	ƙasaː	NOUN	_	_	18	comp:obj	_	_
 20	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	19	mod	_	_
 21	ta	ta	ADP	_	_	14	conj:coord	_	_
@@ -296,7 +296,7 @@
 # text = doːlè neː koːwàcè kasaː tà amìnceː dà laːyukàn dà akèː bùkaːtàː, dà kuma kuɗîn dà zaːà biyaː à kân koːwànè sàːƙon wayàr̃ tàrhôː.
 # text_ortho = Doːlè neː koːwàcè kasaː tà amìnceː dà laːyukàn dà akèː bùkaːtàː, dà kuma kuɗîn dà zaː à biyaː à kân koːwànè sàːƙon wayàr̃ tàrhôː.
 1	doːlè	doːlè	ADV	_	_	0	root	_	_
-2	neː	neː	PART	_	Gender=Masc	1	discourse@foc	_	PartType=Foc
+2	neː	neː	PART	_	Gender=Masc|PartType=Foc	1	discourse@foc	_	_
 3	koːwàcè	koːwàcè	DET	_	_	4	det	_	_
 4	ƙasaː	kasaː	NOUN	_	Gender=Fem	5	subj	_	wordform=kasaː
 5	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	1	comp:cleft	_	_
@@ -313,7 +313,7 @@
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	_
 17	zaːà	zâi	AUX	_	Mood=Sub|Person=4	16	comp:obj	_	wordform=à
 18	biyaː	biyaː	VERB	_	_	17	comp:aux	_	_
-19	à	à	ADP	_	ExtPos=ADP	18	comp:obl	_	Idiom=Yes
+19	à	à	ADP	_	ExtPos=ADP	18	comp:obl	_	Gloss=at|Idiom=Yes
 20	kân	kâi	NOUN	_	_	19	comp:obj	_	InIdiom=Yes
 21	koːwànè	koːwànè	DET	_	_	22	det	_	_
 22	sàːƙon	sàːƙoː	NOUN	_	Definite=Cons|Gender=Masc	19	comp:obj	_	_
@@ -329,8 +329,8 @@
 3	har̃kàr̃	har̃kàː	NOUN	_	_	6	subj	_	_
 4	wayàr̃	wayàː	NOUN	_	_	3	mod	_	_
 5	tàr̃hôː	tàr̃hôː	NOUN	_	Definite=Ind	4	compound	_	_
-6	takè	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	2	comp:cleft	_	Relative=Yes
-7	à	à	ADP	_	_	6	comp:pred	_	_
+6	takè	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Relative=Yes	2	comp:cleft	_	_
+7	à	à	ADP	_	_	6	comp:pred	_	Gloss=at
 8	ƙasàːshen	ƙasàːshen	NOUN	_	Definite=Cons|Number=Plur	7	comp:obj	_	_
 9	Afìr̃kà	Afìr̃kà	PROPN	_	_	8	mod	_	SpaceAfter=No
 10	?	?	PUNCT	_	_	2	punct	_	_
@@ -354,7 +354,7 @@
 14	fi	fi	VERB	_	_	13	comp:aux	_	_
 15	sauƙiː	sauƙiː	NOUN	_	Gender=Masc	14	comp:obj	_	_
 16	kà	nàː	AUX	_	Aspect=Prog	13	subj	_	_
-17	yi	yi	VERB	_	_	16	comp:aux	_	_
+17	yi	yi	VERB	_	_	16	comp:aux	_	Gloss=do
 18	wayàː	wayàː	NOUN	_	Gender=Masc	17	comp:pred	_	_
 19	zuwàː	zuwàː	ADP	_	_	17	comp:obl	_	_
 20	ƙasàːshen	ƙasàːshen	ADJ	_	Definite=Cons|Number=Plur	19	comp:obj	_	_
@@ -397,7 +397,7 @@
 3	zàːgàːye-zàːgàːyên	zàːgàːye-zàːgàːye	NOUN	_	Definite=PrevRef|Number=Plur	1	mod	_	_
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	_
 5	akèː	nàː	AUX	_	Aspect=Prog|Person=4	4	comp:obj	_	_
-6	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	5	comp:aux	_	_
+6	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	5	comp:aux	_	Gloss=do
 7	dà	dà	ADP	_	_	6	comp:obl	_	_
 8	wayàr̃	wayàr̃	ADP	_	Definite=Ind|Gender=Fem	7	comp:obj	_	_
 9	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	8	compound	_	_
@@ -427,8 +427,8 @@
 10	ƙasàːshen	ƙasàːsheː	NOUN	_	Definite=Cons|Number=Plur	12	subj	_	_
 11	Afir̃kà	Afir̃kà	PROPN	_	_	10	mod	_	_
 12	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	9	comp:obj	_	_
-13	yi	yi	VERB	_	_	12	comp:aux	_	_
-14	à	à	ADP	_	_	13	comp:obl	_	_
+13	yi	yi	VERB	_	_	12	comp:aux	_	Gloss=do
+14	à	à	ADP	_	_	13	comp:obl	_	Gloss=at
 15	ƙàr̃ƙashin	ƙàr̃ƙashin	ADP	_	_	14	comp:obj	_	_
 16	ƙasàːshen	ƙasàːsheː	NOUN	_	Definite=Cons|Number=Plur	15	comp:obj	_	_
 17	Tuːr̃ai	Tuːr̃ai	PROPN	_	_	16	mod	_	SpaceAfter=No
@@ -490,7 +490,7 @@
 24	kudancin	kudanciː	NOUN	_	Definite=Cons|Gender=Masc	23	mod	_	_
 25	Afir̃kà	Afir̃kà	PROPN	_	_	24	mod	_	_
 26	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	12	comp:obj	_	_
-27	yi	yi	VERB	_	_	26	comp:aux	_	_
+27	yi	yi	VERB	_	_	26	comp:aux	_	Gloss=do
 28	sauƙiː	sauƙiː	NOUN	_	Gender=Masc	27	comp:pred	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	5	punct	_	_
 

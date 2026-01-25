@@ -32,7 +32,7 @@
 18	mài	mài	PART	_	Number=Sing	16	mod	_	_
 19	gubàː	gubàː	NOUN	_	Gender=Fem	18	comp:obj	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	31	punct	_	_
-21	wàːtòː	wàːtòː	PART	_	Gender=Masc	31	cc	_	_
+21	wàːtòː	wàːtòː	PART	_	_	31	cc	_	Gloss=that_is
 22	"	"	PUNCT	_	_	23	punct	_	_
 23	carbon	carbon	NOUN	_	Definite=Cons|Gender=Masc	16	mod	_	_
 24	dioxide	dioxide	NOUN	_	Gender=Masc	23	compound	_	SpaceAfter=No
@@ -48,7 +48,7 @@
 34	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	33	mod	_	_
 35	har̃	har̃	SCONJ	_	_	28	mod	_	_
 36	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	35	comp:obj	_	_
-37	yi	yi	VERB	_	_	36	comp:aux	_	_
+37	yi	yi	VERB	_	_	36	comp:aux	_	Gloss=do
 38	sànàdiyyàr̃	sànàdiyyàː	VERB	_	Gender=Fem	37	comp:pred	_	_
 39	mutuwàr̃	mutuwàː	NOUN	_	Number=Plur	37	comp:pred	_	wordform=mutawar
 40	mutàːneː	mùtûm	NOUN	_	Number=Plur	39	mod	_	wordform=mutâne
@@ -91,7 +91,7 @@
 28	dubuː	dubuː	VERB	_	_	27	mod	_	_
 29	mèːtan	mèːtan	SCONJ	_	_	25	mod	_	_
 30	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	24	parataxis@conj	_	_
-31	yi	yi	VERB	_	_	30	comp:aux	_	_
+31	yi	yi	VERB	_	_	30	comp:aux	_	Gloss=do
 32	àmbaːliyàː	àmbaːliyàː	NOUN	_	Gender=Fem	31	comp:pred	_	SpaceAfter=No
 33	.	.	PUNCT	_	_	10	punct	_	_
 
@@ -206,7 +206,7 @@
 6	dà	dà	ADP	_	_	5	comp:pred	_	_
 7	'yar̃	ɗarn	ADJ	_	_	10	mod	_	wordform=yar
 8	shakkàː	shakkàː	NOUN	_	Definite=Ind	6	comp:obj	_	_
-9	à	à	ADP	_	_	5	mod	_	_
+9	à	à	ADP	_	_	5	mod	_	Gloss=at
 10	kân	kân	ADP	_	_	9	comp:obj	_	_
 11	àbîn	àbù	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	_
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	_
@@ -219,7 +219,7 @@
 19	iskàr̃	iskàr̃	NOUN	_	Definite=Ind|Gender=Fem	18	comp:obj	_	_
 20	dàː	dàː	SCONJ	_	_	19	mod@relcl	_	_
 21	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	18	comp:obj	_	_
-22	yiwoː	yi	VERB	_	_	21	comp:aux	_	_
+22	yiwoː	yi	VERB	_	_	21	comp:aux	_	Gloss=do
 23	bùr̃tsîn	bùr̃tsiː	NOUN	_	Definite=Def|Gender=Masc	22	comp:obj	_	_
 24	wai	wai	SCONJ	_	_	25	discourse	_	_
 25	carbon	carboː	NOUN	_	Definite=Cons|Gender=Masc	18	comp:obj	_	_
@@ -236,24 +236,24 @@
 4	masànaː	masànaː	NOUN	_	Aspect=Prog|Number=Plur|Person=1	3	comp:obj	_	_
 5	kìːmiyyàn	kìːmiyyàː	NOUN	_	Definite=Def|Gender=Masc	4	mod	_	_
 6	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
-7	yi	yi	VERB	_	_	6	comp:aux	_	_
+7	yi	yi	VERB	_	_	6	comp:aux	_	Gloss=do
 8	màːmaːkìː	màːmaːkìː	NOUN	_	Gender=Masc	7	comp:pred	_	_
 9	dà	dà	SCONJ	_	_	8	mod@relcl	_	_
 10	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	9	comp:obj	_	_
 11	gaːnoː	gaːn-	VERB	_	_	10	comp:aux	_	_
 12	cêːwaː	cêwaː	SCONJ	_	_	8	mod@relcl	_	wordform=cêwaː
 13	an	yaː	AUX	_	Aspect=Perf|Person=4	12	comp:obj	_	_
-14	yi	yi	VERB	_	_	13	comp:aux	_	_
+14	yi	yi	VERB	_	_	13	comp:aux	_	Gloss=do
 15	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:pred	_	Gloss=type.Masc.Cons
 16	wannàn	wannàn	DET	_	PronType=Dem	18	det	_	_
 17	aman	aman	ADJ	_	_	15	mod	_	_
 18	gâs	gâ	NOUN	_	Definite=Cons|Gender=Fem	25	mod	_	_
 19	mài	mài	PART	_	Number=Sing	17	mod	_	_
 20	gubàː	gubàː	NOUN	_	Gender=Fem	19	comp:obj	_	_
-21	à	à	ADP	_	_	14	mod	_	_
+21	à	à	ADP	_	_	14	mod	_	Gloss=at
 22	wani	wani	DET	_	Definite=Spec|Gender=Masc	23	det	_	_
 23	tafkìn	tafkìː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:obj	_	_
-24	à	à	ADP	_	_	14	mod	_	_
+24	à	à	ADP	_	_	14	mod	_	Gloss=at
 25	shèːkaràr̃	shèːkaràː	NOUN	_	_	24	comp:obj	_	_
 26	alìf	alìf	NOUN	_	_	15	mod	_	_
 27	dà	dà	CCONJ	_	_	28	cc	_	wordform=da
@@ -293,10 +293,10 @@
 10	tafkunàː	tafkunàː	NOUN	_	Gender=Fem	8	mod	_	_
 11	har̃	har̃	ADP	_	_	8	mod	_	_
 12	sìttin	sìttin	NUM	_	_	11	comp:obj	_	_
-13	à	à	ADP	_	_	7	mod	_	_
+13	à	à	ADP	_	_	7	mod	_	Gloss=at
 14	wannàn	wannàn	DET	_	PronType=Dem	15	det	_	_
 15	yankìː	yankìː	NOUN	_	Gender=Masc	13	comp:obj	_	_
-16	à	à	ADP	_	_	10	mod	_	_
+16	à	à	ADP	_	_	10	mod	_	Gloss=at
 17	cikin	cikin	ADP	_	_	16	comp:obj	_	_
 18	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	17	comp:obj	_	_
 19	dà	dà	CCONJ	_	_	20	cc	_	_
@@ -314,7 +314,7 @@
 31	wannàn	wannàn	DET	_	PronType=Dem	32	det	_	_
 32	aman	amaː	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	_
 33	gâs	gâs	NOUN	_	Definite=Cons|Gender=Fem	32	mod	_	_
-34	à	à	ADP	_	_	29	comp:obl	_	_
+34	à	à	ADP	_	_	29	comp:obl	_	Gloss=at
 35	koːwànè	koːwànè	DET	_	_	36	det	_	_
 36	loːkàciː	loːkàciː	NOUN	_	Definite=Ind|Gender=Masc	34	comp:obj	_	_
 37	.	.	PUNCT	_	_	4	punct	_	_
@@ -330,7 +330,7 @@
 7	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	mod	_	_
 8	nèː	neː	PART	_	Gender=Masc|Number=Plur	0	root	_	_
 9	à	yà	AUX	_	Mood=Sub|Person=4	8	comp:cleft	_	_
-10	yi	yi	VERB	_	_	9	comp:aux	_	_
+10	yi	yi	VERB	_	_	9	comp:aux	_	Gloss=do
 11	famfòn	famfòː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:pred	_	_
 12	ruwân	ruwaː	NOUN	_	Definite=Cons|Number=Plur	11	comp:obj	_	_
 13	dà	dà	SCONJ	_	_	12	mod@relcl	_	_
@@ -444,8 +444,8 @@
 9	cêːwaː	cêːwaː	SCONJ	_	_	8	mod	_	wordform=cêwaː
 10	kàmaːtàː	kàmaːtàː	NOUN	_	Gender=Fem	11	subj	_	_
 11	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	9	comp:obj	_	_
-12	yi	yi	VERB	_	_	11	comp:aux	_	_
-13	à	à	ADP	_	_	12	comp:obl	_	_
+12	yi	yi	VERB	_	_	11	comp:aux	_	Gloss=do
+13	à	à	ADP	_	_	12	comp:obl	_	Gloss=at
 14	lùːr̃a	lùːr̃a	ADV	_	_	13	comp:obj	_	_
 15	dà	dà	CCONJ	_	_	16	cc	_	_
 16	haːlin	haːliː	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	_
@@ -492,7 +492,7 @@
 6	yankìn	yankìː	DET	_	Definite=Cons|Gender=Masc	5	mod	_	_
 7	zaːsù	zâi	AUX	_	Number=Plur|Person=3|Tense=Fut	0	root	_	_
 8	iyà	iy-	VERB	_	_	7	comp:aux	_	_
-9	yî:	yi	VERB	_	ExtPos=NOUN|Gender=Masc	8	comp:obj	_	_
+9	yî:	yi	VERB	_	ExtPos=NOUN|Gender=Masc	8	comp:obj	_	Gloss=do
 10	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	12	dislocated@subj	_	_
 11	nèː	neː	PART	_	Gender=Masc|Number=Plur	10	discourse@foc	_	_
 12	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	7	conj:coord	_	_
@@ -545,7 +545,7 @@
 34	tafkìn	tafkìn	NOUN	_	Definite=Def|Gender=Masc	35	subj	_	wordform=tar̃kin
 35	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	31	conj:coord	_	_
 36	saːkè	saːkèː	VERB	_	_	35	comp:aux	_	_
-37	yîn	yi	AUX	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	36	comp:obj	_	_
+37	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	36	comp:obj	_	Gloss=do
 38	wani	wani	DET	_	Definite=Spec|Gender=Masc	40	det	_	_
 39	aman	amaː	NOUN	_	Definite=Cons|Gender=Masc	37	comp:pred	_	_
 40	gâs	gaː	VERB	_	Definite=Cons|Gender=Fem	39	mod	_	_
