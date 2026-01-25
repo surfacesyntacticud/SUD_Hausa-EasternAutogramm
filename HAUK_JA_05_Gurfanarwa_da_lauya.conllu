@@ -224,7 +224,7 @@
 12	hukuːmoːmin	hukuːmoːmiː	NOUN	_	Definite=Cons|Gender=Masc	14	subj	_	_
 13	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	12	mod	_	Gloss=country.Fem.PrevRef
 14	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	10	comp:obj	_	_
-15	shirìn	shiry-	VERB	_	Definite=Cons|Gender=Masc	14	comp:aux	_	_
+15	shirìn	shiry-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:aux	_	_
 16	gur̃faːnar̃	gur̃faːn-	VERB	_	Definite=Cons|Gender=Fem	15	comp:obj	_	_
 17	dà	dà	ADP	_	_	16	comp:obl	_	_
 18	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	17	comp:obj	_	_
@@ -239,11 +239,11 @@
 27	zàrginsà	zarg-	VERB	_	Gender=Fem|Number=Plur	25	comp:obj	_	_
 28	dà	dà	CCONJ	_	_	27	comp:obl	_	_
 29	lâifin	lâifiː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	_
-30	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	29	mod	_	Gloss=do
+30	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	29	mod	_	Gloss=do
 31	ƙafàr̃	ƙafàː	NOUN	_	Definite=Cons|Gender=Fem	30	comp:pred	_	_
 32	àngùlu	àngùlu	NOUN	_	Gender=Masc	31	mod	_	_
 33	à	à	ADP	_	_	30	comp:obl	_	Gloss=at
-34	shirìn	shiry-	VERB	_	Definite=Cons|Gender=Masc	33	comp:obj	_	_
+34	shirìn	shiry-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	33	comp:obj	_	_
 35	miːƙà	miːƙ-	PRON	_	Number=Plur	34	comp:obj	_	_
 36	mulkìː	mulkìː	NOUN	_	Gender=Masc	35	comp:obj	_	_
 37	gà	gà	ADP	_	_	35	comp:obl	_	_
@@ -338,7 +338,7 @@
 16	tòː	tòː	INTJ	_	_	17	discourse	_	_
 17	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	5	comp:obj	_	_
 18	iyà	iy-	VERB	_	_	17	comp:aux	_	_
-19	saːmùn	saːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	18	comp:obj	_	_
+19	saːmùn	saːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp:obj	_	_
 20	ɗaurìn	ɗaur-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:obj	_	_
 21	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	20	mod	_	_
 22	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem|Number=Plur	21	comp:obj	_	_
@@ -390,7 +390,7 @@
 22	leːbùr̃à	leːbùr̃à	NOUN	_	Definite=Ind	20	comp:obj	_	_
 23	dà	dà	SCONJ	_	_	22	mod@relcl	_	_
 24	akèː	nàː	AUX	_	Aspect=Prog|Person=4	23	comp:obj	_	_
-25	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	24	comp:aux	_	Gloss=do
+25	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	24	comp:aux	_	Gloss=do
 26	zàrgin	zàrgiː	NOUN	_	Definite=Cons|Gender=Masc	25	comp:pred	_	_
 27	cêːwa	cêːwa	SCONJ	_	_	26	mod@relcl	_	_
 28	wani	wani	DET	_	Definite=Spec|Gender=Masc	29	det	_	_
@@ -526,15 +526,15 @@
 8	Yuːnì	Yuːnì	PROPN	_	_	7	mod	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 10	wàːtòː	wàːtòː	PART	_	_	11	discourse	_	Gloss=that_is
-11	loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	1	mod	_	_
+11	loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	2	mod	_	_
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	_
 13	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	12	comp:obj	_	_
 14	cikin	cikin	ADP	_	_	13	comp:pred	_	_
-15	shirìn	shiry-	VERB	_	Definite=Cons|Gender=Masc	14	comp:obj	_	_
+15	shirìn	shiry-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:obj	_	_
 16	wani	wani	DET	_	Definite=Spec|Gender=Masc	17	det	_	_
 17	tàːroː	tàːroː	NOUN	_	Gender=Masc	15	mod	_	_
-18	indà	indà	ADV	_	PronType=Rel	15	mod	_	_
-19	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	18	mod@relcl	_	_
+18	indà	indà	ADV	_	PronType=Rel	19	mod	_	_
+19	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	17	mod@relcl	_	_
 20	yi	yi	VERB	_	_	19	comp:aux	_	Gloss=do
 21	wà	wà	ADP	_	Case=Dat	20	comp:obl	_	_
 22	tsaːrìn	tsaːrìː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:obj	_	_
@@ -548,8 +548,8 @@
 # sent_id = 05_Gurfanarwa_da_lauya__24
 # text = Kaːmèː shîn kùwa yaː jaːwoː suːkàː sòːsai, kuma an yi kiràː gà Gwamnatì dà tà dainà àmfàːniː dà Dòːkâr̃ nan ta Biyu.
 1	Kaːmèː	Kaːmèː	PROPN	_	_	4	subj	_	_
-2	shîn	shîn	PRON	_	_	4	subj	_	_
-3	kùwa	kùwa	PART	_	_	2	discourse@top	_	_
+2	shîn	shîn	PRON	_	_	1	comp:obj	_	_
+3	kùwa	kùwa	PART	_	_	1	discourse@top	_	_
 4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 5	jaːwoː	jaːwoː	VERB	_	_	4	comp:aux	_	_
 6	suːkàː	suːkàː	NOUN	_	Gender=Masc	5	comp:obj	_	_
@@ -559,9 +559,9 @@
 10	an	yaː	AUX	_	Aspect=Perf|Person=4	4	conj:coord	_	_
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
 12	kiràː	kir-	VERB	_	Gender=Masc	11	comp:pred	_	_
-13	gà	gà	ADP	_	_	11	comp:obl	_	_
+13	gà	gà	ADP	_	_	12	comp:obl	_	_
 14	Gwamnatì	Gwamnatì	PROPN	_	_	13	comp:obj	_	_
-15	dà	dà	SCONJ	_	_	12	mod@relcl	_	_
+15	dà	dà	ADP	_	_	12	comp:obl	_	_
 16	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	15	comp:obj	_	_
 17	dainà	dainàː	VERB	_	_	16	comp:aux	_	_
 18	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	17	comp:obj	_	_
@@ -579,7 +579,7 @@
 3	Gwamnatìn	Gwamnatìn	PROPN	_	_	2	mod	_	_
 4	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	3	mod	_	_
 5	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	_
-6	shân	shâː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	5	comp:aux	_	_
+6	shân	shaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:aux	_	Gloss=experience
 7	suːkàː	suːkàː	NOUN	_	Gender=Fem	6	udep	_	_
 8	sòsai	sòsai	ADV	_	_	6	mod	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
