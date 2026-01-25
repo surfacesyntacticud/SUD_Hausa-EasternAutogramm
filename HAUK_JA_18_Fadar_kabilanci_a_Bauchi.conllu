@@ -21,7 +21,7 @@
 1	Can	can	ADV	_	_	9	mod	_	_
 2	à	à	ADP	_	_	9	mod	_	Gloss=at
 3	gàrin	gàriː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj	_	_
-4	Bauci	Bauci	PROPN	_	_	3	mod	_	Gloss=Bauci
+4	Bauci	Bauci	PROPN	_	_	3	mod	_	Gloss=Bauchi
 5	na	na	ADP	_	_	3	mod	_	_
 6	arːwacin	arːwaciː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:obj	_	_
 7	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	6	mod	_	Gloss=Nigeria|SpaceAfter=No
@@ -53,14 +53,14 @@
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__3
 # text = r̃àhòːtannin baːya-baːyan nàn dà akà saːmùː dàgà Bauci sun nuːnà cêːwaː yànzu ƙùːraː taː lafàː.
-1	r̃àhòːtannin	r̃àhòːtanniː	NOUN	_	Definite=Cons|Number=Plur	9	subj	_	_
+1	r̃àhòːtannin	r̃àhoːtòː	NOUN	_	Definite=Cons|Number=Plur	9	subj	_	Gloss=report.Plur
 2	baːya-baːyan	baːya-baːyaː	NOUN	_	Definite=Cons|Number=Plur	1	mod	_	_
 3	nàn	nàn	DET	_	PronType=Dem	2	det	_	_
 4	dà	dà	SCONJ	_	_	2	mod@relcl	_	_
 5	akà	nàː	AUX	_	Aspect=Prog|Person=4	4	comp:obj	_	_
 6	saːmùː	saːm-	VERB	_	_	5	comp:aux	_	_
 7	dàgà	dàgà	ADP	_	_	6	comp:obl	_	_
-8	Bauci	Bauci	PROPN	_	_	7	comp:obj	_	Gloss=Bauci
+8	Bauci	Bauci	PROPN	_	_	7	comp:obj	_	Gloss=Bauchi
 9	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
 10	nuːnà	nuːn-	VERB	_	_	9	comp:aux	_	_
 11	cêːwaː	cêː	SCONJ	_	ExtPos=NOUN|Gender=Fem	10	comp:obj	_	_
@@ -121,7 +121,7 @@
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__5
 # text = r̃àhòːtannîn sun ci gàba dà cêːwaː wannàn shiː nèː taːshìn hankàliː na àddiːnìː mafìː muːnìː dà akà taɓà yîː à Nàjeːr̃iyàː tun baːyan rìkicin Kàfàncàn dà akà yi à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà ukù tsàkaːnin Mùsùlmiː dà Kir̃istoːciː, indà mutàːneː goːmà shâː huɗu sukà hàlakà.
-1	r̃àhòːtannîn	r̃àhòːtanniː	NOUN	_	Definite=Def|Number=Plur	2	subj	_	_
+1	r̃àhòːtannîn	r̃àhoːtòː	NOUN	_	Definite=Def|Number=Plur	2	subj	_	Gloss=report.Plur
 2	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
 3	ci	ci	VERB	_	_	2	comp:aux	_	_
 4	gàba	gàba	ADV	_	_	3	mod	_	_
@@ -145,7 +145,7 @@
 22	tun	tun	ADP	_	_	14	mod	_	_
 23	baːyan	baːyaː	ADP	_	Definite=Cons|Gender=Masc	22	comp:obj	_	_
 24	rìkicin	rìkiciː	NOUN	_	Definite=Cons|Gender=Masc	20	comp:obj	_	_
-25	Kàfàncàn	Kàfàncàn	PROPN	_	_	24	mod	_	Gloss=Kàfàncàn
+25	Kàfàncàn	Kàfàncàn	PROPN	_	_	24	mod	_	Gloss=Kafanchan
 26	dà	dà	SCONJ	_	_	24	mod@relcl	_	_
 27	akà	nàː	AUX	_	Aspect=Prog|Person=4	26	comp:obj	_	_
 28	yi	yi	VERB	_	_	27	comp:aux	_	Gloss=do
@@ -201,8 +201,8 @@
 24	nèː	neː	PART	_	Gender=Masc|Number=Plur	35	discourse@foc	_	_
 25	à	à	ADP	_	_	22	comp:obl	_	Gloss=at
 26	gàrin	gàriː	NOUN	_	Definite=Cons|Gender=Masc	25	comp:obj	_	_
-27	Tafaːwà	Tafaːwà	PROPN	_	_	26	mod	_	Gloss=Tafaːwà
-28	Ɓaleːwà	Ɓaleːwà	PROPN	_	_	27	flat@name	_	Gloss=Ɓaleːwà|SpaceAfter=No
+27	Tafaːwà	Tafaːwà	PROPN	_	_	26	mod	_	Gloss=Tafawa
+28	Ɓaleːwà	Ɓaleːwà	PROPN	_	_	27	flat@name	_	Gloss=Balewa|SpaceAfter=No
 29	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 30	gàrîn	gàriː	NOUN	_	Definite=Cons|Gender=Masc	35	comp:obj	_	_
 31	dà	dà	SCONJ	_	_	30	mod@relcl	_	_
@@ -229,12 +229,12 @@
 1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	_
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	_
 3	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	dislocated@subj	_	_
-4	Kir̃istoːcîn	Kir̃istoːcîn	PROPN	_	_	3	conj:appos	_	Gloss=Kir̃istoːcîn
+4	Kir̃istoːcîn	Kìr̃istàː	NOUN	_	Definite=PrevRef	3	conj:appos	_	Gloss=Christian.Plur.PrevRef
 5	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	2	comp:obj	_	_
 6	hàsalà	hàsa	VERB	_	_	5	comp:aux	_	_
 7	neː	neː	PART	_	Gender=Masc|Number=Plur	6	discourse@foc	_	_
 8	sabòːdà	sabòːdà	SCONJ	_	_	6	mod	_	_
-9	Mùsùlmin	Mùsùlmin	PROPN	_	_	11	subj	_	Gloss=Mùsùlmin
+9	Mùsùlmin	Mùsùlmiː	NOUN	_	_	11	subj	_	Gloss=Muslim.Plur.Cons
 10	yankìn	yankìː	NOUN	_	Definite=Cons|Gender=Masc	9	mod	_	_
 11	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	8	comp:obj	_	_
 12	hanàː	hanàː	VERB	_	_	11	comp:aux	_	_
@@ -251,7 +251,7 @@
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__8
 # text = Dàgà nan nèː kuma sai taːshìn hankàlîn ya bàzu sauran sâssan jihàr̃ ta Bauci, har̃ ya kai gà bàbban bir̃nin jihàr̃, wandà dàgà bìsaːniː kìːmaːnìn mutàːneː tàmàːnin sukà rasà raːyukànsù, sànnan kuma akà cinnàː wà coːcì-coːcì dà gìne-gìne wutaː.
-1	Dàgà	Dàgà	PROPN	_	_	6	mod	_	Gloss=Dàgà
+1	Dàgà	dàgà	ADP	_	_	6	mod	_	Gloss=from
 2	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	comp:obj	_	_
 3	nèː	neː	PART	_	_	1	discourse@foc	_	_
 4	kuma	kuma	PART	_	_	1	discourse@top	_	_
@@ -264,7 +264,7 @@
 11	sâssan	sâssaː	NOUN	_	Definite=Cons|Number=Plur	10	comp:obj	_	_
 12	jihàr̃	jihàr̃	NOUN	_	Definite=Ind|Gender=Fem	11	mod	_	_
 13	ta	na/ta	ADP	_	_	11	mod	_	_
-14	Bauci	Bauci	PROPN	_	_	13	comp:obj	_	Gloss=Bauci|SpaceAfter=No
+14	Bauci	Bauchi	PROPN	_	_	13	comp:obj	_	Gloss=Bauci|SpaceAfter=No
 15	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 16	har̃	har̃	CCONJ	_	Definite=Cons|Gender=Fem	17	cc	_	_
 17	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	8	parataxis@conj	_	_
@@ -302,7 +302,7 @@
 3	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	2	mod	_	Gloss=Nigeria
 4	kà	eː	AUX	_	Aspect=Prog	2	mod	_	_
 5	kèː	keː	PART	_	_	4	comp:aux	_	_
-6	Baucîn	Baucîn	PROPN	_	_	9	subj	_	Gloss=Baucîn
+6	Baucîn	Baucîn	PROPN	_	_	9	subj	_	Gloss=Bauchi.PrevRef
 7	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
 8	cêː	cêː	VERB	_	_	7	comp:aux	_	_
 9	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	8	comp:obj	_	_
@@ -325,9 +325,9 @@
 26	à	à	ADP	_	_	25	mod	_	Gloss=at
 27	kân	kân	ADP	_	_	26	comp:obj	_	_
 28	hanyàr̃	hanyàː	NOUN	_	Definite=Cons|Gender=Fem	27	comp:obj	_	_
-29	Bauci	Bauci	PROPN	_	_	28	mod	_	Gloss=Bauci
+29	Bauci	Bauchi	PROPN	_	_	28	mod	_	Gloss=Bauci
 30	zuwàː	zuwàː	ADP	_	_	28	mod	_	_
-31	Jàs	Jàs	PROPN	_	_	30	comp:obj	_	Gloss=Jàs
+31	Jàs	Jàs	PROPN	_	_	30	comp:obj	_	Gloss=Jos
 32	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	7	parataxis@conj	_	_
 33	cêː	cêː	VERB	_	_	32	comp:aux	_	_
 34	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	33	comp:obj	_	_
@@ -539,7 +539,7 @@
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__15
 # text = Wàtànniː kàmar̃ shidà baːyan wannàn hàrgitsiː kuma, an yi wasu tàːshe-tàːshen hankulàː à bir̃nin Kanòː, indà akà kashè à ƙallà mutàːneː goːmà shâː bìyar̃, ɗaruːruwàː kuma sukà sàːmi raunukàː.
-1	Wàtànniː	Wàtànniː	PROPN	_	_	9	dislocated@comp	_	Gloss=Wàtànniː
+1	Wàtànniː	watàː	NOUN	_	_	9	dislocated@comp	_	Gloss=month.Plur
 2	kàmar̃	kàmar̃	ADP	_	Definite=Cons|Gender=Fem	9	mod	_	_
 3	shidà	shidà	PRON	_	_	2	comp:obj	_	_
 4	baːyan	baːyaː	ADP	_	_	3	mod	_	_
@@ -554,7 +554,7 @@
 13	hankulàː	hankulàː	NOUN	_	_	12	mod	_	_
 14	à	à	ADP	_	_	10	mod	_	Gloss=at
 15	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:obj	_	_
-16	Kanòː	Kanòː	PROPN	_	_	15	mod	_	Gloss=Kanòː|SpaceAfter=No
+16	Kanòː	Kanòː	PROPN	_	_	15	mod	_	Gloss=Kano|SpaceAfter=No
 17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 18	indà	indà	ADV	_	_	12	mod	_	_
 19	akà	nàː	AUX	_	Aspect=Prog|Person=4	18	mod@relcl	_	_
@@ -574,7 +574,7 @@
 33	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__16
-# text = Taːshìn hankàlîn yaː biyoː baːyan zàngà-zangàr̃ dà dubbàn Mùsùlmiː sukà yi, don nuːnà rashìn amìncêːwaː dà zìyaːr̃àr̃ dà wani mài wa'àzin àddiːnìn Kir̃istàː, ɗan Jaːmùs mài suːnaː «  Reinhard Bonnke », ya kai Kanòː.
+# text = Taːshìn hankàlîn yaː biyoː baːyan zàngà-zangàr̃ dà dubbàn Mùsùlmiː sukà yi, don nuːnà rashìn amìncêːwaː dà zìyaːr̃àr̃ dà wani mài wa'àzin àddiːnìn Kir̃istàː, ɗan Jaːmùs mài suːnaː " Reinhard Bonnke " , ya kai Kanòː.
 1	Taːshìn	taːshìː	NOUN	_	Definite=Cons|Gender=Masc	3	subj	_	_
 2	hankàlîn	hankàliː	NOUN	_	_	1	mod	_	_
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
@@ -601,28 +601,29 @@
 24	Kir̃istàː	Kir̃istàː	ADJ	_	Number=Sing	23	mod	_	Gloss=Christian.Sing|SpaceAfter=No
 25	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 26	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	_
-27	Jaːmùs	Jaːmùs	PROPN	_	_	26	mod	_	Gloss=Jaːmùs
+27	Jaːmùs	Jaːmùs	PROPN	_	_	26	mod	_	Gloss=Germany
 28	mài	mài	PART	_	Number=Sing|PartType=Der	26	mod	_	Gloss=possessor_of.Sing
 29	suːnaː	suːnaː	NOUN	_	Case=Gen|Number=Sing|Person=1	28	comp:obj	_	_
-30	«	«	PUNCT	_	_	31	punct	_	Gloss=PUNCT
+30	"	"	PUNCT	_	_	31	punct	_	Gloss=PUNCT
 31	Reinhard	Reinhard	PROPN	_	Definite=Cons|Gender=Fem	29	comp:pred	_	Gloss=Reinhard
 32	Bonnke	Bonnke	PROPN	_	_	31	flat@name	_	Gloss=Bonnke
-33	»,	»,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
-34	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	13	comp:obj	_	_
-35	kai	kaːy-	VERB	_	_	34	comp:aux	_	_
-36	Kanòː	Kanòː	PROPN	_	_	35	comp:obj	_	Gloss=Kanòː|SpaceAfter=No
-37	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
+33	"	"	PUNCT	_	_	31	punct	_	Gloss=PUNCT
+34	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
+35	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	13	comp:obj	_	_
+36	kai	kaːy-	VERB	_	_	35	comp:aux	_	_
+37	Kanòː	Kanòː	PROPN	_	_	36	comp:obj	_	Gloss=Kanòː|SpaceAfter=No
+38	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__17
 # text = Màːsu zàngà-zangàr̃ sun yi maːcìː à tiːtunàn Kanòː, sunàː kunnà wutaː gà kantunàː dà moːtoːciː.
-1	Màːsu	Màːsu	PROPN	_	Number=Plur	3	subj	_	Gloss=Màːsu
+1	Màːsu	mài	PART	_	Number=Plur|PartType=Der	3	subj	_	Gloss=doer
 2	zàngà-zangàr̃	zàngà-zangàr̃	NOUN	_	Definite=Ind|Number=Plur	1	comp:obj	_	_
 3	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
 4	yi	yi	VERB	_	_	3	comp:aux	_	Gloss=do
 5	maːcìː	maːcìː	NOUN	_	Gender=Masc	4	comp:pred	_	_
 6	à	à	ADP	_	_	4	comp:obl	_	Gloss=at
 7	tiːtunàn	tiːtunàː	NOUN	_	Definite=Cons|Number=Plur	6	comp:obj	_	_
-8	Kanòː	Kanòː	PROPN	_	_	7	mod	_	Gloss=Kanòː|SpaceAfter=No
+8	Kanòː	Kanòː	PROPN	_	_	7	mod	_	Gloss=Kano|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 10	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	3	parataxis@conj	_	_
 11	kunnà	kunn-	VERB	_	_	10	comp:aux	_	_
