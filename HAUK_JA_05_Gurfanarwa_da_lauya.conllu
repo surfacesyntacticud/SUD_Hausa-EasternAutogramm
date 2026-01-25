@@ -51,7 +51,7 @@
 17	abuːbuwàn	àbù	NOUN	_	Definite=Cons|Number=Plur	16	mod	_	_
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	_
 19	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	18	comp:obj	_	_
-20	yi	yi	VERB	_	_	19	comp:aux	_	_
+20	yi	yi	VERB	_	_	19	comp:aux	_	Gloss=do
 21	danganèː	danganèː	NOUN	_	ExtPos=SCONJ|Gender=Masc	20	mod	_	Idiom=Yes
 22	dà	dà	ADP	_	_	21	compound	_	InIdiom=Yes
 23	kaːrè	kaːr-	VERB	_	_	21	comp:obj	_	_
@@ -103,7 +103,7 @@
 39	zàrgeː	zarg-	VERB	_	_	38	comp:aux	_	_
 40	shì	shi	AUX	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	39	comp:obj	_	_
 41	dà	dà	ADP	_	_	39	comp:obl	_	_
-42	yi	yi	VERB	_	_	41	comp:obj	_	_
+42	yi	yi	VERB	_	_	41	comp:obj	_	Gloss=do
 43	wà	wà	ADP	_	Case=Dat	42	comp:obl	_	_
 44	tattalin	tattaliː	NOUN	_	Definite=Cons|Gender=Masc	43	comp:obj	_	_
 45	ar̃zìkin	ar̃zìkiː	NOUN	_	Definite=Cons|Gender=Masc	44	mod	_	_
@@ -112,11 +112,11 @@
 48	,	,	PUNCT	_	_	51	punct	_	_
 49	koː	koː	CCONJ	_	_	51	cc	_	_
 50	kuma	kuma	PART	_	_	49	discourse@top	_	_
-51	yi	yi	VERB	_	_	42	conj:coord	_	_
+51	yi	yi	VERB	_	_	42	conj:coord	_	Gloss=do
 52	wà	wà	ADP	_	Case=Dat	51	comp:obl	_	_
 53	tsàron	tsàroː	NOUN	_	Definite=Cons|Gender=Masc	52	comp:obj	_	_
 54	ƙasaː	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	53	mod	_	_
-55	bàràːzanaː	bàràːzanaː	NOUN	_	Gender=Fem	51	comp:obj	_	SpaceAfter=No
+55	bàràːzanaː	bàràːzanaː	NOUN	_	Gender=Fem	51	comp:pred	_	SpaceAfter=No
 56	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 05_Gurfanarwa_da_lauya__5
@@ -127,7 +127,7 @@
 4	iːkòn	iːkòː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	_
 5	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	mod	_	_
 6	gàba	gàba	ADV	_	_	5	mod	_	_
-7	dà	dà	SCONJ	_	_	6	comp:obj	_	_
+7	dà	dà	ADP	_	_	6	comp:obj	_	_
 8	tsarè	tsar-	VERB	_	_	6	comp:obj	_	_
 9	mùtumìn	mùtûm	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	_
 10	har̃	har̃	ADP	_	_	6	mod	_	Gloss=until
@@ -152,7 +152,7 @@
 10	Biyu	biyu	NUM	_	_	9	comp:obj	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	1	punct	_	_
 12	tòː	tòː	INTJ	_	_	13	discourse	_	_
-13	baːbù	bâː	PART	_	Polarity=Neg	0	root	_	_
+13	baːbù	baːbù	PART	_	Polarity=Neg	0	root	_	Gloss=there_is.Neg|PartType=Pred
 14	wata	wani	DET	_	Gender=Fem	15	det	_	_
 15	koːtù	koːtù	NUM	_	PronType=Ind	13	subj	_	_
 16	à	à	ADP	_	_	13	comp:pred	_	_
@@ -239,7 +239,7 @@
 27	zàrginsà	zarg-	VERB	_	Gender=Fem|Number=Plur	26	comp:obj	_	_
 28	dà	dà	CCONJ	_	_	27	comp:obl	_	_
 29	lâifin	lâifiː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	_
-30	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	29	mod	_	_
+30	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	29	mod	_	Gloss=do
 31	ƙafàr̃	ƙafàː	NOUN	_	Definite=Cons|Gender=Fem	30	comp:pred	_	_
 32	àngùlu	àngùlu	NOUN	_	Gender=Masc	31	mod	_	_
 33	à	à	ADP	_	_	30	comp:obl	_	_
@@ -390,14 +390,14 @@
 22	leːbùr̃à	leːbùr̃à	NOUN	_	Definite=Ind	20	comp:obj	_	_
 23	dà	dà	SCONJ	_	_	22	mod@relcl	_	_
 24	akèː	nàː	AUX	_	Aspect=Prog|Person=4	23	comp:obj	_	_
-25	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	24	comp:aux	_	_
+25	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	24	comp:aux	_	Gloss=do
 26	zàrgin	zàrgiː	NOUN	_	Definite=Cons|Gender=Masc	25	comp:pred	_	_
 27	cêːwa	cêːwa	SCONJ	_	_	26	mod@relcl	_	_
 28	wani	wani	DET	_	Definite=Spec|Gender=Masc	29	det	_	_
 29	jaːmìꞌin	jaːmìꞌiː	NOUN	_	Definite=Cons|Gender=Masc	31	subj	_	_
 30	gwamnatì	gwamnatì	NOUN	_	Gender=Masc	29	mod	_	_
 31	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	27	comp:obj	_	_
-32	yi	yi	VERB	_	_	31	comp:aux	_	_
+32	yi	yi	VERB	_	_	31	comp:aux	_	Gloss=do
 33	wà	wà	ADP	_	Case=Dat	32	comp:obl	_	_
 34	màːtar̃sà	màːtar̃ː	NOUN	_	Definite=Ind|Gender=Fem	33	comp:obj	_	_
 35	fyàːɗeː	fyàːɗeː	NOUN	_	Gender=Masc	32	comp:pred	_	SpaceAfter=No
@@ -412,7 +412,7 @@
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 6	cèː	cêː	VERB	_	_	5	comp:aux	_	_
 7	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	6	comp:obj	_	_
-8	yi	yi	VERB	_	_	7	comp:aux	_	_
+8	yi	yi	VERB	_	_	7	comp:aux	_	Gloss=do
 9	niyyàr̃	niyyàː	NOUN	_	Definite=Ind|Gender=Fem	8	comp:pred	_	_
 10	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:pred	_	_
 11	gàba	gàba	ADV	_	_	8	mod	_	_
@@ -437,11 +437,11 @@
 4	Chief	Chief	PROPN	_	_	6	subj	_	_
 5	G.F.	G.f.	PROPN	_	_	4	flat@name	_	_
 6	kèː	nàː	AUX	_	Aspect=Prog	3	comp:obj	_	_
-7	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	6	comp:aux	_	_
+7	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	6	comp:aux	_	Gloss=do
 8	dà	dà	ADP	_	_	7	comp:obl	_	_
 9	hukuːmoːmiː	hukuːmoːː	NOUN	_	Number=Plur	8	comp:obj	_	_
 10	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
-11	yi	yi	VERB	_	_	10	comp:aux	_	_
+11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
 12	sànàdiyyàr̃	sànàdiyyàː	NOUN	_	Definite=Ind|Gender=Fem	11	comp:pred	_	_
 13	zuwànsà	zuwànsà	ADP	_	_	11	mod	_	_
 14	koːtù	koːtù	NUM	_	_	13	comp:obj	_	_
@@ -535,7 +535,7 @@
 17	tàːroː	tàːroː	NOUN	_	Gender=Masc	15	mod	_	_
 18	indà	indà	ADV	_	PronType=Rel	15	mod	_	_
 19	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	18	mod@relcl	_	_
-20	yi	yi	VERB	_	_	19	comp:aux	_	_
+20	yi	yi	VERB	_	_	19	comp:aux	_	Gloss=do
 21	wà	wà	ADP	_	Case=Dat	20	comp:obl	_	_
 22	tsaːrìn	tsaːrìː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:obj	_	_
 23	tattalin	tattaliː	NOUN	_	Definite=Cons|Gender=Masc	22	mod	_	_
@@ -557,7 +557,7 @@
 8	,	,	PUNCT	_	_	10	punct	_	_
 9	kuma	kuma	CCONJ	_	_	10	cc	_	_
 10	an	yaː	AUX	_	Aspect=Perf|Person=4	4	conj:coord	_	_
-11	yi	yi	VERB	_	_	10	comp:aux	_	_
+11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
 12	kiràː	kir-	VERB	_	Gender=Masc	11	comp:pred	_	_
 13	gà	gà	ADP	_	_	11	comp:obl	_	_
 14	Gwamnatì	Gwamnatì	PROPN	_	_	13	comp:obj	_	_
@@ -574,7 +574,7 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya__25-6
 # text = Baːbù shakkàː Gwamnatìn Nàːjeːr̃iyàː tanàː shân suːkàː sòsai, koː tà gur̃fanar̃ dà Chief G.F. à gàban shàr̃iꞌàː, koː kùwa tà sàkeː shì.
-1	Baːbù	bâː	PART	_	Polarity=Neg	5	subj	_	_
+1	Baːbù	baːbù	PART	_	Polarity=Neg	5	subj	_	Gloss=there_is.Neg|PartType=Pred
 2	shakkàː	shakkàː	NOUN	_	Gender=Fem	1	subj	_	_
 3	Gwamnatìn	Gwamnatìn	PROPN	_	_	2	mod	_	_
 4	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	3	mod	_	_
