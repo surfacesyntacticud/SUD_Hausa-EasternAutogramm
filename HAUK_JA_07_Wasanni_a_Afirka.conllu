@@ -4,7 +4,7 @@
 1	làːbàːr̃un	làːbàːr̃uː	NOUN	_	Definite=Cons	0	root	_	_
 2	wàːsànniː	wàːsaː	NOUN	_	Definite=Ind|Number=Plur	1	mod	_	Gloss=game.Plur
 3	à	à	ADP	_	_	2	mod	_	Gloss=at
-4	Afir̃kà	Afir̃kà	PROPN	_	_	3	comp:obj	_	Gloss=Afir̃kà
+4	Afir̃kà	Afir̃kà	PROPN	_	_	3	comp:obj	_	Gloss=Africa
 
 # sent_id = Wasanni_a_Afirka__2
 # text = à yâu zaːmù soːmà shirìnmù dà làːbaːr̃ìn rìkicîn dà akèː yîː can Nàːjeːr̃iyàː gàme dà gudàːnar̃ dà wàːsan dambe.
@@ -62,7 +62,7 @@
 27	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	26	comp:obj	_	Gloss=Nigeria
 28	dà	dà	CCONJ	_	_	30	cc	_	_
 29	kuma	kuma	PART	_	_	28	discourse@top	_	_
-30	Afir̃kà	Afir̃kà	PROPN	_	_	27	conj:coord	_	Gloss=Afir̃kà
+30	Afir̃kà	Afir̃kà	PROPN	_	_	27	conj:coord	_	Gloss=Africa
 31	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	30	flat@name	_	_
 32	ɗaya	ɗaya	NUM	_	_	31	mod:num	_	SpaceAfter=No
 33	,	,	PUNCT	_	_	34	punct	_	Gloss=PUNCT
@@ -159,7 +159,7 @@
 20	amìnceː	amìnceː	VERB	_	_	19	comp:aux	_	_
 21	dà	dà	ADP	_	_	20	comp:obl	_	_
 22	ƙasar̃	ƙasar̃	ADJ	_	Definite=Cons|Gender=Fem	21	comp:obj	_	_
-23	Afir̃kà	Afir̃kà	PROPN	_	_	22	conj:appos	_	Gloss=Afir̃kà
+23	Afir̃kà	Afir̃kà	PROPN	_	_	22	conj:appos	_	Gloss=Africa
 24	ta	ta	ADP	_	_	23	mod	_	_
 25	Kudù	Kudù	PROPN	_	_	24	comp:obj	_	Gloss=Kudù|SpaceAfter=No
 26	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
@@ -203,9 +203,9 @@
 19	mài	mài	PART	_	Number=Sing|PartType=Der	18	mod	_	Gloss=possessor_of.Sing
 20	nasabàː	nasabàː	NOUN	_	Gender=Fem	19	comp:obj	_	_
 21	dà	dà	ADP	_	_	20	comp:obl	_	_
-22	Afir̃kà	Afir̃kà	PROPN	_	_	21	comp:obj	_	Gloss=Afir̃kà
+22	Afir̃kà	Afir̃kà	PROPN	_	_	21	comp:obj	_	Gloss=Africa
 23	ta	ta	ADP	_	_	22	mod	_	_
-24	Kudù	Kudù	PROPN	_	_	23	comp:obj	_	Gloss=Kudù
+24	Kudù	Kudù	PROPN	_	_	23	comp:obj	_	Gloss=South
 25	ba	ba	PART	_	Polarity=Neg	9	mod	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
@@ -364,7 +364,7 @@
 21	Lasisi	Lasisi	PROPN	_	_	19	mod	_	Gloss=Lasisi
 22	bàː	bàː	PART	_	Polarity=Neg	23	mod	_	_
 23	ɗan	ɗan	ADJ	_	Definite=Cons|Gender=Masc	28	compound:pred	_	_
-24	Afir̃kà	Afir̃kà	PROPN	_	_	23	compound	_	Gloss=Afir̃kà
+24	Afir̃kà	Afir̃kà	PROPN	_	_	23	compound	_	Gloss=Africa
 25	ta	ta	ADP	_	_	24	flat@name	_	_
 26	Kudù	Kudù	PROPN	_	_	25	flat@name	_	Gloss=Kudù
 27	ba	ba	PART	_	Polarity=Neg	23	mod	_	_
@@ -373,7 +373,7 @@
 30	kuma	kuma	CCONJ	_	_	32	cc	_	_
 31	bàː	bàː	PART	_	Polarity=Neg	32	mod	_	_
 32	à	à	ADP	_	_	28	conj:coord	_	Gloss=at
-33	Afir̃kà	Afir̃kà	PROPN	_	_	32	comp:obj	_	Gloss=Afir̃kà
+33	Afir̃kà	Afir̃kà	PROPN	_	_	32	comp:obj	_	Gloss=Africa
 34	ta	ta	ADP	_	_	33	flat@name	_	_
 35	Kudù	Kudù	PROPN	_	_	34	flat@name	_	Gloss=Kudù
 36	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	32	parataxis@conj	_	_
@@ -492,7 +492,7 @@
 11	Al-Merrekh	Al-Merrekh	PROPN	_	_	9	mod	_	Gloss=Al-Merrekh
 12	"	"	PUNCT	_	_	11	punct	_	Gloss=PUNCT|wordform='
 13	ta	ta	ADP	_	_	9	mod	_	_
-14	Sudân	Sudân	PROPN	_	Definite=Cons|Number=Plur	13	comp:obj	_	Gloss=Sudân
+14	Sudân	Sudân	PROPN	_	Definite=Cons|Number=Plur	13	comp:obj	_	Gloss=Sudan
 15	dà	dà	CCONJ	_	_	8	mod	_	_
 16	cîː	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:obj	_	_
 17	ɗaya	ɗaya	NUM	_	_	16	mod	_	_
@@ -505,7 +505,7 @@
 24	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = Wasanni_a_Afirka__15
-# text = ƙungìyar̃ " Asi Abengourou " ta Aːbir̃u Kwâs taː laːshè ƙungìyar̃ 'Patronage " ta Làːbeːr̃iyà dà cîː ukù dà ɗaya.
+# text = ƙungìyar̃ " Asi Abengourou " ta Aːbir̃u Kwâs taː laːshè ƙungìyar̃ " Patronage " ta Làːbeːr̃iyà dà cîː ukù dà ɗaya.
 # text_ortho = Ƙungìyar̃ 'Asi Abengourou' ta Aːbir̃u Kwâs taː laːshè ƙungìyar̃ 'Patronage' ta Làːbeːr̃iyà dà cîː ukù dà ɗaya.
 1	ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	9	subj	_	_
 2	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -513,8 +513,8 @@
 4	Abengourou	Abengourou	PROPN	_	Gender=Masc	3	flat@name	_	Gloss=Abengourou
 5	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT|wordform='
 6	ta	ta	ADP	_	_	3	mod	_	_
-7	Aːbir̃u	Aːbir̃u	PROPN	_	_	6	comp:obj	_	Gloss=Aːbir̃u
-8	Kwâs	Kwâs	PROPN	_	_	7	flat@name	_	Gloss=Kwâs
+7	Aːbir̃u	Aːbir̃u	PROPN	_	_	6	comp:obj	_	Gloss=Ivory
+8	Kwâs	Kwâs	PROPN	_	_	7	flat@name	_	Gloss=Coast
 9	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	_
 10	laːshè	laːs-	VERB	_	_	9	comp:aux	_	_
 11	ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	_
@@ -522,7 +522,7 @@
 13	Patronage	Patronage	PROPN	_	_	11	mod	_	Gloss=Patronage|wordform='Patronage
 14	"	"	PUNCT	_	_	13	punct	_	Gloss=PUNCT|wordform='
 15	ta	ta	ADP	_	_	11	mod	_	_
-16	Làːbeːr̃iyà	Làːbeːr̃iyà	PROPN	_	_	15	comp:obj	_	Gloss=Làːbeːr̃iyà
+16	Làːbeːr̃iyà	Làːbeːr̃iyà	PROPN	_	_	15	comp:obj	_	Gloss=Liberia
 17	dà	dà	CCONJ	_	_	10	comp:obl	_	_
 18	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	17	comp:obj	_	_
 19	ukù	ukù	NUM	_	_	18	comp:cleft	_	_
@@ -534,7 +534,7 @@
 # text = à Bàmaːkò kuma, ƙungìyar̃ " Stade Malien " ta ƙasar̃ Màːli taː laːshè ƙungìyar̃ " USKA " ta Àljeːr̃iyà dà cîː ɗaya dà bâː koː ɗaya.
 # text_ortho = À Bàmaːkò kuma, ƙungìyar̃ 'Stade Malien' ta ƙasar̃ Màːli taː laːshè ƙungìyar̃ 'USKA' ta Àljeːr̃iyà dà cîː ɗaya dà bâː koː ɗaya.
 1	à	à	ADP	_	_	13	mod	_	Gloss=at
-2	Bàmaːkò	Bàmaːkò	PROPN	_	_	1	comp:obj	_	Gloss=Bàmaːkò
+2	Bàmaːkò	Bàmaːkò	PROPN	_	_	1	comp:obj	_	Gloss=Bamako
 3	kuma	kuma	PART	_	_	1	discourse@top	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	13	subj	_	_
@@ -544,7 +544,7 @@
 9	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT|wordform='
 10	ta	ta	ADP	_	_	5	mod	_	_
 11	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	10	comp:obj	_	_
-12	Màːli	Màːli	PROPN	_	_	11	mod	_	Gloss=Màːli
+12	Màːli	Màːli	PROPN	_	_	11	mod	_	Gloss=Mali
 13	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	_
 14	laːshè	laːs-	VERB	_	_	13	comp:aux	_	_
 15	ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	14	comp:obj	_	_
@@ -552,7 +552,7 @@
 17	USKA	USKA	PROPN	_	_	15	mod	_	Gloss=USKA
 18	"	"	PUNCT	_	_	17	punct	_	Gloss=PUNCT|wordform='
 19	ta	ta	ADP	_	_	15	mod	_	_
-20	Àljeːr̃iyà	Àljeːr̃iyà	PROPN	_	_	19	comp:obj	_	Gloss=Àljeːr̃iyà
+20	Àljeːr̃iyà	Àljeːr̃iyà	PROPN	_	_	19	comp:obj	_	Gloss=Algeria
 21	dà	dà	CCONJ	_	_	14	comp:obl	_	_
 22	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	comp:obj	_	_
 23	ɗaya	ɗaya	NUM	_	_	22	mod	_	_
