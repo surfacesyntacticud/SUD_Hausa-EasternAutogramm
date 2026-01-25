@@ -2,7 +2,7 @@
 # text = Làːbàːr̃un wàːsànniː à Afir̃kà
 # text_ortho = Làːbàːr̃un wàːsànniː à Afir̃kà
 1	làːbàːr̃un	làːbàːr̃uː	NOUN	_	Definite=Cons	0	root	_	_
-2	wàːsànniː	wàːsànniː	NOUN	_	Definite=Ind	1	mod	_	_
+2	wàːsànniː	wàːsaː	NOUN	_	Definite=Ind|Number=Plur	1	mod	_	Gloss=game.Plur
 3	à	à	ADP	_	_	2	mod	_	Gloss=at
 4	Afir̃kà	Afir̃kà	PROPN	_	_	3	comp:obj	_	Gloss=Afir̃kà
 
@@ -255,7 +255,7 @@
 41	hakàn	hakàn	ADV	_	_	40	comp:obj	_	_
 42	dà	dà	ADP	_	_	40	comp:obl	_	_
 43	ministàn	ministàː	NOUN	_	Definite=Cons|Gender=Masc	42	comp:obj	_	_
-44	wàːsànniː	wàːsànniː	NOUN	_	Gender=Masc	43	mod	_	_
+44	wàːsànniː	wàːsaː	NOUN	_	Number=Plur	43	mod	_	Gloss=game.Plur
 45	na	na	ADP	_	_	44	mod	_	_
 46	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	45	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 47	.	.	PUNCT	_	_	22	punct	_	Gloss=PUNCT
@@ -393,7 +393,7 @@
 6	sâː	sâː	VERB	_	_	5	comp:aux	_	_
 7	màːsu	màːsu	ADP	_	Number=Plur	12	subj	_	_
 8	shà'awàr̃	shà'awàr̃	ADP	_	Definite=Ind|Gender=Fem	7	compound	_	_
-9	wàːsànniː	wàːsànniː	NOUN	_	Number=Plur	8	comp:obj	_	_
+9	wàːsànniː	wàːsaː	NOUN	_	Number=Plur	8	comp:obj	_	Gloss=game.Plur
 10	dà	dà	ADP	_	_	7	mod	_	_
 11	daːmaː	daːmaː	NOUN	_	Gender=Masc	10	comp:obj	_	_
 12	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	6	comp:obj	_	_
@@ -441,7 +441,7 @@
 2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	dislocated@subj	_	_
 3	maː	maː	PART	_	_	2	discourse@top	_	_
 4	Lasisi	Lasisi	PROPN	_	_	2	conj:appos	_	Gloss=Lasisi
-5	kânsà	kânsà	PRON	_	PronType=Dem	4	conj:appos	_	_
+5	kânsà	kânsà	PRON	_	Gender=Masc|Person=3|PronType=Prs|Reflex=Yes	4	mod	_	Gloss=3Masc.Reflex
 6	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	_
 7	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	_
 8	à	yà	AUX	_	Mood=Sub|Person=4	7	comp:obj	_	_
@@ -458,11 +458,11 @@
 2	yànzu	yànzu	ADV	_	_	4	mod	_	_
 3	kuma	kuma	PART	_	_	2	discourse@top	_	_
 4	gàː	gàː	PART	_	PartType=Pred	0	root	_	_
-5	wasu	wasu	DET	_	Definite=Spec|Number=Plur	4	subj	_	_
+5	wasu	wani	PRON	_	Definite=Spec|Number=Plur	4	subj	_	_
 6	dàgà	dàgà	ADP	_	_	5	mod	_	_
 7	sàːkàmakon	sàːkàmakoː	NOUN	_	Definite=Cons|Number=Plur	6	comp:obj	_	_
-8	wàːsànnîn	wàːsànniː	PRON	_	Case=Gen|Gender=Masc|Person=3	7	mod	_	_
-9	dà	dà	SCONJ	_	_	7	mod@relcl	_	_
+8	wàːsànnîn	wàːsaː	NOUN	_	Definite=Def|Number=Plur|Person=3	7	mod	_	Gloss=game.Plur.Def
+9	dà	dà	SCONJ	_	_	8	mod@relcl	_	_
 10	akà	nàː	AUX	_	Aspect=Prog|Person=4	9	comp:obj	_	_
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
 12	na	na	ADP	_	Case=Gen	7	mod	_	_
