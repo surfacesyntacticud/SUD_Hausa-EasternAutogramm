@@ -28,7 +28,7 @@
 13	dà	dà	SCONJ	_	_	9	mod@relcl	_	_
 14	kèː	nàː	AUX	_	Aspect=Prog	13	comp:obj	_	_
 15	Afir̃kà	Afir̃kà	PROPN	_	_	14	comp:pred	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	5	punct	_	_
+16	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__3
 # text = Tanàː cîː gàba dà shirìn baːyar̃ dà mulkìː gà farar̃-hùːlaː, kuma tanàː tàːƙamaː dà irìn abuːbuwàn dà ta yi danganèː dà kaːrè haƙƙìn ꞌyan ƙasâr̃.
@@ -42,7 +42,7 @@
 8	mulkìː	mulkìː	NOUN	_	Gender=Masc	7	comp:obj	_	_
 9	gà	gà	ADP	_	_	6	comp:obl	_	_
 10	farar̃-hùːlaː	farar̃-hùːlaː	NOUN	_	Definite=Ind	9	comp:obj	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	13	punct	_	_
+11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	kuma	kuma	CCONJ	_	_	13	cc	_	_
 13	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	1	conj:coord	_	_
 14	tàːƙamaː	tàːƙamaː	NOUN	_	Gender=Fem	13	comp:aux	_	_
@@ -58,7 +58,7 @@
 24	haƙƙìn	haƙƙìː	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	_
 25	ꞌyan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	24	mod	_	_
 26	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	25	compound	_	Gloss=country.Fem.PrevRef|SpaceAfter=No
-27	.	.	PUNCT	_	_	1	punct	_	_
+27	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__4
 # text = Àmmaː gàː shi taː ci gàba dà aikìː dà wata dòːkaː - wàːtòː Dòːkaː ta Biyu - waddà ta sâː ita gwamnatìn ta iyà tsarè mùtûm har̃ tsawon wàtànniː shidà bàː tàːre dà tùhumàr̃sà ba, in an zàrgeː shì dà yi wà tattalin ar̃zìkin ƙasaː maƙar̃ƙashìyaː, koː kuma yi wà tsàron ƙasaː bàràːzanaː.
@@ -73,12 +73,12 @@
 9	dà	dà	ADP	_	_	8	comp:obl	_	_
 10	wata	wata	DET	_	Gender=Fem	11	det	_	_
 11	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	9	comp:obj	_	_
-12	-	-	PUNCT	_	_	14	punct	_	_
+12	-	-	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 13	wàːtòː	wàːtòː	PART	_	_	14	discourse	_	Gloss=that_is
 14	Dòːkaː	Dòːkaː	PROPN	_	_	11	conj:appos	_	_
 15	ta	ta	ADP	_	_	14	mod	_	_
 16	Biyu	Biyu	PROPN	_	_	15	comp:obj	_	_
-17	-	-	PUNCT	_	_	14	punct	_	_
+17	-	-	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 18	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	19	subj	_	_
 19	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	14	mod@relcl	_	_
 20	sâː	sâː	VERB	_	_	19	comp:aux	_	_
@@ -97,7 +97,7 @@
 33	dà	dà	ADP	_	_	32	compound	_	InIdiom=Yes
 34	tùhumàr̃sà	tuhum-	VERB	_	Definite=Cons|Gender=Fem|VerbForm=Vnoun	32	comp:obj	_	Gloss=charge
 35	ba	ba	PART	_	Polarity=Neg	32	mod	_	SpaceAfter=No
-36	,	,	PUNCT	_	_	37	punct	_	_
+36	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
 37	in	in	SCONJ	_	_	24	mod	_	_
 38	an	yaː	AUX	_	Aspect=Perf|Person=4	37	comp:obj	_	_
 39	zàrgeː	zarg-	VERB	_	_	38	comp:aux	_	_
@@ -109,7 +109,7 @@
 45	ar̃zìkin	ar̃zìkiː	NOUN	_	Definite=Cons|Gender=Masc	44	mod	_	_
 46	ƙasaː	ƙasaː	NOUN	_	Definite=Ind|Gender=Fem	45	mod	_	_
 47	maƙar̃ƙashìyaː	maƙar̃ƙashìyaː	NOUN	_	Definite=Ind|Gender=Fem	42	comp:pred	_	SpaceAfter=No
-48	,	,	PUNCT	_	_	51	punct	_	_
+48	,	,	PUNCT	_	_	51	punct	_	Gloss=PUNCT
 49	koː	koː	CCONJ	_	_	51	cc	_	_
 50	kuma	kuma	PART	_	_	49	discourse@top	_	_
 51	yi	yi	VERB	_	_	42	conj:coord	_	Gloss=do
@@ -117,7 +117,7 @@
 53	tsàron	tsàroː	NOUN	_	Definite=Cons|Gender=Masc	52	comp:obj	_	_
 54	ƙasaː	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	53	mod	_	_
 55	bàràːzanaː	bàràːzanaː	NOUN	_	Gender=Fem	51	comp:pred	_	SpaceAfter=No
-56	.	.	PUNCT	_	_	4	punct	_	_
+56	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__5
 # text = Tanàː kuma dà iːkòn cîː gàba dà tsarè mùtumìn har̃ sai illaː maː shaː Àllaːhù.
@@ -136,7 +136,7 @@
 13	maː	maː	PART	_	_	12	discourse@top	_	_
 14	shaː	shaː	X	_	ExtPos=ADV	12	flat@foreign	_	Idiom=Yes
 15	Àllaːhù	Àllaːhù	PROPN	_	_	14	flat@foreign	_	InIdiom=Yes|SpaceAfter=No
-16	.	.	PUNCT	_	_	1	punct	_	_
+16	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__6
 # text = Ìdan kuma akà tsarèː mùtûm bìsàː wannàn Dòːkaː ta Biyu, tòː baːbù wata koːtù à Nàːjeːr̃iyàː dà zaːtà sâː bàːkiː.
@@ -150,7 +150,7 @@
 8	Dòːkaː	Dòːkaː	PROPN	_	_	6	comp:obj	_	_
 9	ta	ta	ADP	_	_	8	mod	_	_
 10	Biyu	biyu	NUM	_	_	9	comp:obj	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	1	punct	_	_
+11	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 12	tòː	tòː	INTJ	_	_	13	discourse	_	_
 13	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 14	wata	wani	DET	_	Gender=Fem	15	det	_	_
@@ -161,20 +161,20 @@
 19	zaːtà	zâi	AUX	_	Gender=Fem|Person=3|Tense=Fut	18	comp:obj	_	_
 20	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc	19	comp:aux	_	_
 21	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	20	comp:obj	_	SpaceAfter=No
-22	.	.	PUNCT	_	_	13	punct	_	_
+22	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__7
 # text = Wani shàhàr̃ar̃r̃en lauyàː – " Chief Gani Fawehinmi" – an tsarèː shi à Nàːjeːr̃iyàː har̃ tsawon wàtànniː ukù ƙàr̃ƙashin wannàn dòːkaː ta tsàron laːfiyar̃ ƙasaː, kuma bàː tàːre dà wata àlaːmàː zaː'à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː ba.
 1	Wani	wani	DET	_	Number=Plur|PronType=Dem	3	det	_	_
 2	shàhàr̃ar̃r̃en	shàhàr̃ar̃r̃eː	ADJ	_	Definite=Cons|Number=Plur	3	mod	_	_
 3	lauyàː	lauyàː	NOUN	_	Gender=Fem	11	dislocated@comp	_	_
-4	–	–	PUNCT	_	_	7	punct	_	_
-5	"	"	PUNCT	_	_	7	punct	_	_
+4	–	–	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+5	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 6	Chief	Chief	PROPN	_	_	7	mod@desc	_	_
 7	Gani	Gani	PROPN	_	_	3	conj:appos	_	_
 8	Fawehinmi	Fawehinmi	PROPN	_	_	7	flat@name	_	SpaceAfter=No
-9	"	"	PUNCT	_	_	7	punct	_	_
-10	–	–	PUNCT	_	_	7	punct	_	_
+9	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+10	–	–	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 11	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	_
 12	tsarèː	tsar-	VERB	_	_	11	comp:aux	_	_
 13	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	12	comp:obj	_	_
@@ -191,7 +191,7 @@
 24	tsàron	tsar-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	23	comp:obj	_	_
 25	laːfiyar̃	laːfiyaː	NOUN	_	Definite=Cons|Gender=Fem	24	mod	_	_
 26	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	25	mod	_	SpaceAfter=No
-27	,	,	PUNCT	_	_	30	punct	_	_
+27	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 28	kuma	kuma	CCONJ	_	_	30	cc	_	_
 29	bàː	bàː	PART	_	Polarity=Neg	30	mod	_	_
 30	tàːre	tàːre	ADV	_	_	11	mod	_	_
@@ -206,16 +206,16 @@
 39	gàban	gàban	ADP	_	_	38	comp:obj	_	_
 40	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Definite=Ind|Gender=Fem	39	comp:obj	_	_
 41	ba	ba	PART	_	Polarity=Neg	30	mod	_	SpaceAfter=No
-42	.	.	PUNCT	_	_	11	punct	_	_
+42	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__8-9
 # text = Chief Gani Fawehinmi ( G.F. ) yaː faɗìː yâu cêːwaː yànzu hukuːmoːmin ƙasâr̃ sunàː shirìn gur̃faːnar̃ dà shiː à gàban wata koːtù ta mùsammàn tàːre dà zàrginsà dà lâifin yîn ƙafàr̃ àngùlu à shirìn miːƙà mulkìː gà farar̃-hùːlaː dàgà hannun soːjoːjiː.
 1	Chief	Chief	PROPN	_	_	2	mod@desc	_	Gloss=Chief
 2	Gani	Gani	VERB	_	_	7	subj	_	_
 3	Fawehinmi	Fawehinmi	PROPN	_	_	2	flat@name	_	_
-4	(	(	PUNCT	_	_	5	punct	_	_
+4	(	(	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	G.F.	G.f.	PROPN	_	_	2	conj:appos	_	_
-6	)	)	PUNCT	_	_	5	punct	_	_
+6	)	)	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 7	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 8	faɗìː	faɗ-	VERB	_	_	7	comp:aux	_	_
 9	yâu	yâu	ADV	_	_	8	mod	_	_
@@ -251,7 +251,7 @@
 39	dàgà	dàgà	ADP	_	_	35	comp:obl	_	_
 40	hannun	hannuː	NOUN	_	Definite=Cons	39	comp:obj	_	_
 41	soːjoːjiː	soːjoːjiː	NOUN	_	Gender=Masc	40	mod	_	SpaceAfter=No
-42	.	.	PUNCT	_	_	7	punct	_	_
+42	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__10-12
 # text = Wannàn lâifîn dà akèː zàrgin Chief G.F. dà shiː, ìn ji lauyàn naːsà, yaː shàːfi wata takàr̃daː cèː waddà shiː Chief G.F. ya r̃ubùːtaː à cikin wata mùjallàː ta màːsu r̃aꞌàyin canjìː à cikin watàn Maːyù.
@@ -264,12 +264,12 @@
 7	G.F.	G.f.	PROPN	_	_	5	comp:obj	_	_
 8	dà	dà	ADP	_	_	5	comp:obl	_	_
 9	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	comp:obj	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	2	punct	_	_
+10	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 11	ìn	yà	AUX	_	Mood=Sub|Person=1	16	discourse	_	_
 12	ji	ji	VERB	_	_	11	comp:aux	_	_
 13	lauyàn	lauyàː	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	_
 14	naːsà	naːsà	PRON	_	_	13	mod	_	SpaceAfter=No
-15	,	,	PUNCT	_	_	16	punct	_	_
+15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 17	shàːfi	shaf-	VERB	_	_	16	comp:aux	_	_
 18	wata	wata	DET	_	Gender=Fem	19	det	_	_
@@ -293,7 +293,7 @@
 36	cikin	cikin	ADP	_	_	35	comp:obj	_	_
 37	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	36	comp:obj	_	_
 38	Maːyù	Maːyù	PROPN	_	_	37	compound	_	SpaceAfter=No
-39	.	.	PUNCT	_	_	16	punct	_	_
+39	.	.	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__13
 # text = À cikintà kuma yaː sòːki manufar̃ tattalin ar̃zìkin Gwamnatì, yanàː cêːwaː tanàː ta laːlàːtà haːlin ràːyuwar̃ maꞌàikàtan Nàːjeːr̃iyàː.
@@ -306,7 +306,7 @@
 7	tattalin	tattaliː	NOUN	_	Definite=Cons|Gender=Masc	6	mod	_	_
 8	ar̃zìkin	ar̃zìkiː	NOUN	_	Definite=Cons|Gender=Masc	7	mod	_	_
 9	Gwamnatì	Gwamnatì	PROPN	_	_	8	mod	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	11	punct	_	_
+10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 11	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	4	parataxis@conj	_	_
 12	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem	11	comp:aux	_	_
 13	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	12	comp:obj	_	_
@@ -316,7 +316,7 @@
 17	ràːyuwar̃	ràːyuwaː	VERB	_	Definite=Cons|Gender=Fem	16	mod	_	_
 18	maꞌàikàtan	maꞌàikàtaː	NOUN	_	Definite=Cons|Number=Plur	17	mod	_	_
 19	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	18	mod	_	SpaceAfter=No
-20	.	.	PUNCT	_	_	4	punct	_	_
+20	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__14-5
 # text = Lauyànsà yaː ƙaːràː dà cêːwaː ìdan har̃ akà sàːmi Chief G.F. dà wannàn lâifiː, tòː zâi iyà saːmùn ɗaurìn har̃ shèːkaràː bìyar̃ à gidan yaːrìː.
@@ -334,7 +334,7 @@
 12	dà	dà	CCONJ	_	_	9	comp:obl	_	_
 13	wannàn	wannàn	DET	_	PronType=Dem	14	det	_	_
 14	lâifiː	lâifiː	NOUN	_	Gender=Masc	12	comp:obj	_	SpaceAfter=No
-15	,	,	PUNCT	_	_	17	punct	_	_
+15	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 16	tòː	tòː	INTJ	_	_	17	discourse	_	_
 17	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	5	comp:obj	_	_
 18	iyà	iy-	VERB	_	_	17	comp:aux	_	_
@@ -346,7 +346,7 @@
 24	à	à	ADP	_	_	20	comp:obl	_	Gloss=at
 25	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	24	comp:obj	_	_
 26	yaːrìː	yaːrìː	NOUN	_	Gender=Masc	25	mod	_	SpaceAfter=No
-27	.	.	PUNCT	_	_	2	punct	_	_
+27	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__16
 # text = Tun dà daɗèːwaː nèː Chief G.F. ya zama ƙayàː gà gwamnatoːcin Nàːjeːr̃iyàː .
@@ -362,7 +362,7 @@
 10	gà	gà	ADP	_	_	8	comp:obl	_	_
 11	gwamnatoːcin	gwamnatoːciː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	_
 12	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	11	mod	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	7	punct	_	_
+13	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__17
 # text = Yaː fitoː à kaːnun làːbàːr̃ai nèː à shèːkaràr̃ alìf dà ɗàːriː tar̃à dà sìttin dà tar̃à loːkàcîn dà ya kaːrè wani leːbùr̃à dà akèː yîn zàrgin cêːwa wani jaːmìꞌin gwamnatì yaː yi wà màːtar̃sà fyàːɗeː.
@@ -401,7 +401,7 @@
 33	wà	wà	ADP	_	Case=Dat	32	comp:obl	_	_
 34	màːtar̃sà	màːtar̃ː	NOUN	_	Definite=Ind|Gender=Fem	33	comp:obj	_	_
 35	fyàːɗeː	fyàːɗeː	NOUN	_	Gender=Masc	32	comp:pred	_	SpaceAfter=No
-36	.	.	PUNCT	_	_	1	punct	_	_
+36	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__18
 # text = Dàgà wannàn loːkàciː kùwa ya cèː yaː yi niyyàr̃ cîː gàba dà tabbatar̃ dà ꞌyancìn ɗan Adàm gà jàmaꞌàr̃ Nàːjeːr̃iyàː maràsaː ƙarfiː.
@@ -427,7 +427,7 @@
 20	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	19	mod	_	_
 21	maràsaː	mài	PART	_	Number=Plur|PartType=Der	19	mod	_	Gloss=lacking.Plur
 22	ƙarfiː	ƙarfiː	NOUN	_	Gender=Masc	21	comp:obj	_	SpaceAfter=No
-23	.	.	PUNCT	_	_	5	punct	_	_
+23	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__19-20
 # text = Wannàn yaːƙìn dà Chief G.F. kèː yîː dà hukuːmoːmiː yaː yi sànàdiyyàr̃ zuwànsà koːtù har̃ kìːmaːnìn sàu tàlàːtin dà bìyar̃.
@@ -451,17 +451,17 @@
 18	tàlàːtin	tàlàːtin	NUM	_	_	17	mod:num	_	_
 19	dà	dà	CCONJ	_	_	20	cc	_	_
 20	bìyar̃	bìyar̃	NUM	_	_	18	conj:coord	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	10	punct	_	_
+21	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__21
-# text = Zuwànsà koːtùn dà ya fi koːwànneː muhimmancìː shiː nèː neːman yà ga an ɗaurè wasu jàːmìꞌan tsàron ƙasar̃ Nàːjeːr̃iyàː biyu waɗàndà akà zàrgaː dà lâifin kashè Dele Giwa , wàːtòː dan jàr̃iːdàr̃ nan dà ya rasà rânsà dàliːlìn wani bâm dà akà aikoː masà ta cikin wàsiːƙàː tun shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà .
-1	Zuwànsà	zuwànsà	ADP	_	_	9	dislocated@comp	_	_
-2	koːtùn	koːtùn	NOUN	_	_	1	mod	_	_
-3	dà	dà	SCONJ	_	_	2	mod@relcl	_	_
+# text = Zuwànsà koːtùn dà ya fi koːwànneː muhimmancìː shiː nèː neːman yà ga an ɗaurè wasu jàːmìꞌan tsàron ƙasar̃ Nàːjeːr̃iyàː biyu waɗàndà akà zàrgaː dà lâifin kashè Dele Giwa, wàːtòː ɗan jàr̃iːdàr̃ nan dà ya rasà rânsà dàliːlìn wani bâm dà akà aikoː masà ta cikin wàsiːƙàː tun shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà.
+1	Zuwànsà	zoː	VERB	_	_	9	dislocated@comp	_	_
+2	koːtùn	koːtùn	NOUN	_	_	1	comp:obj@G	_	_
+3	dà	dà	SCONJ	_	_	1	mod@relcl	_	_
 4	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	comp:obj	_	_
 5	fi	fi	VERB	_	_	4	comp:aux	_	_
 6	koːwànneː	koːwànneː	PRON	_	Gender=Masc|PronType=Int	5	comp:obj	_	_
-7	muhimmancìː	muhimmancìː	NOUN	_	Gender=Masc	5	comp:obj	_	_
+7	muhimmancìː	muhimmancìː	NOUN	_	Gender=Masc	5	mod	_	_
 8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	_
 9	nèː	neː	PART	_	Gender=Masc|Number=Plur	0	root	_	_
 10	neːman	neːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	dislocated@subj	_	_
@@ -474,45 +474,45 @@
 17	tsàron	tsàron	NOUN	_	Definite=Cons|Gender=Masc	16	mod	_	_
 18	ƙasar̃	ƙasaː	NOUN	_	_	17	mod	_	_
 19	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	18	mod	_	_
-20	biyu	biyu	NUM	_	_	18	det	_	_
+20	biyu	biyu	NUM	_	_	16	mod:num	_	_
 21	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	23	comp:obj	_	_
 22	akà	nàː	AUX	_	Aspect=Prog|Person=4	16	mod@relcl	_	_
-23	zàrgaː	zàrgaː	NOUN	_	Gender=Fem	13	comp:aux	_	_
+23	zàrgaː	zàrgaː	NOUN	_	Gender=Fem	22	comp:aux	_	_
 24	dà	dà	ADP	_	_	23	comp:obl	_	_
 25	lâifin	lâifiː	NOUN	_	Definite=Cons|Gender=Masc	24	comp:obj	_	_
 26	kashè	ka-	VERB	_	_	25	mod	_	_
 27	Dele	Dele	PROPN	_	_	26	comp:obj	_	_
 28	Giwa	Giwa	PROPN	_	_	27	flat@name	_	SpaceAfter=No
-29	,	,	PUNCT	_	_	40	punct	_	_
-30	wàːtòː	wàːtòː	PART	_	_	40	discourse	_	Gloss=that_is
-31	ɗan	ɗan	ADJ	_	Definite=Cons|Gender=Masc	16	mod	_	wordform=dan
+29	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
+30	wàːtòː	wàːtòː	PART	_	_	31	discourse	_	Gloss=that_is
+31	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	27	conj:appos	_	wordform=dan
 32	jàr̃iːdàr̃	jàr̃iːdàː	NOUN	_	Definite=Ind|Gender=Fem	31	compound	_	_
-33	nan	nan	DET	_	Definite=Def|PronType=Dem	32	det	_	_
-34	dà	dà	SCONJ	_	_	32	mod@relcl	_	_
+33	nan	nan	DET	_	Definite=Def|PronType=Dem	31	det	_	_
+34	dà	dà	SCONJ	_	_	31	mod@relcl	_	_
 35	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	34	comp:obj	_	_
 36	rasà	rasàː	VERB	_	_	35	comp:aux	_	_
 37	rânsà	râi	NOUN	_	Gender=Fem	36	comp:obj	_	_
-38	dàliːlìn	dàliːlìː	NOUN	_	Definite=Cons|Gender=Masc	36	comp:obj	_	_
-39	wani	wani	DET	_	Definite=Spec|Gender=Masc	38	det	_	_
-40	bâm	nà	AUX	_	Aspect=Perf|Number=Plur|Person=1|Polarity=Neg	23	mod@relcl	_	_
+38	dàliːlìn	dàliːlìː	ADP	_	Definite=Cons|Gender=Masc	36	mod	_	_
+39	wani	wani	DET	_	Definite=Spec|Gender=Masc	40	det	_	_
+40	bâm	nà	AUX	_	Aspect=Perf|Number=Plur|Person=1|Polarity=Neg	38	comp:obj	_	_
 41	dà	dà	SCONJ	_	_	40	mod@relcl	_	_
 42	akà	nàː	AUX	_	Aspect=Prog|Person=4	41	comp:obj	_	_
 43	aikoː	aik-	VERB	_	_	42	comp:aux	_	_
 44	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	43	comp:obl	_	_
-45	ta	ta	ADP	_	Gender=Fem|Person=3	43	comp:obj@T	_	_
+45	ta	ta	ADP	_	Gender=Fem|Person=3	43	mod	_	_
 46	cikin	cikin	ADP	_	_	45	comp:obj	_	_
 47	wàsiːƙàː	wàsiːƙàː	NOUN	_	Gender=Fem	46	comp:obj	_	_
-48	tun	tun	ADP	_	_	36	mod	_	_
+48	tun	tun	ADP	_	_	43	mod	_	_
 49	shèːkaràr̃	shèːkaràː	NOUN	_	_	48	comp:obj	_	_
-50	alìf	alìf	NOUN	_	_	18	mod	_	_
+50	alìf	alìf	NOUN	_	_	49	mod	_	_
 51	dà	dà	CCONJ	_	_	52	cc	_	_
-52	ɗàriː	ɗàriː	NOUN	_	_	18	conj:coord	_	_
+52	ɗàriː	ɗàriː	NOUN	_	_	50	conj:coord	_	_
 53	tar̃à	tar̃à	NUM	_	_	52	mod:num	_	_
 54	dà	dà	CCONJ	_	_	55	cc	_	_
 55	tàmàːnin	tàmàːniː	NUM	_	Definite=Cons|Gender=Masc	52	conj:coord	_	_
 56	dà	dà	CCONJ	_	_	57	cc	_	_
 57	shidà	shidà	ADV	_	_	55	conj:coord	_	SpaceAfter=No
-58	.	.	PUNCT	_	_	9	punct	_	_
+58	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__23
 # text = An kaːmè Chief G.F. neː à watàn Yuːnì, wàːtòː loːkàcîn dà yakè cikin shirìn wani tàːroː indà ya yi wà tsaːrìn tattalin ar̃zìkin ƙasar̃ Nàːjeːr̃iyàː tatas.
@@ -524,7 +524,7 @@
 6	à	à	ADP	_	_	2	comp:obl	_	Gloss=at
 7	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	6	comp:obj	_	_
 8	Yuːnì	Yuːnì	PROPN	_	_	7	mod	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	11	punct	_	_
+9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 10	wàːtòː	wàːtòː	PART	_	_	11	discourse	_	Gloss=that_is
 11	loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	1	mod	_	_
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	_
@@ -543,7 +543,7 @@
 25	ƙasar̃	ƙasaː	NOUN	_	_	24	mod	_	_
 26	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	25	mod	_	_
 27	tatas	natas	ADV	_	Gender=Fem|Person=3	24	mod@relcl	_	SpaceAfter=No
-28	.	.	PUNCT	_	_	1	punct	_	_
+28	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__24
 # text = Kaːmèː shîn kùwa yaː jaːwoː suːkàː sòːsai, kuma an yi kiràː gà Gwamnatì dà tà dainà àmfàːniː dà Dòːkâr̃ nan ta Biyu.
@@ -554,7 +554,7 @@
 5	jaːwoː	jaːwoː	VERB	_	_	4	comp:aux	_	_
 6	suːkàː	suːkàː	NOUN	_	Gender=Masc	5	comp:obj	_	_
 7	sòːsai	sòːsai	ADV	_	_	5	mod	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	10	punct	_	_
+8	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 9	kuma	kuma	CCONJ	_	_	10	cc	_	_
 10	an	yaː	AUX	_	Aspect=Perf|Person=4	4	conj:coord	_	_
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
@@ -570,7 +570,7 @@
 21	nan	nan	DET	_	PronType=Dem	20	det	_	_
 22	ta	ta	ADP	_	_	20	mod	_	_
 23	Biyu	Biyu	PROPN	_	_	22	comp:obj	_	SpaceAfter=No
-24	.	.	PUNCT	_	_	4	punct	_	_
+24	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__25-6
 # text = Baːbù shakkàː Gwamnatìn Nàːjeːr̃iyàː tanàː shân suːkàː sòsai, koː tà gur̃fanar̃ dà Chief G.F. à gàban shàr̃iꞌàː, koː kùwa tà sàkeː shì.
@@ -582,7 +582,7 @@
 6	shân	shâː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	5	comp:aux	_	_
 7	suːkàː	suːkàː	NOUN	_	Gender=Fem	6	udep	_	_
 8	sòsai	sòsai	ADV	_	_	6	mod	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	11	punct	_	_
+9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 10	koː	koː	CCONJ	_	_	11	cc	_	_
 11	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	5	conj:coord	_	_
 12	gur̃fanar̃	gur̃fanar̃	VERB	_	_	11	comp:aux	_	_
@@ -592,11 +592,11 @@
 16	à	à	ADP	_	_	12	comp:obl	_	Gloss=at
 17	gàban	gàban	ADP	_	_	16	comp:obj	_	_
 18	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Definite=Ind|Gender=Fem	17	comp:obj	_	SpaceAfter=No
-19	,	,	PUNCT	_	_	22	punct	_	_
+19	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 20	koː	koː	CCONJ	_	_	22	cc	_	_
 21	kùwa	kùwa	PART	_	_	20	discourse@top	_	_
 22	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	11	conj:coord	_	_
 23	sàkeː	sàkaː	VERB	_	_	22	comp:aux	_	_
 24	shì	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	23	comp:obj	_	SpaceAfter=No
-25	.	.	PUNCT	_	_	5	punct	_	_
+25	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
