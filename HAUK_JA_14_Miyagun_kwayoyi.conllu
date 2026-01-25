@@ -538,10 +538,10 @@
 20	shàr̃i'àr̃	shàr̃i'àː	NOUN	_	Definite=Ind|Gender=Fem	19	mod	_	wordform=shar̃i'aːr
 21	wata	wata	DET	_	Gender=Fem	22	det	_	_
 22	màːtaː	màːtaː	NOUN	_	Gender=Fem	14	subj	_	_
-23	mài	mài	PART	_	Number=Sing	22	mod	_	_
+23	mài	mài	PART	_	Number=Sing|PartType=Der	22	mod	_	Gloss=possessor_of.Sing
 24	suːnaː	suːnaː	NOUN	_	Case=Gen|Number=Sing|Person=1	23	comp:obj	_	_
 25	"	"	PUNCT	_	_	26	punct	_	_
-26	Jennifer	Jennifer	PROPN	_	_	24	mod	_	_
+26	Jennifer	Jennifer	PROPN	_	_	24	comp:pred	_	_
 27	Madike	Madike	PROPN	_	_	26	flat@name	_	_
 28	"	"	PUNCT	_	_	26	punct	_	_
 29	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	31	comp:obj	_	_
@@ -594,7 +594,7 @@
 31	kuma	kuma	PART	_	_	30	discourse@top	_	_
 32	sakoː	sakoː	VERB	_	_	20	conj:coord	_	_
 33	wani	wani	DET	_	Definite=Spec|Gender=Masc	32	subj	_	_
-34	mài	mài	PART	_	Number=Sing	33	mod	_	_
+34	mài	mài	PART	_	Number=Sing|PartType=Der	33	mod	_	Gloss=possessor_of.Sing
 35	fataucìn	fataucìː	NOUN	_	Definite=Cons|Gender=Masc	34	comp:obj	_	_
 36	miyàːgun	miyàːguː	NOUN	_	Definite=Cons|Number=Plur	35	mod	_	_
 37	ƙwaːyoːyîn	ƙwaːyoːyiː	NOUN	_	Definite=Cons|Gender=Masc	36	mod	_	_

@@ -166,10 +166,10 @@
 10	ɗaukoː	ɗauk-	VERB	_	_	9	comp:aux	_	_
 11	wani	wani	DET	_	Definite=Spec|Gender=Masc	12	det	_	_
 12	fàr̃feːsàː	fàr̃feːsàː	NOUN	_	Definite=Ind	10	comp:obj	_	_
-13	mài	mài	PART	_	Number=Sing	12	mod	_	_
-14	suːnaː	suːnaː	NOUN	_	Case=Gen|Number=Sing|Person=1	13	compound	_	_
+13	mài	mài	PART	_	Number=Sing|PartType=Der	12	mod	_	Gloss=possessor_of.Sing
+14	suːnaː	suːnaː	NOUN	_	Case=Gen|Number=Sing|Person=1	13	comp:obj	_	_
 15	"	"	PUNCT	_	_	16	punct	_	_
-16	Hitoshi	Hitoshi	PROPN	_	_	14	mod	_	_
+16	Hitoshi	Hitoshi	PROPN	_	_	14	comp:pred	_	_
 17	Igarashi	Igarashi	PROPN	_	_	16	flat@name	_	SpaceAfter=No
 18	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	_

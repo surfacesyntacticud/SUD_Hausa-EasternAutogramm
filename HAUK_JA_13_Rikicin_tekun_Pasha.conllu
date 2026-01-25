@@ -220,7 +220,7 @@
 # sent_id = 13_Rikicin_tekun_Pasha__7a
 # text = Wani mài màganàː dà yaːwun Sarkin Mùsùlmiː yaː jaddàːdà cêːwaː nuːnà ƙîn jinin Amìr̃kà à Nàːjeːr̃iyàː r̃a'àyin wasu 'yan tsìràːruː nèː , kuma shùːgàbànnin mùsùlmiː sunàː hàƙuriː dà suː nèː kawài sabòːdà 'yancin dà akèː dà shiː à ƙasâr̃ na fàɗar̃ r̃a'àyiː .
 1	Wani	waeː	PROPN	_	Number=Plur|PronType=Dem	8	subj	_	_
-2	mài	mài	ADP	_	Number=Sing	1	mod	_	_
+2	mài	mài	PART	_	Number=Sing|PartType=Der	1	mod	_	Gloss=possessor_of.Sing
 3	màganàː	màganàː	NOUN	_	Gender=Fem	2	comp:obj	_	_
 4	dà	dà	ADP	_	_	3	comp:obl	_	wordform=da
 5	yaːwun	yaːwuː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	_

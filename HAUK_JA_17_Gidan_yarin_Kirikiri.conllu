@@ -26,7 +26,7 @@
 18	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	33	mod	_	_
 19	kûr̃kukùn	kûr̃kukùː	NOUN	_	Definite=Cons|Gender=Masc	18	mod	_	_
 20	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	19	mod	_	_
-21	mài	mài	PART	_	Gender=Masc	18	mod	_	_
+21	mài	mài	PART	_	Gender=Masc|Number=Sing|PartType=Der	18	mod	_	Gloss=possessor_of.Sing
 22	tsauràːran	tsauràːraː	NOUN	_	Definite=Cons|Number=Plur	21	comp:obj	_	_
 23	màtàːkan	màtàːkaː	NOUN	_	Definite=Cons|Number=Plur	22	mod	_	_
 24	tsàr̃oː	tsàr̃oː	NOUN	_	Gender=Masc	23	mod	_	SpaceAfter=No|wordform=tsar
@@ -465,7 +465,7 @@
 44	tàːre	tàːre	ADV	_	_	47	mod	_	_
 45	dà	dà	ADP	_	_	46	cc	_	_
 46	zàzzàɓiː	zàzzàɓiː	NOUN	_	Gender=Masc	37	conj:coord	_	_
-47	mài	mài	ADP	_	Gender=Masc	46	mod	_	_
+47	mài	mài	PART	_	Gender=Masc|Number=Sing|PartType=Der	46	mod	_	Gloss=possessor_of.Sing
 48	tsananiː	tsananiː	NOUN	_	Definite=Ind	47	comp:obj	_	_
 49	dàː	dàː	CCONJ	_	_	50	cc	_	_
 50	sauran	sauraː	NOUN	_	Definite=Cons	46	conj:coord	_	_

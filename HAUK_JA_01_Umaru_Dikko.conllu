@@ -331,7 +331,7 @@
 4	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	3	comp:obl	_	_
 5	hukuncìn	hukuncìː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	_
 6	daurìː	daurìː	NOUN	_	Gender=Masc	5	mod	_	_
-7	mài	mài	PART	_	Number=Sing	5	mod	_	_
+7	mài	mài	PART	_	Number=Sing|PartType=Der	5	mod	_	Gloss=possessor_of.Sing
 8	tsawoː	tsawoː	NOUN	_	Gender=Masc	7	comp:obj	_	_
 9	à	à	ADP	_	_	3	mod	_	Gloss=at
 10	kûr̃kukùː	kûr̃kukùː	NOUN	_	Gender=Masc	9	comp:obj	_	SpaceAfter=No
@@ -344,7 +344,7 @@
 2	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	_
 3	shàr̃iꞌàr̃	shàr̃iꞌàː	NOUN	_	Case=Gen|Gender=Masc|Person=3	2	mod	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	_
-5	mài	mài	ADP	_	Number=Sing	7	subj	_	_
+5	mài	mài	PART	_	Number=Sing|PartType=Der	7	subj	_	Gloss=possessor_of.Sing
 6	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Gender=Masc	5	comp:obj	_	_
 7	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 8	cêː	cêː	VERB	_	_	7	comp:aux	_	_

@@ -5,7 +5,7 @@
 3	dà	dà	ADP	_	_	2	comp:obl	_	_
 4	wani	wani	DET	_	Definite=Spec|Gender=Masc	5	det	_	_
 5	lauyàː	lauyàː	NOUN	_	Definite=Ind	3	comp:obj	_	_
-6	mài	mài	PART	_	Number=Sing	5	mod	_	_
+6	mài	mài	PART	_	Number=Sing|PartType=Der	5	mod	_	Gloss=possessor_of.Sing
 7	r̃aꞌàyin	r̃aꞌàyiː	NOUN	_	Definite=Cons|Number=Plur	6	comp:obj	_	_
 8	canjìː	canjìː	NOUN	_	Definite=Ind	7	mod	_	_
 9	à	à	ADP	_	_	2	mod	_	Gloss=at
@@ -425,7 +425,7 @@
 18	gà	gà	ADP	_	_	13	comp:obl	_	_
 19	jàmaꞌàr̃	jàmaꞌàː	NOUN	_	Definite=Cons|Number=Plur	18	comp:obj	_	_
 20	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	19	mod	_	_
-21	maràsaː	maràsaː	PART	_	Number=Plur	19	mod	_	_
+21	maràsaː	mài	PART	_	Number=Plur|PartType=Der	19	mod	_	Gloss=lacking.Plur
 22	ƙarfiː	ƙarfiː	NOUN	_	Gender=Masc	21	comp:obj	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	5	punct	_	_
 

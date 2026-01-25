@@ -140,7 +140,7 @@
 15	kafà	kaf-	VERB	_	_	14	comp:aux	_	_
 16	tafarkìn	tafarkìː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	_
 17	sìyaːsàː	sìyaːsàː	NOUN	_	Gender=Fem	16	mod	_	_
-18	mài	mài	PART	_	Number=Sing	16	mod	_	_
+18	mài	mài	PART	_	Number=Sing|PartType=Der	16	mod	_	Gloss=possessor_of.Sing
 19	jàm'ìyyuː	jàm'ìyyuː	NOUN	_	Number=Plur	18	comp:obj	_	_
 20	dà	dà	ADP	_	_	16	mod	_	_
 21	daːmaː	daːmaː	NOUN	_	Gender=Masc	20	comp:obj	_	_
@@ -351,7 +351,7 @@
 31	daːmar̃	daːmaː	NOUN	_	Gender=Fem	30	comp:obj	_	_
 32	kafà	kafà	AUX	_	Aspect=Perf|Gender=Masc|Person=2	31	mod	_	_
 33	tsaːrìː	tsaːrìː	NOUN	_	Gender=Masc	32	comp:aux	_	_
-34	mài	mài	ADP	_	Number=Sing	33	mod	_	_
+34	mài	mài	PART	_	Number=Sing|PartType=Der	33	mod	_	Gloss=possessor_of.Sing
 35	jàm'ìyyuː	jàm'aː	NOUN	_	Number=Plur	34	comp:obj	_	_
 36	dà	dà	ADP	_	_	33	comp:obl	_	_
 37	daːmaː	daːmaː	NOUN	_	Gender=Fem	36	comp:obj	_	SpaceAfter=No
@@ -362,7 +362,7 @@
 1	Jàm'iyyàr̃	jàm'iyyàː	PROPN	_	_	18	subj	_	_
 2	MNSD	mnsd	PROPN	_	_	1	mod	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	1	punct	_	_
-4	mài	mài	ADP	_	Gender=Masc	1	mod	_	_
+4	mài	mài	PART	_	Gender=Masc|Number=Sing|PartType=Der	1	mod	_	Gloss=possessor_of.Sing
 5	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	_
 6	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	5	mod	_	Gloss=country.Fem.PrevRef
 7	tun	tun	ADP	_	_	5	mod	_	_
@@ -482,7 +482,7 @@
 18	tafarkìn	tafarkìː	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	_
 19	tsaːrìn	tsaːrìː	NOUN	_	Definite=Cons|Gender=Masc	18	mod	_	_
 20	mulkìː	mulkìː	NOUN	_	Gender=Masc	19	mod	_	_
-21	mài	mài	PART	_	Number=Sing	18	mod	_	_
+21	mài	mài	PART	_	Number=Sing|PartType=Der	18	mod	_	Gloss=possessor_of.Sing
 22	jàm'iyyàː	jàm'iyyàː	NOUN	_	Gender=Fem	21	comp:obj	_	_
 23	ƙwàːyaː	ƙwàːyaː	NOUN	_	Gender=Fem	22	mod	_	_
 24	ɗaya	ɗaya	NUM	_	_	23	det	_	_

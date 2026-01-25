@@ -43,10 +43,10 @@
 8	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:obj	_	_
 9	dambên	dambêː	NOUN	_	Definite=Cons|Gender=Masc	8	compound	_	_
 10	nan	nan	DET	_	PronType=Dem	8	det	_	_
-11	mài	mài	PART	_	Number=Sing	8	mod	_	_
+11	mài	mài	PART	_	Number=Sing|PartType=Der	8	mod	_	Gloss=possessor_of.Sing
 12	suːnaː	suːnaː	NOUN	_	ExtPos=NOUN|Gender=Masc	11	comp:obj	_	_
 13	"	"	PUNCT	_	_	14	punct	_	_
-14	Joe	Joe	PROPN	_	_	12	mod	_	_
+14	Joe	Joe	PROPN	_	_	12	comp:pred	_	_
 15	Lasisi	Lasisi	PROPN	_	_	14	flat@name	_	_
 16	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	21	punct	_	_
@@ -56,8 +56,8 @@
 21	nèː	neː	AUX	_	Gender=Masc|Number=Plur	8	mod@relcl	_	_
 22	zàkaràn	zàkaràː	NOUN	_	Definite=Cons|Gender=Masc	21	dislocated@comp	_	_
 23	ajìn	ajìː	NOUN	_	Definite=Cons|Gender=Masc	22	mod	_	_
-24	maràsaː	maràsaː	PART	_	Number=Plur|PartType=Der	23	mod	_	_
-25	nauyiː	nauyiː	NOUN	_	Gender=Masc	24	comp:pred	_	_
+24	maràsaː	mài	PART	_	Number=Plur|PartType=Der	23	mod	_	Gloss=lacking.Plur
+25	nauyiː	nauyiː	NOUN	_	Gender=Masc	24	comp:obj	_	_
 26	na	na	ADP	_	_	22	mod	_	_
 27	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	26	comp:obj	_	_
 28	dà	dà	CCONJ	_	_	30	cc	_	_
@@ -87,7 +87,7 @@
 52	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	51	compound	_	_
 53	na	na	ADP	_	Case=Gen	51	mod	_	_
 54	ajìn	ajìː	NOUN	_	Definite=Cons|Gender=Masc	53	comp:obj	_	_
-55	maràsaː	maràsaː	PART	_	Number=Plur|PartType=Der	54	mod	_	_
+55	maràsaː	mài	PART	_	Number=Plur|PartType=Der	54	mod	_	Gloss=lacking.Plur
 56	nauyiː	nauyiː	NOUN	_	Gender=Masc	55	comp:obj	_	SpaceAfter=No
 57	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -114,10 +114,10 @@
 18	wani	wani	DET	_	Definite=Spec|Gender=Masc	19	det	_	_
 19	ɗan	ɗan	ADJ	_	Definite=Cons|Gender=Masc	17	comp:obj	_	_
 20	Amìr̃kà	Amìr̃kà	PROPN	_	_	19	compound	_	_
-21	mài	mài	PART	_	Number=Sing	19	mod	_	_
-22	suːnaː	suːnaː	NOUN	_	Case=Gen|Number=Sing|Person=1	21	compound	_	_
+21	mài	mài	PART	_	Number=Sing|PartType=Der	19	mod	_	Gloss=possessor_of.Sing
+22	suːnaː	suːnaː	NOUN	_	Case=Gen|Number=Sing|Person=1	21	comp:obj	_	_
 23	"	"	PUNCT	_	_	24	punct	_	_
-24	Virgil	Virgil	PROPN	_	_	22	mod	_	_
+24	Virgil	Virgil	PROPN	_	_	22	comp:pred	_	_
 25	Hill	Hill	PROPN	_	_	24	flat@name	_	_
 26	"	"	PUNCT	_	_	24	punct	_	_
 27	à	à	ADP	_	_	16	mod	_	Gloss=at
@@ -200,7 +200,7 @@
 16	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	14	comp:obj	_	_
 17	koː	koː	CCONJ	_	_	18	cc	_	_
 18	ƙungìyaː	ƙungìyaː	NOUN	_	Gender=Fem	16	conj:coord	_	_
-19	mài	mài	PART	_	Number=Sing	18	mod	_	_
+19	mài	mài	PART	_	Number=Sing|PartType=Der	18	mod	_	Gloss=possessor_of.Sing
 20	nasabàː	nasabàː	NOUN	_	Gender=Fem	19	comp:obj	_	_
 21	dà	dà	ADP	_	_	20	comp:obl	_	_
 22	Afir̃kà	Afir̃kà	PROPN	_	_	21	comp:obj	_	_
@@ -301,10 +301,10 @@
 7	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	6	comp:obj	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
 9	wani	wani	PRON	_	Definite=Spec|Gender=Masc	3	conj:appos	_	_
-10	mài	mài	PART	_	Number=Sing	9	mod	_	_
+10	mài	mài	PART	_	Number=Sing|PartType=Der	9	mod	_	Gloss=possessor_of.Sing
 11	suːnaː	suːnaː	NOUN	_	Case=Gen|Number=Sing|Person=1	10	comp:obj	_	_
 12	"	"	PUNCT	_	_	13	punct	_	_
-13	Emmanuel	Emmanuel	PROPN	_	_	11	mod	_	_
+13	Emmanuel	Emmanuel	PROPN	_	_	11	comp:pred	_	_
 14	Adeleye	Adeleye	PROPN	_	_	13	flat@name	_	_
 15	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	3	punct	_	_
