@@ -1,21 +1,20 @@
 # sent_id = 09_Salman_Rushdie__1
-# text = Zaː à bugà littaːfìn nan na " Salman Rushdie " à ƙasar̃ Jàpân
-1	Zaː	zaː	PART	_	_	2	discourse	_	_
-2	à	yà	AUX	_	Mood=Sub|Person=4	0	root	_	_
-3	bugà	bug-	VERB	_	_	2	comp:aux	_	_
-4	littaːfìn	littaːfìː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	_
-5	nan	nan	DET	_	PronType=Dem	4	det	_	_
-6	na	na	ADP	_	_	4	mod	_	_
-7	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-8	Salman	Salman	PROPN	_	_	6	comp:obj	_	Gloss=Salman
-9	Rushdie	Rushdie	PROPN	_	_	8	flat@name	_	Gloss=Rushdie
-10	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-11	à	à	ADP	_	_	3	mod	_	Gloss=at
-12	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	11	comp:obj	_	_
-13	Jàpân	Jàpân	PROPN	_	_	12	mod	_	Gloss=Jàpân
+# text = Zaː'à bugà littaːfìn nan na " Salman Rushdie " à ƙasar̃ Jàpân
+1	Zaː'à	zâi	AUX	_	Person=4|Tense=Fut	0	root	_	Gloss=4.Fut
+2	bugà	bug-	VERB	_	_	1	comp:aux	_	_
+3	littaːfìn	littaːfìː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj	_	_
+4	nan	nan	DET	_	PronType=Dem	3	det	_	_
+5	na	na	ADP	_	_	3	mod	_	_
+6	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+7	Salman	Salman	PROPN	_	_	5	comp:obj	_	Gloss=Salman
+8	Rushdie	Rushdie	PROPN	_	_	7	flat@name	_	Gloss=Rushdie
+9	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+10	à	à	ADP	_	_	2	mod	_	Gloss=at
+11	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	10	comp:obj	_	_
+12	Jàpân	Japan	PROPN	_	_	11	mod	_	Gloss=Jàpân
 
 # sent_id = 09_Salman_Rushdie__2-3
-# text = Kwàːnàkin baːya à ƙasar̃ Ir̃àn an saːkè jaddàdà hukuncìn kisàn dà akà yankèː kân Salman Rushdie, wà:tò: mar̃ùbùːcin littaːfìn nan na "AːyoːyinShaidan".
+# text = Kwàːnàkin baːya à ƙasar̃ Ir̃àn an saːkè jaddàdà hukuncìn kisàn dà akà yankèː kân Salman Rushdie, wà:tò: mar̃ùbùːcin littaːfìn nan na "Aːyoːyin Shaidan".
 1	Kwàːnàkin	Kwàːnàkin	PROPN	_	_	6	subj	_	Gloss=Kwàːnàkin
 2	baːya	baːya	ADV	_	_	1	mod	_	_
 3	à	à	ADP	_	_	1	mod	_	Gloss=at
@@ -39,8 +38,8 @@
 21	nan	nan	DET	_	PronType=Dem	20	det	_	_
 22	na	na	ADP	_	Case=Gen	20	mod	_	_
 23	"	"	PUNCT	_	_	24	punct	_	Gloss=PUNCT|SpaceAfter=No
-24	Aːyoːyin	Aːyoːyin	PROPN	_	Definite=Cons|Number=Plur	22	comp:obj	_	Gloss=Aːyoːyin|SpaceAfter=No
-25	Shaidan	Shaidan	PROPN	_	_	24	flat@name	_	Gloss=Shaidan|SpaceAfter=No
+24	Aːyoːyin	Aːyoːyin	PROPN	_	Definite=Cons|Number=Plur	22	comp:obj	_	Gloss=Aːyoːyin
+25	Shaidan	Shaidan	PROPN	_	_	24	flat@name	_	Gloss=Satan|SpaceAfter=No
 26	"	"	PUNCT	_	_	24	punct	_	Gloss=PUNCT|SpaceAfter=No
 27	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
@@ -526,9 +525,9 @@
 40	yi	yi	VERB	_	_	39	comp:aux	_	Gloss=do
 41	wata	wata	DET	_	Gender=Fem	42	det	_	_
 42	zaːngà-zangà	zaːngà-zangà	NOUN	_	Gender=Fem	40	comp:pred	_	_
-43	baːyân	baːyân	SCONJ	_	_	40	mod	_	_
-44	dà	dà	SCONJ	_	_	43	comp:obj	_	_
-45	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	44	comp:obj	_	_
+43	baːyân	baːyân	ADP	_	ExtPos=SCONJ	40	mod	_	Gloss=after.Def|Idiom=Yes
+44	dà	dà	SCONJ	_	_	43	compound	_	Gloss=that|InIdiom=Yes
+45	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	43	comp:obj	_	_
 46	idar̃	idar̃	VERB	_	Definite=Cons|Gender=Fem	45	comp:aux	_	_
 47	dà	dà	ADP	_	_	46	comp:obl	_	_
 48	sallàː	sallàː	NOUN	_	Definite=Ind|Gender=Fem	47	comp:obj	_	SpaceAfter=No
