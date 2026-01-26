@@ -5,22 +5,22 @@
 3	yaːjìn	yaːjìː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:pred	_	_
 4	aikìː	aikìː	NOUN	_	Definite=Ind	3	mod	_	wordform=aiki
 5	à	à	ADP	_	_	2	mod	_	Gloss=at
-6	Jàmhuːr̃iyàr̃	jàmhuːr̃iyàː	PROPN	_	_	5	comp:obj	_	wordform=Jamhuːr̃iyar
-7	Nìːjâr̃	Nìːjâr̃	PROPN	_	_	6	mod	_	_
+6	Jàmhuːr̃iyàr̃	Jàmhuːr̃iyàr̃	PROPN	_	Definite=Cons|Gender=Fem	5	comp:obj	_	Gloss=Jàmhuːr̃iyàr̃|wordform=Jamhuːr̃iyar
+7	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	6	mod	_	Gloss=Nìːjâr̃
 8	don	don	SCONJ	_	_	2	mod	_	_
 9	neːman	neːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:obj	_	_
 10	dìmùkùr̃àːɗiyyàː	dìmùkùr̃àːɗiyyàː	NOUN	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	9	comp:obj	_	_
 
 # sent_id = 15_Yajin_aiki__2
 # text = Wasu r̃àhòːtànniː dàgà bàbban bir̃nin ƙasar̃Jàmhuːr̃iyàr̃ Nìːjâr̃ sun nuːnà saːmùn goːyon baːyaː dàgà sâssaː dà daːmaː gà kiràn yîn yaːjìn aikìː.
-1	Wasu	wasu	PROPN	_	_	9	subj	_	_
+1	Wasu	Wasu	PROPN	_	_	9	subj	_	Gloss=Wasu
 2	r̃àhòːtànniː	r̃àhòːtànniː	NOUN	_	Number=Plur	9	subj	_	_
 3	dàgà	dàgà	ADP	_	_	2	mod	_	_
 4	bàbban	bàbbaː	ADJ	_	Definite=Cons|Gender=Masc	5	mod	_	_
 5	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	_
-6	ƙasar̃	ƙasaː	NOUN	_	_	5	mod	_	SpaceAfter=No
-7	Jàmhuːr̃iyàr̃	Jàmhuːr̃iyàr̃	PROPN	_	_	6	mod	_	_
-8	Nìːjâr̃	Nìːjâr̃	PROPN	_	_	7	mod	_	_
+6	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	5	mod	_	SpaceAfter=No
+7	Jàmhuːr̃iyàr̃	Jàmhuːr̃iyàr̃	PROPN	_	Definite=Cons|Gender=Fem	6	mod	_	Gloss=Jàmhuːr̃iyàr̃
+8	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	7	mod	_	Gloss=Nìːjâr̃
 9	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
 10	nuːnà	nuːn-	VERB	_	_	9	comp:aux	_	_
 11	saːmùn	saːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:obj	_	_
@@ -32,10 +32,10 @@
 17	daːmaː	daːmaː	NOUN	_	Gender=Fem	15	conj:coord	_	_
 18	gà	gà	ADP	_	_	15	mod	_	_
 19	kiràn	kir-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp:obj	_	_
-20	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	19	comp:obj	_	Gloss=do
+20	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:obj	_	Gloss=do
 21	yaːjìn	yaːjìː	NOUN	_	Definite=Cons|Gender=Masc	20	comp:pred	_	_
 22	aikìː	aikìː	NOUN	_	Gender=Masc	21	mod	_	SpaceAfter=No|wordform=aiki
-23	.	.	PUNCT	_	_	9	punct	_	_
+23	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__3
 # text = Wani ɗan jàr̃iːdàː yaː faɗàː wà gidan r̃eːdiyòn BBC cê:waː har̃koːkin cìnikiː sun tsayàː cik àː yawancin ƙasâr̃.
@@ -47,7 +47,7 @@
 6	wà	wà	ADP	_	Case=Dat	5	comp:obl	_	_
 7	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	_
 8	r̃eːdiyòn	r̃eːdiyòː	NOUN	_	Definite=Cons|Gender=Masc	7	mod	_	_
-9	BBC	BBC	PROPN	_	Definite=Cons|Number=Plur	8	mod	_	_
+9	BBC	BBC	PROPN	_	Definite=Cons|Number=Plur	8	mod	_	Gloss=BBC
 10	cê:waː	cêwaː	SCONJ	_	Gender=Fem	5	comp:obj	_	_
 11	har̃koːkin	har̃koːkiː	NOUN	_	Definite=Cons|Gender=Masc	13	subj	_	_
 12	cìnikiː	cìnikiː	NOUN	_	Gender=Masc	11	mod	_	_
@@ -57,7 +57,7 @@
 16	àː	àː	INTJ	_	_	17	discourse	_	_
 17	yawancin	yawanciː	NOUN	_	Definite=Cons|Gender=Masc	15	mod	_	_
 18	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	17	mod	_	Gloss=country.Fem.PrevRef|SpaceAfter=No
-19	.	.	PUNCT	_	_	4	punct	_	_
+19	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__4
 # text = An tsai dà yawancin har̃koːkin cìnikiː an kuma rufèː shaːgunàː, yàːyîn dà har̃koːkin sufùr̃iː maː sukà tsayàː cik, kuma yâːraː maː bàsù jeː màkàr̃àntunsù ba.
@@ -71,7 +71,7 @@
 8	kuma	kuma	PART	_	_	7	discourse@top	_	_
 9	rufèː	ruf-	VERB	_	_	7	comp:aux	_	_
 10	shaːgunàː	shaːgunàː	NOUN	_	Number=Plur	9	comp:obj	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	17	punct	_	_
+11	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 12	yàːyîn	yàːyiː	NOUN	_	Definite=Cons|Gender=Masc	7	mod	_	_
 13	dà	dà	SCONJ	_	_	12	mod@relcl	_	_
 14	har̃koːkin	har̃koːkiː	NOUN	_	Definite=Cons|Gender=Masc	17	subj	_	_
@@ -80,7 +80,7 @@
 17	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	13	comp:obj	_	_
 18	tsayàː	tsay-	VERB	_	_	17	comp:aux	_	_
 19	cik	cik	NUM	_	_	18	comp:obj	_	SpaceAfter=No
-20	,	,	PUNCT	_	_	24	punct	_	_
+20	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 21	kuma	kuma	CCONJ	_	_	24	cc	_	_
 22	yâːraː	yâːraː	NOUN	_	Definite=Ind|Gender=Fem	24	subj	_	_
 23	maː	maː	PART	_	_	22	discourse@top	_	_
@@ -88,16 +88,16 @@
 25	jeː	jeː	VERB	_	_	24	comp:aux	_	_
 26	màkàr̃àntunsù	màkàr̃àntun	NOUN	_	Case=Acc|Number=Plur|Person=3	25	comp:obl	_	_
 27	ba	ba	PART	_	Polarity=Neg	25	mod	_	SpaceAfter=No
-28	.	.	PUNCT	_	_	1	punct	_	_
+28	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__5
 # text = Hàɗaɗɗiyar̃ Ƙungìyar̃ Yan Ƙoːdagon Ƙasâr̃, waddà ta haɗaː dà ƙungiyoːyiː àshìr̃in dà bakwài na ma'àikàtan ƙasâr̃, ita cèː ta yi kiràn à yi yaːjìn aikìn.
-1	Hàɗaɗɗiyar̃	Hàɗaɗɗiyar̃	PROPN	_	_	20	subj	_	wordform=Hadaddiyar
-2	Ƙungìyar̃	Ƙungìyar̃	PROPN	_	_	1	flat@name	_	wordform=Kungiyar
-3	Yan	yan	PROPN	_	_	2	mod	_	_
-4	Ƙoːdagon	ƙoːdagoː	PROPN	_	_	3	comp:obj	_	_
-5	Ƙasâr̃	Ƙasâr̃	PROPN	_	_	4	mod	_	SpaceAfter=No|wordform=Kasar
-6	,	,	PUNCT	_	_	1	punct	_	_
+1	Hàɗaɗɗiyar̃	Hàɗaɗɗiyar̃	PROPN	_	Definite=Cons|Gender=Fem	20	subj	_	Gloss=Hàɗaɗɗiyar̃|wordform=Hadaddiyar
+2	Ƙungìyar̃	Ƙungìyar̃	PROPN	_	Definite=Cons|Gender=Fem	1	flat@name	_	Gloss=Ƙungìyar̃|wordform=Kungiyar
+3	Yan	Yan	PROPN	_	_	2	mod	_	Gloss=Yan
+4	Ƙoːdagon	Ƙoːdagon	PROPN	_	_	3	comp:obj	_	Gloss=Ƙoːdagon
+5	Ƙasâr̃	Ƙasâr̃	PROPN	_	Definite=Cons|Gender=Fem	4	mod	_	Gloss=Ƙasâr̃|SpaceAfter=No|wordform=Kasar
+6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	8	subj	_	wordform=wadda
 8	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	1	mod@relcl	_	_
 9	haɗaː	haɗaː	VERB	_	_	8	comp:aux	_	_
@@ -109,33 +109,33 @@
 15	na	na	ADP	_	_	14	mod	_	_
 16	ma'àikàtan	ma'àikàtaː	NOUN	_	Definite=Cons|Number=Plur	15	comp:obj	_	_
 17	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	16	mod	_	Gloss=country.Fem.PrevRef|SpaceAfter=No|wordform=kasár
-18	,	,	PUNCT	_	_	1	punct	_	_
+18	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 19	ita	ita	PRON	_	Gender=Fem|Person=3	20	comp:pred	_	_
 20	cèː	neː	AUX	_	Gender=Fem	0	root	_	_
 21	ta	ta	AUX	_	Aspect=Iter	20	comp:cleft	_	_
 22	yi	yi	VERB	_	_	21	comp:aux	_	Gloss=do
-23	kiràn	kir-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	22	comp:pred	_	_
+23	kiràn	kir-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	22	comp:pred	_	_
 24	à	yà	AUX	_	Mood=Sub|Person=4	22	mod	_	_
 25	yi	yi	VERB	_	_	24	comp:aux	_	Gloss=do
 26	yaːjìn	yaːjìː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	25	comp:pred	_	_
 27	aikìn	aikìː	NOUN	_	Definite=Def|Gender=Masc	26	mod	_	SpaceAfter=No
-28	.	.	PUNCT	_	_	20	punct	_	_
+28	.	.	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__6
 # text = Ita kùwa Hàɗaɗɗiyar̃ Ƙungìyar̃ 'Yan Ƙoːdagôn tanàː dàgà kân gàban kàmfên ɗiːn neːman à kafà tafarkìn sìyaːsàː mài jàm'ìyyuː dà daːmaː à ƙasâr̃, kuma taː yi àmfàniː dà daːmar̃ raːnar̃ bìkin 'yan ƙoːdagoː ta shèːkaràr̃ nân wajen yîn kiràn à kaːwoː ƙàrshen mulkìn jàm'iyyàr̃ sìyaːsàː ƙwàːyaː ɗaya tal à Jàmhuːr̃iyàr̃ Nìːjâr̃.
 1	Ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	7	subj	_	_
 2	kùwa	kùwa	PART	_	_	1	discourse@top	_	wordform=kuwa
-3	Hàɗaɗɗiyar̃	Hàɗaɗɗiyar̃	PROPN	_	_	7	subj	_	wordform=Hadaddiyar
-4	Ƙungìyar̃	Ƙungìyar̃	PROPN	_	_	3	flat@name	_	wordform=Kungiyar
+3	Hàɗaɗɗiyar̃	Hàɗaɗɗiyar̃	PROPN	_	Definite=Cons|Gender=Fem	7	subj	_	Gloss=Hàɗaɗɗiyar̃|wordform=Hadaddiyar
+4	Ƙungìyar̃	Ƙungìyar̃	PROPN	_	Definite=Cons|Gender=Fem	3	flat@name	_	Gloss=Ƙungìyar̃|wordform=Kungiyar
 5	'Yan	ɗan	ADJ	_	Definite=Cons|Number=Plur	4	mod	_	_
-6	Ƙoːdagôn	Ƙoːdagôn	PROPN	_	_	5	mod	_	_
+6	Ƙoːdagôn	Ƙoːdagôn	PROPN	_	_	5	mod	_	Gloss=Ƙoːdagôn
 7	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	_
 8	dàgà	dàgà	ADP	_	ExtPos=ADP	7	comp:pred	_	_
 9	kân	kâi	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	_
 10	gàban	gàbaː	NOUN	_	Definite=Cons	9	mod	_	_
 11	kàmfên	kàmfaː	NOUN	_	Definite=Cons|Number=Plur	10	mod	_	_
 12	ɗiːn	ɗiin	NUM	_	Definite=Cons|Gender=Masc	10	mod	_	_
-13	neːman	neːm-	VERB	_	PronType=Dem	3	mod	_	_
+13	neːman	neːm-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	3	mod	_	_
 14	à	yà	AUX	_	Mood=Sub|Person=4	13	comp:obj	_	_
 15	kafà	kaf-	VERB	_	_	14	comp:aux	_	_
 16	tafarkìn	tafarkìː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	_
@@ -146,19 +146,19 @@
 21	daːmaː	daːmaː	NOUN	_	Gender=Masc	20	comp:obj	_	_
 22	à	à	ADP	_	_	15	mod	_	Gloss=at
 23	ƙasâr̃	ƙasaː	ADV	_	Definite=PrevRef|Gender=Fem	22	comp:obj	_	Gloss=country.Fem.PrevRef|SpaceAfter=No
-24	,	,	PUNCT	_	_	26	punct	_	_
+24	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 25	kuma	kuma	CCONJ	_	_	26	cc	_	_
 26	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	7	conj:coord	_	_
 27	yi	yi	VERB	_	_	26	comp:aux	_	Gloss=do
 28	àmfàniː	àmfàniː	NOUN	_	Gender=Masc	27	comp:pred	_	_
 29	dà	dà	ADP	_	_	28	comp:obl	_	_
-30	daːmar̃	daːmaː	NOUN	_	_	29	comp:obj	_	wordform=daːmar
-31	raːnar̃	raːnaː	NOUN	_	_	30	mod	_	wordform=raːnar
+30	daːmar̃	daːmaː	NOUN	_	Definite=Cons|Gender=Fem	29	comp:obj	_	wordform=daːmar
+31	raːnar̃	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	30	mod	_	wordform=raːnar
 32	bìkin	bìkin	ADP	_	_	30	mod	_	_
 33	'yan	ɗan	ADJ	_	Definite=Cons|Number=Plur	36	mod	_	_
 34	ƙoːdagoː	ƙoːdagoː	NOUN	_	Gender=Masc	33	mod	_	_
 35	ta	ta	ADP	_	Case=Gen|Gender=Fem	30	mod	_	_
-36	shèːkaràr̃	shèːkaràː	NOUN	_	_	35	comp:obj	_	_
+36	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	35	comp:obj	_	_
 37	nân	nân	ADV	_	PronType=Dem	36	mod	_	_
 38	wajen	wajen	ADP	_	_	30	mod	_	_
 39	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	38	comp:obj	_	Gloss=do
@@ -173,14 +173,14 @@
 48	ɗaya	ɗaya	NUM	_	_	47	mod:num	_	_
 49	tal	yaː	AUX	_	Gender=Fem|PronType=Dem	39	mod	_	_
 50	à	à	ADP	_	_	42	mod	_	Gloss=at
-51	Jàmhuːr̃iyàr̃	Jàmhuːr̃iyàr̃	PROPN	_	_	50	comp:obj	_	wordform=Jamhuːriyar
-52	Nìːjâr̃	Nìːjâr̃	PROPN	_	_	51	flat@name	_	SpaceAfter=No|wordform=Nijâr
-53	.	.	PUNCT	_	_	7	punct	_	_
+51	Jàmhuːr̃iyàr̃	Jàmhuːr̃iyàr̃	PROPN	_	Definite=Cons|Gender=Fem	50	comp:obj	_	Gloss=Jàmhuːr̃iyàr̃|wordform=Jamhuːriyar
+52	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	51	flat@name	_	Gloss=Nìːjâr̃|SpaceAfter=No|wordform=Nijâr
+53	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__7
 # text = Màːsu yîn yaːjìn aikìn sun bùkàːci gwamnatì tà yi wani tàːroː na 'yan ƙasâr̃ bàːkiː ɗaya, wandà zâi tattàunà tsaːrìn tattalin ar̃zìkiː dà kuma na sìyaːsàː.
-1	Màːsu	mài	PROPN	_	Number=Plur	5	subj	_	_
-2	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	1	comp:aux	_	Gloss=do
+1	Màːsu	Màːsu	PROPN	_	Number=Plur	5	subj	_	Gloss=Màːsu
+2	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	comp:aux	_	Gloss=do
 3	yaːjìn	yaːjìː	NOUN	_	Definite=Cons|Gender=Masc	2	udep	_	_
 4	aikìn	aikìː	NOUN	_	Definite=Def|Gender=Masc	3	mod	_	_
 5	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
@@ -195,7 +195,7 @@
 14	ƙasâr̃	ƙasaː	VERB	_	Definite=PrevRef|Gender=Fem	12	comp:obj	_	Gloss=country.Fem.PrevRef
 15	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	14	mod	_	_
 16	ɗaya	ɗaya	NUM	_	_	15	mod:num	_	SpaceAfter=No
-17	,	,	PUNCT	_	_	19	punct	_	_
+17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 18	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	20	comp:obj	_	_
 19	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	11	mod@relcl	_	_
 20	tattàunà	tattà	VERB	_	Case=Gen|Number=Sing|Person=1	19	comp:aux	_	_
@@ -206,18 +206,18 @@
 25	kuma	kuma	PART	_	_	24	discourse@top	_	_
 26	na	na	ADP	_	_	23	conj:coord	_	_
 27	sìyaːsàː	sìyaːsàː	NOUN	_	Gender=Fem	26	comp:obj	_	SpaceAfter=No
-28	.	.	PUNCT	_	_	5	punct	_	_
+28	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__8
 # text = Hakà kuma sunàː sôn mahùkùntan ƙasâr̃ sù baːyar̃ dàː cìkakken bàyaːnìː à kân aràngamàː dà zub dà jiniː dà akà yi tsàkaːnin ɗàːlìbai dà kuma 'yan sàndaː à bir̃nin Yàmài à watàn Fàbàr̃air̃ùn dà ya shigèː.
 1	Hakà	hakà	ADV	_	_	3	mod	_	_
 2	kuma	kuma	PART	_	_	1	discourse@top	_	_
 3	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	_
-4	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	3	comp:aux	_	_
+4	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	3	comp:aux	_	_
 5	mahùkùntan	mahùkùntaː	NOUN	_	Definite=Cons|Number=Plur	4	comp:obj	_	_
 6	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	5	mod	_	Gloss=country.Fem.PrevRef
 7	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	4	comp:obj	_	_
-8	baːyar̃	baːyar̃	VERB	_	_	7	comp:aux	_	wordform=bayar
+8	baːyar̃	baːyar̃	VERB	_	Definite=Cons|Gender=Fem	7	comp:aux	_	wordform=bayar
 9	dàː	dàː	ADP	_	_	8	comp:obl	_	_
 10	cìkakken	cìkakkeː	NOUN	_	Definite=Cons|Number=Plur	9	comp:obj	_	_
 11	bàyaːnìː	bàyaːnìː	NOUN	_	Gender=Masc	10	mod	_	_
@@ -237,16 +237,16 @@
 25	kuma	kuma	PART	_	_	28	discourse@top	_	_
 26	'yan	ɗan	ADJ	_	Definite=Cons|Number=Plur	23	conj:coord	_	_
 27	sàndaː	sàndaː	NOUN	_	Gender=Masc	26	compound	_	_
-28	à	à	ADP	_	_	21	mod	_	Gloss=at
-29	bir̃nin	bir̃nin	ADP	_	_	28	comp:obj	_	_
-30	Yàmài	Yàmài	PROPN	_	_	29	mod	_	_
-31	à	à	ADP	_	_	21	mod	_	Gloss=at
-32	watàn	watàn	ADP	_	ExtPos=NOUN	31	comp.obj	_	_
-33	Fàbàr̃air̃ùn	Fàbàr̃air̃ùn	PROPN	_	_	32	mod	_	_
+28	à	à	ADP	_	ExtPos=ADP	21	mod	_	Gloss=at|Idiom=Yes
+29	bir̃nin	bir̃nin	ADP	_	_	28	compound	_	InIdiom=Yes
+30	Yàmài	Yàmài	PROPN	_	_	28	comp:obj	_	Gloss=Niamey
+31	à	à	ADP	_	ExtPos=ADP	21	mod	_	Gloss=at|Idiom=Yes
+32	watàn	watàː	ADP	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	31	compound	_	Gloss=month.Masc.Cons|InIdiom=Yes
+33	Fàbàr̃air̃ùn	Fàbàr̃air̃ùn	PROPN	_	_	31	comp:obj	_	Gloss=February
 34	dà	dà	SCONJ	_	_	33	mod@relcl	_	_
 35	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	34	comp:obj	_	_
 36	shigèː	shig-	VERB	_	_	35	comp:aux	_	SpaceAfter=No
-37	.	.	PUNCT	_	_	3	punct	_	_
+37	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__9
 # text = Suː ɗàlibân kùwa sunàː zàngà-zangàr̃ nuːnà rashìn amincêwar̃sù dà shaːwar̃àr̃ ragè yawàn kuɗàːɗên dà gwamnati takèː kashèː wà ilìmiː à ƙasâr̃.
@@ -271,7 +271,7 @@
 19	ilìmiː	ilìmiː	NOUN	_	Gender=Masc	17	comp:obj	_	_
 20	à	à	ADP	_	_	17	mod	_	Gloss=at
 21	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	20	comp:obj	_	Gloss=country.Fem.PrevRef|SpaceAfter=No
-22	.	.	PUNCT	_	_	4	punct	_	_
+22	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__10
 # text = Waɗàndà sukà ràsu à loːkàcin rìkicîn dai, kàmar̃ yaddà mahùkùntan ƙasâr̃ sukà cêː, suː ukù neː kaɗai, koː dà yakèː wasu kafoːfin ɗàːlìban ƙasâr̃dà ma'àikàtan asìbitì sun cêː fìye dà mutàneː goːmà neː sukà mutù.
@@ -282,25 +282,25 @@
 5	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	_
 6	rìkicîn	rìkiciː	NOUN	_	Definite=Def|Gender=Masc	5	mod	_	_
 7	dai	dai	PART	_	_	10	discourse@top	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	9	punct	_	_
-9	kàmar̃	kàmar̃	ADP	_	_	0	root	_	_
+8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
+9	kàmar̃	kàmar̃	ADP	_	Definite=Cons|Gender=Fem	0	root	_	_
 10	yaddà	yaddà	ADV	_	PronType=Rel	9	comp:obj	_	_
 11	mahùkùntan	mahùkùntaː	NOUN	_	Definite=Cons|Number=Plur	13	subj	_	_
 12	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	11	mod	_	Gloss=country.Fem.PrevRef
 13	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	10	mod@relcl	_	_
 14	cêː	cêː	VERB	_	_	13	comp:aux	_	SpaceAfter=No|wordform=cê
-15	,	,	PUNCT	_	_	18	punct	_	_
+15	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 16	suː	suː	PRON	_	Number=Plur|Person=3	31	dislocated@subj	_	_
 17	ukù	ukù	NUM	_	_	18	comp:cleft	_	_
 18	neː	neː	AUX	_	Gender=Masc|Number=Plur	14	comp:obj	_	_
 19	kaɗai	kaɗai	ADV	_	_	18	mod	_	SpaceAfter=No
-20	,	,	PUNCT	_	_	21	punct	_	_
+20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 21	koː	koː	SCONJ	_	ExtPos=SCONJ	18	mod	_	_
 22	dà	dà	SCONJ	_	_	21	unk	_	_
 23	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	22	comp:obj	_	_
 24	wasu	wani	DET	_	Number=Plur	25	det	_	_
 25	kafoːfin	kafoːfiː	NOUN	_	Definite=Cons|Gender=Masc	18	comp:pred	_	_
-26	ɗàːlìban	ɗàːlìbaː	VERB	_	Definite=Cons|Number=Plur	25	mod	_	_
+26	ɗàːlìban	ɗàːlìbaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Number=Plur|VerbForm=Vnoun	25	mod	_	_
 27	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	26	mod	_	Gloss=country.Fem.PrevRef|SpaceAfter=No
 28	dà	dà	CCONJ	_	_	29	cc	_	_
 29	ma'àikàtan	ma'àikàtaː	NOUN	_	Definite=Cons|Number=Plur	27	conj:coord	_	_
@@ -314,7 +314,7 @@
 37	neː	neː	AUX	_	Gender=Masc|Number=Plur	36	discourse@foc	_	_
 38	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	36	comp:cleft	_	_
 39	mutù	mutù	VERB	_	_	38	comp:aux	_	SpaceAfter=No
-40	.	.	PUNCT	_	_	9	punct	_	_
+40	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__11
 # text = Wannan yaːjìn aikìn dai yaː biyoː baːyan sanâr̃wâr̃ dà gwamnatìn ƙasâr̃ ta baːyar̃ nèː à watàn jiyà, cêːwaː tanàː shirìn sauyà tsaːrìn mulkìn Jàmhuːr̃iyàr̃ Nìːjâr̃ ɗîn don à sàːmu daːmar̃ kafà tsaːrìː mài jàm'ìyyuː dà daːmaː.
@@ -330,38 +330,38 @@
 10	gwamnatìn	gwamnatìː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	wordform=gwamnatin
 11	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	10	mod	_	Gloss=country.Fem.PrevRef
 12	ta	ta	ADP	_	_	10	mod	_	_
-13	baːyar̃	baːyar̃	ADV	_	_	12	comp:obj	_	wordform=bayar
+13	baːyar̃	baːyar̃	ADV	_	Definite=Cons|Gender=Fem	12	comp:obj	_	wordform=bayar
 14	nèː	neː	PART	_	Gender=Masc|Number=Plur	10	discourse@foc	_	_
 15	à	à	ADP	_	_	7	mod	_	Gloss=at
-16	watàn	watàː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	15	comp:obj	_	_
+16	watàn	watàː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:obj	_	Gloss=month.Masc.Cons
 17	jiyà	jiyà	ADV	_	_	16	mod	_	SpaceAfter=No
-18	,	,	PUNCT	_	_	19	punct	_	_
+18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 19	cêːwaː	cêwaː	SCONJ	_	Gender=Fem	8	mod	_	_
 20	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	19	comp:obj	_	_
 21	shirìn	shirìː	NOUN	_	Definite=Cons|Gender=Masc	20	comp:aux	_	_
 22	sauyà	sauyà	VERB	_	Gender=Fem	21	mod	_	_
 23	tsaːrìn	tsaːrìː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	30	comp:obj	_	_
 24	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	23	mod	_	_
-25	Jàmhuːr̃iyàr̃	Jàmhuːr̃iyàr̃	PROPN	_	_	24	mod	_	wordform=Jàmhuːr̃iyar
-26	Nìːjâr̃	Nìːjâr̃	PROPN	_	_	25	mod	_	_
+25	Jàmhuːr̃iyàr̃	Jàmhuːr̃iyàr̃	PROPN	_	Definite=Cons|Gender=Fem	24	mod	_	Gloss=Jàmhuːr̃iyàr̃|wordform=Jàmhuːr̃iyar
+26	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	25	mod	_	Gloss=Nìːjâr̃
 27	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	25	det	_	wordform=din
 28	don	don	SCONJ	_	_	21	mod	_	_
 29	à	yà	AUX	_	Mood=Sub|Person=4	28	comp:obj	_	_
 30	sàːmu	saːmùː	VERB	_	_	29	comp:aux	_	_
-31	daːmar̃	daːmaː	NOUN	_	Gender=Fem	30	comp:obj	_	_
+31	daːmar̃	daːmaː	NOUN	_	Definite=Cons|Gender=Fem	30	comp:obj	_	_
 32	kafà	kafà	AUX	_	Aspect=Perf|Gender=Masc|Person=2	31	mod	_	_
 33	tsaːrìː	tsaːrìː	NOUN	_	Gender=Masc	32	comp:aux	_	_
 34	mài	mài	PART	_	Number=Sing|PartType=Der	33	mod	_	Gloss=possessor_of.Sing
 35	jàm'ìyyuː	jàm'aː	NOUN	_	Number=Plur	34	comp:obj	_	_
 36	dà	dà	ADP	_	_	33	comp:obl	_	_
 37	daːmaː	daːmaː	NOUN	_	Gender=Fem	36	comp:obj	_	SpaceAfter=No
-38	.	.	PUNCT	_	_	5	punct	_	_
+38	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__12
 # text = Jàm'iyyàr̃ MNSD, mài mulkìn ƙasâr̃ tun shèːkaràr̃ alìf dà ɗàrí tar̃à dà tàmàːnin daː takwàs, taː cêː zaːà kafà wani kwàmìtîn dà zâi tsaːrà irìn sàuye-sàuyên dà sukà zama doːlè.
-1	Jàm'iyyàr̃	jàm'iyyàː	PROPN	_	_	18	subj	_	_
-2	MNSD	mnsd	PROPN	_	_	1	mod	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	1	punct	_	_
+1	Jàm'iyyàr̃	Jàm'iyyàr̃	PROPN	_	Definite=Cons|Gender=Fem	18	subj	_	Gloss=Jàm'iyyàr̃
+2	MNSD	MNSD	PROPN	_	_	1	mod	_	Gloss=MNSD|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 4	mài	mài	PART	_	Gender=Masc|Number=Sing|PartType=Der	1	mod	_	Gloss=possessor_of.Sing
 5	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	_
 6	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	5	mod	_	Gloss=country.Fem.PrevRef
@@ -375,7 +375,7 @@
 14	tàmàːnin	tàmàːniː	NOUN	_	Definite=Cons|Gender=Masc	11	conj:coord	_	_
 15	daː	daː	ADP	_	_	14	mod	_	_
 16	takwàs	takwàs	NUM	_	_	15	comp:obj	_	SpaceAfter=No
-17	,	,	PUNCT	_	_	18	punct	_	_
+17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	_
 19	cêː	cêː	VERB	_	_	18	comp:aux	_	_
 20	zaːà	zâi	AUX	_	Mood=Sub|Person=4	19	comp:obj	_	_
@@ -391,16 +391,16 @@
 30	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	29	comp:obj	_	_
 31	zama	zama	VERB	_	_	30	comp:aux	_	_
 32	doːlè	doːlè	ADV	_	_	31	comp:pred	_	SpaceAfter=No
-33	.	.	PUNCT	_	_	18	punct	_	_
+33	.	.	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__13
 # text = Sai dai kuma har̃ yànzu, baːbù wani abîn dà akà saːkè jîː danganèː dà kafà wannàn kwàmìtîn.
 1	Sai	sai	ADP	_	_	7	mod	_	_
 2	dai	dai	PART	_	_	1	discourse@top	_	_
 3	kuma	kuma	PART	_	_	1	discourse@top	_	_
-4	har̃	har̃	ADP	_	_	7	mod	_	_
+4	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	7	mod	_	_
 5	yànzu	yànzu	ADV	_	_	4	comp:obj	_	SpaceAfter=No|wordform=yanzu
-6	,	,	PUNCT	_	_	1	punct	_	_
+6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 8	wani	wani	DET	_	Definite=Spec|Gender=Masc	9	det	_	_
 9	abîn	abîː	NOUN	_	Definite=Cons|Gender=Masc	7	subj	_	_
@@ -413,21 +413,21 @@
 16	kafà	kafà	PART	_	Aspect=Perf|Gender=Masc|Person=2	14	comp:obj	_	_
 17	wannàn	wannàn	DET	_	PronType=Dem	18	det	_	_
 18	kwàmìtîn	kwàmìtiː	NOUN	_	Definite=Def|Gender=Masc	16	mod	_	SpaceAfter=No
-19	.	.	PUNCT	_	_	7	punct	_	_
+19	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__14
 # text = Dà daːmaː dai 'yan ƙasar̃Nìːjâr̃ sunàː jîn gwamnatìnsù baːtàː ƙaddamar̃ dà sàuye-sàuyên dà saurîn dà ya kàmaːtà.
-1	Dà	dà	PROPN	_	_	7	mod	_	_
+1	Dà	Dà	PROPN	_	_	7	mod	_	Gloss=Dà
 2	daːmaː	daːmaː	NOUN	_	Gender=Masc	7	comp:aux	_	_
 3	dai	dai	PART	_	_	1	discourse@top	_	_
 4	'yan	ɗan	NOUN	_	Definite=Cons|Number=Plur	7	subj	_	_
-5	ƙasar̃	ƙasaː	NOUN	_	_	4	mod	_	SpaceAfter=No
-6	Nìːjâr̃	Nìːjâr̃	PROPN	_	_	5	mod	_	_
+5	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	4	mod	_	SpaceAfter=No
+6	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	5	mod	_	Gloss=Nìːjâr̃
 7	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	wordform=sunaː
-8	jîn	jîː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	7	comp:aux	_	_
+8	jîn	jîː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:aux	_	_
 9	gwamnatìnsù	gwamnatìː	NOUN	_	Case=Gen|Number=Plur|Person=3	8	comp:obj	_	_
 10	baːtàː	nàːː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	8	mod	_	_
-11	ƙaddamar̃	ƙaddamar̃	VERB	_	_	10	comp:aux	_	_
+11	ƙaddamar̃	ƙaddamar̃	VERB	_	Definite=Cons|Gender=Fem	10	comp:aux	_	_
 12	dà	dà	ADP	_	_	11	comp:obl	_	_
 13	sàuye-sàuyên	sàuye-sàuye	NOUN	_	Definite=Ind|Number=Plur	11	conj:coord	_	_
 14	dà	dà	CCONJ	_	_	15	cc	_	_
@@ -435,15 +435,15 @@
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	_
 17	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	16	comp:obj	_	_
 18	kàmaːtà	kàmaːtà	VERB	_	_	17	comp:aux	_	SpaceAfter=No
-19	.	.	PUNCT	_	_	7	punct	_	_
+19	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__15
 # text = Sunàː sôn gwamnatìn tà baːyar̃ dà tsaːrìn lòːkàtan ƙaddamar̃ dà shìrye-shìryên naːtà, tàːre dà cìkakken bàyaːnìn yîn zàːɓeː.
 1	Sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	_
-2	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	1	comp:aux	_	_
+2	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	comp:aux	_	_
 3	gwamnatìn	gwamnatìː	NOUN	_	Definite=Cons|Gender=Masc	2	udep	_	wordform=gwamnatin
 4	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	2	comp:obj	_	_
-5	baːyar̃	baːyar̃	VERB	_	_	4	comp:aux	_	_
+5	baːyar̃	baːyar̃	VERB	_	Definite=Cons|Gender=Fem	4	comp:aux	_	_
 6	dà	dà	CCONJ	_	_	7	cc	_	_
 7	tsaːrìn	tsaːrìː	NOUN	_	Definite=Cons|Gender=Masc	4	conj:coord	_	_
 8	lòːkàtan	lòːkàtaː	NOUN	_	Definite=Cons|Number=Plur	7	mod	_	_
@@ -451,14 +451,14 @@
 10	dà	dà	ADP	_	_	9	comp:obl	_	wordform=da
 11	shìrye-shìryên	shìrye-shìryên	NOUN	_	Definite=Cons|Number=Plur	8	conj:coord	_	_
 12	naːtà	naːtà	PRON	_	Gender=Fem|Person=3	11	mod@poss	_	SpaceAfter=No
-13	,	,	PUNCT	_	_	16	punct	_	_
+13	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 14	tàːre	tàːre	ADV	_	_	15	mod	_	_
 15	dà	dà	ADP	_	_	11	cc	_	wordform=da
 16	cìkakken	cìkakkeː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	_
 17	bàyaːnìn	bàyaːnìː	NOUN	_	Definite=Cons|Gender=Masc	16	mod	_	_
-18	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	16	mod	_	Gloss=do
+18	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	mod	_	Gloss=do
 19	zàːɓeː	zàːɓeː	NOUN	_	Gender=Masc	18	comp:pred	_	SpaceAfter=No
-20	.	.	PUNCT	_	_	1	punct	_	_
+20	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__16
 # text = Bandà kuma matsàː lambàr̃ dà shùːgàbaː " Ali Saibou " yakèː fùskantàː à kân kaucèːwaː dàgà kân tafarkìn tsaːrìn mulkìː mài jàm'iyyàː ƙwàːyaː ɗaya tal, hakà kuma shuːgàbân yanàː faːmaː dà ƙaːrìn yawàn wànzuwar̃ rashìn amìncêwaː dà manufoːfin tattalin ar̃zìkiː dà gwamnatìnsà takèː aikìː dà suː.
@@ -468,15 +468,15 @@
 4	lambàr̃	lambàr̃	NOUN	_	Definite=Ind|Gender=Fem	3	mod	_	_
 5	dà	dà	SCONJ	_	_	6	cc	_	_
 6	shùːgàbaː	shùːgàbaː	NOUN	_	Definite=Ind|Gender=Fem	4	conj:coord	_	_
-7	"	"	PUNCT	_	_	8	punct	_	_
-8	Ali	Ali	PROPN	_	_	3	conj:appos	_	_
-9	Saibou	Saibou	PROPN	_	_	8	flat@name	_	_
-10	"	"	PUNCT	_	_	8	punct	_	_
+7	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT
+8	Ali	Ali	PROPN	_	_	3	conj:appos	_	Gloss=Ali
+9	Saibou	Saibou	PROPN	_	_	8	flat@name	_	Gloss=Saibou
+10	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 11	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	_
 12	fùskantàː	fùskantaː	VERB	_	Gender=Fem	11	comp:aux	_	_
-13	à	à	ADP	_	ExtPos=ADP	12	comp:obl	_	Gloss=at
-14	kân	kân	ADP	_	_	13	comp:obj	_	_
-15	kaucèːwaː	kauc-	VERB	_	Gender=Fem	14	comp:obj	_	_
+13	à	à	ADP	_	ExtPos=ADP	12	comp:obl	_	Gloss=at|Idiom=Yes
+14	kân	kân	ADP	_	_	13	compound	_	InIdiom=Yes
+15	kaucèːwaː	kauc-	VERB	_	Gender=Fem	13	comp:obj	_	_
 16	dàgà	dàgà	ADP	_	ExtPos=ADP	15	comp:obl	_	_
 17	kân	kân	ADP	_	Definite=Cons|Gender=Masc	16	comp:obj	_	_
 18	tafarkìn	tafarkìː	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	_
@@ -487,7 +487,7 @@
 23	ƙwàːyaː	ƙwàːyaː	NOUN	_	Gender=Fem	22	mod	_	_
 24	ɗaya	ɗaya	NUM	_	_	23	det	_	_
 25	tal	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	17	mod	_	SpaceAfter=No
-26	,	,	PUNCT	_	_	30	punct	_	_
+26	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 27	hakà	hakà	ADV	_	_	30	mod	_	_
 28	kuma	kuma	PART	_	_	27	discourse@top	_	_
 29	shuːgàbân	shuːgàbiː	NOUN	_	Definite=Def|Gender=Masc	30	subj	_	_
@@ -496,7 +496,7 @@
 32	dà	dà	ADP	_	_	31	comp:obl	_	_
 33	ƙaːrìn	ƙaːrìː	NOUN	_	Definite=Cons|Gender=Masc	32	comp:obj	_	_
 34	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	33	mod	_	_
-35	wànzuwar̃	wànzuwar̃	VERB	_	Gender=Masc|PronType=Dem	34	mod	_	_
+35	wànzuwar̃	wànzuwar̃	VERB	_	Definite=Cons|Gender=Fem|PronType=Dem	34	mod	_	_
 36	rashìn	rashìː	NOUN	_	Definite=Cons|Gender=Masc	34	mod	_	_
 37	amìncêwaː	amìncêwaː	NOUN	_	Number=Plur	36	mod	_	_
 38	dà	dà	CCONJ	_	_	39	cc	_	_
@@ -509,13 +509,13 @@
 45	aikìː	aikìː	NOUN	_	Gender=Masc	44	comp:aux	_	wordform=aiki
 46	dà	dà	ADP	_	_	45	comp:obl	_	_
 47	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	46	comp:obj	_	SpaceAfter=No
-48	.	.	PUNCT	_	_	11	punct	_	_
+48	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__17
 # text = Màːsu yîn zàngà-zangàr̃ sun yi zàrgin cêːwaː gwamnatìn taːsù taː kaːsà shaːwoː kân màtsalàr̃ cîn r̃ashawaː à ƙasâr̃, kuma shirìntà maː na tsuːkè bàːkin àljiːhuː yaː shàːfi talakaːwan ƙasâr̃ neː kawài.
-1	Màːsu	mài	PROPN	_	Number=Plur	4	subj	_	_
-2	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	1	comp:obj	_	Gloss=do
-3	zàngà-zangàr̃	zàngà-zangàː	NOUN	_	_	2	udep	_	_
+1	Màːsu	Màːsu	PROPN	_	Number=Plur	4	subj	_	Gloss=Màːsu
+2	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	comp:obj	_	Gloss=do
+3	zàngà-zangàr̃	zàngà-zangàː	NOUN	_	Definite=Cons|Gender=Fem	2	udep	_	_
 4	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
 5	yi	yi	VERB	_	_	4	comp:aux	_	Gloss=do
 6	zàrgin	zàrgiː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:pred	_	_
@@ -531,7 +531,7 @@
 16	r̃ashawaː	r̃ashawaː	NOUN	_	Gender=Fem	15	mod	_	_
 17	à	à	ADP	_	_	12	comp:obl	_	Gloss=at
 18	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	17	comp:obj	_	Gloss=country.Fem.PrevRef|SpaceAfter=No
-19	,	,	PUNCT	_	_	27	punct	_	_
+19	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 20	kuma	kuma	CCONJ	_	_	27	cc	_	_
 21	shirìntà	shirìːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	27	subj	_	_
 22	maː	maː	PART	_	_	21	discourse@top	_	_
@@ -545,13 +545,13 @@
 30	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	29	mod	_	Gloss=country.Fem.PrevRef
 31	neː	neː	PART	_	Gender=Masc|Number=Plur	28	comp:obj@G	_	_
 32	kawài	kawài	ADV	_	_	31	mod	_	SpaceAfter=No
-33	.	.	PUNCT	_	_	4	punct	_	_
+33	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__18
 # text = Sheːkaranjiyà Àlhàmîs, an rufè bankunàː dà kamfanoːnin ìnshoːr̃àr̃ ƙasâr̃ sabòːdà ma'àikàtansù sún yi yaːjìn aikìː.
-1	Sheːkaranjiyà	Sheːkaranjiyà	PROPN	_	_	4	dislocated@subj	_	_
-2	Àlhàmîs	Àlhàmîs	PROPN	_	_	1	flat@name	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	1	punct	_	_
+1	Sheːkaranjiyà	Sheːkaranjiyà	PROPN	_	_	4	dislocated@subj	_	Gloss=Sheːkaranjiyà
+2	Àlhàmîs	Àlhàmîs	PROPN	_	_	1	flat@name	_	Gloss=Àlhàmîs|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 4	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	_
 5	rufè	ruf-	VERB	_	_	4	comp:aux	_	_
 6	bankunàː	bankunàː	NOUN	_	Gender=Fem	5	comp:obj	_	_
@@ -565,11 +565,11 @@
 14	yi	yi	VERB	_	_	13	comp:aux	_	Gloss=do
 15	yaːjìn	yaːjìː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:pred	_	_
 16	aikìː	aikìː	NOUN	_	Gender=Masc	15	mod	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	4	punct	_	_
+17	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__19
 # text = Yaːjìn aikìn naːsù kùwa na nuːnà goːyon baːyaː nèː gà ma'àikàtan Bankìn Raːyà Ƙasâr̃ ta Nìːjâr̃, waɗàndà sukà rasà ayyukànsù baːyân daː gwamnatìn ƙasâr̃ ta yankè shaːwar̃àr̃ rufè bankìn.
-1	Yaːjìn	yaːjìː	PROPN	_	_	5	subj	_	_
+1	Yaːjìn	Yaːjìn	PROPN	_	_	5	subj	_	Gloss=Yaːjìn
 2	aikìn	aikìː	NOUN	_	Definite=Cons|Gender=Masc	1	mod	_	_
 3	naːsù	naːsù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	mod@poss	_	_
 4	kùwa	kùwa	PART	_	_	1	discourse@top	_	_
@@ -580,12 +580,12 @@
 9	nèː	neː	PART	_	_	7	discourse@foc	_	_
 10	gà	gà	ADP	_	_	6	comp:obl	_	_
 11	ma'àikàtan	ma'àikàtan	NOUN	_	Definite=Cons|Number=Plur	10	comp:obj	_	_
-12	Bankìn	Bankìn	PROPN	_	_	11	mod	_	_
-13	Raːyà	Raːyà	PROPN	_	_	12	flat@name	_	_
-14	Ƙasâr̃	Ƙasâr̃	PROPN	_	_	13	flat@name	_	_
+12	Bankìn	Bankìn	PROPN	_	_	11	mod	_	Gloss=Bankìn
+13	Raːyà	Raːyà	PROPN	_	_	12	flat@name	_	Gloss=Raːyà
+14	Ƙasâr̃	Ƙasâr̃	PROPN	_	Definite=Cons|Gender=Fem	13	flat@name	_	Gloss=Ƙasâr̃
 15	ta	ta	ADP	_	_	13	mod	_	_
-16	Nìːjâr̃	Nìːjâr̃	PROPN	_	_	15	comp:obj	_	SpaceAfter=No|wordform=Nijaːr
-17	,	,	PUNCT	_	_	19	punct	_	_
+16	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	15	comp:obj	_	Gloss=Nìːjâr̃|SpaceAfter=No|wordform=Nijaːr
+17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 18	waɗàndà	waɗàndà	PRON	_	Number=Plur|PronType=Rel	20	comp:obj	_	wordform=wadandal
 19	sukà	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	11	mod@relcl	_	_
 20	rasà	rasàː	VERB	_	_	19	comp:aux	_	_
@@ -596,21 +596,21 @@
 25	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	24	mod	_	Gloss=country.Fem.PrevRef|wordform=kasàːr
 26	ta	na	AUX	_	Aspect=Perf|Gender=Fem|Person=3	23	comp:obj	_	_
 27	yankè	yank-	VERB	_	_	26	comp:aux	_	_
-28	shaːwar̃àr̃	shaːwar̃àː	NOUN	_	Number=Plur	27	comp:obj	_	_
+28	shaːwar̃àr̃	shaːwar̃àː	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	27	comp:obj	_	_
 29	rufè	rufè	VERB	_	_	28	mod	_	_
 30	bankìn	bankìː	NOUN	_	Definite=Cons|Gender=Masc	29	mod	_	SpaceAfter=No
-31	.	.	PUNCT	_	_	5	punct	_	_
+31	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__20
 # text = À kuma raːnar̃ Àsabàr̃ dà ta wucèː, 'yan tàːsîn ƙasâr̃ suː maː sun ƙi yîn aikìː.
 1	À	à	ADP	_	_	14	mod	_	_
 2	kuma	kuma	PART	_	_	1	discourse@top	_	_
-3	raːnar̃	raːnaː	NOUN	_	_	1	comp:obj	_	wordform=raːnar
-4	Àsabàr̃	Àsabàr̃	PROPN	_	_	3	mod	_	_
+3	raːnar̃	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	1	comp:obj	_	wordform=raːnar
+4	Àsabàr̃	Àsabàr̃	PROPN	_	Definite=Cons|Gender=Fem	3	mod	_	Gloss=Àsabàr̃
 5	dà	dà	SCONJ	_	_	3	mod@relcl	_	wordform=da
 6	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	5	comp:obj	_	_
 7	wucèː	wucèː	VERB	_	_	6	comp:aux	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	1	punct	_	_
+8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 9	'yan	ɗan	ADJ	_	Definite=Cons|Number=Plur	10	mod	_	_
 10	tàːsîn	tàːsîː	NOUN	_	Definite=Cons|Gender=Masc	14	subj	_	_
 11	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	10	mod	_	Gloss=country.Fem.PrevRef
@@ -618,9 +618,9 @@
 13	maː	maː	PART	_	_	12	discourse@top	_	_
 14	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
 15	ƙi	ƙi	VERB	_	_	14	comp:aux	_	_
-16	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	15	comp:obj	_	Gloss=do
+16	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:obj	_	Gloss=do
 17	aikìː	aikìː	NOUN	_	Definite=Ind|Gender=Masc	16	udep	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	14	punct	_	_
+18	.	.	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__21
 # text = Suː kùwa sun yi kuːkan cêːwaː gwamnatìn taːsù tanàː bâi wà ma'àikàtaː 'yan ƙasàːshen wàːje fiːfiːkòː, wàːtòː ma'àikàtaː dàgà Nàːjeːr̃iyàː dà To :gò dà Jàmhuːr̃iyàr̃ Bìːni.
@@ -640,17 +640,17 @@
 14	ƙasàːshen	ƙasàːshen	NOUN	_	Definite=Cons|Number=Plur	13	comp:obj	_	_
 15	wàːje	wàːje	ADJ	_	_	14	mod	_	_
 16	fiːfiːkòː	fiːfiːkòː	NOUN	_	Gender=Masc	13	comp:obj	_	SpaceAfter=No
-17	,	,	PUNCT	_	_	19	punct	_	_
+17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 18	wàːtòː	wàːtòː	PART	_	_	19	cc	_	Gloss=that_is
 19	ma'àikàtaː	ma'àikàtaː	NOUN	_	Definite=Ind|Number=Plur	21	conj:coord	_	_
 20	dàgà	dàgà	ADP	_	_	19	mod	_	_
-21	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	13	comp:obj	_	_
+21	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	13	comp:obj	_	Gloss=Nigeria
 22	dà	dà	CCONJ	_	_	23	cc	_	_
-23	To :gò	To :gò	PROPN	_	_	21	conj:coord	_	_
+23	To :gò	To :gò	PROPN	_	_	21	conj:coord	_	Gloss=To :gò
 24	dà	dà	CCONJ	_	_	25	cc	_	_
-25	Jàmhuːr̃iyàr̃	Jàmhuːr̃iyàr̃	PROPN	_	_	21	conj:coord	_	_
-26	Bìːni	Bìːni	PROPN	_	_	25	mod	_	SpaceAfter=No
-27	.	.	PUNCT	_	_	3	punct	_	_
+25	Jàmhuːr̃iyàr̃	Jàmhuːr̃iyàr̃	PROPN	_	Definite=Cons|Gender=Fem	21	conj:coord	_	Gloss=Jàmhuːr̃iyàr̃
+26	Bìːni	Bìːni	PROPN	_	_	25	mod	_	Gloss=Bìːni|SpaceAfter=No
+27	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__22
 # text = Tòː lalleː dai kàm gwamnatìn shùːgàbaː Saibou tà yi wani àbù dòːmin shaːwoː kân wannàn zàngà-zangàr̃ ta nuːnà rashìn amìncêwaː dàː mulkìn dà bài daɗèː yanàː kâi ba
@@ -660,7 +660,7 @@
 4	kàm	kàt	ADP	_	_	8	mod	_	_
 5	gwamnatìn	gwamnatìː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	wordform=gwamnatin
 6	shùːgàbaː	shùːgàbaː	NOUN	_	Definite=Ind	5	mod	_	_
-7	Saibou	Saibou	PROPN	_	_	5	mod	_	_
+7	Saibou	Saibou	PROPN	_	_	5	mod	_	Gloss=Saibou
 8	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	0	root	_	_
 9	yi	yi	VERB	_	_	8	comp:aux	_	Gloss=do
 10	wani	wani	DET	_	Definite=Spec|Gender=Masc	11	det	_	_

@@ -156,9 +156,9 @@
 7	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
 8	cafkèː	cafk-	VERB	_	_	7	comp:aux	_	_
 9	shi	shi	PRON	_	Gender=Masc|Person=3	8	comp:obj	_	_
-10	à	à	ADP	_	_	8	comp:obl	_	Gloss=at
-11	kân	kân	ADP	_	_	10	comp:obj	_	_
-12	tiːtìn	tiːtìː	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	_
+10	à	à	ADP	_	ExtPos=ADP	8	comp:obl	_	Gloss=at|Idiom=Yes
+11	kân	kân	ADP	_	_	10	compound	_	InIdiom=Yes
+12	tiːtìn	tiːtìː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	_
 13	Landàn	Landàn	PROPN	_	_	12	mod	_	Gloss=London|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 15	sukà	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	7	parataxis@conj	_	_
@@ -199,9 +199,9 @@
 # sent_id = Umaru_Dikko__8
 # text = à jìkin àkwàːtìn sai akà r̃ubùːtaː " zuwàː gà maꞌaikatar̃ har̃koːkin wàje, gwamnatìn tàːr̃ayyàr̃ Nàjeːr̃iyàː, Ìkko" , wàːtòː indà zaː à kai shì kèːnan.
 # text_ortho = À jìkin àkwàːtìn sai akà r̃ubùːtaː ‘Zuwàː gà Maꞌaikatar̃ Har̃koːkin Wàje, Gwamnatìn Tàːr̃ayyàr̃ Nàjeːr̃iyàː, Ìkko’, wàːtòː indà zaː à kai shì kèːnan.
-1	à	à	ADP	_	_	5	mod	_	Gloss=at
-2	jìkin	jìkin	ADP	_	_	1	comp:obj	_	_
-3	àkwàːtìn	àkwàːtìː	NOUN	_	Definite=Def|Gender=Masc	2	mod	_	_
+1	à	à	ADP	_	ExtPos=ADP	5	mod	_	Gloss=at|Idiom=Yes
+2	jìkin	jìkin	ADP	_	_	1	compound	_	InIdiom=Yes
+3	àkwàːtìn	àkwàːtìː	NOUN	_	Definite=Def|Gender=Masc	1	comp:obj	_	_
 4	sai	sai	ADV	_	_	5	mod	_	_
 5	akà	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	_
 6	r̃ubùːtaː	r̃ubùːtaː	NOUN	_	ExtPos=NOUN|Gender=Fem	5	comp:aux	_	_
@@ -216,7 +216,7 @@
 15	tàːr̃ayyàr̃	tàːr̃ayyàː	NOUN	_	Definite=Cons|Number=Plur	14	mod	_	_
 16	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	15	mod	_	Gloss=Nigeria|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-18	Ìkko	Ìkko	PROPN	_	_	14	mod	_	Gloss=Ìkko|SpaceAfter=No
+18	Ìkko	Ìkko	PROPN	_	_	14	mod	_	Gloss=Lagos|SpaceAfter=No
 19	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT|SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 21	wàːtòː	wàːtòː	PART	_	_	22	discourse	_	Gloss=that_is
@@ -230,9 +230,9 @@
 # sent_id = Umaru_Dikko__9
 # text = à wajen indà ya kàmaːtà à r̃ubùːtà wandà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà oːfishin jàkaːdàn Nàjeːr̃iyàː, " Landàn" .
 # text_ortho = À wajen indà ya kàmaːtà à r̃ubùːtà wandà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà ꞌOːfishin Jàkaːdàn Nàjeːr̃iyàː, Landàn’.
-1	à	à	ADP	_	_	16	dislocated@top	_	Gloss=at
-2	wajen	wajen	ADP	_	_	1	comp.obj	_	_
-3	indà	indà	PRON	_	PronType=Rel	2	mod	_	_
+1	à	à	ADP	_	ExtPos=ADP	16	dislocated@top	_	Gloss=at|Idiom=Yes
+2	wajen	wajen	ADP	_	_	1	compound	_	InIdiom=Yes
+3	indà	indà	PRON	_	PronType=Rel	1	comp:obj	_	_
 4	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	mod@relcl	_	_
 5	kàmaːtà	kàmaːtà	NOUN	_	Definite=Ind	4	comp:aux	_	_
 6	à	à	ADP	_	_	4	subj	_	Gloss=at
@@ -277,9 +277,9 @@
 16	sàːmi	saːm-	VERB	_	_	15	comp:aux	_	_
 17	taːshìː	taːs-	VERB	_	Gender=Masc	16	comp:obj	_	_
 18	samà	samà	ADV	_	_	17	mod	_	_
-19	à	à	ADP	_	_	17	comp:obl	_	Gloss=at
-20	cikin	cikin	ADP	_	_	19	comp:obj	_	_
-21	jirgiː	jirgiː	NOUN	_	Gender=Masc	20	comp:obj	_	_
+19	à	à	ADP	_	ExtPos=ADP	17	comp:obl	_	Gloss=at|Idiom=Yes
+20	cikin	cikin	ADP	_	_	19	compound	_	InIdiom=Yes
+21	jirgiː	jirgiː	NOUN	_	Gender=Masc	19	comp:obj	_	_
 22	ba	ba	PART	_	Polarity=Neg	16	mod	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
@@ -404,9 +404,9 @@
 27	gur̃faːnar̃	gur̃faːnar̃	VERB	_	Definite=Cons|Gender=Fem	26	comp:obj	_	_
 28	dà	dà	ADP	_	_	27	comp:obl	_	_
 29	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	28	comp:obj	_	_
-30	à	à	ADP	_	_	27	comp:obl	_	Gloss=at
-31	gàban	gàban	ADP	_	_	30	comp:obj	_	_
-32	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Gender=Fem	31	comp:obj	_	_
+30	à	à	ADP	_	ExtPos=ADP	27	comp:obl	_	Gloss=at|Idiom=Yes
+31	gàban	gàban	ADP	_	_	30	compound	_	InIdiom=Yes
+32	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Gender=Fem	30	comp:obj	_	_
 33	kân	kân	ADP	_	_	27	comp:obl	_	_
 34	lâifin	lâifiː	NOUN	_	Definite=Cons|Gender=Masc	33	comp:obj	_	_
 35	cîn	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	34	mod	_	_
@@ -475,9 +475,9 @@
 6	à	yà	AUX	_	Mood=Sub|Person=4	5	comp:obj	_	_
 7	ɗàukeː	ɗauk-	VERB	_	_	6	comp:aux	_	_
 8	shì	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	7	comp:obj	_	_
-9	à	à	ADP	_	_	7	comp:obl	_	Gloss=at
-10	matsayin	matsayin	ADP	_	_	9	comp:obj	_	_
-11	ɗan	ɗan	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	_
+9	à	à	ADP	_	ExtPos=ADP	7	comp:obl	_	Gloss=at|Idiom=Yes
+10	matsayin	matsayin	ADP	_	_	9	compound	_	InIdiom=Yes
+11	ɗan	ɗan	NOUN	_	Definite=Cons|Gender=Masc	9	comp:obj	_	_
 12	gudùn	gudùː	NOUN	_	Definite=Cons|Gender=Masc	11	compound	_	_
 13	hijir̃aː	hijir̃aː	NOUN	_	Gender=Fem	12	mod	_	_
 14	à	à	ADP	_	_	7	mod	_	Gloss=at
@@ -670,8 +670,8 @@
 46	dà	dà	ADP	_	_	45	comp:obl	_	_
 47	kai	kai	PRON	_	Case=Nom|Gender=Masc|Person=2|PronType=Prs	46	comp:obj	_	_
 48	à	à	ADP	_	_	45	comp:obl	_	Gloss=at
-49	gàban	gàban	ADP	_	Definite=Cons	48	comp:obj	_	_
-50	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Gender=Masc	49	comp:obj	_	_
+49	gàban	gàban	ADP	_	Definite=Cons	48	compound	_	_
+50	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Gender=Masc	48	comp:obj	_	_
 51	kawài	kawài	ADV	_	_	50	mod	_	SpaceAfter=No
 52	.	.	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 53	"	"	PUNCT	_	_	22	punct	_	Gloss=PUNCT|SpaceAfter=No

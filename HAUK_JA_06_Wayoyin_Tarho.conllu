@@ -4,7 +4,7 @@
 1	waːyoːyin	waːyoːyiː	NOUN	_	Number=Plur|PronType=Dem	0	root	_	_
 2	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	1	mod	_	_
 3	à	à	ADP	_	_	1	mod	_	Gloss=at
-4	Afìr̃kà	Afìr̃kà	PROPN	_	_	3	comp:obj	_	Gloss=Afìr̃kà
+4	Afìr̃kà	Afìr̃kà	PROPN	_	_	3	comp:obj	_	Gloss=Africa
 5	-	-	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 6	bàbban	bàbbaː	ADJ	_	Definite=Cons	7	mod	_	_
 7	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	mod	_	_
@@ -27,7 +27,7 @@
 11	shìrye-shìryensà	shìrye-shìrye	NOUN	_	Definite=Cons|Number=Plur	10	comp:obj	_	_
 12	gà	gà	ADP	_	_	9	comp:obl	_	_
 13	ƙasàːshen	ƙasàːshen	ADP	_	Definite=Cons|Number=Plur	12	comp:obj	_	_
-14	Afìr̃kà	Afìr̃kà	PROPN	_	_	13	flat@name	_	Gloss=Afìr̃kà|SpaceAfter=No
+14	Afìr̃kà	Afìr̃kà	PROPN	_	_	13	flat@name	_	Gloss=Africa|SpaceAfter=No
 15	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 16	doːlè	doːlè	ADV	_	_	0	root	_	_
 17	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	16	comp:cleft	_	_
@@ -61,7 +61,7 @@
 18	wayàː	wayàː	NOUN	_	Gender=Masc	17	comp:obj	_	_
 19	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc	17	comp:obl	_	_
 20	ƙasàːshen	ƙasàːshen	ADJ	_	Definite=Cons|Number=Plur	19	comp:obj	_	_
-21	Afìr̃kà	Afìr̃kà	PROPN	_	_	20	mod	_	Gloss=Afìr̃kà|SpaceAfter=No
+21	Afìr̃kà	Afìr̃kà	PROPN	_	_	20	mod	_	Gloss=Africa|SpaceAfter=No
 22	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 23	mùsammàn	mùsammà	CCONJ	_	Definite=Cons|Gender=Masc	25	cc	_	_
 24	maː	maː	PART	_	_	23	discourse@top	_	_
@@ -200,9 +200,9 @@
 6	wata	wata	DET	_	Gender=Fem	7	det	_	_
 7	wayàr̃	wayàː	NOUN	_	Definite=Cons|Gender=Fem	5	comp:obj	_	_
 8	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	7	compound	_	_
-9	à	à	ADP	_	_	7	mod	_	Gloss=at
-10	yammacin	yammacin	ADP	_	_	9	comp:obj	_	_
-11	Kyanadà	Kyanadà	PROPN	_	_	10	mod	_	Gloss=Kyanadà|SpaceAfter=No
+9	à	à	ADP	_	ExtPos=ADP	7	mod	_	Gloss=at|Idiom=Yes
+10	yammacin	yammacin	ADP	_	_	9	compound	_	InIdiom=Yes
+11	Kyanadà	Kyanadà	PROPN	_	_	9	comp:obj	_	Gloss=Canada|SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 13	sànnan	sànnan	ADV	_	_	14	mod	_	_
 14	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	2	conj:coord	_	_
@@ -211,8 +211,8 @@
 17	Montreal	Montreal	PROPN	_	_	16	comp:obj	_	Gloss=Montreal
 18	"	"	PUNCT	_	_	17	punct	_	Gloss=PUNCT|wordform='
 19	à	à	ADP	_	ExtPos=ADP	17	mod	_	Gloss=at|Idiom=Yes
-20	gabashin	gabashin	ADP	_	_	19	comp.obj	_	InIdiom=Yes
-21	Kyanadàn	Kyanadàn	PROPN	_	_	19	comp:obj	_	Gloss=Kyanadàn|SpaceAfter=No
+20	gabashin	gabashin	ADP	_	_	19	compound	_	InIdiom=Yes
+21	Kyanadàn	Kyanadàn	PROPN	_	Definite=PrevRef	19	comp:obj	_	Gloss=Canada.PrevRef|SpaceAfter=No
 22	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = Wayoyin_Tarho__9
@@ -332,7 +332,7 @@
 6	takè	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Relative=Yes	2	comp:cleft	_	_
 7	à	à	ADP	_	_	6	comp:pred	_	Gloss=at
 8	ƙasàːshen	ƙasàːshen	NOUN	_	Definite=Cons|Number=Plur	7	comp:obj	_	_
-9	Afìr̃kà	Afìr̃kà	PROPN	_	_	8	mod	_	Gloss=Afìr̃kà|SpaceAfter=No
+9	Afìr̃kà	Afìr̃kà	PROPN	_	_	8	mod	_	Gloss=Africa|SpaceAfter=No
 10	?	?	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = Wayoyin_Tarho__15
@@ -428,9 +428,9 @@
 11	Afir̃kà	Afir̃kà	PROPN	_	_	10	mod	_	Gloss=Africa
 12	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	9	comp:obj	_	_
 13	yi	yi	VERB	_	_	12	comp:aux	_	Gloss=do
-14	à	à	ADP	_	_	13	comp:obl	_	Gloss=at
-15	ƙàr̃ƙashin	ƙàr̃ƙashin	ADP	_	_	14	comp:obj	_	_
-16	ƙasàːshen	ƙasàːsheː	NOUN	_	Definite=Cons|Number=Plur	15	comp:obj	_	_
+14	à	à	ADP	_	ExtPos=ADP	13	comp:obl	_	Gloss=at|Idiom=Yes
+15	ƙàr̃ƙashin	ƙàr̃ƙashin	ADP	_	_	14	compound	_	InIdiom=Yes
+16	ƙasàːshen	ƙasàːsheː	NOUN	_	Definite=Cons|Number=Plur	14	comp:obj	_	_
 17	Tuːr̃ai	Tuːr̃ai	PROPN	_	_	16	mod	_	Gloss=Tuːr̃ai|SpaceAfter=No
 18	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 19	àmmaː	àmmaː	CCONJ	_	_	23	cc	_	_

@@ -302,10 +302,10 @@
 24	bugà	bug-	VERB	_	_	23	comp:aux	_	_
 25	wannàn	wannàn	DET	_	PronType=Dem	26	det	_	_
 26	littaːfìn	littaːfìː	NOUN	_	Definite=Cons|Gender=Masc	24	comp:obj	_	_
-27	à	à	ADP	_	_	24	comp:obl	_	Gloss=at
-28	cikin	cikiː	ADP	_	_	27	comp:obj	_	_
-29	harshèn	harshèː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	_
-30	Japananciː	Japananciː	PROPN	_	_	29	mod	_	Gloss=Japananciː|SpaceAfter=No
+27	à	à	ADP	_	ExtPos=ADP	24	comp:obl	_	Gloss=at|Idiom=Yes
+28	cikin	cikiː	ADP	_	_	27	compound	_	InIdiom=Yes
+29	harshèn	harshèː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:obj	_	_
+30	Japananciː	Japananciː	PROPN	_	_	29	mod	_	Gloss=Japanese|SpaceAfter=No
 31	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__13
@@ -512,7 +512,7 @@
 26	maː	maː	PART	_	_	23	discourse@top	_	SpaceAfter=No
 27	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 28	wasu	wasu	DET	_	Definite=Spec|Number=Plur	29	det	_	_
-29	Mùsùlmiː	Mùsùlmiː	PROPN	_	_	39	subj	_	Gloss=Mùsùlmiː
+29	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	39	subj	_	Gloss=Muslim.Plur
 30	suː	suː	PRON	_	Number=Plur|Person=3	29	det	_	_
 31	kìːmaːnìn	kìːmaːnìː	NOUN	_	Definite=Cons|Gender=Masc	39	subj	_	_
 32	ɗàːriː	ɗàːriː	NUM	_	Number=Plur	31	mod	_	_
@@ -570,7 +570,7 @@
 9	wannàn	wannàn	DET	_	PronType=Dem	10	det	_	_
 10	ƙungìyaː	ƙungìyaː	NOUN	_	Gender=Fem	8	mod	_	_
 11	ta	ta	ADP	_	_	10	mod	_	_
-12	Mùsùlmiː	Mùsùlmiː	PROPN	_	_	11	comp:obj	_	Gloss=Mùsùlmiː
+12	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	11	comp:obj	_	Gloss=Muslim.Plur
 13	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 14	cêː	cêː	VERB	_	_	13	comp:aux	_	_
 15	lalleː	lalleː	INTJ	_	_	18	discourse	_	_
@@ -589,7 +589,7 @@
 28	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	26	comp:obj	_	_
 29	ƙàːlùːbàlànci	ƙàːlùːbàlànci	VERB	_	_	28	comp:aux	_	_
 30	àl'ummàr̃	àl'ummàː	NOUN	_	Definite=Cons|Gender=Fem	29	comp:obj	_	_
-31	Mùsùlmiː	Mùsùlmiː	PROPN	_	_	30	mod	_	Gloss=Mùsùlmiː
+31	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	30	mod	_	Gloss=Muslim.Plur
 32	bàːkiː	yaː	AUX	_	Gender=Masc	29	comp:obl	_	_
 33	ɗayansù	ɗaya	NOUN	_	Case=Acc|Number=Plur|Person=3	32	comp:obj	_	SpaceAfter=No
 34	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
@@ -610,9 +610,9 @@
 12	kàm	kàm	IDEO	_	_	4	discourse@top	_	_
 13	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	10	comp:obj	_	_
 14	nan	nan	ADV	_	Definite=Def|PronType=Dem	13	comp:pred	_	_
-15	à	à	ADP	_	_	13	comp:pred	_	Gloss=at
-16	kân	kân	ADP	_	_	15	comp:obj	_	_
-17	bàkansà	bàkansà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	16	comp:obj	_	SpaceAfter=No
+15	à	à	ADP	_	ExtPos=ADP	13	comp:pred	_	Gloss=at|Idiom=Yes
+16	kân	kân	ADP	_	_	15	compound	_	InIdiom=Yes
+17	bàkansà	bàkansà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	15	comp:obj	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 19	bàː	bàː	PART	_	Polarity=Neg	20	mod	_	_
 20	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	13	parataxis@conj	_	_
