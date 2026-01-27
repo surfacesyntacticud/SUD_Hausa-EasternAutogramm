@@ -1,7 +1,7 @@
 # sent_id = 10_Daurin_Siyasa__1
 # text = An ƙàːlùːbàlànci ɗaurìn sìyaːsàː
 1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	_
-2	ƙàːlùːbàlànci	ƙàːlùːbàlànc-	VERB	_	_	1	comp:aux	_	_
+2	ƙàːlùːbàlànci	ƙaːluːbalant-	VERB	_	_	1	comp:aux	_	_
 3	ɗaurìn	ɗaurìː	NOUN	_	Definite=Cons	2	comp:obj	_	_
 4	sìyaːsàː	sìyaːsàː	NOUN	_	Definite=Ind	3	mod	_	_
 
@@ -14,13 +14,13 @@
 5	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	4	comp:obj	_	Gloss=Nigeria
 6	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	_
 7	shaː	shaː	VERB	_	_	6	comp:aux	_	_
-8	bambam	bamː	NOUN	_	Gender=Masc|PronType=Rel	7	comp:obj	_	_
-9	dà	dà	ADP	_	_	8	comp:obl	_	_
+8	bambam	bamː	ADV	_	Gender=Masc|PronType=Rel	7	comp:pred	_	_
+9	dà	dà	ADP	_	_	8	mod	_	_
 10	sauran	sauraː	NOUN	_	Definite=Cons	9	comp:obj	_	_
 11	gwamnatoːcin	gwamnatoːciː	NOUN	_	Definite=Cons|Gender=Masc	10	mod	_	_
 12	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	11	mod	_	_
 13	soːjà	soːjà	NOUN	_	Gender=Masc	12	mod	_	_
-14	à	à	ADP	_	_	10	mod	_	Gloss=at
+14	à	à	ADP	_	_	11	mod	_	Gloss=at
 15	Afir̃kà	Afir̃kà	PROPN	_	_	14	comp:obj	_	Gloss=Africa|SpaceAfter=No
 16	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
