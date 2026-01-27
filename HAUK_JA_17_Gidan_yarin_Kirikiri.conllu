@@ -94,9 +94,9 @@
 34	à	à	ADP	_	_	23	comp:obl	_	Gloss=at
 35	gabaːtar̃	gabaːtaː	VERB	_	Definite=Cons|Gender=Fem	34	comp:obj	_	_
 36	dà	dà	ADP	_	_	35	comp:obl	_	_
-37	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	34	comp:obj	_	_
-38	nèː	neː	PART	_	_	34	discourse@foc	_	_
-39	à	à	ADP	_	_	38	mod	_	Gloss=at
+37	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	36	comp:obj	_	_
+38	nèː	neː	PART	_	_	37	discourse@foc	_	_
+39	à	à	ADP	_	_	35	comp:obl	_	Gloss=at
 40	gàban	gàban	ADP	_	_	39	comp:obj	_	_
 41	koːtù	koːtù	PRON	_	_	40	comp:obj	_	SpaceAfter=No
 42	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -245,9 +245,9 @@
 13	à	à	ADP	_	_	12	comp:obl	_	Gloss=at
 14	gabaːtar̃	gabaːtaː	VERB	_	Definite=Cons|Gender=Fem	13	comp:obj	_	wordform=gabaːtar
 15	dà	dà	ADP	_	_	14	comp:obl	_	_
-16	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	comp:pred	_	_
-17	nèː	neː	AUX	_	Gender=Masc|Number=Plur	15	comp:obj	_	_
-18	à	à	ADP	_	_	17	mod	_	Gloss=at
+16	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	comp:obj	_	_
+17	nèː	neː	AUX	_	Gender=Masc|Number=Plur	16	discourse@foc	_	_
+18	à	à	ADP	_	_	14	comp:obl	_	Gloss=at
 19	gàban	gàban	ADP	_	_	18	comp:obj	_	_
 20	shàr̃i'àː	shàr̃i'àː	NOUN	_	Definite=Ind|Gender=Fem	19	comp:obj	_	_
 21	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
@@ -690,8 +690,8 @@
 6	cêː	cêː	VERB	_	_	5	comp:aux	_	_
 7	koːmeː	koːmeː	PRON	_	PronType=Ind	6	comp:obj	_	_
 8	ba	ba	PART	_	Polarity=Neg	6	mod	_	_
-9	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	6	comp:obl	_	_
-10	dà	dà	ADP	_	_	9	compound	_	_
-11	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	9	comp:obj	_	SpaceAfter=No
+9	gàme	gàme	ADP	_	_	6	comp:obl	_	Gloss=with
+10	dà	dà	ADP	_	_	9	comp:obj	_	Gloss=with
+11	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 

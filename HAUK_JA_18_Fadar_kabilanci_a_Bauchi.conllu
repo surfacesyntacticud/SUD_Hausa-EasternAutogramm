@@ -302,7 +302,7 @@
 3	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	2	mod	_	Gloss=Nigeria
 4	kà	eː	AUX	_	Aspect=Prog	2	mod	_	_
 5	kèː	keː	PART	_	_	4	comp:aux	_	_
-6	Baucîn	Baucîn	PROPN	_	_	9	subj	_	Gloss=Bauchi.PrevRef
+6	Baucîn	Baucîn	PROPN	_	Definite=PrevRef	9	subj	_	Gloss=Bauchi.PrevRef
 7	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
 8	cêː	cêː	VERB	_	_	7	comp:aux	_	_
 9	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	8	comp:obj	_	_
@@ -312,9 +312,9 @@
 13	akà	nàː	AUX	_	Aspect=Prog|Person=4	12	comp:obj	_	_
 14	yi	yi	VERB	_	_	13	comp:aux	_	Gloss=do
 15	wà	wà	ADP	_	Case=Dat	14	comp:obl	_	_
-16	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	17	subj	_	Gloss=Muslim.Plur
-17	suː	suː	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	comp:obj	_	_
-18	fìye	fiy-	VERB	_	ExtPos=ADV|VerbForm=Stat	17	mod	_	_
+16	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	15	comp:obj	_	Gloss=Muslim.Plur
+17	suː	suː	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	mod:num	_	_
+18	fìye	fiy-	VERB	_	ExtPos=ADV|VerbForm=Stat	17	udep	_	_
 19	dà	dà	ADP	_	_	18	comp:obl	_	_
 20	ɗàriː	ɗàriː	NUM	_	Gender=Masc	19	comp:obj	_	_
 21	dà	dà	CCONJ	_	_	20	cc	_	_
@@ -338,8 +338,8 @@
 39	à	yà	AUX	_	Mood=Sub|Person=4	34	parataxis@conj	_	_
 40	yàr̃yàːshe	yàr̃yàː	VERB	_	_	39	comp:obj	_	_
 41	à	à	ADP	_	_	40	mod	_	Gloss=at
-42	geːfèn	geːfèn	ADP	_	_	41	comp.obj	_	_
-43	hanyàː	hanyàː	NOUN	_	Gender=Fem	42	mod	_	SpaceAfter=No
+42	geːfèn	geːfèn	ADP	_	_	41	comp:obj	_	_
+43	hanyàː	hanyàː	NOUN	_	Gender=Fem	42	comp:obj	_	SpaceAfter=No
 44	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__10
@@ -397,14 +397,14 @@
 12	yi	yi	VERB	_	_	11	comp:aux	_	Gloss=do
 13	zàrgin	zàrgiː	NOUN	_	Definite=Cons|Gender=Masc	12	comp:pred	_	_
 14	cêwaː	cêwaː	SCONJ	_	_	13	mod	_	_
-15	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	22	subj	_	Gloss=Muslim.Plur
+15	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	20	dislocated@top	_	Gloss=Muslim.Plur
 16	màːsu	mài	PART	_	Number=Plur	15	mod	_	_
 17	tsananin	tsananiː	NOUN	_	Definite=Cons|Number=Plur	16	comp:obj	_	_
 18	r̃a'àyin	r̃a'àyiː	NOUN	_	Definite=Cons|Number=Plur	16	comp:obj	_	_
 19	àddiːnìː	àddiːnìː	NOUN	_	Gender=Masc	18	mod	_	_
-20	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	comp:pred	_	_
-21	nèː	neː	AUX	_	Gender=Masc|Number=Plur	14	comp:obj	_	_
-22	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	21	comp:cleft	_	_
+20	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	comp:obj	_	_
+21	nèː	neː	AUX	_	Gender=Masc|Number=Plur	20	discourse@foc	_	_
+22	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	20	comp:cleft	_	_
 23	janyoː	j-	VERB	_	_	22	comp:aux	_	_
 24	waɗànnân	waɗànnân	DET	_	Number=Plur|PronType=Dem	23	comp:obj	_	_
 25	tàːshe-tàːshen	tàːshe-tà-	ADJ	_	Definite=Cons|Number=Plur	23	comp:obj	_	_

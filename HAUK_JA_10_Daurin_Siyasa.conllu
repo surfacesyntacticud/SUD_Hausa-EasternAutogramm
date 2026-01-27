@@ -173,14 +173,14 @@
 # text = Àmmaː suː lauyoːyiː na Ƙungìyar̃ Neːmàː wà Jàma'àː Haƙƙìnsù ta Nàːjeːr̃iyàː sun cêː sun haƙiːƙànceː anàː àmfàːniː dà wannàn Dòːkaː ta Biyu ta hanyàr̃ dà bàtà daːcèː ba - wàːtòː anàː tsarèː mutàneː sabòːdà laifuffukàː na yâu dà kullum kawài, waɗàndà al'amur̃ànsù bàsù shàːfi yîn wata maƙar̃ƙashìyaː gà laːfiyàr̃ ƙasaː koː kuma gà tattalin ar̃zìkin ƙasaː ba.
 1	Àmmaː	àmmaː	CCONJ	_	_	12	discourse	_	_
 2	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	subj	_	_
-3	lauyoːyiː	lauyoːyiː	NOUN	_	Gender=Masc	12	subj	_	_
+3	lauyoːyiː	lauyoːyiː	NOUN	_	Gender=Masc	2	conj:appos	_	_
 4	na	na	ADP	_	_	3	mod	_	_
 5	Ƙungìyar̃	Ƙungìyar̃	PROPN	_	Definite=Cons|Gender=Fem	4	comp:obj	_	Gloss=Ƙungìyar̃
 6	Neːmàː	Neːmàː	PROPN	_	_	5	flat@name	_	Gloss=Neːmàː
-7	wà	wà	ADP	_	_	3	comp:obl	_	_
-8	Jàma'àː	Jàma'àː	PROPN	_	_	4	comp:obj	_	Gloss=Jàma'àː
-9	Haƙƙìnsù	Haƙƙìnsù	PROPN	_	_	8	flat@name	_	Gloss=Haƙƙìnsù
-10	ta	ta	ADP	_	_	8	mod	_	_
+7	wà	wà	ADP	_	_	6	comp:obl	_	_
+8	Jàma'àː	Jàma'àː	PROPN	_	_	7	comp:obj	_	Gloss=Jàma'àː
+9	Haƙƙìnsù	Haƙƙìnsù	PROPN	_	_	6	comp:obj	_	Gloss=Haƙƙìnsù
+10	ta	ta	ADP	_	_	5	mod	_	_
 11	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	10	comp:obj	_	Gloss=Nigeria
 12	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
 13	cêː	cêː	VERB	_	_	12	comp:aux	_	_
