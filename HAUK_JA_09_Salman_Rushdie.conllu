@@ -440,13 +440,14 @@
 18	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	17	comp:obl	_	_
 19	ankwàː	ankwàː	NOUN	_	Gender=Fem	17	comp:obj	_	_
 20	à	à	ADP	_	_	17	comp:obl	_	Gloss=at
-21	hannunsà	hannuː	NOUN	_	Case=Gen|Definite=Cons|Number=Plur|Person=3	20	comp:obj	_	_
-22	akà	yaː	AUX	_	Aspect=Perf|Person=4	16	parataxis@conj	_	_
-23	yi	yi	VERB	_	_	22	comp:aux	_	Gloss=do
-24	wàje	wàje	ADV	_	_	23	comp:pred	_	_
-25	dà	dà	ADP	_	_	23	comp:obl	_	_
-26	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	25	comp:obj	_	SpaceAfter=No
-27	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
+21	hannun	hannuː	NOUN	_	Case=Gen|Definite=Cons|Number=Plur|Person=3	20	comp:obj	_	SpaceAfter=No|wordform=hannunsà
+22	sà	sà	PRON	_	_	21	mod@poss	_	Gloss=3Masc.Gen
+23	akà	yaː	AUX	_	Aspect=Perf|Person=4	16	parataxis@conj	_	_
+24	yi	yi	VERB	_	_	23	comp:aux	_	Gloss=do
+25	wàje	wàje	ADV	_	_	24	comp:pred	_	_
+26	dà	dà	ADP	_	_	24	comp:obl	_	_
+27	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	26	comp:obj	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__19
 # text = Loːkàcîn dà akèː tàfiyàː dà shiː sai ya kaː dà bàːkiː ya cèː shiː kàm yanàː ƙàunar̃ ƙasar̃ Jàpân, kuma bài kàmaːtà ita ƙasar̃ Jàpân ɗîn tà tsoːmà bàːkintà cikin wannàn àl'amàr̃iː ba.
@@ -479,12 +480,13 @@
 27	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	25	det	_	_
 28	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	22	subj	_	_
 29	tsoːmà	tsoːmàː	VERB	_	_	28	comp:aux	_	_
-30	bàːkintà	bàːkiːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	29	comp:obj	_	_
-31	cikin	cikin	ADP	_	_	29	comp:obl	_	_
-32	wannàn	wannàn	DET	_	PronType=Dem	33	det	_	_
-33	àl'amàr̃iː	àl'amàr̃iː	NOUN	_	Gender=Masc	31	comp:obj	_	_
-34	ba	ba	PART	_	Polarity=Neg	29	mod	_	SpaceAfter=No
-35	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
+30	bàːkin	bàːkiː	NOUN	_	Definite=Cons|Gender=Masc|Person=3	29	comp:obj	_	Gloss=mouth|SpaceAfter=No|wordform=bàːkintà
+31	tà	tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	30	mod@poss	_	Gloss=3Fem.Gen
+32	cikin	cikin	ADP	_	_	29	comp:obl	_	_
+33	wannàn	wannàn	DET	_	PronType=Dem	34	det	_	_
+34	àl'amàr̃iː	àl'amàr̃iː	NOUN	_	Gender=Masc	32	comp:obj	_	_
+35	ba	ba	PART	_	Polarity=Neg	29	mod	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__20
 # text = Tòː dâː maː tun kwàːnàkin baːya anàː yîn wannàn hàyàːniyaː gàme dà littaːfìn na Aːyoːyin Shàiɗân, dòːmin kùwa à raːnar̃ Lahàdì dà ta wucèː maː, wasu Mùsùlmiː suː kìːmaːnìn ɗàːriː dà àshìr̃in à wata ùnguwar̃ Tokyo sun yi wata zaːngà-zangà baːyân dà sukà idar̃ dà sallàː.
@@ -585,18 +587,19 @@
 20	Gianni	Gianni	PROPN	_	_	19	comp:obj	_	Gloss=Gianni
 21	Palma	Palma	PROPN	_	_	20	flat@name	_	Gloss=Palma
 22	dà	dà	ADP	_	_	19	comp:obl	_	_
-23	rânsà	râi	NOUN	_	Gender=Fem	22	comp:obj	_	_
-24	ba	ba	PART	_	Polarity=Neg	18	mod	_	SpaceAfter=No
-25	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
-26	dòːmin	dòːmin	SCONJ	_	_	18	mod	_	_
-27	kùwa	kùwa	PART	_	_	26	discourse@top	_	_
-28	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	26	comp:obj	_	_
-29	ƙàːlùːbàlànci	ƙaːluːbalant-	VERB	_	_	28	comp:aux	_	_
-30	àl'ummàr̃	àl'ummàː	NOUN	_	Definite=Cons|Gender=Fem	29	comp:obj	_	_
-31	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	30	mod	_	Gloss=Muslim.Plur
-32	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	31	mod	_	Gloss=mouth.Masc
-33	ɗayansù	ɗaya	NUM	_	Case=Acc|Number=Plur|Person=3	32	mod:num	_	SpaceAfter=No
-34	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
+23	rân	râi	NOUN	_	Gender=Fem	22	comp:obj	_	SpaceAfter=No|wordform=rânsà
+24	sà	sà	PRON	_	_	23	mod@poss	_	Gloss=3Masc.Gen
+25	ba	ba	PART	_	Polarity=Neg	18	mod	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
+27	dòːmin	dòːmin	SCONJ	_	_	18	mod	_	_
+28	kùwa	kùwa	PART	_	_	27	discourse@top	_	_
+29	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	27	comp:obj	_	_
+30	ƙàːlùːbàlànci	ƙaːluːbalant-	VERB	_	_	29	comp:aux	_	_
+31	àl'ummàr̃	àl'ummàː	NOUN	_	Definite=Cons|Gender=Fem	30	comp:obj	_	_
+32	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	31	mod	_	Gloss=Muslim.Plur
+33	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	32	mod	_	Gloss=mouth.Masc
+34	ɗayansù	ɗaya	NUM	_	Case=Acc|Number=Plur|Person=3	33	mod:num	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__23
 # text = Sai dai kuma shiː Gianni Palma yaː kafèː kân cêːwaː lalleː kàm yanàː nan à kân bàkansà, bàː zâi jaː dà baːya ba.
@@ -616,13 +619,14 @@
 14	nan	nan	ADV	_	Definite=Def|PronType=Dem	13	comp:pred	_	_
 15	à	à	ADP	_	_	13	comp:pred	_	Gloss=at
 16	kân	kân	ADP	_	_	15	comp:obj	_	_
-17	bàkansà	bàkansà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	16	comp:obj	_	SpaceAfter=No
-18	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-19	bàː	bàː	PART	_	Polarity=Neg	20	mod	_	_
-20	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	13	parataxis@conj	_	_
-21	jaː	jaː	VERB	_	_	20	comp:aux	_	_
-22	dà	dà	ADP	_	_	21	comp:obl	_	_
-23	baːya	baːya	ADV	_	_	22	comp:obj	_	_
-24	ba	ba	PART	_	Polarity=Neg	20	mod	_	SpaceAfter=No
-25	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+17	bàkan	bàkansà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	16	comp:obj	_	SpaceAfter=No|wordform=bàkansà
+18	sà	sà	PRON	_	_	17	mod@poss	_	Gloss=3Masc.Gen
+19	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
+20	bàː	bàː	PART	_	Polarity=Neg	21	mod	_	_
+21	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	13	parataxis@conj	_	_
+22	jaː	jaː	VERB	_	_	21	comp:aux	_	_
+23	dà	dà	ADP	_	_	22	comp:obl	_	_
+24	baːya	baːya	ADV	_	_	23	comp:obj	_	_
+25	ba	ba	PART	_	Polarity=Neg	21	mod	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
