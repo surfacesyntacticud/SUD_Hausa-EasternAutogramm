@@ -387,7 +387,7 @@
 29	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha__12
-# text = An yi zàngà-zangà ta biyûn à Kanòː indà 'yan sàndan kashè tàr̃zòːmaː sukà yi sàmmakoː zuwàː hàr̃aːbàr̃ Jaːmi'àr̃ Bàyer̃ò ta Kanòː, don sù hanà ɗàːlìban jaːmi'àr̃ gudaːnar̃ dà zàngà-zangàr̃ lùmaːnàr̃ dà sukà shiryà yîː don nuːnà rashìn amìncêːwar̃sù dà harìn dà ƙasar̃̃ Amìr̃kà dà àːbòːkan ƙàwàncentà sukà kai wà ƙasar̃ Ìr̃aːƙì.
+# text = An yi zàngà-zangà ta biyûn à Kanòː indà 'yan sàndan kashè tàr̃zòːmaː sukà yi sàmmakoː zuwàː hàr̃aːbàr̃ Jaːmi'àr̃ Bàyer̃ò ta Kanòː, don sù hanà ɗàːlìban jaːmi'àr̃ gudaːnar̃ dà zàngà-zangàr̃ lùmaːnàr̃ dà sukà shiryà yîː don nuːnà rashìn amìncêːwar̃sù dà harìn dà ƙasar̃Amìr̃kà dà àːbòːkan ƙàwàncentà sukà kai wà ƙasar̃ Ìr̃aːƙì.
 1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	_
 2	yi	yi	VERB	_	_	1	comp:aux	_	Gloss=do
 3	zàngà-zangà	zàngà-zangà	NOUN	_	Number=Plur	2	comp:pred	_	_
@@ -434,13 +434,14 @@
 44	Amìr̃kà	Amìr̃kà	PROPN	_	_	43	mod	_	Gloss=Amìr̃kà
 45	dà	dà	CCONJ	_	_	41	cc	_	_
 46	àːbòːkan	àːbòːkaː	NOUN	_	Definite=Cons|Number=Plur	33	subj	_	_
-47	ƙàwàncentà	ƙàwànceːtà	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur|Person=3	46	mod	_	_
-48	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	33	parataxis@conj	_	_
-49	kai	kai	VERB	_	_	48	comp:aux	_	_
-50	wà	wà	ADP	_	Case=Dat	49	comp:obl	_	_
-51	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	49	comp:obj	_	_
-52	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	51	mod	_	Gloss=Ìr̃aːƙì|SpaceAfter=No
-53	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+47	ƙàwàncen	ƙàwànceː	NOUN	_	Definite=Cons|Gender=Masc	46	mod	_	SpaceAfter=No|wordform=ƙàwàncentà
+48	tà	tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	47	mod@poss	_	Gloss=3Fem.Gen
+49	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	33	parataxis@conj	_	_
+50	kai	kai	VERB	_	_	49	comp:aux	_	_
+51	wà	wà	ADP	_	Case=Dat	50	comp:obl	_	_
+52	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	50	comp:obj	_	_
+53	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	52	mod	_	Gloss=Ìr̃aːƙì|SpaceAfter=No
+54	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha__13
 # text = Tun dà duku-duku nèː 'yan sàndan kashè tàr̃zòːmâr̃ sukà jeː hàr̃aːbàr̃ jaːmi'àr̃ sukà yi wà wurîn ƙawanyàː, sànnan kuma sukà kullèː duk ƙoːfoːfîn dà mânyan kwaːɗunàː.

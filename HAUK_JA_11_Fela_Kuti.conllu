@@ -174,7 +174,7 @@
 27	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 11_Fela_Kuti__7
-# text = Tò àmmaː irìn mabuːsâr̃ nan mài kàmaː dà algaitàː dà akèː kiràː "saxophone", ita cèː koːwaː ya fi dangàntàkàɗe-kàɗen Fela dà ita.
+# text = Tò àmmaː irìn mabuːsâr̃ nan mài kàmaː dà algaitàː dà akèː kiràː "saxophone", ita cèː koːwaː ya fi dangàntà kàɗe-kàɗen Fela dà ita.
 1	Tò	tò	INTJ	_	_	18	discourse	_	_
 2	àmmaː	àmmaː	CCONJ	_	_	18	discourse	_	_
 3	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	18	subj	_	Gloss=type.Masc.Cons
@@ -196,7 +196,7 @@
 19	koːwaː	koːwaː	PRON	_	PronType=Ind	20	subj	_	_
 20	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	18	comp:cleft	_	_
 21	fi	fi	VERB	_	_	20	comp:aux	_	_
-22	dangàntà	dangant-	VERB	_	_	21	comp:obj	_	Gloss=differentiate|SpaceAfter=No
+22	dangàntà	dangant-	VERB	_	_	21	comp:obj	_	Gloss=differentiate
 23	kàɗe-kàɗen	kàɗe-kàɗen	ADP	_	_	22	comp:obj	_	_
 24	Fela	Fela	PROPN	_	_	23	comp:obj	_	Gloss=Fela
 25	dà	dà	ADP	_	_	24	cc	_	_
@@ -707,40 +707,41 @@
 9	taːsà	taːsà	NUM	_	_	8	mod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 11	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	5	comp:obj	_	_
-12	à	à	ADP	_	_	14	mod	_	Gloss=at
-13	cikintà	cikintà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	12	comp:obj	_	_
-14	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	mod@relcl	_	_
-15	cèː	cêː	VERB	_	_	14	comp:aux	_	_
-16	kàmaːtàː	kàmaːtàː	NOUN	_	Gender=Fem	15	comp:obj	_	_
-17	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	14	parataxis@conj	_	_
-18	yi	yi	VERB	_	_	17	comp:aux	_	Gloss=do
-19	dukkàn	dukkàn	DET	_	PronType=Tot	18	comp:pred	_	_
-20	jàma'àr̃	jàma'àː	NOUN	_	Definite=Ind|Gender=Fem	19	mod	_	_
-21	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	20	mod	_	Gloss=Nigeria
-22	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	18	mod	_	_
-23	yi	yi	VERB	_	_	22	comp:aux	_	Gloss=do
-24	huːtuː	huːtuː	NOUN	_	Gender=Masc	23	comp:pred	_	_
-25	na	na/ta	ADP	_	_	20	mod	_	_
-26	watàː	watàː	NOUN	_	Gender=Masc	25	comp:obj	_	_
-27	gùdaː	gùdaː	NUM	_	_	26	det	_	SpaceAfter=No
-28	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
-29	don	don	SCONJ	_	_	23	mod	_	_
-30	koːwaː	koːwaː	PRON	_	_	31	subj	_	_
-31	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	29	comp:obj	_	_
-32	sàːmi	saːm-	VERB	_	_	31	comp:aux	_	_
-33	sùkuːnìn	sùkuːnìː	NOUN	_	Definite=Cons|Gender=Masc	32	comp:obj	_	_
-34	tùnàːnin	tùnàːniː	NOUN	_	Definite=Cons|Gender=Masc	33	mod	_	_
-35	hanyàr̃	hanyàː	NOUN	_	Definite=Ind|Gender=Fem	34	mod	_	_
-36	dà	dà	SCONJ	_	_	34	mod@relcl	_	_
-37	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	36	comp:obj	_	_
-38	ɓulloː	ɓull-	VERB	_	_	37	comp:aux	_	_
-39	wà	wà	ADP	_	Case=Dat	38	comp:obl	_	_
-40	matsaloːlîn	matsaloːlîː	NOUN	_	Definite=Cons|Gender=Masc	39	comp:obj	_	_
-41	dà	dà	SCONJ	_	_	40	comp:obl	_	_
-42	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	43	subj	_	_
-43	kèː	nàː	AUX	_	Aspect=Prog	41	comp:obj	_	_
-44	fùskantàː	fùskantaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Person=3	43	comp:aux	_	SpaceAfter=No
-45	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+12	à	à	ADP	_	_	15	mod	_	Gloss=at
+13	cikin	cikintà	ADP	_	Definite=Cons|Gender=Fem|Person=3	12	comp:obj	_	SpaceAfter=No|wordform=cikintà
+14	tà	tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	13	comp:obj	_	Gloss=3Fem.Gen
+15	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	mod@relcl	_	_
+16	cèː	cêː	VERB	_	_	15	comp:aux	_	_
+17	kàmaːtàː	kàmaːtàː	NOUN	_	Gender=Fem	16	comp:obj	_	_
+18	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	15	parataxis@conj	_	_
+19	yi	yi	VERB	_	_	18	comp:aux	_	Gloss=do
+20	dukkàn	dukkàn	DET	_	PronType=Tot	19	comp:pred	_	_
+21	jàma'àr̃	jàma'àː	NOUN	_	Definite=Ind|Gender=Fem	20	mod	_	_
+22	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	21	mod	_	Gloss=Nigeria
+23	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	19	mod	_	_
+24	yi	yi	VERB	_	_	23	comp:aux	_	Gloss=do
+25	huːtuː	huːtuː	NOUN	_	Gender=Masc	24	comp:pred	_	_
+26	na	na/ta	ADP	_	_	21	mod	_	_
+27	watàː	watàː	NOUN	_	Gender=Masc	26	comp:obj	_	_
+28	gùdaː	gùdaː	NUM	_	_	27	det	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
+30	don	don	SCONJ	_	_	24	mod	_	_
+31	koːwaː	koːwaː	PRON	_	_	32	subj	_	_
+32	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	30	comp:obj	_	_
+33	sàːmi	saːm-	VERB	_	_	32	comp:aux	_	_
+34	sùkuːnìn	sùkuːnìː	NOUN	_	Definite=Cons|Gender=Masc	33	comp:obj	_	_
+35	tùnàːnin	tùnàːniː	NOUN	_	Definite=Cons|Gender=Masc	34	mod	_	_
+36	hanyàr̃	hanyàː	NOUN	_	Definite=Ind|Gender=Fem	35	mod	_	_
+37	dà	dà	SCONJ	_	_	35	mod@relcl	_	_
+38	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	37	comp:obj	_	_
+39	ɓulloː	ɓull-	VERB	_	_	38	comp:aux	_	_
+40	wà	wà	ADP	_	Case=Dat	39	comp:obl	_	_
+41	matsaloːlîn	matsaloːlîː	NOUN	_	Definite=Cons|Gender=Masc	40	comp:obj	_	_
+42	dà	dà	SCONJ	_	_	41	comp:obl	_	_
+43	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	44	subj	_	_
+44	kèː	nàː	AUX	_	Aspect=Prog	42	comp:obj	_	_
+45	fùskantàː	fùskantaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Person=3	44	comp:aux	_	SpaceAfter=No
+46	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 11_Fela_Kuti__25
 # text = Sai kwatsàm à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà huɗu akà kaːmà Fela, akà gurfaːnar̃ dà shiː gàban shàr̃i'àː, indà akà yankèː masà hukuncìn ɗaurìn shèːkàruː bìyar̃ à kûr̃kukùː kân lâifin fìtaː dà kuɗàːɗen ƙasàːshen wàje dàgà cikin ƙasâr̃ - wàːtòː aikìn sùmoːgàː.

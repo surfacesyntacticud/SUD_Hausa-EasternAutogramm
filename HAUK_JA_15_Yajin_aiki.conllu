@@ -503,13 +503,14 @@
 39	manufoːfin	manufoːfiː	NOUN	_	Definite=Cons|Number=Plur	23	conj:coord	_	_
 40	tattalin	tattaliː	NOUN	_	Definite=Cons|Gender=Masc	39	mod	_	_
 41	ar̃zìkiː	ar̃zìkiː	NOUN	_	Gender=Masc	40	mod	_	_
-42	dà	dà	SCONJ	_	_	45	comp:obl	_	_
-43	gwamnatìnsà	gwamnatìː	NOUN	_	Case=Gen|Gender=Masc|Person=2	44	subj	_	_
-44	takèː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	37	comp:obj	_	_
-45	aikìː	aikìː	NOUN	_	Gender=Masc	44	comp:aux	_	wordform=aiki
-46	dà	dà	ADP	_	_	45	comp:obl	_	_
-47	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	46	comp:obj	_	SpaceAfter=No
-48	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
+42	dà	dà	SCONJ	_	_	46	comp:obl	_	_
+43	gwamnatìn	gwamnatìː	NOUN	_	Case=Gen|Gender=Masc|Person=2	45	subj	_	SpaceAfter=No|wordform=gwamnatìnsà
+44	sà	sà	PRON	_	_	43	mod@poss	_	Gloss=3Masc.Gen
+45	takèː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	37	comp:obj	_	_
+46	aikìː	aikìː	NOUN	_	Gender=Masc	45	comp:aux	_	wordform=aiki
+47	dà	dà	ADP	_	_	46	comp:obl	_	_
+48	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	47	comp:obj	_	SpaceAfter=No
+49	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__17
 # text = Màːsu yîn zàngà-zangàr̃ sun yi zàrgin cêːwaː gwamnatìn taːsù taː kaːsà shaːwoː kân màtsalàr̃ cîn r̃ashawaː à ƙasâr̃, kuma shirìntà maː na tsuːkè bàːkin àljiːhuː yaː shàːfi talakaːwan ƙasâr̃ neː kawài.
@@ -531,21 +532,22 @@
 16	r̃ashawaː	r̃ashawaː	NOUN	_	Gender=Fem	15	mod	_	_
 17	à	à	ADP	_	_	12	comp:obl	_	Gloss=at
 18	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	17	comp:obj	_	Gloss=country.Fem.PrevRef|SpaceAfter=No
-19	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
-20	kuma	kuma	CCONJ	_	_	27	cc	_	_
-21	shirìntà	shirìːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	27	subj	_	_
-22	maː	maː	PART	_	_	21	discourse@top	_	_
-23	na	na/ta	ADP	_	Case=Gen	21	mod	_	_
-24	tsuːkè	tsuːkèː	VERB	_	_	23	comp:obj	_	_
-25	bàːkin	bàːkiː	ADP	_	Definite=Cons|Gender=Masc	24	comp:obj	_	_
-26	àljiːhuː	àljiːhuː	NOUN	_	Gender=Masc	25	mod	_	_
-27	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	10	conj:coord	_	_
-28	shàːfi	shàːfi	VERB	_	_	27	comp:aux	_	_
-29	talakaːwan	talakaːwaː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj@G	_	_
-30	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	29	mod	_	Gloss=country.Fem.PrevRef
-31	neː	neː	PART	_	Gender=Masc|Number=Plur	28	comp:obj@G	_	_
-32	kawài	kawài	ADV	_	_	31	mod	_	SpaceAfter=No
-33	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+19	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
+20	kuma	kuma	CCONJ	_	_	28	cc	_	_
+21	shirìn	shiry-	VERB	_	Definite=Cons	28	subj	_	SpaceAfter=No|wordform=shirìntà
+22	tà	tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	21	comp:obj	_	Gloss=3Fem.Gen
+23	maː	maː	PART	_	_	21	discourse@top	_	_
+24	na	na/ta	ADP	_	Case=Gen	21	mod	_	_
+25	tsuːkè	tsuːkèː	VERB	_	_	24	comp:obj	_	_
+26	bàːkin	bàːkiː	ADP	_	Definite=Cons|Gender=Masc	25	comp:obj	_	_
+27	àljiːhuː	àljiːhuː	NOUN	_	Gender=Masc	26	mod	_	_
+28	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	10	conj:coord	_	_
+29	shàːfi	shàːfi	VERB	_	_	28	comp:aux	_	_
+30	talakaːwan	talakaːwaː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj@G	_	_
+31	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	30	mod	_	Gloss=country.Fem.PrevRef
+32	neː	neː	PART	_	Gender=Masc|Number=Plur	29	comp:obj@G	_	_
+33	kawài	kawài	ADV	_	_	32	mod	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__18
 # text = Sheːkaranjiyà Àlhàmîs, an rufè bankunàː dà kamfanoːnin ìnshoːr̃àr̃ ƙasâr̃ sabòːdà ma'àikàtansù sún yi yaːjìn aikìː.
