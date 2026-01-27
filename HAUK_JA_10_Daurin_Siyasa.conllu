@@ -7,7 +7,7 @@
 
 # sent_id = 10_Daurin_Siyasa__2
 # text = Gwamnatìn mulkìn soːjà ta Nàːjeːr̃iyàː taː shaː bambam dà sauran gwamnatoːcin mulkìn soːjà à Afir̃kà.
-1	Gwamnatìn	gwamnatìː	NOUN	_	Definite=Cons|Gender=Masc	6	subj	_	_
+1	Gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Masc	6	subj	_	Gloss=government.Masc.Cons
 2	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	1	mod	_	_
 3	soːjà	soːjà	NOUN	_	Gender=Fem	2	mod	_	_
 4	ta	ta	ADP	_	_	2	mod	_	_
@@ -17,7 +17,7 @@
 8	bambam	bamː	ADV	_	Gender=Masc|PronType=Rel	7	comp:pred	_	_
 9	dà	dà	ADP	_	_	8	mod	_	_
 10	sauran	sauraː	NOUN	_	Definite=Cons	9	comp:obj	_	_
-11	gwamnatoːcin	gwamnatoːciː	NOUN	_	Definite=Cons|Gender=Masc	10	mod	_	_
+11	gwamnatoːcin	gwamnatì	NOUN	_	Definite=Cons|Number=Plur	10	mod	_	Gloss=government.Plur.Cons
 12	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	11	mod	_	_
 13	soːjà	soːjà	NOUN	_	Gender=Masc	12	mod	_	_
 14	à	à	ADP	_	_	11	mod	_	Gloss=at
@@ -25,34 +25,33 @@
 16	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 10_Daurin_Siyasa__3
-# text = Tanàː cîː gàba dà shirìn baːyar̃ dà mulkìː gà farar̃-hùːlaː, kuma tanàː àlfahàr̃iː dà irìn abuːbuwàn dà ta yi danganèː dà kaːrè haƙƙìn bìl Adamà.
+# text = Tanàː cîː gàba dà shirìn baːyar̃ dà mulkìː gà farar̃-hùːlaː, kuma tanàː àlfahàr̃iː dà irìn abuːbuwàn dà ta yi danganèː dà kaːrè haƙƙìn bìl-Adamà .
 1	Tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	_
 2	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc	1	comp:aux	_	_
 3	gàba	gàba	ADV	_	_	2	comp:obl	_	_
-4	dà	dà	ADP	_	_	3	comp:obj	_	_
-5	shirìn	shirìː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	_
+4	dà	dà	ADP	_	_	2	comp:obl	_	_
+5	shirìn	shiry-	VERB	_	Definite=Cons|Gender=Masc	4	comp:obj	_	_
 6	baːyar̃	baːyar̃	VERB	_	Definite=Cons|Gender=Fem	5	mod	_	_
 7	dà	dà	ADP	_	_	6	comp:obl	_	_
-8	mulkìː	mulkìː	NOUN	_	Gender=Masc	5	conj:coord	_	_
-9	gà	gà	ADP	_	_	8	mod	_	_
+8	mulkìː	mulkìː	NOUN	_	Gender=Masc	7	comp:obj	_	_
+9	gà	gà	ADP	_	_	6	comp:obl	_	_
 10	farar̃-hùːlaː	farar̃-hùːlaː	NOUN	_	Definite=Ind	9	comp:obj	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	kuma	kuma	CCONJ	_	_	13	cc	_	_
 13	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	1	conj:coord	_	wordform=tanaː
-14	àlfahàr̃iː	àlfahàr̃iː	NOUN	_	Gender=Masc	13	comp:aux	_	_
+14	àlfahàr̃iː	àlfahàr̃iː	NOUN	_	Gender=Masc	13	comp:aux	_	Gloss=pride.Masc
 15	dà	dà	ADP	_	_	14	comp:obl	_	_
 16	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	Gloss=type.Masc.Cons
 17	abuːbuwàn	àbù	NOUN	_	Definite=Cons|Number=Plur	16	mod	_	_
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	_
 19	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	18	comp:obj	_	_
 20	yi	yi	VERB	_	_	19	comp:aux	_	Gloss=do
-21	danganèː	danganèː	NOUN	_	ExtPos=ADP|Gender=Masc	20	comp:pred	_	Gloss=relation.Masc|Idiom=Yes
+21	danganèː	danganèː	ADP	_	_	20	mod	_	Gloss=in_relation
 22	dà	dà	ADP	_	_	21	compound	_	Gloss=with|InIdiom=Yes
-23	kaːrè	kar-	NOUN	_	Gender=Masc	21	comp:obj	_	_
-24	haƙƙìn	haƙƙìː	NOUN	_	Definite=Cons|Gender=Masc	23	mod	_	_
-25	bìl	bìl	ADP	_	_	24	mod	_	_
-26	Adamà	Adamà	PROPN	_	_	25	comp:obj	_	Gloss=Adamà|SpaceAfter=No
-27	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+23	kaːrè	kar-	VERB	_	_	22	comp:obj	_	Gloss=protect
+24	haƙƙìn	haƙƙìː	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=rights.Masc.Cons
+25	bìl-Adamà	bìl-Adamà	NOUN	_	_	24	mod	_	Gloss=human.Plur
+26	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 10_Daurin_Siyasa__4
 # text = Àmmaː gàː shi taː ci gàba dà aikìː dà wata dòːkaː dà aka kafàː cikin kwàːnàkin farkoː na kaːmà mulkìn soːjà à ƙasâr̃.
@@ -64,16 +63,16 @@
 6	gàba	gàba	ADV	_	_	5	mod	_	_
 7	dà	dà	CCONJ	_	_	5	comp:obl	_	_
 8	aikìː	aikìː	NOUN	_	Gender=Masc	7	comp:obj	_	_
-9	dà	dà	CCONJ	_	_	8	cc	_	_
+9	dà	dà	CCONJ	_	_	8	comp:obl	_	_
 10	wata	wata	DET	_	Gender=Fem	11	det	_	_
-11	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	6	comp:obj	_	_
+11	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	9	comp:obj	_	_
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	_
 13	akà	nàː	AUX	_	Aspect=Prog|Person=4	12	comp:obj	_	wordform=aka
 14	kafàː	kaf-	VERB	_	_	13	comp:aux	_	_
 15	cikin	cikin	ADP	_	_	14	comp:obl	_	_
 16	kwàːnàkin	kwàːnàkiː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	_
 17	farkoː	farkoː	NOUN	_	Gender=Masc	16	mod	_	_
-18	na	na	AUX	_	Case=Gen	11	mod	_	_
+18	na	na	AUX	_	Case=Gen	16	mod	_	_
 19	kaːmà	kaːm-	VERB	_	_	18	comp:aux	_	_
 20	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	19	comp:obj	_	_
 21	soːjà	soːjà	NOUN	_	Gender=Masc	20	mod	_	_
@@ -82,47 +81,48 @@
 24	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 10_Daurin_Siyasa__5
-# text = Wannàn dòːkâr̃ taː sâː ita gwamnatìn tâː iyà tsarèː mùtûm har̃ tsawon wàtànniː shidà bà tàːre dà tùhumàr̃sà ba, in an zàrgeː shì da yi wà tattalin ar̃zìkin ƙasaː maƙar̃ƙashìyaː, koː kuma yi wà tsàron ƙasaː bàràːzanaː.
+# text = Wannàn dòːkâr̃ taː sâː ita gwamnatìn tâː iyà tsarèː mùtûm har̃ tsawon wàtànniː shidà bà tàːre dà tùhumàr̃ sà ba, in an zàrgeː shì dà yi wà tattalin ar̃zìkin ƙasaː maƙar̃ƙashìyaː, koː kuma yi wà tsàron ƙasaː bàràːzanaː.
 1	Wannàn	wannàn	DET	_	Gender=Masc|PronType=Dem	2	det	_	_
-2	dòːkâr̃	dòːkâː	NOUN	_	Definite=Cons|Gender=Fem	3	subj	_	_
+2	dòːkâr̃	dòːkaː	NOUN	_	Definite=PrevRef|Gender=Fem	3	subj	_	Gloss=law
 3	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	_
 4	sâː	sâː	VERB	_	_	3	comp:aux	_	_
-5	ita	ita	PRON	_	Gender=Fem|Person=3	4	comp:obj	_	_
+5	ita	ita	PRON	_	Gender=Fem|Person=3	7	subj	_	_
 6	gwamnatìn	gwamnatìː	NOUN	_	Definite=Cons|Gender=Masc	5	conj:appos	_	_
-7	tâː	neː	AUX	_	Gender=Fem	6	discourse@foc	_	_
-8	iyà	iy-	VERB	_	_	3	comp:aux	_	_
+7	tâː	yâː	AUX	_	Gender=Fem|Mood=Pot|Person=3	4	comp:obj	_	Gloss=3Fem.Pot
+8	iyà	iy-	VERB	_	_	7	comp:aux	_	_
 9	tsarèː	tsar-	VERB	_	_	8	comp:obj	_	_
 10	mùtûm	mùtûm	NOUN	_	Definite=Ind	9	comp:obj	_	_
 11	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	9	mod	_	_
 12	tsawon	tsawoː	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	_
-13	wàtànniː	wàtànniː	NOUN	_	Gender=Masc	12	mod	_	_
-14	shidà	shidà	PRON	_	_	9	mod	_	_
+13	wàtànniː	watàː	NOUN	_	Number=Plur	12	mod	_	Gloss=month.Plur
+14	shidà	shidà	PRON	_	_	13	mod:num	_	_
 15	bà	bà	PART	_	Polarity=Neg	16	mod	_	_
-16	tàːre	tàːre	ADV	_	_	11	comp:obj	_	_
-17	dà	dà	ADP	_	_	26	comp:obl	_	_
-18	tùhumàr̃sà	tùhumàr̃sà	NOUN	_	Definite=Ind|Gender=Fem	17	comp:obj	_	_
-19	ba	ba	PART	_	Polarity=Neg	26	mod	_	SpaceAfter=No
-20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-21	in	in	SCONJ	_	_	8	mod	_	_
-22	an	yaː	AUX	_	Aspect=Perf|Person=4	21	comp:obj	_	_
-23	zàrgeː	zàrgeː	VERB	_	_	22	comp:aux	_	_
-24	shì	shi	AUX	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	23	comp:obj	_	_
-25	dà	dà	ADP	_	_	23	comp:obl	_	wordform=da
-26	yi	yi	VERB	_	_	25	comp:obj	_	Gloss=do
-27	wà	wà	ADP	_	Case=Dat	26	comp:obl	_	_
-28	tattalin	tattaliː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:pred	_	_
-29	ar̃zìkin	ar̃zìkiː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:pred	_	_
-30	ƙasaː	ƙasaː	NOUN	_	Definite=Ind|Gender=Fem	29	mod	_	wordform=kasaː
-31	maƙar̃ƙashìyaː	maƙar̃ƙashìyaː	NOUN	_	Definite=Ind|Gender=Fem	30	mod	_	SpaceAfter=No
-32	,	,	PUNCT	_	_	35	punct	_	Gloss=PUNCT
-33	koː	koː	CCONJ	_	_	35	cc	_	_
-34	kuma	kuma	PART	_	_	33	discourse@top	_	_
-35	yi	yi	VERB	_	_	22	conj:coord	_	Gloss=do
-36	wà	wà	ADP	_	Case=Dat	35	comp:obl	_	_
-37	tsàron	tsàroː	NOUN	_	Definite=Cons|Gender=Masc	35	comp:pred	_	_
-38	ƙasaː	ƙasaː	NOUN	_	Definite=Ind|Gender=Fem	37	mod	_	wordform=kasaː
-39	bàràːzanaː	bàràːzanaː	NOUN	_	Definite=Ind|Gender=Fem	38	mod	_	SpaceAfter=No
-40	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
+16	tàːre	tàːre	ADP	_	_	9	mod	_	_
+17	dà	dà	ADP	_	_	16	comp:obj	_	_
+18	tùhumàr̃	tuhum-	VERB	_	Gender=Fem	17	comp:obj	_	Gloss=charge.Vnoun.Fem.Cons
+19	sà	sà	PRON	_	Gender=Fem	18	comp:obj	_	Gloss=charge.Vnoun.Fem.Cons
+20	ba	ba	PART	_	Polarity=Neg	16	mod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
+22	in	in	SCONJ	_	_	9	mod	_	_
+23	an	yaː	AUX	_	Aspect=Perf|Person=4	22	comp:obj	_	_
+24	zàrgeː	zàrgeː	VERB	_	_	23	comp:aux	_	_
+25	shì	shi	AUX	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	24	comp:obj	_	_
+26	dà	dà	ADP	_	_	24	comp:obl	_	wordform=da
+27	yi	yi	VERB	_	_	26	comp:obj	_	Gloss=do
+28	wà	wà	ADP	_	Case=Dat	27	comp:obl	_	_
+29	tattalin	tattaliː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:pred	_	_
+30	ar̃zìkin	ar̃zìkiː	NOUN	_	Definite=Cons|Gender=Masc	29	mod	_	_
+31	ƙasaː	ƙasaː	NOUN	_	Definite=Ind|Gender=Fem	30	mod	_	wordform=kasaː
+32	maƙar̃ƙashìyaː	maƙar̃ƙashìyaː	NOUN	_	Definite=Ind|Gender=Fem	27	comp:pred	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	36	punct	_	Gloss=PUNCT
+34	koː	koː	CCONJ	_	_	36	cc	_	_
+35	kuma	kuma	PART	_	_	34	discourse@top	_	_
+36	yi	yi	VERB	_	_	27	conj:coord	_	Gloss=do
+37	wà	wà	ADP	_	Case=Dat	36	comp:obl	_	_
+38	tsàron	tsàroː	NOUN	_	Definite=Cons|Gender=Masc	37	comp:obj	_	_
+39	ƙasaː	ƙasaː	NOUN	_	Definite=Ind|Gender=Fem	38	mod	_	wordform=kasaː
+40	bàràːzanaː	bàràːzanaː	NOUN	_	Definite=Ind|Gender=Fem	36	comp:pred	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 10_Daurin_Siyasa__6
 # text = Tanàː kuma dà iːkòn cîː gàba dà tsarè mùtumìn har̃ sai illaː maː shaː Àllaːhù.
