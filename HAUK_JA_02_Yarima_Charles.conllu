@@ -496,7 +496,7 @@
 39	.	.	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__18
-# text = sai dai kuma kash! – Yàr̃iːmà bài ga koː dàː gùdaː dàgà cikin waɗànnân hàlìttuː ba, sabòːdà zùmūɗìn dà jàːmìꞌan gwamnatìn Kàmàr̃u sukà nuːnàː wajen aikàːwaː dà rùndunaː ɗàuke dà màkàːmai zuwàː daːjìn don kaːrè laːfiyàr̃sà.
+# text = sai dai kuma kash! – Yàr̃iːmà bài ga koː dàː gùdaː dàgà cikin waɗànnân hàlìttuː ba, sabòːdà zùmūɗìn dà jàːmìꞌan gwamnatìn Kàmàr̃u sukà nuːnàː wajen aikàːwaː dà rùndunaː ɗàuke dà màkàːmai zuwàː daːjìn don kaːrè laːfiyàr̃sà .
 # text_ortho = Sai dai kuma kash! – Yàr̃iːmà bài ga koː dàː gùdaː dàgà cikin waɗànnân hàlìttuː ba, sabòːdà zùmūɗìn dà jàːmìꞌan gwamnatìn Kàmàr̃u sukà nuːnàː wajen aikàːwaː dà rùndunaː ɗàuke dà màkàːmai zuwàː daːjìn don kaːrè laːfiyàr̃sà.
 1	sai	sai	ADV	_	_	8	mod	_	_
 2	dai	dai	PART	_	_	1	discourse@top	_	_
@@ -535,8 +535,10 @@
 35	daːjìn	daːjìː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	34	comp:obj	_	_
 36	don	don	SCONJ	_	_	28	mod	_	_
 37	kaːrè	kar-	VERB	_	_	36	comp:obj	_	_
-38	laːfiyàr̃sà	laːfiyàr̃sà	NOUN	_	Definite=Ind|Gender=Fem	37	comp:obj	_	SpaceAfter=No
-39	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
+38-39	laːfiyàr̃sà	_	_	_	_	_	_	_	_
+38	laːfiyàr̃	laːfiyàː	NOUN	_	Definite=Cons|Gender=Fem	37	comp:obj	_	Gloss=health.Fem.Cons|SpaceAfter=No
+39	sà	sà	PRON	_	Definite=Ind|Gender=Fem	38	mod	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__19
 # text = Dàgà bìsaːniː dai Yàr̃iːmàn yaː fitoː cikin alꞌamur̃àn rashìn jîn daːɗiː.
