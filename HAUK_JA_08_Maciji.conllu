@@ -38,13 +38,15 @@
 27	dà	dà	SCONJ	_	_	26	mod@relcl	_	_
 28	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	27	comp:obj	_	_
 29	yi	yi	VERB	_	_	28	comp:aux	_	Gloss=do
-30	miyàr̃sà	miyàr̃sà	NOUN	_	Gender=Fem	29	comp:obj	_	_
-31	dà	dà	ADP	_	_	29	comp:obl	_	_
-32	naːmàn	naːmàː	NOUN	_	Definite=Cons|Gender=Masc	31	comp:obj	_	_
-33	wani	wani	DET	_	Definite=Spec|Gender=Masc	35	det	_	_
-34	shirgeːgèn	shirgeːgèː	NOUN	_	Definite=Cons|Gender=Masc	35	mod	_	_
-35	macìːjiː	macìːjiː	NOUN	_	Number=Plur	32	mod	_	SpaceAfter=No
-36	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
+30-31	miyàr̃sà	_	_	_	_	_	_	_	_
+30	miyàr̃	miyàː	NOUN	_	Gender=Fem	29	comp:obj	_	Gloss=sauce.Fem.Cons
+31	sà	sà	PRON	_	Gender=Masc	30	mod@poss	_	Gloss=3Masc.Gen
+32	dà	dà	ADP	_	_	29	comp:obl	_	_
+33	naːmàn	naːmàː	NOUN	_	Definite=Cons|Gender=Masc	32	comp:obj	_	_
+34	wani	wani	DET	_	Definite=Spec|Gender=Masc	36	det	_	_
+35	shirgeːgèn	shirgeːgèː	NOUN	_	Definite=Cons|Gender=Masc	36	mod	_	_
+36	macìːjiː	macìːjiː	NOUN	_	Number=Plur	33	mod	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
 # sent_id = 08_Maciji__3a
 # text = Yaddà wannàn àl'amàr̃iː ya fàːru shiː nèː suː mutàːnên sun ɗaukoː gaːwar̃ wannàn macìːjiː nèː baːyân dà wata bàbbar̃ moːtàː ta laːtsèː shi à bisà hanyàː dà dàddare, sukà nùfi dà shiː zuwàː gidaː.

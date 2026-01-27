@@ -93,31 +93,33 @@
 29	wàtànniː	wàtànniː	NOUN	_	Gender=Masc	28	mod	_	_
 30	shidà	shidà	NUM	_	_	29	mod:num	_	_
 31	bàː	bàː	PART	_	Polarity=Neg	32	mod	_	_
-32	tàːre	tàːre	ADV	_	ExtPos=ADP	25	mod	_	Idiom=Yes
-33	dà	dà	ADP	_	_	32	compound	_	InIdiom=Yes
-34	tùhumàr̃sà	tuhum-	VERB	_	Definite=Cons|Gender=Fem|VerbForm=Vnoun	32	comp:obj	_	Gloss=charge
-35	ba	ba	PART	_	Polarity=Neg	32	mod	_	SpaceAfter=No
-36	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
-37	in	in	SCONJ	_	_	24	mod	_	_
-38	an	yaː	AUX	_	Aspect=Perf|Person=4	37	comp:obj	_	_
-39	zàrgeː	zarg-	VERB	_	_	38	comp:aux	_	_
-40	shì	shi	AUX	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	39	comp:obj	_	_
-41	dà	dà	ADP	_	_	39	comp:obl	_	_
-42	yi	yi	VERB	_	_	41	comp:obj	_	Gloss=do
-43	wà	wà	ADP	_	Case=Dat	42	comp:obl	_	_
-44	tattalin	tattaliː	NOUN	_	Definite=Cons|Gender=Masc	43	comp:obj	_	_
-45	ar̃zìkin	ar̃zìkiː	NOUN	_	Definite=Cons|Gender=Masc	44	mod	_	_
-46	ƙasaː	ƙasaː	NOUN	_	Definite=Ind|Gender=Fem	45	mod	_	_
-47	maƙar̃ƙashìyaː	maƙar̃ƙashìyaː	NOUN	_	Definite=Ind|Gender=Fem	42	comp:pred	_	SpaceAfter=No
-48	,	,	PUNCT	_	_	51	punct	_	Gloss=PUNCT
-49	koː	koː	CCONJ	_	_	51	cc	_	_
-50	kuma	kuma	PART	_	_	49	discourse@top	_	_
-51	yi	yi	VERB	_	_	42	conj:coord	_	Gloss=do
-52	wà	wà	ADP	_	Case=Dat	51	comp:obl	_	_
-53	tsàron	tsàroː	NOUN	_	Definite=Cons|Gender=Masc	52	comp:obj	_	_
-54	ƙasaː	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	53	mod	_	_
-55	bàràːzanaː	bàràːzanaː	NOUN	_	Gender=Fem	51	comp:pred	_	SpaceAfter=No
-56	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+32	tàːre	tàːre	ADP	_	_	25	mod	_	Gloss=together
+33	dà	dà	ADP	_	_	32	comp:obj	_	Gloss=with
+34-35	tùhumàr̃sà	_	_	_	_	_	_	_	_
+34	tùhumàr̃	tuhum-	VERB	_	Definite=Cons|Gender=Fem|VerbForm=Vnoun	33	comp:obj	_	Gloss=charge
+35	sà	sà	PRON	_	_	34	comp:obj	_	Gloss=3Masc.Gen
+36	ba	ba	PART	_	Polarity=Neg	32	mod	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	38	punct	_	Gloss=PUNCT
+38	in	in	SCONJ	_	_	24	mod	_	_
+39	an	yaː	AUX	_	Aspect=Perf|Person=4	38	comp:obj	_	_
+40	zàrgeː	zarg-	VERB	_	_	39	comp:aux	_	_
+41	shì	shi	AUX	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	40	comp:obj	_	_
+42	dà	dà	ADP	_	_	40	comp:obl	_	_
+43	yi	yi	VERB	_	_	42	comp:obj	_	Gloss=do
+44	wà	wà	ADP	_	Case=Dat	43	comp:obl	_	_
+45	tattalin	tattaliː	NOUN	_	Definite=Cons|Gender=Masc	44	comp:obj	_	_
+46	ar̃zìkin	ar̃zìkiː	NOUN	_	Definite=Cons|Gender=Masc	45	mod	_	_
+47	ƙasaː	ƙasaː	NOUN	_	Definite=Ind|Gender=Fem	46	mod	_	_
+48	maƙar̃ƙashìyaː	maƙar̃ƙashìyaː	NOUN	_	Definite=Ind|Gender=Fem	43	comp:pred	_	SpaceAfter=No
+49	,	,	PUNCT	_	_	52	punct	_	Gloss=PUNCT
+50	koː	koː	CCONJ	_	_	52	cc	_	_
+51	kuma	kuma	PART	_	_	50	discourse@top	_	_
+52	yi	yi	VERB	_	_	43	conj:coord	_	Gloss=do
+53	wà	wà	ADP	_	Case=Dat	52	comp:obl	_	_
+54	tsàron	tsàroː	NOUN	_	Definite=Cons|Gender=Masc	53	comp:obj	_	_
+55	ƙasaː	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	54	mod	_	_
+56	bàràːzanaː	bàràːzanaː	NOUN	_	Gender=Fem	52	comp:pred	_	SpaceAfter=No
+57	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__5
 # text = Tanàː kuma dà iːkòn cîː gàba dà tsarè mùtumìn har̃ sai illaː maː shaː Àllaːhù.
@@ -399,9 +401,11 @@
 31	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	27	comp:obj	_	_
 32	yi	yi	VERB	_	_	31	comp:aux	_	Gloss=do
 33	wà	wà	ADP	_	Case=Dat	32	comp:obl	_	_
-34	màːtar̃sà	màːtar̃ː	NOUN	_	Definite=Ind|Gender=Fem	33	comp:obj	_	_
-35	fyàːɗeː	fyàːɗeː	NOUN	_	Gender=Masc	32	comp:pred	_	SpaceAfter=No
-36	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+34-35	màːtar̃sà	_	_	_	_	_	_	_	_
+34	màːtar̃	màːtaː	NOUN	_	Definite=Cons|Gender=Fem	33	comp:obj	_	Gloss=wife.Fem.Cons
+35	sà	sà	PRON	_	Gender=Fem	34	mod@poss	_	Gloss=3Fem.Gen
+36	fyàːɗeː	fyàːɗeː	NOUN	_	Gender=Masc	32	comp:pred	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__18
 # text = Dàgà wannàn loːkàciː kùwa ya cèː yaː yi niyyàr̃ cîː gàba dà tabbatar̃ dà ꞌyancìn ɗan Adàm gà jàmaꞌàr̃ Nàːjeːr̃iyàː maràsaː ƙarfiː.

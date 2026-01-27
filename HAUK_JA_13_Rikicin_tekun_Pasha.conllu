@@ -6,14 +6,14 @@
 4	a	a	ADP	_	_	2	mod	_	_
 5	areːwacin	areːwaciː	NOUN	_	Definite=Cons	4	comp:obj	_	_
 6	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	Number=Plur	5	mod	_	Gloss=Nigeria
-7	gàme	gam-	VERB	_	ExtPos=ADP|VerbForm=Stat	2	comp:obl	_	_
-8	dà	dà	ADP	_	_	7	compound	_	_
-9	rìkicin	rìkiciː	NOUN	_	Definite=Cons	7	comp:obj	_	_
+7	gàme	gàme	ADP	_	_	2	comp:obl	_	Gloss=with
+8	dà	dà	ADP	_	_	7	comp:obj	_	Gloss=with
+9	rìkicin	rìkiciː	NOUN	_	Definite=Cons	8	comp:obj	_	_
 10	Tèːkun	tèːkun	ADP	_	Definite=Cons|Gender=Masc	9	mod	_	wordform=tèːkun
 11	Paːshà	Paːshà	PROPN	_	_	10	mod	_	Gloss=Paːshà
 
 # sent_id = 13_Rikicin_tekun_Pasha__2
-# text = À Nàːjeːr̃iyàː Sarkin Mùsùlmiː, Àlhajì Ìbraːhìm Dàsuːƙi, yaː yi kiràː gàː jàma'àr̃sà dà sù yi bìr̃is dà wasu tàkàr̃duː dà yànzu akèː rarràbâːwaː à ƙasâr̃ dà nufìn zugà àl'ummàr̃ mùsùlmiː sù ɗàuki wasu màtàːkai gàme dà rìkicîn nan na tèːkun Paːshà.
+# text = À Nàːjeːr̃iyàː Sarkin Mùsùlmiː, Àlhajì Ìbraːhìm Dàsuːƙi, yaː yi kiràː gà jàma'àr̃sà dà sù yi bìr̃is dà wasu tàkàr̃duː dà yànzu akèː rarràbâːwaː à ƙasâr̃ dà nufìn zugà àl'ummàr̃ mùsùlmiː sù ɗàuki wasu màtàːkai gàme dà rìkicîn nan na Tèːkun Paːshà.
 1	À	à	ADP	_	_	10	mod	_	wordform=A
 2	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	1	comp:obj	_	Gloss=Nigeria
 3	Sarkin	Sarkin	PROPN	_	_	2	flat@name	_	Gloss=Sarkin
@@ -26,38 +26,40 @@
 10	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
 12	kiràː	kir-	VERB	_	ExtPos=NOUN|Gender=Masc	11	comp:pred	_	_
-13	gàː	gàː	PART	_	_	11	comp:obl	_	_
-14	jàma'àr̃sà	jàma'àr̃sà	NOUN	_	Gender=Fem	13	subj	_	_
-15	dà	dà	SCONJ	_	_	14	mod@relcl	_	_
-16	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	15	comp:obj	_	_
-17	yi	yi	VERB	_	_	16	comp:aux	_	Gloss=do
-18	bìr̃is	bìr̃is	NOUN	_	Definite=Cons|Gender=Fem	17	comp:pred	_	_
-19	dà	dà	ADP	_	_	18	comp:obl	_	_
-20	wasu	wasu	DET	_	Definite=Spec|Number=Plur	21	det	_	_
-21	tàkàr̃duː	tàkàr̃duː	NOUN	_	Number=Plur	18	comp:obj	_	_
-22	dà	dà	SCONJ	_	_	21	mod@relcl	_	_
-23	yànzu	yànzu	ADV	_	_	24	mod	_	_
-24	akèː	nàː	AUX	_	Aspect=Prog|Person=4	22	comp:obj	_	_
-25	rarràbâːwaː	rarràb-	VERB	_	ExtPos=NOUN|Gender=Fem	24	comp:aux	_	_
-26	à	à	ADP	_	_	25	comp:obl	_	Gloss=at
-27	ƙasâr̃	ƙasaː	VERB	_	Definite=PrevRef|Gender=Fem	26	comp:obj	_	Gloss=country.Fem.PrevRef
-28	dà	dà	ADP	_	_	29	cc	_	_
-29	nufìn	nufìn	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	26	comp:obj	_	_
-30	zugà	zugà	PRON	_	PronType=Rel	29	mod	_	_
-31	àl'ummàr̃	àl'ummàː	NOUN	_	Definite=Cons|Gender=Fem	33	subj	_	_
-32	mùsùlmiː	mùsùlmiː	NOUN	_	Gender=Masc	31	mod	_	_
-33	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	30	comp:obj	_	_
-34	ɗàuki	ɗauk-	VERB	_	_	33	comp:aux	_	_
-35	wasu	wasu	DET	_	Number=Plur	36	det	_	_
-36	màtàːkai	màtàːkai	NOUN	_	Gender=Masc	34	comp:obj	_	_
-37	gàme	gam-	VERB	_	ExtPos=ADP|VerbForm=Stat	34	comp:obl	_	_
-38	dà	dà	ADP	_	_	37	compound	_	_
-39	rìkicîn	rìkiciː	NOUN	_	Definite=Cons|Gender=Masc	37	comp:obj	_	_
-40	nan	nan	DET	_	PronType=Dem	39	det	_	_
-41	na	na	ADP	_	_	39	mod	_	_
-42	Tèːkun	Tèːkun	PROPN	_	Definite=Cons|Gender=Masc	41	comp:obj	_	Gloss=Tèːkun|wordform=tèːkun
-43	Paːshà	Paːshà	PROPN	_	_	42	flat@name	_	Gloss=Paːshà|SpaceAfter=No
-44	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
+13	gà	gà	ADP	_	_	11	comp:obl	_	_
+14-15	jàma'àr̃sà	_	_	_	_	_	_	_	_
+14	jàma'àr̃	jàma'àː	NOUN	_	Gender=Fem	13	subj	_	_
+15	sà	sà	PRON	_	Gender=Masc	14	mod@poss	_	Gloss=3Masc.Cons
+16	dà	dà	SCONJ	_	_	14	mod@relcl	_	_
+17	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	16	comp:obj	_	_
+18	yi	yi	VERB	_	_	17	comp:aux	_	Gloss=do
+19	bìr̃is	bìr̃is	NOUN	_	Definite=Cons|Gender=Fem	18	comp:pred	_	_
+20	dà	dà	ADP	_	_	19	comp:obl	_	_
+21	wasu	wasu	DET	_	Definite=Spec|Number=Plur	22	det	_	_
+22	tàkàr̃duː	tàkàr̃duː	NOUN	_	Number=Plur	19	comp:obj	_	_
+23	dà	dà	SCONJ	_	_	22	mod@relcl	_	_
+24	yànzu	yànzu	ADV	_	_	25	mod	_	_
+25	akèː	nàː	AUX	_	Aspect=Prog|Person=4	23	comp:obj	_	_
+26	rarràbâːwaː	rarràb-	VERB	_	ExtPos=NOUN|Gender=Fem	25	comp:aux	_	_
+27	à	à	ADP	_	_	26	comp:obl	_	Gloss=at
+28	ƙasâr̃	ƙasaː	VERB	_	Definite=PrevRef|Gender=Fem	27	comp:obj	_	Gloss=country.Fem.PrevRef
+29	dà	dà	ADP	_	_	30	cc	_	_
+30	nufìn	nufìn	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	27	comp:obj	_	_
+31	zugà	zugà	PRON	_	PronType=Rel	30	mod	_	_
+32	àl'ummàr̃	àl'ummàː	NOUN	_	Definite=Cons|Gender=Fem	34	subj	_	_
+33	mùsùlmiː	mùsùlmiː	NOUN	_	Gender=Masc	32	mod	_	_
+34	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	31	comp:obj	_	_
+35	ɗàuki	ɗauk-	VERB	_	_	34	comp:aux	_	_
+36	wasu	wasu	DET	_	Number=Plur	37	det	_	_
+37	màtàːkai	màtàːkai	NOUN	_	Gender=Masc	35	comp:obj	_	_
+38	gàme	gàme	ADP	_	_	35	comp:obl	_	Gloss=with
+39	dà	dà	ADP	_	_	38	comp:obj	_	Gloss=with
+40	rìkicîn	rìkiciː	NOUN	_	Definite=Cons|Gender=Masc	39	comp:obj	_	_
+41	nan	nan	DET	_	PronType=Dem	40	det	_	_
+42	na	na	ADP	_	_	40	mod	_	_
+43	Tèːkun	Tèːkun	PROPN	_	Definite=Cons|Gender=Masc	42	comp:obj	_	Gloss=Tèːkun|wordform=tèːkun
+44	Paːshà	Paːshà	PROPN	_	_	43	flat@name	_	Gloss=Paːshà|SpaceAfter=No
+45	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha__3
 # text = Mài Mar̃tabàː yaː yi wannàn kiràn neː baːyan zàngà-zangà gùdaː biyu da akà yi à areːwacin ƙasâr̃, indà akà cêː mutàːneː dà daːmaː sunàː goːyon baːyan shùːgàban ƙasar̃ Ìr̃aːƙì, wàːtòː " Saddam Hussein" .
@@ -75,9 +77,9 @@
 12	dà	dà	SCONJ	_	_	10	mod@relcl	_	wordform=da
 13	akà	nàː	AUX	_	Aspect=Prog|Person=4	12	comp:obj	_	_
 14	yi	yi	VERB	_	_	13	comp:aux	_	Gloss=do
-15	à	à	ADP	_	ExtPos=ADP	14	mod	_	Gloss=at|Idiom=Yes
-16	areːwacin	areːwacin	ADP	_	_	15	compound	_	InIdiom=Yes
-17	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	15	comp:obj	_	Gloss=country.Fem.PrevRef|SpaceAfter=No
+15	à	à	ADP	_	_	14	mod	_	Gloss=at
+16	areːwacin	areːwacin	ADP	_	_	15	comp:obj	_	_
+17	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	16	comp:obj	_	Gloss=country.Fem.PrevRef|SpaceAfter=No
 18	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 19	indà	indà	SCONJ	_	_	6	mod	_	_
 20	akà	nàː	AUX	_	Aspect=Prog|Person=4	19	comp:obj	_	_
@@ -155,9 +157,9 @@
 10	rarràbà	rarràb-	VERB	_	_	9	comp:aux	_	_
 11	wasu	wasu	DET	_	Definite=Spec|Number=Plur	12	det	_	_
 12	tàkàr̃duː	tàkàr̃duː	NOUN	_	Gender=Masc	10	comp:obj	_	_
-13	à	à	ADP	_	ExtPos=ADP	10	comp:obl	_	Gloss=at|Idiom=Yes
-14	areːwacin	areːwacin	ADP	_	_	13	compound	_	InIdiom=Yes
-15	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	13	comp:obj	_	Gloss=Nigeria
+13	à	à	ADP	_	_	10	comp:obl	_	Gloss=at
+14	areːwacin	areːwacin	ADP	_	_	13	comp:obj	_	_
+15	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	14	comp:obj	_	Gloss=Nigeria
 16	waɗàndà	waɗàndà	PRON	_	Number=Plur|PronType=Rel	18	comp:obj	_	_
 17	sukà	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	12	mod@relcl	_	_
 18	sòːki	sauk-	VERB	_	_	17	comp:aux	_	_
@@ -209,9 +211,9 @@
 35	bayyànà	bayy	VERB	_	_	34	comp:aux	_	_
 36	r̃a'àyinsù	r̃a'àyi	NOUN	_	Case=Gen|Gender=Masc|Person=3	35	comp:obj	_	_
 37	à	à	ADP	_	_	34	parataxis@conj	_	_
-38	gàme	gam-	VERB	_	VerbForm=Stat	37	comp:obj	_	_
-39	dà	dà	ADP	_	_	38	compound	_	_
-40	rìkicin	rìkiciː	NOUN	_	Definite=Cons|Gender=Masc	38	comp:obj	_	_
+38	gàme	gàme	ADP	_	_	37	comp:obj	_	Gloss=with
+39	dà	dà	ADP	_	_	38	comp:obj	_	Gloss=with
+40	rìkicin	rìkiciː	NOUN	_	Definite=Cons|Gender=Masc	39	comp:obj	_	_
 41	Tèːkun	tèːkuː	NOUN	_	Definite=Cons|Gender=Masc	40	mod	_	wordform=tèːkun
 42	Paːshà	Paːshà	PROPN	_	_	41	mod	_	Gloss=Paːshà
 43	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	41	det	_	SpaceAfter=No
@@ -347,9 +349,9 @@
 15	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	13	mod	_	_
 16	sàu	sàu	NOUN	_	Gender=Masc	15	comp:obj	_	_
 17	biyu	biyu	NUM	_	_	16	det	_	_
-18	à	à	ADP	_	ExtPos=ADP	13	mod	_	Gloss=at|Idiom=Yes
-19	areːwacin	areːwacin	ADP	_	_	18	compound	_	InIdiom=Yes
-20	Nàːjeːr̃iyàr̃	Nàːjeːr̃iyàr̃	PROPN	_	Definite=Cons|Gender=Fem	18	comp:obj	_	Gloss=Nigeria.Cons|SpaceAfter=No
+18	à	à	ADP	_	_	13	mod	_	Gloss=at
+19	areːwacin	areːwacin	ADP	_	_	18	comp:obj	_	_
+20	Nàːjeːr̃iyàr̃	Nàːjeːr̃iyàr̃	PROPN	_	Definite=Cons|Gender=Fem	19	comp:obj	_	Gloss=Nigeria.Cons|SpaceAfter=No
 21	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha__10-1
