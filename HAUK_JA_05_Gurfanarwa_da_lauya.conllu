@@ -129,7 +129,7 @@
 6	gàba	gàba	ADV	_	_	5	mod	_	_
 7	dà	dà	ADP	_	_	6	comp:obj	_	_
 8	tsarè	tsar-	VERB	_	_	6	comp:obj	_	_
-9	mùtumìn	mùtûm	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	_
+9	mùtumìn	mùtûm	NOUN	_	Definite=PrevRef|Gender=Masc	8	comp:obj	_	Gloss=person.Masc.PrevRef
 10	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	6	mod	_	Gloss=until
 11	sai	sai	ADP	_	_	10	comp:obj	_	Gloss=until
 12	illaː	illaː	X	_	_	11	comp:obj	_	_
@@ -202,9 +202,9 @@
 35	gur̃faːnar̃	gur̃faːn-	VERB	_	Definite=Cons|Gender=Fem	34	comp:aux	_	_
 36	dà	dà	ADP	_	_	35	comp:obl	_	_
 37	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	36	comp:obj	_	_
-38	à	à	ADP	_	ExtPos=ADP	35	comp:obl	_	Gloss=at|Idiom=Yes
-39	gàban	gàban	ADP	_	_	38	compound	_	InIdiom=Yes
-40	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Definite=Ind|Gender=Fem	38	comp:obj	_	_
+38	à	à	ADP	_	_	35	comp:obl	_	Gloss=at
+39	gàban	gàban	ADP	_	_	38	comp:obj	_	_
+40	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Definite=Ind|Gender=Fem	39	comp:obj	_	_
 41	ba	ba	PART	_	Polarity=Neg	30	mod	_	SpaceAfter=No
 42	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
@@ -289,9 +289,9 @@
 32	màːsu	mài	PART	_	Number=Plur	31	comp:obj	_	_
 33	r̃aꞌàyin	r̃aꞌàyiː	NOUN	_	Definite=Cons|Number=Plur	32	comp:obj	_	_
 34	canjìː	canjìː	NOUN	_	Gender=Masc	33	mod	_	_
-35	à	à	ADP	_	ExtPos=ADP	26	mod	_	Gloss=at|Idiom=Yes
-36	cikin	cikin	ADP	_	_	35	compound	_	InIdiom=Yes
-37	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	35	comp:obj	_	Gloss=month.Masc.Cons
+35	à	à	ADP	_	_	26	mod	_	Gloss=at
+36	cikin	cikin	ADP	_	_	35	comp:obj	_	_
+37	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	36	comp:obj	_	Gloss=month.Masc.Cons
 38	Maːyù	Maːyù	PROPN	_	_	37	compound	_	Gloss=Maːyù|SpaceAfter=No
 39	.	.	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 
@@ -368,9 +368,9 @@
 # text = Yaː fitoː à kaːnun làːbàːr̃ai nèː à shèːkaràr̃ alìf dà ɗàːriː tar̃à dà sìttin dà tar̃à loːkàcîn dà ya kaːrè wani leːbùr̃à dà akèː yîn zàrgin cêːwa wani jaːmìꞌin gwamnatì yaː yi wà màːtar̃sà fyàːɗeː.
 1	Yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 2	fitoː	fitoː	VERB	_	_	1	comp:aux	_	_
-3	à	à	ADP	_	ExtPos=ADP	2	comp:obl	_	Gloss=at|Idiom=Yes
-4	kaːnun	kân	ADP	_	_	3	compound	_	InIdiom=Yes
-5	làːbàːr̃ai	làːbàːr̃ai	NOUN	_	Case=Gen|Gender=Masc|Person=3	3	comp:obj	_	_
+3	à	à	ADP	_	_	2	comp:obl	_	Gloss=at
+4	kaːnun	kân	ADP	_	_	3	comp:obj	_	_
+5	làːbàːr̃ai	làːbàːr̃ai	NOUN	_	Case=Gen|Gender=Masc|Person=3	4	comp:obj	_	_
 6	nèː	neː	PART	_	_	4	discourse@foc	_	_
 7	à	à	ADP	_	_	2	mod	_	Gloss=at
 8	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	7	comp:obj	_	Gloss=year.Fem.Cons
@@ -589,9 +589,9 @@
 13	dà	dà	ADP	_	_	12	comp:obl	_	_
 14	Chief	Chief	PROPN	_	_	13	comp:obj	_	Gloss=Chief
 15	G.F.	G.F.	PROPN	_	_	14	flat@name	_	Gloss=G.F.
-16	à	à	ADP	_	ExtPos=ADP	12	comp:obl	_	Gloss=at|Idiom=Yes
-17	gàban	gàban	ADP	_	_	16	compound	_	InIdiom=Yes
-18	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Definite=Ind|Gender=Fem	16	comp:obj	_	SpaceAfter=No
+16	à	à	ADP	_	_	12	comp:obl	_	Gloss=at
+17	gàban	gàban	ADP	_	_	16	comp:obj	_	_
+18	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Definite=Ind|Gender=Fem	17	comp:obj	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 20	koː	koː	CCONJ	_	_	22	cc	_	_
 21	kùwa	kùwa	PART	_	_	20	discourse@top	_	_

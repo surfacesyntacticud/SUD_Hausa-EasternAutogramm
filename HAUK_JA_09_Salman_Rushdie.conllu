@@ -106,7 +106,7 @@
 8	dà	dà	CCONJ	_	_	39	mod	_	_
 9	raːna	raːna	ADV	_	_	8	comp:obj	_	_
 10	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	39	dislocated@subj	_	_
-11	mùtumìn	mùtumìː	NOUN	_	Definite=Cons|Gender=Masc	10	conj:appos	_	_
+11	mùtumìn	mùtûm	NOUN	_	Definite=Cons|Gender=Masc	10	conj:appos	_	Gloss=person.Masc.Def
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	_
 13	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	12	comp:obj	_	_
 14	sôn	soː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:aux	_	_
@@ -158,7 +158,7 @@
 3	maː	maː	PART	_	_	2	discourse@top	_	_
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	dislocated@top	_	_
 5	wannàn	wannàn	DET	_	PronType=Dem	6	det	_	_
-6	mùtumìn	mùtûm	NOUN	_	Definite=PrevRef|Gender=Masc	4	conj:appos	_	_
+6	mùtumìn	mùtûm	NOUN	_	Definite=PrevRef|Gender=Masc	4	conj:appos	_	Gloss=person.Masc.PrevRef
 7	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	_
 8	nèː	neː	PART	_	_	7	discourse@foc	_	_
 9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	7	comp:cleft	_	_
@@ -244,10 +244,10 @@
 15	daɓàː	daɓ-	VERB	_	_	14	comp:aux	_	_
 16	wà	wà	ADP	_	_	15	comp:obl	_	_
 17	ɗaya	ɗaya	NUM	_	_	16	comp:obj	_	_
-18	dàgà	dàgà	ADP	_	ExtPos=ADP	17	mod	_	Idiom=Yes
+18	dàgà	dàgà	ADP	_	_	17	mod	_	_
 19-20	cikinsù	_	_	_	_	_	_	_	_
-19	cikin	cikin	ADP	_	_	18	compound	_	InIdiom=Yes
-20	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3	18	comp:obj	_	Gloss=3Plur.Gen
+19	cikin	cikin	ADP	_	_	18	comp:obj	_	_
+20	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3	19	comp:obj	_	Gloss=3Plur.Gen
 21	wannan	wannan	DET	_	Definite=Spec|Gender=Masc	22	det	_	_
 22	sùkùddìr̃eːbàː	sùkùddìr̃eːbàː	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=screwdriver.Fem
 23	har̃	har̃	CCONJ	_	Definite=Cons|Gender=Fem	26	mod	_	_
@@ -267,7 +267,7 @@
 4	maː	maː	PART	_	_	3	discourse@top	_	_
 5	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	dislocated@subj	_	_
 6	wannàn	wannàn	DET	_	PronType=Dem	7	det	_	_
-7	mùtumìn	mùtûm	NOUN	_	Definite=Cons|Gender=Masc	5	conj:appos	_	_
+7	mùtumìn	mùtûm	NOUN	_	Definite=PrevRef|Gender=Masc	5	conj:appos	_	Gloss=person.Masc.PrevRef
 8	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	_
 9	can	can	ADV	_	PronType=Dem	8	comp:pred	_	_
 10	à	à	ADP	_	_	9	mod	_	Gloss=at
@@ -283,7 +283,7 @@
 1	Tòː	tòː	INTJ	_	_	9	discourse	_	_
 2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	dislocated@subj	_	_
 3	wannàn	wannàn	DET	_	PronType=Dem	4	det	_	_
-4	mùtumìn	mùtumìː	NOUN	_	Definite=Cons|Gender=Masc	2	conj:appos	_	_
+4	mùtumìn	mùtûm	NOUN	_	Definite=Cons|Gender=Masc	2	conj:appos	_	Gloss=person.Masc.Def
 5	dà	dà	SCONJ	_	_	4	mod@relcl	_	_
 6	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	5	comp:obj	_	_
 7	kai	kai	VERB	_	_	6	comp:aux	_	_
@@ -306,9 +306,9 @@
 24	bugà	bug-	VERB	_	_	23	comp:aux	_	_
 25	wannàn	wannàn	DET	_	PronType=Dem	26	det	_	_
 26	littaːfìn	littaːfìː	NOUN	_	Definite=Cons|Gender=Masc	24	comp:obj	_	_
-27	à	à	ADP	_	ExtPos=ADP	24	comp:obl	_	Gloss=at|Idiom=Yes
-28	cikin	cikiː	ADP	_	_	27	compound	_	InIdiom=Yes
-29	harshèn	harshèː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:obj	_	_
+27	à	à	ADP	_	_	24	comp:obl	_	Gloss=at
+28	cikin	cikiː	ADP	_	_	27	comp:obj	_	_
+29	harshèn	harshèː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	_
 30	Japananciː	Japananciː	PROPN	_	_	29	mod	_	Gloss=Japanese|SpaceAfter=No
 31	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
@@ -614,9 +614,9 @@
 12	kàm	kàm	IDEO	_	_	11	discourse@top	_	_
 13	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	10	comp:obj	_	_
 14	nan	nan	ADV	_	Definite=Def|PronType=Dem	13	comp:pred	_	_
-15	à	à	ADP	_	ExtPos=ADP	13	comp:pred	_	Gloss=at|Idiom=Yes
-16	kân	kân	ADP	_	_	15	compound	_	InIdiom=Yes
-17	bàkansà	bàkansà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	15	comp:obj	_	SpaceAfter=No
+15	à	à	ADP	_	_	13	comp:pred	_	Gloss=at
+16	kân	kân	ADP	_	_	15	comp:obj	_	_
+17	bàkansà	bàkansà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	16	comp:obj	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 19	bàː	bàː	PART	_	Polarity=Neg	20	mod	_	_
 20	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	13	parataxis@conj	_	_
@@ -631,7 +631,7 @@
 29	maː	maː	PART	_	_	28	discourse@top	_	_
 30	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	34	comp:pred	_	_
 31	wannàn	wannàn	DET	_	PronType=Dem	32	det	_	_
-32	mùtumìn	mùtumìː	NOUN	_	Definite=Ind	30	conj:appos	_	_
+32	mùtumìn	mùtûm	NOUN	_	Definite=Ind	30	conj:appos	_	Gloss=person.Masc.Def
 33	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	34	comp:pred	_	_
 34	nèː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	_
 35	ya	ya	AUX	_	Aspect=Perf|Gender=Masc|Person=3	34	comp:cleft	_	_
@@ -652,9 +652,9 @@
 12	kàm	kàm	IDEO	_	_	11	discourse@top	_	_
 13	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	10	comp:obj	_	_
 14	nan	nan	ADV	_	Definite=Def|PronType=Dem	13	comp:pred	_	_
-15	à	à	ADP	_	ExtPos=ADP	13	comp:pred	_	Gloss=at|Idiom=Yes
-16	kân	kân	ADP	_	_	15	compound	_	InIdiom=Yes
-17	bàkansà	bàkansà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	15	comp:obj	_	SpaceAfter=No
+15	à	à	ADP	_	_	13	comp:pred	_	Gloss=at
+16	kân	kân	ADP	_	_	15	comp:obj	_	_
+17	bàkansà	bàkansà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	16	comp:obj	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 19	bàː	bàː	PART	_	Polarity=Neg	20	mod	_	_
 20	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	13	parataxis@conj	_	_

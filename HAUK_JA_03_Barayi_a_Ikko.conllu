@@ -58,9 +58,9 @@
 9	bankìː	bankìː	NOUN	_	Gender=Masc	7	dislocated@comp	_	_
 10	mafìː	mafìː	PART	_	Gender=Masc	9	mod	_	_
 11	girmaː	girmaː	NOUN	_	Gender=Masc	10	comp:obj	_	_
-12	à	à	ADP	_	ExtPos=ADP	10	mod	_	Gloss=at|Idiom=Yes
-13	cikin	cikin	ADP	_	_	12	compound	_	InIdiom=Yes
-14	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	12	comp:obj	_	_
+12	à	à	ADP	_	_	10	mod	_	Gloss=at
+13	cikin	cikin	ADP	_	_	12	comp:obj	_	_
+14	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	13	comp:obj	_	_
 15	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	14	mod	_	Gloss=Nigeria|SpaceAfter=No
 16	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
@@ -200,7 +200,7 @@
 10	kai	kai	VERB	_	_	9	comp:aux	_	_
 11	r̃àːhoːtòn	r̃àːhoːtòː	NOUN	_	Definite=Cons|Number=Plur	10	comp:obj	_	_
 12	duk	dukà	DET	_	PronType=Tot	13	det	_	_
-13	mùtumìn	mùtumìː	NOUN	_	Definite=Cons|Gender=Masc	11	mod	_	_
+13	mùtumìn	mùtûm	NOUN	_	Definite=Cons|Gender=Masc	11	mod	_	Gloss=person.Masc.Def
 14	dà	dà	SCONJ	_	_	13	mod@relcl	_	_
 15	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	14	comp:obj	_	_
 16	jeː	jeː	VERB	_	_	15	comp:aux	_	_
@@ -242,9 +242,9 @@
 20	dà	dà	SCONJ	_	_	19	mod@relcl	_	_
 21	akèː	nàː	AUX	_	Aspect=Prog|Person=4	20	comp:obj	_	_
 22	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	comp:aux	_	Gloss=do
-23	à	à	ADP	_	ExtPos=ADP	22	mod	_	Gloss=at|Idiom=Yes
-24	cikin	cikin	ADP	_	_	23	compound	_	InIdiom=Yes
-25	Nàːjeːr̃iyàr̃	Nàːjeːr̃iyàr̃	PROPN	_	Definite=PrevRef|Gender=Fem	23	comp:obj	_	Gloss=Nigeria.PrevRef
+23	à	à	ADP	_	_	22	mod	_	Gloss=at
+24	cikin	cikin	ADP	_	_	23	comp:obj	_	_
+25	Nàːjeːr̃iyàr̃	Nàːjeːr̃iyàr̃	PROPN	_	Definite=PrevRef|Gender=Fem	24	comp:obj	_	Gloss=Nigeria.PrevRef
 26	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	15	comp:obj	_	_
 27	fi	fi	VERB	_	_	26	comp:aux	_	_
 28	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:obj	_	Gloss=type.Masc.Cons
