@@ -598,44 +598,6 @@
 33	ɗayansù	ɗaya	NUM	_	Case=Acc|Number=Plur|Person=3	32	mod:num	_	SpaceAfter=No
 34	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
-# sent_id = 09_Salman_Rushdie__23_7
-# text = Sai dai kuma shiː Gianni Palma yaː kafèː kân cêːwaː lalleː kàm yanàː nan à kân bàkansà, bàː zâi jaː dà baːya ba. 2 Tòː dâː maː shiː wannàn mùtumìn shiː nèː ya
-1	Sai	sai	ADV	_	_	7	mod	_	_
-2	dai	dai	PART	_	_	1	discourse@top	_	_
-3	kuma	kuma	PART	_	_	7	discourse	_	_
-4	shiː	shiː	PRON	_	Gender=Masc|Person=3	7	dislocated@subj	_	_
-5	Gianni	Gianni	PROPN	_	_	4	conj:appos	_	Gloss=Gianni
-6	Palma	Palma	PROPN	_	_	5	mod	_	Gloss=Palma
-7	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
-8	kafèː	kafèː	VERB	_	_	7	comp:aux	_	_
-9	kân	kân	ADP	_	_	8	comp:obl	_	_
-10	cêːwaː	cêwaː	SCONJ	_	ExtPos=NOUN|Gender=Fem	9	comp:obj	_	_
-11	lalleː	lalleː	INTJ	_	_	13	discourse	_	_
-12	kàm	kàm	IDEO	_	_	11	discourse@top	_	_
-13	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	10	comp:obj	_	_
-14	nan	nan	ADV	_	Definite=Def|PronType=Dem	13	comp:pred	_	_
-15	à	à	ADP	_	_	13	comp:pred	_	Gloss=at
-16	kân	kân	ADP	_	_	15	comp:obj	_	_
-17	bàkansà	bàkansà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	16	comp:obj	_	SpaceAfter=No
-18	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-19	bàː	bàː	PART	_	Polarity=Neg	20	mod	_	_
-20	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	13	parataxis@conj	_	_
-21	jaː	jaː	VERB	_	_	20	comp:aux	_	_
-22	dà	dà	ADP	_	_	21	comp:obl	_	_
-23	baːya	baːya	ADV	_	_	22	comp:obj	_	_
-24	ba	ba	PART	_	Polarity=Neg	20	mod	_	SpaceAfter=No
-25	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
-26	2	2	PUNCT	_	_	34	discourse	_	Gloss=PUNCT
-27	Tòː	tòː	INTJ	_	_	34	discourse	_	_
-28	dâː	dâː	ADV	_	_	34	mod	_	_
-29	maː	maː	PART	_	_	28	discourse@top	_	_
-30	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	34	comp:pred	_	_
-31	wannàn	wannàn	DET	_	PronType=Dem	32	det	_	_
-32	mùtumìn	mùtûm	NOUN	_	Definite=PrevRef	30	conj:appos	_	Gloss=person.Masc.PrevRef
-33	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	34	comp:pred	_	_
-34	nèː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	_
-35	ya	ya	AUX	_	Aspect=Perf|Gender=Masc|Person=3	34	comp:cleft	_	_
-
 # sent_id = 09_Salman_Rushdie__23
 # text = Sai dai kuma shiː Gianni Palma yaː kafèː kân cêːwaː lalleː kàm yanàː nan à kân bàkansà, bàː zâi jaː dà baːya ba.
 1	Sai	sai	ADV	_	_	7	mod	_	_
