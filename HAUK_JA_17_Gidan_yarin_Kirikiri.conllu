@@ -50,7 +50,7 @@
 42	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	45	subj	_	wordform=wadandal
 43	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	28	conj:coord	_	_
 44	kàmaːtà	kàmaːtà	VERB	_	_	43	comp:aux	_	_
-45	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	43	conj:coord	_	_
+45	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	43	subj	_	_
 46	kasànceː	kasant-	VERB	_	_	45	comp:aux	_	_
 47	à	à	ADP	_	_	46	mod	_	Gloss=at
 48	cikinsà	cikin	NOUN	_	Gender=Fem	47	comp:obj	_	SpaceAfter=No
@@ -97,8 +97,8 @@
 37	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	34	comp:obj	_	_
 38	nèː	neː	PART	_	_	34	discourse@foc	_	_
 39	à	à	ADP	_	_	38	mod	_	Gloss=at
-40	gàban	gàban	ADP	_	_	39	comp.obj	_	_
-41	koːtù	koːtù	PRON	_	_	40	mod	_	SpaceAfter=No
+40	gàban	gàban	ADP	_	_	39	comp:obj	_	_
+41	koːtù	koːtù	PRON	_	_	40	comp:obj	_	SpaceAfter=No
 42	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 17_Gidan_yarin_Kirikiri__4
@@ -371,7 +371,7 @@
 
 # sent_id = 17_Gidan_yarin_Kirikiri__10
 # text = R̃àhoːtòn ya ci gàba dà cêːwaː irìn haːlin kiwòn laːfiyàː dà na tsabtàː àː kûr̃kukùn yanàː dà haɗàr̃iː; wàːtòː zaːfiː dà rashìn ìsasshiyar̃ iskàː à cikin ɗaːkunàː, tàːre dà rashìn ìsasshen hasken làntar̃kìː yanàː sànàdiyyàr̃ bàːzuwar̃ wasu ƙwaːyoːyin cùːtaː dà kuma ƙwàːriː.
-1	R̃àhoːtòn	r̃àhoːtòː	PROPN	_	_	2	subj	_	Gloss=report.Masc.PrevRef
+1	R̃àhoːtòn	r̃àhoːtòː	PROPN	_	Definite=PrevRef	2	subj	_	Gloss=report.Masc.PrevRef
 2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 3	ci	ci	VERB	_	_	2	comp:aux	_	_
 4	gàba	gàba	ADV	_	_	3	mod	_	_
@@ -548,7 +548,7 @@
 
 # sent_id = 17_Gidan_yarin_Kirikiri__14
 # text = R̃àhoːtòn kuma yaː bayyànà suːnàːyen wasu mutàːneː àr̃bà'in dà tar̃à dà sukà mutù à kûr̃kukùn à bàːra.
-1	R̃àhoːtòn	r̃àhoːtòː	PROPN	_	_	3	subj	_	Gloss=report.Masc.PrevRef
+1	R̃àhoːtòn	r̃àhoːtòː	PROPN	_	Definite=PrevRef	3	subj	_	Gloss=report.Masc.PrevRef
 2	kuma	kuma	PART	_	_	1	discourse@top	_	_
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 4	bayyànà	bayy	VERB	_	_	3	comp:aux	_	_

@@ -206,9 +206,9 @@
 6	dà	dà	ADP	_	_	5	comp:pred	_	_
 7	'yar̃	ɗarn	ADJ	_	Definite=Cons|Gender=Fem	10	mod	_	wordform=yar
 8	shakkàː	shakkàː	NOUN	_	Definite=Ind|Gender=Fem	6	comp:obj	_	Gloss=doubt.Fem
-9	à	à	ADP	_	ExtPos=ADP	5	mod	_	Gloss=at|Idiom=Yes
-10	kân	kân	ADP	_	_	9	compound	_	InIdiom=Yes
-11	àbîn	àbù	NOUN	_	Definite=Cons|Gender=Masc	9	comp:obj	_	_
+9	à	à	ADP	_	_	5	mod	_	Gloss=at
+10	kân	kân	ADP	_	_	9	comp:obj	_	_
+11	àbîn	àbù	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	_
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	_
 13	bìncìkên	bìncìkêː	NOUN	_	Definite=Cons|Gender=Masc	15	subj	_	_
 14	naːsù	naːsù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	13	mod@poss	_	_
@@ -296,9 +296,9 @@
 13	à	à	ADP	_	_	7	mod	_	Gloss=at
 14	wannàn	wannàn	DET	_	PronType=Dem	15	det	_	_
 15	yankìː	yankìː	NOUN	_	Gender=Masc	13	comp:obj	_	_
-16	à	à	ADP	_	ExtPos=ADP	10	mod	_	Gloss=at|Idiom=Yes
-17	cikin	cikin	ADP	_	_	16	compound	_	InIdiom=Yes
-18	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	16	comp:obj	_	Gloss=Cameroon
+16	à	à	ADP	_	_	10	mod	_	Gloss=at
+17	cikin	cikin	ADP	_	_	16	comp:obj	_	_
+18	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	17	comp:obj	_	Gloss=Cameroon
 19	dà	dà	CCONJ	_	_	20	cc	_	_
 20	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	15	conj:coord	_	Gloss=Nigeria|SpaceAfter=No
 21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
@@ -412,14 +412,14 @@
 8	cêːwaː	cêːwaː	SCONJ	_	_	7	mod	_	wordform=cêwaː
 9	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	8	comp:obj	_	_
 10	kàmaːtà	kamaːt-	VERB	_	_	9	comp:aux	_	_
-11	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	_
+11	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	18	subj	_	_
 12	ruwân	ruwaː	NOUN	_	Definite=Cons|Number=Plur	11	mod	_	_
 13	dà	dà	SCONJ	_	_	12	mod@relcl	_	_
 14	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	13	comp:obj	_	_
 15	kwaːshèː	kwaːsh-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:aux	_	_
 16	dàgà	dàgà	ADP	_	_	15	comp:obl	_	_
 17	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	16	comp:obj	_	wordform=tar̃kin
-18	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	9	parataxis@conj	_	_
+18	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	10	subj	_	_
 19	wucè	wt-	VERB	_	_	18	comp:aux	_	_
 20	yawàn	yawàn	ADJ	_	Definite=Cons|Gender=Masc	19	comp:obj	_	_
 21	ruwan	ruwaː	NOUN	_	Definite=Cons|Number=Plur	19	comp:obj	_	_
@@ -428,7 +428,7 @@
 24	kèː	nàː	AUX	_	Aspect=Prog	23	comp:obj	_	_
 25	shìgaː	shìgaː	VERB	_	ExtPos=NOUN|Gender=Fem	24	comp:aux	_	_
 26	cikinsà	cikinsà	ADP	_	_	25	comp:obl	_	_
-27	ba	ba	PART	_	Polarity=Neg	18	mod	_	SpaceAfter=No
+27	ba	ba	PART	_	Polarity=Neg	10	mod	_	SpaceAfter=No
 28	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos__14

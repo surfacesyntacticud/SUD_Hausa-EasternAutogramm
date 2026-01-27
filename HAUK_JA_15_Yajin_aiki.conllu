@@ -237,12 +237,12 @@
 25	kuma	kuma	PART	_	_	28	discourse@top	_	_
 26	'yan	ɗan	ADJ	_	Definite=Cons|Number=Plur	23	conj:coord	_	_
 27	sàndaː	sàndaː	NOUN	_	Gender=Masc	26	compound	_	_
-28	à	à	ADP	_	ExtPos=ADP	21	mod	_	Gloss=at|Idiom=Yes
-29	bir̃nin	bir̃nin	ADP	_	_	28	compound	_	InIdiom=Yes
-30	Yàmài	Yàmài	PROPN	_	_	28	comp:obj	_	Gloss=Niamey
-31	à	à	ADP	_	ExtPos=ADP	21	mod	_	Gloss=at|Idiom=Yes
-32	watàn	watàː	ADP	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	31	compound	_	Gloss=month.Masc.Cons|InIdiom=Yes
-33	Fàbàr̃air̃ùn	Fàbàr̃air̃ùn	PROPN	_	_	31	comp:obj	_	Gloss=February
+28	à	à	ADP	_	_	21	mod	_	Gloss=at
+29	bir̃nin	bir̃nin	ADP	_	_	28	comp:obj	_	_
+30	Yàmài	Yàmài	PROPN	_	_	29	comp:obj	_	Gloss=Niamey
+31	à	à	ADP	_	_	21	mod	_	Gloss=at
+32	watàn	watàː	ADP	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	31	comp:obj	_	Gloss=month.Masc.Cons
+33	Fàbàr̃air̃ùn	Fàbàr̃air̃ùn	PROPN	_	_	32	comp:obj	_	Gloss=February
 34	dà	dà	SCONJ	_	_	33	mod@relcl	_	_
 35	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	34	comp:obj	_	_
 36	shigèː	shig-	VERB	_	_	35	comp:aux	_	SpaceAfter=No
@@ -474,9 +474,9 @@
 10	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 11	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	_
 12	fùskantàː	fùskantaː	VERB	_	Gender=Fem	11	comp:aux	_	_
-13	à	à	ADP	_	ExtPos=ADP	12	comp:obl	_	Gloss=at|Idiom=Yes
-14	kân	kân	ADP	_	_	13	compound	_	InIdiom=Yes
-15	kaucèːwaː	kauc-	VERB	_	Gender=Fem	13	comp:obj	_	_
+13	à	à	ADP	_	_	12	comp:obl	_	Gloss=at
+14	kân	kân	ADP	_	_	13	comp:obj	_	_
+15	kaucèːwaː	kauc-	VERB	_	Gender=Fem	14	comp:obj	_	_
 16	dàgà	dàgà	ADP	_	ExtPos=ADP	15	comp:obl	_	_
 17	kân	kân	ADP	_	Definite=Cons|Gender=Masc	16	comp:obj	_	_
 18	tafarkìn	tafarkìː	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	_
@@ -590,7 +590,7 @@
 19	sukà	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	11	mod@relcl	_	_
 20	rasà	rasàː	VERB	_	_	19	comp:aux	_	_
 21	ayyukànsù	ayyukàːsù	NOUN	_	Case=Gen|Number=Plur|Person=3	20	comp:obj	_	_
-22	baːyân	baːyân	ADP	_	_	20	mod	_	_
+22	baːyân	baːyân	ADP	_	_	20	mod	_	Gloss=after.Def
 23	daː	daː	PART	_	_	22	comp:obj	_	_
 24	gwamnatìn	gwamnatìː	NOUN	_	Definite=Cons|Gender=Masc	26	subj	_	wordform=gwamnatin
 25	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	24	mod	_	Gloss=country.Fem.PrevRef|wordform=kasàːr
@@ -681,5 +681,5 @@
 25	daɗèː	daɗ-	VERB	_	_	24	comp:aux	_	_
 26	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	25	comp:obj	_	wordform=yana
 27	kâi	kâi	NOUN	_	Definite=Ind	26	comp:aux	_	_
-28	ba	ba	PART	_	Polarity=Neg	18	mod	_	_
+28	ba	ba	PART	_	Polarity=Neg	25	mod	_	_
 
