@@ -50,7 +50,7 @@
 42	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	45	subj	_	wordform=wadandal
 43	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	28	conj:coord	_	_
 44	kàmaːtà	kàmaːtà	VERB	_	_	43	comp:aux	_	_
-45	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	43	subj	_	_
+45	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	43	conj:coord	_	_
 46	kasànceː	kasant-	VERB	_	_	45	comp:aux	_	_
 47	à	à	ADP	_	_	46	mod	_	Gloss=at
 48	cikinsà	cikin	NOUN	_	Gender=Fem	47	comp:obj	_	SpaceAfter=No
@@ -94,11 +94,11 @@
 34	à	à	ADP	_	_	23	comp:obl	_	Gloss=at
 35	gabaːtar̃	gabaːtaː	VERB	_	Definite=Cons|Gender=Fem	34	comp:obj	_	_
 36	dà	dà	ADP	_	_	35	comp:obl	_	_
-37	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	36	comp:obj	_	_
-38	nèː	neː	PART	_	_	37	discourse@foc	_	_
-39	à	à	ADP	_	_	35	comp:obl	_	Gloss=at
-40	gàban	gàban	ADP	_	_	39	comp:obj	_	_
-41	koːtù	koːtù	PRON	_	_	40	comp:obj	_	SpaceAfter=No
+37	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	34	comp:obj	_	_
+38	nèː	neː	PART	_	_	34	discourse@foc	_	_
+39	à	à	ADP	_	_	38	mod	_	Gloss=at
+40	gàban	gàban	ADP	_	_	39	comp.obj	_	_
+41	koːtù	koːtù	PRON	_	_	40	mod	_	SpaceAfter=No
 42	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 17_Gidan_yarin_Kirikiri__4
@@ -245,9 +245,9 @@
 13	à	à	ADP	_	_	12	comp:obl	_	Gloss=at
 14	gabaːtar̃	gabaːtaː	VERB	_	Definite=Cons|Gender=Fem	13	comp:obj	_	wordform=gabaːtar
 15	dà	dà	ADP	_	_	14	comp:obl	_	_
-16	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	comp:obj	_	_
-17	nèː	neː	AUX	_	Gender=Masc|Number=Plur	16	discourse@foc	_	_
-18	à	à	ADP	_	_	14	comp:obl	_	Gloss=at
+16	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	comp:pred	_	_
+17	nèː	neː	AUX	_	Gender=Masc|Number=Plur	15	comp:obj	_	_
+18	à	à	ADP	_	_	17	mod	_	Gloss=at
 19	gàban	gàban	ADP	_	_	18	comp:obj	_	_
 20	shàr̃i'àː	shàr̃i'àː	NOUN	_	Definite=Ind|Gender=Fem	19	comp:obj	_	_
 21	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
@@ -371,7 +371,7 @@
 
 # sent_id = 17_Gidan_yarin_Kirikiri__10
 # text = R̃àhoːtòn ya ci gàba dà cêːwaː irìn haːlin kiwòn laːfiyàː dà na tsabtàː àː kûr̃kukùn yanàː dà haɗàr̃iː; wàːtòː zaːfiː dà rashìn ìsasshiyar̃ iskàː à cikin ɗaːkunàː, tàːre dà rashìn ìsasshen hasken làntar̃kìː yanàː sànàdiyyàr̃ bàːzuwar̃ wasu ƙwaːyoːyin cùːtaː dà kuma ƙwàːriː.
-1	R̃àhoːtòn	r̃àhoːtòː	PROPN	_	Definite=PrevRef	2	subj	_	Gloss=report.Masc.PrevRef
+1	R̃àhoːtòn	r̃àhoːtòː	PROPN	_	_	2	subj	_	Gloss=report.Masc.PrevRef
 2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 3	ci	ci	VERB	_	_	2	comp:aux	_	_
 4	gàba	gàba	ADV	_	_	3	mod	_	_
@@ -548,7 +548,7 @@
 
 # sent_id = 17_Gidan_yarin_Kirikiri__14
 # text = R̃àhoːtòn kuma yaː bayyànà suːnàːyen wasu mutàːneː àr̃bà'in dà tar̃à dà sukà mutù à kûr̃kukùn à bàːra.
-1	R̃àhoːtòn	r̃àhoːtòː	PROPN	_	Definite=PrevRef	3	subj	_	Gloss=report.Masc.PrevRef
+1	R̃àhoːtòn	r̃àhoːtòː	PROPN	_	_	3	subj	_	Gloss=report.Masc.PrevRef
 2	kuma	kuma	PART	_	_	1	discourse@top	_	_
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	_
 4	bayyànà	bayy	VERB	_	_	3	comp:aux	_	_
@@ -690,8 +690,8 @@
 6	cêː	cêː	VERB	_	_	5	comp:aux	_	_
 7	koːmeː	koːmeː	PRON	_	PronType=Ind	6	comp:obj	_	_
 8	ba	ba	PART	_	Polarity=Neg	6	mod	_	_
-9	gàme	gàme	ADP	_	_	6	comp:obl	_	Gloss=with
-10	dà	dà	ADP	_	_	9	comp:obj	_	Gloss=with
-11	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	SpaceAfter=No
+9	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	6	comp:obl	_	_
+10	dà	dà	ADP	_	_	9	compound	_	_
+11	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	9	comp:obj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
