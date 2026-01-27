@@ -802,24 +802,24 @@
 # sent_id = 11_Fela_Kuti__27
 # text = Wani àbù kuma dà ya sâː sauran duːniyàː ta shìga nuːnà shàʼawàː gàme dà Fela, shiː nèː gàme dà maːtansà na aureː suː àshìr̃in dà bakwài, waɗàndà ya àuri dukkànsù à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sàbà'in dà takwàs.
 1	Wani	wani	DET	_	_	2	det	_	_
-2	àbù	àbù	NOUN	_	Gender=Masc	9	subj	_	_
+2	àbù	àbù	NOUN	_	Gender=Masc	18	subj	_	_
 3	kuma	kuma	PART	_	_	2	discourse@top	_	_
 4	dà	dà	SCONJ	_	_	2	mod@relcl	_	_
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	comp:obj	_	_
 6	sâː	sâː	VERB	_	_	5	comp:aux	_	_
-7	sauran	sauran	ADP	_	_	6	comp:obj	_	_
+7	sauran	sauran	ADP	_	_	9	subj	_	_
 8	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	7	comp:obj	_	_
-9	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	_
+9	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	6	comp:obj	_	_
 10	shìga	shìga	VERB	_	_	9	comp:aux	_	_
 11	nuːnà	nuːnàː	VERB	_	_	10	comp:obj@G	_	_
 12	shàʼawàː	shàʼawàː	NOUN	_	ExtPos=NOUN|Gender=Fem	11	comp:obj	_	_
 13	gàme	gàme	ADP	_	_	11	mod	_	Gloss=with
 14	dà	dà	ADP	_	_	13	comp:obj	_	Gloss=with
 15	Fela	Fela	PROPN	_	_	14	comp:obj	_	Gloss=Fela|SpaceAfter=No
-16	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
+16	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 17	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	18	comp:pred	_	_
-18	nèː	neː	AUX	_	Gender=Masc|Number=Plur	9	discourse@foc	_	_
-19	gàme	gàme	ADP	_	_	18	dislocated@subj	_	Gloss=with
+18	nèː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	_
+19	gàme	gàme	ADP	_	_	18	dislocated@comp	_	Gloss=with
 20	dà	dà	ADP	_	_	19	comp:obj	_	Gloss=with
 21	maːtansà	maːtansà	NOUN	_	Definite=Ind|Number=Plur	20	comp:obj	_	_
 22	na	na	ADP	_	_	21	mod	_	_
@@ -830,10 +830,10 @@
 27	bakwài	bakwài	NUM	_	_	25	conj:coord	_	SpaceAfter=No
 28	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 29	waɗàndà	waɗàndà	PRON	_	Number=Plur|PronType=Rel	31	comp:obj	_	_
-30	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	19	comp:obj	_	_
+30	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	21	mod@relcl	_	_
 31	àuri	àuraː	VERB	_	_	30	comp:aux	_	_
 32	dukkànsù	dukkàːsù	NOUN	_	Definite=Cons|Number=Plur|Person=3	31	comp:obj	_	_
-33	à	à	ADP	_	_	31	comp:obl	_	Gloss=at
+33	à	à	ADP	_	_	31	mod	_	Gloss=at
 34	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	33	comp:obj	_	_
 35	alìf	alìf	NOUN	_	_	34	mod	_	_
 36	dà	dà	CCONJ	_	_	37	cc	_	_
@@ -843,5 +843,5 @@
 40	sàbà'in	sàbà'in	NUM	_	Definite=Cons|Gender=Masc	37	conj:coord	_	_
 41	dà	dà	CCONJ	_	_	42	cc	_	_
 42	takwàs	takwàs	NUM	_	_	40	conj:coord	_	SpaceAfter=No
-43	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
+43	.	.	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 

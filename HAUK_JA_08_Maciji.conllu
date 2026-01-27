@@ -48,7 +48,7 @@
 
 # sent_id = 08_Maciji__3a
 # text = Yaddà wannàn àl'amàr̃iː ya fàːru shiː nèː suː mutàːnên sun ɗaukoː gaːwar̃ wannàn macìːjiː nèː baːyân dà wata bàbbar̃ moːtàː ta laːtsèː shi à bisà hanyàː dà dàddare, sukà nùfi dà shiː zuwàː gidaː.
-1	Yaddà	yaddà	ADV	_	PronType=Rel	7	dislocated@mod	_	Gloss=how
+1	Yaddà	yaddà	ADV	_	PronType=Rel	7	subj	_	Gloss=how
 2	wannàn	wannàn	DET	_	PronType=Dem	3	det	_	_
 3	àl'amàr̃iː	àl'amàr̃iː	NOUN	_	Gender=Masc	4	subj	_	_
 4	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	mod@relcl	_	_
@@ -57,7 +57,7 @@
 7	nèː	neː	PART	_	_	0	root	_	_
 8	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	dislocated@subj	_	_
 9	mutàːnên	mutàːnêː	NOUN	_	Definite=Cons|Number=Plur	8	conj:appos	_	_
-10	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	7	dislocated@subj	_	_
+10	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	7	dislocated@comp	_	_
 11	ɗaukoː	ɗauk-	VERB	_	_	10	comp:aux	_	_
 12	gaːwar̃	gaːwaː	NOUN	_	Definite=Cons|Gender=Fem	11	comp:obj	_	Gloss=corpse.Fem.Cons
 13	wannàn	wannàn	DET	_	PronType=Dem	14	det	_	_
@@ -71,9 +71,9 @@
 21	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	16	comp:obj	_	_
 22	laːtsèː	laːtsèː	VERB	_	_	21	comp:aux	_	_
 23	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	22	comp:obj	_	_
-24	à	à	ADP	_	ExtPos=ADP	22	mod	_	Gloss=at|Idiom=Yes
-25	bisà	bisà	ADP	_	_	24	compound	_	Gloss=on_top|InIdiom=Yes
-26	hanyàː	hanyàː	NOUN	_	Definite=Ind	24	comp:obj	_	_
+24	à	à	ADP	_	_	22	mod	_	Gloss=at
+25	bisà	bisà	ADP	_	_	24	comp:obj	_	Gloss=on_top
+26	hanyàː	hanyàː	NOUN	_	Definite=Ind	25	comp:obj	_	_
 27	dà	dà	ADP	_	_	22	mod	_	_
 28	dàddare	dàddare	ADV	_	_	27	comp:obj	_	SpaceAfter=No
 29	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
@@ -226,9 +226,9 @@
 27	-	-	PUNCT	_	_	28	punct	_	Gloss=PUNCT
 28	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	12	comp:obj	_	_
 29	ɗaya	ɗaya	NUM	_	_	28	comp:aux	_	_
-30	dàgà	dàgà	ADP	_	ExtPos=ADP	29	mod	_	Idiom=Yes
-31	cikin	cikin	ADP	_	_	30	compound	_	InIdiom=Yes
-32	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	30	comp:obj	_	Gloss=type.Masc.Cons
+30	dàgà	dàgà	ADP	_	_	29	mod	_	_
+31	cikin	cikin	ADP	_	_	30	comp:obj	_	_
+32	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	31	comp:obj	_	Gloss=type.Masc.Cons
 33	màcìːzân	macìːjiː	NOUN	_	Definite=Cons|Number=Plur	32	mod	_	Gloss=snake.Plur.Def
 34	nan	nan	DET	_	PronType=Dem	33	det	_	_
 35	nèː	neː	PART	_	_	33	discourse@foc	_	_
@@ -306,9 +306,9 @@
 6	yi	yi	VERB	_	_	5	comp:aux	_	Gloss=do
 7	wani	wani	DET	_	Definite=Spec|Gender=Masc	8	det	_	_
 8	gàr̃gàɗiː	gàr̃gàɗiː	NOUN	_	Definite=Cons|Gender=Fem	6	comp:pred	_	_
-9	gàme	gam-	VERB	_	ExtPos=ADP|VerbForm=Stat	8	comp:obl	_	_
-10	dà	dà	ADP	_	_	9	compound	_	_
-11	maːgungunàn	maːgàniː	NOUN	_	Definite=Cons|ExtPos=NOUN|Number=Plur	9	comp:obj	_	Gloss=medicine.Plur.Cons|Idiom=Yes
+9	gàme	gàme	ADP	_	_	8	comp:obl	_	Gloss=with
+10	dà	dà	ADP	_	_	9	comp:obj	_	Gloss=with
+11	maːgungunàn	maːgàniː	NOUN	_	Definite=Cons|ExtPos=NOUN|Number=Plur	10	comp:obj	_	Gloss=medicine.Plur.Cons|Idiom=Yes
 12	kashè	kas-	VERB	_	_	11	mod	_	InIdiom=Yes
 13	ƙwàːriː	ƙwàːroː	NOUN	_	Number=Plur	12	comp:obj	_	Gloss=insect.Plur
 14	irìː	irìː	NOUN	_	Gender=Masc	11	mod	_	_
