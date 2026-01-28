@@ -263,7 +263,7 @@
 
 # sent_id = 04_AIDS__8
 # text_ortho = An sàːmi r̃àhoːtòː dàgà Àbijân, bàbban bir̃nin Aːbir̃ù Kwâs, wandà ya nuːnà cêːwaː rabìn mazân dà akà yi wà gwajìː à wani bàbban asìbitì sunàː ɗàuke dà ƙwaːyoːyin cùːtâr̃.
-# text = An sàːmi r̃àhoːtòː dàgà Àbijân, bàbban bir̃nin Aːbir̃ù Kwâs, wandà ya nuːnà cêːwaː rabìn mazân dà akà yi wà gwajìː à wani bàbban asìbitì sunàː ɗàuke dà ƙwaːyoːyin cùːtâr̃.
+# text = an sàːmi r̃àhoːtòː dàgà Àbijân, bàbban bir̃nin Aːbir̃ù Kwâs, wandà ya nuːnà cêːwaː rabìn mazân dà akà yi wà gwajìː à wani bàbban asìbitì sunàː ɗàuke dà ƙwaːyoːyin cùːtâr̃.
 1	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=XX
 2	sàːmi	saːm-	VERB	_	_	1	comp:aux	_	Gloss=XX
 3	r̃àhoːtòː	r̃àhoːtòː	NOUN	_	Gender=Masc	2	comp:obj	_	Gloss=XX
@@ -280,8 +280,8 @@
 14	nuːnà	nuːn-	VERB	_	_	13	comp:aux	_	Gloss=XX
 15	cêːwaː	cêː	SCONJ	_	ExtPos=NOUN|Gender=Fem	14	comp:obj	_	Gloss=XX
 16	rabìn	rabìː	NOUN	_	Definite=Cons|Gender=Masc	27	subj	_	Gloss=XX
-17	mazân	mazaː	NOUN	_	Definite=Def|Gender=Masc	16	mod	_	Gloss=XX
-18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=XX
+17	mazân	mijìː	NOUN	_	Definite=Def|Number=Plur	16	mod	_	Gloss=man.Plur.Def
+18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
 19	akà	nàː	AUX	_	Aspect=Prog|Person=4	18	comp:obj	_	Gloss=XX
 20	yi	yi	VERB	_	_	19	comp:aux	_	Gloss=do
 21	wà	wà	ADP	_	Case=Dat	20	comp:obl	_	Gloss=XX
@@ -379,8 +379,8 @@
 32	dà	dà	ADP	_	_	31	comp:obl	_	Gloss=XX
 33	ita	ita	PRON	_	Gender=Fem|Person=3	32	comp:obj	_	Gloss=XX
 34	tun	tun	ADP	_	_	31	mod	_	Gloss=XX
-35	loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	34	comp:obj	_	Gloss=XX
-36	dà	dà	SCONJ	_	_	35	mod@relcl	_	Gloss=XX
+35	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	34	comp:obj	_	Gloss=Masc.Def
+36	dà	dà	SCONJ	_	_	35	mod@relcl	_	Gloss=COMP
 37	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	36	comp:obj	_	Gloss=XX
 38	shigoː	shigoː	VERB	_	_	37	comp:obj	_	Gloss=XX
 39	Nàːjeːriyàː	Nàːjeːriyàː	PROPN	_	_	38	comp:obj@G	_	Gloss=XX
@@ -439,8 +439,8 @@
 23	tabbatar̃	tabbatar̃	VERB	_	_	22	comp:aux	_	Gloss=XX
 24	dà	dà	ADP	_	_	23	comp:obl	_	Gloss=XX
 25	kyâun	kyâu	NOUN	_	Definite=Cons|Gender=Masc	24	comp:obj	_	Gloss=XX
-26	jinîn	jiniː	VERB	_	Definite=Def|Gender=Masc	25	mod	_	Gloss=XX
-27	dà	dà	SCONJ	_	_	26	mod@relcl	_	Gloss=XX
+26	jinîn	jiniː	VERB	_	Definite=Def|Gender=Masc	25	mod	_	Gloss=Masc.Def
+27	dà	dà	SCONJ	_	_	26	mod@relcl	_	Gloss=COMP
 28	zaːsù	zâi	AUX	_	Mood=Sub|Number=Plur|Person=3	27	comp:obj	_	Gloss=XX|wordform=sù
 29	ɗuːràː	ɗuːràː	VERB	_	ExtPos=NOUN|Gender=Fem	28	comp:aux	_	Gloss=XX
 30	wà	wà	ADP	_	_	29	comp:obl	_	Gloss=XX
@@ -463,7 +463,7 @@
 47	.	.	PUNCT	_	_	12	punct	_	Gloss=XX
 
 # sent_id = 04_AIDS__14
-# text = Yaː kuma cêː doːlè neː asibitoːcîn sù riƙà àmfàːniː dà àllùːr̃ân dà akà tafàsaː.
+# text = yaː kuma cêː doːlè neː asibitoːcîn sù riƙà àmfàːniː dà àllùːr̃ân dà akà tafàsaː.
 # text_ortho = Yaː kuma cêː doːlè neː asibitoːcîn sù riƙà àmfàːniː dà àllùːr̃ân dà akà tafàsaː.
 1	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=too
@@ -475,8 +475,8 @@
 8	riƙà	riƙ-	VERB	_	_	7	comp:aux	_	Gloss=XX
 9	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=XX
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=XX
-11	àllùːr̃ân	àllùːr̃aː	NOUN	_	Definite=Def|Number=Plur	10	comp:obj	_	Gloss=XX
-12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=XX
+11	àllùːr̃ân	àlluːr̃àː	NOUN	_	Definite=Def|Number=Plur	10	comp:obj	_	Gloss=needle.Plur.Def
+12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 13	akà	nàː	AUX	_	Aspect=Prog|Person=4	12	comp:obj	_	Gloss=XX
 14	tafàsaː	tafàsaː	VERB	_	_	13	comp:aux	_	Gloss=XX|SpaceAfter=No
 15	.	.	PUNCT	_	_	1	punct	_	Gloss=XX
@@ -586,8 +586,8 @@
 17	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	11	conj:coord	_	Gloss=XX
 18	gùji	gùi	VERB	_	_	17	comp:aux	_	Gloss=XX
 19	dukkàn	dukkàː	DET	_	Definite=Cons|Gender=Masc	20	det	_	Gloss=XX
-20	àbîn	àbî	NOUN	_	Definite=Cons|Gender=Masc	18	comp:obj	_	Gloss=XX
-21	dà	dà	SCONJ	_	_	20	mod@relcl	_	Gloss=XX
+20	àbîn	àbî	NOUN	_	Definite=Def|Gender=Masc	18	comp:obj	_	Gloss=Masc.Def
+21	dà	dà	SCONJ	_	_	20	mod@relcl	_	Gloss=COMP
 22	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	21	comp:obj	_	Gloss=XX
 23	sâː	sâː	VERB	_	_	22	comp:aux	_	Gloss=XX
 24	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	23	comp:obj	_	Gloss=XX

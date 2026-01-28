@@ -211,8 +211,8 @@
 8	shakkàː	shakkàː	NOUN	_	Gender=Fem	6	comp:obj	_	Gloss=doubt.Fem
 9	à	à	ADP	_	_	5	mod	_	Gloss=at
 10	kân	kân	ADP	_	_	9	comp:obj	_	Gloss=top
-11	àbîn	àbù	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	Gloss=XX
-12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=XX
+11	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	Gloss=Masc.Def
+12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 13	bìncìkên	bìncìkêː	NOUN	_	Definite=Cons|Gender=Masc	15	subj	_	Gloss=XX
 14	naːsù	naːsù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	13	mod@poss	_	Gloss=XX
 15	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	12	comp:obj	_	Gloss=XX
@@ -335,8 +335,8 @@
 9	à	yà	AUX	_	Mood=Sub|Person=4	8	comp:cleft	_	Gloss=XX
 10	yi	yi	VERB	_	_	9	comp:aux	_	Gloss=do
 11	famfòn	famfòː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:pred	_	Gloss=XX
-12	ruwân	ruwaː	NOUN	_	Definite=Cons|Number=Plur	11	comp:obj	_	Gloss=XX
-13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=XX
+12	ruwân	ruwaː	NOUN	_	Definite=Def|Number=Plur	11	comp:obj	_	Gloss=water.Plur.Def
+13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
 14	kèː	keː	AUX	_	Aspect=Prog	13	comp:obj	_	Gloss=XX
 15	dà	dà	ADP	_	_	14	comp:pred	_	Gloss=XX
 16	carbon	carbon	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	Gloss=XX
@@ -406,7 +406,7 @@
 25	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos__13b
-# text = Don hakà masànaː kìːmiyyàː sukà kaːwoː shaːwar̃àr̃ cêːwaː bài kàmaːtà yawàn ruwân dà zaː'à kwaːshèː dàgà tafkìn yà wucè yawàn ruwan samàn dà kèː shìgaː cikinsà ba .
+# text = Don hakà masànaː kìːmiyyàː sukà kaːwoː shaːwar̃àr̃ cêːwaː bài kàmaːtà yawàn ruwân dà zaː'à kwaːshèː dàgà tafkìn yà wucè yawàn ruwan samàn dà kèː shìgaː cikinsà ba.
 1	Don	don	SCONJ	_	_	5	discourse	_	Gloss=XX
 2	hakà	hakà	ADV	_	_	5	mod	_	Gloss=XX
 3	masànaː	masànaː	VERB	_	ExtPos=NOUN|Gender=Masc	2	comp:obj	_	Gloss=XX
@@ -418,8 +418,8 @@
 9	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	8	comp:obj	_	Gloss=XX
 10	kàmaːtà	kamaːt-	VERB	_	_	9	comp:aux	_	Gloss=XX
 11	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	18	subj	_	Gloss=XX
-12	ruwân	ruwaː	NOUN	_	Definite=Cons|Number=Plur	11	mod	_	Gloss=XX
-13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=XX
+12	ruwân	ruwaː	NOUN	_	Definite=Def|Number=Plur	11	mod	_	Gloss=water.Plur.Def
+13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
 14	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	13	comp:obj	_	Gloss=XX
 15	kwaːshèː	kwaːsh-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:aux	_	Gloss=XX
 16	dàgà	dàgà	ADP	_	_	15	comp:obl	_	Gloss=XX
@@ -465,8 +465,8 @@
 24	gâs	gâ	NOUN	_	Definite=Cons|Gender=Fem	23	comp:obj	_	Gloss=XX
 25	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	24	det	_	Gloss=XX|SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
-27	àbîn	àbî	NOUN	_	Definite=Cons|Gender=Masc	24	conj:appos	_	Gloss=XX
-28	dà	dà	SCONJ	_	_	27	mod@relcl	_	Gloss=XX
+27	àbîn	àbî	NOUN	_	Definite=Def|Gender=Masc	24	conj:appos	_	Gloss=Masc.Def
+28	dà	dà	SCONJ	_	_	27	mod@relcl	_	Gloss=COMP
 29	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	28	comp:obj	_	Gloss=XX
 30	zamoː	zam-	VERB	_	_	29	comp:aux	_	Gloss=XX
 31	àbù	àbù	NOUN	_	Gender=Masc	30	comp:obj	_	Gloss=XX
@@ -504,7 +504,7 @@
 12	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	7	conj:coord	_	Gloss=XX
 13	taːshì	taːs-	VERB	_	_	12	comp:aux	_	Gloss=XX
 14	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	12	parataxis@conj	_	Gloss=XX
-15	koːmàː	koːm-	VERB	_	_	14	comp:aux	_	Gloss=XX
+15	koːmàː	koːm-	VERB	_	_	14	comp:aux	_	Gloss=go_(back)_to
 16	neːsà	neːsà	ADP	_	Gender=Masc|Number=Plur	15	comp:obj@G	_	Gloss=XX
 17	ƙwar̃ai	ƙwar̃ai	ADV	_	_	16	mod	_	Gloss=XX
 18	dàgà	dàgà	ADP	_	_	15	comp:obl	_	Gloss=XX
