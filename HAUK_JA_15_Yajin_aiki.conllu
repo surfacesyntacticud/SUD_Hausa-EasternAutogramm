@@ -72,8 +72,8 @@
 9	rufèː	ruf-	VERB	_	_	7	comp:aux	_	Gloss=XX
 10	shaːgunàː	shaːgunàː	NOUN	_	Number=Plur	9	comp:obj	_	Gloss=XX|SpaceAfter=No
 11	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-12	yàːyîn	yàːyiː	NOUN	_	Definite=Cons|Gender=Masc	7	mod	_	Gloss=XX
-13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=XX
+12	yàːyîn	yàːyiː	NOUN	_	Definite=Def|Gender=Masc	7	mod	_	Gloss=Masc.Def
+13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
 14	har̃koːkin	har̃koːkiː	NOUN	_	Definite=Cons|Gender=Masc	17	subj	_	Gloss=XX
 15	sufùr̃iː	sufùr̃iː	NOUN	_	Gender=Masc	14	mod	_	Gloss=XX
 16	maː	maː	PART	_	_	12	discourse@top	_	Gloss=XX
@@ -306,7 +306,7 @@
 27	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	26	mod	_	Gloss=country.Fem.PrevRef|SpaceAfter=No
 28	dà	dà	CCONJ	_	_	29	cc	_	Gloss=XX
 29	ma'àikàtan	ma'àikàtaː	NOUN	_	Definite=Cons|Number=Plur	27	conj:coord	_	Gloss=XX
-30	asìbitì	asìbitì	NOUN	_	Gender=Masc	29	mod	_	Gloss=XX|wordform=asibiti
+30	asìbitì	asìbitì	NOUN	_	Gender=Masc	29	mod	_	Gloss=hospital.Masc|wordform=asibiti
 31	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	13	parataxis@conj	_	Gloss=XX
 32	cêː	cêː	VERB	_	_	31	comp:aux	_	Gloss=XX
 33	fìye	fìye	VERB	_	ExtPos=ADV|VerbForm=Stat	32	comp:obj	_	Gloss=XX
@@ -327,8 +327,8 @@
 5	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 6	biyoː	bi	VERB	_	_	5	comp:aux	_	Gloss=XX
 7	baːyan	baːyan	ADP	_	_	6	mod	_	Gloss=XX
-8	sanâr̃wâr̃	sanâr̃wâː	NOUN	_	Gender=Fem	7	comp:obj	_	Gloss=XX
-9	dà	dà	ADP	_	_	10	cc	_	Gloss=XX
+8	sanâr̃wâr̃	sanâr̃waː	NOUN	_	Definite=Def|Gender=Fem	7	comp:obj	_	Gloss=declaration.Fem.Def
+9	dà	dà	SCONJ	_	_	10	cc	_	Gloss=COMP
 10	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=government.Masc.Cons|wordform=gwamnatin
 11	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	10	mod	_	Gloss=country.Fem.PrevRef
 12	ta	ta	ADP	_	_	10	mod	_	Gloss=XX
@@ -383,8 +383,8 @@
 20	zaːà	zâi	AUX	_	Mood=Sub|Person=4	19	comp:obj	_	Gloss=XX
 21	kafà	kaf-	VERB	_	_	20	comp:aux	_	Gloss=XX
 22	wani	wani	DET	_	Definite=Spec|Gender=Masc	23	det	_	Gloss=some.Masc.Spec
-23	kwàmìtîn	kwàmìtiː	NOUN	_	Definite=Def|Gender=Masc	21	comp:obj	_	Gloss=XX
-24	dà	dà	SCONJ	_	_	23	mod@relcl	_	Gloss=XX
+23	kwàmìtîn	kwàmìtiː	NOUN	_	Definite=Def|Gender=Masc	21	comp:obj	_	Gloss=Masc.Def
+24	dà	dà	SCONJ	_	_	23	mod@relcl	_	Gloss=COMP
 25	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	24	comp:obj	_	Gloss=XX
 26	tsaːrà	tsaːràː	VERB	_	_	25	comp:aux	_	Gloss=XX
 27	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:obj	_	Gloss=type.Masc.Cons
@@ -405,8 +405,8 @@
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 8	wani	wani	DET	_	Definite=Spec|Gender=Masc	9	det	_	Gloss=some.Masc.Spec
-9	abîn	abîː	NOUN	_	Definite=Cons|Gender=Masc	7	subj	_	Gloss=XX
-10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=XX
+9	abîn	abîː	NOUN	_	Definite=Def|Gender=Masc	7	subj	_	Gloss=Masc.Def
+10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=COMP
 11	akà	nàː	AUX	_	Aspect=Prog|Person=4	10	comp:obj	_	Gloss=XX
 12	saːkè	saːkèː	VERB	_	_	11	comp:aux	_	Gloss=XX
 13	jîː	ji	AUX	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	12	comp:obj	_	Gloss=XX
@@ -434,8 +434,8 @@
 13	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=XX
 14	sàuye-sàuyên	sàuye-sàuye	NOUN	_	Number=Plur	12	conj:coord	_	Gloss=XX
 15	dà	dà	CCONJ	_	_	16	cc	_	Gloss=XX
-16	saurîn	sauriː	NOUN	_	Definite=Cons|Gender=Masc	14	conj:coord	_	Gloss=XX
-17	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=XX
+16	saurîn	sauriː	NOUN	_	Definite=Def|Gender=Masc	14	conj:coord	_	Gloss=Masc.Def
+17	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=COMP
 18	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	17	comp:obj	_	Gloss=XX
 19	kàmaːtà	kàmaːtà	VERB	_	_	18	comp:aux	_	Gloss=XX|SpaceAfter=No
 20	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
