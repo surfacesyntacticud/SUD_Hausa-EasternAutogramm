@@ -209,15 +209,16 @@
 33	tsàye	tsay-	VERB	_	ExtPos=ADV|VerbForm=Stat	32	mod	_	_
 34	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	31	conj:coord	_	_
 35	bayyànà	bayy	VERB	_	_	34	comp:aux	_	_
-36	r̃a'àyinsù	r̃a'àyi	NOUN	_	Case=Gen|Gender=Masc|Person=3	35	comp:obj	_	_
-37	à	à	ADP	_	_	34	parataxis@conj	_	_
-38	gàme	gàme	ADP	_	_	37	comp:obj	_	Gloss=with
-39	dà	dà	ADP	_	_	38	comp:obj	_	Gloss=with
-40	rìkicin	rìkiciː	NOUN	_	Definite=Cons|Gender=Masc	39	comp:obj	_	_
-41	Tèːkun	tèːkuː	NOUN	_	Definite=Cons|Gender=Masc	40	mod	_	wordform=tèːkun
-42	Paːshà	Paːshà	PROPN	_	_	41	mod	_	Gloss=Paːshà
-43	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	41	det	_	SpaceAfter=No
-44	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+36	r̃a'àyin	r̃a'àyiː	NOUN	_	Gender=Masc	35	comp:obj	_	SpaceAfter=No|wordform=r̃a'àyinsù
+37	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	36	mod@poss	_	Gloss=3Plur.Gen
+38	à	à	ADP	_	_	34	parataxis@conj	_	_
+39	gàme	gàme	ADP	_	_	38	comp:obj	_	Gloss=with
+40	dà	dà	ADP	_	_	39	comp:obj	_	Gloss=with
+41	rìkicin	rìkiciː	NOUN	_	Definite=Cons|Gender=Masc	40	comp:obj	_	_
+42	Tèːkun	tèːkuː	NOUN	_	Definite=Cons|Gender=Masc	41	mod	_	wordform=tèːkun
+43	Paːshà	Paːshà	PROPN	_	_	42	mod	_	Gloss=Paːshà
+44	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	42	det	_	SpaceAfter=No
+45	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha__7a
 # text = Wani mài màganàː dà yaːwun Sarkin Mùsùlmiː yaː jaddàːdà cêːwaː nuːnà ƙîn jinin Amìr̃kà à Nàːjeːr̃iyàː r̃a'àyin wasu 'yan tsìràːruː nèː , kuma shùːgàbànnin mùsùlmiː sunàː hàƙuriː dà suː nèː kawài sabòːdà 'yancin dà akèː dà shiː à ƙasâr̃ na fàɗar̃ r̃a'àyiː .
@@ -420,29 +421,30 @@
 29	dà	dà	ADP	_	_	28	comp:obl	_	_
 30	zàngà-zangàr̃	zàngà-zangàr̃	NOUN	_	Definite=Cons|Gender=Fem	27	conj:coord	_	_
 31	lùmaːnàr̃	lùmaːnàr̃	NOUN	_	Definite=Cons|Gender=Fem	30	mod	_	_
-32	dà	dà	SCONJ	_	_	41	mod@relcl	_	_
+32	dà	dà	SCONJ	_	_	42	mod@relcl	_	_
 33	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	32	comp:obj	_	_
 34	shiryà	shir-	VERB	_	_	33	comp:aux	_	_
 35	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	34	comp:obj	_	Gloss=do
 36	don	don	SCONJ	_	_	25	mod	_	_
 37	nuːnà	nuːn-	VERB	_	_	36	comp:obj	_	_
-38	rashìn	rashìː	NOUN	_	Definite=Cons|Gender=Masc	34	comp:obj	_	_
-39	amìncêːwar̃sù	amìncêːwarːsù	NOUN	_	Number=Plur	38	comp:obj	_	_
-40	dà	dà	CCONJ	_	_	30	cc	_	wordform=ɗà
-41	harìn	harìː	NOUN	_	Definite=Cons|Gender=Masc	27	conj:coord	_	_
-42	dà	dà	ADP	_	_	41	cc	_	_
-43	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	27	conj:coord	_	SpaceAfter=No
-44	Amìr̃kà	Amìr̃kà	PROPN	_	_	43	mod	_	Gloss=Amìr̃kà
-45	dà	dà	CCONJ	_	_	41	cc	_	_
-46	àːbòːkan	àːbòːkaː	NOUN	_	Definite=Cons|Number=Plur	33	subj	_	_
-47	ƙàwàncen	ƙàwànceː	NOUN	_	Definite=Cons|Gender=Masc	46	mod	_	SpaceAfter=No|wordform=ƙàwàncentà
-48	tà	tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	47	mod@poss	_	Gloss=3Fem.Gen
-49	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	33	parataxis@conj	_	_
-50	kai	kai	VERB	_	_	49	comp:aux	_	_
-51	wà	wà	ADP	_	Case=Dat	50	comp:obl	_	_
-52	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	50	comp:obj	_	_
-53	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	52	mod	_	Gloss=Ìr̃aːƙì|SpaceAfter=No
-54	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+38	rashìn	ras-	NOUN	_	Definite=Cons|Gender=Masc	34	comp:obj	_	Gloss=lack.Vnoun.Masc.Cons
+39	amìncêːwar̃	amint-	VERB	_	Definite=Cons	38	comp:obj	_	Gloss=agree.Vnoun.Fem.Cons|SpaceAfter=No|wordform=amìncêːwar̃sù
+40	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	39	mod@poss	_	Gloss=3Plur.Gen
+41	dà	dà	CCONJ	_	_	30	cc	_	wordform=ɗà
+42	harìn	harìː	NOUN	_	Definite=Cons|Gender=Masc	27	conj:coord	_	_
+43	dà	dà	ADP	_	_	42	cc	_	_
+44	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	27	conj:coord	_	SpaceAfter=No
+45	Amìr̃kà	Amìr̃kà	PROPN	_	_	44	mod	_	Gloss=Amìr̃kà
+46	dà	dà	CCONJ	_	_	42	cc	_	_
+47	àːbòːkan	àːbòːkaː	NOUN	_	Definite=Cons|Number=Plur	33	subj	_	_
+48	ƙàwàncen	ƙàwànceː	NOUN	_	Definite=Cons|Gender=Masc	47	mod	_	SpaceAfter=No|wordform=ƙàwàncentà
+49	tà	tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	48	mod@poss	_	Gloss=3Fem.Gen
+50	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	33	parataxis@conj	_	_
+51	kai	kai	VERB	_	_	50	comp:aux	_	_
+52	wà	wà	ADP	_	Case=Dat	51	comp:obl	_	_
+53	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	51	comp:obj	_	_
+54	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	53	mod	_	Gloss=Ìr̃aːƙì|SpaceAfter=No
+55	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha__13
 # text = Tun dà duku-duku nèː 'yan sàndan kashè tàr̃zòːmâr̃ sukà jeː hàr̃aːbàr̃ jaːmi'àr̃ sukà yi wà wurîn ƙawanyàː, sànnan kuma sukà kullèː duk ƙoːfoːfîn dà mânyan kwaːɗunàː.
@@ -496,15 +498,16 @@
 17	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
 18	faːrà	faːr-	VERB	_	_	17	comp:aux	_	_
 19	huːcè	huːcè	NOUN	_	_	18	comp:obj	_	_
-20	haushinsù	haushiːsù	NOUN	_	Case=Gen|Number=Plur|Person=3	19	mod	_	_
-21	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	18	parataxis@mod	_	_
-22	rinƙà	rinƙàː	VERB	_	_	21	comp:aux	_	_
-23	jiːfàn	jiːf-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	22	comp:obj	_	_
-24	'yan	ɗan	ADJ	_	Definite=Cons|Number=Plur	23	comp:obj	_	_
-25	sàndân	sàndaː	NOUN	_	_	24	mod	_	_
-26	dà	dà	CCONJ	_	_	27	cc	_	_
-27	duwàːtsuː	duwàːtsuː	NOUN	_	Gender=Masc	24	conj:coord	_	SpaceAfter=No
-28	.	.	PUNCT	_	_	17	punct	_	Gloss=PUNCT
+20	haushin	haushiː	NOUN	_	_	19	mod	_	SpaceAfter=No|wordform=haushinsù
+21	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	20	mod@poss	_	Gloss=3Plur.Gen
+22	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	18	parataxis@mod	_	_
+23	rinƙà	rinƙàː	VERB	_	_	22	comp:aux	_	_
+24	jiːfàn	jiːf-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	23	comp:obj	_	_
+25	'yan	ɗan	ADJ	_	Definite=Cons|Number=Plur	24	comp:obj	_	_
+26	sàndân	sàndaː	NOUN	_	_	25	mod	_	_
+27	dà	dà	CCONJ	_	_	28	cc	_	_
+28	duwàːtsuː	duwàːtsuː	NOUN	_	Gender=Masc	25	conj:coord	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha__15
 # text = Ganin hakà neː kuma ya sâː suː 'yan sàndân sukà mai dà mar̃tàniː dà bàr̃kòːnon tsoːhuwaː, dàgà ƙàrsheː sai ɗàːlìbân sukà jaː dà baːya sukà koːmàː cikin hàr̃aːbàrjaːmi'àr̃.

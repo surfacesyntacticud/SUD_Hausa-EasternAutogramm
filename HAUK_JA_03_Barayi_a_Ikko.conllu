@@ -87,28 +87,29 @@
 19	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
 # sent_id = 03_Barayi_a_Ikko__4
-# text = loːkàcîn dà sukà fitoː dàgà cikin moːtàr̃sù, sai mutàːnên dà kèː gàban bankìn sukà faːrà yi musù ruwan hàr̃saːshìː.
-1	loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	15	mod	_	_
+# text = loːkàcîn dà sukà fitoː dàgà cikin moːtàr̃sù , sai mutàːnên dà kèː gàban bankìn sukà faːrà yi musù ruwan hàr̃saːshìː.
+1	loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	16	mod	_	_
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	_
 3	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	2	comp:obj	_	_
 4	fitoː	fitoː	VERB	_	_	3	comp:aux	_	_
 5	dàgà	dàgà	ADP	_	_	4	comp:obl	_	_
 6	cikin	cikin	ADP	_	_	5	mod	_	_
-7	moːtàr̃sù	moːtàr̃sù	NOUN	_	Definite=Ind|Gender=Fem	6	comp:obj	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-9	sai	sai	ADV	_	_	15	mod	_	_
-10	mutàːnên	mutàːnêː	NOUN	_	Definite=Cons|Number=Plur	15	subj	_	_
-11	dà	dà	SCONJ	_	_	10	mod@relcl	_	_
-12	kèː	nàː	PART	_	Aspect=Prog	11	comp:obj	_	_
-13	gàban	gàban	ADP	_	_	12	comp:pred	_	_
-14	bankìn	bankiː	NOUN	_	Definite=Cons|Gender=Masc	13	mod	_	_
-15	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
-16	faːrà	faːr-	VERB	_	_	15	comp:aux	_	_
-17	yi	yi	VERB	_	_	16	comp:obj	_	Gloss=do
-18	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	17	comp:obl	_	_
-19	ruwan	ruwaː	NOUN	_	Definite=Cons|Number=Plur	17	comp:pred	_	_
-20	hàr̃saːshìː	hàr̃saːshìː	NOUN	_	Gender=Masc	19	mod	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	15	punct	_	Gloss=PUNCT
+7	moːtàr̃	moːtàː	NOUN	_	Definite=Cons|Gender=Fem	6	comp:obj	_	Gloss=car.Fem.Cons|SpaceAfter=No|wordform=moːtàr̃sù
+8	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	7	mod@poss	_	Gloss=3Plur.Gen
+9	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+10	sai	sai	ADV	_	_	16	mod	_	_
+11	mutàːnên	mutàːnêː	NOUN	_	Definite=Cons|Number=Plur	16	subj	_	_
+12	dà	dà	SCONJ	_	_	11	mod@relcl	_	_
+13	kèː	nàː	PART	_	Aspect=Prog	12	comp:obj	_	_
+14	gàban	gàban	ADP	_	_	13	comp:pred	_	_
+15	bankìn	bankiː	NOUN	_	Definite=Cons|Gender=Masc	14	mod	_	_
+16	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
+17	faːrà	faːr-	VERB	_	_	16	comp:aux	_	_
+18	yi	yi	VERB	_	_	17	comp:obj	_	Gloss=do
+19	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	18	comp:obl	_	_
+20	ruwan	ruwaː	NOUN	_	Definite=Cons|Number=Plur	18	comp:pred	_	_
+21	hàr̃saːshìː	hàr̃saːshìː	NOUN	_	Gender=Masc	20	mod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 
 # sent_id = 03_Barayi_a_Ikko__5
 # text = Suː kuma ꞌyan sàndân nan dà nan sukà shìga mùsaːyar̃ wutaː har̃ mintìː àshìr̃in.

@@ -90,19 +90,20 @@
 31	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	10	parataxis@conj	_	_
 32	daːkatar̃	daːkat-	VERB	_	Definite=Cons|Gender=Fem	31	comp:aux	_	_
 33	dà	dà	ADP	_	_	32	comp:obl	_	_
-34	tàllàce-tàllàcensù	tàllà	NOUN	_	Number=Plur	33	comp:obj	_	_
-35	dòːmin	dòːmin	SCONJ	_	_	32	mod	_	_
-36	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	35	comp:obj	_	_
-37	yi	yi	VERB	_	_	36	comp:aux	_	Gloss=do
-38	kallon	kalloː	NOUN	_	Definite=Cons|Gender=Masc	37	comp:pred	_	_
-39	hàdàː-hadâr̃	hàdàː-hadàː	NOUN	_	Definite=Cons|Gender=Fem	38	mod	_	_
-40	dà	dà	SCONJ	_	_	39	mod@relcl	_	_
-41	takèː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	40	comp:obj	_	_
-42	àukuwaː	àukuwaː	NOUN	_	ExtPos=NOUN|Gender=Fem	41	comp:aux	_	_
-43	à	à	ADP	_	_	42	mod	_	Gloss=at
-44	bàːkin	bàːkin	ADP	_	_	43	comp:obj	_	_
-45	tèːkûn	tèːkuː	NOUN	_	Definite=Cons|Gender=Masc	44	comp:obj	_	SpaceAfter=No
-46	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
+34	tàllàce-tàllàcen	tàllà	NOUN	_	Number=Plur	33	comp:obj	_	SpaceAfter=No|wordform=tàllàce-tàllàcensù
+35	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	34	mod@poss	_	Gloss=3Plur.Gen
+36	dòːmin	dòːmin	SCONJ	_	_	32	mod	_	_
+37	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	36	comp:obj	_	_
+38	yi	yi	VERB	_	_	37	comp:aux	_	Gloss=do
+39	kallon	kalloː	NOUN	_	Definite=Cons|Gender=Masc	38	comp:pred	_	_
+40	hàdàː-hadâr̃	hàdàː-hadàː	NOUN	_	Definite=Cons|Gender=Fem	39	mod	_	_
+41	dà	dà	SCONJ	_	_	40	mod@relcl	_	_
+42	takèː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	41	comp:obj	_	_
+43	àukuwaː	àukuwaː	NOUN	_	ExtPos=NOUN|Gender=Fem	42	comp:aux	_	_
+44	à	à	ADP	_	_	43	mod	_	Gloss=at
+45	bàːkin	bàːkin	ADP	_	_	44	comp:obj	_	_
+46	tèːkûn	tèːkuː	NOUN	_	Definite=Cons|Gender=Masc	45	comp:obj	_	SpaceAfter=No
+47	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__4
 # text = bìsàː àlꞌaːdàː bàːƙin Gwamnatin Nàːjeːr̃iyàː sukàn sàuka nèː à tsoːhon gidan gwamnatì dà kèː Ìkko, wandà à dâː shiː nèː gidan gwamnà à loːkàcin mulkìn màllakàr̃ Bìrtaːniyàː.
@@ -276,25 +277,26 @@
 # sent_id = 02_Yarima_Charles__9
 # text = Jiyà kuma Gwamnàn Jihàr̃ Ànambar̃à da uwar̃gidansà sukà tàrbi Yàr̃iːmà da Gimbìyaː à fiːlin jirgin samàn na Inugù.
 # text_ortho = Jiyà kuma Gwamnàn Jihàr̃ Ànambar̃à da uwar̃gidansà sukà tàrbi Yàr̃iːmà da Gimbìyaː à fiːlin jirgin samàn na Inugù.
-1	jiyà	jiyà	PRON	_	_	8	mod	_	_
+1	jiyà	jiyà	PRON	_	_	9	mod	_	_
 2	kuma	kuma	PART	_	_	1	discourse@top	_	_
-3	Gwamnàn	Gwamnàn	PROPN	_	Definite=Cons|Gender=Masc	8	subj	_	Gloss=Gwamnàn
+3	Gwamnàn	Gwamnàn	PROPN	_	Definite=Cons|Gender=Masc	9	subj	_	Gloss=Gwamnàn
 4	Jihàr̃	Jihàr̃	PROPN	_	Definite=Cons|Gender=Fem	5	mod	_	Gloss=Jihàr̃
 5	Ànambar̃à	Ànambar̃à	PROPN	_	_	3	mod	_	Gloss=Ànambar̃à
 6	dà	da	CCONJ	_	_	7	cc	_	wordform=da
-7	uwar̃gidansà	uwar̃gidaː	NOUN	_	Gender=Fem	3	conj:coord	_	_
-8	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
-9	tàrbi	tarb-	VERB	_	_	8	comp:aux	_	_
-10	Yàr̃iːmà	Yàr̃iːmà	PROPN	_	_	9	comp:obj	_	Gloss=Yàr̃iːmà
-11	dà	da	PART	_	_	12	cc	_	wordform=da
-12	Gimbìyaː	Gimbìyaː	PROPN	_	_	10	conj:coord	_	Gloss=Gimbìyaː
-13	à	à	ADP	_	_	9	comp:obl	_	Gloss=at
-14	fiːlin	fiːliː	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	_
-15	jirgin	jirgiː	NOUN	_	Definite=Cons|Gender=Masc	14	mod	_	_
-16	samàn	samàː	NOUN	_	_	15	mod	_	_
-17	na	na	ADP	_	Case=Gen	14	mod	_	_
-18	Inugù	Inugù	PROPN	_	_	17	comp:obj	_	Gloss=Inugù|SpaceAfter=No
-19	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
+7	uwar̃gidan	uwar̃gidaː	NOUN	_	Gender=Fem	3	conj:coord	_	SpaceAfter=No|wordform=uwar̃gidansà
+8	sà	sà	PRON	_	_	7	mod@poss	_	Gloss=3Masc.Gen
+9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
+10	tàrbi	tarb-	VERB	_	_	9	comp:aux	_	_
+11	Yàr̃iːmà	Yàr̃iːmà	PROPN	_	_	10	comp:obj	_	Gloss=Yàr̃iːmà
+12	dà	da	PART	_	_	13	cc	_	wordform=da
+13	Gimbìyaː	Gimbìyaː	PROPN	_	_	11	conj:coord	_	Gloss=Gimbìyaː
+14	à	à	ADP	_	_	10	comp:obl	_	Gloss=at
+15	fiːlin	fiːliː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:obj	_	_
+16	jirgin	jirgiː	NOUN	_	Definite=Cons|Gender=Masc	15	mod	_	_
+17	samàn	samàː	NOUN	_	_	16	mod	_	_
+18	na	na	ADP	_	Case=Gen	15	mod	_	_
+19	Inugù	Inugù	PROPN	_	_	18	comp:obj	_	Gloss=Inugù|SpaceAfter=No
+20	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__10
 # text = baːyan wata yaːrinyàː taː miːƙàː wà Yàr̃iːmà fùrànnin mar̃àːba sai mânyan bàːƙiː sukà zar̃cèː zuwàː gidan Gwamnàn indà sukà ci àbincin raːna.
@@ -379,19 +381,20 @@
 # sent_id = 02_Yarima_Charles__13
 # text = to kàshèːgàriː sai Yàr̃iːmà dà uwar̃gidansà Gimbìyaː sukà taːshì zuwàː ƙasar̃ Kàmàr̃u.
 # text_ortho = To kàshèːgàriː sai Yàr̃iːmà dà uwar̃gidansà Gimbìyaː sukà taːshì zuwàː kasar ƙasar Kàmàr̃u.
-1	to	to	ADP	_	_	8	discourse	_	_
+1	to	to	ADP	_	_	9	discourse	_	_
 2	kàshèːgàriː	kàshèːgàreː	ADV	_	Number=Plur	1	comp:obj	_	_
-3	sai	sai	ADV	_	_	8	mod	_	_
-4	Yàr̃iːmà	Yàr̃iːmà	PROPN	_	_	8	subj	_	Gloss=Yàr̃iːmà
+3	sai	sai	ADV	_	_	9	mod	_	_
+4	Yàr̃iːmà	Yàr̃iːmà	PROPN	_	_	9	subj	_	Gloss=Yàr̃iːmà
 5	dà	dà	CCONJ	_	_	6	cc	_	_
-6	uwar̃gidansà	uwar̃gidaː	NOUN	_	Definite=Cons|Number=Plur	4	conj:coord	_	_
-7	Gimbìyaː	Gimbìyaː	PROPN	_	_	6	conj:appos	_	Gloss=Gimbìyaː
-8	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
-9	taːshì	taːs-	VERB	_	_	8	comp:aux	_	_
-10	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:obl	_	_
-11	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	10	comp:obj	_	_
-12	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	11	mod	_	Gloss=Kàmàr̃u|SpaceAfter=No
-13	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
+6	uwar̃gidan	uwar̃gidaː	NOUN	_	Definite=Cons|Number=Plur	4	conj:coord	_	SpaceAfter=No|wordform=uwar̃gidansà
+7	sà	sà	PRON	_	_	6	mod@poss	_	Gloss=3Masc.Gen
+8	Gimbìyaː	Gimbìyaː	PROPN	_	_	6	conj:appos	_	Gloss=Gimbìyaː
+9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
+10	taːshì	taːs-	VERB	_	_	9	comp:aux	_	_
+11	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:obl	_	_
+12	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	11	comp:obj	_	_
+13	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	12	mod	_	Gloss=Kàmàr̃u|SpaceAfter=No
+14	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__14
 # text = À can kuma Yàr̃iːmà yaː zìyàr̃ci gandun daːjìː na Korup, wandà kuma wataƙiːlà shiː nèː gandun daːjìn dà ya fi koːwànneː girmaː, sànnan kuma ya fi koːwànneː yawàn itaːtuwàː irìː-irìː à duk faːɗin dūniyàː.
