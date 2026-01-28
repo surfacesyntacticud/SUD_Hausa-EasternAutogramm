@@ -83,7 +83,7 @@
 11	hàifaː	hàifaː	VERB	_	_	10	comp:aux	_	Gloss=XX
 12	à	à	ADP	_	_	11	mod	_	Gloss=at
 13	gàrin	gàriː	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	Gloss=XX
-14	Àbêːkùta	Àbêːkùta	PROPN	_	_	13	mod	_	Gloss=Àbêːkùta
+14	Àbêːkùta	Àbêːkùta	PROPN	_	_	13	mod	_	Gloss=Abeokuta
 15	à	à	ADP	_	_	11	mod	_	Gloss=at
 16	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	15	comp:obj	_	Gloss=XX
 17	alìf	alìf	NUM	_	_	16	mod	_	Gloss=one_thousand
@@ -99,13 +99,13 @@
 27	àmmaː	àmmaː	CCONJ	_	_	35	cc	_	Gloss=XX
 28	dà	dà	SCONJ	_	_	35	mod	_	Gloss=XX
 29	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	28	comp:obj	_	Gloss=XX
-30	kai	kai	VERB	_	_	29	comp:aux	_	Gloss=XX
+30	kai	kai	VERB	_	_	29	comp:aux	_	Gloss=reach/carry_to
 31	matsayin	matsayiː	NOUN	_	Definite=Cons|Gender=Masc	30	comp:obj	_	Gloss=status.Masc.Cons
 32	sauràyiː	sauràyiː	NOUN	_	Gender=Masc	31	mod	_	Gloss=XX|SpaceAfter=No
 33	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
 34	sai	sai	ADV	_	_	35	mod	_	Gloss=XX
 35	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	conj:coord	_	Gloss=XX
-36	koːmàː	koːmàː	VERB	_	_	35	comp:aux	_	Gloss=XX
+36	koːmàː	koːm-	VERB	_	_	35	comp:aux	_	Gloss=go_(back)_to
 37	Ìkko	Ìkko	PROPN	_	_	36	comp:obj@G	_	Gloss=Lagos
 38	indà	indà	ADV	_	PronType=Rel	40	mod	_	Gloss=where
 39	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	37	mod@relcl	_	Gloss=XX
@@ -115,7 +115,7 @@
 43	wani	wani	DET	_	Definite=Spec|Gender=Masc	44	det	_	Gloss=some.Masc.Spec
 44	oːfìshin	oːfìs	NOUN	_	Definite=Cons|Gender=Masc	42	comp:obj	_	Gloss=office.Masc.Cons
 45	gwamnatì	gwamnatì	NOUN	_	Gender=Fem	44	mod	_	Gloss=government.Fem|SpaceAfter=No
-46	.	.	PUNCT	_	_	35	punct	_	Gloss=PUNCT
+46	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 11_Fela_Kuti__5
 # text = À loːkàcîn dà yakèː yîn wannàn aikìː neː ya dingà ƙòːƙarin zamaː makàɗiː, yanàː wàːƙe-wàːƙensà à kùlâb-kùlâb na bir̃nin Ìkko.
@@ -205,46 +205,45 @@
 
 # sent_id = 11_Fela_Kuti__8
 # text = Bàːra wàccan nèː shiː dà kânsà ya bayyànà yaddà ya faːrà àmfàːniː dà ita, indà ya cèː: " Dâː maː àkwai irin wannàn àlgaitàː à ƙar̃ƙashin gadoːnaː, wàccè ɗaya ɗàgà cikin makàɗaːnaː kèː buːsàːwaː. "
-1	Bàːra	bàar-	ADP	_	_	8	mod	_	Gloss=XX
+1	Bàːra	bàar-	ADP	_	_	7	mod	_	Gloss=XX
 2	wàccan	wàccan	PRON	_	Gender=Fem|PronType=Dem	1	comp:obj	_	Gloss=XX
 3	nèː	neː	PART	_	_	1	discourse@foc	_	Gloss=XX
-4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	dislocated@subj	_	Gloss=XX
+4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	dislocated@subj	_	Gloss=XX
 5	dà	dà	ADP	_	_	4	cc@preconj	_	Gloss=XX
-6	kân	kânsà	NOUN	_	Gender=Fem	5	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=kânsà
-7	sà	sà	PRON	_	_	6	mod@poss	_	Gloss=3Masc.Gen
-8	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
-9	bayyànà	bayy	VERB	_	_	8	comp:aux	_	Gloss=XX
-10	yaddà	yaddà	ADV	_	PronType=Rel	9	mod	_	Gloss=XX
-11	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	8	parataxis@conj	_	Gloss=XX
-12	faːrà	faːràː	VERB	_	_	11	comp:aux	_	Gloss=XX
-13	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=XX
-14	dà	dà	ADP	_	_	13	comp:obl	_	Gloss=XX
-15	ita	ita	PRON	_	Gender=Fem|Person=3	14	comp:obj	_	Gloss=XX|SpaceAfter=No
-16	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-17	indà	indà	SCONJ	_	_	13	conj:appos	_	Gloss=XX
-18	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	17	mod@relcl	_	Gloss=XX
-19	cèː	cêː	VERB	_	_	18	comp:aux	_	Gloss=XX|SpaceAfter=No
-20	:	:	PUNCT	_	_	24	punct	_	Gloss=PUNCT
-21	"	"	PUNCT	_	_	24	punct	_	Gloss=PUNCT
-22	Dâː	dâː	ADV	_	_	24	mod	_	Gloss=XX
-23	maː	maː	PART	_	_	22	discourse@top	_	Gloss=XX
-24	àkwai	àkwai	PART	_	_	19	comp:obj	_	Gloss=XX
-25	irin	irin	ADP	_	Definite=Cons|Gender=Masc	24	subj	_	Gloss=XX
-26	wannàn	wannàn	DET	_	PronType=Dem	27	det	_	Gloss=XX
-27	àlgaitàː	àlgaitàː	NOUN	_	Gender=Fem	25	mod	_	Gloss=XX
-28	à	à	ADP	_	_	13	mod	_	Gloss=at
-29	ƙar̃ƙashin	ƙar̃ƙashiː	NOUN	_	Definite=Cons|Number=Plur	28	comp:obj	_	Gloss=XX
-30	gadoːnaː	gadoːnaː	NOUN	_	Case=Gen|Number=Sing|Person=1	28	comp:obj	_	Gloss=XX|SpaceAfter=No
-31	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
-32	wàccè	wàccè	DET	_	Gender=Fem|PronType=Int	37	subj	_	Gloss=XX
-33	ɗaya	ɗaya	NUM	_	_	34	mod	_	Gloss=one
-34	ɗàgà	ɗàgà	NUM	_	_	37	comp:aux	_	Gloss=XX
-35	cikin	cikin	ADP	_	_	34	comp:obl	_	Gloss=XX
-36	makàɗaːnaː	makàɗaː	NOUN	_	Case=Gen|Number=Sing|Person=1	35	comp:obj	_	Gloss=XX
-37	kèː	nàː	AUX	_	Aspect=Prog	24	parataxis@conj	_	Gloss=XX
-38	buːsàːwaː	buːs-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	37	comp:aux	_	Gloss=XX|SpaceAfter=No
-39	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-40	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT
+6	kânsà	kânsà	NOUN	_	Gender=Masc|Person=3|PronType=Prs|Reflex=Yes	5	comp:obj	_	Gloss=3Masc.Reflex
+7	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
+8	bayyànà	bayy	VERB	_	_	7	comp:aux	_	Gloss=XX
+9	yaddà	yaddà	ADV	_	PronType=Rel	8	mod	_	Gloss=XX
+10	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	7	parataxis@conj	_	Gloss=XX
+11	faːrà	faːràː	VERB	_	_	10	comp:aux	_	Gloss=XX
+12	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=XX
+13	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=XX
+14	ita	ita	PRON	_	Gender=Fem|Person=3	13	comp:obj	_	Gloss=XX|SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
+16	indà	indà	SCONJ	_	_	12	conj:appos	_	Gloss=XX
+17	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	16	mod@relcl	_	Gloss=XX
+18	cèː	cêː	VERB	_	_	17	comp:aux	_	Gloss=XX|SpaceAfter=No
+19	:	:	PUNCT	_	_	23	punct	_	Gloss=PUNCT
+20	"	"	PUNCT	_	_	23	punct	_	Gloss=PUNCT
+21	Dâː	dâː	ADV	_	_	23	mod	_	Gloss=XX
+22	maː	maː	PART	_	_	21	discourse@top	_	Gloss=XX
+23	àkwai	àkwai	PART	_	_	18	comp:obj	_	Gloss=XX
+24	irin	irin	ADP	_	Definite=Cons|Gender=Masc	23	subj	_	Gloss=XX
+25	wannàn	wannàn	DET	_	PronType=Dem	26	det	_	Gloss=XX
+26	àlgaitàː	àlgaitàː	NOUN	_	Gender=Fem	24	mod	_	Gloss=XX
+27	à	à	ADP	_	_	12	mod	_	Gloss=at
+28	ƙar̃ƙashin	ƙar̃ƙashiː	NOUN	_	Definite=Cons|Number=Plur	27	comp:obj	_	Gloss=XX
+29	gadoːnaː	gadoːnaː	NOUN	_	Case=Gen|Number=Sing|Person=1	27	comp:obj	_	Gloss=XX|SpaceAfter=No
+30	,	,	PUNCT	_	_	36	punct	_	Gloss=PUNCT
+31	wàccè	wàccè	DET	_	Gender=Fem|PronType=Int	36	subj	_	Gloss=XX
+32	ɗaya	ɗaya	NUM	_	_	33	mod	_	Gloss=one
+33	ɗàgà	ɗàgà	NUM	_	_	36	comp:aux	_	Gloss=XX
+34	cikin	cikin	ADP	_	_	33	comp:obl	_	Gloss=XX
+35	makàɗaːnaː	makàɗaː	NOUN	_	Case=Gen|Number=Sing|Person=1	34	comp:obj	_	Gloss=XX
+36	kèː	nàː	AUX	_	Aspect=Prog	23	parataxis@conj	_	Gloss=XX
+37	buːsàːwaː	buːs-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	36	comp:aux	_	Gloss=XX|SpaceAfter=No
+38	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+39	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 11_Fela_Kuti__9
 # text = " Rân nan sai na ɗàukeː tà na sâː à bàːkiː na faːrà buːsàːwaː. "
@@ -380,7 +379,7 @@
 3	huɗu	huɗu	NUM	_	_	2	det	_	Gloss=XX
 4	nèː	neː	PART	_	_	1	discourse@foc	_	Gloss=XX
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
-6	koːmàː	koːm-	VERB	_	_	5	comp:aux	_	Gloss=XX
+6	koːmàː	koːm-	VERB	_	_	5	comp:aux	_	Gloss=go_(back)_to
 7	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	6	comp:obj@G	_	Gloss=Nigeria
 8	indà	indà	ADV	_	PronType=Rel	6	comp:obj@G	_	Gloss=XX
 9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	8	mod@relcl	_	Gloss=XX
@@ -431,7 +430,7 @@
 28	makàɗan	makàɗa	NOUN	_	Number=Plur	27	mod	_	Gloss=XX|SpaceAfter=No|wordform=makàɗansà
 29	sà	sà	PRON	_	_	28	mod@poss	_	Gloss=3Masc.Gen
 30	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	24	parataxis@conj	_	Gloss=XX
-31	koːmàː	koːm-	VERB	_	_	30	comp:aux	_	Gloss=XX
+31	koːmàː	koːm-	VERB	_	_	30	comp:aux	_	Gloss=go_(back)_to
 32	"	"	PUNCT	_	_	33	punct	_	Gloss=PUNCT
 33	Africa	Africa	PROPN	_	_	31	comp:obj	_	Gloss=Africa
 34	70	70	PUNCT	_	_	33	flat@name	_	Gloss=PUNCT|SpaceAfter=No
@@ -555,7 +554,7 @@
 11	neː	neː	PART	_	Gender=Masc	3	discourse@foc	_	Gloss=XX
 12	àbîn	àbî	NOUN	_	Definite=Cons|Gender=Masc	13	subj	_	Gloss=XX
 13	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	11	comp:cleft	_	Gloss=XX
-14	kai	kai	VERB	_	_	13	comp:aux	_	Gloss=XX
+14	kai	kai	VERB	_	_	13	comp:aux	_	Gloss=reach/carry_to
 15	magaryar̃	magaryaː	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=XX
 16	tiƙềwaː	ti-	VERB	_	ExtPos=NOUN|Gender=Fem	15	mod	_	Gloss=XX|SpaceAfter=No
 17	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -649,7 +648,7 @@
 16	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 11_Fela_Kuti__23
-# text = Dà gwamnatìn farar̃-hùːlaː ta kàrɓi mulkìː à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sàbà'in dà tar̃à, sai Fela ya kafà jaːm'iyyàr̃sà ta kânsà, waddà ya kiraː " The Movement of the People", wàːtòː Jàm'iyyàr̃ Jàma'àː.
+# text = Dà gwamnatìn farar̃-hùːlaː ta kàrɓi mulkìː à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sàbà'in dà tar̃à, sai Fela ya kafà jaːm'iyyàr̃sà ta kânsà , waddà ya kiraː " The Movement of the People", wàːtòː Jàm'iyyàr̃ Jàma'àː.
 1	Dà	dà	SCONJ	_	_	20	mod	_	Gloss=XX
 2	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Masc	20	subj	_	Gloss=government.Masc.Cons|wordform=gwamnatin
 3	farar̃-hùːlaː	farar̃-hùːlaː	NOUN	_	_	2	mod	_	Gloss=XX
@@ -675,24 +674,23 @@
 22	jaːm'iyyàr̃	jaːm'iyyàː	NOUN	_	Gender=Fem	21	comp:obj	_	Gloss=party.Fem.Cons
 23	sà	sà	PRON	_	Gender=Masc	22	mod@poss	_	Gloss=3Masc.Gen
 24	ta	na/ta	ADP	_	Case=Gen|Gender=Fem	22	mod	_	Gloss=XX
-25	kân	kânsà	NOUN	_	Gender=Fem	24	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=kânsà
-26	sà	sà	PRON	_	_	25	mod@poss	_	Gloss=3Masc.Gen
-27	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
-28	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	30	comp:obj	_	Gloss=XX
-29	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	22	mod@relcl	_	Gloss=XX
-30	kiraː	kir-	VERB	_	_	29	comp:aux	_	Gloss=XX
-31	"	"	PUNCT	_	_	32	punct	_	Gloss=PUNCT
-32	The	The	PROPN	_	_	30	comp:obj	_	Gloss=The
-33	Movement	Movement	PROPN	_	_	32	flat@name	_	Gloss=Movement
-34	of	of	PROPN	_	_	32	flat@name	_	Gloss=of
-35	the	the	PROPN	_	_	34	flat@name	_	Gloss=the
-36	People	People	PROPN	_	_	34	flat@name	_	Gloss=People|SpaceAfter=No
-37	"	"	PUNCT	_	_	40	punct	_	Gloss=PUNCT|SpaceAfter=No
-38	,	,	PUNCT	_	_	40	punct	_	Gloss=PUNCT
-39	wàːtòː	wàːtòː	PART	_	_	40	discourse	_	Gloss=that_is
-40	Jàm'iyyàr̃	Jàm'iyyàr̃	PROPN	_	Definite=Cons|Gender=Fem	32	conj:dicto	_	Gloss=Jàm'iyyàr̃
-41	Jàma'àː	Jàma'àː	PROPN	_	_	40	flat@name	_	Gloss=Jàma'àː|SpaceAfter=No
-42	.	.	PUNCT	_	_	20	punct	_	Gloss=PUNCT
+25	kânsà	kânsà	NOUN	_	Gender=Masc|Person=3|PronType=Prs|Reflex=Yes	24	comp:obj	_	Gloss=3Masc.Reflex
+26	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
+27	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	29	comp:obj	_	Gloss=XX
+28	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	22	mod@relcl	_	Gloss=XX
+29	kiraː	kir-	VERB	_	_	28	comp:aux	_	Gloss=XX
+30	"	"	PUNCT	_	_	31	punct	_	Gloss=PUNCT
+31	The	The	PROPN	_	_	29	comp:obj	_	Gloss=The
+32	Movement	Movement	PROPN	_	_	31	flat@name	_	Gloss=Movement
+33	of	of	PROPN	_	_	31	flat@name	_	Gloss=of
+34	the	the	PROPN	_	_	33	flat@name	_	Gloss=the
+35	People	People	PROPN	_	_	33	flat@name	_	Gloss=People|SpaceAfter=No
+36	"	"	PUNCT	_	_	39	punct	_	Gloss=PUNCT|SpaceAfter=No
+37	,	,	PUNCT	_	_	39	punct	_	Gloss=PUNCT
+38	wàːtòː	wàːtòː	PART	_	_	39	discourse	_	Gloss=that_is
+39	Jàm'iyyàr̃	Jàm'iyyàr̃	PROPN	_	Definite=Cons|Gender=Fem	31	conj:dicto	_	Gloss=Jàm'iyyàr̃
+40	Jàma'àː	Jàma'àː	PROPN	_	_	39	flat@name	_	Gloss=Jàma'àː|SpaceAfter=No
+41	.	.	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 
 # sent_id = 11_Fela_Kuti__24
 # text = Ya reːrà wata waːƙàː gàme dà manufoːfin jàm'iyyàr̃ taːsà, waddà à cikintà ya cèː kàmaːtàː ya yi dukkàn jàma'àr̃ Nàːjeːr̃iyàː tà yi huːtuː na watàː gùdaː, don koːwaː yà sàːmi sùkuːnìn tùnàːnin hanyàr̃ dà zaː'à ɓulloː wà matsaloːlîn dà ƙasar̃ kèː fùskantàː.
