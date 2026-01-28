@@ -342,18 +342,18 @@
 12	-	-	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__11b
-# text = àkwai shìnkaːfaː , dà waːkeː , dà sàlâk , dà sauran kaːyan marmariː .
+# text = àkwai shìnkaːfaː, dà waːkeː, dà sàlâk, dà sauran kaːyan marmariː.
 # text_ortho = Tòː an dai ci àbinci irìː-irìː, màsu sâː bàːkiː miyau - àkwai shìnkaːfaː, da waːkeː, dà sàlâk, da sauran kaːyan marmariː.
 1	àkwai	àkwai	PART	_	_	0	root	_	Gloss=XX
 2	shìnkaːfaː	shìnkaːfaː	NOUN	_	Gender=Fem	1	subj	_	Gloss=XX|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
-4	dà	dà	PART	_	_	5	cc	_	Gloss=XX
+4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=and
 5	waːkeː	waːkeː	NOUN	_	Gender=Masc	2	conj:coord	_	Gloss=XX|SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-7	dà	dà	CCONJ	_	_	8	cc	_	Gloss=XX
+7	dà	dà	CCONJ	_	_	8	cc	_	Gloss=and
 8	sàlâk	sàlâk	NOUN	_	Definite=Cons|Gender=Fem	5	conj:coord	_	Gloss=XX|SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-10	dà	dà	CCONJ	_	_	11	cc	_	Gloss=XX
+10	dà	dà	CCONJ	_	_	11	cc	_	Gloss=and
 11	sauran	sauraː	NOUN	_	Definite=Cons	8	conj:coord	_	Gloss=XX
 12	kaːyan	kaːyaː	NOUN	_	Definite=Cons|Number=Plur	11	mod	_	Gloss=XX
 13	marmariː	marmariː	NOUN	_	Gender=Masc	12	mod	_	Gloss=XX|SpaceAfter=No
