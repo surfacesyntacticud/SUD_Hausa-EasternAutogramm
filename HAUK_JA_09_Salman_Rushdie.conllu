@@ -16,7 +16,7 @@
 # sent_id = 09_Salman_Rushdie__2-3
 # text = Kwàːnàkin baːya à ƙasar̃ Ir̃àn an saːkè jaddàdà hukuncìn kisàn dà akà yankèː kân Salman Rushdie, wà:tò: mar̃ùbùːcin littaːfìn nan na "Aːyoːyin Shaiɗân".
 1	Kwàːnàkin	kwaːnaː	NOUN	_	_	6	mod	_	Gloss=day.Plur.Cons
-2	baːya	baːya	ADV	_	_	1	mod	_	Gloss=XX
+2	baːya	baːya	ADV	_	_	1	mod	_	Gloss=back
 3	à	à	ADP	_	_	6	mod	_	Gloss=at
 4	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	3	comp:obj	_	Gloss=XX|wordform=kasar̃
 5	Ir̃àn	Ir̃àn	PROPN	_	_	4	mod	_	Gloss=Iran
@@ -47,7 +47,7 @@
 # text = À gòːbe kuma zaː'à bugà littaːfìn à cikin Japananciː.
 1	À	yà	ADP	_	_	4	mod	_	Gloss=XX
 2	gòːbe	gòːbe	ADV	_	_	1	comp:obj	_	Gloss=XX
-3	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=XX
+3	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=too
 4	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	0	root	_	Gloss=XX
 5	bugà	bug-	VERB	_	_	4	comp:aux	_	Gloss=XX
 6	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	5	comp:obj	_	Gloss=XX
@@ -163,7 +163,7 @@
 8	nèː	neː	PART	_	_	7	discourse@foc	_	Gloss=XX
 9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	7	comp:cleft	_	Gloss=XX
 10	ɗaukoː	ɗauk-	VERB	_	_	9	comp:aux	_	Gloss=XX
-11	wani	wani	DET	_	Definite=Spec|Gender=Masc	12	det	_	Gloss=XX
+11	wani	wani	DET	_	Definite=Spec|Gender=Masc	12	det	_	Gloss=some.Masc.Spec
 12	fàr̃feːsàː	fàr̃feːsàː	NOUN	_	_	10	comp:obj	_	Gloss=XX
 13	mài	mài	PART	_	Number=Sing|PartType=Der	12	mod	_	Gloss=possessor_of.Sing
 14	suːnaː	suːnaː	NOUN	_	Case=Gen|Number=Sing|Person=1	13	comp:obj	_	Gloss=XX
@@ -203,12 +203,12 @@
 3	à	yà	AUX	_	Mood=Sub|Person=4	12	mod	_	Gloss=XX
 4	hawaː	hawaː	NOUN	_	_	3	comp:aux	_	Gloss=floor.Masc
 5	na	na	ADP	_	_	4	comp:obj	_	Gloss=XX
-6	ɗaya	ɗaya	NUM	_	_	5	comp:obj	_	Gloss=XX
+6	ɗaya	ɗaya	NUM	_	_	5	comp:obj	_	Gloss=one
 7	sai	sai	ADV	_	_	12	mod	_	Gloss=XX
-8	wasu	wani	DET	_	Definite=Spec|Number=Plur	9	det	_	Gloss=XX
+8	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	9	det	_	Gloss=some.Plur.Spec
 9	mutàneː	ùtûm	NOUN	_	Number=Plur	12	subj	_	Gloss=XX
-10	suː	suː	PRON	_	Number=Plur|Person=3	9	mod:num	_	Gloss=XX
-11	biyu	biyu	NUM	_	_	10	udep	_	Gloss=XX
+10	suː	suː	PRON	_	Number=Plur|Person=3	9	conj:appos	_	Gloss=XX
+11	biyu	biyu	NUM	_	_	10	mod:num	_	Gloss=XX
 12	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 13	shìga	shig-	VERB	_	ExtPos=NOUN|Gender=Fem	12	comp:aux	_	Gloss=XX
 14	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:obj@G	_	Gloss=do
@@ -231,7 +231,7 @@
 2	shiːkèːnan	shiːkèːnan	INTJ	_	_	7	discourse	_	Gloss=XX|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 4	sai	sai	ADV	_	_	7	mod	_	Gloss=XX
-5	wani	wani	DET	_	Definite=Spec|Gender=Masc	6	det	_	Gloss=XX
+5	wani	wani	DET	_	Definite=Spec|Gender=Masc	6	det	_	Gloss=some.Masc.Spec
 6	mùtûm	mùtûm	NOUN	_	Gender=Masc	7	subj	_	Gloss=XX
 7	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 8	kai	kaːy-	VERB	_	_	7	comp:aux	_	Gloss=XX
@@ -243,7 +243,7 @@
 14	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	10	mod@relcl	_	Gloss=XX
 15	daɓàː	daɓ-	VERB	_	_	14	comp:aux	_	Gloss=XX
 16	wà	wà	ADP	_	_	15	comp:obl	_	Gloss=XX
-17	ɗaya	ɗaya	NUM	_	_	16	comp:obj	_	Gloss=XX
+17	ɗaya	ɗaya	NUM	_	_	16	comp:obj	_	Gloss=one
 18	dàgà	dàgà	ADP	_	_	17	mod	_	Gloss=XX
 19-20	cikinsù	_	_	_	_	_	_	_	_
 19	cikin	cikin	ADP	_	_	18	comp:obj	_	Gloss=XX
@@ -338,7 +338,7 @@
 8	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	7	comp:obj	_	Gloss=XX
 9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	6	parataxis@conj	_	Gloss=XX
 10	yi	yi	VERB	_	_	9	comp:aux	_	Gloss=do
-11	gàba	gàba	ADV	_	_	10	comp:pred	_	Gloss=XX
+11	gàba	gàba	ADV	_	_	10	comp:pred	_	Gloss=front
 12	dà	dà	ADP	_	_	10	comp:obl	_	Gloss=XX
 13	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	12	comp:obj	_	Gloss=XX
 14	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -388,7 +388,7 @@
 # text = Can sai wani mùtûm ya taːsoː ya jeː ya ɗàuki irìn 'yar̃ naː'uːr̃âr̃ nan dà akèː ɗaukàr̃ màganàː - wàːtòː maːkar̃ufôː ya jeː ya faːrà duːkàn Gianni Palma dà ita.
 1	Can	can	ADV	_	_	5	mod	_	Gloss=XX
 2	sai	sai	ADV	_	_	5	mod	_	Gloss=XX
-3	wani	wani	DET	_	Definite=Spec|Gender=Masc	4	det	_	Gloss=XX
+3	wani	wani	DET	_	Definite=Spec|Gender=Masc	4	det	_	Gloss=some.Masc.Spec
 4	mùtûm	mùtûm	NOUN	_	Gender=Masc	5	subj	_	Gloss=XX
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 6	taːsoː	taːsoː	VERB	_	_	5	comp:aux	_	Gloss=XX
@@ -427,7 +427,7 @@
 5	ciki	ciki	SCONJ	_	_	4	compound	_	Gloss=XX
 6	tàːre	tàːre	ADV	_	_	7	mod	_	Gloss=XX
 7	dà	dà	CCONJ	_	_	9	cc	_	Gloss=XX
-8	wasu	wasu	DET	_	Number=Plur	9	det	_	Gloss=XX
+8	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	9	det	_	Gloss=some.Plur.Spec
 9	'yan	ɗan	ADJ	_	Definite=Cons|Number=Plur	3	conj:coord	_	Gloss=XX
 10	jàːr̃ìːduː	jàːr̃ìːduː	NOUN	_	Number=Plur	9	compound	_	Gloss=XX
 11	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
@@ -471,7 +471,7 @@
 18	ƙasar̃	ƙasar̃	NOUN	_	Definite=Cons|Gender=Fem	17	comp:obj	_	Gloss=XX|wordform=kasar̃
 19	Jàpân	Jàpân	PROPN	_	_	18	mod	_	Gloss=Japan|SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
-21	kuma	kuma	CCONJ	_	_	22	cc	_	Gloss=XX
+21	kuma	kuma	PART	_	_	22	cc	_	Gloss=too
 22	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	16	conj:coord	_	Gloss=XX
 23	kàmaːtà	kàmaːtà	VERB	_	_	22	comp:aux	_	Gloss=XX
 24	ita	ita	PRON	_	Gender=Fem|Person=3	28	subj	_	Gloss=XX
@@ -495,7 +495,7 @@
 3	maː	maː	PART	_	_	2	discourse@top	_	Gloss=XX
 4	tun	tun	ADP	_	_	7	mod	_	Gloss=XX
 5	kwàːnàkin	kwàːnàkiː	NOUN	_	Definite=Cons|Number=Plur	4	comp:obj	_	Gloss=XX
-6	baːya	baːya	ADV	_	_	5	mod	_	Gloss=XX
+6	baːya	baːya	ADV	_	_	5	mod	_	Gloss=back
 7	anàː	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=XX
 8	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:aux	_	Gloss=do
 9	wannàn	wannàn	DET	_	PronType=Dem	10	det	_	Gloss=XX
@@ -517,7 +517,7 @@
 25	wucèː	wucèː	VERB	_	_	24	comp:aux	_	Gloss=XX
 26	maː	maː	PART	_	_	23	discourse@top	_	Gloss=XX|SpaceAfter=No
 27	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-28	wasu	wasu	DET	_	Definite=Spec|Number=Plur	29	det	_	Gloss=XX
+28	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	29	det	_	Gloss=some.Plur.Spec
 29	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	39	subj	_	Gloss=Muslim.Plur
 30	suː	suː	PRON	_	Number=Plur|Person=3	29	mod	_	Gloss=XX
 31	kìːmaːnìn	kìːmaːnìː	NOUN	_	Definite=Cons|Gender=Masc	30	udep	_	Gloss=XX
@@ -525,12 +525,12 @@
 33	dà	dà	CCONJ	_	_	34	cc	_	Gloss=XX
 34	àshìr̃in	àshìr̃in	NUM	_	_	32	conj:coord	_	Gloss=XX
 35	à	à	ADP	_	_	29	mod	_	Gloss=at
-36	wata	wata	DET	_	Gender=Fem	37	det	_	Gloss=XX
+36	wata	wani	DET	_	Definite=Spec|Gender=Masc	37	det	_	Gloss=some.Fem.Spec
 37	ùnguwar̃	ùnguwar̃	ADJ	_	Definite=Cons|Gender=Fem	35	comp:obj	_	Gloss=XX
 38	Tokyo	Tokyo	PROPN	_	_	37	mod	_	Gloss=Tokyo
 39	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	18	comp:obj	_	Gloss=XX
 40	yi	yi	VERB	_	_	39	comp:aux	_	Gloss=do
-41	wata	wata	DET	_	Gender=Fem	42	det	_	Gloss=XX
+41	wata	wani	DET	_	Definite=Spec|Gender=Masc	42	det	_	Gloss=some.Fem.Spec
 42	zaːngà-zangà	zaːngà-zangà	NOUN	_	Gender=Fem	40	comp:pred	_	Gloss=XX
 43	baːyân	baːyân	ADP	_	ExtPos=SCONJ	40	mod	_	Gloss=after.Def|Idiom=Yes
 44	dà	dà	SCONJ	_	_	43	compound	_	Gloss=that|InIdiom=Yes
@@ -568,8 +568,8 @@
 1	À	à	ADP	_	_	13	mod	_	Gloss=XX
 2	yâu	yâu	ADV	_	_	1	comp:obj	_	Gloss=XX
 3	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	2	det	_	Gloss=XX
-4	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=XX
-5	ɗaya	ɗaya	NUM	_	_	13	subj	_	Gloss=XX
+4	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=too
+5	ɗaya	ɗaya	NUM	_	_	13	subj	_	Gloss=one
 6	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=XX
 7	cikin	cikin	ADP	_	_	6	comp:obj	_	Gloss=XX
 8	shùːgàbànnin	shùːgàbànniː	NOUN	_	Definite=Cons|Number=Plur	7	comp:obj	_	Gloss=XX
@@ -605,8 +605,8 @@
 # sent_id = 09_Salman_Rushdie__23
 # text = Sai dai kuma shiː Gianni Palma yaː kafèː kân cêːwaː lalleː kàm yanàː nan à kân bàkansà, bàː zâi jaː dà baːya ba.
 1	Sai	sai	ADV	_	_	7	mod	_	Gloss=XX
-2	dai	dai	PART	_	_	1	discourse@top	_	Gloss=XX
-3	kuma	kuma	PART	_	_	7	discourse	_	Gloss=XX
+2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyhow
+3	kuma	kuma	PART	_	_	7	discourse	_	Gloss=too
 4	shiː	shiː	PRON	_	Gender=Masc|Person=3	7	dislocated@subj	_	Gloss=XX
 5	Gianni	Gianni	PROPN	_	_	4	conj:appos	_	Gloss=Gianni
 6	Palma	Palma	PROPN	_	_	5	mod	_	Gloss=Palma
@@ -627,7 +627,7 @@
 21	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	13	parataxis@conj	_	Gloss=XX
 22	jaː	jaː	VERB	_	_	21	comp:aux	_	Gloss=XX
 23	dà	dà	ADP	_	_	22	comp:obl	_	Gloss=XX
-24	baːya	baːya	ADV	_	_	23	comp:obj	_	Gloss=XX
+24	baːya	baːya	ADV	_	_	23	comp:obj	_	Gloss=back
 25	ba	ba	PART	_	Polarity=Neg	21	mod	_	Gloss=XX|SpaceAfter=No
 26	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
