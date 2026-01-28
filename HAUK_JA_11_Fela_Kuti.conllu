@@ -8,65 +8,65 @@
 
 # sent_id = 11_Fela_Kuti__2
 # text = À gaskiyaː ìdan kaː ga Fela Kuti yanàː tìːƙar̃ rawar̃sà à gàban jàma'àː, dà ƙyar̃ zaːkà yàr̃da dà cêwaː shèːkàrunsà hàmsin nèː dà haihùwaː.
-1	À	à	ADP	_	_	8	mod	_	Gloss=XX
-2	gaskiyaː	gaskiyaː	INTJ	_	_	1	comp:obj	_	Gloss=truth.Fem
-3	ìdan	ìdan	SCONJ	_	_	8	mod	_	Gloss=if
+1	À	à	ADP	_	_	18	mod	_	Gloss=XX
+2	gaskiyaː	gaskiyaː	NOUN	_	_	1	comp:obj	_	Gloss=truth.Fem
+3	ìdan	ìdan	SCONJ	_	_	18	mod	_	Gloss=if
 4	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	3	comp:obj	_	Gloss=XX
 5	ga	ganiː	VERB	_	_	4	comp:aux	_	Gloss=see
-6	Fela	Fela	PROPN	_	_	5	comp:obj	_	Gloss=Fela
+6	Fela	Fela	PROPN	_	_	8	subj	_	Gloss=Fela
 7	Kuti	Kuti	PROPN	_	_	6	flat@name	_	Gloss=Kuti
-8	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=XX|wordform=yana
+8	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	5	comp:obj	_	Gloss=XX|wordform=yana
 9	tìːƙar̃	tiːƙ-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	8	comp:aux	_	Gloss=beat.Vnoun.Fem.Cons
 10-11	rawar̃sà	_	_	_	_	_	_	_	_
 10	rawar̃	rawaː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=dance.Fem.Cons
 11	sà	sà	PRON	_	Gender=Fem	10	mod@poss	_	Gloss=3Masc.Gen
 12	à	à	ADP	_	_	9	comp:obl	_	Gloss=at
 13	gàban	gàban	ADP	_	_	12	comp:obj	_	Gloss=XX
-14	jàma'àː	jàma'àː	NOUN	_	Definite=Ind|Gender=Fem	13	comp:obj	_	Gloss=XX|SpaceAfter=No
-15	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-16	dà	dà	ADP	_	_	18	cc	_	Gloss=XX
-17	ƙyar̃	ƙyar̃	ADV	_	Definite=Cons|Gender=Fem	16	comp:obj	_	Gloss=XX
-18	zaːkà	zâi	AUX	_	Number=Sing|Person=2|Tense=Fut	8	parataxis@conj	_	Gloss=XX
+14	jàma'àː	jàma'àː	NOUN	_	Gender=Fem	13	comp:obj	_	Gloss=people.Fem|SpaceAfter=No
+15	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
+16	dà	dà	ADP	_	_	18	mod	_	Gloss=XX
+17	ƙyar̃	ƙyar̃	ADV	_	_	16	comp:obj	_	Gloss=difficulty
+18	zaːkà	zâi	AUX	_	Number=Sing|Person=2|Tense=Fut	0	root	_	Gloss=XX
 19	yàr̃da	yàr̃da	VERB	_	_	18	comp:aux	_	Gloss=XX
 20	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=XX
 21	cêwaː	cêaː	VERB	_	Gender=Fem	20	comp:obj	_	Gloss=XX
-22	shèːkàrun	shèːkàru	NOUN	_	Gender=Fem|Number=Plur	24	subj	_	Gloss=XX|SpaceAfter=No|wordform=shèːkàrunsà
+22	shèːkàrun	shèːkaràː	NOUN	_	Definite=Cons|Number=Plur	25	subj	_	Gloss=year.Plur.Cons|SpaceAfter=No|wordform=shèːkàrunsà
 23	sà	sà	PRON	_	_	22	mod@poss	_	Gloss=3Masc.Gen
-24	hàmsin	hàmsi	ADP	_	_	21	comp:obj	_	Gloss=XX
-25	nèː	neː	AUX	_	Gender=Masc|Number=Plur	24	comp:obj	_	Gloss=XX
-26	dà	dà	ADP	_	_	22	mod	_	Gloss=XX
+24	hàmsin	hàmsi	ADP	_	_	25	comp:pred	_	Gloss=XX
+25	nèː	neː	AUX	_	Gender=Masc|Number=Plur	21	comp:obj	_	Gloss=XX
+26	dà	dà	ADP	_	_	24	mod	_	Gloss=XX
 27	haihùwaː	haihùwaː	NOUN	_	Gender=Fem	26	comp:obj	_	Gloss=XX|SpaceAfter=No
-28	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
+28	.	.	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 
 # sent_id = 11_Fela_Kuti__3
 # text = Shiː dai mùtûm neː dà ya daɗèː an san shì à kân sànaː'àr̃sà , koː dà yakè kuma yaː fùskànci wasu wahaloːliː dà daːmaː.
-1	Shiː	shiː	PRON	_	_	8	dislocated@subj	_	Gloss=XX
+1	Shiː	shiː	PRON	_	_	4	subj	_	Gloss=XX
 2	dai	dai	PART	_	_	1	discourse@top	_	Gloss=XX
-3	mùtûm	mùtûm	NOUN	_	Gender=Masc	1	conj:appos	_	Gloss=XX
+3	mùtûm	mùtûm	NOUN	_	Gender=Masc	4	comp:pred	_	Gloss=XX
 4	neː	neː	PART	_	Gender=Masc|Number=Plur	0	root	_	Gloss=XX
-5	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=XX
+5	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=XX
 6	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	5	comp:obj	_	Gloss=XX
 7	daɗèː	daɗ-	VERB	_	_	6	comp:aux	_	Gloss=XX
 8	an	yaː	AUX	_	Aspect=Perf|Person=4	7	comp:obj	_	Gloss=XX
 9	san	sanìː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:aux	_	Gloss=know
 10	shì	shi	PRON	_	Gender=Masc|Person=3	9	comp:obj	_	Gloss=XX
-11	à	à	ADP	_	_	9	comp:obl	_	Gloss=at
-12	kân	kân	ADP	_	_	11	comp:obj	_	Gloss=XX
+11	à	à	ADP	_	_	9	comp:pred	_	Gloss=at
+12	kân	kân	ADP	_	_	11	comp:obj	_	Gloss=top
 13-14	sànaː'àr̃sà	_	_	_	_	_	_	_	_
 13	sànaː'àr̃	sànaː'àː	NOUN	_	Definite=Cons|Gender=Fem	12	comp:obj	_	Gloss=profession.Fem.Cons|SpaceAfter=No
 14	sà	sà	PRON	_	Definite=Cons|Gender=Masc	13	mod@poss	_	Gloss=3Masc.Gen|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-16	koː	koː	CCONJ	_	ExtPos=SCONJ	8	mod	_	Gloss=XX|Idiom=Yes
+16	koː	koː	CCONJ	_	ExtPos=SCONJ	7	mod	_	Gloss=XX|Idiom=Yes
 17	dà	dà	SCONJ	_	_	16	unk	_	Gloss=XX|InIdiom=Yes
 18	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	17	unk	_	Gloss=XX|InIdiom=Yes
 19	kuma	kuma	PART	_	_	16	discourse@top	_	Gloss=XX
 20	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	16	comp:obj	_	Gloss=XX
-21	fùskànci	fùskànaː	VERB	_	_	20	comp:aux	_	Gloss=XX
+21	fùskànci	fuskant-	VERB	_	_	20	comp:aux	_	Gloss=face
 22	wasu	wasu	DET	_	Number=Plur	23	det	_	Gloss=XX
-23	wahaloːliː	wahaloːliː	NOUN	_	Gender=Masc	21	comp:obj	_	Gloss=XX
-24	dà	dà	ADP	_	_	21	comp:obl	_	Gloss=XX
-25	daːmaː	daːmaː	NOUN	_	Gender=Fem	24	comp:obj	_	Gloss=XX|SpaceAfter=No
-26	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
+23	wahaloːliː	wàhalàː	NOUN	_	Number=Plur	21	comp:obj	_	Gloss=trouble.Plur
+24	dà	dà	ADP	_	_	23	mod	_	Gloss=XX
+25	daːmaː	daːmaː	NOUN	_	Gender=Fem	24	comp:obj	_	Gloss=plenty.Fem|SpaceAfter=No
+26	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 11_Fela_Kuti__4
 # text = Fela dai bàyar̃abề neː gàba dà baːya, wandà akà hàifaː à gàrin Àbêːkùta à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàlàːtin dà takwàs, tòː àmmaː dà ya kai matsayin sauràyiː, sai ya koːmàː Ìkko indà ya zama àkàːwu à wani oːfishin gwamnatì.
@@ -716,7 +716,7 @@
 18	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	15	parataxis@conj	_	Gloss=XX
 19	yi	yi	VERB	_	_	18	comp:aux	_	Gloss=do
 20	dukkàn	dukkàn	DET	_	PronType=Tot	19	comp:pred	_	Gloss=XX
-21	jàma'àr̃	jàma'àː	NOUN	_	Gender=Fem	20	mod	_	Gloss=people.Fem
+21	jàma'àr̃	jàma'àː	NOUN	_	Definite=Cons|Gender=Fem	20	mod	_	Gloss=people.Fem.Cons
 22	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	21	mod	_	Gloss=Nigeria
 23	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	19	mod	_	Gloss=XX
 24	yi	yi	VERB	_	_	23	comp:aux	_	Gloss=do
