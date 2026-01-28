@@ -14,8 +14,8 @@
 # sent_id = 06_01_Wayoyin_Tarho__2
 # text = kullum ìdan gidan r̃eːdiyòn " BBC " zâi gabaːtar̃ dà shìrye-shìryensà gà ƙasàːshen Afìr̃kà, doːlè yà yi àmfàːniː dà wayàr̃ tàr̃hôː.
 # text_ortho = Kullum ìdan gidan r̃eːdiyòn 'BBC' zâi gabaːtar̃ dà shìrye-shìryensà gà ƙasàːshen Afìr̃kà, doːlè yà yi àmfàːniː dà wayàr̃ tàr̃hôː.
-1	kullum	kullum	ADV	_	_	16	mod	_	_
-2	ìdan	ìdan	SCONJ	_	_	16	mod	_	_
+1	kullum	kullum	ADV	_	_	17	mod	_	_
+2	ìdan	ìdan	SCONJ	_	_	17	mod	_	_
 3	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	8	subj	_	_
 4	r̃eːdiyòn	r̃eːdiyòː	NOUN	_	Definite=Cons|Gender=Masc	3	mod	_	_
 5	"	"	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -24,19 +24,20 @@
 8	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	2	comp:obj	_	_
 9	gabaːtar̃	gabaːtaː	VERB	_	Definite=Cons|Gender=Fem	8	comp:aux	_	_
 10	dà	dà	ADP	_	_	9	comp:obl	_	_
-11	shìrye-shìryensà	shìrye-shìrye	NOUN	_	Definite=Cons|Number=Plur	10	comp:obj	_	_
-12	gà	gà	ADP	_	_	9	comp:obl	_	_
-13	ƙasàːshen	ƙasàːshen	ADP	_	Definite=Cons|Number=Plur	12	comp:obj	_	_
-14	Afìr̃kà	Afìr̃kà	PROPN	_	_	13	flat@name	_	Gloss=Africa|SpaceAfter=No
-15	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-16	doːlè	doːlè	ADV	_	_	0	root	_	_
-17	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	16	comp:cleft	_	_
-18	yi	yi	VERB	_	_	17	comp:aux	_	Gloss=do
-19	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	18	comp:pred	_	_
-20	dà	dà	ADP	_	_	18	comp:obl	_	_
-21	wayàr̃	wayàː	NOUN	_	Definite=Cons|Gender=Fem	20	comp:obj	_	_
-22	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	21	compound	_	SpaceAfter=No
-23	.	.	PUNCT	_	_	16	punct	_	Gloss=PUNCT
+11	shìrye-shìryen	shìrye-shìrye	NOUN	_	Definite=Cons|Number=Plur	10	comp:obj	_	SpaceAfter=No|wordform=shìrye-shìryensà
+12	sà	sà	PRON	_	_	11	mod@poss	_	Gloss=3Masc.Gen
+13	gà	gà	ADP	_	_	9	comp:obl	_	_
+14	ƙasàːshen	ƙasàːshen	ADP	_	Definite=Cons|Number=Plur	13	comp:obj	_	_
+15	Afìr̃kà	Afìr̃kà	PROPN	_	_	14	flat@name	_	Gloss=Africa|SpaceAfter=No
+16	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+17	doːlè	doːlè	ADV	_	_	0	root	_	_
+18	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	17	comp:cleft	_	_
+19	yi	yi	VERB	_	_	18	comp:aux	_	Gloss=do
+20	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	19	comp:pred	_	_
+21	dà	dà	ADP	_	_	19	comp:obl	_	_
+22	wayàr̃	wayàː	NOUN	_	Definite=Cons|Gender=Fem	21	comp:obj	_	_
+23	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	22	compound	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 
 # sent_id = 06_01_Wayoyin_Tarho__3
 # text = wani loːkàciː àbîn yanàː dà ban haushiː, sabòːdà irìn wàhalàr̃ dà akàn saːmùː kàːfìn à bugà wayàː zuwàː ƙasàːshen Afìr̃kà, mùsammàn maː ƙasàːsheː kàmar̃ Zàyâr̃ dà Sudân.
@@ -257,8 +258,9 @@
 7	tàfi	tàfi	VERB	_	_	6	comp:aux	_	_
 8	zuwàː	zuwàː	ADP	_	_	7	comp:obl	_	_
 9	kudancin	kudanciː	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	_
-10	Fàr̃ansà	Fàr̃ansà	PROPN	_	_	9	mod	_	Gloss=Fàr̃ansà|SpaceAfter=No
-11	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
+10	Fàr̃an	Fàr̃ansà	PROPN	_	_	9	mod	_	Gloss=Fàr̃ansà|SpaceAfter=No|wordform=Fàr̃ansà
+11	sà	sà	PRON	_	_	10	mod@poss	_	Gloss=3Masc.Gen
+12	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 06_01_Wayoyin_Tarho__11
 # text = Dàgà ƙàrsheː sai sàːƙôn yà ìsa bir̃nin Wàgadugù.
@@ -413,7 +415,7 @@
 19	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = 06_01_Wayoyin_Tarho__18
-# text = wannàn yanàː fàːruwaː nèː sabòːdà zaman mulkìn màllakàr̃ dà ƙasàːshen Afir̃kà sukà yi à ƙàr̃ƙashin ƙasàːshen Tuːr̃ai, àmmaː yànzu ƙasàːshen Afir̃kà sun soːmà ƙaːrà dàngàntakàː tsàkaːninsù.
+# text = wannàn yanàː fàːruwaː nèː sabòːdà zaman mulkìn màllakàr̃ dà ƙasàːshen Afir̃kà sukà yi à ƙàr̃ƙashin ƙasàːshen Tuːr̃ai, àmmaː yànzu ƙasàːshen Afir̃kà sun soːmà ƙaːrà dàngàntakàː tsàkaːninsù .
 # text_ortho = Wannàn yanàː fàːruwaː nèː sabòːdà zaman mulkìn màllakàr̃ dà ƙasàːshen Afir̃kà sukà yi à ƙàr̃ƙashin ƙasàːshen Tuːr̃ai, àmmaː yànzu ƙasàːshen Afir̃kà sun soːmà ƙaːrà dàngàntakàː tsàkaːninsù.
 1	wannàn	wannàn	PRON	_	PronType=Dem	2	subj	_	_
 2	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	_
@@ -441,8 +443,9 @@
 24	soːmà	soːm-	VERB	_	_	23	comp:aux	_	_
 25	ƙaːrà	ƙaːràː	VERB	_	_	24	comp:obj	_	_
 26	dàngàntakàː	dàngànta	NOUN	_	Case=Gen|Number=Sing|Person=1	25	comp:obj	_	_
-27	tsàkaːninsù	tsàkaːnin	NOUN	_	Case=Acc|Number=Plur|Person=3	26	mod	_	SpaceAfter=No
-28	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+27	tsàkaːnin	tsàkaːnin	ADP	_	_	26	mod	_	SpaceAfter=No|wordform=tsàkaːninsù
+28	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	27	comp:obj	_	Gloss=3Plur.Gen
+29	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 06_01_Wayoyin_Tarho__19
 # text = Maːkòn jiyà akà shiryà wani laːyìn wayàr̃ tàr̃hôː tsàkaːnin Toːgò da Gaːnà.
@@ -472,25 +475,26 @@
 6	gyaːrà	gya	VERB	_	_	5	comp:aux	_	_
 7	hanyoːyin	hanyoːyiː	NOUN	_	Definite=Cons|Number=Plur	6	comp:obj	_	_
 8	saːdâr̃waː	saːdâr̃waː	VERB	_	Number=Plur	7	mod	_	_
-9	tsàkaːninsù	tsàkaːnin	NOUN	_	Case=Gen|Number=Plur|Person=3	8	mod	_	_
-10	har̃	har̃	CCONJ	_	Definite=Cons|Gender=Fem	11	cc	_	_
-11	anàː	nàː	AUX	_	Aspect=Prog|Person=4	5	conj:coord	_	_
-12	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc	11	comp:aux	_	_
-13	râi	râi	NOUN	_	Gender=Masc	12	compound	_	_
-14	nân	nân	ADV	_	PronType=Dem	19	mod	_	_
-15	dà	dà	CCONJ	_	_	16	cc	_	_
-16	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	14	conj:coord	_	_
-17	bìyar̃	bìyar̃	NUM	_	Definite=Cons|Gender=Fem	16	mod:num	_	SpaceAfter=No
-18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-19	bugà	bugà	VERB	_	_	26	subj	_	_
-20	wayàr̃	wayàː	NOUN	_	Definite=Cons|Gender=Fem	19	comp:obj	_	_
-21	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	20	compound	_	_
-22	tsàkaːnin	tsàkaːnin	ADP	_	_	19	comp:obl	_	_
-23	ƙasàːshen	ƙasàːshen	ADP	_	Definite=Cons|Number=Plur	22	comp:obj	_	_
-24	kudancin	kudanciː	NOUN	_	Definite=Cons|Gender=Masc	23	mod	_	_
-25	Afir̃kà	Afir̃kà	PROPN	_	_	24	mod	_	Gloss=Africa
-26	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	12	comp:obj	_	_
-27	yi	yi	VERB	_	_	26	comp:aux	_	Gloss=do
-28	sauƙiː	sauƙiː	NOUN	_	Gender=Masc	27	comp:pred	_	SpaceAfter=No
-29	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+9	tsàkaːnin	tsàkaːnin	ADP	_	_	8	mod	_	SpaceAfter=No|wordform=tsàkaːninsù
+10	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	9	comp:obj	_	Gloss=3Plur.Gen
+11	har̃	har̃	CCONJ	_	Definite=Cons|Gender=Fem	12	cc	_	_
+12	anàː	nàː	AUX	_	Aspect=Prog|Person=4	5	conj:coord	_	_
+13	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc	12	comp:aux	_	_
+14	râi	râi	NOUN	_	Gender=Masc	13	compound	_	_
+15	nân	nân	ADV	_	PronType=Dem	20	mod	_	_
+16	dà	dà	CCONJ	_	_	17	cc	_	_
+17	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	15	conj:coord	_	_
+18	bìyar̃	bìyar̃	NUM	_	Definite=Cons|Gender=Fem	17	mod:num	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
+20	bugà	bugà	VERB	_	_	27	subj	_	_
+21	wayàr̃	wayàː	NOUN	_	Definite=Cons|Gender=Fem	20	comp:obj	_	_
+22	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	21	compound	_	_
+23	tsàkaːnin	tsàkaːnin	ADP	_	_	20	comp:obl	_	_
+24	ƙasàːshen	ƙasàːshen	ADP	_	Definite=Cons|Number=Plur	23	comp:obj	_	_
+25	kudancin	kudanciː	NOUN	_	Definite=Cons|Gender=Masc	24	mod	_	_
+26	Afir̃kà	Afir̃kà	PROPN	_	_	25	mod	_	Gloss=Africa
+27	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	13	comp:obj	_	_
+28	yi	yi	VERB	_	_	27	comp:aux	_	Gloss=do
+29	sauƙiː	sauƙiː	NOUN	_	Gender=Masc	28	comp:pred	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 

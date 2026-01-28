@@ -564,7 +564,7 @@
 20	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__22
-# text = À yâu ɗîn kuma ɗaya dàgà cikin shùːgàbànnin wannàn ƙungìyaː ta Mùsùlmiː yaː cêː lalleː suː bà zaːsù ƙyaːlè Gianni Palma dà rânsà ba, dòːmin kùwa yaː ƙàːlùːbàlànci àl'ummàr̃ Mùsùlmiː bàːkiː ɗayansù.
+# text = À yâu ɗîn kuma ɗaya dàgà cikin shùːgàbànnin wannàn ƙungìyaː ta Mùsùlmiː yaː cêː lalleː suː bà zaːsù ƙyaːlè Gianni Palma dà rânsà ba, dòːmin kùwa yaː ƙàːlùːbàlànci àl'ummàr̃ Mùsùlmiː bàːkiː ɗayansù .
 1	À	à	ADP	_	_	13	mod	_	_
 2	yâu	yâu	ADV	_	_	1	comp:obj	_	_
 3	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	2	det	_	_
@@ -598,8 +598,9 @@
 31	àl'ummàr̃	àl'ummàː	NOUN	_	Definite=Cons|Gender=Fem	30	comp:obj	_	_
 32	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	31	mod	_	Gloss=Muslim.Plur
 33	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	32	mod	_	Gloss=mouth.Masc
-34	ɗayansù	ɗaya	NUM	_	Case=Acc|Number=Plur|Person=3	33	mod:num	_	SpaceAfter=No
-35	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
+34	ɗayan	ɗaya	NUM	_	_	33	mod:num	_	Gloss=one.Cons|SpaceAfter=No|wordform=ɗayansù
+35	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	34	mod@poss	_	Gloss=3Plur.Gen
+36	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__23
 # text = Sai dai kuma shiː Gianni Palma yaː kafèː kân cêːwaː lalleː kàm yanàː nan à kân bàkansà, bàː zâi jaː dà baːya ba.

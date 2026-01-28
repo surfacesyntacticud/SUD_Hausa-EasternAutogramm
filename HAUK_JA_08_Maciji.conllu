@@ -32,21 +32,22 @@
 21	dà	dà	SCONJ	_	_	20	comp:obj	_	InIdiom=Yes
 22	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	20	comp:obj	_	_
 23	cikà	cik-	VERB	_	_	22	comp:aux	_	_
-24	cikìnsù	cikìː	NOUN	_	Case=Gen|Number=Plur|Person=3	23	comp:obj	_	_
-25	dà	dà	ADP	_	_	23	comp:obl	_	_
-26	àbincîn	àbinciː	NOUN	_	Definite=Def|Gender=Masc	25	comp:obj	_	_
-27	dà	dà	SCONJ	_	_	26	mod@relcl	_	_
-28	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	27	comp:obj	_	_
-29	yi	yi	VERB	_	_	28	comp:aux	_	Gloss=do
-30-31	miyàr̃sà	_	_	_	_	_	_	_	_
-30	miyàr̃	miyàː	NOUN	_	Gender=Fem	29	comp:obj	_	Gloss=sauce.Fem.Cons
-31	sà	sà	PRON	_	Gender=Masc	30	mod@poss	_	Gloss=3Masc.Gen
-32	dà	dà	ADP	_	_	29	comp:obl	_	_
-33	naːmàn	naːmàː	NOUN	_	Definite=Cons|Gender=Masc	32	comp:obj	_	_
-34	wani	wani	DET	_	Definite=Spec|Gender=Masc	36	det	_	_
-35	shirgeːgèn	shirgeːgèː	NOUN	_	Definite=Cons|Gender=Masc	36	mod	_	_
-36	macìːjiː	macìːjiː	NOUN	_	Number=Plur	33	mod	_	SpaceAfter=No
-37	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
+24	cikìn	cikìː	NOUN	_	_	23	comp:obj	_	Gloss=belly.Masc.Cons|SpaceAfter=No|wordform=cikìnsù
+25	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	24	mod@poss	_	Gloss=3Plur.Gen
+26	dà	dà	ADP	_	_	23	comp:obl	_	_
+27	àbincîn	àbinciː	NOUN	_	Definite=Def|Gender=Masc	26	comp:obj	_	_
+28	dà	dà	SCONJ	_	_	27	mod@relcl	_	_
+29	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	28	comp:obj	_	_
+30	yi	yi	VERB	_	_	29	comp:aux	_	Gloss=do
+31-32	miyàr̃sà	_	_	_	_	_	_	_	_
+31	miyàr̃	miyàː	NOUN	_	Gender=Fem	30	comp:obj	_	Gloss=sauce.Fem.Cons
+32	sà	sà	PRON	_	Gender=Masc	31	mod@poss	_	Gloss=3Masc.Gen
+33	dà	dà	ADP	_	_	30	comp:obl	_	_
+34	naːmàn	naːmàː	NOUN	_	Definite=Cons|Gender=Masc	33	comp:obj	_	_
+35	wani	wani	DET	_	Definite=Spec|Gender=Masc	37	det	_	_
+36	shirgeːgèn	shirgeːgèː	NOUN	_	Definite=Cons|Gender=Masc	37	mod	_	_
+37	macìːjiː	macìːjiː	NOUN	_	Number=Plur	34	mod	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
 # sent_id = 08_Maciji__3a
 # text = Yaddà wannàn àl'amàr̃iː ya fàːru shiː nèː suː mutàːnên sun ɗaukoː gaːwar̃ wannàn macìːjiː nèː baːyân dà wata bàbbar̃ moːtàː ta laːtsèː shi à bisà hanyàː dà dàddare, sukà nùfi dà shiː zuwàː gidaː.
@@ -111,7 +112,7 @@
 20	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 08_Maciji__4
-# text = Tòː indà màtsalàr̃ ta faːrà taːshìː shiː nèː baːyân dà sukà cînyẽ macìːjîn dà sukà dafàn, nan dà nan sai waɗànnân mutàːneː sukà faːrà jîn wani àbù nàː mur̃ɗàː musù cikin cikkunànsù.
+# text = Tòː indà màtsalàr̃ ta faːrà taːshìː shiː nèː baːyân dà sukà cînyẽ macìːjîn dà sukà dafàn, nan dà nan sai waɗànnân mutàːneː sukà faːrà jîn wani àbù nàː mur̃ɗàː musù cikin cikkunànsù .
 1	Tòː	tòː	INTJ	_	_	8	discourse	_	_
 2	indà	indà	PRON	_	PronType=Rel	8	subj	_	_
 3	màtsalàr̃	màtsalaː	NOUN	_	Gender=Fem	4	subj	_	Gloss=problem.Fem.PrevRef
@@ -144,8 +145,9 @@
 30	mur̃ɗàː	mur̃ɗàː	VERB	_	_	29	comp:aux	_	_
 31	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	30	comp:obl	_	_
 32	cikin	cikin	ADP	_	_	30	mod	_	_
-33	cikkunànsù	cikkunàːsù	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur|Person=3	32	comp:obj	_	SpaceAfter=No
-34	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
+33	cikkunàn	cikìː	NOUN	_	Definite=Cons|Number=Plur	32	comp:obj	_	Gloss=belly.Plur.Cons|SpaceAfter=No|wordform=cikkunànsù
+34	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	33	mod@poss	_	Gloss=3Plur.Gen
+35	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = 08_Maciji__5
 # text = Dàgà nan kuma sai sukà shìga yîn amai.
@@ -194,8 +196,9 @@
 31	dòːmin	dòːmin	ADP	_	_	27	mod	_	_
 32	neːman	neːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	31	comp:obj	_	_
 33	cèːton	ceːt-	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	32	comp:obj	_	Gloss=save.Vnoun.Masc.Cons
-34	raːyukànsù	râi	NOUN	_	Definite=Cons|Number=Plur|Person=3	33	comp:obj	_	Gloss=life.Plur.Cons|SpaceAfter=No
-35	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
+34	raːyukàn	râi	NOUN	_	Definite=Cons|Number=Plur|Person=3	33	comp:obj	_	Gloss=life.Plur.Cons|SpaceAfter=No|wordform=raːyukànsù
+35	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	34	mod@poss	_	Gloss=3Plur.Gen
+36	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 08_Maciji__7
 # text = Loːkàcîn dà hakàn kèː fàːruwaː, wasu jàːmi'an asìbitìn sukà cêː wai naːmàn macijîn dà waɗànnân mutàːnên sukà cînyeː wandà kuma ya kusa zamaː sanàdin ajàlinsù - yanàː ɗaya dàgà cikin irìn màcìːzân nan nèː màːsu dafìn gàske.
@@ -211,7 +214,7 @@
 10	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	_
 11	cêː	cêː	VERB	_	_	10	comp:aux	_	_
 12	wai	wai	SCONJ	_	_	11	comp:obj	_	_
-13	naːmàn	naːmàː	NOUN	_	Definite=Cons|Gender=Masc	28	subj	_	_
+13	naːmàn	naːmàː	NOUN	_	Definite=Cons|Gender=Masc	29	subj	_	_
 14	macijîn	macijiː	NOUN	_	Definite=Def|Gender=Masc	13	mod	_	_
 15	dà	dà	SCONJ	_	_	13	mod@relcl	_	_
 16	waɗànnân	waɗànnân	DET	_	Number=Plur|PronType=Dem	17	det	_	_
@@ -224,20 +227,21 @@
 23	kusa	kusa	VERB	_	_	22	comp:obl	_	_
 24	zamaː	zamaː	VERB	_	ExtPos=NOUN|Gender=Masc	23	comp:obj	_	_
 25	sanàdin	sanàdiː	NOUN	_	Definite=Cons	24	comp:pred	_	_
-26	ajàlinsù	ajàliː	NOUN	_	Definite=Cons|Number=Plur|Person=3	25	mod	_	_
-27	-	-	PUNCT	_	_	28	punct	_	Gloss=PUNCT
-28	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	12	comp:obj	_	_
-29	ɗaya	ɗaya	NUM	_	_	28	comp:aux	_	_
-30	dàgà	dàgà	ADP	_	_	29	mod	_	_
-31	cikin	cikin	ADP	_	_	30	comp:obj	_	_
-32	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	31	comp:obj	_	Gloss=type.Masc.Cons
-33	màcìːzân	macìːjiː	NOUN	_	Definite=Cons|Number=Plur	32	mod	_	Gloss=snake.Plur.Def
-34	nan	nan	DET	_	PronType=Dem	33	det	_	_
-35	nèː	neː	PART	_	_	33	discourse@foc	_	_
-36	màːsu	mài	ADP	_	Number=Plur	33	mod	_	_
-37	dafìn	dafìː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	36	comp:obj	_	_
-38	gàske	gàske	ADV	_	_	37	mod	_	SpaceAfter=No
-39	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
+26	ajàlin	ajàliː	NOUN	_	Definite=Cons	25	mod	_	SpaceAfter=No|wordform=ajàlinsù
+27	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	26	mod@poss	_	Gloss=3Plur.Gen
+28	-	-	PUNCT	_	_	29	punct	_	Gloss=PUNCT
+29	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	12	comp:obj	_	_
+30	ɗaya	ɗaya	NUM	_	_	29	comp:aux	_	_
+31	dàgà	dàgà	ADP	_	_	30	mod	_	_
+32	cikin	cikin	ADP	_	_	31	comp:obj	_	_
+33	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	32	comp:obj	_	Gloss=type.Masc.Cons
+34	màcìːzân	macìːjiː	NOUN	_	Definite=Cons|Number=Plur	33	mod	_	Gloss=snake.Plur.Def
+35	nan	nan	DET	_	PronType=Dem	34	det	_	_
+36	nèː	neː	PART	_	_	34	discourse@foc	_	_
+37	màːsu	mài	ADP	_	Number=Plur	34	mod	_	_
+38	dafìn	dafìː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	37	comp:obj	_	_
+39	gàske	gàske	ADV	_	_	38	mod	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = 08_Maciji__8
 # text = Sun kuma ƙaːràː dà cêːwaː baːàː cîn naːmànsù mùsammàn dai ganin yawàn kwàːnàkîn dà akà ɗaukàː anàː dafà macìːjîn kàːfin yà dàfu luɓus.
@@ -248,23 +252,24 @@
 5	cêːwaː	cêː	VERB	_	Gender=Fem	4	comp:obj	_	_
 6	baːàː	nː	AUX	_	Aspect=Prog|Person=4|Polarity=Neg	5	comp:obj	_	_
 7	cîn	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	_
-8	naːmànsù	naːmàːsù	PRON	_	Case=Gen|Number=Plur|Person=3	7	comp:obj	_	_
-9	mùsammàn	mùsammàn	CCONJ	_	Case=Gen|Number=Plur|Person=3	11	cc	_	_
-10	dai	dai	PART	_	_	9	discourse@top	_	_
-11	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	conj:coord	_	_
-12	yawàn	yawàn	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	_
-13	kwàːnàkîn	kwàːnàkiː	NOUN	_	Definite=Cons|Gender=Masc	12	mod	_	_
-14	dà	dà	SCONJ	_	_	12	mod@relcl	_	_
-15	akà	nàː	AUX	_	Aspect=Prog|Person=4	14	comp:obj	_	_
-16	ɗaukàː	ɗauk-	VERB	_	ExtPos=NOUN|Gender=Fem	15	comp:aux	_	_
-17	anàː	nàː	AUX	_	Aspect=Prog|Person=4	16	mod	_	_
-18	dafà	dafàː	VERB	_	_	17	comp:aux	_	_
-19	macìːjîn	macìːjiː	NOUN	_	Definite=Def|Number=Plur	18	comp:obj	_	_
-20	kàːfin	kàːfin	SCONJ	_	_	18	mod	_	_
-21	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	20	comp:obj	_	_
-22	dàfu	dàfu	VERB	_	_	21	comp:aux	_	_
-23	luɓus	luɓus	ADV	_	_	22	mod	_	SpaceAfter=No
-24	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+8	naːmàn	naːmàː	NOUN	_	_	7	comp:obj	_	SpaceAfter=No|wordform=naːmànsù
+9	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	8	mod@poss	_	Gloss=3Plur.Gen
+10	mùsammàn	mùsammàn	CCONJ	_	Case=Gen|Number=Plur|Person=3	12	cc	_	_
+11	dai	dai	PART	_	_	10	discourse@top	_	_
+12	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	conj:coord	_	_
+13	yawàn	yawàn	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	_
+14	kwàːnàkîn	kwàːnàkiː	NOUN	_	Definite=Cons|Gender=Masc	13	mod	_	_
+15	dà	dà	SCONJ	_	_	13	mod@relcl	_	_
+16	akà	nàː	AUX	_	Aspect=Prog|Person=4	15	comp:obj	_	_
+17	ɗaukàː	ɗauk-	VERB	_	ExtPos=NOUN|Gender=Fem	16	comp:aux	_	_
+18	anàː	nàː	AUX	_	Aspect=Prog|Person=4	17	mod	_	_
+19	dafà	dafàː	VERB	_	_	18	comp:aux	_	_
+20	macìːjîn	macìːjiː	NOUN	_	Definite=Def|Number=Plur	19	comp:obj	_	_
+21	kàːfin	kàːfin	SCONJ	_	_	19	mod	_	_
+22	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	21	comp:obj	_	_
+23	dàfu	dàfu	VERB	_	_	22	comp:aux	_	_
+24	luɓus	luɓus	ADV	_	_	23	mod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 08_Maciji__9
 # text = Jàːmì'ân sun yi kiràː gà mutàːnên dà kèː zàune à yankìn dà sù kìyàːyi ɗaukàr̃ gaːwàwwakin dàbboːbiː sunàː tàfiyàː dà suː gidaː don sù dafàː sù sàːmu àbinci.

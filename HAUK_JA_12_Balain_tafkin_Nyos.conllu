@@ -143,16 +143,17 @@
 11	sai	sai	ADV	_	_	13	mod	_	_
 12	duk	dukà	DET	_	_	13	det	_	_
 13	mutàːnen	mutàːneː	NOUN	_	Definite=Cons|Number=Plur	0	root	_	_
-14	cikinsà	cikinsà	ADP	_	_	13	mod	_	_
-15	sukà	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	13	comp:cleft	_	_
-16	mutù	mutù	VERB	_	_	15	comp:aux	_	SpaceAfter=No
-17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-18	in	in	SCONJ	_	_	16	mod	_	_
-19	bandà	bandàː	ADP	_	_	18	comp:obj	_	_
-20	mùtûm	mùtûm	NOUN	_	Definite=Ind|Gender=Masc	19	comp:obj	_	_
-21	bìyar̃	bìyar̃	NUM	_	Definite=Cons|Gender=Fem	20	det	_	wordform=biyar
-22	kawài	kawài	ADV	_	_	19	mod	_	SpaceAfter=No
-23	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
+14	cikin	cikinsà	ADP	_	_	13	mod	_	SpaceAfter=No|wordform=cikinsà
+15	sà	sà	PRON	_	_	14	mod@poss	_	Gloss=3Masc.Gen
+16	sukà	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	13	comp:cleft	_	_
+17	mutù	mutù	VERB	_	_	16	comp:aux	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
+19	in	in	SCONJ	_	_	17	mod	_	_
+20	bandà	bandàː	ADP	_	_	19	comp:obj	_	_
+21	mùtûm	mùtûm	NOUN	_	Definite=Ind|Gender=Masc	20	comp:obj	_	_
+22	bìyar̃	bìyar̃	NUM	_	Definite=Cons|Gender=Fem	21	det	_	wordform=biyar
+23	kawài	kawài	ADV	_	_	20	mod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos__6
 # text = Dùbban shaːnuː dà sauran dabboːbiː suː maː sun mutù .
@@ -168,7 +169,7 @@
 10	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos__7
-# text = Manàzàr̃taː kìːmiyyàː dai bàsù baː dà bàyaːnìn yaddà jikunkunàn waɗàndà sukà tsiːrân sukà sassaːɓùːleː ba, àmmaː gàː fuskoːkinsù da ƙiràːjansù nan duk à sàːle.
+# text = Manàzàr̃taː kìːmiyyàː dai bàsù baː dà bàyaːnìn yaddà jikunkunàn waɗàndà sukà tsiːrân sukà sassaːɓùːleː ba, àmmaː gàː fuskoːkinsù dà ƙiràːjansù nan duk à sàːle.
 1	Manàzàr̃taː	Manàzàr̃taː	PROPN	_	_	4	subj	_	Gloss=Manàzàr̃taː
 2	kìːmiyyàː	kìːmiyyàː	NOUN	_	_	1	mod	_	_
 3	dai	dai	PART	_	_	1	discourse@top	_	_
@@ -187,14 +188,16 @@
 16	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 17	àmmaː	àmmaː	CCONJ	_	_	18	cc	_	_
 18	gàː	gàː	PART	_	_	4	conj:coord	_	_
-19	fuskoːkinsù	fuskoːkiːsù	NOUN	_	Case=Gen|Number=Plur|Person=3	18	subj	_	_
-20	dà	dà	CCONJ	_	_	21	cc	_	wordform=da
-21	ƙiràːjansù	ƙiràːjaː	NOUN	_	Definite=Cons|Number=Plur	18	conj:coord	_	_
-22	nan	nan	DET	_	Definite=Def|PronType=Dem	21	det	_	_
-23	duk	dukà	DET	_	PronType=Tot	21	det	_	_
-24	à	yà	AUX	_	Mood=Sub|Person=4	18	parataxis	_	_
-25	sàːle	sàː-	VERB	_	_	24	comp:aux	_	SpaceAfter=No
-26	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+19	fuskoːkin	fuskàː	NOUN	_	Number=Plur	18	subj	_	Gloss=face.Plur.Cons|SpaceAfter=No|wordform=fuskoːkinsù
+20	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	19	mod@poss	_	Gloss=3Plur.Gen
+21	dà	dà	CCONJ	_	_	22	cc	_	wordform=da
+22	ƙiràːjan	ƙìrjiː	NOUN	_	Definite=Cons|Number=Plur	18	conj:coord	_	Gloss=chest.Plur.Cons|SpaceAfter=No|wordform=ƙiràːjansù
+23	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	22	mod@poss	_	Gloss=3Plur.Gen
+24	nan	nan	DET	_	Definite=Def|PronType=Dem	22	det	_	_
+25	duk	dukà	DET	_	PronType=Tot	22	det	_	_
+26	à	yà	AUX	_	Mood=Sub|Person=4	18	parataxis	_	_
+27	sàːle	sàː-	VERB	_	_	26	comp:aux	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos__8
 # text = Tòː wannàn yaː sâː anàː dà 'yar̃ shakkàː à kân àbîn dà bìncìkên naːsù ya gaːnoː, cêːwar̃ iskàr̃ dàː ta yiwoː bùr̃tsîn wai carbon dioxide ce kawài,
@@ -347,8 +350,9 @@
 24	dà	dà	ADP	_	_	23	comp:obl	_	_
 25	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	24	comp:obj	_	_
 26	gàbaː	gàbaː	NOUN	_	Definite=Ind	23	mod	_	_
-27	ɗayansà	ɗaya	NOUN	_	Case=Gen|Definite=Cons|Number=Plur|Person=3	26	comp:obj	_	SpaceAfter=No
-28	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
+27	ɗayan	ɗaya	NOUN	_	Case=Gen|Definite=Cons|Number=Plur|Person=3	26	comp:obj	_	SpaceAfter=No|wordform=ɗayansà
+28	sà	sà	PRON	_	_	27	mod@poss	_	Gloss=3Masc.Gen
+29	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos__12
 # text = Sai dai kuma anàː tsòːron ƙiːlà gâs ɗîn yà ƙaːrà ɓulɓulôːwaː cikin tafkìn dà zaːrar̃ an ragè ruwansà.
@@ -369,8 +373,9 @@
 15	zaːrar̃	zaːrar̃	NOUN	_	Definite=Cons|Gender=Fem	16	mod	_	wordform=zarar
 16	an	yaː	AUX	_	Aspect=Perf|Person=4	9	parataxis@conj	_	_
 17	ragè	ragèː	VERB	_	_	16	comp:aux	_	_
-18	ruwansà	ruwansà	NOUN	_	Number=Plur	17	comp:obj	_	SpaceAfter=No
-19	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+18	ruwan	ruwansà	NOUN	_	Number=Plur	17	comp:obj	_	SpaceAfter=No|wordform=ruwansà
+19	sà	sà	PRON	_	_	18	mod@poss	_	Gloss=3Masc.Gen
+20	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos__13a
 # text = Ragè nauyin ruwân , wandà manàzàr̃tân sukèː ganin zâi tsai dà aman gâs ɗîn , mài yìwuwaː nèː kuma zâi jaːwoː wani mùmmuːnan haɗàr̃iː .
@@ -427,9 +432,10 @@
 23	dà	dà	SCONJ	_	_	21	mod@relcl	_	_
 24	kèː	nàː	AUX	_	Aspect=Prog	23	comp:obj	_	_
 25	shìgaː	shìgaː	VERB	_	ExtPos=NOUN|Gender=Fem	24	comp:aux	_	_
-26	cikinsà	cikinsà	ADP	_	_	25	comp:obl	_	_
-27	ba	ba	PART	_	Polarity=Neg	10	mod	_	SpaceAfter=No
-28	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+26	cikin	cikinsà	ADP	_	_	25	comp:obl	_	SpaceAfter=No|wordform=cikinsà
+27	sà	sà	PRON	_	_	26	mod@poss	_	Gloss=3Masc.Gen
+28	ba	ba	PART	_	Polarity=Neg	10	mod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos__14
 # text = Hakà nan kuma manàzàr̃taː sun baː dà shaːwar̃àr̃ cêːwaː kàmaːtàː yaː yi à lùːr̃a dà haːlin ruwan Tafkìn Nyos ɗîn kàːfin à kwaːshè gâs ɗîn, àbîn dà zâi zamoː àbù mài haɗàr̃iː kwar̃ai.
