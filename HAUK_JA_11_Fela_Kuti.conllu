@@ -9,10 +9,10 @@
 # sent_id = 11_Fela_Kuti__2
 # text = À gaskiyaː ìdan kaː ga Fela Kuti yanàː tìːƙar̃ rawar̃sà à gàban jàma'àː, dà ƙyar̃ zaːkà yàr̃da dà cêwaː shèːkàrunsà hàmsin nèː dà haihùwaː.
 1	À	à	ADP	_	_	8	mod	_	Gloss=XX
-2	gaskiyaː	gaskiyaː	INTJ	_	_	1	comp:obj	_	Gloss=XX
-3	ìdan	ìdan	SCONJ	_	_	8	mod	_	Gloss=XX
+2	gaskiyaː	gaskiyaː	INTJ	_	_	1	comp:obj	_	Gloss=truth.Fem
+3	ìdan	ìdan	SCONJ	_	_	8	mod	_	Gloss=if
 4	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	3	comp:obj	_	Gloss=XX
-5	ga	ganiː	VERB	_	_	4	comp:aux	_	Gloss=XX
+5	ga	ganiː	VERB	_	_	4	comp:aux	_	Gloss=see
 6	Fela	Fela	PROPN	_	_	5	comp:obj	_	Gloss=Fela
 7	Kuti	Kuti	PROPN	_	_	6	flat@name	_	Gloss=Kuti
 8	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=XX|wordform=yana
@@ -48,7 +48,7 @@
 6	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	5	comp:obj	_	Gloss=XX
 7	daɗèː	daɗ-	VERB	_	_	6	comp:aux	_	Gloss=XX
 8	an	yaː	AUX	_	Aspect=Perf|Person=4	7	comp:obj	_	Gloss=XX
-9	san	sanìː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:aux	_	Gloss=XX
+9	san	sanìː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:aux	_	Gloss=know
 10	shì	shi	PRON	_	Gender=Masc|Person=3	9	comp:obj	_	Gloss=XX
 11	à	à	ADP	_	_	9	comp:obl	_	Gloss=at
 12	kân	kân	ADP	_	_	11	comp:obj	_	Gloss=XX
@@ -315,7 +315,7 @@
 6	sai	sai	ADV	_	_	8	mod	_	Gloss=XX
 7	Fela	Fela	PROPN	_	_	8	subj	_	Gloss=Fela
 8	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
-9	ga	ganiː	VERB	_	_	8	comp:aux	_	Gloss=XX
+9	ga	ganiː	VERB	_	_	8	comp:aux	_	Gloss=see
 10	cêːwaː	cêwaː	SCONJ	_	Gender=Fem	9	comp:obj	_	Gloss=XX|wordform=cêwaː
 11	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	10	comp:obj	_	Gloss=there_is.Neg
 12	àbîn	àbù	NOUN	_	Definite=Cons|Gender=Masc	11	subj	_	Gloss=XX
