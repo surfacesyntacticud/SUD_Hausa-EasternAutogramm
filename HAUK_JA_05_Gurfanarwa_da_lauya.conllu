@@ -48,8 +48,8 @@
 14	tàːƙamaː	tàːƙamaː	NOUN	_	Gender=Fem	13	comp:aux	_	Gloss=XX
 15	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=XX
 16	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	Gloss=type.Masc.Cons
-17	abuːbuwàn	àbù	NOUN	_	Definite=Cons|Number=Plur	16	mod	_	Gloss=XX
-18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=XX
+17	abuːbuwàn	àbù	NOUN	_	Definite=Def|Number=Plur	16	mod	_	Gloss=thing.Plur.Det
+18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
 19	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	18	comp:obj	_	Gloss=XX
 20	yi	yi	VERB	_	_	19	comp:aux	_	Gloss=do
 21	danganèː	danganèː	NOUN	_	ExtPos=SCONJ|Gender=Masc	20	mod	_	Gloss=XX|Idiom=Yes
@@ -259,8 +259,8 @@
 # sent_id = 05_Gurfanarwa_da_lauya__10-12
 # text = Wannàn lâifîn dà akèː zàrgin Chief G.F. dà shiː, ìn ji lauyàn naːsà, yaː shàːfi wata takàr̃daː cèː waddà shiː Chief G.F. ya r̃ubùːtaː à cikin wata mùjallàː ta màːsu r̃aꞌàyin canjìː à cikin watàn Maːyù.
 1	Wannàn	wannàn	DET	_	Gender=Masc|PronType=Dem	2	det	_	Gloss=XX
-2	lâifîn	lâifiː	NOUN	_	Definite=Cons|Gender=Masc	16	subj	_	Gloss=XX
-3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=XX
+2	lâifîn	lâifiː	NOUN	_	Definite=Def|Gender=Masc	16	subj	_	Gloss=Masc.Def
+3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 4	akèː	nàː	AUX	_	Aspect=Prog|Person=4	3	comp:obj	_	Gloss=XX
 5	zàrgin	zarg-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:aux	_	Gloss=XX
 6	Chief	Chief	PROPN	_	_	7	mod@desc	_	Gloss=Chief
@@ -387,8 +387,8 @@
 14	sìttin	sìttin	NUM	_	_	11	conj:coord	_	Gloss=XX
 15	dà	dà	CCONJ	_	_	16	cc	_	Gloss=XX
 16	tar̃à	tar̃à	NUM	_	_	14	conj:coord	_	Gloss=nine
-17	loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	2	mod	_	Gloss=XX
-18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=XX
+17	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	2	mod	_	Gloss=Masc.Def
+18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
 19	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	18	comp:obj	_	Gloss=XX
 20	kaːrè	kaːr-	VERB	_	_	19	comp:aux	_	Gloss=XX
 21	wani	wani	DET	_	Definite=Spec|Gender=Masc	22	det	_	Gloss=some.Masc.Spec
@@ -536,8 +536,8 @@
 8	Yuːnì	Yuːnì	PROPN	_	_	7	mod	_	Gloss=Yuːnì|SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 10	wàːtòː	wàːtòː	PART	_	_	11	discourse	_	Gloss=that_is
-11	loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	2	mod	_	Gloss=XX
-12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=XX
+11	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	2	mod	_	Gloss=Masc.Def
+12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 13	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	12	comp:obj	_	Gloss=XX
 14	cikin	cikin	ADP	_	_	13	comp:pred	_	Gloss=XX
 15	shirìn	shiry-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:obj	_	Gloss=XX

@@ -120,8 +120,8 @@
 # sent_id = 11_Fela_Kuti__5
 # text = À loːkàcîn dà yakèː yîn wannàn aikìː neː ya dingà ƙòːƙarin zamaː makàɗiː, yanàː wàːƙe-wàːƙensà à kùlâb-kùlâb na bir̃nin Ìkko.
 1	À	à	ADP	_	_	9	mod	_	Gloss=XX
-2	loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	Gloss=XX
-3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=XX
+2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	1	comp:obj	_	Gloss=Masc.Def
+3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 4	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	3	comp:obj	_	Gloss=XX|wordform=yakề
 5	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:aux	_	Gloss=do
 6	wannàn	wannàn	DET	_	Gender=Masc|PronType=Dem	7	det	_	Gloss=XX
@@ -317,8 +317,8 @@
 9	ga	ganiː	VERB	_	_	8	comp:aux	_	Gloss=see
 10	cêːwaː	cêwaː	SCONJ	_	Gender=Fem	9	comp:obj	_	Gloss=XX|wordform=cêwaː
 11	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	10	comp:obj	_	Gloss=there_is.Neg
-12	àbîn	àbù	NOUN	_	Definite=Cons|Gender=Masc	11	subj	_	Gloss=XX
-13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=XX
+12	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	11	subj	_	Gloss=Masc.Def
+13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
 14	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	13	comp:obj	_	Gloss=XX
 15	fi	fi	VERB	_	_	14	comp:aux	_	Gloss=XX
 16	daːcèːwaː	daːc-	VERB	_	ExtPos=NOUN|Gender=Fem	15	comp:obj	_	Gloss=XX
@@ -517,8 +517,8 @@
 9	toːnà	toːnà	VERB	_	_	8	comp:obj	_	Gloss=XX
 10	àsir̃in	àsir̃iː	NOUN	_	Definite=Cons|Gender=Masc	9	comp:obj	_	Gloss=XX
 11	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	10	mod	_	Gloss=type.Masc.Cons
-12	matsaloːlîn	matsaloːliː	NOUN	_	Definite=Def	11	mod	_	Gloss=XX
-13	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=XX
+12	matsaloːlîn	matsaloːliː	NOUN	_	Definite=Def|Gender=Masc	11	mod	_	Gloss=Masc.Def
+13	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=COMP
 14-15	ƙasar̃sà	_	_	_	_	_	_	_	_
 14	ƙasar̃	ƙasaː	NOUN	_	Gender=Fem	17	subj	_	Gloss=country.Fem.Cons
 15	sà	sà	PRON	_	Gender=Masc	14	mod@poss	_	Gloss=3Masc.Cons
@@ -608,8 +608,8 @@
 26	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	24	comp:obj	_	Gloss=XX
 27	ƙànƙanèː	ƙànƙanèː	NOUN	_	Gender=Masc	26	mod	_	Gloss=XX
 28	sabòːdà	sabòːdà	ADP	_	_	23	mod	_	Gloss=XX
-29	raunukàn	raunukàː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	Gloss=XX
-30	dà	dà	SCONJ	_	_	29	mod@relcl	_	Gloss=XX
+29	raunukàn	ràuniː	NOUN	_	Definite=Def|Number=Plur	28	comp:obj	_	Gloss=wound.Plur.Def
+30	dà	dà	SCONJ	_	_	29	mod@relcl	_	Gloss=COMP
 31	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	30	comp:obj	_	Gloss=XX
 32	ji	ji	VERB	_	_	31	comp:aux	_	Gloss=XX|SpaceAfter=No
 33	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -734,8 +734,8 @@
 38	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	37	comp:obj	_	Gloss=XX
 39	ɓulloː	ɓull-	VERB	_	_	38	comp:aux	_	Gloss=XX
 40	wà	wà	ADP	_	Case=Dat	39	comp:obl	_	Gloss=XX
-41	matsaloːlîn	matsaloːlîː	NOUN	_	Definite=Cons|Gender=Masc	40	comp:obj	_	Gloss=XX
-42	dà	dà	SCONJ	_	_	41	comp:obl	_	Gloss=XX
+41	matsaloːlîn	matsaloːlîː	NOUN	_	Definite=Def|Gender=Masc	40	comp:obj	_	Gloss=Masc.Def
+42	dà	dà	SCONJ	_	_	41	comp:obl	_	Gloss=COMP
 43	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	44	subj	_	Gloss=XX
 44	kèː	nàː	AUX	_	Aspect=Prog	42	comp:obj	_	Gloss=XX
 45	fùskantàː	fùskantaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Person=3	44	comp:aux	_	Gloss=XX|SpaceAfter=No

@@ -128,7 +128,7 @@
 8	Ùmar̃ù	Ùmar̃ù	PROPN	_	_	7	comp:obj	_	Gloss=Ùmar̃ù
 9	Dikkò	Dikkò	PROPN	_	_	8	flat@name	_	Gloss=Dikkò
 10	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
-11	kai	kaːy-	VERB	_	_	10	comp:aux	_	Gloss=XX
+11	kai	kai	VERB	_	_	10	comp:aux	_	Gloss=reach/carry_to
 12	gà	gà	ADP	_	_	11	comp:obl	_	Gloss=XX
 13	wani	wani	DET	_	Definite=Spec|Gender=Masc	15	det	_	Gloss=some.Masc.Spec
 14	saːbon	saːboː	ADJ	_	Definite=Cons|Gender=Masc	15	mod	_	Gloss=XX
@@ -191,7 +191,7 @@
 42	,	,	PUNCT	_	_	43	punct	_	Gloss=PUNCT
 43	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	38	parataxis:conj	_	Gloss=XX
 44	shirin	shir-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	43	comp:aux	_	Gloss=XX
-45	kai	kaːy-	VERB	_	_	44	comp:obj	_	Gloss=XX
+45	kai	kai	VERB	_	_	44	comp:obj	_	Gloss=reach/carry_to
 46	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	45	comp:obj@T	_	Gloss=XX
 47	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	45	comp:obj@G	_	Gloss=Nigeria|SpaceAfter=No
 48	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -222,7 +222,7 @@
 21	wàːtòː	wàːtòː	PART	_	_	22	discourse	_	Gloss=that_is
 22	indà	indà	ADV	_	_	10	conj:dicto	_	Gloss=XX
 23	zaːà	zâi	AUX	_	Mood=Sub|Person=4	22	mod@relcl	_	Gloss=XX|wordform=à
-24	kai	kaːy-	VERB	_	_	23	comp:aux	_	Gloss=XX
+24	kai	kai	VERB	_	_	23	comp:aux	_	Gloss=reach/carry_to
 25	shì	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	24	comp:obj	_	Gloss=XX
 26	kèːnan	kèːnan	PART	_	_	22	discourse@foc	_	Gloss=XX|SpaceAfter=No
 27	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -422,7 +422,7 @@
 44	.	.	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko__14
-# text = tôː à duk loːkàcin zamansà à nân Bìr̃taːniyà dai, Ùːmar̃ù Dikkò yaː shaː naːnàːtà cêwaː shiː bài sàːci kuɗiː nair̃àː miliyàn bìlaː adàdin ba ta hanyàr̃ gàdàː-gadar̃ shìnkaːfaː dà kuma duk sauran laifuffukàn dà akèː zàrgin yaː aikàtaː.
+# text = tôː à duk loːkàcin zamansà à nân Bìr̃taːniyà dai, Ùːmar̃ù Dikkò yaː shaː naːnàːtà cêːwaː shiː bài sàːci kuɗiː nair̃àː miliyàn bìlaː adàdin ba ta hanyàr̃ gàdàː-gadar̃ shìnkaːfaː dà kuma duk sauran laifuffukàn dà akèː zàrgin yaː aikàtaː.
 # text_ortho = Tôː à duk loːkàcin zamansà à nân Bìr̃taːniyà dai, Ùːmar̃ù Dikkò yaː shaː naːnàːtà cêwaː shiː bài sàːci kuɗiː nair̃àː miliyàn bìlaː adàdin ba ta hanyàr̃ gàdàː-gadar̃ shìnkaːfaː dà kuma duk sauran laifuffukàn dà akèː zàrgin yaː aikàtaː.
 1	tôː	tôː	INTJ	_	_	14	discourse	_	Gloss=XX
 2	à	à	ADP	_	_	14	mod	_	Gloss=at
@@ -458,8 +458,8 @@
 32	kuma	kuma	PART	_	_	31	discourse@top	_	Gloss=too
 33	duk	dukà	DET	_	_	34	det	_	Gloss=XX
 34	sauran	sauraː	NOUN	_	_	17	conj:coord	_	Gloss=XX
-35	laifuffukàn	laifuffukàː	NOUN	_	Definite=Cons|Gender=Masc	34	mod	_	Gloss=XX
-36	dà	dà	SCONJ	_	_	35	mod@relcl	_	Gloss=XX
+35	laifuffukàn	lâifiː	NOUN	_	Definite=Def|Number=Plur	34	mod	_	Gloss=fault.Plur.Def
+36	dà	dà	SCONJ	_	_	35	mod@relcl	_	Gloss=COMP
 37	akèː	nàː	AUX	_	Aspect=Prog|Person=4	36	comp:obj	_	Gloss=XX
 38	zàrgin	zàrgiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	37	comp:aux	_	Gloss=XX
 39	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	38	comp:obj	_	Gloss=XX
@@ -497,7 +497,7 @@
 26	haɗàr̃iː	haɗàr̃iː	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=XX
 27	ìdan	ìdan	SCONJ	_	_	21	mod	_	Gloss=if
 28	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	27	comp:obj	_	Gloss=XX
-29	koːmàː	koːm-	VERB	_	_	28	comp:aux	_	Gloss=XX
+29	koːmàː	koːm-	VERB	_	_	28	comp:aux	_	Gloss=go_(back)_to
 30	gidaː	gidaː	NOUN	_	Gender=Masc	29	comp:obj@G	_	Gloss=XX
 31	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	30	mod	_	Gloss=Nigeria|SpaceAfter=No
 32	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -507,10 +507,10 @@
 # text_ortho = À wàncan loːkàcîn dà ya kai ƙaːrar̃ neːman à baː shì mafakaː à nân Bìr̃tàniyà, Ùːmar̃ù Dikkò cêwaː ya yi, ‘In dàː zân koːmàː Nàjeːr̃iyàː, jàmaꞌàː zaː à taːràː sù yi kallon loːkàcîn dà zaː à sâː soːjà sù bindìgeː ni.’
 1	à	à	ADP	_	_	19	mod	_	Gloss=at
 2	wàncan	wàncan	DET	_	Gender=Masc|PronType=Dem	3	det	_	Gloss=XX
-3	loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	Gloss=XX
-4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=XX
+3	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	1	comp:obj	_	Gloss=Masc.Def
+4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	comp:obj	_	Gloss=XX
-6	kai	kai	VERB	_	_	5	comp:aux	_	Gloss=XX
+6	kai	kai	VERB	_	_	5	comp:aux	_	Gloss=reach/carry_to
 7	ƙaːrar̃	ƙaːraː	NOUN	_	Definite=Cons|Gender=Fem	6	mod	_	Gloss=XX
 8	neːman	neːm-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	mod	_	Gloss=XX
 9	à	yà	AUX	_	Mood=Sub|Person=4	8	comp:obj	_	Gloss=XX
@@ -531,7 +531,7 @@
 24	in	in	SCONJ	_	_	30	mod	_	Gloss=XX
 25	dàː	dàː	SCONJ	_	_	24	unk	_	Gloss=XX
 26	zân	zâi	AUX	_	Number=Sing|Person=1|Tense=Fut	24	comp:obj	_	Gloss=XX
-27	koːmàː	koːm-	VERB	_	_	26	comp:aux	_	Gloss=XX
+27	koːmàː	koːm-	VERB	_	_	26	comp:aux	_	Gloss=go_(back)_to
 28	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	27	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 29	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 30	jàmaꞌàː	jàmaꞌàː	NOUN	_	Gender=Fem	19	comp:obj	_	Gloss=XX
@@ -540,8 +540,8 @@
 33	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3|PronType=Prs	32	comp:obj	_	Gloss=XX
 34	yi	yi	VERB	_	_	33	comp:aux	_	Gloss=do
 35	kallon	kalloː	ADJ	_	Definite=Cons|Gender=Masc	34	comp:pred	_	Gloss=XX
-36	loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	35	mod	_	Gloss=XX
-37	dà	dà	SCONJ	_	_	36	mod@relcl	_	Gloss=XX
+36	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	35	mod	_	Gloss=Masc.Def
+37	dà	dà	SCONJ	_	_	36	mod@relcl	_	Gloss=COMP
 38	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	37	comp:obj	_	Gloss=XX
 39	sâː	sâː	VERB	_	_	38	comp:aux	_	Gloss=XX
 40	soːjà	soːjà	NOUN	_	_	41	subj	_	Gloss=XX
@@ -614,7 +614,7 @@
 25	cêːwaː	cêwaː	SCONJ	_	ExtPos=NOUN|Gender=Fem	24	comp:obj	_	Gloss=XX|wordform=cêwaː
 26	ìdan	ìdan	SCONJ	_	_	30	mod	_	Gloss=if
 27	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	26	comp:obj	_	Gloss=XX
-28	koːmàː	koːm-	VERB	_	_	27	comp:aux	_	Gloss=XX
+28	koːmàː	koːm-	VERB	_	_	27	comp:aux	_	Gloss=go_(back)_to
 29	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	28	comp:obj@G	_	Gloss=Nigeria
 30	kashèː	kas-	AUX	_	_	25	comp:obj	_	Gloss=XX
 31	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	30	comp:obj	_	Gloss=XX
