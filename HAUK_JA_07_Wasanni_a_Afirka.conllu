@@ -13,22 +13,23 @@
 2	yâu	yâu	ADV	_	_	1	comp:obj	_	_
 3	zaːmù	zâi	AUX	_	Number=Plur|Person=1|Tense=Fut	0	root	_	_
 4	soːmà	soːm-	VERB	_	_	3	comp:aux	_	_
-5	shirìnmù	shirìː	NOUN	_	Case=Gen|Number=Plur|Person=3	4	comp:obj	_	_
-6	dà	dà	CCONJ	_	_	4	comp:obl	_	_
-7	làːbaːr̃ìn	làːbaːr̃ìː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	_
-8	rìkicîn	rìkiciː	NOUN	_	Definite=Def|Gender=Masc	7	mod	_	_
-9	dà	dà	SCONJ	_	_	8	mod@relcl	_	_
-10	akèː	nàː	AUX	_	Aspect=Prog|Person=4	9	comp:obj	_	_
-11	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:aux	_	Gloss=do
-12	can	can	ADV	_	PronType=Dem	11	mod	_	_
-13	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	12	mod	_	Gloss=Nigeria
-14	gàme	gam-	VERB	_	ExtPos=ADP|VerbForm=Stat	11	comp:obl	_	Gloss=together|Idiom=Yes
-15	dà	dà	ADP	_	_	14	compound	_	InIdiom=Yes
-16	gudàːnar̃	gudàːnaː	VERB	_	Definite=Cons|Gender=Fem	14	comp:obj	_	wordform=gudàːnar
-17	dà	dà	ADP	_	_	16	comp:obl	_	_
-18	wàːsan	wàːsan	DET	_	Gender=Masc|PronType=Dem	17	comp:obj	_	_
-19	dambe	dambe	DET	_	Gender=Masc	18	mod	_	SpaceAfter=No
-20	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
+5	shirìn	shir-	NOUN	_	_	4	comp:obj	_	Gloss=prepare.Vnoun.Masc.Cons|SpaceAfter=No
+6	mù	mù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	mod@poss	_	Gloss=1Plur.Gen
+7	dà	dà	CCONJ	_	_	4	comp:obl	_	_
+8	làːbaːr̃ìn	làːbaːr̃ìː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	_
+9	rìkicîn	rìkiciː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	_
+10	dà	dà	SCONJ	_	_	9	mod@relcl	_	_
+11	akèː	nàː	AUX	_	Aspect=Prog|Person=4	10	comp:obj	_	_
+12	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:aux	_	Gloss=do
+13	can	can	ADV	_	PronType=Dem	12	mod	_	_
+14	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	13	mod	_	Gloss=Nigeria
+15	gàme	gam-	VERB	_	ExtPos=ADP|VerbForm=Stat	12	comp:obl	_	Gloss=together|Idiom=Yes
+16	dà	dà	ADP	_	_	15	compound	_	InIdiom=Yes
+17	gudàːnar̃	gudàːnaː	VERB	_	Definite=Cons|Gender=Fem	15	comp:obj	_	wordform=gudàːnar
+18	dà	dà	ADP	_	_	17	comp:obl	_	_
+19	wàːsan	wàːsan	DET	_	Gender=Masc|PronType=Dem	18	comp:obj	_	_
+20	dambe	dambe	DET	_	Gender=Masc	19	mod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka__3
 # text = rìkicîn yaː taːsoː nèː gàme dà koː ɗan dambên nan mài suːnaː " Joe Lasisi ", wandà kuma shiː nèː zàkaràn ajìn maràsaː nauyiː na Nàːjeːr̃iyàː dà kuma Afir̃kà bàːkiː ɗaya, zâi shìga gàːsâr̃ nan waddà ƙungìyar̃ dambe ta duːniyàː ta shiryàː don neːmoː wani wandà zâi ɗàuki kambin duːniyàː na ajìn maràsaː nauyiː.
@@ -437,19 +438,20 @@
 # sent_id = 07_Wasanni_a_Afirka__12
 # text = tòː shiː maː Lasisi kânsà yanàː sôn à barìː yà yi wàːsân.
 # text_ortho = Tòː shiː maː Lasisi kânsà yanàː sôn à barìː yà yi waːsân.
-1	 tòː	 tòː	INTJ	_	_	6	discourse	_	_
-2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	dislocated@subj	_	_
+1	 tòː	 tòː	INTJ	_	_	7	discourse	_	_
+2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	dislocated@subj	_	_
 3	maː	maː	PART	_	_	2	discourse@top	_	_
 4	Lasisi	Lasisi	PROPN	_	_	2	conj:appos	_	Gloss=Lasisi
-5	kânsà	kânsà	PRON	_	Gender=Masc|Person=3|PronType=Prs|Reflex=Yes	4	mod	_	Gloss=3Masc.Reflex
-6	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	_
-7	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	_
-8	à	yà	AUX	_	Mood=Sub|Person=4	7	comp:obj	_	_
-9	barìː	bar-	VERB	_	_	8	comp:aux	_	_
-10	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	8	parataxis@mod	_	_
-11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
-12	wàːsân	wàːsaː	NOUN	_	Definite=Def	11	comp:pred	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
+5	kân	kânsà	PRON	_	Gender=Masc|Person=3|PronType=Prs|Reflex=Yes	4	mod	_	Gloss=3Masc.Reflex|SpaceAfter=No|wordform=kânsà
+6	sà	sà	PRON	_	_	5	mod@poss	_	Gloss=3Masc.Gen
+7	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	_
+8	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:aux	_	_
+9	à	yà	AUX	_	Mood=Sub|Person=4	8	comp:obj	_	_
+10	barìː	bar-	VERB	_	_	9	comp:aux	_	_
+11	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	9	parataxis@mod	_	_
+12	yi	yi	VERB	_	_	11	comp:aux	_	Gloss=do
+13	wàːsân	wàːsaː	NOUN	_	Definite=Def	12	comp:pred	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka__13
 # text = tòː yànzu kuma gàː wasu dàgà sàːkàmakon wàːsànnîn dà akà yi na gàːsar̃ ƙwallon ƙafàː don cîn koːfìn ƙasàːshen Afır̃kà.
