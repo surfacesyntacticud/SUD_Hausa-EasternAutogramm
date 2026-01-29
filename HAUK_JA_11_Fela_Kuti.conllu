@@ -283,7 +283,7 @@
 11	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=use.Masc
 12	dà	dà	ADP	_	_	11	comp:obl	_	Gloss=XX
 13	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	8	conj:coord	_	Gloss=XX
-14	fìye	fìye	VERB	_	ExtPos=ADV|VerbForm=Stat	10	mod	_	Gloss=XX
+14	fìye	fi	VERB	_	ExtPos=ADV|VerbForm=Stat	10	mod	_	Gloss=exceed.Stat
 15	dà	dà	ADP	_	_	16	cc	_	Gloss=XX
 16	bàdùːjalaː	bàdùːja	NOUN	_	Number=Plur	13	conj:coord	_	Gloss=XX
 17	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -590,12 +590,12 @@
 4	sà	sà	NOUN	_	Gender=Masc	3	mod@poss	_	Gloss=3Masc.Gen
 5	mài	mài	PART	_	Gender=Masc|Number=Sing|PartType=Der	3	mod	_	Gloss=possessor_of.Sing
 6	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	5	comp:obj	_	Gloss=XX
-7	fìye	fìye	NUM	_	ExtPos=ADV|VerbForm=Stat	6	mod	_	Gloss=XX
-8	dà	dà	CCONJ	_	_	9	cc	_	Gloss=XX
-9	sàbà'in	sàbà'in	NUM	_	_	10	comp:obj	_	Gloss=seventy
-10	à	à	ADP	_	_	2	mod	_	Gloss=at
+7	fìye	fi	VERB	_	ExtPos=ADV|VerbForm=Stat	6	mod	_	Gloss=exceed.Stat
+8	dà	dà	CCONJ	_	_	7	comp:obl	_	Gloss=XX
+9	sàbà'in	sàbà'in	NUM	_	_	8	comp:obj	_	Gloss=seventy
+10	à	à	ADP	_	_	6	mod	_	Gloss=at
 11	duːniyàː	duːniyàː	NOUN	_	_	10	comp:obj	_	Gloss=XX
-12	à	yà	ADP	_	_	10	conj:dicto	_	Gloss=at
+12	à	yà	ADP	_	_	2	mod	_	Gloss=at
 13	loːkàcîn	loːkàciː	NOUN	_	Definite=PrevRef|Gender=Masc	12	comp:obj	_	Gloss=time.Masc.PrevRef|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 15	akà	nàː	AUX	_	Aspect=Prog|Person=4	1	parataxis@conj	_	Gloss=XX
