@@ -41,12 +41,12 @@
 25	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	24	dislocated@comp	_	Gloss=XX
 26	ta	ta	ADP	_	Gender=Fem|Person=3	25	mod	_	Gloss=XX
 27	farkoː	farkoː	NOUN	_	Gender=Masc	26	comp:obj	_	Gloss=XX
-28	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=XX
+28	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=COMP
 29	ta	ta	AUX	_	Case=Gen|Gender=Fem	28	comp:obj	_	Gloss=XX
 30	nuːnà	nuːn-	VERB	_	_	29	comp:obj	_	Gloss=XX
 31	cêːwaː	cêːwaː	SCONJ	_	ExtPos=NOUN|Gender=Fem	30	comp:obj	_	Gloss=XX
 32	'yan	ɗan	NOUN	_	Definite=Cons|Number=Plur	36	subj	_	Gloss=XX
-33	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	32	mod	_	Gloss=XX
+33	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	32	mod	_	Gloss=house.Masc.Cons
 34	sàrautàr̃	sàrautàː	NOUN	_	Definite=Cons|Gender=Fem	32	mod	_	Gloss=XX
 35	Bìrtaːniyàː	Bìrtaːniyàː	PROPN	_	_	34	mod	_	Gloss=Bìrtaːniyàː
 36	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	31	comp:obj	_	Gloss=XX
@@ -59,9 +59,9 @@
 # text_ortho = Yâːraː ƙanaːnàː dà kèː kân gadoːjiː na bir̃nin Ìkko sunàː tàllàn tarkòn ɓeːr̃aː, da kamfàːyeː, dà agoːgunàn ‘Rolex’ na jàbu à tsàːkaːnin cùnkoːson moːtoːci, duk sun daːkatar̃ dà tàllàce-tàllàcensù dòːmin sù yi kallon hàdàː-hadâr̃ da takèː àukuwaː à bàːkin tèːkûn.
 1	yâːraː	yaːròː	NOUN	_	Number=Plur	10	subj	_	Gloss=XX
 2	ƙanaːnàː	ƙanaːnàː	ADJ	_	Number=Plur	1	mod	_	Gloss=XX
-3	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=XX
+3	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 4	kèː	keː	AUX	_	Aspect=Prog|Relative=Yes	3	comp:obj	_	Gloss=XX
-5	kân	kân	ADP	_	_	4	comp:pred	_	Gloss=XX
+5	kân	kân	ADP	_	_	4	comp:pred	_	Gloss=on
 6	gadoːjiː	gadoːjiː	NOUN	_	Number=Plur	5	comp:obj	_	Gloss=XX
 7	na	na	ADP	_	_	6	mod	_	Gloss=XX
 8	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=XX
@@ -118,9 +118,9 @@
 8	nèː	neː	PART	_	_	7	discourse@foc	_	Gloss=XX
 9	à	à	ADP	_	_	7	comp:obl	_	Gloss=at
 10	tsoːhon	tsoːhoː	ADJ	_	Definite=Cons|Gender=Masc	11	mod	_	Gloss=XX
-11	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	9	comp:obj	_	Gloss=XX
+11	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	9	comp:obj	_	Gloss=house.Masc.Cons
 12	gwamnatì	gwamnatì	NOUN	_	Gender=Fem	11	mod	_	Gloss=government.Fem
-13	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=XX
+13	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 14	kèː	nèːː	AUX	_	Aspect=Prog	13	comp:obj	_	Gloss=XX
 15	Ìkko	Ìkko	PROPN	_	_	14	comp:pred	_	Gloss=Lagos|SpaceAfter=No
 16	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
@@ -129,7 +129,7 @@
 19	dâː	dâː	ADV	_	_	18	comp:obj	_	Gloss=XX
 20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	21	comp:pred	_	Gloss=XX
 21	nèː	neː	AUX	_	Gender=Masc|Number=Plur	11	mod@relcl	_	Gloss=XX
-22	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	21	dislocated@comp	_	Gloss=XX
+22	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	21	dislocated@comp	_	Gloss=house.Masc.Cons
 23	gwamnà	gwamnà	NOUN	_	_	22	mod	_	Gloss=XX
 24	à	à	ADP	_	_	22	mod	_	Gloss=at
 25	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	24	comp:obj	_	Gloss=time.Masc.Cons
@@ -141,7 +141,7 @@
 # sent_id = 02_Yarima_Charles__5
 # text = gidân nàː gab dà bàːkin tèːku kuma har̃ yànzu yanàː dà ban shàꞌawàː dà haskàkâːwaː duk dà gyàːre-gyàːren zaːmàniː dà akà yi masà loːkàcîn dà Nàːjeːr̃iyàː takèː cìke dà ar̃zìkin mân feːtùr̃.
 # text_ortho = Gidân nàː gab dà bàːkin tèːku kuma har̃ yànzu yanàː dà ban shàꞌawàː da haskàkâːwaː duk dà gyàːre-gyàːren zaːmàniː dà akà yi masà loːkàcîn dà Nàːjeːr̃iyàː takèː cìke dà ar̃zìkin mân feːtùr̃.
-1	gidân	gidaː	NOUN	_	Definite=Def	2	subj	_	Gloss=XX
+1	gidân	gidaː	NOUN	_	Definite=PrevRef	2	subj	_	Gloss=house.Masc.PrevRef
 2	nàː	neː	AUX	_	_	0	root	_	Gloss=XX
 3	gab	gab	ADP	_	ExtPos=ADP	2	comp:pred	_	Gloss=XX|Idiom=Yes
 4	dà	dà	ADP	_	_	3	comp:obj	_	Gloss=XX|InIdiom=Yes
@@ -160,7 +160,7 @@
 17	dà	dà	CCONJ	_	_	16	compound	_	Gloss=XX
 18	gyàːre-gyàːren	gyaːraː	NOUN	_	Definite=Cons|Number=Plur	16	comp:obj	_	Gloss=repair.Plur
 19	zaːmàniː	zaːmàniː	NOUN	_	Gender=Masc	18	mod	_	Gloss=period.Masc
-20	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=XX
+20	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=COMP
 21	akà	nàː	AUX	_	Aspect=Prog|Person=4	20	comp:obj	_	Gloss=XX
 22	yi	yi	VERB	_	_	21	comp:aux	_	Gloss=do
 23	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	22	comp:obl	_	Gloss=XX
@@ -176,7 +176,7 @@
 33	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__6
-# text = Tòː àmmaː bàː dukkàn abuːbuwàn jîn daːɗin ràːyuwaː dà kèː cikin gidân kèː aikìː kàmar̃ yaddà ya kàmaːtà ba.
+# text = tòː àmmaː bàː dukkàn abuːbuwàn jîn daːɗin ràːyuwaː dà kèː cikin gidân kèː aikìː kàmar̃ yaddà ya kàmaːtà ba.
 # text_ortho = Tòː àmmaː bàː dukkàn abuːbuwàn jîn daːɗin ràːyuwaː dà kèː cikin gidân kèː aikìː kàmar̃ yaddà ya kàmaːtà ba.
 1	tòː	tòː	INTJ	_	_	5	discourse	_	Gloss=XX
 2	àmmaː	àmmaː	CCONJ	_	_	5	discourse	_	Gloss=XX
@@ -186,10 +186,10 @@
 6	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	5	mod	_	Gloss=XX
 7	daːɗin	daːɗiː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	Gloss=XX
 8	ràːyuwaː	ràːyuwaː	NOUN	_	Gender=Fem	7	mod	_	Gloss=XX
-9	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=XX
+9	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
 10	kèː	keː	PART	_	Aspect=Prog	9	comp:obj	_	Gloss=XX
-11	cikin	cikin	ADP	_	_	10	comp:obl	_	Gloss=XX
-12	gidân	gidaː	NOUN	_	Definite=Def	11	comp:obj	_	Gloss=XX
+11	cikin	cikin	ADP	_	_	10	comp:obl	_	Gloss=inside
+12	gidân	gidaː	NOUN	_	Definite=PrevRef	11	comp:obj	_	Gloss=house.Masc.PrevRef
 13	kèː	nàː	AUX	_	Aspect=Prog	5	comp:cleft	_	Gloss=XX
 14	aikìː	aikìː	NOUN	_	Gender=Masc	13	comp:aux	_	Gloss=XX
 15	kàmar̃	kàmar̃	ADP	_	Definite=Cons|Gender=Fem	14	mod	_	Gloss=XX
@@ -217,7 +217,7 @@
 13	zìyaːr̃àː	zìyaːr̃àː	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=XX
 14	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	13	mod	_	Gloss=year.Plur
 15	biyu	biyu	NUM	_	_	14	mod:num	_	Gloss=XX
-16	dà	da	SCONJ	_	_	14	mod@relcl	_	Gloss=XX|wordform=da
+16	dà	da	SCONJ	_	_	14	mod@relcl	_	Gloss=COMP|wordform=da
 17	sukà	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	16	comp:obj	_	Gloss=XX
 18	wucèː	wucèː	VERB	_	_	17	comp:aux	_	Gloss=XX|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
@@ -266,7 +266,7 @@
 29	raːmà	raːmàː	VERB	_	_	28	comp:obj	_	Gloss=XX
 30	irin	irin	ADP	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=XX
 31	kar̃imcìn	kar̃imcìː	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=XX
-32	dà	dà	SCONJ	_	_	31	mod@relcl	_	Gloss=XX
+32	dà	dà	SCONJ	_	_	31	mod@relcl	_	Gloss=COMP
 33	ꞌyan	ɗan	NOUN	_	Definite=Cons|Number=Plur	35	subj	_	Gloss=XX
 34	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	33	compound	_	Gloss=Nigeria
 35	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	32	comp:obj	_	Gloss=XX
@@ -301,7 +301,7 @@
 # sent_id = 02_Yarima_Charles__10
 # text = baːyan wata yaːrinyàː taː miːƙàː wà Yàr̃iːmà fùrànnin mar̃àːba sai mânyan bàːƙiː sukà zar̃cèː zuwàː gidan Gwamnàn indà sukà ci àbincin raːna.
 # text_ortho = Baːyan wata yaːrinyàː taː miːƙàː wà Yàr̃iːmà fùrànnin mar̃àːba sai mânyan bàːƙiː sukà zar̃cèː zuwà̠ː gidan Gwamnàn indà sukà ci àbincin raːna.
-1	baːyan	baːyan	ADP	_	_	4	mod	_	Gloss=XX
+1	baːyan	baːyan	ADP	_	_	4	mod	_	Gloss=after
 2	wata	wani	DET	_	Definite=Spec|Gender=Masc	3	det	_	Gloss=some.Fem.Spec
 3	yaːrinyàː	yaːrinyàː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=XX
 4	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=XX
@@ -316,7 +316,7 @@
 13	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	4	parataxis@conj	_	Gloss=XX
 14	zar̃cèː	zar̃-	VERB	_	_	13	comp:aux	_	Gloss=XX
 15	zuwàː	zuwàː	ADP	_	_	14	comp:obl	_	Gloss=XX
-16	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	15	mod	_	Gloss=XX
+16	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	15	mod	_	Gloss=house.Masc.Cons
 17	Gwamnàn	Gwamnàn	PROPN	_	_	16	mod	_	Gloss=Gwamnàn
 18	indà	indà	ADV	_	PronType=Rel	20	mod@relcl	_	Gloss=where
 19	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	16	mod@relcl	_	Gloss=XX
@@ -373,7 +373,7 @@
 9	wata	wani	DET	_	Definite=Spec|Gender=Masc	11	det	_	Gloss=some.Fem.Spec
 10	shirgeːgìyar̃	shirgeːgèː	ADJ	_	Definite=Cons|Gender=Fem	11	mod	_	Gloss=XX
 11	tar̃waɗaː	tar̃waɗaː	NUM	_	_	8	comp:obj	_	Gloss=XX
-12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=XX
+12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 13	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Yes	12	comp:obj	_	Gloss=XX
 14	ci	ci	VERB	_	_	13	comp:aux	_	Gloss=XX|SpaceAfter=No
 15	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -417,7 +417,7 @@
 16	nèː	neː	AUX	_	Gender=Masc|Number=Plur	7	mod@relcl	_	Gloss=XX
 17	gandun	ganduː	NOUN	_	Definite=Cons|Gender=Masc	16	dislocated@comp	_	Gloss=XX
 18	daːjìn	daːjìː	NOUN	_	Definite=Cons|Gender=Masc	17	mod	_	Gloss=XX
-19	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=XX
+19	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
 20	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	19	comp:obj	_	Gloss=XX
 21	fi	fi	VERB	_	_	20	comp:aux	_	Gloss=XX
 22	koːwànneː	koːwànneː	PRON	_	Gender=Masc|PronType=Int	21	comp:obj	_	Gloss=XX
@@ -451,7 +451,7 @@
 9	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	10	subj	_	Gloss=XX
 10	kèː	nàː	AUX	_	Aspect=Prog	7	mod@relcl	_	Gloss=XX
 11	rētòː	rētòː	NOUN	_	Gender=Masc	10	comp:pred	_	Gloss=XX
-12	dàgà	dàgà	ADP	_	_	11	comp:obl	_	Gloss=XX
+12	dàgà	dàgà	ADP	_	_	11	comp:obl	_	Gloss=from
 13	samà	samà	ADV	_	Gender=Fem	12	comp:obj	_	Gloss=XX|SpaceAfter=No
 14	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
@@ -462,7 +462,7 @@
 2	àshìr̃in	àshìr̃in	NUM	_	_	1	mod:num	_	Gloss=XX
 3	dà	dà	CCONJ	_	_	4	cc	_	Gloss=XX
 4	bìyar̃	bìyar̃	NUM	_	_	2	conj:coord	_	Gloss=five
-5	cikin	cikin	ADP	_	_	1	mod	_	Gloss=XX
+5	cikin	cikin	ADP	_	_	1	mod	_	Gloss=inside
 6	ɗàriː	ɗàriː	NUM	_	Number=Plur	5	comp:obj	_	Gloss=hundred
 7	na	na	ADP	_	Definite=Cons	1	mod	_	Gloss=XX
 8	duk	duk	DET	_	_	9	det	_	Gloss=XX
@@ -513,7 +513,7 @@
 10	koː	koː	PART	_	ExtPos=ADV	12	mod	_	Gloss=XX|Idiom=Yes
 11	dàː	dàː	PART	_	_	10	unk	_	Gloss=XX|InIdiom=Yes
 12	gùdaː	gùdaː	NUM	_	_	9	comp:obj	_	Gloss=XX
-13	dàgà	dàgà	ADP	_	ExtPos=ADP	12	mod	_	Gloss=XX|Idiom=Yes
+13	dàgà	dàgà	ADP	_	ExtPos=ADP	12	mod	_	Gloss=from|Idiom=Yes
 14	cikin	cikiː	NOUN	_	_	13	comp:obj	_	Gloss=XX|InIdiom=Yes
 15	waɗànnân	wannàn	DET	_	Definite=Def|Deixis=Prox|Number=Plur|PronType=Dem	16	det	_	Gloss=Prox.Plur
 16	hàlìttuː	hàlìttuː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=XX
@@ -521,7 +521,7 @@
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 19	sabòːdà	sabòːdà	ADP	_	_	9	mod	_	Gloss=XX
 20	zùmūɗìn	zùmūɗìː	NOUN	_	Definite=Cons|Gender=Masc	19	comp:obj	_	Gloss=XX
-21	dà	dà	SCONJ	_	_	20	mod@relcl	_	Gloss=XX
+21	dà	dà	SCONJ	_	_	20	mod@relcl	_	Gloss=COMP
 22	jàːmìꞌan	jàːmì	NOUN	_	Definite=Cons|Number=Plur	25	subj	_	Gloss=XX
 23	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Masc	22	mod	_	Gloss=government.Masc.Cons
 24	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	23	mod	_	Gloss=Kàmàr̃u
@@ -546,13 +546,13 @@
 # sent_id = 02_Yarima_Charles__19
 # text = Dàgà bìsaːniː dai Yàr̃iːmàn yaː fitoː cikin alꞌamur̃àn rashìn jîn daːɗiː.
 # text_ortho = Dàgà bìsaːniː dai Yàr̃iːmàn yaː fitoː cikin alꞌamur̃àn rashìn jîn daːɗiː.
-1	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=XX
+1	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=from
 2	bìsaːniː	bìsaːniː	NOUN	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	comp:obj	_	Gloss=XX
 3	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyhow
 4	Yàr̃iːmàn	Yàr̃iːmàn	PROPN	_	_	5	subj	_	Gloss=Yàr̃iːmàn
 5	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 6	fitoː	fitoː	VERB	_	_	5	comp:aux	_	Gloss=XX
-7	cikin	cikin	ADP	_	_	6	comp:obl	_	Gloss=XX
+7	cikin	cikin	ADP	_	_	6	comp:obl	_	Gloss=inside
 8	alꞌamur̃àn	àlꞌamàr̃iː	NOUN	_	Definite=Cons|Number=Plur	7	comp:obj	_	Gloss=XX
 9	rashìn	rashìː	NOUN	_	Definite=Cons|Gender=Masc	8	mod	_	Gloss=XX
 10	jîn	ji	AUX	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	9	mod	_	Gloss=XX

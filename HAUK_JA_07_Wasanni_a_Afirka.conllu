@@ -265,11 +265,11 @@
 # text = ya ƙaːràː dà cêːwaː tun cikin maːkòn jiyà neː ya r̃ubùːtaː wà Lasisi wàsiːƙàː ya gayàː masà kadà yà kùskurà yà shìga wannàn gàːsaː.
 # text_ortho = Ya ƙaːràː dà cêːwaː tun cikin maːkòn jiyà neː ya r̃ubùːtaː wà Lasisi wàsiːƙàː ya gayàː masà kadà yà kùskurà yà shìga wannàn gàːsaː.
 1	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
-2	ƙaːràː	ƙaːràː	VERB	_	_	1	comp:aux	_	Gloss=XX
+2	ƙaːràː	ƙaːr-	VERB	_	_	1	comp:aux	_	Gloss=increase
 3	dà	dà	ADP	_	_	2	comp:obl	_	Gloss=XX
 4	cêːwaː	cêː	VERB	_	Gender=Fem	3	comp:obj	_	Gloss=XX
 5	tun	tun	SCONJ	_	_	10	mod	_	Gloss=XX
-6	cikin	cikin	ADP	_	_	5	comp:obj	_	Gloss=XX
+6	cikin	cikin	ADP	_	_	5	comp:obj	_	Gloss=inside
 7	maːkòn	maːkòː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	Gloss=XX
 8	jiyà	jiyà	ADV	_	_	7	mod	_	Gloss=XX
 9	neː	neː	PART	_	PartType=Foc	5	dislocated@foc	_	Gloss=XX
@@ -291,7 +291,7 @@
 25	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka__9
-# text = àmmaː kuma sakatar̃èn hùkuːmàr̃ dambe ta Nàːjeːr̃iyàː, wani mài suːnaː " Emmanuel Adeleye ", yaː fitoː à talàbijìn à bir̃nin Ìkko yanàː karyàtà shùːgàban hùkuːmàr̃, yanàː ròːƙon jàma'àː dà sù baː dà goːyon baːyaː gà Lasisi ìdan ya zoː yîn dambe.
+# text = àmmaː kuma sakatar̃èn hùkuːmàr̃ dambe ta Nàːjeːr̃iyàː, wani mài suːnaː " Emmanuel Adeleye ", yaː fitoː à talàbijìn à bir̃nin Ìkko yanàː ƙaryàtà shùːgàban hùkuːmàr̃, yanàː ròːƙon jàma'àː dà sù baː dà goːyon baːyaː gà Lasisi ìdan ya zoː yîn dambe.
 # text_ortho = Àmmaː kuma sakatar̃èn Hùkuːmàr̃ Dambe ta Nàːjeːr̃iyàː, wani mài suːnaː 'Emmanuel Adeleye', yaː fitoː à talàbijìn à bir̃nin ìkko yanàː karyàtà shùːgàban Hùkuːmàr̃, yanàː ròːƙon jàma'àː dà sù baː dà goːyon baːyaː gà Lasisi ìdan ya zoː yîn dambe.
 1	àmmaː	àmmaː	CCONJ	_	_	17	discourse	_	Gloss=XX
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=too
@@ -317,14 +317,14 @@
 22	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:obj	_	Gloss=XX
 23	Ìkko	Ìkko	PROPN	_	_	22	mod	_	Gloss=Ìkko
 24	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	17	parataxis@conj	_	Gloss=XX
-25	karyàtà	kar-	VERB	_	Gender=Fem	24	comp:aux	_	Gloss=XX
+25	ƙaryàtà	ƙaryat-	VERB	_	_	24	comp:aux	_	Gloss=contradict
 26	shùːgàban	shùːgàban	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	25	comp:obj	_	Gloss=XX
 27	hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Cons|Gender=Fem	26	mod	_	Gloss=XX|SpaceAfter=No
 28	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
 29	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	24	parataxis@conj	_	Gloss=XX
 30	ròːƙon	ròːƙoː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	29	comp:aux	_	Gloss=XX
 31	jàma'àː	jàma'àː	NOUN	_	Gender=Fem	30	comp:obj	_	Gloss=people.Fem
-32	dà	dà	SCONJ	_	_	30	comp:obl	_	Gloss=XX
+32	dà	dà	SCONJ	_	_	30	comp:obl	_	Gloss=COMP
 33	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	32	comp:obj	_	Gloss=XX
 34	baː	baː	VERB	_	_	33	comp:aux	_	Gloss=XX
 35	dà	dà	ADP	_	_	34	comp:obl	_	Gloss=XX
@@ -344,7 +344,7 @@
 # text_ortho = Sakatar̃èn ya ƙaːràː dà cêːwaː yîn wannàn dambe bài saːɓàː wà manufoːfin Gwamnatì ba, tun dà yakè àboːkin damben Lasisi bàː ɗan Afir̃kà ta Kudù ba nèː, kuma bàː à Afir̃kà ta Kudù zaː à yi dambên ba.
 1	sakatar̃èn	sakatar̃èː	NOUN	_	Definite=Def|Gender=Masc	2	subj	_	Gloss=XX
 2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
-3	ƙaːràː	ƙaːràː	VERB	_	_	2	comp:aux	_	Gloss=XX
+3	ƙaːràː	ƙaːr-	VERB	_	_	2	comp:aux	_	Gloss=increase
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=XX
 5	cêːwaː	cêː	VERB	_	Gender=Fem	4	comp:obj	_	Gloss=XX
 6	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	subj	_	Gloss=do
@@ -358,7 +358,7 @@
 14	ba	ba	PART	_	Polarity=Neg	10	mod	_	Gloss=XX|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	tun	tun	SCONJ	_	ExtPos=SCONJ	10	mod	_	Gloss=XX|Idiom=Yes
-17	dà	dà	SCONJ	_	_	16	compound	_	Gloss=XX|InIdiom=Yes
+17	dà	dà	SCONJ	_	_	16	compound	_	Gloss=COMP|InIdiom=Yes
 18	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	17	compound	_	Gloss=XX|InIdiom=Yes
 19	àboːkin	àboːkiː	NOUN	_	Definite=Cons|Gender=Masc	28	subj	_	Gloss=XX
 20	damben	dambeː	NOUN	_	Definite=Cons|Gender=Masc	19	mod	_	Gloss=XX
@@ -427,7 +427,7 @@
 39	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem	38	comp:aux	_	Gloss=XX
 40	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	39	comp:obj	_	Gloss=XX
 41	kàmaːtà	kàmaːtà	VERB	_	_	40	comp:aux	_	Gloss=XX
-42	à	yà	AUX	_	Mood=Sub|Person=4	40	subj	_	Gloss=XX
+42	à	yà	AUX	_	Mood=Sub|Person=4	41	comp:obj@agent	_	Gloss=XX
 43	bar̃	barìː	VERB	_	Definite=Cons|Gender=Fem	42	comp:aux	_	Gloss=XX
 44	Lasisi	Lasisi	PROPN	_	_	45	subj	_	Gloss=Lasisi
 45	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	43	comp:obj	_	Gloss=XX
@@ -460,10 +460,10 @@
 3	kuma	kuma	PART	_	_	2	discourse@top	_	Gloss=too
 4	gàː	gàː	PART	_	PartType=Pred	0	root	_	Gloss=XX
 5	wasu	wani	PRON	_	Definite=Spec|Gender=Masc|Number=Plur	4	subj	_	Gloss=some.Plur.Spec
-6	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=XX
+6	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=from
 7	sàːkàmakon	sàːkàmakoː	NOUN	_	Definite=Cons|Number=Plur	6	comp:obj	_	Gloss=XX
 8	wàːsànnîn	wàːsaː	NOUN	_	Definite=Def|Number=Plur|Person=3	7	mod	_	Gloss=game.Plur.Def
-9	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=XX
+9	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
 10	akà	nàː	AUX	_	Aspect=Prog|Person=4	9	comp:obj	_	Gloss=XX
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
 12	na	na	ADP	_	Case=Gen	7	mod	_	Gloss=XX
