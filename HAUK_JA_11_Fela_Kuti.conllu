@@ -129,9 +129,9 @@
 8	neː	neː	PART	_	Gender=Masc|Number=Plur	1	comp:obj	_	Gloss=XX
 9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 10	dingà	ding-	VERB	_	_	9	comp:aux	_	Gloss=XX
-11	ƙòːƙarin	ƙòːƙariː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	Gloss=XX
+11	ƙòːƙarin	ƙòːƙariː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	Gloss=effort.Masc.Cons
 12	zamaː	zama	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	mod	_	Gloss=become.Vnoun.Masc
-13	makàɗiː	makàɗiː	NOUN	_	_	12	comp:pred	_	Gloss=XX|SpaceAfter=No
+13	makàɗiː	makàɗiː	NOUN	_	_	12	comp:pred	_	Gloss=musician.Masc|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 15	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	9	parataxis@conj	_	Gloss=XX|wordform=yana
 16	wàːƙe-wàːƙen	waːƙàː	VERB	_	Definite=Cons|Number=Plur	15	comp:aux	_	Gloss=song.Plur.Cons|SpaceAfter=No|wordform=wàːƙe-wàːƙensà
@@ -144,69 +144,69 @@
 23	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 11_Fela_Kuti__6
-# text = Koː à loːkàcîn Fela yaː iyà kaɗà " piano " dà buːsà "saxophone", dàgà bìsaːniː kuma ya zama shùːgàban makàɗaː dà mawakansà.
+# text = Koː à loːkàcîn Fela yaː iyà kaɗà " piano " dà buːsà "saxophone", dàgà bìsaːniː kuma ya zama shùːgàban makàɗaː dà mawàːƙansà .
 1	Koː	koː	CCONJ	_	_	5	discourse	_	Gloss=XX
 2	à	à	ADP	_	_	5	mod	_	Gloss=at
-3	loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj	_	Gloss=XX
+3	loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj	_	Gloss=time.Masc.PrevRef
 4	Fela	Fela	PROPN	_	_	5	subj	_	Gloss=Fela
 5	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 6	iyà	iy-	VERB	_	_	5	comp:aux	_	Gloss=XX
-7	kaɗà	kaɗà	VERB	_	_	6	comp:obj	_	Gloss=XX
+7	kaɗà	kaɗ-	VERB	_	_	6	comp:obj	_	Gloss=beat
 8	"	"	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-9	piano	piano	NOUN	_	_	7	comp:obj	_	Gloss=XX
+9	piano	piano	NOUN	_	_	7	comp:obj	_	Gloss=piano
 10	"	"	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 11	dà	dà	CCONJ	_	_	12	cc	_	Gloss=XX
-12	buːsà	buːsà	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=XX
-13	"	"	PUNCT	_	_	12	punct	_	Gloss=PUNCT|SpaceAfter=No
-14	saxophone	saxophone	NOUN	_	Gender=Fem	12	mod	_	Gloss=XX|SpaceAfter=No
+12	buːsà	buːs-	NOUN	_	Gender=Fem	7	conj:coord	_	Gloss=blow
+13	"	"	PUNCT	_	_	14	punct	_	Gloss=PUNCT|SpaceAfter=No
+14	saxophone	saxophone	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=XX|SpaceAfter=No
 15	"	"	PUNCT	_	_	14	punct	_	Gloss=PUNCT|SpaceAfter=No
 16	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-17	dàgà	dàgà	ADP	_	_	7	mod	_	Gloss=XX
-18	bìsaːniː	bìsaːniː	NOUN	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	17	comp:obj	_	Gloss=XX
-19	kuma	kuma	PART	_	_	20	cc	_	Gloss=too
+17	dàgà	dàgà	ADP	_	_	20	mod	_	Gloss=XX
+18	bìsaːniː	bìsaːniː	ADV	_	_	17	comp:obj	_	Gloss=later
+19	kuma	kuma	PART	_	_	17	discourse@top	_	Gloss=too
 20	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	5	parataxis@conj	_	Gloss=XX
 21	zama	zama	VERB	_	_	20	comp:aux	_	Gloss=XX
-22	shùːgàban	shùːgàbaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	comp:pred	_	Gloss=XX
-23	makàɗaː	makàɗaː	NOUN	_	Number=Plur	22	mod	_	Gloss=XX
+22	shùːgàban	shùːgàbaː	VERB	_	Definite=Cons|Gender=Masc	21	comp:pred	_	Gloss=leader.Masc
+23	makàɗaː	makàɗiː	NOUN	_	Number=Plur	22	mod	_	Gloss=musician.Plur
 24	dà	dà	ADP	_	_	25	cc	_	Gloss=XX
-25	mawakan	mawakaː	NOUN	_	Gender=Fem	14	conj:coord	_	Gloss=XX|SpaceAfter=No|wordform=mawakansà
+25	mawàːƙan	mawàːƙiː	NOUN	_	Number=Plur	23	conj:coord	_	Gloss=singer.Plur|SpaceAfter=No|wordform=mawakansà
 26	sà	sà	PRON	_	_	25	mod@poss	_	Gloss=3Masc.Gen
 27	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 11_Fela_Kuti__7
-# text = Tò àmmaː irìn mabuːsâr̃ nan mài kàmaː dà algaitàː dà akèː kiràː "saxophone", ita cèː koːwaː ya fi dangàntà kàɗe-kàɗen Fela dà ita.
-1	Tò	tò	INTJ	_	_	18	discourse	_	Gloss=XX
-2	àmmaː	àmmaː	CCONJ	_	_	18	discourse	_	Gloss=XX
-3	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	18	subj	_	Gloss=type.Masc.Cons
+# text = Tòː àmmaː irìn mabuːsâr̃ nan mài kàmaː dà algaitàː dà akèː kiràː "saxophone", ita cèː koːwaː ya fi dangàntà kàɗe-kàɗen Fela dà ita.
+1	Tòː	tòː	INTJ	_	_	17	discourse	_	Gloss=XX
+2	àmmaː	àmmaː	CCONJ	_	_	17	discourse	_	Gloss=XX
+3	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	17	dislocated@top	_	Gloss=type.Masc.Cons
 4	mabuːsâr̃	mabuːsâː	NOUN	_	Gender=Fem	3	mod	_	Gloss=XX
 5	nan	nan	DET	_	Definite=Def|PronType=Dem	4	det	_	Gloss=XX
 6	mài	mài	ADP	_	Number=Sing	4	mod	_	Gloss=XX
-7	kàmaː	kàmaː	NOUN	_	_	11	comp:aux	_	Gloss=XX
+7	kàmaː	kàmaː	NOUN	_	_	6	comp:obj	_	Gloss=resemblance.Fem
 8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=XX
 9	algaitàː	algaitàː	NOUN	_	Gender=Fem	8	comp:obj	_	Gloss=XX
 10	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=XX
 11	akèː	nàː	AUX	_	Aspect=Prog|Person=4	10	comp:obj	_	Gloss=XX
 12	kiràː	kir-	VERB	_	ExtPos=NOUN|Gender=Masc	11	comp:aux	_	Gloss=XX
 13	"	"	PUNCT	_	_	14	punct	_	Gloss=PUNCT|SpaceAfter=No
-14	saxophone	saxophone	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=XX|SpaceAfter=No
+14	saxophone	saxophone	NOUN	_	Gender=Fem	12	comp:pred	_	Gloss=XX|SpaceAfter=No
 15	"	"	PUNCT	_	_	14	punct	_	Gloss=PUNCT|SpaceAfter=No
 16	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
-17	ita	ita	PRON	_	Gender=Fem|Person=3	18	comp:pred	_	Gloss=XX
-18	cèː	neː	AUX	_	Gender=Fem	0	root	_	Gloss=XX
+17	ita	ita	PRON	_	Gender=Fem|Person=3	0	root	_	Gloss=XX
+18	cèː	neː	AUX	_	Gender=Fem	17	discourse@foc	_	Gloss=XX
 19	koːwaː	koːwaː	PRON	_	PronType=Ind	20	subj	_	Gloss=XX
-20	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	18	comp:cleft	_	Gloss=XX
+20	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	17	comp:cleft	_	Gloss=XX
 21	fi	fi	VERB	_	_	20	comp:aux	_	Gloss=XX
-22	dangàntà	dangant-	VERB	_	_	21	comp:obj	_	Gloss=differentiate
-23	kàɗe-kàɗen	kàɗe-kàɗen	ADP	_	_	22	comp:obj	_	Gloss=XX
+22	dangàntà	dangant-	VERB	_	_	21	compound:svc	_	Gloss=differentiate
+23	kàɗe-kàɗen	kiɗìː	ADP	_	_	22	comp:obj	_	Gloss=music.Plur.Cons
 24	Fela	Fela	PROPN	_	_	23	comp:obj	_	Gloss=Fela
-25	dà	dà	ADP	_	_	24	cc	_	Gloss=XX
-26	ita	ita	PRON	_	Gender=Fem|Person=3	23	comp:obj	_	Gloss=XX|SpaceAfter=No
-27	.	.	PUNCT	_	_	18	punct	_	Gloss=PUNCT
+25	dà	dà	ADP	_	_	22	comp:obl	_	Gloss=XX
+26	ita	ita	PRON	_	Gender=Fem|Person=3	25	comp:obj	_	Gloss=XX|SpaceAfter=No
+27	.	.	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 
 # sent_id = 11_Fela_Kuti__8
 # text = Bàːra wàccan nèː shiː dà kânsà ya bayyànà yaddà ya faːrà àmfàːniː dà ita, indà ya cèː: " Dâː maː àkwai irin wannàn àlgaitàː à ƙar̃ƙashin gadoːnaː, wàccè ɗaya ɗàgà cikin makàɗaːnaː kèː buːsàːwaː. "
-1	Bàːra	bàar-	ADP	_	_	7	mod	_	Gloss=XX
-2	wàccan	wàccan	PRON	_	Gender=Fem|PronType=Dem	1	comp:obj	_	Gloss=XX
+1	Bàːra	bàːra	ADV	_	_	7	mod	_	Gloss=last_year
+2	wàccan	wàccan	DET	_	Gender=Fem|PronType=Dem	1	det	_	Gloss=XX
 3	nèː	neː	PART	_	_	1	discourse@foc	_	Gloss=XX
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	dislocated@subj	_	Gloss=XX
 5	dà	dà	ADP	_	_	4	cc@preconj	_	Gloss=XX
@@ -214,14 +214,14 @@
 7	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 8	bayyànà	bayy	VERB	_	_	7	comp:aux	_	Gloss=XX
 9	yaddà	yaddà	ADV	_	PronType=Rel	8	mod	_	Gloss=XX
-10	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	7	parataxis@conj	_	Gloss=XX
+10	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	9	comp:obj	_	Gloss=XX
 11	faːrà	faːràː	VERB	_	_	10	comp:aux	_	Gloss=XX
 12	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=XX
 13	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=XX
 14	ita	ita	PRON	_	Gender=Fem|Person=3	13	comp:obj	_	Gloss=XX|SpaceAfter=No
 15	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-16	indà	indà	SCONJ	_	_	12	conj:appos	_	Gloss=XX
-17	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	16	mod@relcl	_	Gloss=XX
+16	indà	indà	ADV	_	PronType=Rel	18	mod	_	Gloss=XX
+17	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	9	mod@relcl	_	Gloss=XX
 18	cèː	cêː	VERB	_	_	17	comp:aux	_	Gloss=XX|SpaceAfter=No
 19	:	:	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 20	"	"	PUNCT	_	_	23	punct	_	Gloss=PUNCT
@@ -231,19 +231,21 @@
 24	irin	irin	ADP	_	Definite=Cons|Gender=Masc	23	subj	_	Gloss=XX
 25	wannàn	wannàn	DET	_	PronType=Dem	26	det	_	Gloss=XX
 26	àlgaitàː	àlgaitàː	NOUN	_	Gender=Fem	24	mod	_	Gloss=XX
-27	à	à	ADP	_	_	12	mod	_	Gloss=at
-28	ƙar̃ƙashin	ƙar̃ƙashiː	NOUN	_	Definite=Cons|Number=Plur	27	comp:obj	_	Gloss=XX
-29	gadoːnaː	gadoːnaː	NOUN	_	Case=Gen|Number=Sing|Person=1	27	comp:obj	_	Gloss=XX|SpaceAfter=No
-30	,	,	PUNCT	_	_	36	punct	_	Gloss=PUNCT
-31	wàccè	wàccè	DET	_	Gender=Fem|PronType=Int	36	subj	_	Gloss=XX
-32	ɗaya	ɗaya	NUM	_	_	33	mod	_	Gloss=one
-33	ɗàgà	ɗàgà	NUM	_	_	36	comp:aux	_	Gloss=XX
-34	cikin	cikin	ADP	_	_	33	comp:obl	_	Gloss=XX
-35	makàɗaːnaː	makàɗaː	NOUN	_	Case=Gen|Number=Sing|Person=1	34	comp:obj	_	Gloss=XX
-36	kèː	nàː	AUX	_	Aspect=Prog	23	parataxis@conj	_	Gloss=XX
-37	buːsàːwaː	buːs-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	36	comp:aux	_	Gloss=XX|SpaceAfter=No
-38	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
-39	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+27	à	à	ADP	_	_	23	comp:pred	_	Gloss=at
+28	ƙar̃ƙashin	ƙar̃ƙashiː	ADP	_	_	27	comp:obj	_	Gloss=under
+29	gadoːnaː	gadoːnaː	NOUN	_	Case=Gen|Number=Sing|Person=1	28	comp:obj	_	Gloss=XX|SpaceAfter=No
+30	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
+31	wàccè	wàccè	PRON	_	Gender=Fem|PronType=Rel	38	comp:obj	_	Gloss=which.Fem
+32	ɗaya	ɗaya	NUM	_	_	37	subj	_	Gloss=one
+33	ɗàgà	ɗàgà	ADP	_	_	32	mod	_	Gloss=XX
+34	cikin	cikin	ADP	_	_	33	comp:obj	_	Gloss=XX
+35-36	makàɗaːnaː	_	_	_	_	_	_	_	_
+35	makàɗaː	makàɗiː	NOUN	_	Number=Plur	34	comp:obj	_	Gloss=musician.Plur
+36	naː	naː	PRON	_	Case=Gen|Number=Sing|Person=1	34	comp:obj	_	Gloss=1Sing.Gen
+37	kèː	nàː	AUX	_	Aspect=Prog	26	mod@relcl	_	Gloss=XX
+38	buːsàːwaː	buːs-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	37	comp:aux	_	Gloss=XX|SpaceAfter=No
+39	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+40	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 11_Fela_Kuti__9
 # text = " Rân nan sai na ɗàukeː tà na sâː à bàːkiː na faːrà buːsàːwaː. "
@@ -392,10 +394,10 @@
 16	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	15	comp:aux	_	Gloss=XX
 17	dà	dà	ADP	_	_	16	comp:obl	_	Gloss=XX
 18	salon	saloː	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	Gloss=XX
-19	kàɗe-kàɗe	kàɗe-kàɗe	ADV	_	_	18	mod	_	Gloss=XX
+19	kàɗe-kàɗe	kiɗìː	NOUN	_	_	18	mod	_	Gloss=music.Plur
 20	dà	dà	CCONJ	_	_	21	cc	_	Gloss=XX
-21	wàːƙe-wàːƙe	wàːƙe-wàːƙe	ADJ	_	_	19	conj:coord	_	Gloss=XX
-22	irìː-irìː	irìː-irìː	ADJ	_	Gender=Masc	21	mod	_	Gloss=XX|SpaceAfter=No
+21	wàːƙe-wàːƙe	waːƙàː	NOUN	_	_	19	conj:coord	_	Gloss=song.Plur
+22	irìː-irìː	irìː-irìː	ADJ	_	Gender=Masc	21	mod	_	Gloss=various|SpaceAfter=No
 23	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 11_Fela_Kuti__14-5
@@ -558,7 +560,7 @@
 15	magaryar̃	magaryaː	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=XX
 16	tiƙềwaː	ti-	VERB	_	ExtPos=NOUN|Gender=Fem	15	mod	_	Gloss=XX|SpaceAfter=No
 17	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-18	loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	0	root	_	Gloss=XX
+18	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	0	root	_	Gloss=time.Masc.Def
 19	daː	daː	SCONJ	_	_	20	mod@relcl	_	Gloss=XX
 20	soːjoːjin	soːjoːjiː	NOUN	_	Definite=Cons|Number=Plur	26	subj	_	Gloss=XX
 21	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Masc	20	mod	_	Gloss=government.Masc.Cons|wordform=gwamnatin
@@ -592,7 +594,7 @@
 10	à	à	ADP	_	_	2	mod	_	Gloss=at
 11	duːniyàː	duːniyàː	NOUN	_	_	10	comp:obj	_	Gloss=XX
 12	à	yà	ADP	_	_	10	conj:dicto	_	Gloss=at
-13	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	12	comp:obj	_	Gloss=XX|SpaceAfter=No
+13	loːkàcîn	loːkàciː	NOUN	_	Definite=PrevRef|Gender=Masc	12	comp:obj	_	Gloss=time.Masc.PrevRef|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 15	akà	nàː	AUX	_	Aspect=Prog|Person=4	1	parataxis@conj	_	Gloss=XX
 16	jefàː	jefàː	VERB	_	_	15	comp:aux	_	Gloss=XX
@@ -639,9 +641,9 @@
 7	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Masc	6	mod	_	Gloss=government.Masc.Cons|wordform=gwamnatin
 8	à	à	ADP	_	ExtPos=ADP	5	mod	_	Gloss=at
 9	cikin	cikin	ADP	_	_	8	comp:obj	_	Gloss=XX
-10	kàɗe-kàɗe	kàɗe-kàɗe	ADV	_	_	8	comp:obj	_	Gloss=XX
+10	kàɗe-kàɗe	kiɗìː	NOUN	_	Number=Plur	8	comp:obj	_	Gloss=music.Plur
 11	dà	dà	ADP	_	_	10	mod	_	Gloss=XX
-12	wàːƙe-wàːƙên	wàːƙe-wàːƙên	PRON	_	Gender=Masc|PronType=Dem	8	comp:obj	_	Gloss=XX
+12	wàːƙe-wàːƙên	waːƙàː	NOUN	_	Number=Plur	8	comp:obj	_	Gloss=song.Plur.Cons
 13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=XX
 14	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	13	comp:obj	_	Gloss=XX
 15	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:aux	_	Gloss=do|SpaceAfter=No
