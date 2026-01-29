@@ -27,7 +27,7 @@
 11	mài	mài	PART	_	Number=Sing|PartType=Der	8	mod	_	Gloss=possessor_of.Sing
 12	suːnaː	suːnaː	NOUN	_	_	11	comp:obj	_	Gloss=XX
 13	«	«	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-14	Britannia	Britannia	PROPN	_	_	12	udep	_	Gloss=Britannia
+14	Britannia	Britannia	PROPN	_	_	12	conj:appos	_	Gloss=Britannia
 15	»	»	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 16	à	à	ADP	_	_	7	mod	_	Gloss=at
 17	gaːɓàr̃	gaːɓàː	NOUN	_	Definite=Cons|Gender=Fem	16	comp:obj	_	Gloss=XX
@@ -326,7 +326,7 @@
 23	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__11a
-# text = tòː an dai ci àbinci irìː-irìː , màsu sâː bàːkiː miyau -
+# text = tòː an dai ci àbinci irìː-irìː, màsu sâː bàːkiː miyau -
 # text_ortho = Tòː an dai ci àbinci irìː-irìː, màsu sâː bàːkiː miyau - àkwai shìnkaːfaː, da waːkeː, dà sàlâk, da sauran kaːyan marmariː.
 1	tòː	tòː	INTJ	_	_	2	discourse	_	Gloss=XX
 2	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=XX
@@ -337,8 +337,8 @@
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 8	màsu	màsu	ADP	_	Number=Plur	5	mod	_	Gloss=XX
 9	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc	8	comp:obj	_	Gloss=XX
-10	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	9	comp:obj@R	_	Gloss=XX
-11	miyau	miyau	NOUN	_	Gender=Masc	9	comp:obj@T	_	Gloss=XX
+10	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	9	comp:obj@R	_	Gloss=mouth.Masc
+11	miyau	miyau	NOUN	_	Gender=Masc	9	comp:obj@T	_	Gloss=saliva.Masc
 12	-	-	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__11b
