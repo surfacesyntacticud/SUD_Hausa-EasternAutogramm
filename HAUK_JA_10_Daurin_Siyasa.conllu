@@ -352,11 +352,11 @@
 
 # sent_id = 10_Daurin_Siyasa__12
 # text = baːyan hakà kuma yaː ji wai waɗàndà akà ɗaurèː cikin shèːkàruː ukùn dà sukà shigèː sun wucè mùtûm dubuː, à ƙàrƙashin wannàn Dòːkaː ta Biyu.
-1	baːyan	baːyan	ADP	_	_	4	mod	_	Gloss=XX
+1	baːyan	baːyan	ADP	_	_	4	mod	_	Gloss=after
 2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=XX
 3	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=too
 4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
-5	ji	ji	VERB	_	_	4	comp:aux	_	Gloss=XX
+5	ji	ji	VERB	_	_	4	comp:aux	_	Gloss=hear
 6	wai	wai	SCONJ	_	_	5	comp:obj	_	Gloss=XX
 7	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	16	subj	_	Gloss=who.Plur
 8	akà	nàː	AUX	_	Aspect=Prog|Person=4	7	mod@relcl	_	Gloss=XX
@@ -366,7 +366,7 @@
 12	ukùn	ukùn	NUM	_	Definite=Cons|Gender=Masc	11	mod:num	_	Gloss=XX
 13	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=XX
 14	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	13	comp:obj	_	Gloss=XX
-15	shigèː	shig-	VERB	_	_	14	comp:aux	_	Gloss=XX
+15	shigèː	shig-	VERB	_	_	14	comp:aux	_	Gloss=enter
 16	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	6	comp:obj	_	Gloss=XX
 17	wucè	wt-	VERB	_	_	16	comp:aux	_	Gloss=XX
 18	mùtûm	mùtûm	NOUN	_	Gender=Masc	17	comp:obj	_	Gloss=XX
