@@ -308,11 +308,11 @@
 43	r̃oːbàː	r̃oːbàː	NOUN	_	Gender=Fem	42	comp:obj	_	Gloss=XX
 44	-	-	PUNCT	_	_	46	punct	_	Gloss=PUNCT
 45	wàːtòː	wàːtòː	PART	_	_	46	discourse	_	Gloss=that_is
-46	àbîn	àbù	NOUN	_	Definite=Cons|Gender=Masc	39	subj	_	Gloss=XX
+46	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	39	subj	_	Gloss=thing.Masc.Def
 47	nan	nan	DET	_	Definite=Def|PronType=Dem	46	det	_	Gloss=XX
 48	dà	dà	SCONJ	_	_	46	mod@relcl	_	Gloss=XX
 49	akèː	nàː	AUX	_	Aspect=Prog|Person=4	48	comp:obj	_	Gloss=XX|wordform=akề
-50	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	49	comp:aux	_	Gloss=XX
+50	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	49	comp:aux	_	Gloss=use.Masc
 51	dà	dà	ADP	_	_	50	comp:obl	_	Gloss=XX
 52	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	51	comp:obj	_	Gloss=XX
 53	don	don	SCONJ	_	_	33	mod	_	Gloss=XX
@@ -383,7 +383,7 @@
 13	cikìn	cikìː	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	Gloss=XX
 14	waɗàndà	waɗàndà	PRON	_	Number=Plur|PronType=Rel	16	comp:obj	_	Gloss=XX|wordform=wadandal
 15	kèː	nèːː	AUX	_	Aspect=Prog	13	mod@relcl	_	Gloss=XX
-16	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Part	15	comp:pred	_	Gloss=XX
+16	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Stat	15	comp:pred	_	Gloss=take.Stat
 17	dà	dà	CCONJ	_	_	16	comp:obl	_	Gloss=XX|wordform=da
 18	ƙwaːyoːyîn	ƙwaːyoːyiː	NOUN	_	Definite=Def|Gender=Masc	17	comp:obj	_	Gloss=XX|SpaceAfter=No
 19	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
@@ -413,7 +413,7 @@
 13	tàːre	tàːre	ADV	_	_	9	mod	_	Gloss=XX
 14	dà	dà	ADP	_	_	9	mod	_	Gloss=XX
 15	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:obj	_	Gloss=do
-16	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	15	udep	_	Gloss=XX
+16	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	15	udep	_	Gloss=use.Masc
 17	dà	dà	ADP	_	_	15	comp:obl	_	Gloss=XX|wordform=ɗà
 18	miyàr̃	miyàr̃	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=XX
 19	kuɓèːwaː	kuɓèːwaː	NOUN	_	Gender=Fem	18	mod	_	Gloss=XX|SpaceAfter=No
@@ -421,7 +421,7 @@
 21	wàccè	wàccè	PRON	_	Gender=Fem	22	subj	_	Gloss=XX
 22	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	9	parataxis@conj	_	Gloss=XX
 23	yi	yi	VERB	_	_	22	comp:aux	_	Gloss=do
-24	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	23	comp:pred	_	Gloss=XX
+24	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	23	comp:pred	_	Gloss=use.Masc
 25	dà	dà	ADP	_	_	23	comp:obl	_	Gloss=XX
 26	ita	ita	PRON	_	Gender=Fem|Person=3	25	comp:obj	_	Gloss=XX
 27	dòːmin	dòːmin	SCONJ	_	_	23	mod	_	Gloss=XX
@@ -544,7 +544,7 @@
 23	mài	mài	PART	_	Number=Sing|PartType=Der	22	mod	_	Gloss=possessor_of.Sing
 24	suːnaː	suːnaː	NOUN	_	_	23	comp:obj	_	Gloss=XX
 25	"	"	PUNCT	_	_	26	punct	_	Gloss=PUNCT
-26	Jennifer	Jennifer	PROPN	_	_	24	udep	_	Gloss=Jennifer
+26	Jennifer	Jennifer	PROPN	_	_	24	conj:appos	_	Gloss=Jennifer
 27	Madike	Madike	PROPN	_	_	26	flat@name	_	Gloss=Madike
 28	"	"	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 29	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	31	comp:obj	_	Gloss=XX
@@ -663,7 +663,7 @@
 26	hoːtunàː	hoːtunàː	NOUN	_	Number=Plur	21	conj:coord	_	Gloss=XX
 27	dà	dà	SCONJ	_	_	26	mod@relcl	_	Gloss=XX
 28	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	27	comp:obj	_	Gloss=XX
-29	ɗaukàː	ɗauk-	VERB	_	ExtPos=NOUN|Gender=Fem	28	comp:aux	_	Gloss=XX
+29	ɗaukàː	ɗauk-	VERB	_	ExtPos=NOUN|Gender=Fem	28	comp:aux	_	Gloss=take
 30	tàːre	tàːre	ADV	_	_	29	mod	_	Gloss=XX
 31	dà	dà	ADP	_	_	29	comp:obl	_	Gloss=XX
 32	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	31	comp:obj	_	Gloss=XX

@@ -216,7 +216,7 @@
 9	yaddà	yaddà	ADV	_	PronType=Rel	8	mod	_	Gloss=XX
 10	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	9	comp:obj	_	Gloss=XX
 11	faːrà	faːràː	VERB	_	_	10	comp:aux	_	Gloss=XX
-12	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=XX
+12	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=use.Masc
 13	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=XX
 14	ita	ita	PRON	_	Gender=Fem|Person=3	13	comp:obj	_	Gloss=XX|SpaceAfter=No
 15	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
@@ -256,14 +256,14 @@
 3	nan	nan	DET	_	PronType=Dem	2	det	_	Gloss=XX
 4	sai	sai	ADV	_	_	5	mod	_	Gloss=XX
 5	na	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=1	0	root	_	Gloss=XX
-6	ɗàukeː	ɗauk-	VERB	_	_	5	comp:aux	_	Gloss=XX
+6	ɗàukeː	ɗauk-	VERB	_	_	5	comp:aux	_	Gloss=take
 7	tà	ta	PRON	_	Case=Acc|Gender=Fem|Person=3|PronType=Prs	6	comp:obj	_	Gloss=XX
 8	na	yaː	AUX	_	Aspect=Perf|Number=Sing|Person=1	5	parataxis:conj	_	Gloss=XX
 9	sâː	sâː	VERB	_	_	8	comp:aux	_	Gloss=XX
 10	à	à	ADP	_	_	9	comp:obl	_	Gloss=at
 11	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=mouth.Masc
 12	na	yaː	AUX	_	Aspect=Perf|Number=Sing|Person=1	8	parataxis:conj	_	Gloss=XX
-13	faːrà	faːr-	VERB	_	_	12	comp:aux	_	Gloss=XX
+13	faːrà	faːr-	VERB	_	_	12	comp:aux	_	Gloss=begin
 14	buːsàːwaː	buːs-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	13	comp:obj	_	Gloss=XX|SpaceAfter=No
 15	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 16	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -271,7 +271,7 @@
 # sent_id = 11_Fela_Kuti__10a
 # text = " Àbin màːmaːkìː sai na ji maː naː fi iyà àmfàːniː dà ita fìye dà bàdùːjalaː . "
 1	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
-2	Àbin	àbiː	NOUN	_	Definite=Cons|Gender=Masc	5	dislocated@top	_	Gloss=XX
+2	Àbin	àbù	NOUN	_	Definite=Cons|Gender=Masc	5	dislocated@top	_	Gloss=thing.Masc
 3	màːmaːkìː	màːmaːkìː	NOUN	_	Gender=Masc	2	mod	_	Gloss=XX
 4	sai	sai	ADV	_	_	5	mod	_	Gloss=XX
 5	na	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=1	0	root	_	Gloss=XX
@@ -280,7 +280,7 @@
 8	naː	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=1	6	comp:obj	_	Gloss=XX
 9	fi	fi	VERB	_	_	8	comp:aux	_	Gloss=XX
 10	iyà	iy-	VERB	_	_	9	comp:obj	_	Gloss=XX
-11	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=XX
+11	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=use.Masc
 12	dà	dà	ADP	_	_	11	comp:obl	_	Gloss=XX
 13	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	8	conj:coord	_	Gloss=XX
 14	fìye	fìye	VERB	_	ExtPos=ADV|VerbForm=Stat	10	mod	_	Gloss=XX
@@ -302,7 +302,7 @@
 9	kòːyon	kòːyoː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:obj	_	Gloss=XX
 10	yaddà	yaddà	ADV	_	PronType=Rel	9	comp:obj	_	Gloss=XX
 11	akèː	nàː	AUX	_	Aspect=Prog|Person=4	10	mod@relcl	_	Gloss=XX
-12	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	11	comp:aux	_	Gloss=XX
+12	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	11	comp:aux	_	Gloss=use.Masc
 13	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=XX|wordform=ɗà
 14	saxaphone	saxaphone	NOUN	_	Case=Gen|Gender=Masc|Person=3	13	comp:obj	_	Gloss=XX|SpaceAfter=No
 15	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -393,7 +393,7 @@
 13	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 14	kuma	kuma	PART	_	_	15	cc	_	Gloss=too
 15	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	5	conj:coord	_	Gloss=XX|wordform=yana
-16	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	15	comp:aux	_	Gloss=XX
+16	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	15	comp:aux	_	Gloss=use.Masc
 17	dà	dà	ADP	_	_	16	comp:obl	_	Gloss=XX
 18	salon	saloː	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	Gloss=XX
 19	kàɗe-kàɗe	kiɗìː	NOUN	_	_	18	mod	_	Gloss=music.Plur
@@ -442,7 +442,7 @@
 36	,	,	PUNCT	_	_	38	punct	_	Gloss=PUNCT
 37	sànnan	sànnan	ADV	_	_	38	mod	_	Gloss=XX
 38	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	24	parataxis@conj	_	Gloss=XX
-39	faːrà	faːr-	VERB	_	_	38	comp:aux	_	Gloss=XX
+39	faːrà	faːr-	VERB	_	_	38	comp:aux	_	Gloss=begin
 40	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	39	comp:obj	_	Gloss=do
 41	fàyàːfàyai	fàyàːfàyai	NOUN	_	_	40	comp:pred	_	Gloss=XX
 42	irìː-irìː	irìː-irìː	ADJ	_	Gender=Masc	41	mod	_	Gloss=XX
@@ -473,7 +473,7 @@
 9	sha'ànin	sha'àniː	NOUN	_	Definite=Cons|Number=Plur	8	comp:obj	_	Gloss=XX
 10	sìyaːsàː	sìyaːsàː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=XX
 11	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=XX
-12	faːrà	faːr-	VERB	_	_	11	comp:aux	_	Gloss=XX
+12	faːrà	faːr-	VERB	_	_	11	comp:aux	_	Gloss=begin
 13	fitôːwaː	fit-	VERB	_	ExtPos=NOUN|Gender=Fem	12	comp:obj	_	Gloss=XX
 14	fiːliː	fiːliː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=XX|SpaceAfter=No
 15	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
@@ -556,7 +556,7 @@
 9	dà	dà	ADP	_	_	8	cc	_	Gloss=XX
 10	bakwài	bakwài	NUM	_	_	8	conj:coord	_	Gloss=seven
 11	neː	neː	PART	_	Gender=Masc	3	discourse@foc	_	Gloss=XX
-12	àbîn	àbî	NOUN	_	Definite=Cons|Gender=Masc	13	subj	_	Gloss=XX
+12	àbîn	àbî	NOUN	_	Definite=PrevRef|Gender=Masc	13	subj	_	Gloss=thing.Masc.PrevRef
 13	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	11	comp:cleft	_	Gloss=XX
 14	kai	kai	VERB	_	_	13	comp:aux	_	Gloss=reach/carry_to
 15	magaryar̃	magaryaː	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=XX
@@ -584,7 +584,7 @@
 # sent_id = 11_Fela_Kuti__20
 # text = Akà ɗàuki mahaifìyar̃sà mài shèːkàruː fìye dà sàbà'in à duːniyàː à loːkàcîn, akà jefàː ta ta taːgàː, kuma ta ràsu baːyan ɗan loːkàciː ƙànƙanèː sabòːdà raunukàn dà ta ji.
 1	Akà	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=XX
-2	ɗàuki	ɗauk-	VERB	_	_	1	comp:aux	_	Gloss=XX
+2	ɗàuki	ɗauk-	VERB	_	_	1	comp:aux	_	Gloss=take
 3-4	mahaifìyar̃sà	_	_	_	_	_	_	_	_
 3	mahaifìyar̃	mahaifìyaː	NOUN	_	Definite=Cons|Gender=Fem	2	comp:obj	_	Gloss=mother.Fem.Cons
 4	sà	sà	NOUN	_	Gender=Masc	3	mod@poss	_	Gloss=3Masc.Gen
