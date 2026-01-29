@@ -17,8 +17,8 @@
 6	mù	mù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	mod@poss	_	Gloss=1Plur.Gen
 7	dà	dà	CCONJ	_	_	4	comp:obl	_	Gloss=XX
 8	làːbaːr̃ìn	làːbaːr̃ìː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=XX
-9	rìkicîn	rìkiciː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=XX
-10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=XX
+9	rìkicîn	rìkiciː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=Masc.Def
+10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=COMP
 11	akèː	nàː	AUX	_	Aspect=Prog|Person=4	10	comp:obj	_	Gloss=XX
 12	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:aux	_	Gloss=do
 13	can	can	ADV	_	PronType=Dem	12	mod	_	Gloss=XX
@@ -47,7 +47,7 @@
 11	mài	mài	PART	_	Number=Sing|PartType=Der	8	mod	_	Gloss=possessor_of.Sing
 12	suːnaː	suːnaː	NOUN	_	ExtPos=NOUN|Gender=Masc	11	comp:obj	_	Gloss=XX
 13	"	"	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-14	Joe	Joe	PROPN	_	_	12	comp:pred	_	Gloss=Joe
+14	Joe	Joe	PROPN	_	_	12	udep	_	Gloss=Joe
 15	Lasisi	Lasisi	PROPN	_	_	14	flat@name	_	Gloss=Lasisi
 16	"	"	PUNCT	_	_	14	punct	_	Gloss=PUNCT|SpaceAfter=No
 17	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
@@ -116,9 +116,9 @@
 19	ɗan	ɗan	ADJ	_	Definite=Cons|Gender=Masc	17	comp:obj	_	Gloss=XX
 20	Amìr̃kà	Amìr̃kà	PROPN	_	_	19	compound	_	Gloss=Amìr̃kà
 21	mài	mài	PART	_	Number=Sing|PartType=Der	19	mod	_	Gloss=possessor_of.Sing
-22	suːnaː	suːnaː	NOUN	_	Case=Gen|Number=Sing|Person=1	21	comp:obj	_	Gloss=XX
+22	suːnaː	suːnaː	NOUN	_	_	21	comp:obj	_	Gloss=XX
 23	"	"	PUNCT	_	_	24	punct	_	Gloss=PUNCT
-24	Virgil	Virgil	PROPN	_	_	22	comp:pred	_	Gloss=Virgil
+24	Virgil	Virgil	PROPN	_	_	22	udep	_	Gloss=Virgil
 25	Hill	Hill	PROPN	_	_	24	flat@name	_	Gloss=Hill
 26	"	"	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 27	à	à	ADP	_	_	16	mod	_	Gloss=at
@@ -215,8 +215,8 @@
 # text_ortho = Tô, àbîn dà ya kaːwoː rùːɗaːnîn shiː nèː shùːgàban Hùkuːmàr̃ Dambe ta Nàːjeːr̃iyàː, 'Chief Ralph Ogunbufunmi', shiː nèː ya baː dà sanâr̃waː cêːwaː Lasisi bàː zâi jeː wàːsân ba, har̃ ya cèː sun tattàunà hakàn dà Ministàn Wàːsànniː na Nàːjeːr̃iyàː.
 1	tô	tô	INTJ	_	_	9	discourse	_	Gloss=XX|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-3	àbîn	àbiː	NOUN	_	Definite=Cons|Gender=Masc	9	subj	_	Gloss=XX
-4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=XX
+3	àbîn	àbiː	NOUN	_	Definite=Def|Gender=Masc	9	subj	_	Gloss=Masc.Def
+4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	comp:obj	_	Gloss=XX
 6	kaːwoː	kaːy-	VERB	_	_	5	comp:aux	_	Gloss=XX
 7	rùːɗaːnîn	rùːɗaːniː	NOUN	_	Definite=Def|Number=Plur	6	comp:obj	_	Gloss=XX
@@ -303,9 +303,9 @@
 8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 9	wani	wani	PRON	_	Definite=Spec|Gender=Masc	3	conj:appos	_	Gloss=some.Masc.Spec
 10	mài	mài	PART	_	Number=Sing|PartType=Der	9	mod	_	Gloss=possessor_of.Sing
-11	suːnaː	suːnaː	NOUN	_	Case=Gen|Number=Sing|Person=1	10	comp:obj	_	Gloss=XX
+11	suːnaː	suːnaː	NOUN	_	_	10	comp:obj	_	Gloss=XX
 12	"	"	PUNCT	_	_	13	punct	_	Gloss=PUNCT
-13	Emmanuel	Emmanuel	PROPN	_	_	11	comp:pred	_	Gloss=Emmanuel
+13	Emmanuel	Emmanuel	PROPN	_	_	11	udep	_	Gloss=Emmanuel
 14	Adeleye	Adeleye	PROPN	_	_	13	flat@name	_	Gloss=Adeleye
 15	"	"	PUNCT	_	_	13	punct	_	Gloss=PUNCT|SpaceAfter=No
 16	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT

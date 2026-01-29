@@ -12,7 +12,7 @@
 9	Yâmma	Yâmma	PROPN	_	_	8	comp:obj	_	Gloss=Yâmma
 
 # sent_id = 02_Yarima_Charles__2
-# text = gàː mafìː yawancin ꞌyan Nàːjeːr̃iyàː, ɓullôːwar jirgin ruwân nan mài suːnaː « Britannia » à gaːɓàr̃ tèːkun Ìkko kwaːnan baːya, ita cèː àlaːmàː ta farkoː dà ta nuːnà cêːwaː 'yan gidan sàrautàr̃ Bìrtaːniyàː sunàː zìyaːr̃àr̃ Nàːjeːr̃iyàː.
+# text = gàː mafìː yawancin ꞌyan Nàːjeːr̃iyàː, ɓullôːwar̃ jirgin ruwân nan mài suːnaː « Britannia » à gaːɓàr̃ Tèːkun Ìkko kwaːnan baːya, ita cèː àlaːmàː ta farkoː dà ta nuːnà cêːwaː 'yan gidan sàrautàr̃ Bìrtaːniyàː sunàː zìyaːr̃àr̃ Nàːjeːr̃iyàː.
 # text_ortho = Gàː mafìː yawancin ꞌyan Nàːjeːr̃iyàː, ɓullôːwar jirgin ruwân nan mài suːnaː « Britannia » à gaːɓàr̃ tèːkun Ìkko kwaːnan baːya, ita cèː àlaːmàː ta farkoː dà ta nuːnà cêːwaː 'yan gidan sàrautàr̃ Bìrtaːniyàː sunàː zìyaːr̃àr̃ Nàːjeːr̃iyàː.
 1	gàː	gàː	PART	_	_	24	mod	_	Gloss=XX
 2	mafìː	mafìː	PART	_	Gender=Masc|PartType=Der	1	subj	_	Gloss=XX
@@ -25,9 +25,9 @@
 9	ruwân	ruwaː	NOUN	_	Definite=Cons|Number=Plur	8	compound	_	Gloss=XX
 10	nan	nan	DET	_	PronType=Dem	8	det	_	Gloss=XX
 11	mài	mài	PART	_	Number=Sing|PartType=Der	8	mod	_	Gloss=possessor_of.Sing
-12	suːnaː	suːnaː	NOUN	_	Case=Gen|Number=Sing|Person=1	11	comp:obj	_	Gloss=XX
+12	suːnaː	suːnaː	NOUN	_	_	11	comp:obj	_	Gloss=XX
 13	«	«	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-14	Britannia	Britannia	PROPN	_	_	12	mod	_	Gloss=Britannia
+14	Britannia	Britannia	PROPN	_	_	12	udep	_	Gloss=Britannia
 15	»	»	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 16	à	à	ADP	_	_	7	mod	_	Gloss=at
 17	gaːɓàr̃	gaːɓàː	NOUN	_	Definite=Cons|Gender=Fem	16	comp:obj	_	Gloss=XX

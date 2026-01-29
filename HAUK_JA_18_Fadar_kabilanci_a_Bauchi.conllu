@@ -107,8 +107,8 @@
 33	asìbitìn	asìbitìː	NOUN	_	Definite=Cons|Gender=Masc	31	comp:obj	_	Gloss=hospital.Masc.Cons
 34	gàrîn	gàriː	NOUN	_	Definite=Def|Gender=Masc	33	mod	_	Gloss=XX|SpaceAfter=No
 35	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
-36	loːkàcîn	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	40	mod	_	Gloss=XX
-37	dà	dà	SCONJ	_	_	36	mod@relcl	_	Gloss=XX
+36	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	40	mod	_	Gloss=Masc.Def
+37	dà	dà	SCONJ	_	_	36	mod@relcl	_	Gloss=COMP
 38	'yan	ɗan	NOUN	_	Definite=Cons|Number=Plur	40	subj	_	Gloss=XX
 39	sàndaː	sàndaː	NOUN	_	_	38	mod	_	Gloss=XX
 40	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	21	comp:obj	_	Gloss=XX
@@ -204,8 +204,8 @@
 27	Tafaːwà	Tafaːwà	PROPN	_	_	26	mod	_	Gloss=Tafawa
 28	Ɓaleːwà	Ɓaleːwà	PROPN	_	_	27	flat@name	_	Gloss=Balewa|SpaceAfter=No
 29	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
-30	gàrîn	gàriː	NOUN	_	Definite=Cons|Gender=Masc	35	comp:obj	_	Gloss=XX
-31	dà	dà	SCONJ	_	_	30	mod@relcl	_	Gloss=XX
+30	gàrîn	gàriː	NOUN	_	Definite=Def|Gender=Masc	35	comp:obj	_	Gloss=Masc.Def
+31	dà	dà	SCONJ	_	_	30	mod@relcl	_	Gloss=COMP
 32	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	20	mod@relcl	_	Gloss=XX
 33	duk	dukà	DET	_	_	32	mod	_	Gloss=XX
 34	dà	dà	ADP	_	_	33	compound	_	Gloss=XX
@@ -608,9 +608,9 @@
 26	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	Gloss=XX
 27	Jaːmùs	Jaːmùs	PROPN	_	_	26	mod	_	Gloss=Germany
 28	mài	mài	PART	_	Number=Sing|PartType=Der	26	mod	_	Gloss=possessor_of.Sing
-29	suːnaː	suːnaː	NOUN	_	Case=Gen|Number=Sing|Person=1	28	comp:obj	_	Gloss=XX
+29	suːnaː	suːnaː	NOUN	_	_	28	comp:obj	_	Gloss=XX
 30	"	"	PUNCT	_	_	31	punct	_	Gloss=PUNCT
-31	Reinhard	Reinhard	PROPN	_	Definite=Cons|Gender=Fem	29	comp:pred	_	Gloss=Reinhard
+31	Reinhard	Reinhard	PROPN	_	Definite=Cons|Gender=Fem	29	udep	_	Gloss=Reinhard
 32	Bonnke	Bonnke	PROPN	_	_	31	flat@name	_	Gloss=Bonnke
 33	"	"	PUNCT	_	_	31	punct	_	Gloss=PUNCT
 34	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT

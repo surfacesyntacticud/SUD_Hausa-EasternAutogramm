@@ -499,9 +499,9 @@
 19	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	12	comp:obj	_	Gloss=XX
 20	laƙàbaː	laƙàbaː	VERB	_	_	19	comp:aux	_	Gloss=XX
 21	wà	wà	ADP	_	Case=Dat	20	comp:obl	_	Gloss=XX
-22	suːnaː	suːnaː	NOUN	_	Case=Gen|Number=Sing|Person=1	21	comp:obj	_	Gloss=XX
+22	suːnaː	suːnaː	NOUN	_	_	21	comp:obj	_	Gloss=XX
 23	"	"	PUNCT	_	_	24	punct	_	Gloss=PUNCT
-24	The	The	PROPN	_	_	22	mod	_	Gloss=The
+24	The	The	PROPN	_	_	22	udep	_	Gloss=The
 25	Shrine	Shrine	PROPN	_	_	24	flat@name	_	Gloss=Shrine|SpaceAfter=No
 26	"	"	PUNCT	_	_	24	punct	_	Gloss=PUNCT|SpaceAfter=No
 27	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
