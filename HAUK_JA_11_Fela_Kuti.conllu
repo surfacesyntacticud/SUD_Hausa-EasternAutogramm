@@ -252,7 +252,7 @@
 # sent_id = 11_Fela_Kuti__9
 # text = " Rân nan sai na ɗàukeː tà na sâː à bàːkiː na faːrà buːsàːwaː. "
 1	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
-2	Rân	râi	NOUN	_	Definite=Cons|Gender=Masc	5	mod	_	Gloss=day.Masc.Cons
+2	Rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	5	mod	_	Gloss=day.Fem.Cons
 3	nan	nan	DET	_	PronType=Dem	2	det	_	Gloss=XX
 4	sai	sai	ADV	_	_	5	mod	_	Gloss=XX
 5	na	na	AUX	_	Aspect=Perf|Number=Plur|Person=1	0	root	_	Gloss=XX
@@ -533,7 +533,7 @@
 20	har̃	har̃	CCONJ	_	Definite=Cons|Gender=Fem	21	cc	_	Gloss=XX
 21	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	2	conj:coord	_	Gloss=XX
 22	baƙàntà	baant-	VERB	_	_	21	comp:aux	_	Gloss=XX
-23	rân	râi	NOUN	_	Definite=Cons|Gender=Fem	22	mod	_	Gloss=life.Fem.Cons
+23	rân	râi	NOUN	_	Definite=Cons|Gender=Masc	22	mod	_	Gloss=life.Masc.Cons
 24	mahùkùntan	mahùkùntaː	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=XX
 25	ƙasâr̃	ƙasaː	ADJ	_	Definite=PrevRef|Gender=Fem	24	mod	_	Gloss=country.Fem.PrevRef
 26	jìm	jìn	VERB	_	_	25	mod	_	Gloss=XX
