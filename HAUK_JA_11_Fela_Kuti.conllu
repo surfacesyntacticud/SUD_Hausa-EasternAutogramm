@@ -204,7 +204,7 @@
 27	.	.	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 
 # sent_id = 11_Fela_Kuti__8
-# text = Bàːra wàccan nèː shiː dà kânsà ya bayyànà yaddà ya faːrà àmfàːniː dà ita, indà ya cèː: " Dâː maː àkwai irin wannàn àlgaitàː à ƙar̃ƙashin gadoːnaː, wàccè ɗaya ɗàgà cikin makàɗaːnaː kèː buːsàːwaː. "
+# text = Bàːra wàccan nèː shiː dà kânsà ya bayyànà yaddà ya faːrà àmfàːniː dà ita, indà ya cèː: " Dâː maː àkwai irin wannàn àlgaitàː à ƙar̃ƙashin gadoːnaː , wàccè ɗaya ɗàgà cikin makàɗaːnaː kèː buːsàːwaː. "
 1	Bàːra	bàːra	ADV	_	_	7	mod	_	Gloss=last_year
 2	wàccan	wàccan	DET	_	Gender=Fem|PronType=Dem	1	det	_	Gloss=XX
 3	nèː	neː	PART	_	_	1	discourse@foc	_	Gloss=XX
@@ -230,37 +230,39 @@
 23	àkwai	àkwai	PART	_	_	18	comp:obj	_	Gloss=XX
 24	irin	irin	ADP	_	Definite=Cons|Gender=Masc	23	subj	_	Gloss=XX
 25	wannàn	wannàn	DET	_	PronType=Dem	26	det	_	Gloss=XX
-26	àlgaitàː	àlgaitàː	NOUN	_	Gender=Fem	24	mod	_	Gloss=XX
+26	àlgaitàː	àlgaitàː	NOUN	_	Gender=Fem	24	mod	_	Gloss=oboe_sp.Fem
 27	à	à	ADP	_	_	23	comp:pred	_	Gloss=at
 28	ƙar̃ƙashin	ƙar̃ƙashiː	ADP	_	_	27	comp:obj	_	Gloss=under
-29	gadoːnaː	gadoːnaː	NOUN	_	Case=Gen|Number=Sing|Person=1	28	comp:obj	_	Gloss=XX|SpaceAfter=No
-30	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
-31	wàccè	wàccè	PRON	_	Gender=Fem|PronType=Rel	38	comp:obj	_	Gloss=which.Fem
-32	ɗaya	ɗaya	NUM	_	_	37	subj	_	Gloss=one
-33	ɗàgà	ɗàgà	ADP	_	_	32	mod	_	Gloss=XX
-34	cikin	cikin	ADP	_	_	33	comp:obj	_	Gloss=XX
-35-36	makàɗaːnaː	_	_	_	_	_	_	_	_
-35	makàɗaː	makàɗiː	NOUN	_	Number=Plur	34	comp:obj	_	Gloss=musician.Plur
-36	naː	naː	PRON	_	Case=Gen|Number=Sing|Person=1	34	comp:obj	_	Gloss=1Sing.Gen
-37	kèː	nàː	AUX	_	Aspect=Prog	26	mod@relcl	_	Gloss=XX
-38	buːsàːwaː	buːs-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	37	comp:aux	_	Gloss=XX|SpaceAfter=No
-39	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
-40	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+29-30	gadoːnaː	_	_	_	_	_	_	_	_
+29	gadoː	gadoː	NOUN	_	_	28	comp:obj	_	Gloss=bed.Masc|SpaceAfter=No
+30	naː	naː	NOUN	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	29	mod@poss	_	Gloss=1Sing.Gen|SpaceAfter=No
+31	,	,	PUNCT	_	_	38	punct	_	Gloss=PUNCT
+32	wàccè	wàccè	PRON	_	Gender=Fem|PronType=Rel	39	comp:obj	_	Gloss=which.Fem
+33	ɗaya	ɗaya	NUM	_	_	38	subj	_	Gloss=one
+34	ɗàgà	ɗàgà	ADP	_	_	33	mod	_	Gloss=XX
+35	cikin	cikin	ADP	_	_	34	comp:obj	_	Gloss=XX
+36-37	makàɗaːnaː	_	_	_	_	_	_	_	_
+36	makàɗaː	makàɗiː	NOUN	_	Number=Plur	35	comp:obj	_	Gloss=musician.Plur
+37	naː	naː	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	36	mod@poss	_	Gloss=1Sing.Gen
+38	kèː	nàː	AUX	_	Aspect=Prog	26	mod@relcl	_	Gloss=XX
+39	buːsàːwaː	buːs-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	38	comp:aux	_	Gloss=blow.Vnoun.Fem|SpaceAfter=No
+40	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+41	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 11_Fela_Kuti__9
 # text = " Rân nan sai na ɗàukeː tà na sâː à bàːkiː na faːrà buːsàːwaː. "
 1	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
-2	Rân	râi	NOUN	_	Definite=Cons|Gender=Masc	5	mod	_	Gloss=XX
+2	Rân	râi	NOUN	_	Definite=Cons|Gender=Masc	5	mod	_	Gloss=day.Masc.Cons
 3	nan	nan	DET	_	PronType=Dem	2	det	_	Gloss=XX
 4	sai	sai	ADV	_	_	5	mod	_	Gloss=XX
 5	na	na	AUX	_	Aspect=Perf|Number=Plur|Person=1	0	root	_	Gloss=XX
 6	ɗàukeː	ɗauk-	VERB	_	_	5	comp:aux	_	Gloss=XX
 7	tà	ta	PRON	_	Case=Acc|Gender=Fem|Person=3|PronType=Prs	6	comp:obj	_	Gloss=XX
-8	na	yaː	AUX	_	Aspect=Perf|Number=Sing|Person=1	6	comp:obj	_	Gloss=XX
+8	na	yaː	AUX	_	Aspect=Perf|Number=Sing|Person=1	5	parataxis:conj	_	Gloss=XX
 9	sâː	sâː	VERB	_	_	8	comp:aux	_	Gloss=XX
 10	à	à	ADP	_	_	9	comp:obl	_	Gloss=at
 11	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=XX
-12	na	ya	AUX	_	Aspect=Perf|Number=Sing|Person=1	11	mod	_	Gloss=XX
+12	na	ya	AUX	_	Aspect=Perf|Number=Sing|Person=1	8	parataxis:conj	_	Gloss=XX
 13	faːrà	faːr-	VERB	_	_	12	comp:aux	_	Gloss=XX
 14	buːsàːwaː	buːs-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	13	comp:obj	_	Gloss=XX|SpaceAfter=No
 15	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -501,7 +503,7 @@
 21	wà	wà	ADP	_	Case=Dat	20	comp:obl	_	Gloss=XX
 22	suːnaː	suːnaː	NOUN	_	_	21	comp:obj	_	Gloss=XX
 23	"	"	PUNCT	_	_	24	punct	_	Gloss=PUNCT
-24	The	The	PROPN	_	_	22	udep	_	Gloss=The
+24	The	The	PROPN	_	_	22	conj:appos	_	Gloss=The
 25	Shrine	Shrine	PROPN	_	_	24	flat@name	_	Gloss=Shrine|SpaceAfter=No
 26	"	"	PUNCT	_	_	24	punct	_	Gloss=PUNCT|SpaceAfter=No
 27	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -531,7 +533,7 @@
 20	har̃	har̃	CCONJ	_	Definite=Cons|Gender=Fem	21	cc	_	Gloss=XX
 21	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	2	conj:coord	_	Gloss=XX
 22	baƙàntà	baant-	VERB	_	_	21	comp:aux	_	Gloss=XX
-23	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	22	mod	_	Gloss=XX
+23	rân	râi	NOUN	_	Definite=Cons|Gender=Fem	22	mod	_	Gloss=life.Fem.Cons
 24	mahùkùntan	mahùkùntaː	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=XX
 25	ƙasâr̃	ƙasaː	ADJ	_	Definite=PrevRef|Gender=Fem	24	mod	_	Gloss=country.Fem.PrevRef
 26	jìm	jìn	VERB	_	_	25	mod	_	Gloss=XX
