@@ -280,31 +280,31 @@
 8	naː	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=1	6	comp:obj	_	Gloss=XX
 9	fi	fi	VERB	_	_	8	comp:aux	_	Gloss=XX
 10	iyà	iy-	VERB	_	_	9	comp:obj	_	Gloss=XX
-11	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=use.Masc
+11	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=use.Masc
 12	dà	dà	ADP	_	_	11	comp:obl	_	Gloss=XX
-13	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	8	conj:coord	_	Gloss=XX
-14	fìye	fi	VERB	_	ExtPos=ADV|VerbForm=Stat	10	mod	_	Gloss=exceed.Stat
-15	dà	dà	ADP	_	_	16	cc	_	Gloss=XX
-16	bàdùːjalaː	bàdùːja	NOUN	_	Number=Plur	13	conj:coord	_	Gloss=XX
+13	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	12	comp:obj	_	Gloss=XX
+14	fìye	fi	VERB	_	ExtPos=ADP|VerbForm=Stat	10	mod	_	Gloss=exceed.Stat|Idiom=Yes
+15	dà	dà	ADP	_	_	14	comp.obl	_	Gloss=with|InIdiom=Yes
+16	bàdùːjalaː	bàdùːja	NOUN	_	Gender=Fem	15	comp:obl	_	Gloss=bugle.Fem
 17	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 18	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 11_Fela_Kuti__10b
-# text = " Tòː dàgà wannàn loːkàciː nèː na farà kòːyon yaddà akèː àmfàːniː ɗà saxaphone . "
+# text = " Tòː dàgà wannàn loːkàciː nèː na farà kòːyon yaddà akèː àmfàːniː dà saxaphone. "
 1	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
-2	Tòː	Tòː	PROPN	_	_	7	discourse	_	Gloss=Tòː
+2	Tòː	tòː	PART	_	_	7	discourse	_	Gloss=well
 3	dàgà	dàgà	ADP	_	_	7	mod	_	Gloss=XX
 4	wannàn	wannàn	DET	_	PronType=Dem	5	det	_	Gloss=XX
-5	loːkàciː	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=XX
+5	loːkàciː	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=time.Masc
 6	nèː	neː	PART	_	Gender=Masc|Number=Plur	3	discourse@foc	_	Gloss=XX
 7	na	na	AUX	_	Aspect=Perf|Number=Plur|Person=1	0	root	_	Gloss=XX
 8	farà	farà	ADP	_	_	7	comp:obj	_	Gloss=XX
-9	kòːyon	kòːyoː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:obj	_	Gloss=XX
+9	kòːyon	koːy-	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:obj	_	Gloss=learn.Vnoun.Masc.Cons
 10	yaddà	yaddà	ADV	_	PronType=Rel	9	comp:obj	_	Gloss=XX
 11	akèː	nàː	AUX	_	Aspect=Prog|Person=4	10	mod@relcl	_	Gloss=XX
 12	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	11	comp:aux	_	Gloss=use.Masc
 13	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=XX|wordform=ɗà
-14	saxaphone	saxaphone	NOUN	_	Case=Gen|Gender=Masc|Person=3	13	comp:obj	_	Gloss=XX|SpaceAfter=No
+14	saxaphone	saxaphone	NOUN	_	_	13	comp:obj	_	Gloss=saxophone|SpaceAfter=No
 15	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 16	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
@@ -313,7 +313,7 @@
 1	Baːyan	Baːyan	ADP	_	_	8	mod	_	Gloss=XX
 2	wani	wani	DET	_	Definite=Spec|Gender=Masc	4	det	_	Gloss=some.Masc.Spec
 3	ɗan	ɗan	ADJ	_	Definite=Cons|Gender=Masc	4	mod	_	Gloss=XX
-4	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=XX|SpaceAfter=No
+4	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=time.Masc|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	sai	sai	ADV	_	_	8	mod	_	Gloss=XX
 7	Fela	Fela	PROPN	_	_	8	subj	_	Gloss=Fela
@@ -464,7 +464,7 @@
 # text = À wannàn loːkàciː nèː kuma mâitar̃ Fela à sha'ànin sìyaːsàː ta faːrà fitôːwaː fiːliː.
 1	À	à	ADP	_	_	11	mod	_	Gloss=XX
 2	wannàn	wannàn	DET	_	PronType=Dem	3	det	_	Gloss=XX
-3	loːkàciː	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	Gloss=XX
+3	loːkàciː	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	Gloss=time.Masc
 4	nèː	neː	PART	_	Gender=Masc|Number=Plur	1	discourse@foc	_	Gloss=XX
 5	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=too
 6	mâitar̃	mâitar̃	NOUN	_	Definite=Cons|Gender=Fem	11	subj	_	Gloss=XX
@@ -590,8 +590,8 @@
 4	sà	sà	NOUN	_	Gender=Masc	3	mod@poss	_	Gloss=3Masc.Gen
 5	mài	mài	PART	_	Gender=Masc|Number=Sing|PartType=Der	3	mod	_	Gloss=possessor_of.Sing
 6	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	5	comp:obj	_	Gloss=XX
-7	fìye	fi	VERB	_	ExtPos=ADV|VerbForm=Stat	6	mod	_	Gloss=exceed.Stat
-8	dà	dà	CCONJ	_	_	7	comp:obl	_	Gloss=XX
+7	fìye	fi	VERB	_	ExtPos=ADP|VerbForm=Stat	6	mod	_	Gloss=exceed.Stat|Idiom=Yes
+8	dà	dà	ADP	_	_	7	comp.obl	_	Gloss=with|InIdiom=Yes
 9	sàbà'in	sàbà'in	NUM	_	_	8	comp:obj	_	Gloss=seventy
 10	à	à	ADP	_	_	6	mod	_	Gloss=at
 11	duːniyàː	duːniyàː	NOUN	_	_	10	comp:obj	_	Gloss=XX
@@ -609,7 +609,7 @@
 23	ràsu	ras-	VERB	_	_	22	comp:aux	_	Gloss=XX
 24	baːyan	baːyaː	ADP	_	Definite=Cons|Number=Plur	23	mod	_	Gloss=XX
 25	ɗan	ɗan	ADJ	_	Definite=Cons|Gender=Masc	26	mod	_	Gloss=XX
-26	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	24	comp:obj	_	Gloss=XX
+26	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	24	comp:obj	_	Gloss=time.Masc
 27	ƙànƙanèː	ƙànƙanèː	NOUN	_	Gender=Masc	26	mod	_	Gloss=XX
 28	sabòːdà	sabòːdà	ADP	_	_	23	mod	_	Gloss=XX
 29	raunukàn	ràuniː	NOUN	_	Definite=Def|Number=Plur	28	comp:obj	_	Gloss=wound.Plur.Def
