@@ -144,8 +144,8 @@
 36	kô	nôː	AUX	_	Aspect=Prog	33	mod	_	Gloss=XX
 37	huɗu	huɗu	NUM	_	_	36	comp:aux	_	Gloss=XX|SpaceAfter=No
 38	,	,	PUNCT	_	_	39	punct	_	Gloss=PUNCT
-39	yàːyîn	yàːyiː	NOUN	_	Definite=Cons|Gender=Masc	28	mod	_	Gloss=XX
-40	dà	dà	ADP	_	_	43	comp:obl	_	Gloss=XX
+39	yàːyîn	yàːyiː	NOUN	_	Definite=Def|Gender=Masc	28	mod	_	Gloss=Masc.Def
+40	dà	dà	SCONJ	_	_	43	comp:obl	_	Gloss=COMP
 41	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	43	det	_	Gloss=some.Plur.Spec
 42	'yan	ɗan	ADJ	_	Definite=Cons|Number=Plur	43	mod	_	Gloss=XX|wordform=yan
 43	fur̃sunoːnîn	fur̃sunoːniː	NOUN	_	Definite=Cons|Gender=Masc	33	comp:obj	_	Gloss=XX
@@ -186,7 +186,7 @@
 21	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 22	yànzu	yànzu	ADV	_	_	23	mod	_	Gloss=XX
 23	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
-24	kai	kaːy-	VERB	_	_	23	comp:aux	_	Gloss=XX
+24	kai	kai	VERB	_	_	23	comp:aux	_	Gloss=reach/carry_to
 25	shèːkàruː	shèːkàruː	NOUN	_	Number=Plur	24	comp:obj	_	Gloss=XX
 26	goːmà	goːmà	NUM	_	_	25	mod:num	_	Gloss=ten
 27	shâː	shâː	ADP	_	_	26	flat@num	_	Gloss=XX
@@ -542,8 +542,8 @@
 27	tàimakon	tàimakoː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:aux	_	Gloss=XX
 28	kânsù	kâːsù	PRON	_	Case=Gen|Number=Plur|Person=3	27	mod	_	Gloss=XX
 29	dà	dà	ADP	_	_	27	comp:obl	_	Gloss=XX
-30	àbincîn	àbinciː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=XX
-31	dà	dà	SCONJ	_	_	30	mod@relcl	_	Gloss=XX
+30	àbincîn	àbinciː	NOUN	_	Definite=Def|Gender=Masc	29	comp:obj	_	Gloss=Masc.Def
+31	dà	dà	SCONJ	_	_	30	mod@relcl	_	Gloss=COMP
 32	akà	nàː	AUX	_	Aspect=Prog|Person=4	31	comp:obj	_	Gloss=XX
 33	sàyaː	sàyaː	VERB	_	_	32	comp:aux	_	Gloss=XX
 34	don	don	SCONJ	_	_	27	mod	_	Gloss=XX
@@ -648,8 +648,8 @@
 # text = Ta cèː haːlîn dà akè ciki à kûr̃kukùn Ƙìr̃iƙìr̃i nàː haifar̃ dà shàːgìɗàɗɗun mutàːneː, kuma bàː àbin màːmaːkìː ba nèː ganin yaddà mutànên dà akà sakoː nà fitôːwaː dà wani haːliː na nuːnà ƙìyayyàː dà kuma sôn ɗaukàr̃ fansaː.
 1	Ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=XX
 2	cèː	cêː	VERB	_	_	1	comp:aux	_	Gloss=XX
-3	haːlîn	haːlîː	NOUN	_	Definite=Cons|Gender=Masc	10	subj	_	Gloss=XX
-4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=XX
+3	haːlîn	haːlîː	NOUN	_	Definite=Def|Gender=Masc	10	subj	_	Gloss=Masc.Def
+4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
 5	akè	nàː	AUX	_	Aspect=Prog|Person=4	4	comp:obj	_	Gloss=XX
 6	ciki	ciki	ADV	_	_	5	comp:pred	_	Gloss=XX
 7	à	à	ADP	_	_	5	mod	_	Gloss=at
@@ -684,7 +684,7 @@
 36	dà	dà	CCONJ	_	_	38	cc	_	Gloss=XX|wordform=da
 37	kuma	kuma	PART	_	_	36	discourse@top	_	Gloss=too
 38	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	34	conj:coord	_	Gloss=XX
-39	ɗaukàr̃	ɗauk-	VERB	_	Definite=Cons|Gender=Fem	38	mod	_	Gloss=XX
+39	ɗaukàr̃	ɗauk-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	38	mod	_	Gloss=take.Vnoun.Fem.Cons
 40	fansaː	fansaː	NOUN	_	Gender=Fem	39	mod	_	Gloss=XX|SpaceAfter=No
 41	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 

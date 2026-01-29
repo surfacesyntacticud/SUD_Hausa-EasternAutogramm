@@ -162,7 +162,7 @@
 7	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	Gloss=XX
 8	nèː	neː	PART	_	_	7	discourse@foc	_	Gloss=XX
 9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	7	comp:cleft	_	Gloss=XX
-10	ɗaukoː	ɗauk-	VERB	_	_	9	comp:aux	_	Gloss=XX
+10	ɗaukoː	ɗauk-	VERB	_	_	9	comp:aux	_	Gloss=take
 11	wani	wani	DET	_	Definite=Spec|Gender=Masc	12	det	_	Gloss=some.Masc.Spec
 12	fàr̃feːsàː	fàr̃feːsàː	NOUN	_	_	10	comp:obj	_	Gloss=XX
 13	mài	mài	PART	_	Number=Sing|PartType=Der	12	mod	_	Gloss=possessor_of.Sing
@@ -395,14 +395,14 @@
 7	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	5	parataxis@conj	_	Gloss=XX
 8	jeː	jeː	VERB	_	_	7	comp:aux	_	Gloss=XX
 9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	7	parataxis@conj	_	Gloss=XX
-10	ɗàuki	ɗauk-	VERB	_	_	9	comp:aux	_	Gloss=XX
+10	ɗàuki	ɗauk-	VERB	_	_	9	comp:aux	_	Gloss=take
 11	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	Gloss=type.Masc.Cons
 12	'yar̃	ɗarn	ADJ	_	Definite=Cons|Gender=Fem	13	mod	_	Gloss=XX
 13	naː'uːr̃âr̃	naː'uːr̃âː	NOUN	_	Definite=Cons|Gender=Fem	11	mod	_	Gloss=XX
 14	nan	nan	DET	_	PronType=Dem	13	det	_	Gloss=XX
 15	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=XX
 16	akèː	nàː	AUX	_	Aspect=Prog|Person=4	15	comp:obj	_	Gloss=XX
-17	ɗaukàr̃	ɗauk-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	16	comp:aux	_	Gloss=XX
+17	ɗaukàr̃	ɗauk-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	16	comp:aux	_	Gloss=take.Vnoun.Fem.Cons
 18	màganàː	màganàː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=XX
 19	-	-	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 20	wàːtòː	wàːtòː	PART	_	_	21	discourse	_	Gloss=that_is
@@ -461,7 +461,7 @@
 8	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 9	kaː	yaː	VERB	_	_	8	comp:aux	_	Gloss=XX
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=XX
-11	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=XX
+11	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=mouth.Masc
 12	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	8	parataxis@conj	_	Gloss=XX
 13	cèː	cêː	VERB	_	_	12	comp:aux	_	Gloss=XX
 14	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	16	dislocated@subj	_	Gloss=XX
