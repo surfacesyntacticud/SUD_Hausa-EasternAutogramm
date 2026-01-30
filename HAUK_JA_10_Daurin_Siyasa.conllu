@@ -66,10 +66,10 @@
 9	dà	dà	CCONJ	_	_	8	comp:obl	_	Gloss=XX
 10	wata	wani	DET	_	Definite=Spec|Gender=Masc	11	det	_	Gloss=some.Fem.Spec
 11	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=XX
-12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=XX
+12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 13	akà	nàː	AUX	_	Aspect=Prog|Person=4	12	comp:obj	_	Gloss=XX|wordform=aka
 14	kafàː	kaf-	VERB	_	_	13	comp:aux	_	Gloss=set_up
-15	cikin	cikin	ADP	_	_	14	comp:obl	_	Gloss=XX
+15	cikin	cikin	ADP	_	_	14	comp:obl	_	Gloss=inside
 16	kwàːnàkin	kwàːnàkiː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	Gloss=XX
 17	farkoː	farkoː	NOUN	_	Gender=Masc	16	mod	_	Gloss=XX
 18	na	na	AUX	_	Case=Gen	16	mod	_	Gloss=XX
@@ -132,7 +132,7 @@
 4	iːkòn	iːkòː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=XX
 5	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	mod	_	Gloss=XX
 6	gàba	gàba	ADV	_	_	5	mod	_	Gloss=front
-7	dà	dà	SCONJ	_	_	5	comp:obl	_	Gloss=XX
+7	dà	dà	SCONJ	_	_	5	comp:obl	_	Gloss=COMP
 8	tsarè	tsar-	VERB	_	_	7	comp:obj	_	Gloss=XX
 9	mùtumìn	mùtûm	NOUN	_	Definite=PrevRef|Gender=Masc	8	comp:obj	_	Gloss=person.Masc.PrevRef
 10	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	8	mod	_	Gloss=XX
@@ -162,7 +162,7 @@
 15	koːtù	koːtù	NUM	_	PronType=Ind	13	subj	_	Gloss=XX
 16	à	à	ADP	_	_	15	mod	_	Gloss=at
 17	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	16	comp:obj	_	Gloss=Nigeria
-18	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=XX
+18	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=COMP
 19	zaːtà	zâi	AUX	_	Gender=Fem|Person=3|Tense=Fut	18	comp:obj	_	Gloss=3Plur.Fut
 20	iyà	iy-	VERB	_	_	19	comp:aux	_	Gloss=XX
 21	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc	20	comp:obj	_	Gloss=put
@@ -195,8 +195,8 @@
 22	ta	ta	ADP	_	_	21	mod	_	Gloss=XX
 23	Biyu	biyu	PROPN	_	_	22	comp:obj	_	Gloss=two
 24	ta	ta	ADP	_	Case=Gen|Gender=Fem	21	mod	_	Gloss=XX
-25	hanyàr̃	hanyàː	NOUN	_	Definite=Cons|Gender=Fem	24	comp:obj	_	Gloss=XX
-26	dà	dà	SCONJ	_	_	21	mod@relcl	_	Gloss=XX
+25	hanyàr̃	hanyàː	NOUN	_	Definite=Def|Gender=Fem	24	comp:obj	_	Gloss=way.Fem.Def
+26	dà	dà	SCONJ	_	_	21	mod@relcl	_	Gloss=COMP
 27	bàtà	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Polarity=Neg	26	comp:obj	_	Gloss=XX
 28	daːcèː	daːcèː	VERB	_	_	27	comp:aux	_	Gloss=XX
 29	ba	ba	PART	_	Polarity=Neg	28	mod	_	Gloss=XX
@@ -305,7 +305,7 @@
 43	biyaː	biyaː	VERB	_	_	42	comp:aux	_	Gloss=XX
 44	shì	shi	AUX	_	Gender=Masc|Mood=Sub|Person=3	43	comp:obj@R	_	Gloss=XX
 45	baːshìn	baːshìː	AUX	_	Definite=Cons|Gender=Masc	43	comp:obj@T	_	Gloss=XX
-46	dà	dà	SCONJ	_	_	45	mod@relcl	_	Gloss=XX
+46	dà	dà	SCONJ	_	_	45	mod@relcl	_	Gloss=COMP
 47	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	46	comp:obj	_	Gloss=XX
 48	bîn	bi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	47	comp:aux	_	Gloss=owe.Vnoun.Masc.Cons|SpaceAfter=No
 49	sà	sà	PRON	_	_	48	mod@poss	_	Gloss=3Masc.Gen
@@ -325,7 +325,7 @@
 # text = Shiː mùtumìn dà akà ɗaurèː yaː cêː yanàː sàːne dà mutàːneː ɗàriː dà tàlàːtin dà bìyar̃ dà akè tsàre dà suː à bir̃nin Ìkko kawai;
 1	Shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	dislocated@subj	_	Gloss=XX
 2	mùtumìn	mùtûm	NOUN	_	Definite=Cons|Gender=Masc	1	conj:appos	_	Gloss=person.Masc.Def
-3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=XX|wordform=da
+3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP|wordform=da
 4	akà	yaː	AUX	_	Aspect=Perf|Person=4	3	comp:obj	_	Gloss=XX
 5	ɗaurèː	ɗaur-	VERB	_	_	4	comp:aux	_	Gloss=XX
 6	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
@@ -339,7 +339,7 @@
 14	tàlàːtin	tàlàːtin	NUM	_	_	12	conj:coord	_	Gloss=thirty
 15	dà	dà	CCONJ	_	_	16	cc	_	Gloss=XX
 16	bìyar̃	bìyar̃	NUM	_	_	14	conj:coord	_	Gloss=five
-17	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=XX
+17	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 18	akè	nàː	AUX	_	Aspect=Prog|Person=4	17	comp:obj	_	Gloss=XX
 19	tsàre	tsar-	ADV	_	ExtPos=ADV|VerbForm=Stat	18	comp:pred	_	Gloss=detain.Stat
 20	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=XX
@@ -361,10 +361,10 @@
 7	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	16	subj	_	Gloss=who.Plur
 8	akà	nàː	AUX	_	Aspect=Prog|Person=4	7	mod@relcl	_	Gloss=XX
 9	ɗaurèː	ɗaur-	VERB	_	_	8	comp:aux	_	Gloss=XX
-10	cikin	cikin	ADP	_	_	9	mod	_	Gloss=XX
+10	cikin	cikin	ADP	_	_	9	mod	_	Gloss=inside
 11	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	10	comp:obj	_	Gloss=year.Plur
 12	ukùn	ukùn	NUM	_	Definite=Cons|Gender=Masc	11	mod:num	_	Gloss=XX
-13	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=XX
+13	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 14	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	13	comp:obj	_	Gloss=XX
 15	shigèː	shig-	VERB	_	_	14	comp:aux	_	Gloss=enter
 16	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	6	comp:obj	_	Gloss=XX
