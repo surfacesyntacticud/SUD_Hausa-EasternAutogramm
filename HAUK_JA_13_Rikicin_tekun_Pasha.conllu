@@ -1,13 +1,13 @@
 # sent_id = 13_Rikicin_tekun_Pasha__1
-# text = An yi zàngà-zangà a areːwacin Nàːjeːr̃iyàː gàme dà rìkicin tèːkun Paːshà
+# text = An yi zàngà-zangà a areːwacin Nàːjeːr̃iyàː gàme dà rìkicin Tèːkun Paːshà
 1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=XX
 2	yi	yi	VERB	_	_	1	comp:aux	_	Gloss=do
 3	zàngà-zangà	zàngà-zangà	ADV	_	_	2	comp:pred	_	Gloss=XX
 4	a	a	ADP	_	_	2	mod	_	Gloss=XX
-5	areːwacin	areːwaciː	NOUN	_	Definite=Cons	4	comp:obj	_	Gloss=XX
+5	areːwacin	areːwaciː	NOUN	_	Definite=Cons	4	comp:obj	_	Gloss=north.Masc.Cons
 6	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	Number=Plur	5	mod	_	Gloss=Nigeria
-7	gàme	gàme	ADP	_	_	2	comp:obl	_	Gloss=with
-8	dà	dà	ADP	_	_	7	comp:obj	_	Gloss=with
+7	gàme	gam-	VERB	_	ExtPos=ADP|VerbForm=Stat	2	comp:obl	_	Gloss=join.Stat|Idiom=Yes
+8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=with|InIdiom=Yes
 9	rìkicin	rìkiciː	NOUN	_	Definite=Cons	8	comp:obj	_	Gloss=XX
 10	Tèːkun	tèːkun	ADP	_	Definite=Cons|Gender=Masc	9	mod	_	Gloss=XX|wordform=tèːkun
 11	Paːshà	Paːshà	PROPN	_	_	10	mod	_	Gloss=Paːshà
@@ -52,8 +52,8 @@
 35	ɗàuki	ɗauk-	VERB	_	_	34	comp:aux	_	Gloss=take
 36	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	37	det	_	Gloss=some.Plur.Spec
 37	màtàːkai	màtàːkai	NOUN	_	Gender=Masc	35	comp:obj	_	Gloss=XX
-38	gàme	gàme	ADP	_	_	35	comp:obl	_	Gloss=with
-39	dà	dà	ADP	_	_	38	comp:obj	_	Gloss=with
+38	gàme	gam-	VERB	_	ExtPos=ADP|VerbForm=Stat	35	comp:obl	_	Gloss=join.Stat|Idiom=Yes
+39	dà	dà	ADP	_	_	38	comp:obl	_	Gloss=with|InIdiom=Yes
 40	rìkicîn	rìkiciː	NOUN	_	Definite=Cons|Gender=Masc	39	comp:obj	_	Gloss=XX
 41	nan	nan	DET	_	PronType=Dem	40	det	_	Gloss=XX
 42	na	na	ADP	_	_	40	mod	_	Gloss=XX
@@ -212,8 +212,8 @@
 36	r̃a'àyin	r̃a'àyiː	NOUN	_	Gender=Masc	35	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=r̃a'àyinsù
 37	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	36	mod@poss	_	Gloss=3Plur.Gen
 38	à	à	ADP	_	_	34	parataxis@conj	_	Gloss=at
-39	gàme	gàme	ADP	_	_	38	comp:obj	_	Gloss=with
-40	dà	dà	ADP	_	_	39	comp:obj	_	Gloss=with
+39	gàme	gam-	VERB	_	ExtPos=ADP|VerbForm=Stat	38	comp:obj	_	Gloss=join.Stat|Idiom=Yes
+40	dà	dà	ADP	_	_	39	comp:obl	_	Gloss=with|InIdiom=Yes
 41	rìkicin	rìkiciː	NOUN	_	Definite=Cons|Gender=Masc	40	comp:obj	_	Gloss=XX
 42	Tèːkun	tèːkuː	NOUN	_	Definite=Cons|Gender=Masc	41	mod	_	Gloss=XX|wordform=tèːkun
 43	Paːshà	Paːshà	PROPN	_	_	42	mod	_	Gloss=Paːshà
@@ -223,8 +223,8 @@
 # sent_id = 13_Rikicin_tekun_Pasha__7a
 # text = Wani mài màganàː dà yaːwun Sarkin Mùsùlmiː yaː jaddàːdà cêːwaː nuːnà ƙîn jinin Amìr̃kà à Nàːjeːr̃iyàː r̃a'àyin wasu 'yan tsìràːruː nèː , kuma shùːgàbànnin mùsùlmiː sunàː hàƙuriː dà suː nèː kawài sabòːdà 'yancin dà akèː dà shiː à ƙasâr̃ na fàɗar̃ r̃a'àyiː .
 1	Wani	Wani	PROPN	_	Number=Plur|PronType=Dem	8	subj	_	Gloss=Wani
-2	mài	mài	PART	_	Number=Sing|PartType=Der	1	mod	_	Gloss=possessor_of.Sing
-3	màganàː	màganàː	NOUN	_	Gender=Fem	2	comp:obj	_	Gloss=XX
+2	mài	mài	PART	_	Number=Sing|PartType=Der	1	mod	_	Gloss=owner/doer_of.Sing
+3	màganàː	màganàː	NOUN	_	Gender=Fem	2	compound	_	Gloss=XX
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=XX|wordform=da
 5	yaːwun	yaːwuː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	Gloss=XX
 6	Sarkin	Sarkin	PROPN	_	Definite=Cons|Gender=Masc	5	mod	_	Gloss=Sarkin

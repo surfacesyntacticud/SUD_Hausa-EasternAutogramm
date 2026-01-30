@@ -23,9 +23,9 @@
 12	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:aux	_	Gloss=do
 13	can	can	ADV	_	PronType=Dem	12	mod	_	Gloss=XX
 14	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	13	mod	_	Gloss=Nigeria
-15	gàme	gam-	VERB	_	ExtPos=ADP|VerbForm=Stat	12	comp:obl	_	Gloss=together|Idiom=Yes
-16	dà	dà	ADP	_	_	15	compound	_	Gloss=XX|InIdiom=Yes
-17	gudàːnar̃	gudàːnaː	VERB	_	Definite=Cons|Gender=Fem	15	comp:obj	_	Gloss=XX|wordform=gudàːnar
+15	gàme	gam-	VERB	_	ExtPos=ADP|VerbForm=Stat	12	mod	_	Gloss=join.Stat|Idiom=Yes
+16	dà	dà	ADP	_	_	15	comp:obl	_	Gloss=XX|InIdiom=Yes
+17	gudàːnar̃	gudàːnaː	VERB	_	Definite=Cons|Gender=Fem	16	comp:obj	_	Gloss=XX|wordform=gudàːnar
 18	dà	dà	ADP	_	_	17	comp:obl	_	Gloss=XX
 19	wàːsan	wàːsan	DET	_	Gender=Masc|PronType=Dem	18	comp:obj	_	Gloss=XX
 20	dambe	dambe	DET	_	Gender=Masc	19	mod	_	Gloss=XX|SpaceAfter=No
@@ -38,10 +38,10 @@
 2	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 3	taːsoː	taːsoː	VERB	_	_	2	comp:aux	_	Gloss=XX
 4	nèː	neː	PART	_	_	3	discourse@foc	_	Gloss=XX
-5	gàme	gam-	VERB	_	ExtPos=ADP|VerbForm=Part	2	comp:aux	_	Gloss=XX|Idiom=Yes
-6	dà	dà	CCONJ	_	_	5	compound	_	Gloss=XX|InIdiom=Yes
-7	koː	koː	SCONJ	_	_	5	comp:obj	_	Gloss=XX
-8	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:obj	_	Gloss=XX
+5	gàme	gam-	VERB	_	ExtPos=ADP|VerbForm=Stat	3	mod	_	Gloss=join.Stat|Idiom=Yes
+6	dà	dà	CCONJ	_	_	5	comp:obl	_	Gloss=XX|InIdiom=Yes
+7	koː	koː	SCONJ	_	_	6	comp:obj	_	Gloss=XX
+8	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	34	subj	_	Gloss=XX
 9	dambên	dambêː	NOUN	_	Definite=Cons|Gender=Masc	8	compound	_	Gloss=XX
 10	nan	nan	DET	_	PronType=Dem	8	det	_	Gloss=XX
 11	mài	mài	PART	_	Number=Sing|PartType=Der	8	mod	_	Gloss=owner/doer_of.Sing
@@ -55,7 +55,7 @@
 19	kuma	kuma	PART	_	_	18	discourse@top	_	Gloss=too
 20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	21	comp:pred	_	Gloss=XX
 21	nèː	neː	AUX	_	Gender=Masc|Number=Plur	8	mod@relcl	_	Gloss=XX
-22	zàkaràn	zàkaràː	NOUN	_	Definite=Cons|Gender=Masc	21	dislocated@subj	_	Gloss=XX
+22	zàkaràn	zàkaràː	NOUN	_	Definite=Cons|Gender=Masc	21	dislocated@comp	_	Gloss=XX
 23	ajìn	ajìː	NOUN	_	Definite=Cons|Gender=Masc	22	mod	_	Gloss=XX
 24	maràsaː	maràs	PART	_	Number=Plur|PartType=Der	23	mod	_	Gloss=lacking.Plur
 25	nauyiː	nauyiː	NOUN	_	Gender=Masc	24	comp:obj	_	Gloss=XX
@@ -66,7 +66,7 @@
 30	Afir̃kà	Afir̃kà	PROPN	_	_	27	conj:coord	_	Gloss=Africa
 31	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	30	flat@name	_	Gloss=mouth.Masc
 32	ɗaya	ɗaya	NUM	_	_	31	mod:num	_	Gloss=one|SpaceAfter=No
-33	,	,	PUNCT	_	_	34	punct	_	Gloss=PUNCT
+33	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 34	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	7	comp:obj	_	Gloss=XX
 35	shìga	shig-	VERB	_	_	34	comp:aux	_	Gloss=XX
 36	gàːsâr̃	gàːsâː	NOUN	_	Definite=Cons|Gender=Fem	35	comp:obj@G	_	Gloss=XX
@@ -310,7 +310,7 @@
 15	"	"	PUNCT	_	_	13	punct	_	Gloss=PUNCT|SpaceAfter=No
 16	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 17	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
-18	fitoː	fitoː	VERB	_	_	17	comp:aux	_	Gloss=XX
+18	fitoː	fit-	VERB	_	_	17	comp:aux	_	Gloss=come_out
 19	à	à	ADP	_	_	18	comp:obl	_	Gloss=at
 20	talàbijìn	talàbijìː	NOUN	_	Definite=Def|Gender=Masc	19	comp:obj	_	Gloss=XX
 21	à	à	ADP	_	_	18	mod	_	Gloss=at

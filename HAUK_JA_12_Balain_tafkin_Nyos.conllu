@@ -82,10 +82,10 @@
 19	ta	ta	ADP	_	_	18	mod	_	Gloss=XX
 20	carbon	carbon	X	_	Definite=Cons|Gender=Masc	19	comp:obj	_	Gloss=carbon
 21	dioxide	dioxide	X	_	Gender=Fem	20	flat@foreign	_	Gloss=XX
-22	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
-23	har̃	har̃	CCONJ	_	Definite=Cons|Gender=Fem	24	cc	_	Gloss=XX
-24	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	10	conj:coord	_	Gloss=XX
-25	jaːwoː	jaːwoː	VERB	_	_	24	comp:aux	_	Gloss=XX
+22	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
+23	har̃	har̃	SCONJ	_	_	11	mod	_	Gloss=so_that
+24	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	23	comp:obj	_	Gloss=XX
+25	jaːwoː	jaː	VERB	_	_	24	comp:aux	_	Gloss=cause
 26	ruwaː	ruwaː	NOUN	_	Gender=Masc	30	comp:obj	_	Gloss=water.Masc
 27	tân	yâː	NOUN	_	Definite=Cons|Gender=Masc	26	mod	_	Gloss=XX
 28	dubuː	dubuː	NUM	_	_	27	mod:num	_	Gloss=thousand
@@ -98,16 +98,16 @@
 # sent_id = 12_Bala'in_tafkin_Nyos__4
 # text = Sai ruwân ya zama kàmar̃ hazoː, hàɗe kuma dà iskàr̃, akà hankàɗaː su ta indà ruwan kòːgiː yakèː bîː zuwàː cikin kwarìː sukà shìga ƙauyukàː dà gòːnàkiː.
 1	Sai	sai	ADV	_	_	3	mod	_	Gloss=XX
-2	ruwân	ruwaː	NOUN	_	Definite=PrevRef|Gender=Masc	3	subj	_	Gloss=water.Masc.Cons
+2	ruwân	ruwaː	NOUN	_	Definite=PrevRef|Gender=Masc	3	subj	_	Gloss=water.Masc.PrevRef
 3	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
-4	zama	zama	VERB	_	_	3	comp:aux	_	Gloss=XX
-5	kàmar̃	kàmar̃	ADP	_	Definite=Cons|Gender=Fem	4	mod	_	Gloss=XX
+4	zama	zama	VERB	_	_	3	comp:aux	_	Gloss=become
+5	kàmar̃	kàmar̃	ADP	_	Definite=Cons|Gender=Fem	4	comp:pred	_	Gloss=XX
 6	hazoː	hazoː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=XX|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-8	hàɗe	hàɗe	CCONJ	_	_	5	mod	_	Gloss=XX
+8	hàɗe	haɗ-	VERB	_	ExtPos=ADV|VerbForm=Stat	6	mod	_	Gloss=group.Stat
 9	kuma	kuma	PART	_	_	8	discourse@top	_	Gloss=too
-10	dà	dà	ADP	_	_	8	cc	_	Gloss=XX
-11	iskàr̃	iskàː	NOUN	_	Definite=PrevRef|Gender=Fem	8	conj:coord	_	Gloss=gas.Fem.PrevRef|SpaceAfter=No
+10	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=XX
+11	iskàr̃	iskàː	NOUN	_	Definite=PrevRef|Gender=Fem	10	comp:obj	_	Gloss=gas.Fem.PrevRef|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	akà	nàː	AUX	_	Aspect=Prog|Person=4	3	parataxis@conj	_	Gloss=XX
 14	hankàɗaː	hankàɗaː	VERB	_	_	13	comp:aux	_	Gloss=XX

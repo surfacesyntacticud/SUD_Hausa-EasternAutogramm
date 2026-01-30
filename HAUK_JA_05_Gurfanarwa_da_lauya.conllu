@@ -354,7 +354,7 @@
 28	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__16
-# text = Tun dà daɗèːwaː nèː Chief G.F. ya zama ƙayàː gà gwamnatoːcin Nàːjeːr̃iyàː .
+# text = Tun dà daɗèːwaː nèː Chief G.F. ya zama ƙayàː gà gwamnatoːcin Nàːjeːr̃iyàː.
 1	Tun	tun	SCONJ	_	_	7	mod	_	Gloss=XX
 2	dà	dà	SCONJ	_	_	1	unk	_	Gloss=COMP
 3	daɗèːwaː	daɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:obj	_	Gloss=XX
@@ -362,8 +362,8 @@
 5	Chief	Chief	PROPN	_	_	7	subj	_	Gloss=Chief
 6	G.F.	G.F.	PROPN	_	_	5	flat@name	_	Gloss=G.F.
 7	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
-8	zama	zama	VERB	_	_	7	comp:aux	_	Gloss=XX
-9	ƙayàː	ƙayàː	NOUN	_	Gender=Fem	8	comp:pred	_	Gloss=XX
+8	zama	zama	VERB	_	_	7	comp:aux	_	Gloss=become
+9	ƙayàː	ƙayàː	NOUN	_	Gender=Fem	8	comp:pred	_	Gloss=thorn.Fem
 10	gà	gà	ADP	_	_	8	comp:obl	_	Gloss=XX
 11	gwamnatoːcin	gwamnatoːciː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	Gloss=XX
 12	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	11	mod	_	Gloss=Nigeria|SpaceAfter=No
@@ -372,7 +372,7 @@
 # sent_id = 05_Gurfanarwa_da_lauya__17
 # text = Yaː fitoː à kaːnun làːbàːr̃ai nèː à shèːkaràr̃ alìf dà ɗàːriː tar̃à dà sìttin dà tar̃à loːkàcîn dà ya kaːrè wani leːbùr̃à dà akèː yîn zàrgin cêːwa wani jaːmìꞌin gwamnatì yaː yi wà màːtar̃sà fyàːɗeː.
 1	Yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
-2	fitoː	fitoː	VERB	_	_	1	comp:aux	_	Gloss=XX
+2	fitoː	fit-	VERB	_	_	1	comp:aux	_	Gloss=come_out
 3	à	à	ADP	_	_	2	comp:obl	_	Gloss=at
 4	kaːnun	kân	ADP	_	_	3	comp:obj	_	Gloss=XX
 5	làːbàːr̃ai	làːbàːr̃ai	NOUN	_	Case=Gen|Gender=Masc|Person=3	4	comp:obj	_	Gloss=XX
