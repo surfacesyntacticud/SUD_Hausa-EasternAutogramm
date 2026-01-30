@@ -60,7 +60,7 @@
 
 # sent_id = 17_Gidan_yarin_Kirikiri__3
 # text = R̃àhoːtòn ya cèː sha'ànin tsabtàː dà na kiːwòn laːfiyàː duk à tàɓàrɓàre sukè, kuma kusan mutàːneː àr̃bà'in dà tar̃à neː sukà ràsu à Ƙìr̃iƙìr̃i à bàːra kaɗai, yawancinsù maː màːsu jiràn à gabaːtar̃ dà suː nèː à gàban koːtù.
-1	R̃àhoːtòn	R̃àhoːtòn	PROPN	_	_	2	subj	_	Gloss=R̃àhoːtòn
+1	R̃àhoːtòn	r̃àhoːtòː	PROPN	_	_	2	subj	_	Gloss=report.Masc.PrevRef
 2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=XX
 4	sha'ànin	sha'àniː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=matter.Masc.Cons
@@ -84,7 +84,7 @@
 22	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	19	comp:obj	_	Gloss=XX
 23	ràsu	ràsu	VERB	_	_	22	comp:aux	_	Gloss=XX
 24	à	à	ADP	_	_	23	comp:obl	_	Gloss=at
-25	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	24	comp:obj	_	Gloss=Ƙìr̃iƙìr̃i
+25	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	24	comp:obj	_	Gloss=Kirikiri
 26	à	yà	AUX	_	Mood=Sub|Person=4	22	parataxis@conj	_	Gloss=XX
 27	bàːra	bàar-	VERB	_	_	26	comp:obj	_	Gloss=XX
 28	kaɗai	kaɗai	ADV	_	_	26	mod	_	Gloss=XX|SpaceAfter=No
@@ -116,7 +116,7 @@
 8	cikin	cikin	ADP	_	_	20	comp:obl	_	Gloss=inside
 9	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=house.Masc.Cons
 10	fur̃sùnàn	fur̃sùnàː	NOUN	_	Definite=Cons|Number=Plur	8	comp:obj	_	Gloss=XX
-11	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	10	mod	_	Gloss=Ƙìr̃iƙìr̃i
+11	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	10	mod	_	Gloss=Kirikiri
 12	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	comp:cleft	_	Gloss=XX
 13	ɓaːcì	ɓaːcì	VERB	_	_	12	comp:aux	_	Gloss=XX|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
@@ -212,7 +212,7 @@
 11	à	à	ADP	_	_	2	mod	_	Gloss=at
 12	cikin	cikin	ADP	_	_	11	comp:obj	_	Gloss=inside
 13	kûr̃kukùn	kûr̃kukùː	NOUN	_	Definite=Cons|Gender=Masc	14	mod	_	Gloss=prison.Masc.Cons
-14	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	12	comp:obj	_	Gloss=Ƙìr̃iƙìr̃i
+14	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	12	comp:obj	_	Gloss=Kirikiri
 15	baːyan	baːyan	SCONJ	_	_	2	mod	_	Gloss=after
 16	kùwa	kùwa	PART	_	_	15	discourse@top	_	Gloss=XX
 17	an	yaː	AUX	_	Aspect=Perf|Person=4	15	comp:obj	_	Gloss=XX
@@ -234,8 +234,8 @@
 
 # sent_id = 17_Gidan_yarin_Kirikiri__7a
 # text = Gùdaː ɗàriː huɗu dà hàmsin dà tar̃à ɗàgà cikin tsàràrrûn sunàː jiràn à gabaːtar̃ dà suː nèː à gàban shàr̃i'àː .
-1	Gùdaː	Gùdaː	PROPN	_	_	11	subj	_	Gloss=Gùdaː
-2	ɗàriː	ɗàriː	NUM	_	_	11	subj	_	Gloss=hundred
+1	Gùdaː	gùdaː	NOUN	_	_	11	subj	_	Gloss=unit.Masc
+2	ɗàriː	ɗàriː	NUM	_	_	1	mod:num	_	Gloss=hundred
 3	huɗu	huɗu	NUM	_	_	2	det	_	Gloss=four
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=XX
 5	hàmsin	hàmsiː	NOUN	_	Definite=Cons|Gender=Masc	2	conj:coord	_	Gloss=XX
@@ -302,7 +302,7 @@
 10	àkwai	àkwai	PART	_	_	9	comp:pred	_	Gloss=XX
 11	à	à	ADP	_	_	10	mod	_	Gloss=at
 12	kûr̃kukùn	kûr̃kukùː	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	Gloss=prison.Masc.Cons
-13	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	12	mod	_	Gloss=Ƙìr̃iƙìr̃i
+13	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	12	mod	_	Gloss=Kirikiri
 14	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	5	comp:obj	_	Gloss=XX
 15	har̃àmtà	har̃àː	VERB	_	_	14	comp:aux	_	Gloss=XX
 16	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=use.Masc
@@ -330,7 +330,7 @@
 
 # sent_id = 17_Gidan_yarin_Kirikiri__9a
 # text = Sabòːdà tsananin rashìn ìsasshen fiːliː à kûr̃kukùn, anàː kar̃kàsà tsàràrruː idan zaːsù yi barciː ;
-1	Sabòːdà	Sabòːdà	PROPN	_	_	9	discourse	_	Gloss=Sabòːdà
+1	Sabòːdà	sabòːdà	ADP	_	_	9	discourse	_	Gloss=because_of
 2	tsananin	tsananiː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	Gloss=XX
 3	rashìn	rashìː	NOUN	_	Definite=Cons|Gender=Masc	2	mod	_	Gloss=XX
 4	ìsasshen	ìsasshen	NOUN	_	Definite=Cons|Number=Plur	3	mod	_	Gloss=XX
@@ -602,7 +602,7 @@
 25	tun	tun	SCONJ	_	_	21	mod	_	Gloss=XX
 26	bàː	bàː	PART	_	Polarity=Neg	28	mod	_	Gloss=XX
 27	maː	maː	PART	_	_	26	discourse@top	_	Gloss=XX
-28	kàmar̃	kàmar̃	ADP	_	Definite=Cons|Gender=Fem	21	mod	_	Gloss=XX|wordform=kaːrmar
+28	kàmar̃	kàmar̃	ADP	_	_	21	mod	_	Gloss=like|wordform=kaːrmar
 29	ciːwòn	ciːwòː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	28	comp:obj	_	Gloss=XX
 30	fùkaː	fùkaː	NOUN	_	_	29	mod	_	Gloss=XX
 31	ba	ba	PART	_	Polarity=Neg	28	mod	_	Gloss=XX|SpaceAfter=No

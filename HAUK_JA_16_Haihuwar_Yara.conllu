@@ -1,6 +1,6 @@
 # sent_id = 16_Aihuwar_Yara__1
 # text = Matsaloːliː danganèː dà haihùwar̃ yâːraː à Nàːjeːr̃iyàː
-1	Matsaloːliː	Matsaloːliː	PROPN	_	_	0	root	_	Gloss=Matsaloːliː
+1	Matsaloːliː	màtsalàː	NOUN	_	_	0	root	_	Gloss=problem.Plur
 2	danganèː	danganèː	NOUN	_	ExtPos=ADP|Gender=Masc|Number=Plur	1	comp:cleft	_	Gloss=relation.Masc|Idiom=Yes
 3	dà	dà	ADP	_	_	2	compound	_	Gloss=with|InIdiom=Yes
 4	haihùwar̃	haihùwaː	NOUN	_	Definite=Cons|Gender=Fem	2	comp:obj	_	Gloss=XX
@@ -110,7 +110,7 @@
 15	cikin	cikin	ADP	_	_	14	comp:obj	_	Gloss=inside
 16	jàːrìːrai	jàːrìːrai	NOUN	_	Number=Plur	15	comp:obj	_	Gloss=XX
 17	dà	dà	CCONJ	_	_	18	cc	_	Gloss=XX
-18	kàmar̃	kàmar̃	ADP	_	Definite=Cons|Gender=Fem	14	conj:coord	_	Gloss=XX
+18	kàmar̃	kàmar̃	ADP	_	_	14	conj:coord	_	Gloss=like
 19	sàu	sàu	ADP	_	Mood=Sub|Number=Plur|Person=3	18	comp:obj	_	Gloss=XX
 20	àshìr̃in	àshìr̃in	NUM	_	_	19	mod	_	Gloss=XX|SpaceAfter=No
 21	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
@@ -124,7 +124,7 @@
 29	ƙungiyoːyiː	ƙungiyoːyiː	NOUN	_	Gender=Masc	27	comp:obj	_	Gloss=XX
 30	na	na	ADP	_	_	29	mod	_	Gloss=XX
 31	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	30	comp:obj	_	Gloss=world.Fem
-32	kàmar̃	kàmar̃	ADP	_	Definite=Cons|Gender=Fem	27	mod	_	Gloss=XX
+32	kàmar̃	kàmar̃	ADP	_	_	27	mod	_	Gloss=like
 33	na	na	ADP	_	Definite=Cons	32	comp:obj	_	Gloss=XX
 34	Asuːsùn	Asuːsùn	PROPN	_	_	33	comp:obj	_	Gloss=Asuːsùn
 35	Tàimakon	Tàimakon	PROPN	_	_	34	flat@name	_	Gloss=Tàimakon
@@ -255,7 +255,7 @@
 24	juːnaː	juːnaː	PRON	_	Gender=Fem|Person=3	23	comp:obj	_	Gloss=XX
 25	biyu	biyu	NUM	_	_	22	comp:pred	_	Gloss=XX|SpaceAfter=No
 26	,	,	PUNCT	_	_	36	punct	_	Gloss=PUNCT
-27	kàmar̃	kàmar̃	ADP	_	Definite=Cons|Gender=Fem	36	mod	_	Gloss=XX
+27	kàmar̃	kàmar̃	ADP	_	_	36	mod	_	Gloss=like
 28	kùmburin	kùmburiː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:obj	_	Gloss=XX
 29	ƙafàːfunsů	ƙafàːfuːsù	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur|Person=3	28	mod	_	Gloss=XX
 30	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	35	mod@relcl	_	Gloss=XX
@@ -394,7 +394,7 @@
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyhow
 3	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	Gloss=XX
 4	dà	dà	ADP	_	_	3	comp:pred	_	Gloss=XX
-5	kàmar̃	kàmar̃	ADP	_	Definite=Cons|Gender=Fem	4	comp:obj	_	Gloss=XX
+5	kàmar̃	kàmar̃	ADP	_	_	4	comp:obj	_	Gloss=like
 6	kashìː	kashìː	NOUN	_	_	5	comp:obj	_	Gloss=XX
 7	goːmà	goːmà	NUM	_	_	6	mod:num	_	Gloss=ten
 8	shâː	shâː	NUM	_	_	7	flat@num	_	Gloss=XX
