@@ -747,23 +747,23 @@
 
 # sent_id = 11_Fela_Kuti__25
 # text = Sai kwatsàm à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà huɗu akà kaːmà Fela, akà gurfaːnar̃ dà shiː gàban shàr̃i'àː, indà akà yankèː masà hukuncìn ɗaurìn shèːkàruː bìyar̃ à kûr̃kukùː kân lâifin fìtaː dà kuɗàːɗen ƙasàːshen wàje dàgà cikin ƙasâr̃ - wàːtòː aikìn sùmoːgàː.
-1	Sai	sai	ADV	_	_	2	mod	_	Gloss=XX
-2	kwatsàm	kwatseː	NOUN	_	Definite=Cons|Gender=Fem	0	root	_	Gloss=XX
-3	à	à	ADP	_	_	2	mod	_	Gloss=at
+1	Sai	sai	ADV	_	_	17	mod	_	Gloss=XX
+2	kwatsàm	kwatsàm	IDEO	_	_	17	mod	_	Gloss=suddenly
+3	à	à	ADP	_	_	17	mod	_	Gloss=at
 4	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	3	comp:obj	_	Gloss=year.Fem.Cons
 5	alìf	alìf	NUM	_	_	4	mod	_	Gloss=one_thousand
 6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=XX
 7	ɗàriː	ɗàriː	NUM	_	_	5	conj:coord	_	Gloss=hundred
 8	tar̃à	tar̃à	NUM	_	_	7	mod:num	_	Gloss=nine
 9	dà	dà	CCONJ	_	_	10	cc	_	Gloss=XX
-10	tàmàːnin	tàmàːniː	NUM	_	Definite=Cons|Gender=Masc	7	conj:coord	_	Gloss=XX
+10	tàmàːnin	tàmàːniː	NUM	_	Definite=Cons|Gender=Masc	7	conj:coord	_	Gloss=eighty
 11	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=COMP
 12	huɗu	huɗu	NUM	_	_	13	subj	_	Gloss=four
 13	akà	nàː	AUX	_	Aspect=Prog|Person=4	5	mod@relcl	_	Gloss=XX
-14	kaːmà	kaːmàː	VERB	_	_	13	comp:aux	_	Gloss=XX
+14	kaːmà	kaːm-	VERB	_	_	13	comp:aux	_	Gloss=catch
 15	Fela	Fela	PROPN	_	_	14	comp:obj	_	Gloss=Fela|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-17	akà	nàː	AUX	_	Aspect=Prog|Person=4	2	comp:cleft	_	Gloss=XX
+17	akà	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=XX
 18	gurfaːnar̃	gurfaːnar̃	VERB	_	Definite=Cons|Gender=Fem	17	comp:aux	_	Gloss=XX
 19	dà	dà	ADP	_	_	18	comp:obl	_	Gloss=XX
 20	shiː	shiː	PRON	_	Gender=Masc|Person=3	17	dislocated@subj	_	Gloss=XX
