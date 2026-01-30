@@ -19,11 +19,11 @@
 10	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko__3
-# text = tsoːhon ministàn sufùr̃in na Nàjeːr̃iyàː yaː tseːrèː neː dàgà ƙasâr̃ baːyan juːyìn mulkìn dà soːjà sukà yi à watan disambàː na shèːkararàr̃ alìf da ɗàriː tar̃à dà tàmàːnin dà ukù, indà akà hamɓarar̃ dà gwamnatìn farar̃-hùːlaː ta Shùːgàbaː Sheːhù Shàːgàːri.
+# text = tsoːhon ministàn sufùr̃in na Nàjeːr̃iyàː yaː tseːrèː neː dàgà ƙasâr̃ baːyan juːyìn mulkìn dà soːjà sukà yi à watan disambàː na shèːkararàr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà ukù, indà akà hamɓarar̃ dà gwamnatìn farar̃-hùːlaː ta Shùːgàbaː Sheːhù Shàːgàːri.
 # text_ortho = Tsoːhon Ministàn Sufùr̃in na Nàjeːr̃iyàː yaː tseːrèː neː dàgà ƙasâr̃ baːyan juːyìn mulkìn dà soːjà sukà yi à watan Disambàː na shèːkararàr̃ alìf da ɗàriː tar̃à đà tàmàːnin dà ukù, indà akà hamɓarar̃ dà gwamnatìn farar̃-hùːlaː ta Shùːgàbaː Sheːhù Shàːgàːri.
-1	tsoːhon	tsoːhoː	ADJ	_	_	6	mod	_	Gloss=XX
-2	ministàn	ministàː	NOUN	_	Definite=Cons|Gender=Masc	1	mod	_	Gloss=XX
-3	sufùr̃in	sufùr̃in	NUM	_	Definite=Cons|Gender=Masc	2	mod	_	Gloss=XX
+1	tsoːhon	tsoːhoː	ADJ	_	_	2	mod	_	Gloss=XX
+2	ministàn	ministàː	NOUN	_	Definite=Cons|Gender=Masc	6	subj	_	Gloss=minister.Masc.Cons
+3	sufùr̃in	sufùr̃iː	NOUN	_	Definite=Cons|Gender=Masc	2	mod	_	Gloss=transport.Masc.Cons
 4	na	na	ADP	_	_	3	mod	_	Gloss=XX
 5	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	4	comp:obj	_	Gloss=Nigeria
 6	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
@@ -43,7 +43,7 @@
 20	disambàː	disambàː	NOUN	_	Gender=Fem	19	mod	_	Gloss=XX
 21	na	na	ADP	_	_	19	mod	_	Gloss=XX
 22	shèːkararàr̃	shèːkararàː	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	21	comp:obj	_	Gloss=XX
-23	alìf	alìf	NUM	_	_	22	mod	_	Gloss=one_thousand
+23	alìf	alìf	NUM	_	_	22	mod:num	_	Gloss=one_thousand
 24	dà	da	CCONJ	_	_	25	cc	_	Gloss=XX|wordform=da
 25	ɗàriː	ɗàriː	NUM	_	_	23	conj:coord	_	Gloss=hundred
 26	tar̃à	tar̃à	NUM	_	_	25	mod:num	_	Gloss=nine
@@ -82,7 +82,7 @@
 13	Bìːni	Bìːni	PROPN	_	_	12	mod	_	Gloss=Benin_Republic|SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 15	ƙiːlà	ƙiːlà	ADV	_	_	16	mod	_	Gloss=XX
-16	baːyan	baːyan	SCONJ	_	_	10	mod	_	Gloss=XX
+16	baːyan	baːyan	SCONJ	_	_	10	mod	_	Gloss=after
 17	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	16	comp:obj	_	Gloss=XX
 18	ɓad	ɓaː	ADV	_	_	17	comp:aux	_	Gloss=XX
 19	dà	dà	ADP	_	_	18	mod	_	Gloss=XX
@@ -98,7 +98,7 @@
 # sent_id = 01_Umaru_Dikko__5
 # text = baːyan yaː yi kwaːnaː ukù à can nèː ya zoː nân Landàn à jirgin samà.
 # text_ortho = Baːyan yaː yi kwaːnaː ukù à can nèː ya zoː nân Landàn à jirgin samà.
-1	baːyan	baːyan	SCONJ	_	_	9	mod	_	Gloss=XX
+1	baːyan	baːyan	SCONJ	_	_	9	mod	_	Gloss=after
 2	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	comp:obj	_	Gloss=XX
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	kwaːnaː	kwaːn-	NOUN	_	ExtPos=NOUN|Gender=Masc	3	comp:pred	_	Gloss=XX
@@ -287,8 +287,8 @@
 # text = à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː kuma wasu ꞌyan ƙasar̃ Ìsr̃aːꞌiːlà suː ukù, dà wani ɗan lèːƙen àsiːr̃ì mùtumìn Nàjeːr̃iyàː, sukà amsà lâifin ƙòːƙarin saːcè Ùːmar̃ù Dikkò.
 # text_ortho = À shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː kuma wasu ꞌyan ƙasar̃ Ìsr̃aːꞌiːlà suː ukù, dà wani ɗan lèːƙen àsiːr̃ì mùtumìn Nàjeːr̃iyàː, sukà amsà lâifin ƙòːƙarin saːcè Ùːmar̃ù Dikkò.
 1	à	à	ADP	_	_	28	mod	_	Gloss=at
-2	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	1	comp:obj	_	Gloss=year.Fem.Cons
-3	alìf	alìf	NUM	_	_	2	mod	_	Gloss=one_thousand
+2	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	3	mod@desc	_	Gloss=year.Fem.Cons
+3	alìf	alìf	NUM	_	_	1	comp:obj	_	Gloss=one_thousand
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=XX
 5	ɗàriː	ɗàriː	NUM	_	_	3	conj:coord	_	Gloss=hundred
 6	tar̃à	tar̃à	NUM	_	_	5	mod:num	_	Gloss=nine
@@ -381,8 +381,8 @@
 3	watàn	watàː	PRON	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	2	comp:aux	_	Gloss=month.Masc.Cons
 4	jànair̃u	jànair̃u	NOUN	_	Number=Plur	3	mod	_	Gloss=XX
 5	na	na	ADP	_	_	4	mod	_	Gloss=XX
-6	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	5	comp:obj	_	Gloss=year.Fem.Cons
-7	alif	alif	NUM	_	_	6	mod	_	Gloss=XX
+6	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	7	mod@desc	_	Gloss=year.Fem.Cons
+7	alif	alif	NUM	_	_	5	comp:obj	_	Gloss=XX
 8	dà	dà	CCONJ	_	_	9	cc	_	Gloss=XX
 9	ɗàriː	ɗàriː	NUM	_	_	7	conj:coord	_	Gloss=hundred
 10	tar̃à	tar̃à	NUM	_	_	9	flat:num	_	Gloss=nine

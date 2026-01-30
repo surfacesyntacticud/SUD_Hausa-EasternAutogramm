@@ -85,8 +85,8 @@
 13	gàrin	gàriː	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	Gloss=XX
 14	Àbêːkùta	Àbêːkùta	PROPN	_	_	13	mod	_	Gloss=Abeokuta
 15	à	à	ADP	_	_	11	mod	_	Gloss=at
-16	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	15	comp:obj	_	Gloss=year.Fem.Cons
-17	alìf	alìf	NUM	_	_	16	mod	_	Gloss=one_thousand
+16	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	17	mod@desc	_	Gloss=year.Fem.Cons
+17	alìf	alìf	NUM	_	_	15	comp:obj	_	Gloss=one_thousand
 18	dà	dà	CCONJ	_	_	19	cc	_	Gloss=XX
 19	ɗàriː	ɗàriː	NUM	_	_	17	conj:coord	_	Gloss=hundred
 20	tar̃à	tar̃à	NUM	_	_	19	mod:num	_	Gloss=nine
@@ -349,8 +349,8 @@
 2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=XX
 3	neː	neː	PART	_	Gender=Masc	1	discourse@foc	_	Gloss=XX
 4	à	à	ADP	_	_	14	mod	_	Gloss=at
-5	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	4	comp:obj	_	Gloss=year.Fem.Cons
-6	alìf	alìf	NUM	_	_	5	mod	_	Gloss=one_thousand
+5	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	6	mod@desc	_	Gloss=year.Fem.Cons
+6	alìf	alìf	NUM	_	_	4	comp:obj	_	Gloss=one_thousand
 7	dà	dà	CCONJ	_	_	8	cc	_	Gloss=XX
 8	ɗàriː	ɗàriː	NUM	_	Number=Plur	6	conj:coord	_	Gloss=hundred
 9	tar̃à	tar̃à	NUM	_	_	8	mod:num	_	Gloss=nine
@@ -380,7 +380,7 @@
 # text = Baːyan shèːkàruː huɗu nèː ya koːmàː Nàːjeːr̃iyàː indà ya yi ta gwajìː, kuma yanàː àmfàːniː dà salon kàɗe-kàɗe dà wàːƙe-wàːƙe irìː-irìː.
 1	Baːyan	baːyan	ADP	_	_	5	mod	_	Gloss=after
 2	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	1	comp:obj	_	Gloss=year.Plur
-3	huɗu	huɗu	NUM	_	_	2	det	_	Gloss=four
+3	huɗu	huɗu	NUM	_	_	2	mod:num	_	Gloss=four
 4	nèː	neː	PART	_	_	1	discourse@foc	_	Gloss=XX
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 6	koːmàː	koːm-	VERB	_	_	5	comp:aux	_	Gloss=go_(back)_to
@@ -407,7 +407,7 @@
 1	Tòː	tòː	INTJ	_	_	24	discourse	_	Gloss=XX
 2	àmmaː	àmmaː	CCONJ	_	_	24	discourse	_	Gloss=XX
 3	sai	sai	ADV	_	_	24	mod	_	Gloss=XX
-4	baːyan	baːyan	SCONJ	_	_	24	mod	_	Gloss=XX
+4	baːyan	baːyan	SCONJ	_	_	24	mod	_	Gloss=after
 5	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	comp:obj	_	Gloss=XX
 6	yi	yi	VERB	_	_	5	comp:aux	_	Gloss=do
 7	wàtànniː	wàtànniː	NOUN	_	Gender=Masc	6	comp:pred	_	Gloss=XX
@@ -417,8 +417,8 @@
 11	neː	neː	PART	_	Gender=Masc|Number=Plur	9	discourse@foc	_	Gloss=XX|SpaceAfter=No
 12	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 13	à	à	ADP	_	_	24	mod	_	Gloss=at
-14	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	13	comp:obj	_	Gloss=year.Fem.Cons
-15	alìf	alìf	NUM	_	_	14	mod	_	Gloss=one_thousand
+14	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	15	mod@desc	_	Gloss=year.Fem.Cons
+15	alìf	alìf	NUM	_	_	13	comp:obj	_	Gloss=one_thousand
 16	dà	dà	CCONJ	_	_	17	cc	_	Gloss=XX
 17	ɗàriː	ɗàriː	NUM	_	_	15	conj:coord	_	Gloss=hundred
 18	tar̃à	tar̃à	NUM	_	_	17	mod:num	_	Gloss=nine
@@ -546,8 +546,8 @@
 # sent_id = 11_Fela_Kuti__19
 # text = À shèːkaràr̃ alìf dà ɗàriː tar̃à dà sàbà'in dà bakwài neː àbîn ya kai magaryar̃ tiƙềwaː, loːkàcîn dà soːjoːjin gwamnatìn Janàr̃ " Obasanjo " sukà yi fàr̃makìː kân gidan Fela dà kèː Ìkko.
 1	À	à	ADP	_	_	13	mod	_	Gloss=XX
-2	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	1	comp:obj	_	Gloss=year.Fem.Cons
-3	alìf	alìf	NUM	_	_	2	mod	_	Gloss=one_thousand
+2	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	3	mod@desc	_	Gloss=year.Fem.Cons
+3	alìf	alìf	NUM	_	_	1	comp:obj	_	Gloss=one_thousand
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=XX
 5	ɗàriː	ɗàriː	NUM	_	Number=Plur	3	conj:coord	_	Gloss=hundred
 6	tar̃à	tar̃à	NUM	_	_	5	mod:num	_	Gloss=nine
@@ -660,8 +660,8 @@
 5	kàrɓi	kàrɓi	VERB	_	_	4	comp:obj	_	Gloss=XX
 6	mulkìː	mulkìː	NOUN	_	Gender=Masc	5	mod	_	Gloss=XX
 7	à	à	ADP	_	_	5	mod	_	Gloss=at
-8	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	7	comp:obj	_	Gloss=year.Fem.Cons
-9	alìf	alìf	NUM	_	_	8	mod	_	Gloss=one_thousand
+8	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	9	mod@desc	_	Gloss=year.Fem.Cons
+9	alìf	alìf	NUM	_	_	7	comp:obj	_	Gloss=one_thousand
 10	dà	dà	CCONJ	_	_	11	cc	_	Gloss=XX
 11	ɗàriː	ɗàriː	NUM	_	_	9	conj:coord	_	Gloss=hundred
 12	tar̃à	tar̃à	NUM	_	_	11	mod:num	_	Gloss=nine
@@ -706,7 +706,7 @@
 6	dà	dà	ADP	_	_	5	comp:obj	_	Gloss=with
 7	manufoːfin	manufaː	NOUN	_	Definite=Cons|Number=Plur	6	comp:obj	_	Gloss=programme.Plur.Cons
 8	jàm'iyyàr̃	jàm'iyyàː	NOUN	_	Definite=Cons|Gender=Fem	7	mod	_	Gloss=party.Fem.Cons
-9	taːsà	taːsà	NUM	_	_	8	mod	_	Gloss=XX|SpaceAfter=No
+9	taːsà	taːsà	PRON	_	_	8	mod	_	Gloss=3Fem.Gen|SpaceAfter=No
 10	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 11	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	13	comp:obj	_	Gloss=XX
 12	à	à	ADP	_	_	15	mod	_	Gloss=at
@@ -725,7 +725,7 @@
 25	huːtuː	huːtuː	NOUN	_	Gender=Masc	24	comp:pred	_	Gloss=rest.Masc
 26	na	na/ta	ADP	_	_	25	mod	_	Gloss=XX
 27	watàː	watàː	NOUN	_	Gender=Masc	26	comp:obj	_	Gloss=XX
-28	gùdaː	gùdaː	NUM	_	_	27	det	_	Gloss=XX|SpaceAfter=No
+28	gùdaː	gùdaː	NUM	_	_	27	mod:num	_	Gloss=XX|SpaceAfter=No
 29	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 30	don	don	SCONJ	_	_	24	mod	_	Gloss=XX
 31	koːwaː	koːwaː	PRON	_	_	32	subj	_	Gloss=XX
@@ -750,8 +750,8 @@
 1	Sai	sai	ADV	_	_	13	mod	_	Gloss=XX
 2	kwatsàm	kwatsàm	IDEO	_	_	13	mod	_	Gloss=suddenly
 3	à	à	ADP	_	_	13	mod	_	Gloss=at
-4	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	3	comp:obj	_	Gloss=year.Fem.Cons
-5	alìf	alìf	NUM	_	_	4	mod	_	Gloss=one_thousand
+4	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	5	mod@desc	_	Gloss=year.Fem.Cons
+5	alìf	alìf	NUM	_	_	3	comp:obj	_	Gloss=one_thousand
 6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=XX
 7	ɗàriː	ɗàriː	NUM	_	_	5	conj:coord	_	Gloss=hundred
 8	tar̃à	tar̃à	NUM	_	_	7	flat:num	_	Gloss=nine
@@ -797,20 +797,20 @@
 48	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
 # sent_id = 11_Fela_Kuti__26
-# text = Àmmaː baːyan shèːkaràː biyu kawài sai akà sàki goːgân naːkù, wato baːyan an sàːmi sauyìn gwamnatì à Nàːjeːr̃iyàː.
+# text = Àmmaː baːyan shèːkaràː biyu kawài sai akà sàki goːgân naːkù, wàːtòː baːyan an sàːmi sauyìn gwamnatì à Nàːjeːr̃iyàː.
 1	Àmmaː	àmmaː	CCONJ	_	_	7	discourse	_	Gloss=XX
 2	baːyan	baːyan	ADP	_	_	7	mod	_	Gloss=after
-3	shèːkaràː	shèːkaràː	NOUN	_	Number=Plur	2	comp:obj	_	Gloss=XX
-4	biyu	biyu	NUM	_	_	3	det	_	Gloss=XX
+3	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	2	comp:obj	_	Gloss=year.Fem
+4	biyu	biyu	NUM	_	_	3	mod:num	_	Gloss=XX
 5	kawài	kawài	ADV	_	_	3	mod	_	Gloss=XX
 6	sai	sai	ADV	_	_	7	mod	_	Gloss=XX
 7	akà	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=XX
 8	sàki	sàkaː	VERB	_	_	7	comp:aux	_	Gloss=XX
-9	goːgân	goːgâː	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=XX
-10	naːkù	naːkù	PRON	_	Case=Gen|Number=Plur|Person=2	9	mod@poss	_	Gloss=XX|SpaceAfter=No
-11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-12	wato	watː	ADP	_	_	9	mod	_	Gloss=XX
-13	baːyan	baːyan	SCONJ	_	_	9	mod	_	Gloss=XX
+9	goːgân	goːgaː	NOUN	_	Definite=PrevRef|Gender=Masc	8	comp:obj	_	Gloss=hero.Masc.PrevRef
+10	naːkù	naːkù	PRON	_	Case=Gen|Number=Plur|Person=2	9	mod@poss	_	Gloss=2Plur.Gen|SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
+12	wàːtòː	wàːtòː	PART	_	_	13	discourse	_	Gloss=that_is_to_say
+13	baːyan	baːyan	SCONJ	_	_	8	mod	_	Gloss=after
 14	an	yaː	AUX	_	Aspect=Perf|Person=4	13	comp:obj	_	Gloss=XX
 15	sàːmi	saːm-	VERB	_	_	14	comp:aux	_	Gloss=XX
 16	sauyìn	sauyìː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	Gloss=XX
@@ -856,8 +856,8 @@
 33	dukkàn	dukkà	PRON	_	Definite=Cons	32	comp:obj	_	Gloss=all.Cons|SpaceAfter=No|wordform=dukkànsù
 34	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	33	mod@poss	_	Gloss=3Plur.Gen
 35	à	à	ADP	_	_	32	mod	_	Gloss=at
-36	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	35	comp:obj	_	Gloss=year.Fem.Cons
-37	alìf	alìf	NUM	_	_	36	mod	_	Gloss=one_thousand
+36	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	37	mod@desc	_	Gloss=year.Fem.Cons
+37	alìf	alìf	NUM	_	_	35	comp:obj	_	Gloss=one_thousand
 38	dà	dà	CCONJ	_	_	39	cc	_	Gloss=XX
 39	ɗàriː	ɗàriː	NUM	_	_	37	conj:coord	_	Gloss=hundred
 40	tar̃à	tar̃à	NUM	_	_	39	mod:num	_	Gloss=nine

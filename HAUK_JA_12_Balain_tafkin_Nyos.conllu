@@ -16,8 +16,8 @@
 2	watàn	watàː	PRON	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	1	comp.obj	_	Gloss=month.Masc.Cons
 3	Àgustàː	Àgustàː	PROPN	_	_	2	mod	_	Gloss=Àgustàː
 4	na	na	ADP	_	_	3	mod	_	Gloss=XX
-5	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	4	comp:obj	_	Gloss=year.Fem.Cons
-6	alìf	alìf	NUM	_	_	5	mod	_	Gloss=one_thousand
+5	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	6	mod@desc	_	Gloss=year.Fem.Cons
+6	alìf	alìf	NUM	_	_	4	comp:obj	_	Gloss=one_thousand
 7	dà	dà	CCONJ	_	_	8	cc	_	Gloss=XX
 8	ɗàriː	ɗàriː	NUM	_	_	6	conj:coord	_	Gloss=hundred
 9	tar̃à	tar̃à	NUM	_	_	8	flat:num	_	Gloss=nine
@@ -44,7 +44,7 @@
 30	dàgà	dàgà	ADP	_	_	29	comp:obl	_	Gloss=from
 31	Tafkìn	Tafkìn	PROPN	_	_	30	comp:obj	_	Gloss=Tafkìn|wordform=Tar̃kin
 32	Nyos	Nyos	PROPN	_	_	31	flat@name	_	Gloss=Nyos
-33	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	32	mod	_	Gloss=XX
+33	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	32	mod	_	Gloss=country.Fem.Cons
 34	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	33	mod	_	Gloss=Kàmàr̃u
 35	har̃	har̃	SCONJ	_	Definite=Cons|Gender=Fem	28	mod	_	Gloss=XX
 36	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	35	comp:obj	_	Gloss=XX
@@ -74,8 +74,8 @@
 11	bur̃tsoː	bur̃tsaː	VERB	_	_	10	comp:aux	_	Gloss=XX
 12	dà	dà	ADP	_	_	11	comp:obl	_	Gloss=XX
 13	wajen	wajeː	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	Gloss=XX
-14	tân	yâː	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	Gloss=XX
-15	dubuː	dubuː	NUM	_	_	14	mod	_	Gloss=thousand
+14	tân	tân	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=ton
+15	dubuː	dubuː	NUM	_	_	14	mod:num	_	Gloss=thousand
 16	shidà	shidà	NUM	_	_	15	mod	_	Gloss=XX
 17	na	na	ADP	_	_	14	mod	_	Gloss=XX
 18	iskàr̃	iskàː	NOUN	_	Definite=Cons|Gender=Fem	17	comp:obj	_	Gloss=XX
@@ -88,7 +88,7 @@
 25	jaːwoː	jaːwoː	VERB	_	_	24	comp:aux	_	Gloss=XX
 26	ruwaː	ruwaː	NOUN	_	Number=Plur	25	comp:obj	_	Gloss=XX
 27	tân	yâː	NOUN	_	Definite=Cons|Gender=Masc	25	comp:obj	_	Gloss=XX
-28	dubuː	dubuː	NUM	_	_	27	mod	_	Gloss=thousand
+28	dubuː	dubuː	NUM	_	_	27	mod:num	_	Gloss=thousand
 29	mèːtan	mèːtan	SCONJ	_	_	25	mod	_	Gloss=XX
 30	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	24	parataxis@conj	_	Gloss=XX
 31	yi	yi	VERB	_	_	30	comp:aux	_	Gloss=do
@@ -151,7 +151,7 @@
 19	in	in	SCONJ	_	_	17	mod	_	Gloss=XX
 20	bandà	bandàː	ADP	_	_	19	comp:obj	_	Gloss=XX
 21	mùtûm	mùtûm	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=XX
-22	bìyar̃	bìyar̃	NUM	_	_	21	det	_	Gloss=five|wordform=biyar
+22	bìyar̃	bìyar̃	NUM	_	_	21	mod:num	_	Gloss=five|wordform=biyar
 23	kawài	kawài	ADV	_	_	20	mod	_	Gloss=XX|SpaceAfter=No
 24	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
@@ -350,7 +350,7 @@
 24	dà	dà	ADP	_	_	23	comp:obl	_	Gloss=XX
 25	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	24	comp:obj	_	Gloss=XX
 26	gàbaː	gàbaː	NOUN	_	Gender=Masc	23	mod	_	Gloss=front.Masc
-27	ɗayan	ɗaya	NUM	_	Definite=Cons	26	comp:obj	_	Gloss=one.Cons|SpaceAfter=No|wordform=ɗayansà
+27	ɗayan	ɗaya	NUM	_	Definite=Cons	26	mod:num	_	Gloss=one.Cons|SpaceAfter=No|wordform=ɗayansà
 28	sà	sà	PRON	_	_	27	mod@poss	_	Gloss=3Masc.Gen
 29	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
@@ -472,7 +472,7 @@
 31	àbù	àbù	NOUN	_	Gender=Masc	30	comp:obj	_	Gloss=XX
 32	mài	mài	PART	_	Gender=Masc|Number=Sing|PartType=Der	31	mod	_	Gloss=possessor_of.Sing
 33	haɗàr̃iː	haɗàr̃iː	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=XX
-34	kwar̃ai	kwar̃ai	NUM	_	_	33	mod	_	Gloss=XX|SpaceAfter=No
+34	kwar̃ai	kwar̃ai	ADV	_	_	33	mod	_	Gloss=XX|SpaceAfter=No
 35	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos__15
@@ -516,8 +516,8 @@
 # sent_id = 12_Bala'in_tafkin_Nyos__17
 # text = À shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà dai mutàneː fìye dà dubuː dà ɗàriː bakwài neː sukà mutù, kuma Allàh neː kawài ya san yawàn waɗàndà zaːsù mutù ìdan tafkìn ya saːkè yîn wani aman gâs ɗîn.
 1	À	à	ADP	_	_	19	mod	_	Gloss=XX
-2	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	1	comp:obj	_	Gloss=year.Fem.Cons
-3	alìf	alìf	NUM	_	_	2	mod	_	Gloss=one_thousand
+2	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	3	mod@desc	_	Gloss=year.Fem.Cons
+3	alìf	alìf	NUM	_	_	1	comp:obj	_	Gloss=one_thousand
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=XX
 5	ɗàriː	ɗàriː	NUM	_	Number=Plur	3	conj:coord	_	Gloss=hundred
 6	tar̃à	tar̃à	NUM	_	_	5	mod:num	_	Gloss=nine
