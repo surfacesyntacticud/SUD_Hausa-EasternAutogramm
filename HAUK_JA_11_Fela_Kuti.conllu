@@ -125,7 +125,7 @@
 4	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	3	comp:obj	_	Gloss=XX|wordform=yakề
 5	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:aux	_	Gloss=do
 6	wannàn	wannàn	DET	_	Deixis=Prox|Gender=Masc|PronType=Dem	7	det	_	Gloss=Prox.Sing
-7	aikìː	aikìː	NOUN	_	Gender=Masc	5	udep	_	Gloss=XX
+7	aikìː	aikìː	NOUN	_	Gender=Masc	5	udep	_	Gloss=work.Masc
 8	neː	neː	PART	_	Gender=Masc|Number=Plur	1	comp:obj	_	Gloss=XX
 9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 10	dingà	ding-	VERB	_	_	9	comp:aux	_	Gloss=XX
@@ -747,54 +747,54 @@
 
 # sent_id = 11_Fela_Kuti__25
 # text = Sai kwatsàm à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà huɗu akà kaːmà Fela, akà gurfaːnar̃ dà shiː gàban shàr̃i'àː, indà akà yankèː masà hukuncìn ɗaurìn shèːkàruː bìyar̃ à kûr̃kukùː kân lâifin fìtaː dà kuɗàːɗen ƙasàːshen wàje dàgà cikin ƙasâr̃ - wàːtòː aikìn sùmoːgàː.
-1	Sai	sai	ADV	_	_	17	mod	_	Gloss=XX
-2	kwatsàm	kwatsàm	IDEO	_	_	17	mod	_	Gloss=suddenly
-3	à	à	ADP	_	_	17	mod	_	Gloss=at
+1	Sai	sai	ADV	_	_	13	mod	_	Gloss=XX
+2	kwatsàm	kwatsàm	IDEO	_	_	13	mod	_	Gloss=suddenly
+3	à	à	ADP	_	_	13	mod	_	Gloss=at
 4	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	3	comp:obj	_	Gloss=year.Fem.Cons
 5	alìf	alìf	NUM	_	_	4	mod	_	Gloss=one_thousand
 6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=XX
 7	ɗàriː	ɗàriː	NUM	_	_	5	conj:coord	_	Gloss=hundred
-8	tar̃à	tar̃à	NUM	_	_	7	mod:num	_	Gloss=nine
+8	tar̃à	tar̃à	NUM	_	_	7	flat:num	_	Gloss=nine
 9	dà	dà	CCONJ	_	_	10	cc	_	Gloss=XX
 10	tàmàːnin	tàmàːniː	NUM	_	Definite=Cons|Gender=Masc	7	conj:coord	_	Gloss=eighty
-11	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=COMP
-12	huɗu	huɗu	NUM	_	_	13	subj	_	Gloss=four
-13	akà	nàː	AUX	_	Aspect=Prog|Person=4	5	mod@relcl	_	Gloss=XX
+11	dà	dà	CCONJ	_	_	12	cc	_	Gloss=COMP
+12	huɗu	huɗu	NUM	_	_	10	conj:coord	_	Gloss=four
+13	akà	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=XX
 14	kaːmà	kaːm-	VERB	_	_	13	comp:aux	_	Gloss=catch
 15	Fela	Fela	PROPN	_	_	14	comp:obj	_	Gloss=Fela|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-17	akà	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=XX
+17	akà	nàː	AUX	_	Aspect=Prog|Person=4	13	parataxis:conj	_	Gloss=XX
 18	gurfaːnar̃	gurfaːnar̃	VERB	_	Definite=Cons|Gender=Fem	17	comp:aux	_	Gloss=XX
 19	dà	dà	ADP	_	_	18	comp:obl	_	Gloss=XX
-20	shiː	shiː	PRON	_	Gender=Masc|Person=3	17	dislocated@subj	_	Gloss=XX
-21	gàban	gàbaː	NOUN	_	Definite=Cons|Gender=Masc	20	mod	_	Gloss=XX
+20	shiː	shiː	PRON	_	Gender=Masc|Person=3	19	comp:obj	_	Gloss=XX
+21	gàban	gàbaː	NOUN	_	Definite=Cons|Gender=Masc	18	comp:obl	_	Gloss=XX
 22	shàr̃i'àː	shàr̃i'àː	NOUN	_	Gender=Fem	21	mod	_	Gloss=XX|SpaceAfter=No
 23	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
-24	indà	indà	ADV	_	PronType=Rel	18	mod	_	Gloss=where
-25	akà	nàː	AUX	_	Aspect=Prog|Person=4	24	mod@relcl	_	Gloss=XX
+24	indà	indà	ADV	_	PronType=Rel	26	mod	_	Gloss=where
+25	akà	nàː	AUX	_	Aspect=Prog|Person=4	22	mod@relcl	_	Gloss=XX
 26	yankèː	yank-	VERB	_	_	25	comp:aux	_	Gloss=XX
 27	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	26	comp:obl	_	Gloss=XX
 28	hukuncìn	hukuncìː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:obj	_	Gloss=XX
 29	ɗaurìn	ɗaurìː	NOUN	_	Definite=Cons|Gender=Masc	28	mod	_	Gloss=XX
-30	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	35	mod	_	Gloss=year.Plur
+30	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	29	mod	_	Gloss=year.Plur
 31	bìyar̃	bìyar̃	NUM	_	_	30	mod:num	_	Gloss=five
-32	à	à	ADP	_	_	26	mod	_	Gloss=at
+32	à	à	ADP	_	_	29	mod	_	Gloss=at
 33	kûr̃kukùː	kûr̃kukùː	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=prison.Masc
-34	kân	kân	ADP	_	_	28	mod	_	Gloss=on
+34	kân	kân	ADP	_	_	26	mod	_	Gloss=on
 35	lâifin	lâifiː	NOUN	_	Definite=Cons|Gender=Masc	34	comp:obj	_	Gloss=XX
-36	fìtaː	fìtaː	NOUN	_	Gender=Fem	35	mod	_	Gloss=XX
-37	dà	dà	CCONJ	_	_	38	cc	_	Gloss=XX
-38	kuɗàːɗen	kuɗàːɗeː	NOUN	_	Definite=Cons|Gender=Masc	34	conj:coord	_	Gloss=XX
+36	fìtaː	fit-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	35	mod	_	Gloss=go_out.Vnoun.Fem
+37	dà	dà	ADP	_	_	36	comp:obl	_	Gloss=XX
+38	kuɗàːɗen	kuɗàːɗeː	NOUN	_	Definite=Cons|Gender=Masc	37	comp:obj	_	Gloss=XX
 39	ƙasàːshen	ƙasàːshen	NOUN	_	Definite=Cons|Number=Plur	38	mod	_	Gloss=XX
 40	wàje	wàje	ADV	_	_	39	mod	_	Gloss=XX
-41	dàgà	dàgà	ADP	_	_	38	mod	_	Gloss=from
+41	dàgà	dàgà	ADP	_	_	36	comp:obl	_	Gloss=from
 42	cikin	cikin	ADP	_	_	41	comp:obj	_	Gloss=inside
 43	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	42	comp:obj	_	Gloss=country.Fem.PrevRef
 44	-	-	PUNCT	_	_	46	punct	_	Gloss=PUNCT
 45	wàːtòː	wàːtòː	PART	_	_	46	discourse	_	Gloss=that_is
-46	aikìn	aikìː	NOUN	_	Definite=Cons|Gender=Masc	32	comp:obj	_	Gloss=XX
-47	sùmoːgàː	sùmoːgàː	NOUN	_	Gender=Masc	46	mod	_	Gloss=XX|SpaceAfter=No
-48	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+46	aikìn	aikìː	NOUN	_	Definite=Cons|Gender=Masc	35	conj:appos	_	Gloss=work.Masc.Cons
+47	sùmoːgàː	sùmoːgàː	NOUN	_	Gender=Fem	46	mod	_	Gloss=smuggling.Fem|SpaceAfter=No
+48	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
 # sent_id = 11_Fela_Kuti__26
 # text = Àmmaː baːyan shèːkaràː biyu kawài sai akà sàki goːgân naːkù, wato baːyan an sàːmi sauyìn gwamnatì à Nàːjeːr̃iyàː.
