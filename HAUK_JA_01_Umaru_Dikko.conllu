@@ -48,7 +48,7 @@
 25	ɗàriː	ɗàriː	NUM	_	_	23	conj:coord	_	Gloss=hundred
 26	tar̃à	tar̃à	NUM	_	_	25	mod:num	_	Gloss=nine
 27	dà	dà	CCONJ	_	_	28	cc	_	Gloss=XX
-28	tàmàːnin	tàmàːniː	NUM	_	Definite=Cons|Gender=Masc	26	conj:coord	_	Gloss=XX
+28	tàmàːnin	tàmàːnin	NUM	_	_	26	conj:coord	_	Gloss=eighty
 29	dà	dà	CCONJ	_	_	30	cc	_	Gloss=XX
 30	ukù	ukù	NUM	_	Number=Plur|Person=3	28	conj:coord	_	Gloss=three|SpaceAfter=No
 31	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
@@ -78,7 +78,7 @@
 9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	5	parataxis@conj	_	Gloss=XX
 10	shìga	shig-	VERB	_	_	9	comp:aux	_	Gloss=XX
 11	cikin	cikin	ADP	_	_	10	comp:obl	_	Gloss=inside
-12	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	11	comp:obj	_	Gloss=XX
+12	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	11	comp:obj	_	Gloss=country.Fem.Cons
 13	Bìːni	Bìːni	PROPN	_	_	12	mod	_	Gloss=Benin_Republic|SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 15	ƙiːlà	ƙiːlà	ADV	_	_	16	mod	_	Gloss=XX
@@ -119,8 +119,8 @@
 # text = baːyan shèːkaràː gùdaː nèː kuma àlꞌamàr̃in na Ùmar̃ù Dikkò ya kai gà wani saːbon matsayiː baːyân dà akà yi ƙòːƙarin saːcèː shi à Ingìlà.
 # text_ortho = Baːyan shèːkaràː  gùdaː nèː kuma àlꞌamàr̃in na Ùmar̃ù Dikkò ya kai gà wani saːbon matsayiː baːyân dà akà yi ƙòːƙarin saːcèː shi à Ingìlà.
 1	baːyan	baːyan	ADP	_	_	10	mod	_	Gloss=after
-2	shèːkaràː	shèːkaràː	NOUN	_	Number=Plur	1	comp:obj	_	Gloss=XX
-3	gùdaː	gùdaː	NUM	_	_	2	det	_	Gloss=XX
+2	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=year.Fem
+3	gùdaː	gùdaː	NUM	_	_	2	mod:num	_	Gloss=XX
 4	nèː	neː	PART	_	_	1	discourse@foc	_	Gloss=XX
 5	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=too
 6	àlꞌamàr̃in	àlꞌamàr̃iː	NOUN	_	_	10	subj	_	Gloss=XX
@@ -210,7 +210,7 @@
 9	gà	gà	ADP	_	_	8	comp:obl	_	Gloss=XX
 10	maꞌaikatar̃	maꞌaikataː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=XX
 11	har̃koːkin	har̃koːkin	NOUN	_	_	10	mod	_	Gloss=XX
-12	wàje	wàje	ADV	_	_	11	mod	_	Gloss=XX|SpaceAfter=No
+12	wàje	wàje	ADV	_	_	11	mod	_	Gloss=outside|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 14	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Masc	10	mod	_	Gloss=government.Masc.Cons
 15	tàːr̃ayyàr̃	tàːr̃ayyàː	NOUN	_	Definite=Cons|Number=Plur	14	mod	_	Gloss=XX
@@ -293,14 +293,14 @@
 5	ɗàriː	ɗàriː	NUM	_	_	3	conj:coord	_	Gloss=hundred
 6	tar̃à	tar̃à	NUM	_	_	5	mod:num	_	Gloss=nine
 7	dà	dà	CCONJ	_	_	8	cc	_	Gloss=XX
-8	tàmàːnin	tàmàːniː	NUM	_	_	5	conj:coord	_	Gloss=XX
+8	tàmàːnin	tàmàːnin	NUM	_	_	5	conj:coord	_	Gloss=eighty
 9	dà	dà	CCONJ	_	_	10	cc	_	Gloss=XX
 10	bìyar̃	bìyar̃	NUM	_	_	8	conj:coord	_	Gloss=five
 11	nèː	neː	PART	_	Gender=Masc|Number=Plur	1	discourse@foc	_	Gloss=XX
 12	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=too
 13	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	14	det	_	Gloss=some.Plur.Spec
 14	ꞌyan	ꞌyan	ADJ	_	Definite=Cons|Number=Plur	28	subj	_	Gloss=XX
-15	ƙasar̃	ƙasar̃	VERB	_	Definite=Cons|Gender=Fem	14	compound	_	Gloss=XX
+15	ƙasar̃	ƙasaː	VERB	_	Definite=Cons|Gender=Fem	14	compound	_	Gloss=country.Fem.Cons
 16	Ìsr̃aːꞌiːlà	Ìsr̃aːꞌiːlà	PROPN	_	_	15	mod	_	Gloss=Ìsr̃aːꞌiːlà
 17	suː	suː	PRON	_	Number=Plur|Person=3	14	conj:appos	_	Gloss=XX
 18	ukù	ukù	NUM	_	_	17	mod:num	_	Gloss=three|SpaceAfter=No
@@ -327,7 +327,7 @@
 # text_ortho = Tùni akà yankèː musù hukuncìn daurìː mài tsawoː à kûr̃kukùː.
 1	tùni	tùni	ADV	_	_	2	mod	_	Gloss=XX
 2	akà	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=XX
-3	yankèː	yank-	VERB	_	_	2	comp:aux	_	Gloss=XX
+3	yankèː	yank-	VERB	_	_	2	comp:aux	_	Gloss=cut
 4	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	3	comp:obl	_	Gloss=XX
 5	hukuncìn	hukuncìː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=XX
 6	daurìː	daurìː	NOUN	_	Gender=Masc	5	mod	_	Gloss=XX
@@ -387,7 +387,7 @@
 9	ɗàriː	ɗàriː	NUM	_	_	7	conj:coord	_	Gloss=hundred
 10	tar̃à	tar̃à	NUM	_	_	9	flat:num	_	Gloss=nine
 11	dà	dà	ADP	_	_	12	cc	_	Gloss=XX
-12	tàmàːnin	tàmàːniː	NUM	_	Definite=Cons|Gender=Masc	10	conj:coord	_	Gloss=XX
+12	tàmàːnin	tàmàːnin	NUM	_	_	10	conj:coord	_	Gloss=eighty
 13	dà	dà	ADP	_	_	14	cc	_	Gloss=XX
 14	bìyar̃	bìyar̃	NUM	_	_	12	conj:coord	_	Gloss=five
 15	nèː	neː	AUX	_	Gender=Masc|Number=Plur	2	discourse@foc	_	Gloss=XX
