@@ -260,8 +260,8 @@
 25	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	26	mod@desc	_	Gloss=year.Fem.Cons
 26	alìf	alìf	NUM	_	_	24	comp:obj	_	Gloss=one_thousand
 27	dà	dà	CCONJ	_	_	28	cc	_	Gloss=XX|wordform=da
-28	ɗàriː	ɗàriː	NOUN	_	Gender=Fem	26	conj:coord	_	Gloss=hundred.Fem
-29	tar̃à	tar̃à	NUM	_	_	28	mod:num	_	Gloss=nine
+28	ɗàriː	ɗàriː	NUM	_	_	26	conj:coord	_	Gloss=hundred
+29	tar̃à	tar̃à	NUM	_	_	28	flat:num	_	Gloss=nine
 30	dà	dà	CCONJ	_	_	31	cc	_	Gloss=XX|wordform=da
 31	tàmàːnin	tàmàːnin	NUM	_	_	28	conj:coord	_	Gloss=eighty
 32	dà	dà	CCONJ	_	_	33	cc	_	Gloss=XX
@@ -270,44 +270,44 @@
 
 # sent_id = 12_Bala'in_tafkin_Nyos__10a
 # text = À wànnan loːkàciː mutàːneː tàlàːtin dà bakwài neː sukà mutù .
-1	À	à	ADP	_	_	8	mod	_	Gloss=XX|wordform=A
+1	À	à	ADP	_	_	9	mod	_	Gloss=XX|wordform=A
 2	wànnan	wànnan	DET	_	Gender=Masc|PronType=Dem	3	det	_	Gloss=XX
 3	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=time.Masc
-4	mutàːneː	mùtûm	NOUN	_	Number=Plur	8	subj	_	Gloss=XX
+4	mutàːneː	mùtûm	NOUN	_	Number=Plur	9	subj	_	Gloss=XX
 5	tàlàːtin	tàlàːtin	NUM	_	_	4	mod:num	_	Gloss=thirty
 6	dà	dà	ADP	_	_	7	cc	_	Gloss=XX
 7	bakwài	bakwài	NUM	_	_	5	conj:coord	_	Gloss=seven
-8	neː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Gloss=XX
-9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	8	comp:cleft	_	Gloss=XX
+8	neː	neː	AUX	_	Gender=Masc|Number=Plur	4	discourse@foc	_	Gloss=XX
+9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 10	mutù	mutù	VERB	_	_	9	comp:aux	_	Gloss=XX
-11	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
+11	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos__10b
 # text = Hakà nan kuma yaː gaːnoː cêːwaː àkwai irìn waɗànnân tafkunàː har̃ sìttin à wannàn yankìː à cikin Kàmàr̃u dà Nàːjeːr̃iyàː, indà sabòːdà yanàyin duwàːtsun wurîn anàː iyà saːmùn irìn wannàn aman gâs à koːwànè loːkàciː .
 1	Hakà	hakà	ADV	_	_	4	mod	_	Gloss=XX
-2	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	comp:obj	_	Gloss=XX
+2	nan	nan	DET	_	Definite=Def|PronType=Dem	1	det	_	Gloss=XX
 3	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=too
 4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 5	gaːnoː	gaːn-	VERB	_	_	4	comp:aux	_	Gloss=XX
 6	cêːwaː	cêː	SCONJ	_	Gender=Fem	5	comp:obj	_	Gloss=XX
-7	àkwai	àkwai	PART	_	_	5	comp:obj	_	Gloss=XX
+7	àkwai	àkwai	PART	_	_	6	comp:obj	_	Gloss=XX
 8	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	7	subj	_	Gloss=type.Masc.Cons
 9	waɗànnân	wannàn	DET	_	Definite=Def|Deixis=Prox|Number=Plur|PronType=Dem	10	det	_	Gloss=Prox.Plur
 10	tafkunàː	tafkunàː	NOUN	_	Gender=Fem	8	mod	_	Gloss=XX
-11	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	8	mod	_	Gloss=XX
+11	har̃	har̃	ADP	_	_	10	mod	_	Gloss=up_to
 12	sìttin	sìttin	NUM	_	_	11	comp:obj	_	Gloss=XX
-13	à	à	ADP	_	_	7	mod	_	Gloss=at
+13	à	à	ADP	_	_	7	comp:pred	_	Gloss=at
 14	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	15	det	_	Gloss=Prox.Sing
 15	yankìː	yankìː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=area.Masc
-16	à	à	ADP	_	_	10	mod	_	Gloss=at
+16	à	à	ADP	_	_	15	mod	_	Gloss=at
 17	cikin	cikin	ADP	_	_	16	comp:obj	_	Gloss=inside
 18	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	17	comp:obj	_	Gloss=Cameroon
 19	dà	dà	CCONJ	_	_	20	cc	_	Gloss=XX
-20	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	15	conj:coord	_	Gloss=Nigeria|SpaceAfter=No
+20	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	18	conj:coord	_	Gloss=Nigeria|SpaceAfter=No
 21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
-22	indà	indà	ADV	_	PronType=Rel	7	mod	_	Gloss=where
+22	indà	indà	ADV	_	PronType=Rel	15	mod@relcl	_	Gloss=where
 23	sabòːdà	sabòːdà	SCONJ	_	_	27	mod	_	Gloss=XX
-24	yanàyin	yanàyiː	NOUN	_	Definite=Cons|Gender=Masc	27	subj	_	Gloss=XX
+24	yanàyin	yanàyiː	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=XX
 25	duwàːtsun	duwàːtsuː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Number=Plur|VerbForm=Vnoun	24	mod	_	Gloss=XX
 26	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	25	mod	_	Gloss=XX
 27	anàː	nàː	AUX	_	Aspect=Prog|Person=4	22	comp:obj	_	Gloss=XX
@@ -317,7 +317,7 @@
 31	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	32	det	_	Gloss=Prox.Sing
 32	aman	amaː	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=XX
 33	gâs	gâs	NOUN	_	Definite=Cons|Gender=Fem	32	mod	_	Gloss=XX
-34	à	à	ADP	_	_	29	comp:obl	_	Gloss=at
+34	à	à	ADP	_	_	29	mod	_	Gloss=at
 35	koːwànè	koːwànè	DET	_	_	36	det	_	Gloss=XX
 36	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	34	comp:obj	_	Gloss=time.Masc
 37	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
