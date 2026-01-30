@@ -12,8 +12,8 @@
 3	Dikkò	Dikkò	PROPN	_	_	2	flat@name	_	Gloss=Dikkò
 4	àbù	àbù	NOUN	_	Gender=Masc	5	comp:pred	_	Gloss=XX
 5	neː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Gloss=XX
-6	mài	mài	PART	_	Number=Sing	4	mod	_	Gloss=XX
-7	ban	baː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:obj	_	Gloss=XX
+6	mài	mài	PART	_	Number=Sing	4	mod	_	Gloss=owner/doer_of.Sing
+7	ban	baː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	compound	_	Gloss=XX
 8	shàꞌawàr̃	shàꞌawàː	NOUN	_	Definite=Cons|Gender=Fem	7	comp:obj	_	Gloss=XX
 9	jîː	ji	AUX	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	mod	_	Gloss=XX|SpaceAfter=No
 10	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -331,8 +331,8 @@
 4	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	3	comp:obl	_	Gloss=XX
 5	hukuncìn	hukuncìː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=XX
 6	daurìː	daurìː	NOUN	_	Gender=Masc	5	mod	_	Gloss=XX
-7	mài	mài	PART	_	Number=Sing|PartType=Der	5	mod	_	Gloss=possessor_of.Sing
-8	tsawoː	tsawoː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=XX
+7	mài	mài	PART	_	Number=Sing|PartType=Der	5	mod	_	Gloss=owner/doer_of.Sing
+8	tsawoː	tsawoː	NOUN	_	Gender=Masc	7	compound	_	Gloss=XX
 9	à	à	ADP	_	_	3	mod	_	Gloss=at
 10	kûr̃kukùː	kûr̃kukùː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=prison.Masc|SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -344,8 +344,8 @@
 2	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	Gloss=time.Masc.Cons
 3	shàr̃iꞌàr̃	shàr̃iꞌàː	NOUN	_	Case=Gen|Definite=Cons|Gender=Fem|Person=3	2	mod	_	Gloss=XX|SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-5	mài	mài	PART	_	Number=Sing|PartType=Der	7	subj	_	Gloss=possessor_of.Sing
-6	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=XX
+5	mài	mài	PART	_	Number=Sing|PartType=Der	7	subj	_	Gloss=owner/doer_of.Sing
+6	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Gender=Masc	5	compound	_	Gloss=XX
 7	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 8	cêː	cêː	VERB	_	_	7	comp:aux	_	Gloss=XX
 9	an	yaː	AUX	_	Aspect=Perf|Person=4	8	comp:obj	_	Gloss=XX
@@ -374,12 +374,12 @@
 32	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko__13b
-# text = sai à watàn jànair̃u na shèːkaràr̃ alif dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː gwamnatìn Nàjeːr̃iyàː ta bùkàːci Bìr̃taːniyà tà miːƙàː matà shiː don à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː kân lâifin cîn hancìː dà kàrɓar̃ r̃ashawaː ta fâm miliyàn bàr̃kàtài.
+# text = sai à watàn Jànair̃u na shèːkaràr̃ alif dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː gwamnatìn Nàjeːr̃iyàː ta bùkàːci Bìr̃taːniyà tà miːƙàː matà shiː don à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː kân lâifin cîn hancìː dà kàrɓar̃ r̃ashawaː ta fâm miliyàn bàr̃kàtài.
 # text_ortho = À loːkàcin shàr̃iꞌàr̃, Mài Shàr̃iꞌàː yaː cêː an bayyànà Ùːmar̃ù Dikkò dà cêwaː: “Wani ƙàːsur̃gumin ɓàraːwòː neː dà bà à taɓà yîn irìnsà ba à duːniyàː.” Sai à watàn Jànair̃u na shekaràr̃ alif dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː Gwamnatìn Nàjeːr̃iyàː ta bùkàːci Bìr̃taːniyà tà miːƙàː matà shiː don à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː kân lâifin cîn hancìː dà kàrɓar̃ r̃ashawaː ta fâm miliyàn bàr̃kàtài.
 1	sai	sai	ADV	_	_	2	mod	_	Gloss=XX
 2	à	yà	AUX	_	Mood=Sub|Person=4	18	mod	_	Gloss=XX
-3	watàn	watàː	PRON	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	2	comp:aux	_	Gloss=month.Masc.Cons
-4	jànair̃u	jànair̃u	NOUN	_	Number=Plur	3	mod	_	Gloss=XX
+3	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	4	mod@desc	_	Gloss=month.Masc.Cons
+4	Jànair̃u	Jànair̃u	NOUN	_	Gender=Masc	2	comp:obj	_	Gloss=january.Masc
 5	na	na	ADP	_	_	4	mod	_	Gloss=XX
 6	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	7	mod@desc	_	Gloss=year.Fem.Cons
 7	alif	alif	NUM	_	_	5	comp:obj	_	Gloss=XX
@@ -457,7 +457,7 @@
 31	dà	dà	CCONJ	_	_	34	cc	_	Gloss=XX
 32	kuma	kuma	PART	_	_	31	discourse@top	_	Gloss=too
 33	duk	dukà	DET	_	_	34	det	_	Gloss=XX
-34	sauran	sauraː	NOUN	_	_	17	conj:coord	_	Gloss=XX
+34	sauran	sauraː	NOUN	_	Definite=Cons|Gender=Masc	17	conj:coord	_	Gloss=rest.Masc.Cons
 35	laifuffukàn	lâifiː	NOUN	_	Definite=Def|Number=Plur	34	mod	_	Gloss=fault.Plur.Def
 36	dà	dà	SCONJ	_	_	35	mod@relcl	_	Gloss=COMP
 37	akèː	nàː	AUX	_	Aspect=Prog|Person=4	36	comp:obj	_	Gloss=XX
@@ -487,8 +487,8 @@
 16	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	15	mod	_	Gloss=Britania|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	yanà	nà	AUX	_	Aspect=Prog|ExtPos=SCONJ|Gender=Masc|Person=3	5	parataxis@mod	_	Gloss=XX|Idiom=Yes
-19	mài	mài	PART	_	Gender=Masc	18	comp:pred	_	Gloss=XX|InIdiom=Yes
-20	cêːwaː	cê	VERB	_	ExtPos=NOUN|Gender=Fem	19	comp:obj	_	Gloss=XX|InIdiom=Yes|wordform=cêwaː
+19	mài	mài	PART	_	Gender=Masc	18	comp:pred	_	Gloss=owner/doer_of.Sing|InIdiom=Yes
+20	cêːwaː	cê	VERB	_	ExtPos=NOUN|Gender=Fem	19	compound	_	Gloss=XX|InIdiom=Yes|wordform=cêwaː
 21	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	18	comp:obj	_	Gloss=XX
 22	kasànceː	kasant-	VERB	_	_	21	comp:aux	_	Gloss=XX
 23	cikin	cikin	ADP	_	_	22	comp:obl	_	Gloss=inside

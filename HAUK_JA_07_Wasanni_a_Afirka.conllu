@@ -44,7 +44,7 @@
 8	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:obj	_	Gloss=XX
 9	dambên	dambêː	NOUN	_	Definite=Cons|Gender=Masc	8	compound	_	Gloss=XX
 10	nan	nan	DET	_	PronType=Dem	8	det	_	Gloss=XX
-11	mài	mài	PART	_	Number=Sing|PartType=Der	8	mod	_	Gloss=possessor_of.Sing
+11	mài	mài	PART	_	Number=Sing|PartType=Der	8	mod	_	Gloss=owner/doer_of.Sing
 12	suːnaː	suːnaː	NOUN	_	ExtPos=NOUN|Gender=Masc	11	comp:obj	_	Gloss=XX
 13	"	"	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 14	Joe	Joe	PROPN	_	_	12	conj:appos	_	Gloss=Joe
@@ -89,7 +89,7 @@
 53	na	na	ADP	_	Case=Gen	51	mod	_	Gloss=XX
 54	ajìn	ajìː	NOUN	_	Definite=Cons|Gender=Masc	53	comp:obj	_	Gloss=XX
 55	maràsaː	mài	PART	_	Number=Plur|PartType=Der	54	mod	_	Gloss=lacking.Plur
-56	nauyiː	nauyiː	NOUN	_	Gender=Masc	55	comp:obj	_	Gloss=XX|SpaceAfter=No
+56	nauyiː	nauyiː	NOUN	_	Gender=Masc	55	compound	_	Gloss=XX|SpaceAfter=No
 57	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka__4
@@ -115,8 +115,8 @@
 18	wani	wani	DET	_	Definite=Spec|Gender=Masc	19	det	_	Gloss=some.Masc.Spec
 19	ɗan	ɗan	ADJ	_	Definite=Cons|Gender=Masc	17	comp:obj	_	Gloss=XX
 20	Amìr̃kà	Amìr̃kà	PROPN	_	_	19	compound	_	Gloss=Amìr̃kà
-21	mài	mài	PART	_	Number=Sing|PartType=Der	19	mod	_	Gloss=possessor_of.Sing
-22	suːnaː	suːnaː	NOUN	_	_	21	comp:obj	_	Gloss=XX
+21	mài	mài	PART	_	Number=Sing|PartType=Der	19	mod	_	Gloss=owner/doer_of.Sing
+22	suːnaː	suːnaː	NOUN	_	_	21	compound	_	Gloss=XX
 23	"	"	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 24	Virgil	Virgil	PROPN	_	_	22	conj:appos	_	Gloss=Virgil
 25	Hill	Hill	PROPN	_	_	24	flat@name	_	Gloss=Hill
@@ -127,12 +127,12 @@
 30	Dakota	Dakota	PROPN	_	_	29	flat@name	_	Gloss=Dakota
 31	"	"	PUNCT	_	_	29	punct	_	Gloss=PUNCT
 32	raːnar̃	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	16	mod	_	Gloss=XX
-33	àshìr̃in	àshìr̃in	NUM	_	_	32	mod	_	Gloss=XX
+33	àshìr̃in	àshìr̃in	NUM	_	_	32	mod:num	_	Gloss=XX
 34	dà	dà	CCONJ	_	_	35	cc	_	Gloss=XX
 35	bakwài	bakwài	NUM	_	_	33	conj:coord	_	Gloss=seven
 36	gà	gà	ADP	_	_	33	mod	_	Gloss=XX
 37	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	38	det	_	Gloss=Prox.Sing
-38	watàn	watàː	NOUN	_	Definite=Cons|Gender=Masc	36	comp:obj	_	Gloss=month.Masc.Cons|SpaceAfter=No
+38	watàn	watàː	NOUN	_	Definite=PrevRef|Gender=Masc	36	comp:obj	_	Gloss=month.Masc.PrevRef|SpaceAfter=No
 39	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka__5
@@ -159,7 +159,7 @@
 19	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	13	comp:obj	_	Gloss=XX
 20	amìnceː	amìnceː	VERB	_	_	19	comp:aux	_	Gloss=XX
 21	dà	dà	ADP	_	_	20	comp:obl	_	Gloss=XX
-22	ƙasar̃	ƙasar̃	ADJ	_	Definite=Cons|Gender=Fem	21	comp:obj	_	Gloss=XX
+22	ƙasar̃	ƙasaː	ADJ	_	Definite=Cons|Gender=Fem	21	comp:obj	_	Gloss=country.Fem.Cons
 23	Afir̃kà	Afir̃kà	PROPN	_	_	22	conj:appos	_	Gloss=Africa
 24	ta	ta	ADP	_	_	23	mod	_	Gloss=XX
 25	Kudù	Kudù	PROPN	_	_	24	comp:obj	_	Gloss=Kudù|SpaceAfter=No
@@ -198,11 +198,11 @@
 13	hulɗàː	hulɗàː	NOUN	_	Gender=Fem	12	comp:pred	_	Gloss=XX
 14	dà	dà	ADP	_	_	13	comp:obl	_	Gloss=XX
 15	wata	wani	DET	_	Definite=Spec|Gender=Masc	16	det	_	Gloss=some.Fem.Spec
-16	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=XX
+16	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=country.Fem
 17	koː	koː	CCONJ	_	_	18	cc	_	Gloss=XX
 18	ƙungìyaː	ƙungìyaː	NOUN	_	Gender=Fem	16	conj:coord	_	Gloss=XX
-19	mài	mài	PART	_	Number=Sing|PartType=Der	18	mod	_	Gloss=possessor_of.Sing
-20	nasabàː	nasabàː	NOUN	_	Gender=Fem	19	comp:obj	_	Gloss=XX
+19	mài	mài	PART	_	Number=Sing|PartType=Der	18	mod	_	Gloss=owner/doer_of.Sing
+20	nasabàː	nasabàː	NOUN	_	Gender=Fem	19	compound	_	Gloss=XX
 21	dà	dà	ADP	_	_	20	comp:obl	_	Gloss=XX
 22	Afir̃kà	Afir̃kà	PROPN	_	_	21	comp:obj	_	Gloss=Africa
 23	ta	ta	ADP	_	_	22	mod	_	Gloss=XX
@@ -218,7 +218,7 @@
 3	àbîn	àbiː	NOUN	_	Definite=Def|Gender=Masc	9	subj	_	Gloss=Masc.Def
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	comp:obj	_	Gloss=XX
-6	kaːwoː	kaːy-	VERB	_	_	5	comp:aux	_	Gloss=XX
+6	kaːwoː	kai	VERB	_	_	5	comp:aux	_	Gloss=carry/take_to
 7	rùːɗaːnîn	rùːɗaːniː	NOUN	_	Definite=Def|Number=Plur	6	comp:obj	_	Gloss=XX
 8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	Gloss=XX
 9	nèː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Gloss=XX
@@ -302,8 +302,8 @@
 7	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	6	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 9	wani	wani	PRON	_	Definite=Spec|Gender=Masc	3	conj:appos	_	Gloss=some.Masc.Spec
-10	mài	mài	PART	_	Number=Sing|PartType=Der	9	mod	_	Gloss=possessor_of.Sing
-11	suːnaː	suːnaː	NOUN	_	_	10	comp:obj	_	Gloss=XX
+10	mài	mài	PART	_	Number=Sing|PartType=Der	9	mod	_	Gloss=owner/doer_of.Sing
+11	suːnaː	suːnaː	NOUN	_	_	10	compound	_	Gloss=XX
 12	"	"	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	Emmanuel	Emmanuel	PROPN	_	_	11	conj:appos	_	Gloss=Emmanuel
 14	Adeleye	Adeleye	PROPN	_	_	13	flat@name	_	Gloss=Adeleye
@@ -392,7 +392,7 @@
 4	rìkiciː	rìkiciː	NOUN	_	Gender=Masc	5	subj	_	Gloss=XX
 5	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 6	sâː	sâː	VERB	_	_	5	comp:aux	_	Gloss=put
-7	màːsu	màːsu	ADP	_	Number=Plur	12	subj	_	Gloss=XX
+7	màːsu	mài	PART	_	Number=Plur	12	subj	_	Gloss=owner/doer_of.Plur
 8	shà'awàr̃	shà'awàr̃	ADP	_	Gender=Fem	7	compound	_	Gloss=XX
 9	wàːsànniː	wàːsaː	NOUN	_	Number=Plur	8	comp:obj	_	Gloss=game.Plur
 10	dà	dà	ADP	_	_	7	mod	_	Gloss=XX
@@ -473,7 +473,7 @@
 16	don	don	SCONJ	_	_	13	mod	_	Gloss=XX
 17	cîn	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	comp:obj	_	Gloss=XX
 18	koːfìn	koːfìː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	17	comp:obj	_	Gloss=XX
-19	ƙasàːshen	ƙasàːshen	ADP	_	Definite=Cons|Number=Plur	18	comp:obj	_	Gloss=XX
+19	ƙasàːshen	ƙasaː	ADP	_	Definite=Cons|Number=Plur	18	comp:obj	_	Gloss=country.Plur.Cons
 20	Afır̃kà	Afır̃kà	PROPN	_	_	19	mod	_	Gloss=Afır̃kà|SpaceAfter=No
 21	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
@@ -496,7 +496,7 @@
 14	Sudân	Sudân	PROPN	_	Definite=Cons|Number=Plur	13	comp:obj	_	Gloss=Sudan
 15	dà	dà	CCONJ	_	_	8	mod	_	Gloss=XX
 16	cîː	cîː	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=score.Masc
-17	ɗaya	ɗaya	NUM	_	_	16	mod	_	Gloss=one
+17	ɗaya	ɗaya	NUM	_	_	16	mod:num	_	Gloss=one
 18	dà	dà	CCONJ	_	_	19	cc	_	Gloss=XX
 19	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	17	conj:coord	_	Gloss=there_is.Neg
 20	koː	koː	ADV	_	_	21	mod	_	Gloss=XX
@@ -526,7 +526,7 @@
 16	Làːbeːr̃iyà	Làːbeːr̃iyà	PROPN	_	_	15	comp:obj	_	Gloss=Liberia
 17	dà	dà	CCONJ	_	_	10	comp:obl	_	Gloss=XX
 18	cîː	cîː	NOUN	_	Gender=Masc	17	comp:obj	_	Gloss=score.Masc
-19	ukù	ukù	NUM	_	_	18	comp:cleft	_	Gloss=three
+19	ukù	ukù	NUM	_	_	18	mod:num	_	Gloss=three
 20	dà	dà	CCONJ	_	_	21	cc	_	Gloss=XX
 21	ɗaya	ɗaya	NUM	_	_	19	conj:coord	_	Gloss=one|SpaceAfter=No
 22	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
@@ -544,7 +544,7 @@
 8	Malien	Malien	PROPN	_	_	7	flat@name	_	Gloss=Malien
 9	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT|wordform='
 10	ta	ta	ADP	_	_	7	mod	_	Gloss=XX
-11	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	10	comp:obj	_	Gloss=XX
+11	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	10	comp:obj	_	Gloss=country.Fem.Cons
 12	Màːli	Màːli	PROPN	_	_	11	mod	_	Gloss=Mali
 13	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=XX
 14	laːshè	laːs-	VERB	_	_	13	comp:aux	_	Gloss=XX

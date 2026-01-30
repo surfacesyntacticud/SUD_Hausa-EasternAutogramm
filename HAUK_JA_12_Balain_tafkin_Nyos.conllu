@@ -2,8 +2,8 @@
 # text = Mèː ya kaːwoː bàlaː'ìn Tafkìn "Nyos"?
 1	Mèː	mèː	PRON	_	_	0	root	_	Gloss=XX
 2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	comp:cleft	_	Gloss=XX
-3	kaːwoː	kaːy-	VERB	_	_	2	comp:aux	_	Gloss=XX
-4	bàlaː'ìn	bàlaː'ìː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=XX
+3	kaːwoː	kai	VERB	_	_	2	comp:aux	_	Gloss=carry/take_to
+4	bàlaː'ìn	bàlaː'ìː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=disaster.Masc.Cons
 5	Tafkìn	tafkìː	NOUN	_	_	7	mod@desc	_	Gloss=river.Masc.Cons
 6	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT|SpaceAfter=No
 7	Nyos	Nyos	PROPN	_	_	4	mod	_	Gloss=Nyos|SpaceAfter=No
@@ -13,8 +13,8 @@
 # sent_id = 12_Bala'in_tafkin_Nyos__2
 # text = À watàn Àgustàː na shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà neː wata irìn iskàː mài gubàː, wàːtòː " carbon dioxide" , ta riƙà fìtaː dàgà Tafkìn Nyos ƙasar̃ Kàmàr̃u har̃ ta yi sànàdiyyàr̃ mutuwàr̃ mutàːneː kàmar̃ dubuː dà ɗàriː bakwài.
 1	À	yà	ADP	_	_	27	mod	_	Gloss=XX|wordform=A
-2	watàn	watàː	PRON	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	1	comp.obj	_	Gloss=month.Masc.Cons
-3	Àgustàː	Àgustàː	PROPN	_	_	2	mod	_	Gloss=Àgustàː
+2	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	3	mod@desc	_	Gloss=month.Masc.Cons
+3	Àgustàː	Àgustàː	PROPN	_	_	1	comp:obj	_	Gloss=august.Masc
 4	na	na	ADP	_	_	3	mod	_	Gloss=XX
 5	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	6	mod@desc	_	Gloss=year.Fem.Cons
 6	alìf	alìf	NUM	_	_	4	comp:obj	_	Gloss=one_thousand
@@ -28,9 +28,9 @@
 14	neː	neː	PART	_	Gender=Masc	1	discourse@foc	_	Gloss=XX
 15	wata	wani	DET	_	Definite=Spec|Gender=Masc	16	det	_	Gloss=some.Fem.Spec
 16	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:pred	_	Gloss=type.Masc.Cons
-17	iskàː	iskàː	NOUN	_	Gender=Masc	16	mod	_	Gloss=XX
-18	mài	mài	PART	_	Number=Sing|PartType=Der	16	mod	_	Gloss=possessor_of.Sing
-19	gubàː	gubàː	NOUN	_	Gender=Fem	18	comp:obj	_	Gloss=XX|SpaceAfter=No
+17	iskàː	iskàː	NOUN	_	Gender=Fem	16	mod	_	Gloss=wind.Fem
+18	mài	mài	PART	_	Number=Sing|PartType=Der	17	mod	_	Gloss=owner/doer_of.Sing
+19	gubàː	gubàː	NOUN	_	Gender=Fem	18	compound	_	Gloss=XX|SpaceAfter=No
 20	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
 21	wàːtòː	wàːtòː	PART	_	_	31	cc	_	Gloss=that_is
 22	"	"	PUNCT	_	_	23	punct	_	Gloss=PUNCT
@@ -160,7 +160,7 @@
 1	Dùbban	Dùbban	PROPN	_	_	8	subj	_	Gloss=Dùbban
 2	shaːnuː	sâː	NOUN	_	Number=Plur	1	mod	_	Gloss=XX
 3	dà	dà	CCONJ	_	_	4	cc	_	Gloss=XX
-4	sauran	sauraː	NOUN	_	Definite=Cons|Gender=Masc	2	conj:coord	_	Gloss=XX
+4	sauran	sauraː	NOUN	_	Definite=Cons|Gender=Masc	2	conj:coord	_	Gloss=rest.Masc.Cons
 5	dabboːbiː	dabboːbiː	NOUN	_	Number=Plur	4	mod	_	Gloss=XX
 6	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	dislocated@subj	_	Gloss=XX
 7	maː	maː	PART	_	_	6	discourse@top	_	Gloss=XX
@@ -251,8 +251,8 @@
 16	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	18	det	_	Gloss=Prox.Sing
 17	aman	aman	ADJ	_	_	15	mod	_	Gloss=XX
 18	gâs	gâ	NOUN	_	Definite=Cons|Gender=Fem	25	mod	_	Gloss=XX
-19	mài	mài	PART	_	Number=Sing|PartType=Der	17	mod	_	Gloss=possessor_of.Sing
-20	gubàː	gubàː	NOUN	_	Gender=Fem	19	comp:obj	_	Gloss=XX
+19	mài	mài	PART	_	Number=Sing|PartType=Der	17	mod	_	Gloss=owner/doer_of.Sing
+20	gubàː	gubàː	NOUN	_	Gender=Fem	19	compound	_	Gloss=XX
 21	à	à	ADP	_	_	14	mod	_	Gloss=at
 22	wani	wani	DET	_	Definite=Spec|Gender=Masc	23	det	_	Gloss=some.Masc.Spec
 23	tafkìn	tafkìː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:obj	_	Gloss=XX
@@ -394,8 +394,8 @@
 13	gâs	gâ	NOUN	_	Definite=Cons|Gender=Fem	12	mod	_	Gloss=XX
 14	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	13	det	_	Gloss=XX|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-16	mài	mài	ADP	_	Gender=Masc	10	mod	_	Gloss=XX
-17	yìwuwaː	yìwu	VERB	_	ExtPos=NOUN|Gender=Fem	16	comp:obj	_	Gloss=XX
+16	mài	mài	ADP	_	Gender=Masc	10	mod	_	Gloss=owner/doer_of.Sing
+17	yìwuwaː	yìwu	VERB	_	ExtPos=NOUN|Gender=Fem	16	compound	_	Gloss=XX
 18	nèː	neː	AUX	_	Gender=Masc|Number=Plur	16	discourse@foc	_	Gloss=XX
 19	kuma	kuma	PART	_	_	20	discourse@top	_	Gloss=too
 20	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	9	parataxis@conj	_	Gloss=XX
@@ -412,7 +412,7 @@
 3	masànaː	masànaː	VERB	_	ExtPos=NOUN|Gender=Masc	2	comp:obj	_	Gloss=XX
 4	kìːmiyyàː	kìːmiyyàː	NOUN	_	Gender=Fem	3	comp:obj	_	Gloss=XX
 5	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
-6	kaːwoː	kaːy-	VERB	_	_	5	comp:aux	_	Gloss=XX|wordform=kaːn
+6	kaːwoː	kai	VERB	_	_	5	comp:aux	_	Gloss=carry/take_to|wordform=kaːn
 7	shaːwar̃àr̃	shaːwar̃àː	NOUN	_	Gender=Fem	6	comp:obj	_	Gloss=XX|wordform=shawarar
 8	cêːwaː	cêːwaː	SCONJ	_	_	7	mod	_	Gloss=XX|wordform=cêwaː
 9	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	8	comp:obj	_	Gloss=XX
@@ -470,8 +470,8 @@
 29	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	28	comp:obj	_	Gloss=XX
 30	zamoː	zam-	VERB	_	_	29	comp:aux	_	Gloss=XX
 31	àbù	àbù	NOUN	_	Gender=Masc	30	comp:obj	_	Gloss=XX
-32	mài	mài	PART	_	Gender=Masc|Number=Sing|PartType=Der	31	mod	_	Gloss=possessor_of.Sing
-33	haɗàr̃iː	haɗàr̃iː	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=XX
+32	mài	mài	PART	_	Gender=Masc|Number=Sing|PartType=Der	31	mod	_	Gloss=owner/doer_of.Sing
+33	haɗàr̃iː	haɗàr̃iː	NOUN	_	Gender=Masc	32	compound	_	Gloss=XX
 34	kwar̃ai	kwar̃ai	ADV	_	_	33	mod	_	Gloss=XX|SpaceAfter=No
 35	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
@@ -483,8 +483,8 @@
 4	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	0	root	_	Gloss=XX
 5	kasànceː	kasant-	VERB	_	_	4	comp:aux	_	Gloss=XX
 6	àbù	àbù	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=XX
-7	mài	mài	PART	_	Number=Sing|PartType=Der	6	mod	_	Gloss=possessor_of.Sing
-8	tsàːdar̃	tsàːdaː	NOUN	_	Definite=Cons|Gender=Fem	7	comp:obj	_	Gloss=XX
+7	mài	mài	PART	_	Number=Sing|PartType=Der	6	mod	_	Gloss=owner/doer_of.Sing
+8	tsàːdar̃	tsàːdaː	NOUN	_	Definite=Cons|Gender=Fem	7	compound	_	Gloss=XX
 9	gàske	gàske	ADV	_	_	8	mod	_	Gloss=XX|SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
