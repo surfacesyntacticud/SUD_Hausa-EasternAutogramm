@@ -112,7 +112,7 @@
 38	'yan	ɗan	NOUN	_	Definite=Cons|Number=Plur	40	subj	_	Gloss=XX
 39	sàndaː	sàndaː	NOUN	_	_	38	mod	_	Gloss=XX
 40	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	21	comp:obj	_	Gloss=XX
-41	riƙà	riƙàː	VERB	_	_	40	comp:aux	_	Gloss=XX
+41	riƙà	riƙ-	VERB	_	_	40	comp:aux	_	Gloss=keep_doing
 42	har̃bìː	har̃bìː	NOUN	_	Gender=Masc	41	comp:obj	_	Gloss=XX
 43	à	à	ADP	_	_	41	comp:obl	_	Gloss=at
 44	hàr̃aːbàr̃	hàr̃aːbàː	NOUN	_	Gender=Fem	43	comp:obj	_	Gloss=XX
@@ -186,7 +186,7 @@
 9	ƙwàƙƙwaːrar̃	ƙwàƙƙwaːraː	ADJ	_	Definite=Cons|Number=Plur	11	comp:pred	_	Gloss=XX
 10	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	9	mod	_	Gloss=XX
 11	ceː	neː	AUX	_	Gender=Fem	0	root	_	Gloss=XX
-12	mài	mài	ADP	_	Gender=Masc	11	comp:pred	_	Gloss=owner/doer_of.Sing
+12	mài	mài	PART	_	Gender=Masc|PartType=Der	11	comp:pred	_	Gloss=owner/doer_of.Sing
 13	nuːnà	nuːnà	VERB	_	_	12	compound	_	Gloss=XX
 14	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	Gloss=type.Masc.Cons
 15	rashìn	rashìː	NOUN	_	Definite=Cons|Gender=Masc	14	mod	_	Gloss=XX
@@ -265,7 +265,7 @@
 11	sâssan	sâssaː	NOUN	_	Definite=Cons|Number=Plur	10	comp:obj	_	Gloss=XX
 12	jihàr̃	jihàr̃	NOUN	_	Gender=Fem	11	mod	_	Gloss=XX
 13	ta	na/ta	ADP	_	_	11	mod	_	Gloss=XX
-14	Bauci	Bauchi	PROPN	_	_	13	comp:obj	_	Gloss=Bauci|SpaceAfter=No
+14	Bauci	Bauci	PROPN	_	_	13	comp:obj	_	Gloss=Bauchi|SpaceAfter=No
 15	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 16	har̃	har̃	CCONJ	_	Definite=Cons|Gender=Fem	17	cc	_	Gloss=XX
 17	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	8	parataxis@conj	_	Gloss=XX
@@ -327,7 +327,7 @@
 26	à	à	ADP	_	_	25	mod	_	Gloss=at
 27	kân	kân	ADP	_	_	26	comp:obj	_	Gloss=top
 28	hanyàr̃	hanyàː	NOUN	_	Definite=Cons|Gender=Fem	27	comp:obj	_	Gloss=way.Fem.Cons
-29	Bauci	Bauchi	PROPN	_	_	28	mod	_	Gloss=Bauci
+29	Bauci	Bauci	PROPN	_	_	28	mod	_	Gloss=Bauchi
 30	zuwàː	zuwàː	ADP	_	_	28	mod	_	Gloss=XX
 31	Jàs	Jàs	PROPN	_	_	30	comp:obj	_	Gloss=Jos
 32	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	7	parataxis@conj	_	Gloss=XX
@@ -401,7 +401,7 @@
 13	zàrgin	zàrgiː	NOUN	_	Definite=Cons|Gender=Masc	12	comp:pred	_	Gloss=XX
 14	cêwaː	cêwaː	SCONJ	_	_	13	mod	_	Gloss=XX
 15	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	20	dislocated@top	_	Gloss=Muslim.Plur
-16	màːsu	mài	PART	_	Number=Plur	15	mod	_	Gloss=owner/doer_of.Plur
+16	màːsu	mài	PART	_	Number=Plur|PartType=Der	15	mod	_	Gloss=owner/doer_of.Plur
 17	tsananin	tsananiː	NOUN	_	Definite=Cons|Number=Plur	16	compound	_	Gloss=XX
 18	r̃a'àyin	r̃a'àyiː	NOUN	_	Definite=Cons|Number=Plur	16	comp:obj	_	Gloss=XX
 19	àddiːnìː	àddiːnìː	NOUN	_	Gender=Masc	18	mod	_	Gloss=XX
@@ -545,7 +545,7 @@
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__15
 # text = Wàtànniː kàmar̃ shidà baːyan wannàn hàrgitsiː kuma, an yi wasu tàːshe-tàːshen hankulàː à bir̃nin Kanòː, indà akà kashè à ƙallà mutàːneː goːmà shâː bìyar̃, ɗaruːruwàː kuma sukà sàːmi raunukàː.
 1	Wàtànniː	watàː	NOUN	_	_	9	dislocated@comp	_	Gloss=month.Plur
-2	kàmar̃	kàmar̃	ADP	_	Definite=Cons|Gender=Fem	1	mod	_	Gloss=XX
+2	kàmar̃	kàmar̃	ADP	_	_	1	mod	_	Gloss=like
 3	shidà	shidà	PRON	_	_	2	comp:obj	_	Gloss=XX
 4	baːyan	baːyaː	ADP	_	_	3	mod	_	Gloss=after
 5	wannàn	wannàn	DET	_	Deixis=Prox|Gender=Masc|PronType=Dem	6	det	_	Gloss=Prox.Sing
