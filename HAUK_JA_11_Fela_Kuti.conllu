@@ -332,8 +332,8 @@
 20	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	19	comp:obj	_	Gloss=XX
 21	jeː	jeː	VERB	_	_	20	comp:aux	_	Gloss=XX
 22	wata	wani	DET	_	Definite=Spec|Gender=Masc	23	det	_	Gloss=some.Fem.Spec
-23	ƙasar̃	ƙasar̃	ADJ	_	Definite=Cons|Gender=Fem	21	mod	_	Gloss=XX|SpaceAfter=No
-24	wàje	wàje	ADV	_	_	23	mod	_	Gloss=XX|SpaceAfter=No
+23	ƙasar̃	ƙasaː	ADJ	_	Definite=Cons|Gender=Fem	21	mod	_	Gloss=country.Fem.Cons|SpaceAfter=No
+24	wàje	wàje	ADV	_	_	23	mod	_	Gloss=outside|SpaceAfter=No
 25	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 26	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	20	parataxis@conj	_	Gloss=XX
 27	ƙaːroː	ƙaːr-	VERB	_	_	26	comp:aux	_	Gloss=increase
@@ -772,7 +772,7 @@
 23	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 24	indà	indà	ADV	_	PronType=Rel	26	mod	_	Gloss=where
 25	akà	nàː	AUX	_	Aspect=Prog|Person=4	22	mod@relcl	_	Gloss=XX
-26	yankèː	yank-	VERB	_	_	25	comp:aux	_	Gloss=XX
+26	yankèː	yank-	VERB	_	_	25	comp:aux	_	Gloss=cut
 27	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	26	comp:obl	_	Gloss=XX
 28	hukuncìn	hukuncìː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:obj	_	Gloss=XX
 29	ɗaurìn	ɗaurìː	NOUN	_	Definite=Cons|Gender=Masc	28	mod	_	Gloss=XX
@@ -784,9 +784,9 @@
 35	lâifin	lâifiː	NOUN	_	Definite=Cons|Gender=Masc	34	comp:obj	_	Gloss=XX
 36	fìtaː	fit-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	35	mod	_	Gloss=go_out.Vnoun.Fem
 37	dà	dà	ADP	_	_	36	comp:obl	_	Gloss=XX
-38	kuɗàːɗen	kuɗàːɗeː	NOUN	_	Definite=Cons|Gender=Masc	37	comp:obj	_	Gloss=XX
-39	ƙasàːshen	ƙasàːshen	NOUN	_	Definite=Cons|Number=Plur	38	mod	_	Gloss=XX
-40	wàje	wàje	ADV	_	_	39	mod	_	Gloss=XX
+38	kuɗàːɗen	kuɗiː	NOUN	_	Definite=Cons|Number=Plur	37	comp:obj	_	Gloss=money.Plur.Cons
+39	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	38	mod	_	Gloss=country.Plur.Cons
+40	wàje	wàje	ADV	_	_	39	mod	_	Gloss=outside
 41	dàgà	dàgà	ADP	_	_	36	comp:obl	_	Gloss=from
 42	cikin	cikin	ADP	_	_	41	comp:obj	_	Gloss=inside
 43	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	42	comp:obj	_	Gloss=country.Fem.PrevRef
