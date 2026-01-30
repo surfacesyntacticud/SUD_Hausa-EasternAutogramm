@@ -22,7 +22,7 @@
 8	ɗàriː	ɗàriː	NUM	_	_	6	conj:coord	_	Gloss=hundred
 9	tar̃à	tar̃à	NUM	_	_	8	flat:num	_	Gloss=nine
 10	dà	dà	CCONJ	_	_	11	cc	_	Gloss=XX
-11	tàmàːnin	tàmàːniː	NUM	_	Definite=Cons|Gender=Masc	8	conj:coord	_	Gloss=XX
+11	tàmàːnin	tàmàːnin	NUM	_	_	8	conj:coord	_	Gloss=eighty
 12	dà	dà	ADP	_	_	13	cc	_	Gloss=XX
 13	shidà	shidà	NUM	_	_	11	conj:coord	_	Gloss=XX
 14	neː	neː	PART	_	Gender=Masc	1	discourse@foc	_	Gloss=XX
@@ -263,7 +263,7 @@
 28	ɗàriː	ɗàriː	NUM	_	_	26	conj:coord	_	Gloss=hundred
 29	tar̃à	tar̃à	NUM	_	_	28	mod:num	_	Gloss=nine
 30	dà	dà	CCONJ	_	_	31	cc	_	Gloss=XX|wordform=da
-31	tàmàːnin	tàmàːniː	NOUN	_	Definite=Cons|Gender=Masc	28	conj:coord	_	Gloss=XX
+31	tàmàːnin	tàmàːnin	NUM	_	_	28	conj:coord	_	Gloss=eighty
 32	dà	dà	CCONJ	_	_	33	cc	_	Gloss=XX
 33	huɗu	huɗu	NUM	_	_	31	conj:coord	_	Gloss=four|SpaceAfter=No
 34	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -298,7 +298,7 @@
 12	sìttin	sìttin	NUM	_	_	11	comp:obj	_	Gloss=XX
 13	à	à	ADP	_	_	7	mod	_	Gloss=at
 14	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	15	det	_	Gloss=Prox.Sing
-15	yankìː	yankìː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=XX
+15	yankìː	yankìː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=area.Masc
 16	à	à	ADP	_	_	10	mod	_	Gloss=at
 17	cikin	cikin	ADP	_	_	16	comp:obj	_	Gloss=inside
 18	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	17	comp:obj	_	Gloss=Cameroon
@@ -495,7 +495,7 @@
 3	rìgàːkafìn	rìgàːkafìː	NOUN	_	Definite=Cons|Gender=Masc	7	dislocated@subj	_	Gloss=XX
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
 5	mazàunaː	mazàu	NOUN	_	Number=Plur	4	comp:obj	_	Gloss=XX
-6	yankìn	yankìː	DET	_	Definite=Cons|Gender=Masc	5	mod	_	Gloss=XX
+6	yankìn	yankìː	DET	_	Definite=PrevRef|Gender=Masc	5	mod	_	Gloss=area.Masc.PrevRef
 7	zaːsù	zâi	AUX	_	Number=Plur|Person=3|Tense=Fut	0	root	_	Gloss=XX
 8	iyà	iy-	VERB	_	_	7	comp:aux	_	Gloss=XX
 9	yî:	yi	VERB	_	ExtPos=NOUN|Gender=Masc	8	comp:obj	_	Gloss=do
@@ -522,7 +522,7 @@
 5	ɗàriː	ɗàriː	NUM	_	Number=Plur	3	conj:coord	_	Gloss=hundred
 6	tar̃à	tar̃à	NUM	_	_	5	mod:num	_	Gloss=nine
 7	dà	dà	CCONJ	_	_	8	cc	_	Gloss=XX
-8	tàmàːnin	tàmàːniː	NUM	_	Definite=Cons|Gender=Masc	5	conj:coord	_	Gloss=XX
+8	tàmàːnin	tàmàːnin	NUM	_	_	5	conj:coord	_	Gloss=eighty
 9	dà	dà	SCONJ	_	_	10	cc	_	Gloss=COMP
 10	shidà	shidà	NUM	_	_	8	conj:coord	_	Gloss=XX
 11	dai	dai	PART	_	PartType=Top	10	discourse@top	_	Gloss=anyhow
