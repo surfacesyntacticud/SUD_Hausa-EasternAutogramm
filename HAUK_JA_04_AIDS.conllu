@@ -4,7 +4,7 @@
 1	cùːtar̃	cùːtaː	NOUN	_	Gender=Fem	0	root	_	Gloss=XX
 2	karyà	kary-	VERB	_	_	1	mod	_	Gloss=break
 3	gàrkuwar̃	gàrkuwaː	NOUN	_	Definite=Cons|Gender=Fem	2	comp:obj	_	Gloss=XX
-4	jìkiː	jìkiː	NOUN	_	Gender=Masc	3	mod	_	Gloss=XX|SpaceAfter=No
+4	jìkiː	jìkiː	NOUN	_	Gender=Masc	3	mod	_	Gloss=body.Masc|SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	_	Gloss=XX
 6	wato	wato	DET	_	Gender=Masc	8	discourse	_	Gloss=XX
 7	"	"	PUNCT	_	_	8	punct	_	Gloss=XX|wordform=‘
@@ -19,7 +19,7 @@
 3	mài	mài	PART	_	Number=Sing|PartType=Der	1	mod	_	Gloss=owner/doer_of.Sing
 4	karyà	kary-	VERB	_	_	3	compound	_	Gloss=break
 5	gàrkuwar̃	gàrkuwaː	NOUN	_	Definite=Cons|Gender=Fem	4	comp:obj	_	Gloss=XX
-6	jìkiː	jìkiː	NOUN	_	_	5	mod	_	Gloss=XX
+6	jìkiː	jìkiː	NOUN	_	Gender=Masc	5	mod	_	Gloss=body.Masc
 7	–	–	PUNCT	_	_	9	punct	_	Gloss=XX
 8	wàːtòː	wàːtòː	PART	_	_	9	discourse	_	Gloss=that_is
 9	AIDS	AIDS	PROPN	_	_	1	conj:dicto	_	Gloss=XX
@@ -190,8 +190,8 @@
 # sent_id = 04_AIDS__7
 # text = Kàmar̃ yaddà akà sanìː, cùːtar̃ AIDS bâː ta dà maːgàniː, kuma mài ɗàuke dà ƙwaːyoːyin cùːtâr̃ à jininsà, bàː zaː à ga wata àlaːmàː ta cùːtâr̃ à jìkinsà ba, sai dai à jininsà, kuma yanàː iyà bazà cùːtâr̃ ta jininsà dà màniyyìnsà har̃ shèːkaràː takwàs koː tar̃a kàːfin ainihin cùːtâr̃ tà faːrà laːlàːtà jìkinsà, tà zama ajàlinsà.
 # text_ortho = Kàmar̃ yaddà akà sanìː, cùːtar̃ AIDS bâː ta dà maːgàniː, kuma mài ɗàuke dà ƙwaːyoːyin cùːtâr̃ à jininsà, bàː zaː à ga wata àlaːmàː ta cùːtâr̃ à jìkinsà ba, sai dai à jininsà, kuma yanàː iyà bazà cùːtâr̃ ta jininsà dà màniyyìnsà har̃ shèːkaràː takwàs koː tar̃a kàːfin ainihin cùːtâr̃ tà faːrà laːlàːtà jìkinsà, tà zama ajàlinsà.
-1	kàmar̃	kàmar̃	ADP	_	_	8	mod	_	Gloss=XX
-2	yaddà	yaddà	ADV	_	_	1	comp:obj	_	Gloss=XX
+1	kàmar̃	kàmar̃	ADP	_	_	8	mod	_	Gloss=like
+2	yaddà	yaddà	ADV	_	PronType=Rel	1	comp:obj	_	Gloss=how
 3	akà	nàː	AUX	_	Aspect=Prog|Person=4	2	mod@relcl	_	Gloss=XX
 4	sanìː	sanìː	VERB	_	_	3	comp:aux	_	Gloss=XX|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=XX
@@ -256,7 +256,7 @@
 64	sà	sà	PRON	_	_	63	mod@poss	_	Gloss=3Masc.Gen
 65	,	,	PUNCT	_	_	66	punct	_	Gloss=XX
 66	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	62	mod	_	Gloss=XX
-67	zama	zama	VERB	_	_	66	comp:aux	_	Gloss=XX
+67	zama	zama	VERB	_	_	66	comp:aux	_	Gloss=become
 68	ajàlin	ajàliː	NOUN	_	Gender=Fem	67	comp:pred	_	Gloss=XX|SpaceAfter=No|wordform=ajàlinsà
 69	sà	sà	PRON	_	_	68	mod@poss	_	Gloss=3Masc.Gen
 70	.	.	PUNCT	_	_	8	punct	_	Gloss=XX
@@ -334,8 +334,8 @@
 20	à	à	ADP	_	_	16	mod	_	Gloss=at
 21	jìkin	jìkiː	NOUN	_	Definite=Cons|Gender=Masc	20	comp:obj	_	Gloss=body.Masc.Cons|SpaceAfter=No|wordform=jìkinsù
 22	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	21	mod@poss	_	Gloss=3Plur.Gen
-23	kàmar̃	kàmar̃	ADP	_	_	5	mod	_	Gloss=XX
-24	yaddà	yaddà	ADV	_	PronType=Rel	23	comp:obj	_	Gloss=XX
+23	kàmar̃	kàmar̃	ADP	_	_	5	mod	_	Gloss=like
+24	yaddà	yaddà	ADV	_	PronType=Rel	23	comp:obj	_	Gloss=how
 25	akà	akà	AUX	_	Aspect=Prog|Person=4	24	mod@relcl	_	Gloss=XX
 26	yi	yi	VERB	_	_	25	comp:aux	_	Gloss=do
 27	à	à	ADP	_	_	26	mod	_	Gloss=at
@@ -472,7 +472,7 @@
 5	neː	neː	PART	_	Gender=Masc|Number=Plur	4	discourse@foc	_	Gloss=XX
 6	asibitoːcîn	asibitoːciː	NOUN	_	Definite=Cons|Gender=Masc	7	subj	_	Gloss=XX
 7	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	4	comp:cleft	_	Gloss=XX
-8	riƙà	riƙ-	VERB	_	_	7	comp:aux	_	Gloss=XX
+8	riƙà	riƙ-	VERB	_	_	7	comp:aux	_	Gloss=keep_doing
 9	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=use.Masc
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=XX
 11	àllùːr̃ân	àlluːr̃àː	NOUN	_	Definite=Def|Number=Plur	10	comp:obj	_	Gloss=needle.Plur.Def
@@ -536,7 +536,7 @@
 21	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	20	mod	_	Gloss=XX
 22	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	18	comp:obj	_	Gloss=XX
 23	fi	fi	VERB	_	_	22	comp:aux	_	Gloss=XX
-24	miliyàn	miliyàn	NOUN	_	_	23	comp:obj	_	Gloss=XX
+24	miliyàn	miliyàn	NOUN	_	_	23	comp:obj	_	Gloss=million.Fem
 25	ɗàriː	ɗàriː	NUM	_	_	24	mod:num	_	Gloss=hundred|SpaceAfter=No
 26	,	,	PUNCT	_	_	28	punct	_	Gloss=XX
 27	tòː	tòː	INTJ	_	_	28	discourse	_	Gloss=XX

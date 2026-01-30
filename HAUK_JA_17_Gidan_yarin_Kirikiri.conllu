@@ -121,7 +121,7 @@
 13	ɓaːcì	ɓaːcì	VERB	_	_	12	comp:aux	_	Gloss=XX|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 15	ta	ta	ADP	_	_	3	comp:obj	_	Gloss=XX
-16	yaddà	yaddà	ADV	_	_	15	comp:obj	_	Gloss=XX
+16	yaddà	yaddà	ADV	_	PronType=Rel	15	comp:obj	_	Gloss=how
 17	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	20	mod	_	Gloss=XX
 18	'yan	ɗan	NOUN	_	Definite=Cons|Number=Plur	20	subj	_	Gloss=XX
 19	fur̃sùnàn	fur̃sùnàn	NOUN	_	Definite=Def|Gender=Masc	18	mod	_	Gloss=XX
@@ -152,7 +152,7 @@
 44	kùwa	kùwa	PART	_	_	39	discourse@top	_	Gloss=XX
 45	sai	sai	ADV	_	_	48	mod	_	Gloss=XX
 46	dai	dai	PART	_	PartType=Top	45	discourse@top	_	Gloss=anyhow
-47	kawài	kawài	PART	_	_	45	comp:obj	_	Gloss=XX
+47	kawài	kawài	ADV	_	_	45	comp:obj	_	Gloss=merely
 48	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	32	comp:obj	_	Gloss=XX
 49	tsayàː	tsay-	VERB	_	_	48	comp:aux	_	Gloss=XX
 50	dà	dà	ADP	_	_	49	comp:obl	_	Gloss=XX|wordform=da
@@ -164,7 +164,7 @@
 # sent_id = 17_Gidan_yarin_Kirikiri__5
 # text = Kàmar̃ yaddà ƘNJH ta cèː, kusan rabìn dukkàn 'yan fur̃sunoːnîn daː kèː jiràn à zar̃tar̃ musù dà hukuncìn kisàː, yànzu sun kai shèːkàruː goːmà shâː bìyar̃ à cikin haːlìn jiràn.
 1	Kàmar̃	kàmart	ADP	_	Definite=Cons|Gender=Fem	23	mod	_	Gloss=XX|wordform=Kamar
-2	yaddà	yaddà	ADV	_	PronType=Rel	1	comp:obj	_	Gloss=XX
+2	yaddà	yaddà	ADV	_	PronType=Rel	1	comp:obj	_	Gloss=how
 3	ƘNJH	ƘNJH	PROPN	_	_	4	subj	_	Gloss=ƘNJH
 4	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	2	mod@relcl	_	Gloss=XX
 5	cèː	cêː	VERB	_	_	4	comp:aux	_	Gloss=XX|SpaceAfter=No
@@ -203,8 +203,8 @@
 2	mutàːneː	mùtûm	NOUN	_	Number=Plur	1	subj	_	Gloss=XX
 3	dubuː	dubuː	NUM	_	_	2	mod:num	_	Gloss=thousand
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=XX
-5	ɗàriː	ɗàriː	NUM	_	Number=Plur	3	conj:coord	_	Gloss=hundred
-6	shidà	shidà	NUM	_	_	5	mod:num	_	Gloss=XX
+5	ɗàriː	ɗàriː	NUM	_	Gender=Fem|Number=Plur	3	conj:coord	_	Gloss=hundred.Fem
+6	shidà	shidà	NUM	_	_	5	flat:num	_	Gloss=XX
 7	dà	dà	CCONJ	_	_	8	cc	_	Gloss=XX
 8	àr̃bà'in	àr̃bà'in	NUM	_	_	5	conj:coord	_	Gloss=XX
 9	dà	dà	CCONJ	_	_	10	cc	_	Gloss=XX
@@ -224,7 +224,7 @@
 23	ɗau	ɗ-	VERB	_	_	22	comp:aux	_	Gloss=XX
 24	mutàːneː	mùtûm	NOUN	_	Number=Plur	23	comp:obj	_	Gloss=XX
 25	ɗàriː	ɗàriː	NUM	_	_	24	mod:num	_	Gloss=hundred
-26	tar̃à	tar̃à	NUM	_	_	25	mod:num	_	Gloss=nine
+26	tar̃à	tar̃à	NUM	_	_	25	flat:num	_	Gloss=nine
 27	dà	dà	CCONJ	_	_	28	cc	_	Gloss=XX
 28	hàmsin	hàmsiː	NOUN	_	Definite=Cons|Gender=Masc	25	conj:coord	_	Gloss=XX
 29	dà	dà	CCONJ	_	_	30	cc	_	Gloss=XX
@@ -236,12 +236,12 @@
 # text = Gùdaː ɗàriː huɗu dà hàmsin dà tar̃à ɗàgà cikin tsàràrrûn sunàː jiràn à gabaːtar̃ dà suː nèː à gàban shàr̃i'àː .
 1	Gùdaː	gùdaː	NOUN	_	_	11	subj	_	Gloss=unit.Masc
 2	ɗàriː	ɗàriː	NUM	_	_	1	mod:num	_	Gloss=hundred
-3	huɗu	huɗu	NUM	_	_	2	det	_	Gloss=four
+3	huɗu	huɗu	NUM	_	_	2	flat:num	_	Gloss=four
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=XX
 5	hàmsin	hàmsiː	NOUN	_	Definite=Cons|Gender=Masc	2	conj:coord	_	Gloss=XX
-6	dà	dà	SCONJ	_	_	5	cc	_	Gloss=COMP
+6	dà	dà	SCONJ	_	_	7	cc	_	Gloss=COMP
 7	tar̃à	tar̃à	NUM	_	_	5	conj:coord	_	Gloss=nine
-8	ɗàgà	ɗàgà	NUM	_	_	7	mod	_	Gloss=XX
+8	ɗàgà	ɗàgà	NUM	_	_	1	mod	_	Gloss=XX
 9	cikin	cikin	ADP	_	_	8	comp:obl	_	Gloss=inside
 10	tsàràrrûn	tsàràrruː	NOUN	_	Definite=Def|Gender=Masc	9	comp:obj	_	Gloss=XX
 11	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=XX|wordform=sunaː
@@ -262,10 +262,10 @@
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=too
 3	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	4	det	_	Gloss=some.Plur.Spec
 4	tsàràrrûn	tsàràrriː	NOUN	_	Definite=Def|Gender=Masc	1	subj	_	Gloss=XX
-5	suː	suː	DET	_	Number=Plur	4	det	_	Gloss=XX
-6	kìːmaːnìn	kìːmaːnìː	NOUN	_	Definite=Cons|Gender=Masc	5	conj:appos	_	Gloss=XX
-7	ɗàriː	ɗàriː	NUM	_	Number=Plur	6	mod:num	_	Gloss=hundred
-8	ɗaya	ɗaya	NUM	_	_	7	mod:num	_	Gloss=one
+5	suː	suː	PRON	_	Number=Plur	6	subj	_	Gloss=XX
+6	kìːmaːnìn	kìːmaːnìn	ADP	_	_	4	mod@relcl	_	Gloss=about
+7	ɗàriː	ɗàriː	NUM	_	Number=Plur	6	comp:obj	_	Gloss=hundred
+8	ɗaya	ɗaya	NUM	_	_	7	flat:num	_	Gloss=one
 9	dá	dá	CCONJ	_	_	10	cc	_	Gloss=XX
 10	sàbà'in	sàbà'in	NUM	_	_	7	conj:coord	_	Gloss=seventy
 11	dà	dà	ADP	_	_	10	mod	_	Gloss=XX|wordform=ɗà
@@ -668,7 +668,7 @@
 20	ba	ba	PART	_	Polarity=Neg	21	mod	_	Gloss=XX
 21	nèː	neː	AUX	_	Gender=Masc|Number=Plur	10	conj:coord	_	Gloss=XX
 22	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	comp:aux	_	Gloss=XX
-23	yaddà	yaddà	PRON	_	PronType=Rel	22	comp:obj	_	Gloss=XX
+23	yaddà	yaddà	ADV	_	PronType=Rel	22	comp:obj	_	Gloss=how
 24	mutànên	mutàneː	NOUN	_	Definite=Def|Gender=Masc	28	subj	_	Gloss=XX
 25	dà	dà	SCONJ	_	_	24	mod@relcl	_	Gloss=COMP
 26	akà	nàː	AUX	_	Aspect=Prog|Person=4	25	comp:obj	_	Gloss=XX
