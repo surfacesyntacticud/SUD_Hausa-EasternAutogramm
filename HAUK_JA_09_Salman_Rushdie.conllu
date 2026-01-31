@@ -90,7 +90,7 @@
 30	bugàː	bug-	VERB	_	_	29	comp:aux	_	Gloss=XX
 31	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	30	comp:obj	_	Gloss=XX
 32	gòːbe	gòːbe	ADV	_	_	30	mod	_	Gloss=XX
-33	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	32	det	_	Gloss=XX
+33	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	32	det	_	Gloss=Def
 34	ba	ba	PART	_	Polarity=Neg	27	mod	_	Gloss=XX|SpaceAfter=No
 35	.	.	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 
@@ -141,7 +141,7 @@
 43	làːbàːr̃ai	làːbaːr̃ìː	NOUN	_	Number=Plur	42	comp:obj	_	Gloss=news.Plur
 44	à	à	ADP	_	_	40	comp:obl	_	Gloss=at
 45	kùlàːb	kùlàːb	NOUN	_	_	44	comp:obj	_	Gloss=XX
-46	ɗîn	ɗîn	DET	_	_	45	det	_	Gloss=XX
+46	ɗîn	ɗîn	DET	_	Definite=Def	45	det	_	Gloss=Def
 47	nan	nan	DET	_	PronType=Dem	45	det	_	Gloss=XX
 48	na	na	ADP	_	_	45	mod	_	Gloss=XX
 49	'Yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	48	comp:obj	_	Gloss=XX
@@ -219,7 +219,7 @@
 19	à	yà	AUX	_	Mood=Sub|Person=4	17	comp:obj	_	Gloss=XX
 20	bugà	bug-	VERB	_	_	19	comp:aux	_	Gloss=XX
 21	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	22	det	_	Gloss=Prox.Sing
-22	littaːfìn	littaːfìː	NOUN	_	Definite=PrevRef|Gender=Masc	20	comp:obj	_	Gloss=book.Masc.Prev.Ref
+22	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	20	comp:obj	_	Gloss=book.Masc.Prev.Ref
 23	dà	dà	ADP	_	_	20	mod	_	Gloss=XX
 24	harshèn	harshèː	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=XX
 25	Tuːr̃anciː	Tuːr̃anciː	PROPN	_	_	24	mod	_	Gloss=English|SpaceAfter=No
@@ -317,7 +317,7 @@
 1	Àsheː	àsheː	INTJ	_	_	6	discourse	_	Gloss=alas
 2	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	dislocated@subj	_	Gloss=XX
 3	maː	maː	PART	_	_	2	discourse@top	_	Gloss=XX
-4	ɗîn	ɗin	DET	_	Definite=Cons|Gender=Masc	2	det	_	Gloss=XX
+4	ɗîn	ɗin	DET	_	Definite=Def|Gender=Masc	2	det	_	Gloss=Def
 5	samsam	samsan	ADV	_	Voice=Cau	6	mod	_	Gloss=XX
 6	baːsàː	nàːs	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	0	root	_	Gloss=XX
 7	sôn	soː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	Gloss=XX
@@ -473,11 +473,11 @@
 20	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 21	kuma	kuma	PART	_	_	22	cc	_	Gloss=too
 22	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	16	conj:coord	_	Gloss=XX
-23	kàmaːtà	kàmaːtà	VERB	_	_	22	comp:aux	_	Gloss=XX
+23	kàmaːtà	kamaːt-	VERB	_	_	22	comp:aux	_	Gloss=be_appropriate
 24	ita	ita	PRON	_	Gender=Fem|Person=3	28	subj	_	Gloss=XX
 25	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	24	conj:appos	_	Gloss=country.Fem.Cons
 26	Jàpân	Jàpân	PROPN	_	_	25	mod	_	Gloss=Japan
-27	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	25	det	_	Gloss=XX
+27	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	25	det	_	Gloss=Def
 28	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	23	comp:obj@agent	_	Gloss=XX
 29	tsoːmà	tsoːmàː	VERB	_	_	28	comp:aux	_	Gloss=XX
 30	bàːkin	bàːkiː	NOUN	_	Definite=Cons|Gender=Masc|Person=3	29	comp:obj	_	Gloss=mouth|SpaceAfter=No|wordform=bàːkintà
@@ -560,14 +560,14 @@
 16	à	à	ADP	_	_	15	mod	_	Gloss=at
 17	harshèn	harshèː	NOUN	_	Definite=Cons|Gender=Masc	16	comp:obj	_	Gloss=XX
 18	Japananciː	Japananciː	PROPN	_	_	17	mod	_	Gloss=Japanese
-19	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	18	det	_	Gloss=XX|SpaceAfter=No
+19	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	18	det	_	Gloss=Def|SpaceAfter=No
 20	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__22
 # text = À yâu ɗîn kuma ɗaya dàgà cikin shùːgàbànnin wannàn ƙungìyaː ta Mùsùlmiː yaː cêː lalleː suː bà zaːsù ƙyaːlè Gianni Palma dà rânsà ba, dòːmin kùwa yaː ƙàːlùːbàlànci àl'ummàr̃ Mùsùlmiː bàːkiː ɗayansù .
 1	À	à	ADP	_	_	13	mod	_	Gloss=XX
 2	yâu	yâu	ADV	_	_	1	comp:obj	_	Gloss=XX
-3	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	2	det	_	Gloss=XX
+3	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	1	det	_	Gloss=Def
 4	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=too
 5	ɗaya	ɗaya	NUM	_	_	13	subj	_	Gloss=one
 6	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=from
