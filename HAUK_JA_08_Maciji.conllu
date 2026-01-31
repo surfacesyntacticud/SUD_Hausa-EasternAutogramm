@@ -4,8 +4,8 @@
 2	ci	ci	VERB	_	_	1	comp:aux	_	Gloss=XX
 3	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	4	det	_	Gloss=some.Masc.Spec
 4	macìːjiː	macìːjiː	NOUN	_	Number=Plur	2	comp:obj	_	Gloss=XX
-5	mài	mài	PART	_	Number=Sing|PartType=Der	4	mod	_	Gloss=possessor_of.Sing
-6	dafìː	dafìː	NOUN	_	_	5	comp:obj	_	Gloss=XX
+5	mài	mài	PART	_	Number=Sing|PartType=Der	4	mod	_	Gloss=owner/doer_of.Sing
+6	dafìː	dafìː	NOUN	_	_	5	compound	_	Gloss=XX
 
 # sent_id = 08_Maciji__2
 # text = À gàrin " Gboko " dà kèː jihàr̃ Binuwài can areːwacin Nàːjeːr̃iyàː an kai wasu mutàneː gùdaː takwàs asìbitì baːyân dà sukà cikà cikìnsù dà àbincîn dà sukà yi miyàr̃sà dà naːmàn wani shirgeːgèn macìːjiː.
@@ -84,7 +84,7 @@
 31	nùfi	nùfi	VERB	_	_	30	comp:aux	_	Gloss=XX
 32	dà	dà	ADP	_	_	31	comp:obl	_	Gloss=XX
 33	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	32	comp:obj	_	Gloss=XX
-34	zuwàː	zuwàː	ADP	_	_	31	comp:obl	_	Gloss=XX
+34	zuwàː	zuwàː	ADP	_	_	31	comp:obl	_	Gloss=towards
 35	gidaː	gidaː	NOUN	_	Gender=Masc	34	comp:obj	_	Gloss=XX|SpaceAfter=No
 36	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
@@ -115,7 +115,7 @@
 # text = Tòː indà màtsalàr̃ ta faːrà taːshìː shiː nèː baːyân dà sukà cînyẽ macìːjîn dà sukà dafàn, nan dà nan sai waɗànnân mutàːneː sukà faːrà jîn wani àbù nàː mur̃ɗàː musù cikin cikkunànsù .
 1	Tòː	tòː	INTJ	_	_	8	discourse	_	Gloss=XX
 2	indà	indà	ADV	_	PronType=Rel	8	subj	_	Gloss=where
-3	màtsalàr̃	màtsalaː	NOUN	_	Gender=Fem	4	subj	_	Gloss=problem.Fem.PrevRef
+3	màtsalàr̃	màtsalaː	NOUN	_	Definite=Def|Gender=Fem	4	subj	_	Gloss=problem.Fem.Def
 4	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	2	mod@relcl	_	Gloss=XX
 5	faːrà	faːràː	VERB	_	_	4	comp:aux	_	Gloss=XX
 6	taːshìː	taːshìː	NOUN	_	ExtPos=NOUN|Gender=Masc	5	comp:obj	_	Gloss=XX
@@ -178,7 +178,7 @@
 13	gaːrar̃	gaːraː	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=XX
 14	dàfaffen	dàfaffe	ADJ	_	_	15	mod	_	Gloss=XX
 15	macìːjîn	macìːjiː	NOUN	_	Definite=Def|Number=Plur	13	mod	_	Gloss=XX
-16	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc	7	comp:obl	_	Gloss=XX
+16	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc	7	comp:obl	_	Gloss=towards
 17	asìbitìn	asìbitìː	NOUN	_	Definite=Cons|Gender=Masc	16	comp:obj	_	Gloss=hospital.Masc.Cons
 18	Gboko	Gboko	PROPN	_	_	17	mod	_	Gloss=Gboko|SpaceAfter=No
 19	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
@@ -210,7 +210,7 @@
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	8	det	_	Gloss=some.Plur.Spec
 8	jàːmi'an	jàːmi'aː	ADJ	_	Definite=Cons|Number=Plur	10	subj	_	Gloss=XX
-9	asìbitìn	asìbitìː	NOUN	_	Definite=PrevRef|Gender=Masc	8	mod	_	Gloss=hospital.Masc.PrevRef
+9	asìbitìn	asìbitìː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=hospital.Masc.Def
 10	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 11	cêː	cêː	VERB	_	_	10	comp:aux	_	Gloss=XX
 12	wai	wai	SCONJ	_	_	11	comp:obj	_	Gloss=XX
@@ -238,8 +238,8 @@
 34	màcìːzân	macìːjiː	NOUN	_	Definite=Cons|Number=Plur	33	mod	_	Gloss=snake.Plur.Def
 35	nan	nan	DET	_	PronType=Dem	34	det	_	Gloss=XX
 36	nèː	neː	PART	_	_	34	discourse@foc	_	Gloss=XX
-37	màːsu	mài	ADP	_	Number=Plur	34	mod	_	Gloss=XX
-38	dafìn	dafìː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	37	comp:obj	_	Gloss=XX
+37	màːsu	mài	PART	_	Number=Plur|PartType=Der	34	mod	_	Gloss=owner/doer_of.Plur
+38	dafìn	dafìː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	37	compound	_	Gloss=XX
 39	gàske	gàske	ADV	_	_	38	mod	_	Gloss=XX|SpaceAfter=No
 40	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
@@ -273,7 +273,7 @@
 
 # sent_id = 08_Maciji__9
 # text = Jàːmì'ân sun yi kiràː gà mutàːnên dà kèː zàune à yankìn dà sù kìyàːyi ɗaukàr̃ gaːwàwwakin dàbboːbiː sunàː tàfiyàː dà suː gidaː don sù dafàː sù sàːmu àbinci.
-1	Jàːmì'ân	jaːmì'iː	PROPN	_	Definite=Cons|Number=Plur	2	subj	_	Gloss=leader.Plur.PrevRef
+1	Jàːmì'ân	jaːmì'iː	PROPN	_	Definite=Def|Number=Plur	2	subj	_	Gloss=leader.Plur.Def
 2	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	kiràː	kir-	VERB	_	Gender=Masc	3	comp:pred	_	Gloss=XX
@@ -283,7 +283,7 @@
 8	kèː	keː	AUX	_	Aspect=Prog	7	comp:obj	_	Gloss=XX
 9	zàune	zaun-	VERB	_	ExtPos=ADV|VerbForm=Stat	8	comp:pred	_	Gloss=XX
 10	à	à	ADP	_	_	9	comp:obl	_	Gloss=at
-11	yankìn	yankìː	NOUN	_	Definite=PrevRef|Gender=Masc	10	comp:obj	_	Gloss=area.Masc.PrevRef
+11	yankìn	yankìː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	Gloss=area.Masc.Def
 12	dà	dà	SCONJ	_	_	4	comp:obl	_	Gloss=COMP
 13	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	12	comp:obj	_	Gloss=XX
 14	kìyàːyi	kiyaːy-	VERB	_	_	13	comp:aux	_	Gloss=XX
@@ -308,13 +308,13 @@
 1	Hakà	hakà	ADV	_	_	5	mod	_	Gloss=XX
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=too
 3	jàːmì'an	jaːmì'iː	NOUN	_	Definite=Cons|Number=Plur	5	subj	_	Gloss=leader.Plur.Cons
-4	asìbitìn	asìbitìː	NOUN	_	Definite=PrevRef|Gender=Masc	3	mod	_	Gloss=hospital.Masc.PrevRef
+4	asìbitìn	asìbitìː	NOUN	_	Definite=Def|Gender=Masc	3	mod	_	Gloss=hospital.Masc.Def
 5	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 6	yi	yi	VERB	_	_	5	comp:aux	_	Gloss=do
 7	wani	wani	DET	_	Definite=Spec|Gender=Masc	8	det	_	Gloss=some.Masc.Spec
 8	gàr̃gàɗiː	gàr̃gàɗiː	NOUN	_	Definite=Cons|Gender=Fem	6	comp:pred	_	Gloss=XX
-9	gàme	gàme	ADP	_	_	8	comp:obl	_	Gloss=with
-10	dà	dà	ADP	_	_	9	comp:obj	_	Gloss=with
+9	gàme	gam-	VERB	_	ExtPos=ADP|VerbForm=Stat	8	comp:obl	_	Gloss=join.Stat|Idiom=Yes
+10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with|InIdiom=Yes
 11	maːgungunàn	maːgàniː	NOUN	_	Definite=Cons|ExtPos=NOUN|Number=Plur	10	comp:obj	_	Gloss=medicine.Plur.Cons|Idiom=Yes
 12	kashè	kas-	VERB	_	_	11	mod	_	Gloss=XX|InIdiom=Yes
 13	ƙwàːriː	ƙwàːroː	NOUN	_	Number=Plur	12	comp:obj	_	Gloss=insect.Plur

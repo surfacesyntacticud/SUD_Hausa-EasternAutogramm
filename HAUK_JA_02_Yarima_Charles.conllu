@@ -6,7 +6,7 @@
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 4	kai	kai	VERB	_	_	3	comp:aux	_	Gloss=reach/carry_to
 5	zìyaːr̃àː	zìyaːr̃àː	NOUN	_	_	4	comp:obj	_	Gloss=XX
-6	zuwàː	zuwàː	ADP	_	_	5	mod	_	Gloss=XX
+6	zuwàː	zuwàː	ADP	_	_	5	mod	_	Gloss=towards
 7	Afìr̃kà	Afìr̃kà	PROPN	_	_	6	comp:obj	_	Gloss=Africa
 8	ta	ta	ADP	_	_	7	mod	_	Gloss=XX
 9	Yâmma	Yâmma	PROPN	_	_	8	comp:obj	_	Gloss=Yâmma
@@ -141,7 +141,7 @@
 # sent_id = 02_Yarima_Charles__5
 # text = gidân nàː gab dà bàːkin tèːku kuma har̃ yànzu yanàː dà ban shàꞌawàː dà haskàkâːwaː duk dà gyàːre-gyàːren zaːmàniː dà akà yi masà loːkàcîn dà Nàːjeːr̃iyàː takèː cìke dà ar̃zìkin mân feːtùr̃.
 # text_ortho = Gidân nàː gab dà bàːkin tèːku kuma har̃ yànzu yanàː dà ban shàꞌawàː da haskàkâːwaː duk dà gyàːre-gyàːren zaːmàniː dà akà yi masà loːkàcîn dà Nàːjeːr̃iyàː takèː cìke dà ar̃zìkin mân feːtùr̃.
-1	gidân	gidaː	NOUN	_	Definite=PrevRef	2	subj	_	Gloss=house.Masc.PrevRef
+1	gidân	gidaː	NOUN	_	Definite=Def	2	subj	_	Gloss=house.Masc.Def
 2	nàː	neː	AUX	_	_	0	root	_	Gloss=XX
 3	gab	gab	ADP	_	ExtPos=ADP	2	comp:pred	_	Gloss=XX|Idiom=Yes
 4	dà	dà	ADP	_	_	3	comp:obj	_	Gloss=XX|InIdiom=Yes
@@ -189,11 +189,11 @@
 9	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
 10	kèː	keː	PART	_	Aspect=Prog	9	comp:obj	_	Gloss=XX
 11	cikin	cikin	ADP	_	_	10	comp:obl	_	Gloss=inside
-12	gidân	gidaː	NOUN	_	Definite=PrevRef	11	comp:obj	_	Gloss=house.Masc.PrevRef
+12	gidân	gidaː	NOUN	_	Definite=Def	11	comp:obj	_	Gloss=house.Masc.Def
 13	kèː	nàː	AUX	_	Aspect=Prog	5	comp:cleft	_	Gloss=XX
 14	aikìː	aikìː	NOUN	_	Gender=Masc	13	comp:aux	_	Gloss=work.Masc
-15	kàmar̃	kàmar̃	ADP	_	Definite=Cons|Gender=Fem	14	mod	_	Gloss=XX
-16	yaddà	yaddà	ADV	_	_	15	comp:obj	_	Gloss=XX
+15	kàmar̃	kàmar̃	ADP	_	_	14	mod	_	Gloss=like
+16	yaddà	yaddà	ADV	_	PronType=Rel	15	comp:obj	_	Gloss=how
 17	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	16	mod@relcl	_	Gloss=XX
 18	kàmaːtà	kàant-	NOUN	_	Case=Gen|Definite=Cons|Gender=Fem|Person=3	17	comp:aux	_	Gloss=XX
 19	ba	ba	PART	_	Polarity=Neg	5	mod	_	Gloss=XX|SpaceAfter=No
@@ -315,7 +315,7 @@
 12	bàːƙiː	bàːƙiː	NOUN	_	Number=Plur	13	subj	_	Gloss=XX
 13	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	4	parataxis@conj	_	Gloss=XX
 14	zar̃cèː	zar̃-	VERB	_	_	13	comp:aux	_	Gloss=XX
-15	zuwàː	zuwàː	ADP	_	_	14	comp:obl	_	Gloss=XX
+15	zuwàː	zuwàː	ADP	_	_	14	comp:obl	_	Gloss=towards
 16	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	15	mod	_	Gloss=house.Masc.Cons
 17	Gwamnàn	Gwamnàn	PROPN	_	_	16	mod	_	Gloss=Gwamnàn
 18	indà	indà	ADV	_	PronType=Rel	20	mod@relcl	_	Gloss=where
@@ -369,7 +369,7 @@
 5	fi	fi	VERB	_	_	4	comp:aux	_	Gloss=XX
 6	ban	ban	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:obj	_	Gloss=XX
 7	shàꞌawàː	shàꞌawàː	NOUN	_	Gender=Fem	6	comp:obj	_	Gloss=XX
-8	kàmar̃	kàmar̃	ADP	_	Definite=Cons|Gender=Fem	5	mod	_	Gloss=XX
+8	kàmar̃	kàmar̃	ADP	_	_	5	mod	_	Gloss=like
 9	wata	wani	DET	_	Definite=Spec|Gender=Masc	11	det	_	Gloss=some.Fem.Spec
 10	shirgeːgìyar̃	shirgeːgèː	ADJ	_	Definite=Cons|Gender=Fem	11	mod	_	Gloss=XX
 11	tar̃waɗaː	tar̃waɗaː	NUM	_	_	8	comp:obj	_	Gloss=XX
@@ -391,7 +391,7 @@
 8	Gimbìyaː	Gimbìyaː	PROPN	_	_	6	conj:appos	_	Gloss=Gimbìyaː
 9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 10	taːshì	taːs-	VERB	_	_	9	comp:aux	_	Gloss=XX
-11	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:obl	_	Gloss=XX
+11	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:obl	_	Gloss=towards
 12	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	11	comp:obj	_	Gloss=country.Fem.Cons
 13	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	12	mod	_	Gloss=Kàmàr̃u|SpaceAfter=No
 14	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
@@ -463,7 +463,7 @@
 3	dà	dà	CCONJ	_	_	4	cc	_	Gloss=XX
 4	bìyar̃	bìyar̃	NUM	_	_	2	conj:coord	_	Gloss=five
 5	cikin	cikin	ADP	_	_	1	mod	_	Gloss=inside
-6	ɗàriː	ɗàriː	NUM	_	Number=Plur	5	comp:obj	_	Gloss=hundred
+6	ɗàriː	ɗàriː	NOUN	_	Gender=Fem|Number=Plur	5	comp:obj	_	Gloss=hundred.Fem
 7	na	na	ADP	_	Definite=Cons	1	mod	_	Gloss=XX
 8	duk	duk	DET	_	_	9	det	_	Gloss=XX
 9	yawàn	yawàn	ADJ	_	_	7	mod	_	Gloss=XX
@@ -519,7 +519,7 @@
 16	hàlìttuː	hàlìttuː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=XX
 17	ba	ba	PART	_	Polarity=Neg	9	mod	_	Gloss=XX|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-19	sabòːdà	sabòːdà	ADP	_	_	9	mod	_	Gloss=XX
+19	sabòːdà	sabòːdà	ADP	_	_	9	mod	_	Gloss=because_of
 20	zùmūɗìn	zùmūɗìː	NOUN	_	Definite=Cons|Gender=Masc	19	comp:obj	_	Gloss=XX
 21	dà	dà	SCONJ	_	_	20	mod@relcl	_	Gloss=COMP
 22	jàːmìꞌan	jàːmì	NOUN	_	Definite=Cons|Number=Plur	25	subj	_	Gloss=XX
@@ -534,7 +534,7 @@
 31	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Stat	30	mod	_	Gloss=take.Stat
 32	dà	dà	CCONJ	_	_	31	comp:obl	_	Gloss=XX
 33	màkàːmai	màkàːmai	NOUN	_	Gender=Masc|Number=Plur	32	comp:obj	_	Gloss=XX
-34	zuwàː	zuwàː	ADP	_	_	28	comp:obl	_	Gloss=XX
+34	zuwàː	zuwàː	ADP	_	_	28	comp:obl	_	Gloss=towards
 35	daːjìn	daːjìː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	34	comp:obj	_	Gloss=XX
 36	don	don	SCONJ	_	_	28	mod	_	Gloss=XX
 37	kaːrè	kar-	VERB	_	_	36	comp:obj	_	Gloss=XX

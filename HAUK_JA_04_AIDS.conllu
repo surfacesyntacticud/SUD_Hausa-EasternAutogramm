@@ -302,7 +302,7 @@
 # text = Tòː ꞌyàːꞌyàː àbîn yakè à ƙasar̃ Nàːjeːr̃iyàː ?
 1	tòː	tòː	INTJ	_	_	2	discourse	_	Gloss=XX
 2	ꞌyàːꞌyàː	ꞌyàːꞌyàː	ADV	_	_	0	root	_	Gloss=XX
-3	àbîn	àbù	NOUN	_	Definite=PrevRef|Gender=Masc	4	subj	_	Gloss=thing.Masc.PrevRef
+3	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	4	subj	_	Gloss=thing.Masc.Def
 4	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	2	comp:cleft	_	Gloss=XX
 5	à	à	ADP	_	_	4	comp:pred	_	Gloss=at
 6	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	5	comp:obj	_	Gloss=country.Fem.Cons
@@ -408,7 +408,7 @@
 10	ta	na	AUX	_	Aspect=Perf|Gender=Fem|Person=3	9	mod@relcl	_	Gloss=XX
 11	kashèː	kas-	VERB	_	_	10	comp:aux	_	Gloss=XX
 12	à	à	ADP	_	_	11	mod	_	Gloss=at
-13	ƙasâr̃	ƙasaː	VERB	_	Definite=PrevRef|Gender=Fem	12	comp:obj	_	Gloss=country.Fem.PrevRef|SpaceAfter=No
+13	ƙasâr̃	ƙasaː	VERB	_	Definite=Def|Gender=Fem	12	comp:obj	_	Gloss=country.Fem.Def|SpaceAfter=No
 14	.	.	PUNCT	_	_	3	punct	_	Gloss=XX
 
 # sent_id = 04_AIDS__13

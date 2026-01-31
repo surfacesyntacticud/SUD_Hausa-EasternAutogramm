@@ -44,7 +44,7 @@
 # text_ortho = Wani loːkàciː àbîn yanàː dà ban haushiː, sabòːdà irìn wàhalàr̃ dà akàn saːmùː kàːfìn à bugà wayàː zuwàː ƙasàːshen Afìr̃kà, mùsammàn maː ƙasàːsheː kàmar̃ Zàyâr dà Sudân.
 1	wani	wani	DET	_	Definite=Spec|Gender=Masc	2	det	_	Gloss=some.Masc.Spec
 2	loːkàciː	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	4	mod	_	Gloss=time.Masc
-3	àbîn	àbiː	NOUN	_	Definite=PrevRef|Gender=Masc	4	subj	_	Gloss=thing.Masc.PrevRef
+3	àbîn	àbiː	NOUN	_	Definite=Def|Gender=Masc	4	subj	_	Gloss=thing.Masc.Def
 4	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=XX
 5	dà	dà	ADP	_	_	4	comp:pred	_	Gloss=XX
 6	ban	baː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:obj	_	Gloss=XX
@@ -143,7 +143,7 @@
 24	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	23	comp:obj	_	Gloss=country.Fem.Cons
 25	Kyanadà	Kyanadà	PROPN	_	_	24	flat@name	_	Gloss=Kyanadà|SpaceAfter=No
 26	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-27	àbîn	àbî	NOUN	_	Definite=PrevRef|Gender=Masc	29	dislocated@subj	_	Gloss=thing.Masc.PrevRef
+27	àbîn	àbî	NOUN	_	Definite=Def|Gender=Masc	29	dislocated@subj	_	Gloss=thing.Masc.Def
 28	bà	bà	PART	_	Polarity=Neg	29	mod	_	Gloss=XX
 29	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	0	root	_	Gloss=XX
 30	yìwu	yìi	VERB	_	ExtPos=NOUN	29	comp:aux	_	Gloss=XX
@@ -213,7 +213,7 @@
 18	"	"	PUNCT	_	_	17	punct	_	Gloss=PUNCT|wordform='
 19	à	à	ADP	_	ExtPos=ADP	17	mod	_	Gloss=at|Idiom=Yes
 20	gabashin	gabashin	ADP	_	_	19	compound	_	Gloss=XX|InIdiom=Yes
-21	Kyanadàn	Kyanadàn	PROPN	_	Definite=PrevRef	19	comp:obj	_	Gloss=Canada.PrevRef|SpaceAfter=No
+21	Kyanadàn	Kyanadàn	PROPN	_	Definite=Def	19	comp:obj	_	Gloss=Canada.Def|SpaceAfter=No
 22	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 06_01_Wayoyin_Tarho__9

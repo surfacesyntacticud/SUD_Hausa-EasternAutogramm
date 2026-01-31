@@ -92,7 +92,7 @@
 18	rashìn	rashìː	NOUN	_	Definite=Cons|Gender=Masc	17	mod	_	Gloss=XX
 19	kwànciyar̃	kwànciyaː	VERB	_	Gender=Fem	18	mod	_	Gloss=XX
 20	hankàliː	hankàliː	NOUN	_	Gender=Masc	19	mod	_	Gloss=XX
-21	sabòːdà	sabòːdà	SCONJ	_	_	10	mod	_	Gloss=XX
+21	sabòːdà	sabòːdà	SCONJ	_	_	10	mod	_	Gloss=because
 22	jiyà	jiyà	VERB	_	_	21	comp:obj	_	Gloss=XX
 23	jàːmì'an	jàːmì'aː	NOUN	_	Definite=Cons|Number=Plur	22	comp:obj	_	Gloss=XX
 24	kiːwòn	kiːwòː	NOUN	_	Definite=Cons|Gender=Masc	23	mod	_	Gloss=XX
@@ -230,13 +230,13 @@
 1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=XX
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	Gloss=XX
 3	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	dislocated@subj	_	Gloss=XX
-4	Kir̃istoːcîn	Kìr̃istàː	NOUN	_	Definite=PrevRef	3	conj:appos	_	Gloss=Christian.Plur.PrevRef
+4	Kir̃istoːcîn	Kìr̃istàː	NOUN	_	Definite=Def	3	conj:appos	_	Gloss=Christian.Plur.Def
 5	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	2	comp:obj	_	Gloss=XX
 6	hàsalà	hàsa	VERB	_	_	5	comp:aux	_	Gloss=XX
 7	neː	neː	PART	_	Gender=Masc|Number=Plur	6	discourse@foc	_	Gloss=XX
-8	sabòːdà	sabòːdà	SCONJ	_	_	6	mod	_	Gloss=XX
+8	sabòːdà	sabòːdà	SCONJ	_	_	6	mod	_	Gloss=because
 9	Mùsùlmin	Mùsùlmiː	NOUN	_	_	11	subj	_	Gloss=Muslim.Plur.Cons
-10	yankìn	yankìː	NOUN	_	Definite=PrevRef|Gender=Masc	9	mod	_	Gloss=area.Masc.PrevRef
+10	yankìn	yankìː	NOUN	_	Definite=Def|Gender=Masc	9	mod	_	Gloss=area.Masc.Def
 11	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	8	comp:obj	_	Gloss=XX
 12	hanàː	hanàː	VERB	_	_	11	comp:aux	_	Gloss=XX
 13	su	su	PRON	_	Person=3	12	comp:obj	_	Gloss=XX
@@ -304,7 +304,7 @@
 3	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	2	mod	_	Gloss=Nigeria
 4	kà	eː	AUX	_	Aspect=Prog	2	mod	_	Gloss=XX
 5	kèː	keː	PART	_	_	4	comp:aux	_	Gloss=XX
-6	Baucîn	Baucîn	PROPN	_	Definite=PrevRef	9	subj	_	Gloss=Bauchi.PrevRef
+6	Baucîn	Baucîn	PROPN	_	Definite=Def	9	subj	_	Gloss=Bauchi.Def
 7	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 8	cêː	cêː	VERB	_	_	7	comp:aux	_	Gloss=XX
 9	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	8	comp:obj	_	Gloss=XX
@@ -374,7 +374,7 @@
 26	gidàːjen	gidaː	NOUN	_	Definite=Cons|Number=Plur	25	comp:obj	_	Gloss=house.Plur.Cons|SpaceAfter=No|wordform=gidàːjensù
 27	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	26	mod@poss	_	Gloss=3Plur.Gen
 28	sàːkàmakon	sàːkàmakon	ADP	_	_	25	mod	_	Gloss=because_of
-29	hàrgitsîn	hàrgitsiː	NOUN	_	Definite=PrevRef|Gender=Masc	28	comp:obj	_	Gloss=crisis.Masc.PrevRef|SpaceAfter=No
+29	hàrgitsîn	hàrgitsiː	NOUN	_	Definite=Def|Gender=Masc	28	comp:obj	_	Gloss=crisis.Masc.Def|SpaceAfter=No
 30	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 31	sunà	nà	AUX	_	Aspect=Prog|Number=Plur|Person=3	10	conj:coord	_	Gloss=XX
 32	fùskantàr̃	fuskant-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	31	comp:aux	_	Gloss=face.Vnoun.Fem.Cons
@@ -438,7 +438,7 @@
 21	kuma	kuma	PART	_	_	20	discourse@top	_	Gloss=too
 22	'yan	ɗan	ADJ	_	Definite=Cons|Number=Plur	15	mod	_	Gloss=XX
 23	areːwacin	areːwaciː	NOUN	_	Definite=Cons|Gender=Masc	18	comp:pred	_	Gloss=XX
-24	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	23	mod	_	Gloss=country.Fem.PrevRef|SpaceAfter=No
+24	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	23	mod	_	Gloss=country.Fem.Def|SpaceAfter=No
 25	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
 26	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	27	comp:obj	_	Gloss=who.Plur
 27	mafìː	mafìː	NOUN	_	Gender=Masc	31	comp:pred	_	Gloss=XX
@@ -521,7 +521,7 @@
 20	ba	ba	PART	_	Polarity=Neg	13	mod	_	Gloss=XX|SpaceAfter=No
 21	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 22	tòː	tòː	INTJ	_	_	24	discourse	_	Gloss=XX
-23	àbîn	àbː	NOUN	_	Definite=PrevRef|Gender=Masc	24	subj	_	Gloss=thing.Masc.PrevRef
+23	àbîn	àbː	NOUN	_	Definite=Def|Gender=Masc	24	subj	_	Gloss=thing.Masc.Def
 24	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	10	comp:obj	_	Gloss=XX
 25	iyà	iy-	VERB	_	_	24	comp:aux	_	Gloss=XX
 26	kaːwoː	kai	VERB	_	_	25	comp:obj	_	Gloss=carry/take_to
@@ -529,7 +529,7 @@
 28	à	à	ADP	_	_	26	comp:obl	_	Gloss=at
 29	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	28	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 30	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
-31	ƙasâr̃	ƙasaː	SCONJ	_	Definite=PrevRef|Gender=Fem	27	mod	_	Gloss=country.Fem.PrevRef
+31	ƙasâr̃	ƙasaː	SCONJ	_	Definite=Def|Gender=Fem	27	mod	_	Gloss=country.Fem.Def
 32	dà	dà	SCONJ	_	_	31	mod@relcl	_	Gloss=COMP
 33	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	32	comp:obj	_	Gloss=XX
 34	fi	fi	VERB	_	_	33	comp:aux	_	Gloss=XX

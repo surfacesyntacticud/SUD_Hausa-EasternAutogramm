@@ -57,7 +57,7 @@
 23	kaːrè	kaːr-	VERB	_	_	21	comp:obj	_	Gloss=XX
 24	haƙƙìn	haƙƙìː	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=XX
 25	ꞌyan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	24	mod	_	Gloss=XX
-26	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	25	compound	_	Gloss=country.Fem.PrevRef|SpaceAfter=No
+26	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	25	compound	_	Gloss=country.Fem.Def|SpaceAfter=No
 27	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__4
@@ -131,7 +131,7 @@
 6	gàba	gàba	ADV	_	_	5	mod	_	Gloss=front
 7	dà	dà	ADP	_	_	6	comp:obj	_	Gloss=XX
 8	tsarè	tsar-	VERB	_	_	6	comp:obj	_	Gloss=XX
-9	mùtumìn	mùtûm	NOUN	_	Definite=PrevRef|Gender=Masc	8	comp:obj	_	Gloss=person.Masc.PrevRef
+9	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	8	comp:obj	_	Gloss=person.Masc.Def
 10	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	6	mod	_	Gloss=until
 11	sai	sai	ADP	_	_	10	comp:obj	_	Gloss=until
 12	illaː	illaː	X	_	_	11	comp:obj	_	Gloss=XX
@@ -224,7 +224,7 @@
 10	cêːwaː	cêwaː	SCONJ	_	_	8	comp:obj	_	Gloss=XX
 11	yànzu	yànzu	ADV	_	_	14	mod	_	Gloss=XX
 12	hukuːmoːmin	hukuːmoːmiː	NOUN	_	Definite=Cons|Gender=Masc	14	subj	_	Gloss=XX
-13	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	12	mod	_	Gloss=country.Fem.PrevRef
+13	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	12	mod	_	Gloss=country.Fem.Def
 14	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	10	comp:obj	_	Gloss=XX
 15	shirìn	shiry-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:aux	_	Gloss=XX
 16	gur̃faːnar̃	gur̃faːn-	VERB	_	Definite=Cons|Gender=Fem	15	comp:obj	_	Gloss=XX
@@ -516,7 +516,7 @@
 51	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	52	mod@desc	_	Gloss=year.Fem.Cons
 52	alìf	alìf	NUM	_	_	50	comp:obj	_	Gloss=one_thousand
 53	dà	dà	CCONJ	_	_	54	cc	_	Gloss=XX
-54	ɗàriː	ɗàriː	NUM	_	_	52	conj:coord	_	Gloss=hundred
+54	ɗàriː	ɗàriː	NOUN	_	Gender=Fem	52	conj:coord	_	Gloss=hundred.Fem
 55	tar̃à	tar̃à	NUM	_	_	54	mod:num	_	Gloss=nine
 56	dà	dà	CCONJ	_	_	57	cc	_	Gloss=XX
 57	tàmàːnin	tàmàːnin	NUM	_	_	54	conj:coord	_	Gloss=eighty

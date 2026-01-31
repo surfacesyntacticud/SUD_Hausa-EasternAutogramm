@@ -60,7 +60,7 @@
 
 # sent_id = 17_Gidan_yarin_Kirikiri__3
 # text = R̃àhoːtòn ya cèː sha'ànin tsabtàː dà na kiːwòn laːfiyàː duk à tàɓàrɓàre sukè, kuma kusan mutàːneː àr̃bà'in dà tar̃à neː sukà ràsu à Ƙìr̃iƙìr̃i à bàːra kaɗai, yawancinsù maː màːsu jiràn à gabaːtar̃ dà suː nèː à gàban koːtù.
-1	R̃àhoːtòn	r̃àhoːtòː	PROPN	_	_	2	subj	_	Gloss=report.Masc.PrevRef
+1	R̃àhoːtòn	r̃àhoːtòː	PROPN	_	Definite=Def	2	subj	_	Gloss=report.Masc.Def
 2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=XX
 4	sha'ànin	sha'àniː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=matter.Masc.Cons
@@ -106,7 +106,7 @@
 
 # sent_id = 17_Gidan_yarin_Kirikiri__4
 # text = R̃àhoːtòn ya cèː cùnkoːson mutàːnên dà kèː cikin gidan fur̃sùnàn Ƙìr̃iƙìr̃i ya ɓaːcì, ta yaddà har̃ 'yan fur̃sùnàn sukàn yi barciː nèː kaːmùː-kaːmùː, wasu vuː bâi wà wasu, baːyan saː'oː'iː mìsaːlìn ukù kô huɗu, yàːyîn dà wasu 'yan fur̃sunoːnîn kùwa sai dai kawài sù tsayàː dà ƙafàr̃sù kurùm.
-1	R̃àhoːtòn	r̃àhoːtòː	PROPN	_	_	2	subj	_	Gloss=report.Masc.PrevRef
+1	R̃àhoːtòn	r̃àhoːtòː	PROPN	_	Definite=Def	2	subj	_	Gloss=report.Masc.Def
 2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=XX
 4	cùnkoːson	cùnkoːsoː	NOUN	_	Definite=Cons|Gender=Masc	2	subj	_	Gloss=XX
@@ -360,7 +360,7 @@
 9	à	à	ADP	_	_	6	comp:obl	_	Gloss=at
 10	bisà	bisà	ADP	_	_	9	comp:obj	_	Gloss=on_top
 11	dàɓeː	dàɓeː	NOUN	_	_	10	comp:obj	_	Gloss=XX
-12	sabòːdà	sabòːdà	SCONJ	_	_	6	mod	_	Gloss=XX
+12	sabòːdà	sabòːdà	SCONJ	_	_	6	mod	_	Gloss=because
 13	baː'à	nàː	AUX	_	Aspect=Prog|Person=4|Polarity=Neg	12	comp:obj	_	Gloss=XX
 14	baː	baː	VERB	_	_	13	comp:aux	_	Gloss=XX
 15	sù	su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	comp:obj@R	_	Gloss=XX
@@ -377,7 +377,7 @@
 
 # sent_id = 17_Gidan_yarin_Kirikiri__10
 # text = R̃àhoːtòn ya ci gàba dà cêːwaː irìn haːlin kiwòn laːfiyàː dà na tsabtàː àː kûr̃kukùn yanàː dà haɗàr̃iː; wàːtòː zaːfiː dà rashìn ìsasshiyar̃ iskàː à cikin ɗaːkunàː, tàːre dà rashìn ìsasshen hasken làntar̃kìː yanàː sànàdiyyàr̃ bàːzuwar̃ wasu ƙwaːyoːyin cùːtaː dà kuma ƙwàːriː.
-1	R̃àhoːtòn	r̃àhoːtòː	PROPN	_	_	2	subj	_	Gloss=report.Masc.PrevRef
+1	R̃àhoːtòn	r̃àhoːtòː	PROPN	_	Definite=Def	2	subj	_	Gloss=report.Masc.Def
 2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 3	ci	ci	VERB	_	_	2	comp:aux	_	Gloss=XX
 4	gàba	gàba	ADV	_	_	3	mod	_	Gloss=front
@@ -451,7 +451,7 @@
 24	cikin	cikin	ADP	_	_	23	comp:obj	_	Gloss=inside
 25	kûr̃kukùn	kûr̃kukuː	NOUN	_	Definite=Def|Gender=Masc	24	comp:obj	_	Gloss=XX|SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
-27	sabòːdà	sabòːdà	SCONJ	_	_	10	mod	_	Gloss=XX
+27	sabòːdà	sabòːdà	SCONJ	_	_	10	mod	_	Gloss=because
 28	hakà	hakà	ADV	_	_	31	mod	_	Gloss=XX
 29	kuma	kuma	PART	_	_	28	discourse@top	_	Gloss=too
 30	tsàràrrûn	tsàràrriː	NOUN	_	Definite=Def|Gender=Masc	31	subj	_	Gloss=XX
@@ -554,7 +554,7 @@
 
 # sent_id = 17_Gidan_yarin_Kirikiri__14
 # text = R̃àhoːtòn kuma yaː bayyànà suːnàːyen wasu mutàːneː àr̃bà'in dà tar̃à dà sukà mutù à kûr̃kukùn à bàːra.
-1	R̃àhoːtòn	r̃àhoːtòː	PROPN	_	_	3	subj	_	Gloss=report.Masc.PrevRef
+1	R̃àhoːtòn	r̃àhoːtòː	PROPN	_	Definite=Def	3	subj	_	Gloss=report.Masc.Def
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=too
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 4	bayyànà	bayy	VERB	_	_	3	comp:aux	_	Gloss=XX

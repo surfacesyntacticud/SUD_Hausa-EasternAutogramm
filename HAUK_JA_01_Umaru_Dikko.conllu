@@ -12,7 +12,7 @@
 3	Dikkò	Dikkò	PROPN	_	_	2	flat@name	_	Gloss=Dikkò
 4	àbù	àbù	NOUN	_	Gender=Masc	5	comp:pred	_	Gloss=XX
 5	neː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Gloss=XX
-6	mài	mài	PART	_	Number=Sing	4	mod	_	Gloss=owner/doer_of.Sing
+6	mài	mài	PART	_	Number=Sing|PartType=Der	4	mod	_	Gloss=owner/doer_of.Sing
 7	ban	baː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	compound	_	Gloss=XX
 8	shàꞌawàr̃	shàꞌawàː	NOUN	_	Definite=Cons|Gender=Fem	7	comp:obj	_	Gloss=XX
 9	jîː	ji	AUX	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	mod	_	Gloss=XX|SpaceAfter=No
@@ -30,7 +30,7 @@
 7	tseːrèː	tseːr-	VERB	_	_	6	comp:aux	_	Gloss=XX
 8	neː	neː	PART	_	Gender=Masc|Number=Plur	7	discourse@foc	_	Gloss=XX
 9	dàgà	dàgà	ADP	_	_	7	comp:obl	_	Gloss=from
-10	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	9	comp:obj	_	Gloss=country.Fem.PrevRef
+10	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	9	comp:obj	_	Gloss=country.Fem.Def
 11	baːyan	baːyan	ADP	_	_	7	mod	_	Gloss=after
 12	juːyìn	juːyìː	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	Gloss=XX
 13	mulkìn	mulkiː	NOUN	_	Definite=Cons|Gender=Masc	12	mod	_	Gloss=XX
@@ -45,7 +45,7 @@
 22	shèːkararàr̃	shèːkararàː	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	21	comp:obj	_	Gloss=XX
 23	alìf	alìf	NUM	_	_	22	mod:num	_	Gloss=one_thousand
 24	dà	da	CCONJ	_	_	25	cc	_	Gloss=XX|wordform=da
-25	ɗàriː	ɗàriː	NUM	_	_	23	conj:coord	_	Gloss=hundred
+25	ɗàriː	ɗàriː	NOUN	_	Gender=Fem	23	conj:coord	_	Gloss=hundred.Fem
 26	tar̃à	tar̃à	NUM	_	_	25	mod:num	_	Gloss=nine
 27	dà	dà	CCONJ	_	_	28	cc	_	Gloss=XX
 28	tàmàːnin	tàmàːnin	NUM	_	_	26	conj:coord	_	Gloss=eighty
@@ -206,7 +206,7 @@
 5	akà	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=XX
 6	r̃ubùːtaː	r̃ubùːtaː	NOUN	_	ExtPos=NOUN|Gender=Fem	5	comp:aux	_	Gloss=XX
 7	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-8	zuwàː	zuwàː	ADP	_	_	6	comp:obj	_	Gloss=XX
+8	zuwàː	zuwàː	ADP	_	_	6	comp:obj	_	Gloss=towards
 9	gà	gà	ADP	_	_	8	comp:obl	_	Gloss=XX
 10	maꞌaikatar̃	maꞌaikataː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=XX
 11	har̃koːkin	har̃koːkin	NOUN	_	_	10	mod	_	Gloss=XX
@@ -290,7 +290,7 @@
 2	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	3	mod@desc	_	Gloss=year.Fem.Cons
 3	alìf	alìf	NUM	_	_	1	comp:obj	_	Gloss=one_thousand
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=XX
-5	ɗàriː	ɗàriː	NUM	_	_	3	conj:coord	_	Gloss=hundred
+5	ɗàriː	ɗàriː	NOUN	_	Gender=Fem	3	conj:coord	_	Gloss=hundred.Fem
 6	tar̃à	tar̃à	NUM	_	_	5	mod:num	_	Gloss=nine
 7	dà	dà	CCONJ	_	_	8	cc	_	Gloss=XX
 8	tàmàːnin	tàmàːnin	NUM	_	_	5	conj:coord	_	Gloss=eighty
@@ -384,7 +384,7 @@
 6	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	7	mod@desc	_	Gloss=year.Fem.Cons
 7	alif	alif	NUM	_	_	5	comp:obj	_	Gloss=XX
 8	dà	dà	CCONJ	_	_	9	cc	_	Gloss=XX
-9	ɗàriː	ɗàriː	NUM	_	_	7	conj:coord	_	Gloss=hundred
+9	ɗàriː	ɗàriː	NOUN	_	Gender=Fem	7	conj:coord	_	Gloss=hundred.Fem
 10	tar̃à	tar̃à	NUM	_	_	9	flat:num	_	Gloss=nine
 11	dà	dà	ADP	_	_	12	cc	_	Gloss=XX
 12	tàmàːnin	tàmàːnin	NUM	_	_	10	conj:coord	_	Gloss=eighty
@@ -487,7 +487,7 @@
 16	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	15	mod	_	Gloss=Britania|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	yanà	nà	AUX	_	Aspect=Prog|ExtPos=SCONJ|Gender=Masc|Person=3	5	parataxis@mod	_	Gloss=XX|Idiom=Yes
-19	mài	mài	PART	_	Gender=Masc	18	comp:pred	_	Gloss=owner/doer_of.Sing|InIdiom=Yes
+19	mài	mài	PART	_	Gender=Masc|PartType=Der	18	comp:pred	_	Gloss=owner/doer_of.Sing|InIdiom=Yes
 20	cêːwaː	cê	VERB	_	ExtPos=NOUN|Gender=Fem	19	compound	_	Gloss=XX|InIdiom=Yes|wordform=cêwaː
 21	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	18	comp:obj	_	Gloss=XX
 22	kasànceː	kasant-	VERB	_	_	21	comp:aux	_	Gloss=XX
@@ -604,7 +604,7 @@
 15	cêːwaː	cê	VERB	_	ExtPos=NOUN|Gender=Fem	12	comp:obj	_	Gloss=XX|wordform=cêwaː
 16	zuːƙì-ta-Màlle	zuːƙì-ta-màlle	NOUN	_	Gender=Masc	17	comp:pred	_	Gloss=XX
 17	cèː	neː	AUX	_	Gender=Fem	15	comp:obj	_	Gloss=XX
-18	kawài	kawài	PART	_	_	17	mod	_	Gloss=XX
+18	kawài	kawài	ADV	_	_	17	mod	_	Gloss=merely
 19	dàliːlìn	dàliːlìː	NOUN	_	Definite=Def	17	dislocated@subj	_	Gloss=XX
 20	dà	dà	SCONJ	_	_	19	mod@relcl	_	Gloss=COMP
 21	Ùːmar̃ù	Ùːmar̃ù	PROPN	_	_	23	subj	_	Gloss=Ùːmar̃ù
@@ -675,7 +675,7 @@
 48	à	à	ADP	_	_	45	comp:obl	_	Gloss=at
 49	gàban	gàban	ADP	_	_	48	comp:obj	_	Gloss=front
 50	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Gender=Masc	49	comp:obj	_	Gloss=XX
-51	kawài	kawài	ADV	_	_	50	mod	_	Gloss=XX|SpaceAfter=No
+51	kawài	kawài	ADV	_	_	50	mod	_	Gloss=merely|SpaceAfter=No
 52	.	.	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 53	"	"	PUNCT	_	_	22	punct	_	Gloss=PUNCT|SpaceAfter=No
 54	.	.	PUNCT	_	_	14	punct	_	Gloss=PUNCT

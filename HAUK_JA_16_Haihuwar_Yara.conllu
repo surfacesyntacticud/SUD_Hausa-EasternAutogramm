@@ -211,7 +211,7 @@
 17	kuma	kuma	PART	_	_	16	discourse@top	_	Gloss=too
 18	mutuwàː	mutuwàː	NOUN	_	Gender=Fem	16	comp:aux	_	Gloss=XX
 19	neː	neː	PART	_	Gender=Masc|Number=Plur	18	discourse@foc	_	Gloss=XX
-20	sabòːdà	sabòːdà	SCONJ	_	_	18	mod	_	Gloss=XX
+20	sabòːdà	sabòːdà	SCONJ	_	_	18	mod	_	Gloss=because
 21	kwàtangwalòn	kwàtangwalòː	NOUN	_	Definite=Cons|Gender=Masc	23	subj	_	Gloss=pelvis.Masc.Cons|SpaceAfter=No|wordform=kwàtangwalònsù
 22	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	21	mod@poss	_	Gloss=3Plur.Gen
 23	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	20	comp:obj	_	Gloss=XX
@@ -235,7 +235,7 @@
 4	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=XX
 5	mutuwàː	mutuwàː	NOUN	_	Number=Plur	4	comp:aux	_	Gloss=XX
 6	neː	neː	PART	_	_	5	discourse@foc	_	Gloss=XX
-7	sabòːdà	sabòːdà	ADP	_	_	4	mod	_	Gloss=XX
+7	sabòːdà	sabòːdà	ADP	_	_	4	mod	_	Gloss=because_of
 8	ràːzanàr̃	ràːzanàː	NOUN	_	Gender=Fem	7	comp:obj	_	Gloss=XX
 9	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
 10	sukèː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	9	comp:obj	_	Gloss=XX
@@ -289,7 +289,7 @@
 6	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=XX
 7	mutuwàː	mutuwàː	NOUN	_	Gender=Fem	6	comp:aux	_	Gloss=XX
 8	neː	neː	PART	_	Gender=Masc|Number=Plur	7	discourse@foc	_	Gloss=XX
-9	sabòːdà	sabòːdà	ADP	_	_	7	mod	_	Gloss=XX
+9	sabòːdà	sabòːdà	ADP	_	_	7	mod	_	Gloss=because_of
 10	rashìn	rashìː	NOUN	_	Definite=Cons|Gender=Masc	9	comp:obj	_	Gloss=XX
 11	moːtàr̃	moːtàr̃	NOUN	_	Gender=Fem	10	mod	_	Gloss=XX
 12	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=COMP
@@ -307,7 +307,7 @@
 24	koː	koː	CCONJ	_	_	26	cc	_	Gloss=XX
 25	kuma	kuma	PART	_	_	26	discourse@top	_	Gloss=too
 26	à	à	ADP	_	_	16	conj:coord	_	Gloss=at
-27	loːkàcîn	loːkàciː	NOUN	_	Definite=PrevRef|Gender=Masc	26	comp:obj	_	Gloss=time.Masc.PrevRef|wordform=loːkacin
+27	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	26	comp:obj	_	Gloss=time.Masc.Def|wordform=loːkacin
 28	màigida	màigida	NOUN	_	_	29	subj	_	Gloss=XX
 29	baːyàː	nàːː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	10	conj:coord	_	Gloss=XX
 30	nan	nan	ADV	_	Definite=Def|PronType=Dem	29	comp:pred	_	Gloss=XX|SpaceAfter=No
@@ -385,7 +385,7 @@
 33	dà	dà	ADP	_	_	32	comp:obl	_	Gloss=XX
 34	cikìː	cikìː	NOUN	_	Gender=Masc	33	comp:obj	_	Gloss=XX
 35	à	à	ADP	_	_	30	mod	_	Gloss=at
-36	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	35	comp:obj	_	Gloss=country.Fem.PrevRef|SpaceAfter=No
+36	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	35	comp:obj	_	Gloss=country.Fem.Def|SpaceAfter=No
 37	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 16_Aihuwar_Yara__12
@@ -502,7 +502,7 @@
 10	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 11	ròːƙi	ròː-	VERB	_	_	10	comp:aux	_	Gloss=XX
 12	mazan	namijìː	NOUN	_	Definite=Cons|Number=Plur	11	comp:obj	_	Gloss=XX
-13	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	12	mod	_	Gloss=country.Fem.PrevRef
+13	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	12	mod	_	Gloss=country.Fem.Def
 14	dà	dà	ADP	_	_	12	mod	_	Gloss=XX
 15	kadà	kadà	ADV	_	_	16	mod	_	Gloss=XX
 16	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	14	comp:obj	_	Gloss=XX
