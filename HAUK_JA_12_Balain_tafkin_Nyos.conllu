@@ -148,7 +148,7 @@
 16	sukà	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=XX
 17	mutù	mutù	VERB	_	_	16	comp:aux	_	Gloss=XX|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-19	in	in	SCONJ	_	_	16	dislocated@mod	_	Gloss=XX
+19	in	in	SCONJ	_	_	17	mod	_	Gloss=XX
 20	bandà	bandàː	ADP	_	_	19	comp:obj	_	Gloss=XX
 21	mùtûm	mùtûm	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=XX
 22	bìyar̃	bìyar̃	NUM	_	_	21	mod:num	_	Gloss=five|wordform=biyar
@@ -315,8 +315,8 @@
 29	saːmùn	saːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	28	comp:obj	_	Gloss=XX
 30	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=type.Masc.Cons
 31	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	32	det	_	Gloss=Prox.Sing
-32	aman	amaː	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=XX
-33	gâs	gâs	NOUN	_	Definite=Cons|Gender=Fem	32	mod	_	Gloss=XX
+32	aman	amai	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=explosion.Masc.Cons
+33	gâs	gâs	NOUN	_	Definite=Cons|Gender=Masc	32	mod	_	Gloss=gas.Masc
 34	à	à	ADP	_	_	29	mod	_	Gloss=at
 35	koːwànè	koːwànè	DET	_	_	36	det	_	Gloss=XX
 36	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	34	comp:obj	_	Gloss=time.Masc
@@ -328,7 +328,7 @@
 2	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	1	comp:obj	_	Gloss=XX
 3	iyà	iy-	VERB	_	_	2	comp:aux	_	Gloss=XX
 4	cirèː	cir-	VERB	_	_	3	comp:obj	_	Gloss=XX
-5	gâs	gaː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	Gloss=XX
+5	gâs	gâs	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	Gloss=gas.Masc
 6	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	5	det	_	Gloss=XX
 7	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	mod	_	Gloss=XX
 8	nèː	neː	PART	_	Gender=Masc|Number=Plur	0	root	_	Gloss=XX
@@ -362,7 +362,7 @@
 4	anàː	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=XX|wordform=and
 5	tsòːron	tsòːroː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:aux	_	Gloss=XX
 6	ƙiːlà	ƙiːlà	ADV	_	_	5	mod	_	Gloss=XX
-7	gâs	gaː	NOUN	_	Definite=Cons|Gender=Masc	6	mod	_	Gloss=XX
+7	gâs	gâs	NOUN	_	Definite=Cons|Gender=Masc	6	mod	_	Gloss=gas.Masc
 8	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	7	det	_	Gloss=XX
 9	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	4	parataxis@conj	_	Gloss=XX
 10	ƙaːrà	ƙaːr-	VERB	_	_	9	comp:aux	_	Gloss=increase
@@ -391,7 +391,7 @@
 10	tsai	tsai	VERB	_	_	9	comp:aux	_	Gloss=XX
 11	dà	dà	ADP	_	_	10	comp:obl	_	Gloss=XX
 12	aman	amaː	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	Gloss=XX
-13	gâs	gâ	NOUN	_	Definite=Cons|Gender=Fem	12	mod	_	Gloss=XX
+13	gâs	gâs	NOUN	_	Definite=Cons|Gender=Masc	12	mod	_	Gloss=gas.Masc
 14	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	13	det	_	Gloss=XX|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	mài	mài	PART	_	Gender=Masc|PartType=Der	10	mod	_	Gloss=owner/doer_of.Sing
@@ -462,7 +462,7 @@
 21	kàːfin	kàːfin	SCONJ	_	_	14	mod	_	Gloss=XX
 22	à	yà	AUX	_	Mood=Sub|Person=4	21	comp:obj	_	Gloss=XX
 23	kwaːshè	kwaːshèː	VERB	_	_	22	comp:aux	_	Gloss=XX
-24	gâs	gâ	NOUN	_	Definite=Cons|Gender=Fem	23	comp:obj	_	Gloss=XX
+24	gâs	gâs	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=gas.Masc
 25	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	24	det	_	Gloss=XX|SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 27	àbîn	àbî	NOUN	_	Definite=Def|Gender=Masc	24	conj:appos	_	Gloss=Masc.Def
@@ -554,7 +554,7 @@
 37	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	36	comp:obj	_	Gloss=do
 38	wani	wani	DET	_	Definite=Spec|Gender=Masc	40	det	_	Gloss=some.Masc.Spec
 39	aman	amaː	NOUN	_	Definite=Cons|Gender=Masc	37	comp:pred	_	Gloss=XX
-40	gâs	gaː	VERB	_	Definite=Cons|Gender=Fem	39	mod	_	Gloss=XX
+40	gâs	gâs	NOUN	_	Definite=Cons|Gender=Masc	39	mod	_	Gloss=gas.Masc
 41	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	40	det	_	Gloss=XX|SpaceAfter=No
 42	.	.	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 
