@@ -21,7 +21,7 @@
 7	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	8	det	_	Gloss=some.Plur.Spec
 8	ꞌyan	ɗan	NOUN	_	Definite=Cons|Number=Plur	14	subj	_	Gloss=XX
 9	sàndaː	sàndaː	NOUN	_	Gender=Masc	8	compound	_	Gloss=XX
-10	màːsu	mài	PART	_	Number=Plur	8	mod	_	Gloss=owner/doer_of.Plur
+10	màːsu	mài	PART	_	Number=Plur|PartType=Der	8	mod	_	Gloss=owner/doer_of.Plur
 11	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Stat	10	compound	_	Gloss=take.Stat
 12	dà	dà	SCONJ	_	_	11	comp:obl	_	Gloss=COMP
 13	màkàːmai	makàːiː	NOUN	_	Case=Gen|Gender=Masc|Person=3	12	comp:obj	_	Gloss=XX
@@ -74,7 +74,7 @@
 6	kèː	nàː	PART	_	Aspect=Prog	5	comp:obj	_	Gloss=XX
 7	sintir̃iː	sintir̃iː	NOUN	_	Gender=Masc	6	conj:coord	_	Gloss=XX
 8	à	à	ADP	_	_	7	mod	_	Gloss=at
-9	wurîn	wuriː	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=XX
+9	wurîn	wuriː	NOUN	_	Definite=PrevRef|Gender=Masc	8	comp:obj	_	Gloss=place.Masc.PrevRef
 10	sai	sai	ADV	_	_	11	mod	_	Gloss=XX
 11	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 12	tsayàː	tsay-	VERB	_	_	11	comp:aux	_	Gloss=XX
@@ -91,7 +91,7 @@
 1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	16	mod	_	Gloss=Masc.Def
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 3	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	2	comp:obj	_	Gloss=XX
-4	fitoː	fitoː	VERB	_	_	3	comp:aux	_	Gloss=XX
+4	fitoː	fit-	VERB	_	_	3	comp:aux	_	Gloss=come_out
 5	dàgà	dàgà	ADP	_	_	4	comp:obl	_	Gloss=from
 6	cikin	cikin	ADP	_	_	5	mod	_	Gloss=inside
 7	moːtàr̃	moːtàː	NOUN	_	Definite=Cons|Gender=Fem	6	comp:obj	_	Gloss=car.Fem.Cons|SpaceAfter=No|wordform=moːtàr̃sù
@@ -270,7 +270,7 @@
 5	dubuː	dubuː	NUM	_	_	4	mod:num	_	Gloss=thousand
 6	ɗaya	ɗaya	NUM	_	_	5	mod:num	_	Gloss=one
 7	dà	dà	CCONJ	_	_	8	cc	_	Gloss=XX
-8	ɗàriː	ɗàriː	NUM	_	_	5	conj:coord	_	Gloss=hundred
+8	ɗàriː	ɗàriː	NOUN	_	Gender=Fem	5	conj:coord	_	Gloss=hundred.Fem
 9	ukù	ukù	NUM	_	_	8	mod:num	_	Gloss=three
 10	dà	dà	CCONJ	_	_	11	cc	_	Gloss=XX
 11	tàlàːtin	tàlàːtin	NUM	_	_	8	conj:coord	_	Gloss=thirty
@@ -302,7 +302,7 @@
 37	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	38	mod@desc	_	Gloss=year.Fem.Cons
 38	alìf	alìf	NUM	_	_	36	comp:obj	_	Gloss=one_thousand
 39	dà	dà	CCONJ	_	_	40	cc	_	Gloss=XX
-40	ɗàriː	ɗàriː	NUM	_	_	38	conj:coord	_	Gloss=hundred
+40	ɗàriː	ɗàriː	NOUN	_	Gender=Fem	38	conj:coord	_	Gloss=hundred.Fem
 41	tar̃à	tar̃à	NUM	_	_	40	mod:num	_	Gloss=nine
 42	dà	dà	CCONJ	_	_	43	cc	_	Gloss=XX
 43	tàmàːnin	tàmàːnin	NUM	_	_	40	conj:coord	_	Gloss=eighty
@@ -383,7 +383,7 @@
 16	iːkòː	iːkòː	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=XX
 17	à	yà	AUX	_	Mood=Sub|Person=4	16	mod	_	Gloss=XX
 18	kaːmà	kaːm-	VERB	_	_	17	comp:aux	_	Gloss=catch
-19	màːsu	mài	PART	_	Number=Plur	18	comp:obj	_	Gloss=owner/doer_of.Plur
+19	màːsu	mài	PART	_	Number=Plur|PartType=Der	18	comp:obj	_	Gloss=owner/doer_of.Plur
 20	aikàtà	aikat-	VERB	_	_	19	compound	_	Gloss=perform
 21	lâifi	lâifi	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=XX
 22	à	yà	AUX	_	Mood=Sub|Person=4	17	parataxis@conj	_	Gloss=XX
