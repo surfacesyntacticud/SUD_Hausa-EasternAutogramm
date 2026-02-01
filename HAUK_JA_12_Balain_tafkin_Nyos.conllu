@@ -67,7 +67,7 @@
 4	fàːru	faːr-	VERB	_	_	3	comp:aux	_	Gloss=begin
 5	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	comp:pred	_	Gloss=XX
 6	nèː	neː	PART	_	_	0	root	_	Gloss=XX
-7	hakà	hakà	ADV	_	_	10	mod	_	Gloss=XX
+7	hakà	hakà	ADV	_	_	10	mod	_	Gloss=thus
 8	kawài	kawài	ADV	_	_	10	mod	_	Gloss=merely
 9	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	10	subj	_	Gloss=XX|wordform=tar̃kin
 10	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	6	dislocated@comp	_	Gloss=XX
@@ -218,7 +218,7 @@
 15	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	12	comp:obj	_	Gloss=XX
 16	gaːnoː	gaːn-	VERB	_	_	15	comp:aux	_	Gloss=discover|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-18	cêːwar̃	cêːwaː	NOUN	_	_	16	comp:obj	_	Gloss=that.Fem.Cons
+18	cêːwar̃	cêːwaː	SCONJ	_	_	16	comp:obj	_	Gloss=COMP
 19	iskàr̃	iskàː	NOUN	_	Definite=Def|Gender=Fem	27	subj	_	Gloss=gas.Fem.Def
 20	dà	dà	SCONJ	_	_	19	mod@relcl	_	Gloss=XX
 21	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	20	comp:obj	_	Gloss=XX
@@ -289,7 +289,7 @@
 3	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=too
 4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 5	gaːnoː	gaːn-	VERB	_	_	4	comp:aux	_	Gloss=XX
-6	cêːwaː	cêː	SCONJ	_	Gender=Fem	5	comp:obj	_	Gloss=XX
+6	cêːwaː	cêːwaː	SCONJ	_	_	5	comp:obj	_	Gloss=COMP
 7	àkwai	àkwai	PART	_	_	6	comp:obj	_	Gloss=XX
 8	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	7	subj	_	Gloss=type.Masc.Cons
 9	waɗànnân	wannàn	DET	_	Definite=Def|Deixis=Prox|Number=Plur|PronType=Dem	10	det	_	Gloss=Prox.Plur
@@ -408,7 +408,7 @@
 # sent_id = 12_Bala'in_tafkin_Nyos__13b
 # text = Don hakà masànaː kìːmiyyàː sukà kaːwoː shaːwar̃àr̃ cêːwaː bài kàmaːtà yawàn ruwân dà zaː'à kwaːshèː dàgà tafkìn yà wucè yawàn ruwan samàn dà kèː shìgaː cikinsà ba.
 1	Don	don	SCONJ	_	_	5	discourse	_	Gloss=XX
-2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=XX
+2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=thus
 3	masànaː	masàniː	VERB	_	ExtPos=NOUN|Gender=Masc	5	subj	_	Gloss=expert.Plur
 4	kìːmiyyàː	kìːmiyyàː	NOUN	_	Gender=Fem	3	comp:obj	_	Gloss=science.Fem
 5	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
@@ -478,7 +478,7 @@
 # sent_id = 12_Bala'in_tafkin_Nyos__15
 # text = Bandà hakà maː zâi kasànceː àbù mài tsàːdar̃ gàske.
 1	Bandà	bandà	ADP	_	_	4	mod	_	Gloss=XX
-2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=XX
+2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=thus
 3	maː	maː	PART	_	_	1	discourse@top	_	Gloss=XX
 4	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	0	root	_	Gloss=XX
 5	kasànceː	kasant-	VERB	_	_	4	comp:aux	_	Gloss=XX

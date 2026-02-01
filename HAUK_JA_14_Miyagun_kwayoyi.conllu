@@ -140,7 +140,7 @@
 14	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 15	anàː	nàː	AUX	_	Aspect=Prog|Person=4	5	comp:obj	_	Gloss=XX
 16	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:aux	_	Gloss=XX
-17	cêːwaː	cêːwaː	SCONJ	_	_	16	comp:obj	_	Gloss=XX
+17	cêːwaː	cêːwaː	SCONJ	_	_	16	comp:obj	_	Gloss=COMP
 18	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	17	comp:obj	_	Gloss=XX
 19	dà	dà	ADP	_	_	18	comp:pred	_	Gloss=XX|wordform=da
 20	ƙwàƙƙwaːran	ƙwàƙƙwaːrai	NOUN	_	Definite=Cons|Number=Plur	19	comp:obj	_	Gloss=XX
@@ -210,7 +210,7 @@
 14	kuma	kuma	PART	_	_	13	discourse@top	_	Gloss=too
 15	akèː	nàː	AUX	_	Aspect=Prog|Person=4	8	mod@relcl	_	Gloss=XX
 16	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:aux	_	Gloss=XX
-17	cêːwaː	cêwaː	SCONJ	_	ExtPos=NOUN|Gender=Fem	16	comp:obj	_	Gloss=XX
+17	cêːwaː	cêːwaː	SCONJ	_	_	16	comp:obj	_	Gloss=COMP
 18	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	17	comp:obj	_	Gloss=XX|wordform=yanaː
 19	Amìr̃kà	Amìr̃kà	PROPN	_	_	18	subj	_	Gloss=Amìr̃kà
 20	yànzu	yànzu	ADV	_	_	18	mod	_	Gloss=XX|SpaceAfter=No|wordform=yanzu
@@ -678,7 +678,7 @@
 41	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	39	subj	_	Gloss=XX
 42	tabbatar̃	tabbatar̃	VERB	_	Definite=Cons|Gender=Fem	41	comp:aux	_	Gloss=XX
 43	dà	dà	ADP	_	_	42	comp:obl	_	Gloss=XX
-44	hakà	hakà	ADV	_	_	43	comp:obj	_	Gloss=XX|SpaceAfter=No
+44	hakà	hakà	ADV	_	_	43	comp:obj	_	Gloss=thus|SpaceAfter=No
 45	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 14_Miyagun_kwayoyi__21
@@ -714,9 +714,9 @@
 7	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	6	comp:obj	_	Gloss=XX
 8	faːràː	faːràː	VERB	_	_	7	comp:aux	_	Gloss=XX
 9	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=XX
-10	cêːwar̃	cêːwaː	VERB	_	Definite=Cons|Gender=Fem	9	comp:obj	_	Gloss=XX
+10	cêːwar̃	cêː	VERB	_	Definite=Cons|Gender=Fem	9	comp:obj	_	Gloss=say.Vnoun.Fem.Cons
 11	kàmar̃	kàmar̃	ADP	_	_	10	mod	_	Gloss=like|wordform=kàmar
-12	hakà	hakà	ADV	_	_	11	mod	_	Gloss=XX|SpaceAfter=No
+12	hakà	hakà	ADV	_	_	11	mod	_	Gloss=thus|SpaceAfter=No
 13	:	:	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 14	"	"	PUNCT	_	_	17	punct	_	Gloss=PUNCT|SpaceAfter=No
 15	Jenny	Jenny	PROPN	_	_	17	dislocated@subj	_	Gloss=Jenny|SpaceAfter=No
