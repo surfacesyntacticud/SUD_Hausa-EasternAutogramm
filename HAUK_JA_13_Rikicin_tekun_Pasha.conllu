@@ -83,7 +83,7 @@
 18	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 19	indà	indà	ADV	_	PronType=Rel	26	mod	_	Gloss=where
 20	akà	nàː	AUX	_	Aspect=Prog|Person=4	9	mod@relcl	_	Gloss=XX
-21	cêː	cêː	VERB	_	_	20	comp:aux	_	Gloss=XX
+21	cêː	cêː	VERB	_	_	20	comp:aux	_	Gloss=say
 22	mutàːneː	mùtûm	NOUN	_	Number=Plur	25	subj	_	Gloss=people.Plur
 23	dà	dà	ADP	_	ExtPos=ADJ	22	mod	_	Gloss=with|Idiom=Yes
 24	daːmaː	daːmaː	NOUN	_	Gender=Fem	23	comp:obj	_	Gloss=chance.Fem|InIdiom=Yes
@@ -185,7 +185,7 @@
 9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 10	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	13	subj	_	Gloss=XX
 11	akà	nàː	AUX	_	Aspect=Prog|Person=4	2	mod@relcl	_	Gloss=XX
-12	cêː	cêː	VERB	_	_	11	comp:aux	_	Gloss=XX
+12	cêː	cêː	VERB	_	_	11	comp:aux	_	Gloss=say
 13	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	12	comp:obj	_	Gloss=XX|wordform=yanaː
 14	bayyànà	bayyan-	VERB	_	_	13	comp:aux	_	Gloss=explain
 15	r̃a'àyin	r̃a'àyiː	NOUN	_	Definite=Cons	14	comp:obj	_	Gloss=viewpoint.Masc.Cons
@@ -272,13 +272,13 @@
 1	Kàːkàːkîn	kàːkàːkiː	NOUN	_	_	2	subj	_	Gloss=spokesman.Masc.Def
 2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 3	kuma	kuma	PART	_	_	4	mod	_	Gloss=also
-4	cêː	cêː	VERB	_	_	2	comp:aux	_	Gloss=XX
-5	shùːgàbànnin	shùːgàbànniː	NOUN	_	Definite=Cons|Number=Plur	9	subj	_	Gloss=XX
-6	mùsùlmiː	mùsùlmiː	NOUN	_	Gender=Masc	5	mod	_	Gloss=XX
+4	cêː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
+5	shùːgàbànnin	shùːgàbànniː	NOUN	_	Definite=Cons|Number=Plur	9	subj	_	Gloss=leader.Plur.Cons
+6	mùsùlmiː	mùsùlmiː	NOUN	_	Gender=Masc	5	mod	_	Gloss=muslim.Plur
 7	à	à	ADP	_	_	5	mod	_	Gloss=at
 8	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	7	comp:obj	_	Gloss=Nigeria
 9	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	4	comp:obj	_	Gloss=XX
-10	sôː	soː	VERB	_	ExtPos=NOUN|Gender=Masc	9	comp:aux	_	Gloss=XX
+10	sôː	soː	VERB	_	ExtPos=NOUN|Gender=Masc	9	comp:aux	_	Gloss=want.Vnoun.Masc
 11	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3|PronType=Prs	10	comp:obj	_	Gloss=XX
 12	nuːnà	nuːn-	VERB	_	_	11	comp:aux	_	Gloss=show
 13	rashìn	rashìː	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	Gloss=XX
