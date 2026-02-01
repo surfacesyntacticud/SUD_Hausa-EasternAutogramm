@@ -125,7 +125,7 @@
 20	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
 21	tòː	tòː	INTJ	_	_	29	discourse	_	Gloss=XX
 22	àmmaː	àmmaː	CCONJ	_	_	29	cc	_	Gloss=but
-23	à	à	ADP	_	ExtPos=ADP	29	mod	_	Gloss=XX
+23	à	à	ADP	_	ExtPos=ADP	29	mod	_	Gloss=at
 24	'yan	ɗan	ADJ	_	Definite=Cons|Number=Plur	25	mod	_	Gloss=XX
 25	kwàːnàkin	kwaːnaː	NOUN	_	Definite=Def|Gender=Masc	23	comp:obj	_	Gloss=day.Plur.Def
 26	nàn	nàn	DET	_	PronType=Dem	25	det	_	Gloss=XX
@@ -150,21 +150,21 @@
 3	anàː	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=XX|wordform=and
 4	zàton	zat-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	3	comp:aux	_	Gloss=think.Vnoun.Masc.Cons
 5	cêːwaː	cêːwaː	SCONJ	_	_	4	comp:aux	_	Gloss=COMP
-6	à	à	ADP	_	_	9	mod	_	Gloss=XX
+6	à	à	ADP	_	_	9	mod	_	Gloss=at
 7	haːlin	haːliː	NOUN	_	_	6	comp:obj	_	Gloss=situation.Masc.Cons
 8	yànzu	yànzu	ADV	_	_	7	mod	_	Gloss=now
 9	anàː	nàː	AUX	_	Aspect=Prog|Person=4	5	comp:obj	_	Gloss=XX|wordform=and
-10	rarràbà	rarrab-	VERB	_	_	9	comp:aux	_	Gloss=XX
+10	rarràbà	rarrab-	VERB	_	_	9	comp:aux	_	Gloss=distribute
 11	wasu	wasu	DET	_	Definite=Spec|Number=Plur	12	det	_	Gloss=some.Plur
 12	tàkàr̃duː	takàr̃daː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=paper.Plur
-13	à	à	ADP	_	_	10	mod	_	Gloss=XX
+13	à	à	ADP	_	_	10	mod	_	Gloss=at
 14	areːwacin	areːwacin	ADP	_	_	13	comp:obj	_	Gloss=north_of
 15	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	14	mod	_	Gloss=Nigeria
 16	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	17	subj	_	Gloss=that.Plur
 17	sukà	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	12	mod@relcl	_	Gloss=XX
 18	sòːki	soːk-	VERB	_	_	17	comp:aux	_	Gloss=concern
 19	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	18	comp:obj	_	Gloss=thing.Masc.Def
-20	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=XX
+20	dà	dà	SCONJ	_	_	19	comp:obl	_	Gloss=COMP
 21	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	23	subj	_	Gloss=country.Plur
 22	ƙàwànceː	ƙàwànceː	NOUN	_	_	21	mod	_	Gloss=coalition.Masc
 23	sukèː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	20	mod@relcl	_	Gloss=XX
@@ -179,7 +179,7 @@
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=XX|wordform=da
 4	akà	nàː	AUX	_	Aspect=Prog|Person=4	3	comp:obj	_	Gloss=XX|wordform=aka
 5	bugàː	bugàː	VERB	_	_	4	comp:aux	_	Gloss=XX
-6	à	à	ADP	_	_	5	comp:obl	_	Gloss=XX
+6	à	à	ADP	_	_	5	comp:obl	_	Gloss=at
 7	wata	wata	DET	_	Definite=Spec|Gender=Fem	8	det	_	Gloss=some.Fem
 8	jàr̃iːdàː	jàr̃iːdàː	NOUN	_	Definite=Ind|Gender=Fem	6	comp:obj	_	Gloss=XX|SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
@@ -235,7 +235,7 @@
 12	ƙîn	ƙi	VERB	_	Definite=Cons|Gender=Masc	11	comp:obj	_	Gloss=hate.Vnoun.Masc.Cons|wordform=kin
 13	jinin	jiniː	NOUN	_	Definite=Cons|Gender=Masc	12	mod	_	Gloss=blood.Masc.Cons
 14	Amìr̃kà	Amìr̃kà	PROPN	_	_	13	mod	_	Gloss=America
-15	à	à	ADP	_	_	12	mod	_	Gloss=XX
+15	à	à	ADP	_	_	12	mod	_	Gloss=at
 16	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	15	comp:obj	_	Gloss=Nigeria
 17	r̃a'àyin	r̃a'àyin	ADP	_	Definite=Cons	11	mod	_	Gloss=XX
 18	wasu	wasu	DET	_	Definite=Spec|Number=Plur	20	det	_	Gloss=some.Plur
@@ -258,7 +258,7 @@
 35	akèː	nàː	AUX	_	Aspect=Prog|Person=4	34	comp:obj	_	Gloss=XX
 36	dà	dà	ADP	_	_	35	comp:pred	_	Gloss=XX
 37	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	36	comp:obj	_	Gloss=XX
-38	à	à	ADP	_	_	27	mod	_	Gloss=XX
+38	à	à	ADP	_	_	27	mod	_	Gloss=at
 39	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	38	comp:obj	_	Gloss=country.Fem.PrevRef
 40	na	na	ADP	_	Case=Gen	39	mod	_	Gloss=XX
 41	fàɗar̃	fàɗaː	NOUN	_	_	40	comp:obj	_	Gloss=XX|wordform=foːdar
@@ -273,7 +273,7 @@
 4	cêː	cêː	VERB	_	_	2	comp:aux	_	Gloss=XX
 5	shùːgàbànnin	shùːgàbànniː	NOUN	_	Definite=Cons|Number=Plur	9	subj	_	Gloss=XX
 6	mùsùlmiː	mùsùlmiː	NOUN	_	Gender=Masc	5	mod	_	Gloss=XX
-7	à	à	ADP	_	_	5	mod	_	Gloss=XX
+7	à	à	ADP	_	_	5	mod	_	Gloss=at
 8	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	7	comp:obj	_	Gloss=Nigeria
 9	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	4	comp:obj	_	Gloss=XX
 10	sôː	soː	VERB	_	ExtPos=NOUN|Gender=Masc	9	comp:aux	_	Gloss=XX
@@ -349,7 +349,7 @@
 15	har̃	har̃	ADP	_	_	13	mod	_	Gloss=XX
 16	sàu	sàu	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=XX
 17	biyu	biyu	NUM	_	_	16	det	_	_
-18	à	à	ADP	_	_	13	mod	_	Gloss=XX
+18	à	à	ADP	_	_	13	mod	_	Gloss=at
 19	areːwacin	areːwacin	ADP	_	_	18	comp:obj	_	Gloss=XX
 20	Nàːjeːr̃iyàr̃	Nàːjeːr̃iyàr̃	PROPN	_	_	19	mod	_	Gloss=Nàːjeːr̃iyàr̃|SpaceAfter=No
 21	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -361,7 +361,7 @@
 3	zàngà-zangàr̃	zàngà-zangàː	NOUN	_	Definite=Cons|Gender=Fem	2	comp:pred	_	Gloss=XX
 4	farkoː	farkoː	NOUN	_	Gender=Masc	3	mod	_	Gloss=XX
 5	nè	eː	PART	_	_	7	discourse@foc	_	Gloss=XX
-6	à	à	ADP	_	_	2	mod	_	Gloss=XX
+6	à	à	ADP	_	_	2	mod	_	Gloss=at
 7	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	Gloss=XX
 8	Kàtsinà	Kàtsinà	PROPN	_	_	7	mod	_	Gloss=Kàtsinà
 9	indà	indà	ADV	_	PronType=Rel	3	mod	_	Gloss=XX
@@ -393,7 +393,7 @@
 3	zàngà-zangà	zàngà-zangà	NOUN	_	Number=Plur	2	comp:pred	_	Gloss=XX
 4	ta	ta	ADP	_	Aspect=Iter	3	mod	_	Gloss=XX
 5	biyûn	biyû	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:obj	_	Gloss=XX
-6	à	à	ADP	_	_	3	mod	_	Gloss=XX
+6	à	à	ADP	_	_	3	mod	_	Gloss=at
 7	Kanòː	Kanòː	PROPN	_	_	6	comp:obj	_	Gloss=Kanòː
 8	indà	indà	ADV	_	PronType=Rel	3	mod	_	Gloss=XX
 9	'yan	ɗan	NOUN	_	Definite=Cons|Number=Plur	1	subj	_	Gloss=XX
@@ -553,7 +553,7 @@
 11	akà	nàː	AUX	_	Aspect=Prog|Person=4	10	comp:obj	_	Gloss=XX|wordform=aka
 12	yi	yi	VERB	_	_	11	comp:aux	_	Gloss=XX
 13	duk	duk	DET	_	_	8	mod	_	Gloss=XX
-14	à	à	ADP	_	_	8	mod	_	Gloss=XX
+14	à	à	ADP	_	_	8	mod	_	Gloss=at
 15	Kàtsinà	Kàtsinà	PROPN	_	_	14	comp:obj	_	Gloss=Kàtsinà
 16	dà	dà	CCONJ	_	_	18	cc	_	Gloss=XX
 17	kuma	kuma	ADV	_	_	16	discourse@top	_	Gloss=thus
