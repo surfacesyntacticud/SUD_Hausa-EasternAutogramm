@@ -305,8 +305,8 @@
 3	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	4	subj	_	Gloss=thing.Masc.Def
 4	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	2	comp:cleft	_	Gloss=XX
 5	à	à	ADP	_	_	4	comp:pred	_	Gloss=at
-6	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	5	comp:obj	_	Gloss=country.Fem.Cons
-7	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	6	mod	_	Gloss=XX
+6	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	7	mod@desc	_	Gloss=country.Fem.Cons
+7	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	5	comp:obj	_	Gloss=XX
 8	?	?	PUNCT	_	_	2	punct	_	Gloss=XX
 
 # sent_id = 04_AIDS__10
@@ -419,7 +419,7 @@
 3	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	5	subj	_	Gloss=XX
 4	shiː	shiː	PRON	_	Gender=Masc|Person=3	5	comp:pred	_	Gloss=XX
 5	nèː	neː	AUX	_	Gender=Masc|Number=Plur	1	mod@relcl	_	Gloss=XX
-6	shùːgàban	shùːgàban	NUM	_	_	5	dislocated@comp	_	Gloss=XX
+6	shùːgàban	shùːgàbaː	NOUN	_	_	5	dislocated@comp	_	Gloss=leader.Masc.Cons
 7	kwàmìtî	kwàmìtî	NOUN	_	_	6	mod	_	Gloss=XX
 8	kân	kân	ADP	_	_	7	mod	_	Gloss=on
 9	cùːtar̃	cùːtaː	NOUN	_	Gender=Fem	8	comp:obj	_	Gloss=XX
@@ -545,8 +545,8 @@
 30	à	yà	AUX	_	Mood=Sub|Person=4	28	subj	_	Gloss=XX
 31	sàːmi	saːm-	VERB	_	_	30	comp:aux	_	Gloss=XX
 32	mutàːneː	mùtûm	NOUN	_	Number=Plur	31	comp:obj	_	Gloss=people.Plur
-33	dà	dà	ADP	_	_	32	mod	_	Gloss=XX
-34	daːmaː	daːmaː	NOUN	_	_	33	comp:obj	_	Gloss=XX
+33	dà	dà	ADP	_	ExtPos=ADJ	32	mod	_	Gloss=with|Idiom=Yes
+34	daːmaː	daːmaː	NOUN	_	_	33	comp:obj	_	Gloss=opportunity.Fem|InIdiom=Yes
 35	màːsu	mài	PART	_	Number=Plur|PartType=Der	32	mod	_	Gloss=owner/doer_of.Plur
 36	cùːtâr̃	cùːtâː	NOUN	_	Gender=Fem	35	compound	_	Gloss=XX
 37	koː	koː	CCONJ	_	_	41	cc	_	Gloss=XX

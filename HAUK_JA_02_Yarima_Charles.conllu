@@ -31,7 +31,7 @@
 15	»	»	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 16	à	à	ADP	_	_	7	mod	_	Gloss=at
 17	gaːɓàr̃	gaːɓàː	NOUN	_	Definite=Cons|Gender=Fem	16	comp:obj	_	Gloss=XX
-18	Tèːkun	tèːkun	ADP	_	Definite=Cons|Gender=Masc	17	mod	_	Gloss=XX|wordform=tèːkun
+18	Tèːkun	tèːku	ADP	_	Definite=Cons|Gender=Fem	17	mod	_	Gloss=sea.Fem.Cons|wordform=tèːkun
 19	Ìkko	Ìkko	PROPN	_	_	18	mod	_	Gloss=Lagos
 20	kwaːnan	kwaːnaː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	7	mod	_	Gloss=XX
 21	baːya	baːya	ADV	_	_	20	mod	_	Gloss=back|SpaceAfter=No
@@ -44,7 +44,7 @@
 28	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=COMP
 29	ta	ta	AUX	_	Case=Gen|Gender=Fem	28	comp:obj	_	Gloss=XX
 30	nuːnà	nuːn-	VERB	_	_	29	comp:obj	_	Gloss=XX
-31	cêːwaː	cêːwaː	SCONJ	_	ExtPos=NOUN|Gender=Fem	30	comp:obj	_	Gloss=XX
+31	cêːwaː	cêːwaː	SCONJ	_	_	30	comp:obj	_	Gloss=COMP
 32	'yan	ɗan	NOUN	_	Definite=Cons|Number=Plur	36	subj	_	Gloss=XX
 33	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	32	mod	_	Gloss=house.Masc.Cons
 34	sàrautàr̃	sàrautàː	NOUN	_	Definite=Cons|Gender=Fem	32	mod	_	Gloss=XX
@@ -146,7 +146,7 @@
 3	gab	gab	ADP	_	ExtPos=ADP	2	comp:pred	_	Gloss=XX|Idiom=Yes
 4	dà	dà	ADP	_	_	3	comp:obj	_	Gloss=XX|InIdiom=Yes
 5	bàːkin	bàːkin	ADP	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=XX
-6	tèːku	tèːku	PRON	_	Gender=Masc|Number=Plur	5	mod	_	Gloss=XX
+6	tèːku	tèːku	NOUN	_	Gender=Masc|Number=Plur	5	mod	_	Gloss=XX
 7	kuma	kuma	PART	_	_	10	cc	_	Gloss=too
 8	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	10	mod	_	Gloss=XX
 9	yànzu	yànzu	ADV	_	_	8	comp:obj	_	Gloss=XX
@@ -219,7 +219,7 @@
 15	biyu	biyu	NUM	_	_	14	mod:num	_	Gloss=XX
 16	dà	da	SCONJ	_	_	14	mod@relcl	_	Gloss=COMP|wordform=da
 17	sukà	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	16	comp:obj	_	Gloss=XX
-18	wucèː	wucèː	VERB	_	_	17	comp:aux	_	Gloss=XX|SpaceAfter=No
+18	wucèː	wut-	VERB	_	_	17	comp:aux	_	Gloss=pass|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 20	à	à	ADP	_	_	0	root	_	Gloss=at
 21	boːkitì	boːkitì	NOUN	_	_	20	comp:obj	_	Gloss=XX
@@ -392,8 +392,8 @@
 9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 10	taːshì	taːs-	VERB	_	_	9	comp:aux	_	Gloss=XX
 11	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:obl	_	Gloss=towards
-12	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	11	comp:obj	_	Gloss=country.Fem.Cons
-13	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	12	mod	_	Gloss=Kàmàr̃u|SpaceAfter=No
+12	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	13	mod@desc	_	Gloss=country.Fem.Cons
+13	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	11	comp:obj	_	Gloss=Cameroon|SpaceAfter=No
 14	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__14
@@ -428,7 +428,7 @@
 27	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	20	conj:coord	_	Gloss=XX
 28	fi	fi	VERB	_	_	27	comp:aux	_	Gloss=XX
 29	koːwànneː	koːwànneː	VERB	_	PronType=Ind	28	comp:obj	_	Gloss=XX
-30	yawàn	yawàn	ADJ	_	Definite=Cons|Gender=Masc	28	mod	_	Gloss=XX
+30	yawàn	yawàn	ADJ	_	Definite=Cons|Gender=Masc	28	mod	_	Gloss=quantity.Masc.Cons
 31	itaːtuwàː	itaː-	NOUN	_	Number=Plur	30	mod	_	Gloss=XX
 32	irìː-irìː	irìː-irìː	ADJ	_	Gender=Masc	31	mod	_	Gloss=various
 33	à	à	ADP	_	_	28	mod	_	Gloss=at
@@ -466,7 +466,7 @@
 6	ɗàriː	ɗàriː	NOUN	_	Gender=Fem|Number=Plur	5	comp:obj	_	Gloss=hundred.Fem
 7	na	na	ADP	_	Definite=Cons	1	mod	_	Gloss=XX
 8	duk	duk	DET	_	_	9	det	_	Gloss=XX
-9	yawàn	yawàn	ADJ	_	_	7	mod	_	Gloss=XX
+9	yawàn	yawàn	ADJ	_	_	7	mod	_	Gloss=quantity.Masc.Cons
 10	jinsunàn	jinsìː	NOUN	_	Definite=Def|Number=Plur	9	mod	_	Gloss=species.Plur.Def
 11	birân	birìː	NOUN	_	Definite=Def|Number=Plur	10	mod	_	Gloss=monkey.Plur.Def
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
@@ -483,7 +483,7 @@
 23	daːjìn	daːjìː	NOUN	_	Definite=Cons	22	comp:obj	_	Gloss=XX
 24	Korup	Korup	PROPN	_	_	22	mod	_	Gloss=Korup|SpaceAfter=No
 25	;	;	PUNCT	_	_	28	punct	_	Gloss=PUNCT
-26	hakà	hakà	ADV	_	_	28	mod	_	Gloss=XX
+26	hakà	hakà	ADV	_	_	28	mod	_	Gloss=thus
 27	maː	maː	PART	_	_	26	discourse@top	_	Gloss=XX
 28	màcìːzai	màcìːzai	NOUN	_	Gender=Masc	19	dislocated@comp	_	Gloss=XX|SpaceAfter=No
 29	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT

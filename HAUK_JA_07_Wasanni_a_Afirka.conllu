@@ -23,8 +23,8 @@
 12	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:aux	_	Gloss=do
 13	can	can	ADV	_	PronType=Dem	12	mod	_	Gloss=XX
 14	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	13	mod	_	Gloss=Nigeria
-15	gàme	gam-	VERB	_	ExtPos=ADP|VerbForm=Stat	12	mod	_	Gloss=join.Stat|Idiom=Yes
-16	dà	dà	ADP	_	_	15	comp:obl	_	Gloss=XX|InIdiom=Yes
+15	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	12	mod	_	Gloss=join.Stat
+16	dà	dà	ADP	_	_	15	comp:obl	_	Gloss=XX
 17	gudàːnar̃	gudàːnaː	VERB	_	Definite=Cons|Gender=Fem	16	comp:obj	_	Gloss=XX|wordform=gudàːnar
 18	dà	dà	ADP	_	_	17	comp:obl	_	Gloss=XX
 19	wàːsan	wàːsan	DET	_	Gender=Masc|PronType=Dem	18	comp:obj	_	Gloss=XX
@@ -34,12 +34,12 @@
 # sent_id = 07_Wasanni_a_Afirka__3
 # text = rìkicîn yaː taːsoː nèː gàme dà koː ɗan dambên nan mài suːnaː " Joe Lasisi ", wandà kuma shiː nèː zàkaràn ajìn maràsaː nauyiː na Nàːjeːr̃iyàː dà kuma Afir̃kà bàːkiː ɗaya, zâi shìga gàːsâr̃ nan waddà ƙungìyar̃ dambe ta duːniyàː ta shiryàː don neːmoː wani wandà zâi ɗàuki kambin duːniyàː na ajìn maràsaː nauyiː.
 # text_ortho = Rìkicîn yaː taːsoː nèː gàme dà koː ɗan dambên nan mài suːnaː 'Joe Lasisi', wandà kuma shiː nèː zàkaràn ajìn maràsaː nauyiː na Nàːjeːr̃iyàː dà kuma Afir̃kà bàːkiː ɗaya, zâi shìga gàːsâr̃ nan waddà Ƙungìyar̃ Dambe ta Duːniyàː ta shiryàː don neːmoː wani wandà zâi ɗàuki kambin duːniyàː na ajìn maràsaː nauyiː.
-1	rìkicîn	rìkiciː	NOUN	_	Definite=Def|Gender=Masc	2	subj	_	Gloss=XX
+1	rìkicîn	rìkiciː	NOUN	_	Definite=Def|Gender=Masc	2	subj	_	Gloss=crisis.Masc.Def
 2	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 3	taːsoː	taːsoː	VERB	_	_	2	comp:aux	_	Gloss=XX
 4	nèː	neː	PART	_	_	3	discourse@foc	_	Gloss=XX
-5	gàme	gam-	VERB	_	ExtPos=ADP|VerbForm=Stat	3	mod	_	Gloss=join.Stat|Idiom=Yes
-6	dà	dà	CCONJ	_	_	5	comp:obl	_	Gloss=XX|InIdiom=Yes
+5	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	3	mod	_	Gloss=join.Stat
+6	dà	dà	CCONJ	_	_	5	comp:obl	_	Gloss=XX
 7	koː	koː	SCONJ	_	_	6	comp:obj	_	Gloss=XX
 8	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	34	subj	_	Gloss=XX
 9	dambên	dambêː	NOUN	_	Definite=Cons|Gender=Masc	8	compound	_	Gloss=XX
@@ -100,7 +100,7 @@
 3	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyhow|SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	wàːtòː	wàːtòː	PART	_	_	12	discourse	_	Gloss=that_is
-6	kàːfin	kàːfin	SCONJ	_	_	12	mod	_	Gloss=XX
+6	kàːfin	kàːfin	SCONJ	_	_	12	mod	_	Gloss=before
 7	à	yà	AUX	_	Mood=Sub|Person=4	6	comp:obj	_	Gloss=XX
 8	soːmà	soːmà	VERB	_	_	7	comp:aux	_	Gloss=XX
 9	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	10	det	_	Gloss=Prox.Sing
@@ -130,7 +130,7 @@
 33	àshìr̃in	àshìr̃in	NUM	_	_	32	mod:num	_	Gloss=XX
 34	dà	dà	CCONJ	_	_	35	cc	_	Gloss=XX
 35	bakwài	bakwài	NUM	_	_	33	conj:coord	_	Gloss=seven
-36	gà	gà	ADP	_	_	33	mod	_	Gloss=XX
+36	gà	gà	ADP	_	_	33	mod	_	Gloss=to
 37	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	38	det	_	Gloss=Prox.Sing
 38	watàn	watàː	NOUN	_	Definite=Def|Gender=Masc	36	comp:obj	_	Gloss=month.Masc.Def|SpaceAfter=No
 39	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
@@ -159,15 +159,15 @@
 19	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	13	comp:obj	_	Gloss=XX
 20	amìnceː	amìnceː	VERB	_	_	19	comp:aux	_	Gloss=XX
 21	dà	dà	ADP	_	_	20	comp:obl	_	Gloss=XX
-22	ƙasar̃	ƙasaː	ADJ	_	Definite=Cons|Gender=Fem	21	comp:obj	_	Gloss=country.Fem.Cons
-23	Afir̃kà	Afir̃kà	PROPN	_	_	22	conj:appos	_	Gloss=Africa
+22	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	23	mod@desc	_	Gloss=country.Fem.Cons
+23	Afir̃kà	Afir̃kà	PROPN	_	_	21	:obj	_	Gloss=Africa
 24	ta	ta	ADP	_	_	23	mod	_	Gloss=XX
 25	Kudù	Kudù	PROPN	_	_	24	comp:obj	_	Gloss=Kudù|SpaceAfter=No
 26	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 27	wàːtòː	wàːtòː	PART	_	_	30	discourse	_	Gloss=that_is
 28	indà	indà	ADV	_	PronType=Rel	31	mod	_	Gloss=where
 29	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Masc	30	subj	_	Gloss=government.Masc.Cons
-30	kèː	nèːː	AUX	_	Aspect=Prog	22	mod@relcl	_	Gloss=XX
+30	kèː	nèːː	AUX	_	Aspect=Prog	23	mod@relcl	_	Gloss=XX
 31	nũnà	nũnà	ADV	_	PronType=Dem	30	comp:aux	_	Gloss=XX
 32	waːriyar̃	waːriyaː	NOUN	_	Definite=Cons|Gender=Fem	31	comp:obj	_	Gloss=XX
 33	launìn	launìː	NOUN	_	Definite=Cons|Gender=Masc	32	mod	_	Gloss=XX
@@ -222,7 +222,7 @@
 7	rùːɗaːnîn	rùːɗaːniː	NOUN	_	Definite=Def|Number=Plur	6	comp:obj	_	Gloss=XX
 8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	Gloss=XX
 9	nèː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Gloss=XX
-10	shùːgàban	shùːgàban	ADP	_	Definite=Cons	22	dislocated@top	_	Gloss=XX
+10	shùːgàban	shùːgàbaː	NOUN	_	Definite=Cons	22	dislocated@top	_	Gloss=leader.Masc.Cons
 11	hùkuːmàr̃	hùkuːmàː	NOUN	_	Gender=Masc	10	mod	_	Gloss=XX
 12	dambe	dambe	ADP	_	_	11	mod	_	Gloss=XX
 13	ta	ta	ADP	_	_	11	mod	_	Gloss=XX
@@ -237,10 +237,10 @@
 22	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	dislocated@comp	_	Gloss=XX
 23	nèː	neː	PART	_	Gender=Masc|PartType=Foc	22	discourse@foc	_	Gloss=XX
 24	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	22	comp:cleft	_	Gloss=XX
-25	baː	baː	VERB	_	_	24	comp:aux	_	Gloss=XX
+25	baː	baː	VERB	_	_	24	comp:aux	_	Gloss=give
 26	dà	dà	ADP	_	_	25	comp:obl	_	Gloss=XX
 27	sanâr̃waː	sanâr̃ː	VERB	_	Gender=Fem	26	comp:obj	_	Gloss=XX
-28	cêːwaː	cêːwaː	SCONJ	_	Gender=Fem	27	comp:obj	_	Gloss=XX
+28	cêːwaː	cêːwaː	SCONJ	_	_	27	comp:obj	_	Gloss=COMP
 29	Lasisi	Lasisi	PROPN	_	_	31	subj	_	Gloss=Lasisi
 30	bàː	bàː	PART	_	Polarity=Neg	31	mod	_	Gloss=XX
 31	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	28	comp:obj	_	Gloss=XX
@@ -318,7 +318,7 @@
 23	Ìkko	Ìkko	PROPN	_	_	22	mod	_	Gloss=Ìkko
 24	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	17	parataxis@conj	_	Gloss=XX
 25	ƙaryàtà	ƙaryat-	VERB	_	_	24	comp:aux	_	Gloss=contradict
-26	shùːgàban	shùːgàban	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	25	comp:obj	_	Gloss=XX
+26	shùːgàban	shùːgàbaː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	25	comp:obj	_	Gloss=leader.Masc.Cons
 27	hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Cons|Gender=Fem	26	mod	_	Gloss=XX|SpaceAfter=No
 28	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
 29	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	24	parataxis@conj	_	Gloss=XX
@@ -326,11 +326,11 @@
 31	jàma'àː	jàma'àː	NOUN	_	Gender=Fem	30	comp:obj	_	Gloss=people.Fem
 32	dà	dà	SCONJ	_	_	30	comp:obl	_	Gloss=COMP
 33	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	32	comp:obj	_	Gloss=XX
-34	baː	baː	VERB	_	_	33	comp:aux	_	Gloss=XX
+34	baː	baː	VERB	_	_	33	comp:aux	_	Gloss=give
 35	dà	dà	ADP	_	_	34	comp:obl	_	Gloss=XX
 36	goːyon	goːy-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	35	comp:obj	_	Gloss=XX|Idiom=Yes
 37	baːyaː	baːyaː	NOUN	_	Gender=Masc	36	compound	_	Gloss=XX|InIdiom=Yes
-38	gà	gà	ADP	_	_	34	comp:obl	_	Gloss=XX
+38	gà	gà	ADP	_	_	34	comp:obl	_	Gloss=to
 39	Lasisi	Lasisi	PROPN	_	_	38	comp:obj	_	Gloss=Lasisi
 40	ìdan	ìdan	SCONJ	_	_	34	mod	_	Gloss=if
 41	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	40	comp:obj	_	Gloss=XX
@@ -389,14 +389,14 @@
 1	yànzu	yànzu	ADV	_	_	5	mod	_	Gloss=XX
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyhow
 3	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	4	det	_	Gloss=Prox.Sing
-4	rìkiciː	rìkiciː	NOUN	_	Gender=Masc	5	subj	_	Gloss=XX
+4	rìkiciː	rìkiciː	NOUN	_	Gender=Masc	5	subj	_	Gloss=crisis.Masc
 5	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 6	sâː	sâː	VERB	_	_	5	comp:aux	_	Gloss=put
 7	màːsu	mài	PART	_	Number=Plur|PartType=Der	12	subj	_	Gloss=owner/doer_of.Plur
 8	shà'awàr̃	shà'awàr̃	ADP	_	Gender=Fem	7	compound	_	Gloss=XX
 9	wàːsànniː	wàːsaː	NOUN	_	Number=Plur	8	comp:obj	_	Gloss=game.Plur
-10	dà	dà	ADP	_	_	7	mod	_	Gloss=XX
-11	daːmaː	daːmaː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=XX
+10	dà	dà	ADP	_	ExtPos=ADJ	7	mod	_	Gloss=with|Idiom=Yes
+11	daːmaː	daːmaː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=opportunity.Fem|InIdiom=Yes
 12	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	6	comp:obj	_	Gloss=XX
 13	tsoːmà	tsarm-	VERB	_	_	12	comp:aux	_	Gloss=XX
 14	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=mouth.Masc
@@ -426,7 +426,7 @@
 38	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	31	parataxis@conj	_	Gloss=XX
 39	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem	38	comp:aux	_	Gloss=XX
 40	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	39	comp:obj	_	Gloss=XX
-41	kàmaːtà	kàmaːtà	VERB	_	_	40	comp:aux	_	Gloss=XX
+41	kàmaːtà	kamaːt-	VERB	_	_	40	comp:aux	_	Gloss=be_appropriate
 42	à	yà	AUX	_	Mood=Sub|Person=4	41	comp:obj@agent	_	Gloss=XX
 43	bar̃	barìː	VERB	_	Definite=Cons|Gender=Fem	42	comp:aux	_	Gloss=XX
 44	Lasisi	Lasisi	PROPN	_	_	45	subj	_	Gloss=Lasisi
@@ -544,8 +544,8 @@
 8	Malien	Malien	PROPN	_	_	7	flat@name	_	Gloss=Malien
 9	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT|wordform='
 10	ta	ta	ADP	_	_	7	mod	_	Gloss=XX
-11	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	10	comp:obj	_	Gloss=country.Fem.Cons
-12	Màːli	Màːli	PROPN	_	_	11	mod	_	Gloss=Mali
+11	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	12	mod@desc	_	Gloss=country.Fem.Cons
+12	Màːli	Màːli	PROPN	_	_	10	comp:obj	_	Gloss=Mali
 13	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=XX
 14	laːshè	laːs-	VERB	_	_	13	comp:aux	_	Gloss=XX
 15	ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	17	mod@desc	_	Gloss=XX

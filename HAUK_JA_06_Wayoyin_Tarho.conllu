@@ -26,7 +26,7 @@
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=XX
 11	shìrye-shìryen	shìrye-shìrye	NOUN	_	Definite=Cons|Number=Plur	10	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=shìrye-shìryensà
 12	sà	sà	PRON	_	_	11	mod@poss	_	Gloss=3Masc.Gen
-13	gà	gà	ADP	_	_	9	comp:obl	_	Gloss=XX
+13	gà	gà	ADP	_	_	9	comp:obl	_	Gloss=to
 14	ƙasàːshen	ƙasaː	ADP	_	Definite=Cons|Number=Plur	13	comp:obj	_	Gloss=country.Plur.Cons
 15	Afìr̃kà	Afìr̃kà	PROPN	_	_	14	flat@name	_	Gloss=Africa|SpaceAfter=No
 16	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -122,7 +122,7 @@
 3	bìyar̃	bìyar̃	NUM	_	_	2	mod:num	_	Gloss=five
 4	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 5	sukà	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	4	comp:obj	_	Gloss=XX
-6	wucèː	wucèː	VERB	_	_	5	comp:aux	_	Gloss=XX|SpaceAfter=No
+6	wucèː	wut-	VERB	_	_	5	comp:aux	_	Gloss=pass|SpaceAfter=No
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 8	ìdan	ìdan	SCONJ	_	_	29	mod	_	Gloss=if
 9	kanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=2	8	comp:obj	_	Gloss=XX
@@ -140,8 +140,8 @@
 21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 22	can	can	ADV	_	PronType=Dem	19	mod	_	Gloss=XX
 23	cikin	cikin	ADP	_	_	22	mod	_	Gloss=inside
-24	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	23	comp:obj	_	Gloss=country.Fem.Cons
-25	Kyanadà	Kyanadà	PROPN	_	_	24	flat@name	_	Gloss=Kyanadà|SpaceAfter=No
+24	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	25	mod@desc	_	Gloss=country.Fem.Cons
+25	Kyanadà	Kyanadà	PROPN	_	_	23	comp:obj	_	Gloss=Kyanadà|SpaceAfter=No
 26	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 27	àbîn	àbî	NOUN	_	Definite=Def|Gender=Masc	29	dislocated@subj	_	Gloss=thing.Masc.Def
 28	bà	bà	PART	_	Polarity=Neg	29	mod	_	Gloss=XX
@@ -157,7 +157,7 @@
 2	ɓaːtà	ɓaːtàː	VERB	_	_	1	comp:aux	_	Gloss=XX
 3	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	2	comp:obj	_	Gloss=time.Masc
 4	dà	dà	SCONJ	_	_	3	mod	_	Gloss=XX
-5	yawàː	yawàː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=XX
+5	yawàː	yawàː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=quantity.Masc
 6	kàːfìn	kàːfìː	SCONJ	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	mod	_	Gloss=XX
 7	àfàrētàː	àfàrētàː	NOUN	_	Gender=Masc	8	subj	_	Gloss=XX
 8	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	6	mod	_	Gloss=XX
@@ -217,7 +217,7 @@
 22	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 06_01_Wayoyin_Tarho__9
-# text = dàgà nan nèː zaːà aikàː dà sàːƙôn zuwàː bàːkin tèːkun Kyanadà, sànnan zuwàː " Widemouth " à ƙasar̃ Bìr̃taːniyà ta wasu wayoːyin ƙàr̃ƙashin tèːku.
+# text = dàgà nan nèː zaːà aikàː dà sàːƙôn zuwàː bàːkin Tèːkun Kyanadà, sànnan zuwàː " Widemouth " à ƙasar̃ Bìr̃taːniyà ta wasu wayoːyin ƙàr̃ƙashin tèːku.
 # text_ortho = Dàgà nan nèː zaː à aikàː dà sàːƙôn zuwàː bàːkin tèːkun Kyanadà, sànnan zuwàː 'Widemouth'' à ƙasar̃ Bìr̃taːniyà ta wasu wayoːyin ƙàr̃ƙashin tèːku.
 1	dàgà	dàgà	ADP	_	_	0	root	_	Gloss=from
 2	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	comp:obj	_	Gloss=XX
@@ -228,7 +228,7 @@
 7	sàːƙôn	sàːƙoː	NOUN	_	Definite=Def|Gender=Masc	6	comp:obj	_	Gloss=XX
 8	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	mod	_	Gloss=towards
 9	bàːkin	bàːkin	ADP	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=XX
-10	Tèːkun	tèːku	NOUN	_	Definite=Cons|Gender=Masc	9	mod	_	Gloss=XX|wordform=tèːkun
+10	Tèːkun	tèːku	NOUN	_	Definite=Cons|Gender=Fem	9	mod	_	Gloss=sea.Fem.Cons|wordform=tèːkun
 11	Kyanadà	Kyanadà	PROPN	_	_	10	mod	_	Gloss=Kyanadà|SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 13	sànnan	sànnan	ADV	_	_	14	cc	_	Gloss=then
@@ -237,8 +237,8 @@
 16	Widemouth	Widemouth	PROPN	_	_	14	comp:obj	_	Gloss=Widemouth
 17	"	"	PUNCT	_	_	16	punct	_	Gloss=PUNCT|wordform='
 18	à	à	ADP	_	_	16	mod	_	Gloss=at
-19	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	18	comp:obj	_	Gloss=country.Fem.Cons
-20	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	19	mod	_	Gloss=Britania
+19	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	20	mod@desc	_	Gloss=country.Fem.Cons
+20	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	18	comp:obj	_	Gloss=Great-Britain
 21	ta	ta	ADP	_	_	14	conj:coord	_	Gloss=XX
 22	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	23	det	_	Gloss=some.Plur.Spec
 23	wayoːyin	wayoːyiː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:obj	_	Gloss=XX
@@ -291,7 +291,7 @@
 11	kafin	kafin	PART	_	_	5	mod	_	Gloss=XX
 12	à	yà	AUX	_	Mood=Sub|Person=4	11	comp:obj	_	Gloss=XX
 13	shiryà	shir-	VERB	_	_	12	comp:aux	_	Gloss=XX
-14	hakà	hakà	ADV	_	_	13	comp:obj	_	Gloss=XX|SpaceAfter=No
+14	hakà	hakà	ADV	_	_	13	comp:obj	_	Gloss=thus|SpaceAfter=No
 15	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 06_01_Wayoyin_Tarho__13
@@ -372,7 +372,7 @@
 # sent_id = 06_01_Wayoyin_Tarho__16
 # text = hakà kuma duk wayàr̃ tàr̃hô dàgà Màlaːwì zuwàː Àngoːlà, doːlè à aikoː dà ita ta Bìr̃taːniyà.
 # text_ortho = Hakà kuma duk wayàr̃ tàr̃hô dàgà Màlaː wì zuwàː Àngoːlà, doːlè à aikoː dà ita ta Bìr̃taːniyà.
-1	hakà	hakà	ADV	_	_	11	mod	_	Gloss=XX
+1	hakà	hakà	ADV	_	_	11	mod	_	Gloss=thus
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=too
 3	duk	dukà	DET	_	PronType=Tot	4	det	_	Gloss=XX
 4	wayàr̃	wayàː	NOUN	_	Definite=Cons|Gender=Fem	11	dislocated@top	_	Gloss=XX
@@ -396,7 +396,7 @@
 # text_ortho = Irìn waɗànnân zàːgàːye-zàːgàːyên dà akèː yîː dà wayàr̃ tàr̃hôː yanàː ɓaːtà laːyìː, kuma baː àː jîn màganàr̃ sòːsai.
 1	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	10	mod	_	Gloss=type.Masc.Cons
 2	waɗànnân	wannàn	PRON	_	Deixis=Prox|Number=Plur|PronType=Dem	1	mod	_	Gloss=Prox.Plur
-3	zàːgàːye-zàːgàːyên	zàːgàːye-zàːgàːye	NOUN	_	Definite=PrevRef|Number=Plur	1	mod	_	Gloss=XX
+3	zàːgàːye-zàːgàːyên	zàːgàːye-zàːgàːye	NOUN	_	Definite=Def|Number=Plur	1	mod	_	Gloss=XX
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
 5	akèː	nàː	AUX	_	Aspect=Prog|Person=4	4	comp:obj	_	Gloss=XX
 6	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:aux	_	Gloss=do
@@ -410,7 +410,7 @@
 14	kuma	kuma	PART	_	_	15	cc	_	Gloss=too
 15	baː'àː	nàː	AUX	_	Aspect=Prog|Person=4|Polarity=Neg	10	conj:coord	_	Gloss=XX
 16	jîn	jîː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:aux	_	Gloss=XX
-17	màganàr̃	màganàː	NOUN	_	Definite=PrevRef|Gender=Fem	16	comp:obj	_	Gloss=XX
+17	màganàr̃	màganàː	NOUN	_	Definite=Def|Gender=Fem	16	comp:obj	_	Gloss=XX
 18	sòːsai	sòːsai	ADV	_	_	16	mod	_	Gloss=XX|SpaceAfter=No
 19	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
@@ -425,7 +425,7 @@
 6	zaman	zamn-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:obj	_	Gloss=XX
 7	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	6	mod	_	Gloss=XX
 8	màllakàr̃	màllakàː	NOUN	_	Gender=Fem	7	mod	_	Gloss=XX
-9	dà	dà	ADP	_	_	6	mod@relcl	_	Gloss=XX
+9	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=COMP
 10	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	12	subj	_	Gloss=country.Plur.Cons
 11	Afir̃kà	Afir̃kà	PROPN	_	_	10	mod	_	Gloss=Africa
 12	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	9	comp:obj	_	Gloss=XX

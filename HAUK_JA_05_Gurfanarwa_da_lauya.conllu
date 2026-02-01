@@ -40,7 +40,7 @@
 6	baːyar̃	baː	VERB	_	Definite=Cons|Gender=Fem	5	mod	_	Gloss=XX
 7	dà	dà	CCONJ	_	_	6	comp:obl	_	Gloss=XX
 8	mulkìː	mulkìː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=XX
-9	gà	gà	ADP	_	_	6	comp:obl	_	Gloss=XX
+9	gà	gà	ADP	_	_	6	comp:obl	_	Gloss=to
 10	farar̃-hùːlaː	farar̃-hùːlaː	NOUN	_	_	9	comp:obj	_	Gloss=XX|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	kuma	kuma	PART	_	_	13	cc	_	Gloss=too
@@ -221,7 +221,7 @@
 7	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 8	faɗìː	faɗ-	VERB	_	_	7	comp:aux	_	Gloss=XX
 9	yâu	yâu	ADV	_	_	8	mod	_	Gloss=XX
-10	cêːwaː	cêwaː	SCONJ	_	_	8	comp:obj	_	Gloss=XX
+10	cêːwaː	cêːwaː	SCONJ	_	_	8	comp:obj	_	Gloss=COMP
 11	yànzu	yànzu	ADV	_	_	14	mod	_	Gloss=XX
 12	hukuːmoːmin	hukuːmoːmiː	NOUN	_	Definite=Cons|Gender=Masc	14	subj	_	Gloss=XX
 13	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	12	mod	_	Gloss=country.Fem.Def
@@ -249,7 +249,7 @@
 35	shirìn	shiry-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	34	comp:obj	_	Gloss=XX
 36	miːƙà	miːƙ-	PRON	_	Number=Plur	35	comp:obj	_	Gloss=XX
 37	mulkìː	mulkìː	NOUN	_	Gender=Masc	36	comp:obj	_	Gloss=XX
-38	gà	gà	ADP	_	_	36	comp:obl	_	Gloss=XX
+38	gà	gà	ADP	_	_	36	comp:obl	_	Gloss=to
 39	farar̃-hùːlaː	farar̃-hùːlaː	NOUN	_	_	38	comp:obj	_	Gloss=XX
 40	dàgà	dàgà	ADP	_	_	36	comp:obl	_	Gloss=from
 41	hannun	hannuː	NOUN	_	Definite=Cons	40	comp:obj	_	Gloss=XX
@@ -364,7 +364,7 @@
 7	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 8	zama	zama	VERB	_	_	7	comp:aux	_	Gloss=become
 9	ƙayàː	ƙayàː	NOUN	_	Gender=Fem	8	comp:pred	_	Gloss=thorn.Fem
-10	gà	gà	ADP	_	_	8	comp:obl	_	Gloss=XX
+10	gà	gà	ADP	_	_	8	comp:obl	_	Gloss=to
 11	gwamnatoːcin	gwamnatoːciː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	Gloss=XX
 12	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	11	mod	_	Gloss=Nigeria|SpaceAfter=No
 13	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -429,7 +429,7 @@
 15	ꞌyancìn	ꞌyancìː	NOUN	_	Definite=Cons|Number=Plur	14	comp:obj	_	Gloss=XX
 16	ɗan	ɗaː	ADJ	_	Definite=Cons|Gender=Masc	15	mod	_	Gloss=XX
 17	Adàm	Adàm	PROPN	_	_	16	compound	_	Gloss=Adàm
-18	gà	gà	ADP	_	_	13	comp:obl	_	Gloss=XX
+18	gà	gà	ADP	_	_	13	comp:obl	_	Gloss=to
 19	jàmaꞌàr̃	jàmaꞌàː	NOUN	_	Definite=Cons|Number=Plur	18	comp:obj	_	Gloss=XX
 20	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	19	mod	_	Gloss=Nigeria
 21	maràsaː	maràs	PART	_	Number=Plur|PartType=Der	19	mod	_	Gloss=lacking.Plur
@@ -481,8 +481,8 @@
 16	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	17	det	_	Gloss=some.Plur.Spec
 17	jàːmìꞌan	jàːmì	NOUN	_	Definite=Cons|Number=Plur	15	comp:obj	_	Gloss=XX
 18	tsàron	tsàron	NOUN	_	Definite=Cons|Gender=Masc	17	mod	_	Gloss=XX
-19	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	18	mod	_	Gloss=country.Fem.Cons
-20	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	19	mod	_	Gloss=Nigeria
+19	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	20	mod@desc	_	Gloss=country.Fem.Cons
+20	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	18	mod	_	Gloss=Nigeria
 21	biyu	biyu	NUM	_	_	17	mod:num	_	Gloss=XX
 22	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	24	comp:obj	_	Gloss=who.Plur
 23	akà	nàː	AUX	_	Aspect=Prog|Person=4	17	mod@relcl	_	Gloss=XX
@@ -550,8 +550,8 @@
 22	tsaːrìn	tsaːrìː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:obj	_	Gloss=XX
 23	tattalin	tattaliː	NOUN	_	Definite=Cons|Gender=Masc	22	mod	_	Gloss=XX
 24	ar̃zìkin	ar̃zìkiː	NOUN	_	Definite=Cons|Gender=Masc	23	mod	_	Gloss=XX
-25	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	24	mod	_	Gloss=country.Fem.Cons
-26	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	25	mod	_	Gloss=Nigeria
+25	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	26	mod@desc	_	Gloss=country.Fem.Cons
+26	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	24	mod	_	Gloss=Nigeria
 27	tatas	tatas	ADV	_	_	20	comp:pred	_	Gloss=XX|SpaceAfter=No
 28	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
@@ -569,7 +569,7 @@
 10	an	yaː	AUX	_	Aspect=Perf|Person=4	4	conj:coord	_	Gloss=XX
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
 12	kiràː	kir-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:pred	_	Gloss=call.Vnoun.Masc
-13	gà	gà	ADP	_	_	12	comp:obl	_	Gloss=XX
+13	gà	gà	ADP	_	_	12	comp:obl	_	Gloss=to
 14	Gwamnatì	Gwamnatì	PROPN	_	_	13	comp:obj	_	Gloss=Gwamnatì
 15	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=XX
 16	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	15	comp:obj	_	Gloss=XX

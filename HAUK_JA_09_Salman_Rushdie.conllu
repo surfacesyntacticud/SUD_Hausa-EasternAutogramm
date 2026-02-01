@@ -10,16 +10,16 @@
 8	Rushdie	Rushdie	PROPN	_	_	7	flat@name	_	Gloss=Rushdie
 9	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 10	à	à	ADP	_	_	2	mod	_	Gloss=at
-11	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	10	comp:obj	_	Gloss=country.Fem.Cons
-12	Jàpân	Japan	PROPN	_	_	11	mod	_	Gloss=Jàpân
+11	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	12	mod@desc	_	Gloss=country.Fem.Cons
+12	Jàpân	Japan	PROPN	_	_	10	comp:obj	_	Gloss=Jàpân
 
 # sent_id = 09_Salman_Rushdie__2-3
 # text = Kwàːnàkin baːya à ƙasar̃ Ir̃àn an saːkè jaddàdà hukuncìn kisàn dà akà yankèː kân Salman Rushdie, wà:tò: mar̃ùbùːcin littaːfìn nan na "Aːyoːyin Shaiɗân".
 1	Kwàːnàkin	kwaːnaː	NOUN	_	_	6	mod	_	Gloss=day.Plur.Cons
 2	baːya	baːya	ADV	_	_	1	mod	_	Gloss=back
 3	à	à	ADP	_	_	6	mod	_	Gloss=at
-4	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	3	comp:obj	_	Gloss=country.Fem.Cons|wordform=kasar̃
-5	Ir̃àn	Ir̃àn	PROPN	_	_	4	mod	_	Gloss=Iran
+4	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	5	mod@desc	_	Gloss=country.Fem.Cons|wordform=kasar̃
+5	Ir̃àn	Ir̃àn	PROPN	_	_	3	comp:obj	_	Gloss=Iran
 6	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=XX
 7	saːkè	saːk-	VERB	_	_	6	comp:aux	_	Gloss=repeat
 8	jaddàdà	jaddad-	VERB	_	_	7	comp:obj	_	Gloss=confirm
@@ -131,13 +131,13 @@
 33	Palma	Palma	PROPN	_	_	32	flat@name	_	Gloss=Palma
 34	"	"	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 35	ɗan	ɗaː	ADJ	_	Definite=Cons|Gender=Masc	11	conj:appos	_	Gloss=XX
-36	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	35	compound	_	Gloss=country.Fem.Cons|wordform=kasar̃
-37	Ìtaːliyà	Ìtaːliyà	PROPN	_	_	36	mod	_	Gloss=Italy|SpaceAfter=No
+36	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	37	mod@desc	_	Gloss=country.Fem.Cons|wordform=kasar̃
+37	Ìtaːliyà	Ìtaːliyà	PROPN	_	_	35	compound	_	Gloss=Italy|SpaceAfter=No
 38	,	,	PUNCT	_	_	39	punct	_	Gloss=PUNCT
 39	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	6	dislocated@comp	_	Gloss=XX
 40	kiraːwoː	kir-	VERB	_	_	39	comp:aux	_	Gloss=XX
 41	tàːron	tàːroː	NOUN	_	Definite=Cons|Gender=Masc	40	comp:obj	_	Gloss=XX
-42	manèːmaː	manèːmiː	VERB	_	Number=Plur	45	comp:obj	_	Gloss=XX
+42	manèːmaː	manèːmiː	VERB	_	Number=Plur	41	mod	_	Gloss=XX
 43	làːbàːr̃ai	làːbaːr̃ìː	NOUN	_	Number=Plur	42	comp:obj	_	Gloss=news.Plur
 44	à	à	ADP	_	_	40	comp:obl	_	Gloss=at
 45	kùlàːb	kùlàːb	NOUN	_	_	44	comp:obj	_	Gloss=XX
@@ -468,16 +468,16 @@
 15	kàm	kàm	PART	_	_	14	discourse@top	_	Gloss=XX
 16	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	13	comp:obj	_	Gloss=XX
 17	ƙàunar̃	ƙaun-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	16	comp:aux	_	Gloss=XX
-18	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	17	comp:obj	_	Gloss=country.Fem.Cons|wordform=kasar̃
-19	Jàpân	Jàpân	PROPN	_	_	18	mod	_	Gloss=Japan|SpaceAfter=No
+18	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	19	mod@desc	_	Gloss=country.Fem.Cons|wordform=kasar̃
+19	Jàpân	Jàpân	PROPN	_	_	17	comp:obj	_	Gloss=Japan|SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 21	kuma	kuma	PART	_	_	22	cc	_	Gloss=too
 22	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	16	conj:coord	_	Gloss=XX
 23	kàmaːtà	kamaːt-	VERB	_	_	22	comp:aux	_	Gloss=be_appropriate
 24	ita	ita	PRON	_	Gender=Fem|Person=3	28	subj	_	Gloss=XX
-25	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	24	conj:appos	_	Gloss=country.Fem.Cons
-26	Jàpân	Jàpân	PROPN	_	_	25	mod	_	Gloss=Japan
-27	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	25	det	_	Gloss=Def
+25	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	26	parataxis@desc	_	Gloss=country.Fem.Cons
+26	Jàpân	Jàpân	PROPN	_	_	24	conj:appos	_	Gloss=Japan
+27	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	26	det	_	Gloss=Def
 28	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	23	comp:obj@agent	_	Gloss=XX
 29	tsoːmà	tsoːmàː	VERB	_	_	28	comp:aux	_	Gloss=XX
 30	bàːkin	bàːkiː	NOUN	_	Definite=Cons|Gender=Masc|Person=3	29	comp:obj	_	Gloss=mouth|SpaceAfter=No|wordform=bàːkintà
@@ -500,7 +500,7 @@
 8	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:aux	_	Gloss=do
 9	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	10	det	_	Gloss=Prox.Sing
 10	hàyàːniyaː	hàyàːniyaː	NOUN	_	Gender=Fem	8	comp:pred	_	Gloss=confusion.Fem
-11	gàme	gam-	VERB	_	ExtPos=ADP|VerbForm=Stat	12	mod	_	Gloss=XX
+11	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	12	mod	_	Gloss=XX
 12	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=XX
 13	littaːfìn	littaːfìː	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	Gloss=XX
 14	na	na	ADP	_	_	13	mod	_	Gloss=XX
@@ -560,14 +560,14 @@
 16	à	à	ADP	_	_	15	mod	_	Gloss=at
 17	harshèn	harshèː	NOUN	_	Definite=Cons|Gender=Masc	16	comp:obj	_	Gloss=XX
 18	Japananciː	Japananciː	PROPN	_	_	17	mod	_	Gloss=Japanese
-19	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	18	det	_	Gloss=Def|SpaceAfter=No
+19	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	17	det	_	Gloss=Def|SpaceAfter=No
 20	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__22
 # text = À yâu ɗîn kuma ɗaya dàgà cikin shùːgàbànnin wannàn ƙungìyaː ta Mùsùlmiː yaː cêː lalleː suː bà zaːsù ƙyaːlè Gianni Palma dà rânsà ba, dòːmin kùwa yaː ƙàːlùːbàlànci àl'ummàr̃ Mùsùlmiː bàːkiː ɗayansù .
 1	À	à	ADP	_	_	13	mod	_	Gloss=XX
 2	yâu	yâu	ADV	_	_	1	comp:obj	_	Gloss=XX
-3	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	1	det	_	Gloss=Def
+3	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	2	det	_	Gloss=Def
 4	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=too
 5	ɗaya	ɗaya	NUM	_	_	13	subj	_	Gloss=one
 6	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=from

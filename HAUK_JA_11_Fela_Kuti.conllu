@@ -64,8 +64,8 @@
 21	fùskànci	fuskant-	VERB	_	_	20	comp:aux	_	Gloss=face
 22	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	23	det	_	Gloss=some.Plur.Spec
 23	wahaloːliː	wàhalàː	NOUN	_	Number=Plur	21	comp:obj	_	Gloss=trouble.Plur
-24	dà	dà	ADP	_	_	23	mod	_	Gloss=XX
-25	daːmaː	daːmaː	NOUN	_	Gender=Fem	24	comp:obj	_	Gloss=plenty.Fem|SpaceAfter=No
+24	dà	dà	ADP	_	ExtPos=ADJ	23	mod	_	Gloss=with|Idiom=Yes
+25	daːmaː	daːmaː	NOUN	_	Gender=Fem	24	comp:obj	_	Gloss=opportunity.Fem|InIdiom=Yes|SpaceAfter=No
 26	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 11_Fela_Kuti__4
@@ -319,7 +319,7 @@
 7	Fela	Fela	PROPN	_	_	8	subj	_	Gloss=Fela
 8	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 9	ga	ganiː	VERB	_	_	8	comp:aux	_	Gloss=see
-10	cêːwaː	cêwaː	SCONJ	_	Gender=Fem	9	comp:obj	_	Gloss=XX|wordform=cêwaː
+10	cêːwaː	cêːwaː	SCONJ	_	_	9	comp:obj	_	Gloss=COMP|wordform=cêwaː
 11	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	10	comp:obj	_	Gloss=there_is.Neg
 12	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	11	subj	_	Gloss=Masc.Def
 13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
@@ -332,7 +332,7 @@
 20	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	19	comp:obj	_	Gloss=XX
 21	jeː	jeː	VERB	_	_	20	comp:aux	_	Gloss=XX
 22	wata	wani	DET	_	Definite=Spec|Gender=Masc	23	det	_	Gloss=some.Fem.Spec
-23	ƙasar̃	ƙasaː	ADJ	_	Definite=Cons|Gender=Fem	21	mod	_	Gloss=country.Fem.Cons|SpaceAfter=No
+23	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	21	mod	_	Gloss=country.Fem.Cons|SpaceAfter=No
 24	wàje	wàje	ADV	_	_	23	mod	_	Gloss=outside|SpaceAfter=No
 25	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 26	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	20	parataxis@conj	_	Gloss=XX
@@ -346,7 +346,7 @@
 # sent_id = 11_Fela_Kuti__12
 # text = Don hakà neː à shèːkaràr̃ alìf dà ɗàriː tar̃à dà hàmsin dà takwàs ya zoː nân Landân, indà ya shìga Kwaleːjìn Kàɗe-Kàɗe dà Wàːƙe-Wàːƙe ta "Trinity".
 1	Don	don	ADP	_	_	14	mod	_	Gloss=XX
-2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=XX
+2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=thus
 3	neː	neː	PART	_	Gender=Masc	1	discourse@foc	_	Gloss=XX
 4	à	à	ADP	_	_	14	mod	_	Gloss=at
 5	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	6	mod@desc	_	Gloss=year.Fem.Cons
@@ -702,8 +702,8 @@
 2	reːrà	reːr-	VERB	_	_	1	comp:aux	_	Gloss=compose
 3	wata	wani	DET	_	Definite=Spec|Gender=Masc	4	det	_	Gloss=some.Fem.Spec
 4	waːƙàː	waːƙàː	PRON	_	Gender=Fem	2	comp:obj	_	Gloss=song.Fem
-5	gàme	gam-	VERB	_	ExtPos=ADP|VerbForm=Stat	4	mod	_	Gloss=join.Stat|Idiom=Yes
-6	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=with|InIdiom=Yes
+5	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	4	mod	_	Gloss=join.Stat
+6	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=with
 7	manufoːfin	manufaː	NOUN	_	Definite=Cons|Number=Plur	6	comp:obj	_	Gloss=programme.Plur.Cons
 8	jàm'iyyàr̃	jàm'iyyàː	NOUN	_	Definite=Cons|Gender=Fem	7	mod	_	Gloss=party.Fem.Cons
 9	taːsà	taːsà	PRON	_	_	8	mod	_	Gloss=3Fem.Gen|SpaceAfter=No
@@ -833,14 +833,14 @@
 10	shìga	shìga	VERB	_	_	9	comp:aux	_	Gloss=XX
 11	nuːnà	nuːnàː	VERB	_	_	10	comp:obj@G	_	Gloss=XX
 12	shàʼawàː	shàʼawàː	NOUN	_	ExtPos=NOUN|Gender=Fem	11	comp:obj	_	Gloss=XX
-13	gàme	gam-	VERB	_	ExtPos=ADP|VerbForm=Stat	11	mod	_	Gloss=join.Stat|Idiom=Yes
-14	dà	dà	ADP	_	_	13	comp:obl	_	Gloss=with|InIdiom=Yes
+13	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	11	mod	_	Gloss=join.Stat
+14	dà	dà	ADP	_	_	13	comp:obl	_	Gloss=with
 15	Fela	Fela	PROPN	_	_	14	comp:obj	_	Gloss=Fela|SpaceAfter=No
 16	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 17	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	18	comp:pred	_	Gloss=XX
 18	nèː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Gloss=XX
-19	gàme	gam-	VERB	_	ExtPos=ADP|VerbForm=Stat	18	dislocated@comp	_	Gloss=join.Stat|Idiom=Yes
-20	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=with|InIdiom=Yes
+19	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	18	dislocated@comp	_	Gloss=join.Stat
+20	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=with
 21	maːtan	màːtaː	NOUN	_	Definite=Cons|Number=Plur	20	comp:obj	_	Gloss=wife.Plur.Cons|SpaceAfter=No|wordform=maːtansà
 22	sà	sà	PRON	_	_	21	mod@poss	_	Gloss=3Masc.Gen
 23	na	na	ADP	_	_	21	mod	_	Gloss=XX
