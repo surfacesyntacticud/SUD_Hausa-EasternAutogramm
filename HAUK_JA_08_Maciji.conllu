@@ -25,8 +25,8 @@
 14	kai	kai	VERB	_	_	13	comp:aux	_	Gloss=reach/carry_to
 15	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	16	det	_	Gloss=some.Plur.Spec
 16	mutàneː	ùtûm	NOUN	_	Number=Plur	14	comp:obj@T	_	Gloss=XX
-17	gùdaː	gùdaː	NUM	_	_	16	mod:num	_	Gloss=XX
-18	takwàs	takwàs	NUM	_	_	17	flat:num	_	Gloss=eight
+17	gùdaː	gùdaː	NOUN	_	_	16	mod:num	_	Gloss=unit.Masc
+18	takwàs	takwàs	NUM	_	_	17	mod:num	_	Gloss=eight
 19	asìbitì	asìbitì	NOUN	_	Gender=Masc	14	comp:obj@G	_	Gloss=hospital.Masc|wordform=asibiti
 20	baːyân	baːyân	ADP	_	Definite=Def|ExtPos=SCONJ	14	mod	_	Gloss=after.Def|Idiom=Yes
 21	dà	dà	SCONJ	_	_	20	comp:obj	_	Gloss=COMP|InIdiom=Yes
@@ -59,7 +59,7 @@
 6	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	comp:pred	_	Gloss=XX
 7	nèː	neː	PART	_	_	0	root	_	Gloss=XX
 8	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	dislocated@subj	_	Gloss=XX
-9	mutàːnên	mutàːnêː	NOUN	_	Definite=Cons|Number=Plur	8	conj:appos	_	Gloss=XX
+9	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	8	conj:appos	_	Gloss=people.Plur.Def
 10	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	7	dislocated@comp	_	Gloss=XX
 11	ɗaukoː	ɗauk-	VERB	_	_	10	comp:aux	_	Gloss=take
 12	gaːwar̃	gaːwaː	NOUN	_	Definite=Cons|Gender=Fem	11	comp:obj	_	Gloss=corpse.Fem.Cons
@@ -100,7 +100,7 @@
 8	dafà	dafàː	VERB	_	_	6	comp:aux	_	Gloss=XX
 9	wannan	wannan	DET	_	Definite=Spec|Gender=Masc	10	det	_	Gloss=XX
 10	kùmurciː	kùmurciː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=XX
-11	kàːfin	kàːfin	SCONJ	_	_	8	mod	_	Gloss=XX
+11	kàːfin	kàːfin	SCONJ	_	_	8	mod	_	Gloss=before
 12	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	11	comp:obj	_	Gloss=XX
 13	ci	ci	VERB	_	_	12	comp:aux	_	Gloss=XX
 14	nasar̃àr̃	nasar̃àr̃	NOUN	_	Gender=Fem	13	comp:obj	_	Gloss=XX
@@ -135,7 +135,7 @@
 20	nan	nan	ADV	_	Definite=Def|PronType=Dem	18	conj:coord	_	Gloss=XX
 21	sai	sai	ADV	_	_	24	mod	_	Gloss=XX
 22	waɗànnân	wannàn	DET	_	Deixis=Prox|Number=Plur|PronType=Dem	23	det	_	Gloss=Prox.Plur
-23	mutàːneː	mùtûm	NOUN	_	Number=Plur	24	subj	_	Gloss=XX
+23	mutàːneː	mùtûm	NOUN	_	Number=Plur	24	subj	_	Gloss=people.Plur
 24	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	8	parataxis@conj	_	Gloss=XX
 25	faːrà	faːràː	VERB	_	_	24	comp:aux	_	Gloss=XX
 26	jîn	jîː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	25	comp:obj	_	Gloss=XX
@@ -171,7 +171,7 @@
 6	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX|wordform=suka
 7	kwàːshi	kwaːs-	VERB	_	_	6	comp:aux	_	Gloss=XX
 8	waɗànnân	wannàn	DET	_	Deixis=Prox|Number=Plur|PronType=Dem	9	det	_	Gloss=Prox.Plur
-9	mutàːnên	mùtûm	NOUN	_	Definite=Cons|Number=Plur	6	subj	_	Gloss=XX
+9	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	6	subj	_	Gloss=people.Plur.Def
 10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=COMP
 11	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	10	comp:obj	_	Gloss=XX
 12	shaː	shaː	VERB	_	_	11	comp:aux	_	Gloss=XX
@@ -218,7 +218,7 @@
 14	macijîn	macijiː	NOUN	_	Definite=Def|Gender=Masc	13	mod	_	Gloss=Masc.Def
 15	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=COMP
 16	waɗànnân	wannàn	DET	_	Deixis=Prox|Number=Plur|PronType=Dem	17	det	_	Gloss=Prox.Plur
-17	mutàːnên	mùtûm	NOUN	_	Definite=Cons|Number=Plur	18	subj	_	Gloss=XX
+17	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	18	subj	_	Gloss=people.Plur.Def
 18	sukà	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	15	comp:obj	_	Gloss=XX
 19	cînyeː	cînyeː	VERB	_	_	18	comp:aux	_	Gloss=XX
 20	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	22	subj	_	Gloss=XX
@@ -257,7 +257,7 @@
 10	mùsammàn	mùsammàn	CCONJ	_	Case=Gen|Number=Plur|Person=3	12	cc	_	Gloss=XX
 11	dai	dai	PART	_	PartType=Top	10	discourse@top	_	Gloss=anyhow
 12	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	conj:coord	_	Gloss=XX
-13	yawàn	yawàn	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	Gloss=XX
+13	yawàn	yawàn	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	Gloss=quantity.Masc.Cons
 14	kwàːnàkîn	kwàːnàkiː	NOUN	_	Definite=Def|Gender=Masc	13	mod	_	Gloss=Masc.Def
 15	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=COMP
 16	akà	nàː	AUX	_	Aspect=Prog|Person=4	15	comp:obj	_	Gloss=XX
@@ -265,7 +265,7 @@
 18	anàː	nàː	AUX	_	Aspect=Prog|Person=4	17	mod	_	Gloss=XX
 19	dafà	dafàː	VERB	_	_	18	comp:aux	_	Gloss=XX
 20	macìːjîn	macìːjiː	NOUN	_	Definite=Def|Number=Plur	19	comp:obj	_	Gloss=XX
-21	kàːfin	kàːfin	SCONJ	_	_	19	mod	_	Gloss=XX
+21	kàːfin	kàːfin	SCONJ	_	_	19	mod	_	Gloss=before
 22	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	21	comp:obj	_	Gloss=XX
 23	dàfu	dàfu	VERB	_	_	22	comp:aux	_	Gloss=XX
 24	luɓus	luɓus	ADV	_	_	23	mod	_	Gloss=XX|SpaceAfter=No
@@ -277,8 +277,8 @@
 2	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	kiràː	kir-	VERB	_	Gender=Masc	3	comp:pred	_	Gloss=XX
-5	gà	gà	ADP	_	_	4	comp:obl	_	Gloss=XX
-6	mutàːnên	mùtûm	NOUN	_	Definite=Cons|Number=Plur	5	comp:obj	_	Gloss=XX
+5	gà	gà	ADP	_	_	4	comp:obl	_	Gloss=to
+6	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	5	comp:obj	_	Gloss=people.Plur.Def
 7	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=COMP
 8	kèː	keː	AUX	_	Aspect=Prog	7	comp:obj	_	Gloss=XX
 9	zàune	zaun-	VERB	_	ExtPos=ADV|VerbForm=Stat	8	comp:pred	_	Gloss=XX
@@ -313,8 +313,8 @@
 6	yi	yi	VERB	_	_	5	comp:aux	_	Gloss=do
 7	wani	wani	DET	_	Definite=Spec|Gender=Masc	8	det	_	Gloss=some.Masc.Spec
 8	gàr̃gàɗiː	gàr̃gàɗiː	NOUN	_	Definite=Cons|Gender=Fem	6	comp:pred	_	Gloss=XX
-9	gàme	gam-	VERB	_	ExtPos=ADP|VerbForm=Stat	8	comp:obl	_	Gloss=join.Stat|Idiom=Yes
-10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with|InIdiom=Yes
+9	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	8	comp:obl	_	Gloss=join.Stat
+10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with
 11	maːgungunàn	maːgàniː	NOUN	_	Definite=Cons|ExtPos=NOUN|Number=Plur	10	comp:obj	_	Gloss=medicine.Plur.Cons|Idiom=Yes
 12	kashè	kas-	VERB	_	_	11	mod	_	Gloss=XX|InIdiom=Yes
 13	ƙwàːriː	ƙwàːroː	NOUN	_	Number=Plur	12	comp:obj	_	Gloss=insect.Plur

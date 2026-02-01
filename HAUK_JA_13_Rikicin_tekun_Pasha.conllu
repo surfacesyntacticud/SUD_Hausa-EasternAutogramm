@@ -63,17 +63,17 @@
 
 # sent_id = 13_Rikicin_tekun_Pasha__3
 # text = Mài Mar̃tabàː yaː yi wannàn kiràn neː baːyan zàngà-zangà gùdaː biyu dà akà yi à areːwacin ƙasâr̃, indà akà cêː mutàːneː dà daːmaː sunàː goːyon baːyan shùːgàban ƙasar̃ Ìr̃aːƙì, wàːtòː " Saddam Hussein" .
-1	Mài	Mài	PROPN	_	_	3	subj	_	Gloss=Mài
-2	Mar̃tabàː	Mar̃tabàː	PROPN	_	_	1	compound	_	Gloss=Mar̃tabàː
+1	Mài	mài	PART	_	_	3	subj	_	Gloss=owner_of.Sing
+2	Mar̃tabàː	mar̃tabàː	NOUN	_	_	1	compound	_	Gloss=highness.Fem
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 4	yi	yi	VERB	_	_	3	comp:aux	_	Gloss=do
 5	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	6	det	_	Gloss=Prox.Sing
 6	kiràn	kir-	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:pred	_	Gloss=call.Vnoun.Masc.Def
-7	neː	neː	PART	_	_	4	discourse@foc	_	Gloss=XX
+7	neː	neː	PART	_	_	6	discourse@foc	_	Gloss=XX
 8	baːyan	baːyan	ADP	_	_	4	mod	_	Gloss=after
 9	zàngà-zangà	zàngà-zangà	NOUN	_	Definite=Def|Gender=Fem|Number=Plur	8	comp:obj	_	Gloss=demonstration.Fem
-10	gùdaː	gùdaː	NUM	_	_	9	mod	_	Gloss=XX
-11	biyu	biyu	NUM	_	_	10	flat@num	_	Gloss=XX
+10	gùdaː	gùdaː	NOUN	_	_	9	mod:num	_	Gloss=unit.Masc
+11	biyu	biyu	NUM	_	_	10	mod:num	_	Gloss=XX
 12	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=COMP|wordform=da
 13	akà	nàː	AUX	_	Aspect=Prog|Person=4	12	comp:obj	_	Gloss=XX
 14	yi	yi	VERB	_	_	13	comp:aux	_	Gloss=do

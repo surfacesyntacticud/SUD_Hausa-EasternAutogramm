@@ -33,8 +33,8 @@
 23	gâggan	gâggan	ADJ	_	Definite=Cons|Gender=Masc	21	comp:obj	_	Gloss=XX
 24	shùːgàbànnin	shùːgàbànniː	NOUN	_	Definite=Cons|Number=Plur	21	comp:obj	_	Gloss=XX
 25	ƙungiyâr̃	ƙungiyâː	NOUN	_	Definite=Cons|Gender=Fem	24	mod	_	Gloss=XX
-26	gùdaː	gùdaː	NUM	_	_	25	mod:num	_	Gloss=XX
-27	huɗu	huɗu	NUM	_	_	38	mod	_	Gloss=four|SpaceAfter=No
+26	gùdaː	gùdaː	NOUN	_	_	25	mod:num	_	Gloss=unit.Masc
+27	huɗu	huɗu	NUM	_	_	26	mod:num	_	Gloss=four|SpaceAfter=No
 28	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 29	kuma	kuma	PART	_	_	30	cc	_	Gloss=too
 30	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	20	conj:coord	_	Gloss=XX
@@ -160,7 +160,7 @@
 # text = Bandà kaːmà mutàːneː huɗu waɗàndà akà cêː 'yan ƙungìyâr̃ dà akèː zàrgiː nèː, Huːkuːmàr̃ taː cêː tanàː neːman wani mùtûm wandà ya bayyànà kânsà dà cêːwaː shiː bàbban ɗan kàːsuwaː nèː.
 1	Bandà	bandà	SCONJ	_	_	16	mod	_	Gloss=XX
 2	kaːmà	kaːm-	VERB	_	_	1	comp:obj	_	Gloss=catch
-3	mutàːneː	mùtûm	NOUN	_	Number=Plur	2	comp:obj	_	Gloss=XX
+3	mutàːneː	mùtûm	NOUN	_	Number=Plur	2	comp:obj	_	Gloss=people.Plur
 4	huɗu	huɗu	NUM	_	_	3	mod:num	_	Gloss=four
 5	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	13	subj	_	Gloss=who.Plur|wordform=wadanda
 6	akà	nàː	AUX	_	Aspect=Prog|Person=4	1	comp:obj	_	Gloss=XX
@@ -228,7 +228,7 @@
 8	sàːmu	saːmùː	VERB	_	_	7	comp:aux	_	Gloss=XX
 9	nasar̃àr̃	nasar̃àː	NOUN	_	Gender=Fem	8	comp:obj	_	Gloss=XX|wordform=nasarar
 10	kaːmà	kaːm-	VERB	_	_	9	mod	_	Gloss=catch
-11	mutàːnên	mùtûm	NOUN	_	Definite=Cons|Number=Plur	10	comp:obj	_	Gloss=XX
+11	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	10	comp:obj	_	Gloss=people.Plur.Def
 12	neː	neː	PART	_	Gender=Masc|Number=Plur	14	discourse@foc	_	Gloss=XX
 13	sabòːdà	sabòːdà	ADP	_	_	8	mod	_	Gloss=because_of
 14	binciken	bincikeː	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	Gloss=XX
@@ -266,7 +266,7 @@
 1	Baːya	Baːya	PROPN	_	_	18	mod	_	Gloss=Baːya
 2	dà	dà	CCONJ	_	_	1	unk	_	Gloss=XX
 3	tsarè	tsar-	VERB	_	_	2	comp:obj	_	Gloss=XX
-4	mutàːneː	mùtûm	NOUN	_	Number=Plur	3	comp:obj	_	Gloss=XX
+4	mutàːneː	mùtûm	NOUN	_	Number=Plur	3	comp:obj	_	Gloss=people.Plur
 5	huɗûn	huɗiː	NUM	_	Definite=Def|Gender=Masc	4	mod:num	_	Gloss=XX
 6	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=COMP
 7	akà	nàː	AUX	_	Aspect=Prog|Person=4	6	comp:obj	_	Gloss=XX
