@@ -52,11 +52,11 @@
 29	dà	dà	CCONJ	_	_	30	cc	_	Gloss=XX
 30	ukù	ukù	NUM	_	Number=Plur|Person=3	28	conj:coord	_	Gloss=three|SpaceAfter=No
 31	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
-32	indà	indà	ADV	_	PronType=Rel	33	mod	_	Gloss=where
-33	akà	nàː	AUX	_	Aspect=Prog|Person=4	19	mod@relcl	_	Gloss=XX
+32	indà	indà	ADV	_	PronType=Rel	34	mod	_	Gloss=where
+33	akà	nàː	AUX	_	Aspect=Prog|Person=4	12	mod@relcl	_	Gloss=XX
 34	hamɓarar̃	hamɓarar̃	VERB	_	Definite=Cons|Gender=Fem	33	comp:aux	_	Gloss=XX
 35	dà	dà	ADP	_	_	34	comp:obl	_	Gloss=XX
-36	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Masc	35	comp:obj	_	Gloss=government.Masc.Cons
+36	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	35	comp:obj	_	Gloss=government.Fem.Cons
 37	farar̃-hùːlaː	farar̃-hùːlaː	NOUN	_	_	36	mod	_	Gloss=XX
 38	ta	ta	ADP	_	_	36	mod	_	Gloss=XX
 39	Shùːgàbaː	Shùːgàbaː	PROPN	_	_	38	comp:obj	_	Gloss=President
@@ -212,7 +212,7 @@
 11	har̃koːkin	har̃koːkin	NOUN	_	_	10	mod	_	Gloss=XX
 12	wàje	wàje	ADV	_	_	11	mod	_	Gloss=outside|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-14	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Masc	10	mod	_	Gloss=government.Masc.Cons
+14	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	10	mod	_	Gloss=government.Fem.Cons
 15	tàːr̃ayyàr̃	tàːr̃ayyàː	NOUN	_	Definite=Cons|Number=Plur	14	mod	_	Gloss=XX
 16	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	15	mod	_	Gloss=Nigeria|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
@@ -220,7 +220,7 @@
 19	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT|SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 21	wàːtòː	wàːtòː	PART	_	_	22	discourse	_	Gloss=that_is
-22	indà	indà	ADV	_	PronType=Rel	10	conj:dicto	_	Gloss=where
+22	indà	indà	ADV	_	PronType=Rel	10	conj:appos	_	Gloss=where
 23	zaːà	zâi	AUX	_	Mood=Sub|Person=4	22	mod@relcl	_	Gloss=XX|wordform=à
 24	kai	kai	VERB	_	_	23	comp:aux	_	Gloss=reach/carry_to
 25	shì	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	24	comp:obj	_	Gloss=XX
@@ -391,7 +391,7 @@
 13	dà	dà	ADP	_	_	14	cc	_	Gloss=XX
 14	bìyar̃	bìyar̃	NUM	_	_	12	conj:coord	_	Gloss=five
 15	nèː	neː	AUX	_	Gender=Masc|Number=Plur	2	discourse@foc	_	Gloss=XX
-16	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Masc	9	conj:appos	_	Gloss=government.Masc.Cons
+16	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	9	conj:appos	_	Gloss=government.Fem.Cons
 17	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	16	mod	_	Gloss=Nigeria
 18	ta	ta	ADP	_	_	0	root	_	Gloss=XX
 19	bùkàːci	bùkàːci	VERB	_	_	18	comp:obj	_	Gloss=XX

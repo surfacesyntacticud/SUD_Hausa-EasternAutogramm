@@ -329,7 +329,7 @@
 7	baːyan	baːyan	ADP	_	_	6	mod	_	Gloss=after
 8	sanâr̃wâr̃	sanâr̃waː	NOUN	_	Definite=Def|Gender=Fem	7	comp:obj	_	Gloss=declaration.Fem.Def
 9	dà	dà	SCONJ	_	_	10	cc	_	Gloss=COMP
-10	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=government.Masc.Cons|wordform=gwamnatin
+10	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	7	comp:obj	_	Gloss=government.Fem.Cons|wordform=gwamnatin
 11	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	10	mod	_	Gloss=country.Fem.Def
 12	ta	ta	ADP	_	_	10	mod	_	Gloss=XX
 13	baːyar̃	baːyar̃	ADV	_	Definite=Cons|Gender=Fem	12	comp:obj	_	Gloss=XX|wordform=bayar
@@ -444,7 +444,7 @@
 # text = Sunàː sôn gwamnatìn tà baːyar̃ dà tsaːrìn lòːkàtan ƙaddamar̃ dà shìrye-shìryên naːtà, tàːre dà cìkakken bàyaːnìn yîn zàːɓeː.
 1	Sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=XX
 2	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	comp:aux	_	Gloss=XX
-3	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Masc	2	udep	_	Gloss=government.Masc.Cons|wordform=gwamnatin
+3	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	2	udep	_	Gloss=government.Fem.Def|wordform=gwamnatin
 4	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	2	comp:obj	_	Gloss=XX
 5	baːyar̃	baːyar̃	VERB	_	Definite=Cons|Gender=Fem	4	comp:aux	_	Gloss=XX
 6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=XX
@@ -507,7 +507,7 @@
 40	tattalin	tattaliː	NOUN	_	Definite=Cons|Gender=Masc	39	mod	_	Gloss=XX
 41	ar̃zìkiː	ar̃zìkiː	NOUN	_	Gender=Masc	40	mod	_	Gloss=XX
 42	dà	dà	SCONJ	_	_	46	comp:obl	_	Gloss=COMP
-43	gwamnatìn	gwamnatì	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	45	subj	_	Gloss=government.Masc.Cons|SpaceAfter=No|wordform=gwamnatìnsà
+43	gwamnatìn	gwamnatì	NOUN	_	Case=Gen|Definite=Cons|Gender=Fem|Person=2	45	subj	_	Gloss=government.Fem.Cons|SpaceAfter=No|wordform=gwamnatìnsà
 44	sà	sà	PRON	_	_	43	mod@poss	_	Gloss=3Masc.Gen
 45	takèː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	37	comp:obj	_	Gloss=XX
 46	aikìː	aikìː	NOUN	_	Gender=Masc	45	comp:aux	_	Gloss=work.Masc|wordform=aiki
@@ -524,7 +524,7 @@
 5	yi	yi	VERB	_	_	4	comp:aux	_	Gloss=do
 6	zàrgin	zàrgiː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:pred	_	Gloss=XX
 7	cêːwaː	cêːwaː	SCONJ	_	_	6	mod	_	Gloss=COMP
-8	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Masc	10	subj	_	Gloss=government.Masc.Cons|wordform=gwamnatin
+8	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	10	subj	_	Gloss=government.Fem.Cons|wordform=gwamnatin
 9	taːsù	taːsù	PRON	_	Gender=Fem|Number=Plur|Person=3	8	mod	_	Gloss=XX
 10	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	7	comp:obj	_	Gloss=XX
 11	kaːsà	kaːsà	VERB	_	_	10	comp:aux	_	Gloss=XX
@@ -599,7 +599,7 @@
 22	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	21	mod@poss	_	Gloss=3Plur.Gen
 23	baːyân	baːyân	ADP	_	_	20	mod	_	Gloss=after.Def
 24	daː	daː	PART	_	_	23	comp:obj	_	Gloss=XX
-25	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Masc	27	subj	_	Gloss=government.Masc.Cons|wordform=gwamnatin
+25	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	27	subj	_	Gloss=government.Fem.Cons|wordform=gwamnatin
 26	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	25	mod	_	Gloss=country.Fem.Def|wordform=kasàːr
 27	ta	na	AUX	_	Aspect=Perf|Gender=Fem|Person=3	24	comp:obj	_	Gloss=XX
 28	yankè	yank-	VERB	_	_	27	comp:aux	_	Gloss=cut
@@ -637,7 +637,7 @@
 4	yi	yi	VERB	_	_	3	comp:aux	_	Gloss=do
 5	kuːkan	kuːkaː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:pred	_	Gloss=XX
 6	cêːwaː	cêːwaː	SCONJ	_	_	5	mod	_	Gloss=COMP
-7	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Masc	9	subj	_	Gloss=government.Masc.Cons|wordform=gwamnatin
+7	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	9	subj	_	Gloss=government.Fem.Cons|wordform=gwamnatin
 8	taːsù	taːsù	PRON	_	Gender=Fem|Number=Plur|Person=3	7	mod@poss	_	Gloss=XX
 9	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	6	comp:obj	_	Gloss=XX
 10	bâi	nàː	VERB	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	9	comp:aux	_	Gloss=XX
@@ -665,7 +665,7 @@
 2	lalleː	lalleː	ADV	_	_	8	mod	_	Gloss=XX
 3	dai	dai	PART	_	PartType=Top	2	discourse@top	_	Gloss=anyhow
 4	kàm	kàt	ADP	_	_	8	mod	_	Gloss=XX
-5	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	Gloss=government.Masc.Cons|wordform=gwamnatin
+5	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	4	comp:obj	_	Gloss=government.Fem.Cons|wordform=gwamnatin
 6	shùːgàbaː	shùːgàbaː	NOUN	_	_	7	mod@desc	_	Gloss=leader.Masc
 7	Saibou	Saibou	PROPN	_	_	5	mod	_	Gloss=Saibou
 8	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	0	root	_	Gloss=XX

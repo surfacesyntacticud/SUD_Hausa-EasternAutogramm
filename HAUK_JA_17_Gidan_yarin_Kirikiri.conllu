@@ -76,7 +76,7 @@
 14	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 15	kuma	kuma	PART	_	_	11	cc	_	Gloss=too
 16	kusan	kusan	ADV	_	_	11	mod	_	Gloss=XX
-17	mutàːneː	mùtûm	NOUN	_	Number=Plur	11	dislocated@top	_	Gloss=XX
+17	mutàːneː	mùtûm	NOUN	_	Number=Plur	11	dislocated@top	_	Gloss=people.Plur
 18	àr̃bà'in	àr̃bà'in	NUM	_	_	17	mod:num	_	Gloss=XX
 19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=COMP
 20	tar̃à	tar̃à	NUM	_	_	24	comp:obj	_	Gloss=nine
@@ -110,7 +110,7 @@
 2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=XX
 4	cùnkoːson	cùnkoːsoː	NOUN	_	Definite=Cons|Gender=Masc	2	subj	_	Gloss=XX
-5	mutàːnên	mùtûm	NOUN	_	Definite=Cons|Number=Plur	4	mod	_	Gloss=XX
+5	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	4	mod	_	Gloss=people.Plur.Def
 6	dà	dà	SCONJ	_	_	5	mod@relcl	_	Gloss=COMP
 7	kèː	keː	PART	_	Aspect=Prog	6	comp:obj	_	Gloss=XX
 8	cikin	cikin	ADP	_	_	20	comp:obl	_	Gloss=inside
@@ -200,7 +200,7 @@
 # sent_id = 17_Gidan_yarin_Kirikiri__6
 # text = Àkwai mutàːneː dubuː dà ɗàriː shidà dà àr̃bà'in dà bìyar̃ à cikin kûr̃kukùn Ƙìr̃iƙìr̃i baːyan kùwa an shiryà kûr̃kukùn neː dòːmin yà ɗau mutàːneː ɗàriː tar̃à dà hàmsin dà shidà kurùm.
 1	Àkwai	àkwai	PART	_	_	0	root	_	Gloss=XX
-2	mutàːneː	mùtûm	NOUN	_	Number=Plur	1	subj	_	Gloss=XX
+2	mutàːneː	mùtûm	NOUN	_	Number=Plur	1	subj	_	Gloss=people.Plur
 3	dubuː	dubuː	NUM	_	_	2	mod:num	_	Gloss=thousand
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=XX
 5	ɗàriː	ɗàriː	NUM	_	Gender=Fem|Number=Plur	3	conj:coord	_	Gloss=hundred.Fem
@@ -222,7 +222,7 @@
 21	dòːmin	dòːmin	SCONJ	_	_	18	mod	_	Gloss=XX
 22	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	21	comp:obj	_	Gloss=XX
 23	ɗau	ɗ-	VERB	_	_	22	comp:aux	_	Gloss=XX
-24	mutàːneː	mùtûm	NOUN	_	Number=Plur	23	comp:obj	_	Gloss=XX
+24	mutàːneː	mùtûm	NOUN	_	Number=Plur	23	comp:obj	_	Gloss=people.Plur
 25	ɗàriː	ɗàriː	NUM	_	_	24	mod:num	_	Gloss=hundred
 26	tar̃à	tar̃à	NUM	_	_	25	flat:num	_	Gloss=nine
 27	dà	dà	CCONJ	_	_	28	cc	_	Gloss=XX
@@ -291,7 +291,7 @@
 # sent_id = 17_Gidan_yarin_Kirikiri__8
 # text = R̃àhoːtòn hakà maː yaː cêː irìn cùnkoːsôn dà kèː àkwai à kûr̃kukùn Ƙìr̃iƙìr̃i yaː har̃àmtà àmfàːniː dà gadàːjeː à cikinsà dòːmin rashin ìsasshen fiːliː sai fa wasu kàɗan dàgà cikin tsàràrrûn dà kèː dà gaːliːhù.
 1	R̃àhoːtòn	R̃àhoːtòn	PROPN	_	_	4	subj	_	Gloss=R̃àhoːtòn
-2	hakà	hakà	ADV	_	_	4	mod	_	Gloss=XX
+2	hakà	hakà	ADV	_	_	4	mod	_	Gloss=thus
 3	maː	maː	PART	_	_	2	discourse@top	_	Gloss=XX
 4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 5	cêː	cêː	VERB	_	_	4	comp:aux	_	Gloss=XX
@@ -452,7 +452,7 @@
 25	kûr̃kukùn	kûr̃kukuː	NOUN	_	Definite=Def|Gender=Masc	24	comp:obj	_	Gloss=XX|SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 27	sabòːdà	sabòːdà	SCONJ	_	_	10	mod	_	Gloss=because
-28	hakà	hakà	ADV	_	_	31	mod	_	Gloss=XX
+28	hakà	hakà	ADV	_	_	31	mod	_	Gloss=thus
 29	kuma	kuma	PART	_	_	28	discourse@top	_	Gloss=too
 30	tsàràrrûn	tsàràrriː	NOUN	_	Definite=Def|Gender=Masc	31	subj	_	Gloss=XX
 31	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	27	comp:obj	_	Gloss=XX
@@ -514,13 +514,13 @@
 # sent_id = 17_Gidan_yarin_Kirikiri__13
 # text = Dàliːlìn hakà kuma shiː nèː kuɗàːɗên dà gwamnatìn ke waːrèːwaː dòːmin sayàː wà ɗàuràrrûn àbinci sun yi ƙaranciː ƙwar̃ai, kuma wasu ma'àikàtan gidan yaːrìn sunàː tàimakon kânsù dà àbincîn dà akà sàyaː don bâi wà ɗàuràrrûn.
 1	Dàliːlìn	dàliːlìː	PROPN	_	_	16	subj	_	Gloss=reason.Masc.Cons
-2	hakà	hakà	ADV	_	_	1	mod	_	Gloss=XX
+2	hakà	hakà	ADV	_	_	1	mod	_	Gloss=thus
 3	kuma	kuma	PART	_	_	2	discourse@top	_	Gloss=too
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	16	mod	_	Gloss=XX
 5	nèː	neː	PART	_	_	1	discourse@foc	_	Gloss=XX
 6	kuɗàːɗên	kuɗàːɗêː	NOUN	_	Definite=Cons|Gender=Masc	16	subj	_	Gloss=XX
-7	dà	dà	ADP	_	_	6	mod@relcl	_	Gloss=XX
-8	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=government.Masc.Cons|wordform=gwamnatin
+7	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=COMP
+8	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	7	comp:obj	_	Gloss=government.Fem.Def|wordform=gwamnatin
 9	ke	ke	AUX	_	Aspect=Prog	8	mod	_	Gloss=XX
 10	waːrèːwaː	waːrèː	PRON	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	9	comp:obj	_	Gloss=XX
 11	dòːmin	dòːmin	SCONJ	_	_	18	mod	_	Gloss=XX
@@ -560,7 +560,7 @@
 4	bayyànà	bayy	VERB	_	_	3	comp:aux	_	Gloss=XX
 5	suːnàːyen	suːnàːyeː	NOUN	_	Definite=Cons|Number=Plur	4	comp:obj	_	Gloss=XX
 6	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	7	det	_	Gloss=some.Plur.Spec
-7	mutàːneː	mùtûm	NOUN	_	Number=Plur	5	mod	_	Gloss=XX
+7	mutàːneː	mùtûm	NOUN	_	Number=Plur	5	mod	_	Gloss=people.Plur
 8	àr̃bà'in	àr̃bà'in	NUM	_	_	7	mod:num	_	Gloss=XX
 9	dà	dà	ADP	_	_	10	cc	_	Gloss=XX
 10	tar̃à	tar̃à	NUM	_	_	8	conj:coord	_	Gloss=nine
@@ -626,10 +626,10 @@
 14	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem	13	comp:aux	_	Gloss=say.Vnoun.Fem
 15	anàː	nàː	AUX	_	Aspect=Prog|Person=4	14	comp:obj	_	Gloss=XX
 16	tsarè	tsar-	VERB	_	_	15	comp:aux	_	Gloss=XX
-17	mutàːneː	mùtûm	NOUN	_	Number=Plur	16	comp:obj	_	Gloss=XX
+17	mutàːneː	mùtûm	NOUN	_	Number=Plur	16	comp:obj	_	Gloss=people.Plur
 18	nèː	neː	PART	_	_	17	discourse@foc	_	Gloss=XX
 19	dà	dà	ADP	_	_	16	comp:obl	_	Gloss=XX
-20	nufìn	nufìn	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:obj	_	Gloss=XX
+20	nufìn	nufìː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:obj	_	Gloss=intention.Masc.Cons
 21	à	yà	AUX	_	Mood=Sub|Person=4	15	parataxis@conj	_	Gloss=XX
 22	gyaːrà	gyaːràː	VERB	_	_	21	comp:aux	_	Gloss=XX
 23	haːlin	haːliː	NOUN	_	Definite=Cons|Gender=Masc	22	comp:obj	_	Gloss=condition.Masc.Cons|SpaceAfter=No|wordform=haːlinsù
@@ -659,7 +659,7 @@
 11	haifar̃	haifar̃	VERB	_	Definite=Cons|Gender=Fem	10	comp:aux	_	Gloss=XX
 12	dà	dà	ADP	_	_	11	comp:obl	_	Gloss=XX
 13	shàːgìɗàɗɗun	shàːgìɗàɗɗuː	NOUN	_	Definite=Cons|Number=Plur	12	comp:obj	_	Gloss=XX
-14	mutàːneː	mùtûm	NOUN	_	Number=Plur	13	mod	_	Gloss=XX|SpaceAfter=No|wordform=mutâne
+14	mutàːneː	mùtûm	NOUN	_	Number=Plur	13	mod	_	Gloss=people.Plur|SpaceAfter=No|wordform=mutâne
 15	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 16	kuma	kuma	PART	_	_	21	cc	_	Gloss=too
 17	bàː	bàː	PART	_	Polarity=Neg	21	mod	_	Gloss=XX
@@ -698,8 +698,8 @@
 6	cêː	cêː	VERB	_	_	5	comp:aux	_	Gloss=XX
 7	koːmeː	koːmeː	PRON	_	PronType=Ind	6	comp:obj	_	Gloss=XX
 8	ba	ba	PART	_	Polarity=Neg	6	mod	_	Gloss=XX
-9	gàme	gam-	VERB	_	ExtPos=ADP|VerbForm=Stat	6	comp:obl	_	Gloss=join.Stat|Idiom=Yes
-10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=XX|InIdiom=Yes
+9	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	6	comp:obl	_	Gloss=join.Stat
+10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=XX
 11	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	Gloss=XX|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 

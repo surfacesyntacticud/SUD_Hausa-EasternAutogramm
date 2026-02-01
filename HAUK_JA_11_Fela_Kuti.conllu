@@ -213,8 +213,8 @@
 6	kânsà	kânsà	NOUN	_	Gender=Masc|Person=3|PronType=Prs|Reflex=Yes	5	comp:obj	_	Gloss=3Masc.Reflex
 7	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 8	bayyànà	bayy	VERB	_	_	7	comp:aux	_	Gloss=XX
-9	yaddà	yaddà	ADV	_	PronType=Rel	8	mod	_	Gloss=how
-10	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	9	comp:obj	_	Gloss=XX
+9	yaddà	yaddà	ADV	_	PronType=Rel	8	comp:obj	_	Gloss=how
+10	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	9	mod@relcl	_	Gloss=XX
 11	faːrà	faːràː	VERB	_	_	10	comp:aux	_	Gloss=XX
 12	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=use.Masc
 13	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=XX
@@ -361,7 +361,7 @@
 14	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 15	zoː	zoː	VERB	_	_	14	comp:aux	_	Gloss=XX
 16	nân	nân	ADV	_	PronType=Dem	15	comp:obj@G	_	Gloss=XX
-17	Landân	Landân	PROPN	_	_	16	conj:appos	_	Gloss=Landân|SpaceAfter=No
+17	Landân	Landân	PROPN	_	_	16	conj:appos	_	Gloss=London|SpaceAfter=No
 18	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 19	indà	indà	ADV	_	PronType=Rel	21	mod	_	Gloss=where
 20	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	17	mod@relcl	_	Gloss=XX
@@ -565,7 +565,7 @@
 18	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	14	mod	_	Gloss=time.Masc.Def
 19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=COMP
 20	soːjoːjin	soːjoːjiː	NOUN	_	Definite=Cons|Number=Plur	26	subj	_	Gloss=XX
-21	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Masc	20	mod	_	Gloss=government.Masc.Cons|wordform=gwamnatin
+21	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	20	mod	_	Gloss=government.Fem.Cons|wordform=gwamnatin
 22	Janàr̃	janàr̃	NOUN	_	Gender=Masc	24	mod@desc	_	Gloss=general.Masc
 23	"	"	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 24	Obasanjo	Obasanjo	PROPN	_	_	21	mod	_	Gloss=Obasanjo
@@ -640,7 +640,7 @@
 4	dà	dà	ADP	_	_	2	comp:obl	_	Gloss=XX
 5	suːkàr̃	soːk-	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:obj	_	Gloss=criticize.Vnoun.Fem.Cons
 6	làmiːr̃ìn	làmiːr̃ìː	NOUN	_	Definite=Cons|Gender=Masc	5	mod	_	Gloss=view.Masc.Cons
-7	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Masc	6	mod	_	Gloss=government.Masc.Cons|wordform=gwamnatin
+7	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	6	mod	_	Gloss=government.Fem.Def|wordform=gwamnatin
 8	à	à	ADP	_	ExtPos=ADP	5	mod	_	Gloss=at
 9	cikin	cikin	ADP	_	_	8	comp:obj	_	Gloss=inside
 10	kàɗe-kàɗe	kiɗìː	NOUN	_	Number=Plur	9	comp:obj	_	Gloss=music.Plur
@@ -654,7 +654,7 @@
 # sent_id = 11_Fela_Kuti__23
 # text = Dà gwamnatìn farar̃-hùːlaː ta kàrɓi mulkìː à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sàbà'in dà tar̃à, sai Fela ya kafà jaːm'iyyàr̃sà ta kânsà , waddà ya kiraː " The Movement of the People", wàːtòː Jàm'iyyàr̃ Jàma'àː.
 1	Dà	dà	SCONJ	_	_	20	mod	_	Gloss=XX
-2	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Masc	4	subj	_	Gloss=government.Masc.Cons|wordform=gwamnatin
+2	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	4	subj	_	Gloss=government.Fem.Cons|wordform=gwamnatin
 3	farar̃-hùːlaː	farar̃-hùːlaː	NOUN	_	_	2	mod	_	Gloss=XX
 4	ta	ta	ADP	_	Case=Gen|Gender=Fem	1	comp:obj	_	Gloss=XX
 5	kàrɓi	kàrɓi	VERB	_	_	4	comp:obj	_	Gloss=XX

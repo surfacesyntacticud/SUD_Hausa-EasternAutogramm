@@ -751,7 +751,7 @@
 
 # sent_id = 14_Miyagun_kwayoyi__24
 # text = Wani bàyaːnìn baːya-baːya yaː fitoː dàgà bàːkin uwargidan Mr Oyakhilome, indà ta yi tir̃ dà shàːgùɓeː dà sukà shàːfi wata dàngàntakàː tsàkaːnin mijìn naːtà dà Miss Madike.
-1	Wani	wani	DET	_	Number=Plur|PronType=Dem	4	subj	_	Gloss=XX
+1	Wani	wani	DET	_	Definite=Spec	2	det	_	Gloss=wani.Masc
 2	bàyaːnìn	bàyaːnìː	NOUN	_	Definite=Cons|Gender=Masc	4	subj	_	Gloss=XX
 3	baːya-baːya	baːya-baːya	ADJ	_	Number=Plur	2	mod	_	Gloss=XX
 4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
@@ -759,17 +759,17 @@
 6	dàgà	dàgà	ADP	_	_	5	comp:obl	_	Gloss=from
 7	bàːkin	bàːkin	ADP	_	Definite=Cons|Gender=Masc	6	comp:obj	_	Gloss=XX
 8	uwargidan	uwargidaː	NOUN	_	Definite=Cons|Number=Plur	7	mod	_	Gloss=XX
-9	Mr	Mr	PROPN	_	_	8	mod	_	Gloss=Mr
-10	Oyakhilome	Oyakhilome	PROPN	_	_	9	flat@name	_	Gloss=Oyakhilome|SpaceAfter=No
+9	Mr	Mr	PROPN	_	_	10	mod@desc	_	Gloss=Mr
+10	Oyakhilome	Oyakhilome	PROPN	_	_	8	mod	_	Gloss=Oyakhilome|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
-12	indà	indà	ADV	_	PronType=Rel	5	mod	_	Gloss=where
-13	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	12	mod@relcl	_	Gloss=XX
+12	indà	indà	ADV	_	PronType=Rel	14	mod	_	Gloss=where
+13	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	2	mod@relcl	_	Gloss=XX
 14	yi	yi	VERB	_	_	13	comp:aux	_	Gloss=do
-15	tir̃	t-	VERB	_	Definite=Cons|Gender=Fem	14	comp:pred	_	Gloss=XX
+15	tir̃	tir̃	IDEO	_	_	14	comp:pred	_	Gloss=XX
 16	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=XX
 17	shàːgùɓeː	shàːgùɓeː	NOUN	_	Gender=Masc	16	comp:obj	_	Gloss=XX
-18	dà	dà	SCONJ	_	_	17	cc	_	Gloss=COMP
-19	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	12	mod@relcl	_	Gloss=XX
+18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
+19	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	18	comp:obj	_	Gloss=XX
 20	shàːfi	shàːfi	VERB	_	ExtPos=NOUN|Gender=Fem	19	comp:aux	_	Gloss=XX
 21	wata	wani	DET	_	Definite=Spec|Gender=Masc	22	det	_	Gloss=some.Fem.Spec
 22	dàngàntakàː	dàngànta	NOUN	_	Gender=Fem	20	comp:obj	_	Gloss=XX

@@ -304,13 +304,13 @@
 18	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	17	comp:obj	_	Gloss=Cameroon
 19	dà	dà	CCONJ	_	_	20	cc	_	Gloss=XX
 20	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	18	conj:coord	_	Gloss=Nigeria|SpaceAfter=No
-21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
-22	indà	indà	ADV	_	PronType=Rel	15	mod@relcl	_	Gloss=where
+21	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
+22	indà	indà	ADV	_	PronType=Rel	29	mod	_	Gloss=where
 23	sabòːdà	sabòːdà	ADP	_	_	27	mod	_	Gloss=because_of
 24	yanàyin	yanàyiː	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=nature.Masc.Cons
 25	duwàːtsun	duːtsèː	VERB	_	Definite=Cons|Number=Plur	24	mod	_	Gloss=stone.Plur.Cons
 26	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	25	mod	_	Gloss=place.Masc.Def
-27	anàː	nàː	AUX	_	Aspect=Prog|Person=4	22	comp:obj	_	Gloss=XX
+27	anàː	nàː	AUX	_	Aspect=Prog|Person=4	15	mod@relcl	_	Gloss=XX
 28	iyà	iy-	VERB	_	_	27	comp:aux	_	Gloss=XX
 29	saːmùn	saːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	28	comp:obj	_	Gloss=XX
 30	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=type.Masc.Cons
