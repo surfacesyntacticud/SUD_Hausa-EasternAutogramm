@@ -283,16 +283,18 @@
 12	nuːnà	nuːn-	VERB	_	_	11	comp:aux	_	Gloss=show
 13	rashìn	rashìː	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	Gloss=XX
 14	goːyon	goːyon	NOUN	_	Definite=Cons|Number=Plur	13	mod	_	Gloss=XX
-15	baːyansù	baːyaːsù	NOUN	_	Case=Gen|Number=Plur|Person=3	17	mod	_	Gloss=XX
-16	gà	gà	ADP	_	_	12	mod	_	Gloss=XX
-17	maːmàyêːwâr̃	maːmàyêːwâː	NOUN	_	Number=Plur	16	comp:obj	_	Gloss=XX
-18	dà	dà	SCONJ	_	_	17	cc	_	Gloss=XX
-19	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	20	subj	_	Gloss=Irak
-20	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	18	comp:obj	_	Gloss=XX
-21	yi	yi	VERB	_	_	20	comp:aux	_	Gloss=XX
-22	wà	wà	ADP	_	Case=Dat	21	comp:obl	_	Gloss=XX
-23	Kùwât	Kùwât	PROPN	_	_	22	comp:obj	_	Gloss=Kùwât
-24	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+15-16	baːyansù	_	_	_	_	_	_	_	_
+15	baːyan	baːyaː	NOUN	_	_	14	comp:obj	_	Gloss=back.Masc.Cons
+16	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3	15	mod	_	Gloss=3Plur.Gen
+17	gà	gà	ADP	_	_	12	mod	_	Gloss=XX
+18	maːmàyêːwâr̃	maːmàyêːwâː	NOUN	_	Number=Plur	17	comp:obj	_	Gloss=XX
+19	dà	dà	SCONJ	_	_	18	cc	_	Gloss=XX
+20	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	21	subj	_	Gloss=Irak
+21	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	19	comp:obj	_	Gloss=XX
+22	yi	yi	VERB	_	_	21	comp:aux	_	Gloss=XX
+23	wà	wà	ADP	_	Case=Dat	22	comp:obl	_	Gloss=XX
+24	Kùwât	Kùwât	PROPN	_	_	23	comp:obj	_	Gloss=Kùwât
+25	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha__8
 # text = Yanàː kuma dà rashìn goːyon baːyan harìn dà ƙasàːshen ƙàwànceː kèː kai wà Ìr̃aːƙì , wandà akà yi hanzarin kâiwaː bàː tàːre dà barìn tàːkunkùmîn dà akà sâː wà Ìr̃aːƙì daːmar̃ yîn aikìː ba.
@@ -373,18 +375,18 @@
 13	yi	yi	VERB	_	_	12	comp:aux	_	Gloss=XX
 14	zàngà-zangàr̃	zàngà-zangàr̃	NOUN	_	Definite=Cons|Gender=Masc	13	comp:pred	_	Gloss=XX
 15	nuːnà	nuːn-	DET	_	_	14	mod	_	Gloss=show
-16	rashìn	rashìː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp:obj	_	Gloss=XX
-17	goːyon	goːyaː	NUM	_	_	16	mod	_	_
-18	baːyan	baːyan	ADP	_	_	14	mod	_	Gloss=XX
-19	Shùːgàbaː	Shùːgàbaː	PROPN	_	_	18	comp:obj	_	Gloss=Shùːgàbaː
+16	rashìn	rashìː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:obj	_	Gloss=XX
+17	goːyon	goːyaː	NOUN	_	_	16	mod	_	_
+18	baːyan	baːyan	NOUN	_	_	17	comp:obj	_	Gloss=XX
+19	Shùːgàbaː	Shùːgàbaː	PROPN	_	_	21	mod@desc	_	Gloss=Shùːgàbaː
 20	"	"	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-21	George	George	PROPN	_	_	19	flat@name	_	Gloss=George
+21	George	George	PROPN	_	_	18	mod	_	Gloss=George
 22	Bush	Bush	PROPN	_	_	21	flat@name	_	Gloss=Bush
 23	"	"	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-24	dà	dà	CCONJ	_	_	26	cc	_	Gloss=XX
+24	dà	dà	CCONJ	_	_	27	cc	_	Gloss=XX
 25	kuma	kuma	PART	_	_	24	discourse@top	_	Gloss=also
-26	Shùːgàbaː	Shùːgàbaː	PROPN	_	_	19	conj:coord	_	Gloss=Shùːgàbaː
-27	Saddam	Saddam	PROPN	_	_	26	flat@name	_	Gloss=Saddam
+26	Shùːgàbaː	Shùːgàbaː	PROPN	_	_	27	mod@desc	_	Gloss=Shùːgàbaː
+27	Saddam	Saddam	PROPN	_	_	21	conj:coord	_	Gloss=Saddam
 28	Hussein	Hussein	PROPN	_	_	27	flat@name	_	Gloss=Hussein|SpaceAfter=No
 29	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
@@ -421,28 +423,32 @@
 29	dà	dà	ADP	_	_	28	comp:obl	_	Gloss=XX
 30	zàngà-zangàr̃	zàngà-zangàr̃	NOUN	_	Definite=Cons|Gender=Fem	27	conj:coord	_	Gloss=XX
 31	lùmaːnàr̃	lùmaːnàr̃	NOUN	_	_	30	mod	_	Gloss=XX
-32	dà	dà	SCONJ	_	_	41	mod@relcl	_	Gloss=XX
+32	dà	dà	SCONJ	_	_	31	mod@relcl	_	Gloss=XX
 33	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	32	comp:obj	_	Gloss=XX
 34	shiryà	shir-	VERB	_	_	33	comp:aux	_	Gloss=XX
 35	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	34	comp:obj	_	Gloss=XX
 36	don	don	SCONJ	_	_	25	mod	_	Gloss=XX
 37	nuːnà	nuːn-	VERB	_	_	36	comp:obj	_	Gloss=show
-38	rashìn	rashìː	NOUN	_	Definite=Cons|Gender=Masc	34	comp:obj	_	Gloss=XX
-39	amìncêːwar̃sù	amìncêːwarːsù	NOUN	_	Number=Plur	38	comp:obj	_	Gloss=XX
-40	dà	dà	CCONJ	_	_	30	cc	_	Gloss=XX|wordform=ɗà
-41	harìn	harìː	NOUN	_	Definite=Cons|Gender=Masc	27	conj:coord	_	Gloss=XX
-42	dà	dà	SCONJ	_	_	41	mod@relcl	_	Gloss=COMP
-43	ƙasar̃	ƙasaː	NOUN	_	_	44	mod@desc	_	Gloss=XX|SpaceAfter=No
-44	Amìr̃kà	Amìr̃kà	PROPN	_	_	42	comp:obj	_	Gloss=America
-45	dà	dà	CCONJ	_	_	41	cc	_	Gloss=XX
-46	àːbòːkan	àːbòːkaː	NOUN	_	Definite=Cons|Number=Plur	33	subj	_	Gloss=XX
-47	ƙàwàncentà	ƙàwànceːtà	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur|Person=3	46	mod	_	Gloss=XX
-48	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	33	parataxis@conj	_	Gloss=XX
-49	kai	kai	VERB	_	_	48	comp:aux	_	Gloss=XX
-50	wà	wà	ADP	_	Case=Dat	49	comp:obl	_	Gloss=XX
-51	ƙasar̃	ƙasaː	NOUN	_	_	52	mod@desc	_	Gloss=XX
-52	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	50	comp:obj	_	Gloss=Irak|SpaceAfter=No
-53	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+38	rashìn	rashìː	VERB	_	Definite=Cons|Gender=Masc	37	comp:obj	_	Gloss=XX
+39-40	amìncêːwar̃sù	_	_	_	_	_	_	_	_
+39	amìncêːwar̃	amint-	VERB	_	Number=Plur	38	comp:obj	_	Gloss=agree.Vnoun.Fem.Cons
+40	sù	sù	PRON	_	Number=Plur	39	subj	_	Gloss=XX
+41	dà	dà	ADP	_	_	39	comp:obl	_	Gloss=XX|wordform=ɗà
+42	harìn	harìː	NOUN	_	Definite=Cons|Gender=Masc	41	comp:obj	_	Gloss=XX
+43	dà	dà	SCONJ	_	_	42	mod@relcl	_	Gloss=COMP
+44	ƙasar̃	ƙasaː	NOUN	_	_	45	mod@desc	_	Gloss=XX|SpaceAfter=No
+45	Amìr̃kà	Amìr̃kà	PROPN	_	_	50	subj	_	Gloss=America
+46	dà	dà	CCONJ	_	_	47	cc	_	Gloss=XX
+47	àːbòːkan	àːbòːkaː	NOUN	_	Definite=Cons|Number=Plur	45	conj:coord	_	Gloss=XX
+48-49	ƙàwàncentà	_	_	_	_	_	_	_	_
+48	ƙàwàncen	ƙàwàncen	NOUN	_	Definite=Cons	47	mod	_	Gloss=coalition.Masc.Cons
+49	tà	tà	PRON	_	Gender=Fem|Person=3	48	mod@poss	_	Gloss=3Fem.Gen
+50	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	43	mod@relcl	_	Gloss=XX
+51	kai	kai	VERB	_	_	50	comp:aux	_	Gloss=XX
+52	wà	wà	ADP	_	Case=Dat	51	comp:obl	_	Gloss=XX
+53	ƙasar̃	ƙasaː	NOUN	_	_	54	mod@desc	_	Gloss=XX
+54	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	52	comp:obj	_	Gloss=Irak|SpaceAfter=No
+55	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha__13
 # text = Tun dà duku-duku nèː 'yan sàndan kashè tàr̃zòːmâr̃ sukà jeː hàr̃aːbàr̃ jaːmi'àr̃ sukà yi wà wurîn ƙawanyàː, sànnan kuma sukà kullèː duk ƙoːfoːfîn dà mânyan kwaːɗunàː.
