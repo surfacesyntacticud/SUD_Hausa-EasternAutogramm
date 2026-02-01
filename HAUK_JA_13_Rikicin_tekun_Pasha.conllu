@@ -143,7 +143,7 @@
 38	Amìr̃kà	Amìr̃kà	PROPN	_	_	37	mod	_	Gloss=Amìr̃kà|SpaceAfter=No
 39	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
-# sent_id = 13_Rikicin_tekun_Pasha__6a
+# sent_id = 13_Rikicin_tekun_Pasha__5
 # text = Hakà kuma anàː zàton cêːwaː à haːlin yànzu anàː rarràbà wasu tàkàr̃duː à areːwacin Nàːjeːr̃iyàː waɗàndà sukà sòːki àbîn dà ƙasàːshen ƙàwànceː sukèː wà Ìr̃aːƙì .
 1	Hakà	hakà	ADV	_	_	3	mod	_	Gloss=XX
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=too
@@ -172,7 +172,7 @@
 25	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	24	comp:obj	_	Gloss=Irak
 26	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
-# sent_id = 13_Rikicin_tekun_Pasha__6b
+# sent_id = 13_Rikicin_tekun_Pasha__6
 # text = Wani jàwaːbìː dà akà bugàː à wata jàr̃iːdàː, wandà akà cêː yanàː bayyànàː r̃a'àyin wata bàbbar̃ ƙungìyar̃ mùsùlmin areːwacin Nàːjeːr̃iyàː neː, yaː yi kiràː gà dukkàn mùsùlmiː dà sù taːshì tsàye sù bayyànà r̃a'àyinsù à gàme dà rìkicin Tèːkun Paːshà ɗîn.
 1	Wani	wani	DET	_	Number=Plur|PronType=Dem	2	det	_	Gloss=XX
 2	jàwaːbìː	jàwaːbìː	NOUN	_	Number=Plur	0	root	_	Gloss=XX
@@ -584,4 +584,46 @@
 37	ɓarkèːwar̃	ɓarkèːwaː	NOUN	_	Definite=Cons|Gender=Fem	36	mod	_	Gloss=XX|wordform=barkeːwar
 38	taːshìn	taːshìː	NOUN	_	Definite=Cons|Gender=Masc	36	mod	_	Gloss=XX
 39	hankàliː	hankàliː	NOUN	_	_	38	mod	_	Gloss=XX
+
+# sent_id = 13_Rikicin_tekun_Pasha__4
+# text = À sanâr̃wâr̃ taːsà dai, Sarkin Mùsùlmiː bài fitoː fiːliː yaː bayyànà tàkàr̃dûn dà yakèː màganàː à kâi bà, tòː àmmaː à 'yan kwàːnàkin nàn jàr̃ìːdun Nàːjeːr̃iyàː sun shaː bugà shar̃hìː dà kèː nuːnà ƙîn jinin Amìr̃kà.
+1	À	à	ADP	_	_	8	mod	_	Gloss=XX|wordform=A
+2	sanâr̃wâr̃	sanâr̃wâː	NOUN	_	Definite=Cons|Gender=Fem	1	comp:obj	_	Gloss=XX
+3	taːsà	taːsà	ADV	_	_	2	mod	_	Gloss=XX
+4	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyhow|SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+6	Sarkin	Sarkin	PROPN	_	Definite=Cons|Gender=Masc	8	subj	_	Gloss=Sarkin
+7	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	6	flat@name	_	Gloss=Muslim.Plur
+8	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	0	root	_	Gloss=XX
+9	fitoː	fit-	VERB	_	_	8	comp:aux	_	Gloss=come_out
+10	fiːliː	fiːliː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=open_space.Masc
+11	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	9	comp:obj	_	Gloss=XX
+12	bayyànà	bayy	VERB	_	_	11	comp:aux	_	Gloss=XX
+13	tàkàr̃dûn	tàkàr̃dûː	NOUN	_	Definite=Cons	12	comp:obj	_	Gloss=XX
+14	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=COMP
+15	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	14	comp:obj	_	Gloss=XX
+16	màganàː	màganàː	NOUN	_	Gender=Fem	15	comp:aux	_	Gloss=XX
+17	à	à	ADP	_	_	12	mod	_	Gloss=at
+18	kâi	kâi	NOUN	_	_	17	comp:obj	_	Gloss=XX
+19	bà	bà	PART	_	Polarity=Neg	29	mod	_	Gloss=XX|SpaceAfter=No
+20	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
+21	tòː	tòː	INTJ	_	_	29	discourse	_	Gloss=XX
+22	àmmaː	àmmaː	CCONJ	_	_	29	cc	_	Gloss=XX
+23	à	à	ADP	_	ExtPos=ADP	29	mod	_	Gloss=at
+24	'yan	ɗan	ADJ	_	Definite=Cons|Number=Plur	23	comp:obj	_	Gloss=XX
+25	kwàːnàkin	kwàːnàkiː	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=XX
+26	nàn	nàn	DET	_	PronType=Dem	25	det	_	Gloss=XX
+27	jàr̃ìːdun	jàr̃ìːduː	NOUN	_	Definite=Cons|Gender=Masc	24	mod	_	Gloss=XX
+28	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	27	mod	_	Gloss=Nigeria
+29	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	8	parataxis@conj	_	Gloss=XX
+30	shaː	shaː	VERB	_	_	29	comp:aux	_	Gloss=XX
+31	bugà	bug-	VERB	_	_	30	comp:obj	_	Gloss=XX
+32	shar̃hìː	shar̃hìː	NOUN	_	Gender=Masc	31	comp:obj	_	Gloss=XX
+33	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=COMP
+34	kèː	nàː	AUX	_	Aspect=Prog	33	comp:obj	_	Gloss=XX
+35	nuːnà	nuːn-	VERB	_	_	34	comp:aux	_	Gloss=XX
+36	ƙîn	ƙi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	35	comp:obj	_	Gloss=XX
+37	jinin	jiniː	NOUN	_	Definite=Cons|Gender=Masc	36	mod	_	Gloss=XX
+38	Amìr̃kà	Amìr̃kà	PROPN	_	_	37	mod	_	Gloss=Amìr̃kà|SpaceAfter=No
+39	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
