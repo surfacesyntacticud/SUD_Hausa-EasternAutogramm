@@ -81,7 +81,7 @@
 12	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	11	comp:obj	_	Gloss=country.Fem.Cons
 13	Bìːni	Bìːni	PROPN	_	_	12	mod	_	Gloss=Benin_Republic|SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-15	ƙiːlà	ƙiːlà	ADV	_	_	16	mod	_	Gloss=XX
+15	ƙiːlà	ƙiːlà	ADV	_	_	16	mod	_	Gloss=maybe
 16	baːyan	baːyan	SCONJ	_	_	10	mod	_	Gloss=after
 17	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	16	comp:obj	_	Gloss=XX
 18	ɓad	ɓaː	ADV	_	_	17	comp:aux	_	Gloss=XX
@@ -152,7 +152,7 @@
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	niyyàr̃	niyyàː	NOUN	_	Gender=Fem	3	comp:pred	_	Gloss=XX
 5	saːcèː	saːcèː	ADJ	_	Gender=Fem	4	mod	_	Gloss=XX
-6	shîn	shi	PRON	_	Case=Acc|Definite=PrevRef|Gender=Masc|Person=3|PronType=Prs	5	comp:obj	_	Gloss=XX
+6	shîn	shi	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Person=3|PronType=Prs	5	comp:obj	_	Gloss=XX
 7	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 8	cafkèː	cafk-	VERB	_	_	7	comp:aux	_	Gloss=XX
 9	shi	shi	PRON	_	Gender=Masc|Person=3	8	comp:obj	_	Gloss=XX
@@ -234,7 +234,7 @@
 2	wajen	wajen	ADP	_	_	1	comp:obj	_	Gloss=XX
 3	indà	indà	ADV	_	PronType=Rel	2	comp:obj	_	Gloss=where
 4	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	mod@relcl	_	Gloss=XX
-5	kàmaːtà	kàmaːtà	NOUN	_	_	4	comp:aux	_	Gloss=XX
+5	kàmaːtà	kamaːt-	VERB	_	_	4	comp:aux	_	Gloss=be_appropriate
 6	à	à	ADP	_	_	5	comp:obj@agent	_	Gloss=at
 7	r̃ubùːtà	r̃ubùːtà	NOUN	_	Case=Gen|Gender=Fem|Person=3	6	comp:obj	_	Gloss=XX
 8	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	7	comp:obj	_	Gloss=XX
@@ -338,7 +338,7 @@
 11	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko__13a
-# text = à loːkàcin shàr̃iꞌàr̃, mài shàr̃iꞌàː yaː cêː an bayyànà Ùːmar̃ù Dikkò dà cêwaː: “ wani ƙàːsur̃gumin ɓàraːwòː neː dà bà'à taɓà yîn irìnsà ba à duːniyàː. " .
+# text = à loːkàcin shàr̃iꞌàr̃, mài shàr̃iꞌàː yaː cêː an bayyànà Ùːmar̃ù Dikkò dà cêːwaː: “ wani ƙàːsur̃gumin ɓàraːwòː neː dà bà'à taɓà yîn irìnsà ba à duːniyàː. ".
 # text_ortho = À loːkàcin shàr̃iꞌàr̃, Mài Shàr̃iꞌàː yaː cêː an bayyànà Ùːmar̃ù Dikkò dà cêwaː: “Wani ƙàːsur̃gumin ɓàraːwòː neː dà bà à taɓà yîn irìnsà ba à duːniyàː.” Sai à watàn Jànair̃u na shekaràr̃ alif dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː Gwamnatìn Nàjeːr̃iyàː ta bùkàːci Bìr̃taːniyà tà miːƙàː matà shiː don à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː kân lâifin cîn hancìː dà kàrɓar̃ r̃ashawaː ta fâm miliyàn bàr̃kàtài.
 1	à	à	ADP	_	_	7	mod	_	Gloss=at
 2	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	Gloss=time.Masc.Cons
@@ -353,7 +353,7 @@
 11	Ùːmar̃ù	Ùːmar̃ù	PROPN	_	_	10	comp:obj	_	Gloss=Ùːmar̃ù
 12	Dikkò	Dikkò	PROPN	_	_	11	flat@name	_	Gloss=Dikkò
 13	dà	dà	ADP	_	_	10	comp:obl	_	Gloss=XX
-14	cêːwaː	cêwaː	SCONJ	_	Gender=Fem	13	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=cêwaː
+14	cêːwaː	cêː	VERB	_	Gender=Fem	13	comp:obj	_	Gloss=say.Vnoun.Fem|SpaceAfter=No|wordform=cêwaː
 15	:	:	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 16	“	“	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 17	wani	wani	DET	_	Definite=Spec|Gender=Masc	19	det	_	Gloss=some.Masc.Spec
@@ -503,7 +503,7 @@
 32	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko__16
-# text = à wàncan loːkàcîn dà ya kai ƙaːrar̃ neːman à baː shì mafakaː à nân Bìr̃tàniyà, Ùːmar̃ù Dikkò cêwaː ya yi, " in dàː zân koːmàː Nàjeːr̃iyàː, jàmaꞌàː zaː'à taːràː sù yi kallon loːkàcîn dà zaː'à sâː soːjà sù bindìgeː ni. ".
+# text = à wàncan loːkàcîn dà ya kai ƙaːrar̃ neːman à baː shì mafakaː à nân Bìr̃tàniyà, Ùːmar̃ù Dikkò cêːwaː ya yi, " in dàː zân koːmàː Nàjeːr̃iyàː, jàmaꞌàː zaː'à taːràː sù yi kallon loːkàcîn dà zaː'à sâː soːjà sù bindìgeː ni. ".
 # text_ortho = À wàncan loːkàcîn dà ya kai ƙaːrar̃ neːman à baː shì mafakaː à nân Bìr̃tàniyà, Ùːmar̃ù Dikkò cêwaː ya yi, ‘In dàː zân koːmàː Nàjeːr̃iyàː, jàmaꞌàː zaː à taːràː sù yi kallon loːkàcîn dà zaː à sâː soːjà sù bindìgeː ni.’
 1	à	à	ADP	_	_	19	mod	_	Gloss=at
 2	wàncan	wàncan	DET	_	Gender=Masc|PronType=Dem	3	det	_	Gloss=XX
@@ -514,7 +514,7 @@
 7	ƙaːrar̃	ƙaːraː	NOUN	_	Definite=Cons|Gender=Fem	6	mod	_	Gloss=XX
 8	neːman	neːm-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	mod	_	Gloss=XX
 9	à	yà	AUX	_	Mood=Sub|Person=4	8	comp:obj	_	Gloss=XX
-10	baː	baː	VERB	_	_	9	comp:aux	_	Gloss=XX
+10	baː	baː	VERB	_	_	9	comp:aux	_	Gloss=give
 11	shì	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	10	comp:obj@R	_	Gloss=XX
 12	mafakaː	mafakaː	NOUN	_	Gender=Fem	10	comp:obj@T	_	Gloss=XX
 13	à	à	ADP	_	_	10	mod	_	Gloss=at
@@ -523,7 +523,7 @@
 16	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 17	Ùːmar̃ù	Ùːmar̃ù	PROPN	_	_	19	dislocated@subj	_	Gloss=Ùːmar̃ù
 18	Dikkò	Dikkò	PROPN	_	_	17	flat@name	_	Gloss=Dikkò
-19	cêːwaː	cêwaː	SCONJ	_	Gender=Fem	0	root	_	Gloss=XX|wordform=cêwaː
+19	cêːwaː	cêː	VERB	_	Gender=Fem	0	root	_	Gloss=say.Vnoun.Fem|wordform=cêwaː
 20	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	19	comp:cleft	_	Gloss=XX
 21	yi	yi	VERB	_	_	20	comp:aux	_	Gloss=do|SpaceAfter=No
 22	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
@@ -534,7 +534,7 @@
 27	koːmàː	koːm-	VERB	_	_	26	comp:aux	_	Gloss=go_(back)_to
 28	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	27	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 29	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
-30	jàmaꞌàː	jàmaꞌàː	NOUN	_	Gender=Fem	19	comp:obj	_	Gloss=XX
+30	jàmaꞌàː	jàmaꞌàː	NOUN	_	Gender=Fem	19	parataxis	_	Gloss=XX
 31	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	30	comp:cleft	_	Gloss=XX
 32	taːràː	taːr-	VERB	_	_	31	comp:aux	_	Gloss=XX
 33	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3|PronType=Prs	32	comp:obj	_	Gloss=XX
@@ -629,7 +629,7 @@
 2	nan	nan	DET	_	Definite=Def|PronType=Dem	1	det	_	Gloss=XX
 3	à	à	ADP	_	_	14	mod	_	Gloss=at
 4	bàːr̃a	bàːr̃a	VERB	_	_	3	comp:obj	_	Gloss=XX
-5	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	4	det	_	Gloss=XX
+5	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	4	det	_	Gloss=Def
 6	wani	wani	DET	_	Definite=Spec|Gender=Masc	7	det	_	Gloss=some.Masc.Spec
 7	lauyàː	lauyàː	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=XX
 8	na	na	ADP	_	_	7	mod	_	Gloss=XX

@@ -47,10 +47,10 @@
 39	fursùnà	furs	NOUN	_	Number=Plur	37	comp:obj	_	Gloss=XX
 40	fìye	fi	VERB	_	ExtPos=ADV|VerbForm=Stat	36	mod	_	Gloss=exceed.Stat
 41	dà	dà	ADP	_	_	39	comp:obl	_	Gloss=XX|wordform=da
-42	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	41	comp:obj	_	Gloss=XX
+42	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	41	comp:obj	_	Gloss=quantity.Masc.Cons
 43	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	46	subj	_	Gloss=who.Plur|wordform=wadandal
 44	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	29	conj:coord	_	Gloss=XX
-45	kàmaːtà	kàmaːtà	VERB	_	_	44	comp:aux	_	Gloss=XX
+45	kàmaːtà	kamaːt-	VERB	_	_	44	comp:aux	_	Gloss=be_appropriate
 46	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	45	comp:obj@agent	_	Gloss=XX
 47	kasànceː	kasant-	VERB	_	_	46	comp:aux	_	Gloss=XX
 48	à	à	ADP	_	_	47	mod	_	Gloss=at
@@ -362,7 +362,7 @@
 11	dàɓeː	dàɓeː	NOUN	_	_	10	comp:obj	_	Gloss=XX
 12	sabòːdà	sabòːdà	SCONJ	_	_	6	mod	_	Gloss=because
 13	baː'à	nàː	AUX	_	Aspect=Prog|Person=4|Polarity=Neg	12	comp:obj	_	Gloss=XX
-14	baː	baː	VERB	_	_	13	comp:aux	_	Gloss=XX
+14	baː	baː	VERB	_	_	13	comp:aux	_	Gloss=give
 15	sù	su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	comp:obj@R	_	Gloss=XX
 16	bar̃gunàː	bar̃gunàː	NOUN	_	ExtPos=NOUN|Gender=Fem	14	comp:obj@T	_	Gloss=XX|SpaceAfter=No
 17	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
@@ -432,7 +432,7 @@
 5	ci	ci	VERB	_	_	4	comp:aux	_	Gloss=XX
 6	gàba	gàba	ADV	_	_	5	mod	_	Gloss=front
 7	dà	dà	CCONJ	_	_	5	comp:obl	_	Gloss=XX|wordform=ɗà
-8	cêːwaː	cêː	SCONJ	_	Gender=Fem	7	comp:obj	_	Gloss=XX
+8	cêːwaː	cêː	VERB	_	Gender=Fem	7	comp:obj	_	Gloss=say.Vnoun.Fem
 9	anàː	nàː	AUX	_	Aspect=Prog|Person=4	8	comp:obj	_	Gloss=XX
 10	saːmùn	saːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:aux	_	Gloss=XX
 11	sauroː	sauroː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=XX
@@ -487,8 +487,8 @@
 5	ci	ci	VERB	_	_	3	comp:aux	_	Gloss=XX
 6	gàba	gàba	ADV	_	_	5	mod	_	Gloss=front
 7	dà	dà	CCONJ	_	_	5	comp:obl	_	Gloss=XX
-8	cêːwaː	cêː	SCONJ	_	Gender=Fem	7	comp:obj	_	Gloss=XX
-9	yawàn	yawàː	ADJ	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=XX
+8	cêːwaː	cêː	VERB	_	Gender=Fem	7	comp:obj	_	Gloss=say.Vnoun.Fem
+9	yawàn	yawàː	ADJ	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=quantity.Masc.Cons
 10	àbincîn	àbinciː	NOUN	_	Definite=Cons|Gender=Masc	9	mod	_	Gloss=XX
 11	daː	daː	PART	_	_	10	mod@relcl	_	Gloss=XX
 12	akèː	nàː	AUX	_	Aspect=Prog|Person=4	6	comp:obj	_	Gloss=XX|wordform=akề
@@ -531,7 +531,7 @@
 16	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 17	yi	yi	VERB	_	_	16	comp:aux	_	Gloss=do
 18	ƙaranciː	ƙaranciː	NOUN	_	Gender=Masc	17	comp:pred	_	Gloss=XX
-19	ƙwar̃ai	ƙwar̃ai	ADV	_	_	18	mod	_	Gloss=XX|SpaceAfter=No
+19	ƙwar̃ai	ƙwar̃ai	ADV	_	_	18	mod	_	Gloss=really|SpaceAfter=No
 20	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 21	kuma	kuma	PART	_	_	26	cc	_	Gloss=too
 22	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	23	det	_	Gloss=some.Plur.Spec
@@ -566,7 +566,7 @@
 10	tar̃à	tar̃à	NUM	_	_	8	conj:coord	_	Gloss=nine
 11	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=COMP
 12	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	11	comp:obj	_	Gloss=XX
-13	mutù	mut-	VERB	_	_	12	comp:aux	_	Gloss=XX
+13	mutù	mutù	VERB	_	_	12	comp:aux	_	Gloss=die
 14	à	à	ADP	_	_	13	mod	_	Gloss=at
 15	kûr̃kukùn	kûr̃kukuː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:obj	_	Gloss=XX
 16	à	à	AUX	_	Mood=Sub|Person=4	13	mod	_	Gloss=XX
@@ -623,7 +623,7 @@
 11	yaːrìn	yaːrìː	NOUN	_	Definite=Def|Gender=Masc	10	mod	_	Gloss=XX
 12	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=COMP
 13	kè:	keː	AUX	_	Aspect=Prog	12	comp:obj	_	Gloss=XX
-14	cêːwaː	cêwaː	SCONJ	_	ExtPos=NOUN|Gender=Fem	8	conj:appos	_	Gloss=XX
+14	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem	13	comp:aux	_	Gloss=say.Vnoun.Fem
 15	anàː	nàː	AUX	_	Aspect=Prog|Person=4	14	comp:obj	_	Gloss=XX
 16	tsarè	tsar-	VERB	_	_	15	comp:aux	_	Gloss=XX
 17	mutàːneː	mùtûm	NOUN	_	Number=Plur	16	comp:obj	_	Gloss=XX
@@ -637,8 +637,8 @@
 25	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 26	kuma	kuma	PART	_	_	27	cc	_	Gloss=too
 27	à	yà	AUX	_	Mood=Sub|Person=4	15	conj:coord	_	Gloss=XX
-28	saːkè	saːkèː	VERB	_	_	27	comp:aux	_	Gloss=XX
-29	baː	baː	VERB	_	Polarity=Neg	28	comp:obj	_	Gloss=XX
+28	saːkè	saːk-	VERB	_	_	27	comp:aux	_	Gloss=repeat
+29	baː	baː	VERB	_	Polarity=Neg	28	comp:obj	_	Gloss=give
 30	sù	yà	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	29	comp:obj@R	_	Gloss=XX
 31	ƙarfin	ƙarfiː	NOUN	_	Definite=Cons|Gender=Masc	29	subj	_	Gloss=XX
 32	gwiːwàː	gwiːwàː	NOUN	_	_	31	mod	_	Gloss=XX|SpaceAfter=No

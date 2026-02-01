@@ -184,7 +184,7 @@
 24	bayyànà	bayy	VERB	_	_	23	comp:aux	_	Gloss=XX
 25	kânsà	kânsà	PRON	_	Gender=Masc|Person=3|PronType=Prs|Reflex=Yes	24	comp:obj	_	Gloss=3Masc.Reflex
 26	dà	dà	ADP	_	_	24	comp:obl	_	Gloss=XX
-27	cêːwaː	cêwaː	SCONJ	_	ExtPos=NOUN|Gender=Fem	26	comp:obj	_	Gloss=XX|wordform=cêwaː
+27	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem	26	comp:obj	_	Gloss=say.Vnoun.Fem|wordform=cêwaː
 28	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	32	comp:pred	_	Gloss=XX
 29	bàbban	bàbbaː	ADJ	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=XX
 30	ɗan	ɗaː	ADJ	_	Definite=Cons|Gender=Masc	32	comp:pred	_	Gloss=XX
@@ -323,7 +323,7 @@
 # sent_id = 14_Miyagun_kwayoyi__10
 # text = Hakà ɗîn kùwa wata dàbaːr̃àː ceː waddà màːsu sùmoːgàr̃ miyàːgun ƙwaːyoːyiː sukèː yawàn yîː.
 1	Hakà	hakà	ADV	_	_	6	mod	_	Gloss=XX
-2	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	1	det	_	Gloss=XX|wordform=din
+2	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	1	det	_	Gloss=Def|wordform=din
 3	kùwa	kùwa	PART	_	_	1	discourse@top	_	Gloss=XX
 4	wata	wani	DET	_	Definite=Spec|Gender=Masc	5	det	_	Gloss=some.Fem.Spec
 5	dàbaːr̃àː	dàbaːr̃àː	NOUN	_	Gender=Fem	6	comp:pred	_	Gloss=XX
@@ -334,7 +334,7 @@
 10	miyàːgun	miyàːguː	NOUN	_	Definite=Cons|Number=Plur	9	comp:obj	_	Gloss=XX
 11	ƙwaːyoːyiː	ƙwaːyoːyiː	NOUN	_	Gender=Masc	10	mod	_	Gloss=XX
 12	sukèː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	5	mod@relcl	_	Gloss=XX
-13	yawàn	yawàn	ADJ	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	12	comp:aux	_	Gloss=XX
+13	yawàn	yawàn	ADJ	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	12	comp:aux	_	Gloss=quantity.Masc.Cons
 14	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	12	comp:aux	_	Gloss=do|SpaceAfter=No
 15	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
@@ -355,7 +355,7 @@
 13	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=XX
 14	hoːdàr̃	hoːdàː	NOUN	_	Gender=Fem	13	comp:obj	_	Gloss=XX
 15	kòːkên	kòːkê	NOUN	_	Definite=Cons|Gender=Masc	14	mod	_	Gloss=XX
-16	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	15	det	_	Gloss=XX
+16	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	15	det	_	Gloss=Def
 17	dàgà	dàgà	ADP	_	_	14	mod	_	Gloss=from
 18	cikin	cikin	ADP	_	_	17	comp:obj	_	Gloss=inside
 19	r̃oːbàr̃	r̃oːbàr̃	NOUN	_	Gender=Fem	18	comp:obj	_	Gloss=XX
@@ -393,7 +393,7 @@
 23	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	15	conj:coord	_	Gloss=XX|wordform=yana
 24	jaːwo	jaːwo	VERB	_	_	23	comp:aux	_	Gloss=XX
 25	muːgùwar̃	muːgùwar̃	NOUN	_	Definite=Cons|Gender=Fem	24	comp:obj	_	Gloss=XX|wordform=muːguːwar
-26	mutuwàː	mutuwàː	NOUN	_	Gender=Fem	25	mod	_	Gloss=XX|SpaceAfter=No
+26	mutuwàː	mutuwàː	NOUN	_	Gender=Fem	25	mod	_	Gloss=death.Fem|SpaceAfter=No
 27	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 14_Miyagun_kwayoyi__12b
@@ -455,7 +455,7 @@
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 11	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	comp:obj	_	Gloss=XX
 12	ƙaːrà	ƙaːr-	VERB	_	_	11	comp:aux	_	Gloss=increase
-13	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	Gloss=XX
+13	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	Gloss=quantity.Masc.Cons
 14	ƙungiyoːyîn	ƙungiyoːyiː	NOUN	_	Definite=Def|Gender=Masc	13	mod	_	Gloss=Masc.Def
 15	dà	dà	SCONJ	_	_	14	mod@relcl	_	Gloss=COMP
 16	kèː	nèːː	AUX	_	Aspect=Prog	15	comp:obj	_	Gloss=XX
