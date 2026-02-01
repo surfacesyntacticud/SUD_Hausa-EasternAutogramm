@@ -8,7 +8,7 @@
 6	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	Number=Plur	5	mod	_	Gloss=Nigeria
 7	gàme	gamàː	VERB	_	ExtPos=ADV|VerbForm=Stat	2	comp:obl	_	Gloss=XX
 8	dà	dà	ADP	_	_	7	compound	_	Gloss=XX
-9	rìkicin	rìkiciː	NOUN	_	Definite=Cons	7	comp:obj	_	Gloss=XX
+9	rìkicin	rìkiciː	NOUN	_	Definite=Cons	7	comp:obj	_	Gloss=crisis.Masc.Cons
 10	Tèːkun	tèːkun	ADP	_	Definite=Cons|Gender=Masc	9	mod	_	Gloss=XX|wordform=tèːkun
 11	Paːshà	Paːshà	PROPN	_	_	10	mod	_	Gloss=Paːshà
 
@@ -173,25 +173,25 @@
 26	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha__6
-# text = Wani jàwaːbìː dà akà bugàː à wata jàr̃iːdàː, wandà akà cêː yanàː bayyànàː r̃a'àyin wata bàbbar̃ ƙungìyar̃ mùsùlmin areːwacin Nàːjeːr̃iyàː neː, yaː yi kiràː gà dukkàn mùsùlmiː dà sù taːshì tsàye sù bayyànà r̃a'àyinsù à gàme dà rìkicin Tèːkun Paːshà ɗîn.
+# text = Wani jàwaːbìː dà akà bugàː à wata jàr̃iːdàː, wandà akà cêː yanàː bayyànà r̃a'àyin wata bàbbar̃ ƙungìyar̃ mùsùlmin areːwacin Nàːjeːr̃iyàː neː, yaː yi kiràː gà dukkàn mùsùlmiː dà sù taːshì tsàye sù bayyànà r̃a'àyinsù à gàme dà rìkicin Tèːkun Paːshà ɗîn.
 1	Wani	wani	DET	_	Number=Plur|PronType=Dem	2	det	_	Gloss=XX
-2	jàwaːbìː	jàwaːbìː	NOUN	_	Definite=Ind|Number=Plur	24	subj	_	Gloss=XX
+2	jàwaːbìː	jàwaːbìː	NOUN	_	_	24	subj	_	Gloss=article.Masc
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=XX|wordform=da
 4	akà	nàː	AUX	_	Aspect=Prog|Person=4	3	comp:obj	_	Gloss=XX|wordform=aka
-5	bugàː	bugàː	VERB	_	_	4	comp:aux	_	Gloss=XX
+5	bugàː	bug-	VERB	_	_	4	comp:aux	_	Gloss=print
 6	à	à	ADP	_	_	5	mod	_	Gloss=at
 7	wata	wata	DET	_	Definite=Spec|Gender=Fem	8	det	_	Gloss=some.Fem
-8	jàr̃iːdàː	jàr̃iːdàː	NOUN	_	Definite=Ind|Gender=Fem	6	comp:obj	_	Gloss=XX|SpaceAfter=No
+8	jàr̃iːdàː	jàr̃iːdàː	NOUN	_	Definite=Ind|Gender=Fem	6	comp:obj	_	Gloss=newspaper.Fem|SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 10	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	13	subj	_	Gloss=XX
 11	akà	nàː	AUX	_	Aspect=Prog|Person=4	2	mod@relcl	_	Gloss=XX
 12	cêː	cêː	VERB	_	_	11	comp:aux	_	Gloss=XX
 13	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	12	comp:obj	_	Gloss=XX|wordform=yanaː
-14	bayyànàː	bayyànàː	VERB	_	ExtPos=NOUN|Gender=Fem	13	comp:aux	_	Gloss=XX
-15	r̃a'àyin	r̃a'àyiː	NOUN	_	Definite=Cons	14	comp:obj	_	Gloss=XX
+14	bayyànà	bayyan-	VERB	_	_	13	comp:aux	_	Gloss=explain
+15	r̃a'àyin	r̃a'àyiː	NOUN	_	Definite=Cons	14	comp:obj	_	Gloss=viewpoint.Masc.Cons
 16	wata	wata	DET	_	Definite=Spec|Gender=Fem	18	det	_	Gloss=some.Fem
-17	bàbbar̃	bàbbar̃	ADJ	_	_	18	mod	_	Gloss=XX|wordform=haːbbar
-18	ƙungìyar̃	ƙungìyaː	ADJ	_	Gender=Fem	15	mod	_	Gloss=XX|wordform=Runglyar
+17	bàbbar̃	bàbbaː	ADJ	_	_	18	mod	_	Gloss=big.Fem.Cons|wordform=haːbbar
+18	ƙungìyar̃	ƙungìyaː	ADJ	_	Gender=Fem	15	mod	_	Gloss=association.Fem.Cons|wordform=Runglyar
 19	mùsùlmin	mùsùlmin	NOUN	_	Definite=Cons|Gender=Masc	18	mod	_	Gloss=XX
 20	areːwacin	areːwaciː	NOUN	_	Definite=Cons|Gender=Masc	19	mod	_	Gloss=XX
 21	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	20	mod	_	Gloss=Nigeria|wordform=Nijeːiyar
@@ -208,16 +208,18 @@
 32	taːshì	taːs-	VERB	_	_	31	comp:aux	_	Gloss=XX
 33	tsàye	tsay-	VERB	_	ExtPos=ADV|VerbForm=Stat	32	mod	_	Gloss=XX
 34	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	31	parataxis@conj	_	Gloss=XX
-35	bayyànà	bayy	VERB	_	_	34	comp:aux	_	Gloss=XX
-36	r̃a'àyinsù	r̃a'àyi	NOUN	_	Case=Gen|Gender=Masc|Person=3	35	comp:obj	_	Gloss=XX
-37	à	à	ADP	_	_	36	comp:obl	_	Gloss=at
-38	gàme	gam-	VERB	_	VerbForm=Stat	37	comp:obj	_	Gloss=gather.Stat
-39	dà	dà	ADP	_	_	38	comp:obl	_	Gloss=XX
-40	rìkicin	rìkiciː	NOUN	_	Definite=Cons|Gender=Masc	39	comp:obj	_	Gloss=XX
-41	Tèːkun	tèːku	NOUN	_	Definite=Cons|Gender=Fem	40	mod	_	Gloss=sea.Fem.Cons
-42	Paːshà	Paːshà	PROPN	_	_	41	mod	_	Gloss=Persia
-43	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	40	det	_	Gloss=XX|SpaceAfter=No
-44	.	.	PUNCT	_	_	24	punct	_	Gloss=PUNCT
+35	bayyànà	bayyan-	VERB	_	_	34	comp:aux	_	Gloss=explain
+36-37	r̃a'àyinsù	_	_	_	_	_	_	_	_
+36	r̃a'àyin	r̃a'àyin	NOUN	_	Gender=Masc	35	comp:obj	_	Gloss=viewpoint.Masc.Cons
+37	sù	sù	PRON	_	Case=Gen|Gender=Masc|Person=3	36	mod@poss	_	Gloss=3Masc.Gen
+38	à	à	ADP	_	_	36	comp:obl	_	Gloss=at
+39	gàme	gam-	VERB	_	VerbForm=Stat	38	comp:obj	_	Gloss=gather.Stat
+40	dà	dà	ADP	_	_	39	comp:obl	_	Gloss=XX
+41	rìkicin	rìkiciː	NOUN	_	Definite=Cons|Gender=Masc	40	comp:obj	_	Gloss=crisis.Masc.Cons
+42	Tèːkun	tèːku	NOUN	_	Definite=Cons|Gender=Fem	41	mod	_	Gloss=sea.Fem.Cons
+43	Paːshà	Paːshà	PROPN	_	_	42	mod	_	Gloss=Persia
+44	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	41	det	_	Gloss=XX|SpaceAfter=No
+45	.	.	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha__7a
 # text = Wani mài màganàː dà yaːwun Sarkin Mùsùlmiː yaː jaddàːdà cêːwaː nuːnà ƙîn jinin Amìr̃kà à Nàːjeːr̃iyàː r̃a'àyin wasu 'yan tsìràːruː nèː , kuma shùːgàbànnin mùsùlmiː sunàː hàƙuriː dà suː nèː kawài sabòːdà 'yancin dà akèː dà shiː à ƙasâr̃ na fàɗar̃ r̃a'àyiː .
@@ -237,7 +239,7 @@
 14	Amìr̃kà	Amìr̃kà	PROPN	_	_	13	mod	_	Gloss=America
 15	à	à	ADP	_	_	12	mod	_	Gloss=at
 16	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	15	comp:obj	_	Gloss=Nigeria
-17	r̃a'àyin	r̃a'àyin	ADP	_	Definite=Cons	11	mod	_	Gloss=XX
+17	r̃a'àyin	r̃a'àyiː	NOUN	_	Definite=Cons	11	mod	_	Gloss=viewpoint.Masc.Cons
 18	wasu	wasu	DET	_	Definite=Spec|Number=Plur	20	det	_	Gloss=some.Plur
 19	'yan	ɗan	ADJ	_	Definite=Cons|Number=Plur	20	mod	_	Gloss=XX
 20	tsìràːruː	tsìràːruː	NOUN	_	Gender=Masc	17	comp:obj	_	Gloss=XX
@@ -262,7 +264,7 @@
 39	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	38	comp:obj	_	Gloss=country.Fem.PrevRef
 40	na	na	ADP	_	Case=Gen	39	mod	_	Gloss=XX
 41	fàɗar̃	fàɗaː	NOUN	_	_	40	comp:obj	_	Gloss=XX|wordform=foːdar
-42	r̃a'àyiː	r̃a'àyiː	NOUN	_	_	41	mod	_	Gloss=XX
+42	r̃a'àyiː	r̃a'àyiː	NOUN	_	_	41	mod	_	Gloss=viewpoint.Masc.Cons
 43	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha__7b
