@@ -191,11 +191,11 @@
 15	r̃a'àyin	r̃a'àyiː	NOUN	_	Definite=Cons	14	comp:obj	_	Gloss=viewpoint.Masc.Cons
 16	wata	wata	DET	_	Definite=Spec|Gender=Fem	18	det	_	Gloss=some.Fem
 17	bàbbar̃	bàbbaː	ADJ	_	_	18	mod	_	Gloss=big.Fem.Cons|wordform=haːbbar
-18	ƙungìyar̃	ƙungìyaː	ADJ	_	Gender=Fem	15	mod	_	Gloss=association.Fem.Cons|wordform=Runglyar
-19	mùsùlmin	mùsùlmin	NOUN	_	Definite=Cons|Gender=Masc	18	mod	_	Gloss=XX
-20	areːwacin	areːwaciː	NOUN	_	Definite=Cons|Gender=Masc	19	mod	_	Gloss=XX
-21	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	20	mod	_	Gloss=Nigeria|wordform=Nijeːiyar
-22	neː	neː	AUX	_	Gender=Masc|Number=Plur	18	discourse@foc	_	Gloss=XX|SpaceAfter=No
+18	ƙungìyar̃	ƙungìyaː	NOUN	_	Gender=Fem	15	mod	_	Gloss=association.Fem.Cons|wordform=Runglyar
+19	mùsùlmin	mùsùlmin	NOUN	_	Definite=Cons	18	mod	_	Gloss=muslims.Plur.Cons
+20	areːwacin	areːwacin	ADP	_	_	19	mod	_	Gloss=north_of
+21	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	20	comp:obj	_	Gloss=Nigeria|wordform=Nijeːiyar
+22	neː	neː	AUX	_	Gender=Masc|Number=Plur	13	discourse@foc	_	Gloss=XX|SpaceAfter=No
 23	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 24	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 25	yi	yi	VERB	_	_	24	comp:aux	_	Gloss=XX
@@ -205,8 +205,8 @@
 29	mùsùlmiː	mùsùlmiː	NOUN	_	Gender=Masc	27	comp:obj	_	Gloss=XX
 30	dà	dà	SCONJ	_	_	29	mod@relcl	_	Gloss=XX
 31	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	30	comp:obj	_	Gloss=XX
-32	taːshì	taːs-	VERB	_	_	31	comp:aux	_	Gloss=XX
-33	tsàye	tsay-	VERB	_	ExtPos=ADV|VerbForm=Stat	32	mod	_	Gloss=XX
+32	taːshì	taːs-	VERB	_	_	31	comp:aux	_	Gloss=get_up
+33	tsàye	tsay-	VERB	_	ExtPos=ADV|VerbForm=Stat	32	mod	_	Gloss=stand.Stat
 34	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	31	parataxis@conj	_	Gloss=XX
 35	bayyànà	bayyan-	VERB	_	_	34	comp:aux	_	Gloss=explain
 36-37	r̃a'àyinsù	_	_	_	_	_	_	_	_
@@ -579,6 +579,6 @@
 35	àːkwai	àːkwai	PART	_	_	33	comp:obj	_	Gloss=XX
 36	yìːwuwar̃	yìːwuwaː	NOUN	_	Definite=Cons|Gender=Fem	33	comp:obj	_	Gloss=XX
 37	ɓarkèːwar̃	ɓarkèːwaː	NOUN	_	Definite=Cons|Gender=Fem	36	mod	_	Gloss=XX|wordform=barkeːwar
-38	taːshìn	taːshìː	NOUN	_	Definite=Cons|Gender=Masc	36	mod	_	Gloss=XX
+38	taːshìn	taːs-	NOUN	_	Definite=Cons|Gender=Masc	36	mod	_	Gloss=rise.Vnoun.Masc.Cons
 39	hankàliː	hankàliː	NOUN	_	_	38	mod	_	Gloss=XX
 
