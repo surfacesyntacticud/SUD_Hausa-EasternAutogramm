@@ -199,7 +199,7 @@
 # sent_id = 09_Salman_Rushdie__9b
 # text = sabòːdà hakà à hawaː na ɗaya sai wasu mutàneː suː biyu sukà shìga yîn zàngà-zangà ta ƙîn jinin à bugà wannàn littaːfìn dà harshèn Tuːr̃anciː.
 1	sabòːdà	sabòːdà	ADP	_	_	12	mod	_	Gloss=because_of
-2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=XX
+2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=thus
 3	à	yà	AUX	_	Mood=Sub|Person=4	12	mod	_	Gloss=XX
 4	hawaː	hawaː	NOUN	_	_	3	comp:aux	_	Gloss=floor.Masc
 5	na	na	ADP	_	_	4	comp:obj	_	Gloss=XX
@@ -263,7 +263,7 @@
 # text = À yànzu hakà maː shiː wannàn mùtumìn yanàː can à asìbitì anàː yi masà maːgàniː.
 1	À	à	ADP	_	_	8	mod	_	Gloss=XX
 2	yànzu	yànzu	ADV	_	_	1	comp:obj	_	Gloss=XX
-3	hakà	hakà	ADV	_	_	8	mod	_	Gloss=XX
+3	hakà	hakà	ADV	_	_	8	mod	_	Gloss=thus
 4	maː	maː	PART	_	_	3	discourse@top	_	Gloss=XX
 5	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	dislocated@subj	_	Gloss=XX
 6	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	7	det	_	Gloss=Prox.Sing
@@ -290,18 +290,18 @@
 8	harìː	harìː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=XX
 9	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 10	zàci	zat-	AUX	_	_	9	comp:aux	_	Gloss=think
-11	cêːwaː	cêːwaː	SCONJ	_	_	10	comp:obj	_	Gloss=XX
+11	cêːwaː	cêːwaː	SCONJ	_	_	10	comp:obj	_	Gloss=COMP
 12	waɗànnân	wannàn	DET	_	Deixis=Prox|Number=Plur|PronType=Dem	13	det	_	Gloss=Prox.Plur
 13	mutàneː	ùtûm	NOUN	_	Number=Plur	14	subj	_	Gloss=XX
 14	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	11	comp:obj	_	Gloss=XX
-15	zàngà-zangà	zàngà-zangà	VERB	_	ExtPos=NOUN|Gender=Fem	14	comp:aux	_	Gloss=XX
+15	zàngà-zangà	zàngà-zangà	NOUN	_	ExtPos=NOUN|Gender=Fem	14	comp:aux	_	Gloss=demonstration.Fem
 16	na	na	ADP	_	Case=Gen	15	comp:obl	_	Gloss=XX
 17	nuːnà	nuːn-	VERB	_	_	16	comp:obj	_	Gloss=XX
 18	goːyon	goːyoː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	17	comp:obj	_	Gloss=XX
 19	baːyaː	baːyaː	NOUN	_	Gender=Masc	18	compound	_	Gloss=XX
 20	nèː	neː	PART	_	_	18	discourse@foc	_	Gloss=XX
 21	kân	kân	ADP	_	_	17	comp:obl	_	Gloss=on
-22	cêːwaː	cêwaː	SCONJ	_	ExtPos=NOUN|Gender=Fem	21	comp:obj	_	Gloss=XX
+22	cêːwaː	cêːwaː	SCONJ	_	_	21	comp:obj	_	Gloss=COMP
 23	à	yà	AUX	_	Mood=Sub|Person=4	22	comp:obj	_	Gloss=XX
 24	bugà	bug-	VERB	_	_	23	comp:aux	_	Gloss=XX
 25	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	26	det	_	Gloss=Prox.Sing
@@ -547,7 +547,7 @@
 3	kân	kâi	ADP	_	Definite=Cons|Gender=Masc	2	comp:obl	_	Gloss=on
 4	tiːtunàː	tiːtu	NOUN	_	Case=Gen|Gender=Masc|Person=3	3	comp:obj	_	Gloss=XX
 5	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	1	parataxis@conj	_	Gloss=XX
-6	zàngà-zangà	zàngà-zai	NOUN	_	_	5	comp:aux	_	Gloss=XX
+6	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	5	comp:aux	_	Gloss=demonstration.Fem
 7	ta	ta	ADP	_	Aspect=Iter	6	mod	_	Gloss=XX
 8	ƙîn	ƙi	VERB	_	Definite=Cons|ExtPos=VERB|Gender=Masc|VerbForm=Vnoun	7	comp:obj	_	Gloss=XX|Idiom=Yes
 9	jinìn	jinìː	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=XX|InIdiom=Yes
@@ -595,7 +595,7 @@
 28	kùwa	kùwa	PART	_	_	27	discourse@top	_	Gloss=XX
 29	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	27	comp:obj	_	Gloss=XX
 30	ƙàːlùːbàlànci	ƙaːluːbalant-	VERB	_	_	29	comp:aux	_	Gloss=XX
-31	àl'ummàr̃	àl'ummàː	NOUN	_	Definite=Cons|Gender=Fem	30	comp:obj	_	Gloss=XX
+31	àl'ummàr̃	àl'ummàː	NOUN	_	Definite=Cons|Gender=Fem	30	comp:obj	_	Gloss=community.Fem.Cons
 32	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	31	mod	_	Gloss=Muslim.Plur
 33	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	32	mod	_	Gloss=mouth.Masc
 34	ɗayan	ɗaya	NUM	_	_	33	mod:num	_	Gloss=one.Cons|SpaceAfter=No|wordform=ɗayansù

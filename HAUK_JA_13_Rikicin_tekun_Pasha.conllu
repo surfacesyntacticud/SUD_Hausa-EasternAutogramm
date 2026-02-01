@@ -13,7 +13,7 @@
 11	Paːshà	Paːshà	PROPN	_	_	10	mod	_	Gloss=Iran
 
 # sent_id = 13_Rikicin_tekun_Pasha__2
-# text = À Nàːjeːr̃iyàː Sarkin Mùsùlmiː, Àlhajì Ìbraːhìm Dàsuːƙi, yaː yi kiràː gà jàma'àr̃sà dà sù yi bìr̃is dà wasu tàkàr̃duː dà yànzu akèː rarràbâːwaː à ƙasâr̃ dà nufìn zugà àl'ummàr̃ mùsùlmiː sù ɗàuki wasu màtàːkai gàme dà rìkicîn nan na Tèːkun Paːshà.
+# text = À Nàːjeːr̃iyàː Sarkin Mùsùlmiː, Àlhajì Ìbraːhìm Dàsuːƙi, yaː yi kiràː gà jàma'àr̃sà dà sù yi bìr̃is dà wasu tàkàr̃duː dà yànzu akèː rarràbâːwaː à ƙasâr̃ dà nufìn zugà àl'ummàr̃ Mùsùlmiː sù ɗàuki wasu màtàːkai gàme dà rìkicîn nan na Tèːkun Paːshà.
 1	À	à	ADP	_	_	10	mod	_	Gloss=XX|wordform=A
 2	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	1	comp:obj	_	Gloss=Nigeria
 3	Sarkin	sarkiː	NOUN	_	_	10	subj	_	Gloss=leader.Masc.Cons
@@ -30,24 +30,24 @@
 14-15	jàma'àr̃sà	_	_	_	_	_	_	_	_
 14	jàma'àr̃	jàma'àː	NOUN	_	Definite=Cons|Gender=Fem	13	subj	_	Gloss=people.Fem.Cons
 15	sà	sà	PRON	_	Gender=Masc	14	mod@poss	_	Gloss=3Masc.Cons
-16	dà	dà	SCONJ	_	_	14	mod@relcl	_	Gloss=COMP
+16	dà	dà	SCONJ	_	_	11	comp:obl	_	Gloss=COMP
 17	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	16	comp:obj	_	Gloss=XX
 18	yi	yi	VERB	_	_	17	comp:aux	_	Gloss=do
-19	bìr̃is	bìr̃is	NOUN	_	Definite=Cons|Gender=Fem	18	comp:pred	_	Gloss=XX
-20	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=XX
+19	bìr̃is	bìr̃is	IDEO	_	Definite=Cons|Gender=Fem	18	comp:pred	_	Gloss=ignore
+20	dà	dà	ADP	_	_	18	comp:obl	_	Gloss=XX
 21	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	22	det	_	Gloss=some.Plur.Spec
-22	tàkàr̃duː	tàkàr̃duː	NOUN	_	Number=Plur	19	comp:obj	_	Gloss=XX
+22	tàkàr̃duː	takàr̃dàː	NOUN	_	Number=Plur	20	comp:obj	_	Gloss=paper.Plur
 23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=COMP
 24	yànzu	yànzu	ADV	_	_	25	mod	_	Gloss=XX
 25	akèː	nàː	AUX	_	Aspect=Prog|Person=4	23	comp:obj	_	Gloss=XX
-26	rarràbâːwaː	rarràb-	VERB	_	ExtPos=NOUN|Gender=Fem	25	comp:aux	_	Gloss=XX
+26	rarràbâːwaː	rarràb-	VERB	_	ExtPos=NOUN|Gender=Fem	25	comp:aux	_	Gloss=distribute.Vnoun.Fem
 27	à	à	ADP	_	_	26	comp:obl	_	Gloss=at
 28	ƙasâr̃	ƙasaː	VERB	_	Definite=Def|Gender=Fem	27	comp:obj	_	Gloss=country.Fem.Def
-29	dà	dà	ADP	_	_	30	cc	_	Gloss=XX
-30	nufìn	nufìn	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	27	comp:obj	_	Gloss=XX
-31	zugà	zugà	PRON	_	PronType=Rel	30	mod	_	Gloss=XX
-32	àl'ummàr̃	àl'ummàː	NOUN	_	Definite=Cons|Gender=Fem	34	subj	_	Gloss=XX
-33	mùsùlmiː	mùsùlmiː	NOUN	_	Gender=Masc	32	mod	_	Gloss=XX
+29	dà	dà	ADP	_	_	26	mod	_	Gloss=XX
+30	nufìn	nufìː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	29	comp:obj	_	Gloss=intention.Masc.Cons
+31	zugà	zug-	VERB	_	_	30	mod	_	Gloss=incite
+32	àl'ummàr̃	àl'ummàː	NOUN	_	Definite=Cons|Gender=Fem	34	subj	_	Gloss=community.Fem.Cons
+33	Mùsùlmiː	mùsùlmiː	NOUN	_	Gender=Masc	32	mod	_	Gloss=XX
 34	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	31	comp:obj	_	Gloss=XX
 35	ɗàuki	ɗauk-	VERB	_	_	34	comp:aux	_	Gloss=take
 36	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	37	det	_	Gloss=some.Plur.Spec
