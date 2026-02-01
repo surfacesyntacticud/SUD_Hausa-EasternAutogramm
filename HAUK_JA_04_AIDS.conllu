@@ -72,13 +72,13 @@
 # sent_id = 04_AIDS__3
 # text = Hakà kuma ìdan anàː yi wà mutàːneː dàbam dàbam àlluːràː dà àlluːràː gùdaː, tòː ìdan wani dàgà cikin waɗàndà akà yi wà àlluːr̃àr̃ yanàː dà ƙwaːyoːyin cùːtar̃ AIDS à jìkinsà, zâi bazà ƙwaːyoːyin cùːtâr̃ gà sauran waɗàndà akà yi wà àlluːr̃àr̃.
 # text_ortho = Hakà kuma ìdan anàː yi wà mutàːneː dàbam dàbam àlluːràː dà àlluːràː gùdaː, tòː ìdan wani dàgà cikin waɗàndà akà yi wà àlluːr̃àr̃ yanàː dà ƙwaːyoːyin cùːtar̃ AIDS à jìkinsà, zâi bazà ƙwaːyoːyin cùːtâr̃ gà sauran waɗàndà akà yi wà àlluːr̃àr̃.
-1	hakà	hakà	ADV	_	_	34	mod	_	Gloss=XX
+1	hakà	hakà	ADV	_	_	34	mod	_	Gloss=thus
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=too
 3	ìdan	ìdan	SCONJ	_	_	34	mod	_	Gloss=if
 4	anàː	nàː	AUX	_	Aspect=Prog|Person=4	3	comp:obj	_	Gloss=XX
 5	yi	yi	VERB	_	_	4	comp:aux	_	Gloss=do
 6	wà	wà	ADP	_	Case=Dat	5	comp:obl	_	Gloss=XX
-7	mutàːneː	mùtûm	NOUN	_	Number=Plur	6	comp:obj	_	Gloss=XX
+7	mutàːneː	mùtûm	NOUN	_	Number=Plur	6	comp:obj	_	Gloss=people.Plur
 8	dàbam	dàbam	ADV	_	_	7	mod	_	Gloss=XX
 9	dàbam	dàbam	ADV	_	_	8	conj:redup	_	Gloss=XX
 10	àlluːràː	àlluːràː	NOUN	_	Gender=Fem	5	comp:pred	_	Gloss=XX
@@ -109,7 +109,7 @@
 35	bazà	bazà	VERB	_	_	34	comp:aux	_	Gloss=XX
 36	ƙwaːyoːyin	ƙwaːyoːyiː	NOUN	_	Definite=Cons|Gender=Masc	35	comp:obj	_	Gloss=XX
 37	cùːtâr̃	cùːtâː	NOUN	_	Gender=Fem	36	mod	_	Gloss=XX
-38	gà	gà	ADP	_	_	35	comp:obl	_	Gloss=XX
+38	gà	gà	ADP	_	_	35	comp:obl	_	Gloss=to
 39	sauran	sauraː	NOUN	_	Definite=Cons|Gender=Masc	38	comp:obj	_	Gloss=rest.Masc.Cons
 40	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	39	mod	_	Gloss=who.Plur
 41	akà	nàː	AUX	_	Aspect=Prog|Person=4	40	mod@relcl	_	Gloss=XX
@@ -122,7 +122,7 @@
 # text = Bayan hakà, duk wata irìn taːràːwaː – wàːtòː jìmaːꞌì - tsàkaːnin màcè dà namijì koː tsàkaːnin namijì dà namijì, tanàː dà haɗàriː.
 # text_ortho = Bayan hakà, duk wata irìn taːràːwaː – wàːtòː jìmaːꞌì - tsàkaːnin màcè dà namijì koː tsàkaːnin namijì dà namijì, tanàː dà haɗàriː.
 1	bayan	bayan	ADP	_	_	22	mod	_	Gloss=XX
-2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=XX|SpaceAfter=No
+2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=thus|SpaceAfter=No
 3	,	,	PUNCT	_	_	1	punct	_	Gloss=XX
 4	duk	dukà	DET	_	_	6	det	_	Gloss=XX
 5	wata	wani	DET	_	Definite=Spec|Gender=Masc	6	det	_	Gloss=some.Fem.Spec
@@ -157,7 +157,7 @@
 5	namijì	namijì	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=XX
 6	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	Gloss=XX
 7	iyà	iy-	VERB	_	_	6	comp:aux	_	Gloss=XX
-8	baː	baː	VERB	_	_	7	comp:obj	_	Gloss=XX
+8	baː	baː	VERB	_	_	7	comp:obj	_	Gloss=give
 9	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	8	comp:obj@R	_	Gloss=XX
 10	ƙwaːyoːyin	ƙwaːyoːyiː	NOUN	_	Definite=Cons	8	comp:obj@T	_	Gloss=XX
 11	cùːtâr̃	cùːtâː	NOUN	_	_	10	mod	_	Gloss=XX|SpaceAfter=No
@@ -166,7 +166,7 @@
 # sent_id = 04_AIDS__6
 # text = hakà kuma namijì mài taːràːwaː dà màcè koː namijì, shiː maː yanàː iyà bazà cùːtâr̃ ta màniyyìnsà.
 # text_ortho = hakà kuma namijì mài taːràːwaː dà màcè koː namijì, shiː maː yanàː iyà bazà cùːtâr̃ ta màniyyìnsà.
-1	hakà	hakà	ADV	_	_	13	mod	_	Gloss=XX
+1	hakà	hakà	ADV	_	_	13	mod	_	Gloss=thus
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=too
 3	namijì	namijì	NOUN	_	Gender=Masc	13	dislocated@subj	_	Gloss=XX
 4	mài	mài	PART	_	Number=Sing|PartType=Der	3	mod	_	Gloss=owner/doer_of.Sing
@@ -246,7 +246,7 @@
 54	takwàs	takwàs	NUM	_	_	53	mod:num	_	Gloss=eight
 55	koː	koː	CCONJ	_	_	56	cc	_	Gloss=XX
 56	tar̃a	tar̃a	NUM	_	_	54	conj:coord	_	Gloss=XX
-57	kàːfin	kàːfin	SCONJ	_	_	44	mod	_	Gloss=XX
+57	kàːfin	kàːfin	SCONJ	_	_	44	mod	_	Gloss=before
 58	ainihin	ainihiː	ADJ	_	Definite=Cons|Gender=Masc	59	mod	_	Gloss=XX
 59	cùːtâr̃	cùːtâː	NOUN	_	Gender=Masc	60	subj	_	Gloss=XX
 60	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	57	comp:obj	_	Gloss=XX
@@ -278,7 +278,7 @@
 12	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	13	subj	_	Gloss=XX
 13	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	mod@relcl	_	Gloss=XX
 14	nuːnà	nuːn-	VERB	_	_	13	comp:aux	_	Gloss=XX
-15	cêːwaː	cêː	SCONJ	_	ExtPos=NOUN|Gender=Fem	14	comp:obj	_	Gloss=XX
+15	cêːwaː	cêːwaː	SCONJ	_	_	14	comp:obj	_	Gloss=COMP
 16	rabìn	rabìː	NOUN	_	Definite=Cons|Gender=Masc	27	subj	_	Gloss=XX
 17	mazân	mijìː	NOUN	_	Definite=Def|Number=Plur	16	mod	_	Gloss=man.Plur.Def
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
@@ -323,8 +323,8 @@
 9	don	don	SCONJ	_	_	5	mod	_	Gloss=XX
 10	tabbatar̃	tabbataː	VERB	_	_	9	comp:obj	_	Gloss=XX
 11	dà	dà	ADP	_	_	10	comp:obl	_	Gloss=XX
-12	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	Gloss=XX
-13	mutàːnên	mùtûm	NOUN	_	Definite=Cons|Number=Plur	12	comp:obj	_	Gloss=XX
+12	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	Gloss=quantity.Masc.Cons
+13	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	12	comp:obj	_	Gloss=people.Plur.Def
 14	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=COMP
 15	kèː	keː	AUX	_	Aspect=Prog	14	comp:obj	_	Gloss=XX
 16	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Stat	15	conj:dicto	_	Gloss=take.Stat
@@ -364,7 +364,7 @@
 17	AIDS	AIDS	PROPN	_	_	16	compound	_	Gloss=XX
 18	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	15	comp:obj	_	Gloss=XX
 19	kashè	kas-	VERB	_	_	18	comp:aux	_	Gloss=XX
-20	mutàːneː	mùtûm	NOUN	_	Number=Plur	19	comp:obj	_	Gloss=XX
+20	mutàːneː	mùtûm	NOUN	_	Number=Plur	19	comp:obj	_	Gloss=people.Plur
 21	goːmà	goːmà	NUM	_	_	20	mod:num	_	Gloss=ten
 22	shâː	shâː	ADP	_	_	21	mod	_	Gloss=XX
 23	shidà	shidà	NUM	_	_	22	comp:obj	_	Gloss=XX
@@ -390,7 +390,7 @@
 43	ukù	ukù	NUM	_	_	42	mod:num	_	Gloss=three
 44	dà	dà	SCONJ	_	_	42	mod@relcl	_	Gloss=COMP
 45	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	44	comp:obj	_	Gloss=XX
-46	wucèː	wut-	VERB	_	_	45	comp:aux	_	Gloss=XX|SpaceAfter=No
+46	wucèː	wut-	VERB	_	_	45	comp:aux	_	Gloss=pass|SpaceAfter=No
 47	.	.	PUNCT	_	_	14	punct	_	Gloss=XX
 
 # sent_id = 04_AIDS__12
@@ -401,7 +401,7 @@
 3	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 4	fi	fi	VERB	_	_	3	comp:aux	_	Gloss=XX
 5	maːtaː	maːtaː	NOUN	_	Number=Plur	4	comp:obj	_	Gloss=XX
-6	yawàː	yawàː	NOUN	_	Gender=Masc	4	mod	_	Gloss=XX
+6	yawàː	yawàː	NOUN	_	Gender=Masc	4	mod	_	Gloss=quantity.Masc
 7	à	à	ADP	_	_	4	comp:obl	_	Gloss=at
 8	cikin	cikin	ADP	_	_	7	comp.obj	_	Gloss=inside
 9	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	7	comp:obj	_	Gloss=who.Plur
@@ -531,8 +531,8 @@
 16	làꞌakàr̃iː	làꞌakàr̃iː	NOUN	_	Gender=Masc	15	comp:pred	_	Gloss=XX
 17	dà	dà	ADP	_	_	15	comp:obl	_	Gloss=XX
 18	cêːwaː	cêː	VERB	_	Gender=Fem	17	comp:obj	_	Gloss=XX
-19	yawàn	yawàn	ADJ	_	Definite=Cons|Gender=Masc	22	subj	_	Gloss=XX
-20	mutàːnen	mutàːneː	NOUN	_	Definite=Cons|Number=Plur	19	mod	_	Gloss=XX
+19	yawàn	yawàn	ADJ	_	Definite=Cons|Gender=Masc	22	subj	_	Gloss=quantity.Masc.Cons
+20	mutàːnen	mùtûm	NOUN	_	Definite=Cons|Number=Plur	19	mod	_	Gloss=people.Plur.Cons
 21	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	20	mod	_	Gloss=XX
 22	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	18	comp:obj	_	Gloss=XX
 23	fi	fi	VERB	_	_	22	comp:aux	_	Gloss=XX
@@ -544,7 +544,7 @@
 29	yìwu	yìi	VERB	_	ExtPos=NOUN	28	comp:aux	_	Gloss=XX
 30	à	yà	AUX	_	Mood=Sub|Person=4	28	subj	_	Gloss=XX
 31	sàːmi	saːm-	VERB	_	_	30	comp:aux	_	Gloss=XX
-32	mutàːneː	mutàːneː	NOUN	_	Number=Plur	31	comp:obj	_	Gloss=XX
+32	mutàːneː	mùtûm	NOUN	_	Number=Plur	31	comp:obj	_	Gloss=people.Plur
 33	dà	dà	ADP	_	_	32	mod	_	Gloss=XX
 34	daːmaː	daːmaː	NOUN	_	_	33	comp:obj	_	Gloss=XX
 35	màːsu	mài	PART	_	Number=Plur|PartType=Der	32	mod	_	Gloss=owner/doer_of.Plur
@@ -568,7 +568,7 @@
 # text = ìdan hakà neː kùwa, doːlè neː à yi ƙoːƙariː à waːyar̃ dà kân mutàːneː dà sù gùji dukkàn àbîn dà zâi sâː sù kàːmu dà cùːtar̃ AIDS.
 # text_ortho = Ìdan hakà neː kùwa, doːlè neː à yi ƙoːƙariː à waːyar̃ dà kân mutàːneː dà sù gùji dukkàn àbîn dà zâi sâː sù kàːmu dà cùːtar̃ AIDS.
 1	ìdan	ìdan	SCONJ	_	_	6	mod	_	Gloss=if
-2	hakà	hakà	ADV	_	_	3	comp:pred	_	Gloss=XX
+2	hakà	hakà	ADV	_	_	3	comp:pred	_	Gloss=thus
 3	neː	neː	AUX	_	Gender=Masc|Number=Plur	1	comp:obj	_	Gloss=XX
 4	kùwa	kùwa	PART	_	_	1	discourse@top	_	Gloss=XX|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=XX
@@ -581,7 +581,7 @@
 12	waːyar̃	waːyar̃	VERB	_	Gender=Fem	11	comp:obj	_	Gloss=XX
 13	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=XX
 14	kân	kâi	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	Gloss=XX
-15	mutàːneː	mùtûm	NOUN	_	Number=Plur	14	mod	_	Gloss=XX
+15	mutàːneː	mùtûm	NOUN	_	Number=Plur	14	mod	_	Gloss=people.Plur
 16	dà	dà	CCONJ	_	_	17	cc	_	Gloss=XX
 17	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	11	conj:coord	_	Gloss=XX
 18	gùji	gùi	VERB	_	_	17	comp:aux	_	Gloss=XX
