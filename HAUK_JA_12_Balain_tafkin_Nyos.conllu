@@ -146,7 +146,7 @@
 14	cikin	cikinsà	ADP	_	_	13	mod	_	Gloss=inside|SpaceAfter=No|wordform=cikinsà
 15	sà	sà	PRON	_	_	14	mod@poss	_	Gloss=3Masc.Gen
 16	sukà	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=XX
-17	mutù	mutù	VERB	_	_	16	comp:aux	_	Gloss=XX|SpaceAfter=No
+17	mutù	mutù	VERB	_	_	16	comp:aux	_	Gloss=die|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 19	in	in	SCONJ	_	_	17	mod	_	Gloss=XX
 20	bandà	bandàː	ADP	_	_	19	comp:obj	_	Gloss=XX
@@ -165,7 +165,7 @@
 6	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	conj:appos	_	Gloss=XX
 7	maː	maː	PART	_	_	6	discourse@top	_	Gloss=XX
 8	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
-9	mutù	mut-	VERB	_	_	8	comp:aux	_	Gloss=XX
+9	mutù	mutù	VERB	_	_	8	comp:aux	_	Gloss=die
 10	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos__7
@@ -279,7 +279,7 @@
 7	bakwài	bakwài	NUM	_	_	5	conj:coord	_	Gloss=seven
 8	neː	neː	AUX	_	Gender=Masc|Number=Plur	4	discourse@foc	_	Gloss=XX
 9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
-10	mutù	mutù	VERB	_	_	9	comp:aux	_	Gloss=XX
+10	mutù	mutù	VERB	_	_	9	comp:aux	_	Gloss=die
 11	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos__10b
@@ -535,7 +535,7 @@
 18	bakwài	bakwài	NUM	_	_	17	mod:num	_	Gloss=seven
 19	neː	neː	PART	_	Number=Plur|PartType=Foc	12	discourse@foc	_	Gloss=Foc
 20	sukà	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=XX
-21	mutù	mutù	VERB	_	_	20	comp:aux	_	Gloss=XX|SpaceAfter=No
+21	mutù	mutù	VERB	_	_	20	comp:aux	_	Gloss=die|SpaceAfter=No
 22	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 23	kuma	kuma	CCONJ	_	_	24	cc	_	Gloss=too
 24	Allàh	Allàh	PROPN	_	_	20	conj:coord	_	Gloss=Allàh
@@ -551,7 +551,7 @@
 34	tafkìn	tafkìn	NOUN	_	Definite=Def|Gender=Masc	35	subj	_	Gloss=river.Masc.Def
 35	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	33	comp:obj	_	Gloss=XX
 36	saːkè	saːk-	VERB	_	_	35	comp:aux	_	Gloss=repeat
-37	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	36	comp:obj	_	Gloss=do
+37	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	36	comp:obj	_	Gloss=do.Vnoun.Masc.Cons
 38	wani	wani	DET	_	Definite=Spec|Gender=Masc	39	det	_	Gloss=some.Masc.Spec
 39	aman	amai	NOUN	_	Definite=Cons|Gender=Masc	37	comp:pred	_	Gloss=explosion.Masc.Cons
 40	gâs	gâs	NOUN	_	Definite=Cons|Gender=Masc	39	mod	_	Gloss=gas.Masc
