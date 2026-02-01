@@ -146,7 +146,7 @@
 # sent_id = 13_Rikicin_tekun_Pasha__5
 # text = Hakà kuma anàː zàton cêːwaː à haːlin yànzu anàː rarràbà wasu tàkàr̃duː à areːwacin Nàːjeːr̃iyàː waɗàndà sukà sòːki àbîn dà ƙasàːshen ƙàwànceː sukèː wà Ìr̃aːƙì .
 1	Hakà	hakà	ADV	_	_	3	mod	_	Gloss=thus
-2	kuma	kuma	ADV	_	_	1	discourse@top	_	Gloss=thus
+2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 3	anàː	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=XX|wordform=and
 4	zàton	zat-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	3	comp:aux	_	Gloss=think.Vnoun.Masc.Cons
 5	cêːwaː	cêːwaː	SCONJ	_	_	4	comp:aux	_	Gloss=COMP
@@ -195,15 +195,15 @@
 19	mùsùlmin	mùsùlmin	NOUN	_	Definite=Cons	18	mod	_	Gloss=muslims.Plur.Cons
 20	areːwacin	areːwacin	ADP	_	_	19	mod	_	Gloss=north_of
 21	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	20	comp:obj	_	Gloss=Nigeria|wordform=Nijeːiyar
-22	neː	neː	AUX	_	Gender=Masc|Number=Plur	13	discourse@foc	_	Gloss=XX|SpaceAfter=No
+22	neː	neː	PART	_	Gender=Masc	13	discourse@foc	_	Gloss=XX|SpaceAfter=No
 23	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 24	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 25	yi	yi	VERB	_	_	24	comp:aux	_	Gloss=XX
 26	kiràː	kir-	VERB	_	ExtPos=NOUN|Gender=Masc	25	comp:pred	_	Gloss=XX
 27	gà	gà	ADP	_	_	25	comp:obl	_	Gloss=XX
-28	dukkàn	dukkàː	DET	_	PronType=Tot	29	det	_	Gloss=XX
-29	mùsùlmiː	mùsùlmiː	NOUN	_	Gender=Masc	27	comp:obj	_	Gloss=XX
-30	dà	dà	SCONJ	_	_	29	mod@relcl	_	Gloss=XX
+28	dukkàn	dukà	DET	_	PronType=Tot	29	det	_	Gloss=all
+29	mùsùlmiː	mùsùlmiː	NOUN	_	Gender=Masc	27	comp:obj	_	Gloss=muslim.Plur
+30	dà	dà	SCONJ	_	_	25	comp:obl	_	Gloss=COMP
 31	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	30	comp:obj	_	Gloss=XX
 32	taːshì	taːs-	VERB	_	_	31	comp:aux	_	Gloss=get_up
 33	tsàye	tsay-	VERB	_	ExtPos=ADV|VerbForm=Stat	32	mod	_	Gloss=stand.Stat
@@ -212,7 +212,7 @@
 36-37	r̃a'àyinsù	_	_	_	_	_	_	_	_
 36	r̃a'àyin	r̃a'àyin	NOUN	_	Gender=Masc	35	comp:obj	_	Gloss=viewpoint.Masc.Cons
 37	sù	sù	PRON	_	Case=Gen|Gender=Masc|Person=3	36	mod@poss	_	Gloss=3Masc.Gen
-38	à	à	ADP	_	_	36	comp:obl	_	Gloss=at
+38	à	à	ADP	_	_	35	comp:obl	_	Gloss=at
 39	gàme	gam-	VERB	_	VerbForm=Stat	38	comp:obj	_	Gloss=gather.Stat
 40	dà	dà	ADP	_	_	39	comp:obl	_	Gloss=XX
 41	rìkicin	rìkiciː	NOUN	_	Definite=Cons|Gender=Masc	40	comp:obj	_	Gloss=crisis.Masc.Cons
@@ -222,56 +222,56 @@
 45	.	.	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha__7a
-# text = Wani mài màganàː dà yaːwun Sarkin Mùsùlmiː yaː jaddàːdà cêːwaː nuːnà ƙîn jinin Amìr̃kà à Nàːjeːr̃iyàː r̃a'àyin wasu 'yan tsìràːruː nèː , kuma shùːgàbànnin mùsùlmiː sunàː hàƙuriː dà suː nèː kawài sabòːdà 'yancin dà akèː dà shiː à ƙasâr̃ na fàɗar̃ r̃a'àyiː .
+# text = Wani mài màganàː dà yaːwun Sarkin Mùsùlmiː yaː jaddàːdà cêːwaː nuːnà ƙîn jinin Amìr̃kà à Nàːjeːr̃iyàː r̃a'àyin wasu 'yan tsìràːruː nèː, kuma shùːgàbànnin mùsùlmiː sunàː hàƙuriː dà suː nèː kawài sabòːdà 'yancìn dà akèː dà shiː à ƙasâr̃ na fàɗar̃ r̃a'àyiː .
 1	Wani	waeː	PROPN	_	Number=Plur|PronType=Dem	8	subj	_	Gloss=Wani
 2	mài	mài	ADP	_	Number=Sing	1	mod	_	Gloss=XX
 3	màganàː	màganàː	NOUN	_	Gender=Fem	2	comp:obj	_	Gloss=speech.Fem
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=XX|wordform=da
-5	yaːwun	yaːwuː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	Gloss=XX
+5	yaːwun	yaːwuː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	Gloss=saliva.Masc.Cons
 6	Sarkin	sarkiː	NOUN	_	Definite=Cons|Gender=Masc	5	mod	_	Gloss=leader.Masc.Cons
-7	Mùsùlmiː	Mùsùlmiː	PROPN	_	_	6	mod	_	Gloss=Mùsùlmiː
+7	Mùsùlmiː	Mùsùlmiː	NOUN	_	_	6	mod	_	Gloss=muslim.Plur
 8	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
-9	jaddàːdà	jaddàːdà	VERB	_	_	8	comp:aux	_	Gloss=XX
-10	cêːwaː	cêː	SCONJ	_	ExtPos=NOUN|Gender=Fem	9	comp:obj	_	Gloss=COMP
-11	nuːnà	nuːn-	VERB	_	_	8	subj	_	Gloss=show
+9	jaddàːdà	jaddaːd-	VERB	_	_	8	comp:aux	_	Gloss=confirm
+10	cêːwaː	cêːwaː	SCONJ	_	_	9	comp:obj	_	Gloss=COMP
+11	nuːnà	nuːn-	VERB	_	_	21	subj	_	Gloss=show
 12	ƙîn	ƙi	VERB	_	Definite=Cons|Gender=Masc	11	comp:obj	_	Gloss=hate.Vnoun.Masc.Cons|wordform=kin
 13	jinin	jiniː	NOUN	_	Definite=Cons|Gender=Masc	12	mod	_	Gloss=blood.Masc.Cons
 14	Amìr̃kà	Amìr̃kà	PROPN	_	_	13	mod	_	Gloss=America
-15	à	à	ADP	_	_	12	mod	_	Gloss=at
+15	à	à	ADP	_	_	11	mod	_	Gloss=at
 16	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	15	comp:obj	_	Gloss=Nigeria
-17	r̃a'àyin	r̃a'àyiː	NOUN	_	Definite=Cons	11	mod	_	Gloss=viewpoint.Masc.Cons
-18	wasu	wasu	DET	_	Definite=Spec|Number=Plur	20	det	_	Gloss=some.Plur
-19	'yan	ɗan	ADJ	_	Definite=Cons|Number=Plur	20	mod	_	Gloss=XX
-20	tsìràːruː	tsìràːruː	NOUN	_	Gender=Masc	17	comp:obj	_	Gloss=XX
-21	nèː	neː	PART	_	Gender=Masc|Number=Plur	11	discourse@foc	_	Gloss=XX|SpaceAfter=No
+17	r̃a'àyin	r̃a'àyiː	NOUN	_	Definite=Cons	21	comp:pred	_	Gloss=viewpoint.Masc.Cons
+18	wasu	wasu	DET	_	Definite=Spec|Number=Plur	19	det	_	Gloss=some.Plur
+19	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	17	mod	_	Gloss=son.Plur.Cons
+20	tsìràːruː	tsìràːruː	NOUN	_	_	19	compound	_	Gloss=minority.Plur
+21	nèː	neː	PART	_	Gender=Masc|Number=Plur	10	comp:obj	_	Gloss=XX|SpaceAfter=No
 22	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
-23	kuma	kuma	ADV	_	_	26	cc	_	Gloss=thus
-24	shùːgàbànnin	shùːgàbànniː	NOUN	_	Definite=Cons|Gender=Masc	26	subj	_	Gloss=XX
-25	mùsùlmiː	mùsùlmiː	NOUN	_	Gender=Masc	24	mod	_	Gloss=XX
-26	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	11	conj:coord	_	Gloss=XX|wordform=sunaː
-27	hàƙuriː	hàƙuriː	NOUN	_	Gender=Masc	26	comp:aux	_	Gloss=XX
+23	kuma	kuma	PART	_	_	26	cc	_	Gloss=also
+24	shùːgàbànnin	shùːgàbaː	NOUN	_	Definite=Cons	26	subj	_	Gloss=leader.Plur.Cons
+25	mùsùlmiː	mùsùlmiː	NOUN	_	_	24	mod	_	Gloss=muslim.Plur
+26	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	21	conj:coord	_	Gloss=XX|wordform=sunaː
+27	hàƙuriː	hàƙuriː	NOUN	_	Gender=Masc	26	comp:aux	_	Gloss=patience.Masc
 28	dà	dà	ADP	_	_	27	comp:obl	_	Gloss=XX
 29	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	28	comp:obj	_	Gloss=XX
-30	nèː	neː	PART	_	_	33	discourse@foc	_	Gloss=XX
-31	kawài	kawài	ADV	_	_	26	mod	_	Gloss=XX
-32	sabòːdà	sabòːdà	ADP	_	_	27	mod	_	Gloss=XX
-33	'yancin	'yanciː	NOUN	_	Definite=Cons|Gender=Masc	32	comp:obj	_	Gloss=XX
+30	nèː	neː	PART	_	_	27	discourse@foc	_	Gloss=XX
+31	kawài	kawài	ADV	_	_	27	mod	_	Gloss=merely
+32	sabòːdà	sabòːdà	ADP	_	_	27	mod	_	Gloss=because_of
+33	'yancìn	'yancìː	NOUN	_	Definite=Def|Gender=Masc	32	comp:obj	_	Gloss=freedom.Masc.Def
 34	dà	dà	SCONJ	_	_	33	mod@relcl	_	Gloss=XX
 35	akèː	nàː	AUX	_	Aspect=Prog|Person=4	34	comp:obj	_	Gloss=XX
 36	dà	dà	ADP	_	_	35	comp:pred	_	Gloss=XX
 37	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	36	comp:obj	_	Gloss=XX
-38	à	à	ADP	_	_	27	mod	_	Gloss=at
+38	à	à	ADP	_	_	35	mod	_	Gloss=at
 39	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	38	comp:obj	_	Gloss=country.Fem.PrevRef
-40	na	na	ADP	_	Case=Gen	39	mod	_	Gloss=XX
-41	fàɗar̃	fàɗaː	NOUN	_	_	40	comp:obj	_	Gloss=XX|wordform=foːdar
-42	r̃a'àyiː	r̃a'àyiː	NOUN	_	_	41	mod	_	Gloss=viewpoint.Masc.Cons
+40	na	na	ADP	_	Case=Gen	33	mod	_	Gloss=XX
+41	fàɗar̃	faɗ-	NOUN	_	_	40	comp:obj	_	Gloss=tell.Vnoun.Fem.Cons
+42	r̃a'àyiː	r̃a'àyiː	NOUN	_	_	41	mod	_	Gloss=viewpoint.Masc
 43	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha__7b
 # text = Kàːkàːkîn ya kuma cêː shùːgàbànnin mùsùlmiː à Nàːjeːr̃iyàː sunàː sôː sù nuːnà rashìn goːyon baːyansù gà maːmàyêːwâr̃ dà Ìr̃aːƙì ta yi wà Kùwât .
-1	Kàːkàːkîn	kàːkàːkiː	PROPN	_	_	2	subj	_	Gloss=Kàːkàːkîn
+1	Kàːkàːkîn	kàːkàːkiː	NOUN	_	_	2	subj	_	Gloss=spokesman.Masc.Def
 2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
-3	kuma	kuma	ADV	_	_	4	mod	_	Gloss=thus
+3	kuma	kuma	PART	_	_	4	mod	_	Gloss=also
 4	cêː	cêː	VERB	_	_	2	comp:aux	_	Gloss=XX
 5	shùːgàbànnin	shùːgàbànniː	NOUN	_	Definite=Cons|Number=Plur	9	subj	_	Gloss=XX
 6	mùsùlmiː	mùsùlmiː	NOUN	_	Gender=Masc	5	mod	_	Gloss=XX
@@ -297,7 +297,7 @@
 # sent_id = 13_Rikicin_tekun_Pasha__8
 # text = Yanàː kuma dà rashìn goːyon baːyan harìn dà ƙasàːshen ƙàwànceː kèː kai wà Ìr̃aːƙì , wandà akà yi hanzarin kâiwaː bàː tàːre dà barìn tàːkunkùmîn dà akà sâː wà Ìr̃aːƙì daːmar̃ yîn aikìː ba.
 1	Yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=XX
-2	kuma	kuma	ADV	_	_	1	discourse@top	_	Gloss=thus
+2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 3	dà	dà	ADP	_	_	1	comp:pred	_	Gloss=XX
 4	rashìn	rashìː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=XX
 5	goːyon	goːy-	VERB	_	_	4	mod	_	Gloss=support.Vnoun.Masc.Cons
@@ -382,7 +382,7 @@
 22	Bush	Bush	PROPN	_	_	21	flat@name	_	Gloss=Bush
 23	"	"	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 24	dà	dà	CCONJ	_	_	26	cc	_	Gloss=XX
-25	kuma	kuma	ADV	_	_	24	discourse@top	_	Gloss=thus
+25	kuma	kuma	PART	_	_	24	discourse@top	_	Gloss=also
 26	Shùːgàbaː	Shùːgàbaː	PROPN	_	_	19	conj:coord	_	Gloss=Shùːgàbaː
 27	Saddam	Saddam	PROPN	_	_	26	flat@name	_	Gloss=Saddam
 28	Hussein	Hussein	PROPN	_	_	27	flat@name	_	Gloss=Hussein|SpaceAfter=No
@@ -465,7 +465,7 @@
 17	ƙawanyàː	ƙawanyàː	NOUN	_	ExtPos=NOUN|Gender=Fem	16	mod	_	Gloss=XX|SpaceAfter=No
 18	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 19	sànnan	sànnan	ADV	_	_	21	mod	_	Gloss=XX
-20	kuma	kuma	ADV	_	_	19	discourse@top	_	Gloss=thus
+20	kuma	kuma	PART	_	_	19	discourse@top	_	Gloss=also
 21	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	13	parataxis@conj	_	Gloss=XX
 22	kullèː	kull-	VERB	_	_	21	comp:aux	_	Gloss=XX
 23	duk	dukà	DET	_	PronType=Tot	24	det	_	Gloss=XX
@@ -511,7 +511,7 @@
 1	Ganin	Ganin	PROPN	_	_	5	subj	_	Gloss=Ganin
 2	hakà	hakà	ADV	_	_	7	mod	_	Gloss=XX
 3	neː	neː	PART	_	Gender=Masc	2	discourse@foc	_	Gloss=XX
-4	kuma	kuma	ADV	_	_	5	cc	_	Gloss=thus
+4	kuma	kuma	PART	_	_	5	cc	_	Gloss=also
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 6	sâː	sâː	VERB	_	_	5	comp:aux	_	Gloss=XX
 7	suː	suː	PRON	_	Number=Plur|Person=3	6	comp:obj	_	Gloss=XX
@@ -558,7 +558,7 @@
 14	à	à	ADP	_	_	8	mod	_	Gloss=at
 15	Kàtsinà	Kàtsinà	PROPN	_	_	14	comp:obj	_	Gloss=Kàtsinà
 16	dà	dà	CCONJ	_	_	18	cc	_	Gloss=XX
-17	kuma	kuma	ADV	_	_	16	discourse@top	_	Gloss=thus
+17	kuma	kuma	PART	_	_	16	discourse@top	_	Gloss=also
 18	Kanòː	Kanòː	PROPN	_	_	14	comp:obj	_	Gloss=Kanòː|SpaceAfter=No
 19	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 20	tòː	tòː	INTJ	_	_	32	discourse	_	Gloss=XX
