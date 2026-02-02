@@ -334,8 +334,8 @@
 8	har̃	har̃	SCONJ	_	Definite=Cons|Gender=Fem	7	comp:obj	_	Gloss=XX
 9	akà	nàː	AUX	_	Aspect=Prog|Person=4	7	comp:obj	_	Gloss=XX
 10	sàːmi	saːm-	VERB	_	_	9	comp:aux	_	Gloss=XX
-11	Chief	Chief	PROPN	_	_	10	comp:obj	_	Gloss=Chief
-12	G.F.	G.F.	PROPN	_	_	11	flat@name	_	Gloss=G.F.
+11	Chief	Chief	PROPN	_	_	12	mod@desc	_	Gloss=Chief
+12	G.F.	G.F.	PROPN	_	_	10	:obj	_	Gloss=G.F.
 13	dà	dà	CCONJ	_	_	10	comp:obl	_	Gloss=XX
 14	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	15	det	_	Gloss=Prox.Sing
 15	lâifiː	lâifiː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=XX|SpaceAfter=No
@@ -359,8 +359,8 @@
 2	dà	dà	SCONJ	_	_	1	unk	_	Gloss=COMP
 3	daɗèːwaː	daɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:obj	_	Gloss=XX
 4	nèː	neː	AUX	_	Gender=Masc|Number=Plur	1	discourse@foc	_	Gloss=XX
-5	Chief	Chief	PROPN	_	_	7	subj	_	Gloss=Chief
-6	G.F.	G.F.	PROPN	_	_	5	flat@name	_	Gloss=G.F.
+5	Chief	Chief	PROPN	_	_	6	mod@desc	_	Gloss=Chief
+6	G.F.	G.F.	PROPN	_	_	7	subj	_	Gloss=G.F.
 7	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 8	zama	zama	VERB	_	_	7	comp:aux	_	Gloss=become
 9	ƙayàː	ƙayàː	NOUN	_	Gender=Fem	8	comp:pred	_	Gloss=thorn.Fem
@@ -427,7 +427,7 @@
 13	tabbatar̃	tabbataː	VERB	_	Definite=Cons|Gender=Fem	12	comp:obj	_	Gloss=XX
 14	dà	dà	ADP	_	_	13	comp:obl	_	Gloss=XX
 15	ꞌyancìn	ꞌyancìː	NOUN	_	Definite=Cons|Number=Plur	14	comp:obj	_	Gloss=XX
-16	ɗan	ɗaː	ADJ	_	Definite=Cons|Gender=Masc	15	mod	_	Gloss=XX
+16	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	15	mod	_	Gloss=child.Masc.Cons
 17	Adàm	Adàm	PROPN	_	_	16	compound	_	Gloss=Adàm
 18	gà	gà	ADP	_	_	13	comp:obl	_	Gloss=to
 19	jàmaꞌàr̃	jàmaꞌàː	NOUN	_	Definite=Cons|Number=Plur	18	comp:obj	_	Gloss=XX
@@ -441,8 +441,8 @@
 1	Wannàn	wannàn	DET	_	Gender=Masc|PronType=Dem	2	det	_	Gloss=XX
 2	yaːƙìn	yaːƙìː	NOUN	_	Definite=Cons|Gender=Masc	10	subj	_	Gloss=XX
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
-4	Chief	Chief	PROPN	_	_	6	subj	_	Gloss=Chief
-5	G.F.	G.F.	PROPN	_	_	4	flat@name	_	Gloss=G.F.
+4	Chief	Chief	PROPN	_	_	5	mod@desc	_	Gloss=Chief
+5	G.F.	G.F.	PROPN	_	_	6	subj	_	Gloss=G.F.
 6	kèː	nàː	AUX	_	Aspect=Prog	3	comp:obj	_	Gloss=XX
 7	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	Gloss=do
 8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=XX
@@ -494,7 +494,7 @@
 29	Giwa	Giwa	PROPN	_	_	28	flat@name	_	Gloss=Giwa|SpaceAfter=No
 30	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 31	wàːtòː	wàːtòː	PART	_	_	32	discourse	_	Gloss=that_is
-32	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	28	conj:appos	_	Gloss=XX|wordform=dan
+32	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	28	conj:appos	_	Gloss=child.Masc.Cons|wordform=dan
 33	jàr̃iːdàr̃	jàr̃iːdàː	NOUN	_	Gender=Fem	32	compound	_	Gloss=XX
 34	nan	nan	DET	_	Definite=Def|PronType=Dem	32	det	_	Gloss=XX
 35	dà	dà	SCONJ	_	_	32	mod@relcl	_	Gloss=COMP
@@ -528,9 +528,9 @@
 # text = An kaːmè Chief G.F. neː à watàn Yuːnì, wàːtòː loːkàcîn dà yakè cikin shirìn wani tàːroː indà ya yi wà tsaːrìn tattalin ar̃zìkin ƙasar̃ Nàːjeːr̃iyàː tatas.
 1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=XX
 2	kaːmè	kaːm-	VERB	_	_	1	comp:aux	_	Gloss=catch
-3	Chief	Chief	PROPN	_	_	2	comp:obj	_	Gloss=Chief
-4	G.F.	G.F.	PROPN	_	_	3	flat@name	_	Gloss=G.F.
-5	neː	neː	PART	_	Gender=Masc|Number=Plur	3	discourse@foc	_	Gloss=XX
+3	Chief	Chief	PROPN	_	_	4	parataxis@desc	_	Gloss=Chief
+4	G.F.	G.F.	PROPN	_	_	2	comp:obj	_	Gloss=G.F.
+5	neː	neː	PART	_	Gender=Masc|Number=Plur	4	discourse@foc	_	Gloss=XX
 6	à	à	ADP	_	_	2	mod	_	Gloss=at
 7	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	8	mod@desc	_	Gloss=month.Masc.Cons
 8	Yuːnì	Yuːnì	NOUN	_	_	6	comp:obj	_	Gloss=June.Masc|SpaceAfter=No
