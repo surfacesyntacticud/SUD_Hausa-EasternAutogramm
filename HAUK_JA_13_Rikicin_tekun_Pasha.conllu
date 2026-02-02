@@ -514,8 +514,8 @@
 28	duwàːtsuː	duːtsìː	NOUN	_	_	27	comp:obj	_	Gloss=stone.Plur|SpaceAfter=No
 29	.	.	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 
-# sent_id = 13_Rikicin_tekun_Pasha__15
-# text = Ganin hakà neː kuma ya sâː suː 'yan sàndân sukà mai dà mar̃tàniː dà bàr̃kòːnon tsoːhuwaː, dàgà ƙàrsheː sai ɗàːlìbân sukà jaː dà baːya sukà koːmàː cikin hàr̃aːbàr̃jaːmi'àr̃.
+# sent_id = 13_Rikicin_tekun_Pasha__15_split1
+# text = Ganin hakà neː kuma ya sâː suː 'yan sàndân sukà mai dà mar̃tàniː dà bàr̃kòːnon tsoːhuwaː,
 1	Ganin	ganiː	VERB	_	_	0	root	_	Gloss=see.Vnoun.Masc.Cons
 2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=XX
 3	neː	neː	PART	_	Gender=Masc	1	discourse@foc	_	Gloss=XX
@@ -530,23 +530,26 @@
 12	dà	dà	PART	_	PartType=Der	11	comp:obl	_	Gloss=XX
 13	mar̃tàniː	mar̃tàniː	NOUN	_	Definite=Ind|Gender=Masc	12	comp:obj	_	Gloss=retaliation.Masc
 14	dà	dà	CCONJ	_	_	11	comp:obl	_	Gloss=XX
-15	bàr̃kòːnon	bàr̃kòːnoː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:obj	_	Gloss=XX
-16	tsoːhuwaː	tsoːhuwaː	NOUN	_	Definite=Ind|Gender=Fem	15	mod	_	Gloss=XX|SpaceAfter=No
-17	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
-18	dàgà	dàgà	ADP	_	_	22	mod	_	Gloss=XX
-19	ƙàrsheː	ƙàrsheː	NOUN	_	Gender=Masc	18	comp:obj	_	Gloss=XX
-20	sai	sai	ADV	_	_	22	mod	_	Gloss=XX
-21	ɗàːlìbân	ɗaːlìbiː	NOUN	_	Definite=Def|Number=Plur	22	subj	_	Gloss=student.Plur.Def
-22	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	6	comp:obj	_	Gloss=XX
-23	jaː	jaː	VERB	_	_	22	comp:aux	_	Gloss=XX
-24	dà	dà	ADP	_	_	23	comp:obl	_	Gloss=XX
-25	baːya	baːya	ADV	_	_	24	comp:obj	_	Gloss=XX
-26	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	22	parataxis@conj	_	Gloss=XX
-27	koːmàː	koːmàː	VERB	_	_	26	comp:aux	_	Gloss=XX
-28	cikin	cikin	ADP	_	_	27	comp:obl	_	Gloss=XX
-29	hàr̃aːbàr̃	hàr̃aːbàː	NOUN	_	Definite=Cons|Gender=Fem	28	comp:obj	_	Gloss=campus.Fem.Cons|SpaceAfter=No|wordform=hàr̃aːbàr
-30	jaːmi'àr̃	jaːmi'àː	NOUN	_	Definite=Def|Gender=Fem	29	mod	_	Gloss=university.Fem.def|SpaceAfter=No
-31	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+15	bàr̃kòːnon	bàr̃kòːnoː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:obj	_	Gloss=pepper
+16	tsoːhuwaː	tsoːhoː	NOUN	_	Definite=Ind|Gender=Fem	15	compound	_	Gloss=old_person.Fem|SpaceAfter=No
+17	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+
+# sent_id = 13_Rikicin_tekun_Pasha__15_split2
+# text = dàgà ƙàrsheː sai ɗàːlìbân sukà jaː dà baːya sukà koːmàː cikin hàr̃aːbàr̃ jaːmi'àr̃ .
+1	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=XX
+2	ƙàrsheː	ƙàrsheː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=XX
+3	sai	sai	ADV	_	_	5	mod	_	Gloss=XX
+4	ɗàːlìbân	ɗaːlìbiː	NOUN	_	Definite=Def|Number=Plur	5	subj	_	Gloss=student.Plur.Def
+5	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	_	_	_	Gloss=XX
+6	jaː	jaː	VERB	_	_	5	comp:aux	_	Gloss=XX
+7	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=XX
+8	baːya	baːya	ADV	_	_	7	comp:obj	_	Gloss=XX
+9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	5	parataxis@conj	_	Gloss=XX
+10	koːmàː	koːmàː	VERB	_	_	9	comp:aux	_	Gloss=XX
+11	cikin	cikin	ADP	_	_	10	comp:obl	_	Gloss=XX
+12	hàr̃aːbàr̃	hàr̃aːbàː	NOUN	_	Definite=Cons|Gender=Fem	11	comp:obj	_	Gloss=campus.Fem.Cons|SpaceAfter=No|wordform=hàr̃aːbàr
+13	jaːmi'àr̃	jaːmi'àː	NOUN	_	Definite=Def|Gender=Fem	12	mod	_	Gloss=university.Fem.def|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha__16
 # text = Baːbù wani r̃àhoːtòn raunukàː dàː akà saːmùː sànàdiyyàr̃ zàngà-zangàr̃ dà akà yi duk à Kàtsinà dà kuma Kanòː, tòː àmmaː kiràn dà Sarkin Mùsùlmiː ya yi na à zaunàː laːfiyàː yaː nuːnàː kèːnan àːkwai yìːwuwar̃ ɓarkèːwar̃ taːshìn hankàliː
