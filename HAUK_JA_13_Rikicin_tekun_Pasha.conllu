@@ -2,7 +2,7 @@
 # text = An yi zàngà-zangà a areːwacin Nàːjeːr̃iyàː gàme dà rìkicin tèːkun Paːshà
 1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=XX
 2	yi	yi	VERB	_	_	1	comp:aux	_	Gloss=XX
-3	zàngà-zangà	zàngà-zangà	ADV	_	_	2	comp:pred	_	Gloss=XX
+3	zàngà-zangà	zàngà-zangà	NOUN	_	_	2	comp:pred	_	Gloss=demonstration.Fem
 4	a	a	ADP	_	_	2	mod	_	Gloss=XX
 5	areːwacin	areːwaciː	NOUN	_	Definite=Cons	4	comp:obj	_	Gloss=XX
 6	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	Number=Plur	5	mod	_	Gloss=Nigeria
@@ -338,43 +338,43 @@
 # text = Dàːmuwâr̃ dà shùgàbànnin mùsùlmiː kèː nuːnàːwaː taː biyoː baːyan zàngà-zangàr̃ dà akà yi nèː har̃ sàu biyu à areːwacin Nàːjeːr̃iyàr̃.
 1	Dàːmuwâr̃	dàːmuwaː	NOUN	_	_	7	subj	_	Gloss=worry.Fem.cons
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=XX
-3	shùgàbànnin	shùgàbànniː	NOUN	_	Definite=Cons|Number=Plur	5	conj:coord	_	Gloss=XX
-4	mùsùlmiː	mùsùlmiː	NOUN	_	Gender=Masc	3	mod	_	Gloss=XX
+3	shùgàbànnin	shùgàbàː	NOUN	_	Definite=Cons|Number=Plur	5	conj:coord	_	Gloss=leader.Plur.Cons
+4	mùsùlmiː	mùsùlmiː	NOUN	_	_	3	mod	_	Gloss=muslim.Plur
 5	kèː	nàː	AUX	_	Aspect=Prog	2	comp:obj	_	Gloss=XX
 6	nuːnàːwaː	nuːn-	NOUN	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	5	comp:aux	_	Gloss=show.Vnoun.Fem
 7	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=XX
-8	biyoː	biyaː	VERB	_	_	7	comp:aux	_	Gloss=XX
-9	baːyan	baːyan	ADP	_	_	8	mod	_	Gloss=XX
-10	zàngà-zangàr̃	zàngà-zangàr̃	NOUN	_	_	9	comp:obj	_	Gloss=XX
+8	biyoː	biyaː	VERB	_	_	7	comp:aux	_	Gloss=follow
+9	baːyan	baːyan	ADP	_	_	8	mod	_	Gloss=after
+10	zàngà-zangàr̃	zàngà-zangàr̃	NOUN	_	_	9	comp:obj	_	Gloss=demonstration.Fem.Def
 11	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=XX
 12	akà	nàː	AUX	_	Aspect=Prog|Person=4	11	comp:obj	_	Gloss=XX
 13	yi	yi	VERB	_	_	12	comp:aux	_	Gloss=XX
 14	nèː	neː	PART	_	Gender=Masc|Number=Plur	13	discourse@foc	_	Gloss=XX
-15	har̃	har̃	ADP	_	_	13	mod	_	Gloss=XX
-16	sàu	sàu	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=XX
-17	biyu	biyu	NUM	_	_	16	det	_	_
+15	har̃	har̃	ADP	_	_	13	mod	_	Gloss=up_to
+16	sàu	sàu	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=time.Masc
+17	biyu	biyu	NUM	_	_	16	det	_	Gloss=two
 18	à	à	ADP	_	_	13	mod	_	Gloss=at
-19	areːwacin	areːwacin	ADP	_	_	18	comp:obj	_	Gloss=XX
-20	Nàːjeːr̃iyàr̃	Nàːjeːr̃iyàr̃	PROPN	_	_	19	mod	_	Gloss=Nàːjeːr̃iyàr̃|SpaceAfter=No
+19	areːwacin	areːwacin	ADP	_	_	18	comp:obj	_	Gloss=north
+20	Nàːjeːr̃iyàr̃	Nàːjeːr̃iyàr̃	PROPN	_	_	19	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 21	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha__10-1
-# text = An yi zàngà-zangàr̃ farkoː nè à bir̃nin Kàtsinà indà ɗaruːruwàn matàːsaː sukà yi zàngà-zangàr̃ nuːnà rashìn goːyon baːyan Shùːgàbaː " George Bush " dà kuma Shùːgàbaː Saddam Hussein.
+# text = An yi zàngà-zangàr̃ farkoː nèː à bir̃nin Kàtsinà indà ɗaruːruwàn matàːsaː sukà yi zàngà-zangàr̃ nuːnà rashìn goːyon baːyan Shùːgàbaː " George Bush " dà kuma Shùːgàbaː Saddam Hussein.
 1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=XX
 2	yi	yi	VERB	_	_	1	comp:aux	_	Gloss=XX
-3	zàngà-zangàr̃	zàngà-zangàː	NOUN	_	Definite=Cons|Gender=Fem	2	comp:pred	_	Gloss=XX
-4	farkoː	farkoː	NOUN	_	Gender=Masc	3	mod	_	Gloss=XX
-5	nè	eː	PART	_	_	7	discourse@foc	_	Gloss=XX
+3	zàngà-zangàr̃	zàngà-zangà	NOUN	_	Definite=Cons|Gender=Fem	2	comp:pred	_	Gloss=demonstration.Fem.Cons
+4	farkoː	farkoː	NOUN	_	Gender=Masc	3	mod	_	Gloss=beginning.Masc
+5	nèː	nèː	PART	_	_	2	discourse@foc	_	Gloss=XX
 6	à	à	ADP	_	_	2	mod	_	Gloss=at
-7	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	8	mod@desc	_	Gloss=XX
+7	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	8	mod@desc	_	Gloss=city.Masc.Cons
 8	Kàtsinà	Kàtsinà	PROPN	_	_	6	comp:obj	_	Gloss=Kàtsinà
-9	indà	indà	ADV	_	PronType=Rel	13	mod	_	Gloss=XX
-10	ɗaruːruwàn	ɗaruːruwàː	NOUN	_	Definite=Cons|Number=Plur	12	subj	_	Gloss=XX
-11	matàːsaː	matàːsaː	NOUN	_	Number=Plur	10	mod	_	Gloss=XX
+9	indà	indà	ADV	_	PronType=Rel	13	mod	_	Gloss=where
+10	ɗaruːruwàn	ɗàriː	NOUN	_	Definite=Cons|Number=Plur	12	subj	_	Gloss=hundred.Plur.Cons
+11	matàːsaː	matàːshiː	NOUN	_	Number=Plur	10	mod	_	Gloss=youth.Plur
 12	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	8	mod@relcl	_	Gloss=XX
 13	yi	yi	VERB	_	_	12	comp:aux	_	Gloss=XX
-14	zàngà-zangàr̃	zàngà-zangàr̃	NOUN	_	Definite=Cons|Gender=Masc	13	comp:pred	_	Gloss=XX
-15	nuːnà	nuːn-	DET	_	_	14	mod	_	Gloss=show
+14	zàngà-zangàr̃	zàngà-zangà	NOUN	_	Definite=Cons|Gender=Masc	13	comp:pred	_	Gloss=demonstration.Fem.Cons
+15	nuːnà	nuːn-	VERB	_	_	14	mod	_	Gloss=show
 16	rashìn	ras-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:obj	_	Gloss=lack.Vnoun.Masc.Cons
 17	goːyon	goːy-	VERB	_	_	16	comp.obj	_	Gloss=support.Vnoun.Masc.Cons
 18	baːyan	baːyan	NOUN	_	_	17	comp.obj	_	Gloss=back.Masc.Cons
@@ -394,7 +394,7 @@
 # text = An yi zàngà-zangà ta biyûn à Kanòː indà 'yan sàndan kashè tàr̃zòːmaː sukà yi sàmmakoː zuwàː hàr̃aːbàr̃ Jaːmi'àr̃ Bàyer̃ò ta Kanòː, don sù hanà ɗàːlìban jaːmi'àr̃ gudaːnar̃ dà zàngà-zangàr̃ lùmaːnàr̃ dà sukà shiryà yîː don nuːnà rashìn amìncêːwar̃sù dà harìn dà ƙasar̃Amìr̃kà dà àːbòːkan ƙàwàncentà sukà kai wà ƙasar̃ Ìr̃aːƙì.
 1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=XX
 2	yi	yi	VERB	_	_	1	comp:aux	_	Gloss=XX
-3	zàngà-zangà	zàngà-zangà	NOUN	_	Number=Plur	2	comp:pred	_	Gloss=XX
+3	zàngà-zangà	zàngà-zangà	NOUN	_	Number=Plur	2	comp:pred	_	Gloss=demonstration.Fem
 4	ta	ta	ADP	_	Aspect=Iter	3	mod	_	Gloss=XX
 5	biyûn	biyû	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:obj	_	Gloss=XX
 6	à	à	ADP	_	_	3	mod	_	Gloss=at
@@ -421,7 +421,7 @@
 27	jaːmi'àr̃	jaːmi'àː	NOUN	_	Definite=Ind|Gender=Fem	26	mod	_	Gloss=XX
 28	gudaːnar̃	gudaːnaː	VERB	_	Gender=Fem	27	mod	_	Gloss=XX
 29	dà	dà	ADP	_	_	28	comp:obl	_	Gloss=XX
-30	zàngà-zangàr̃	zàngà-zangàr̃	NOUN	_	Definite=Cons|Gender=Fem	27	conj:coord	_	Gloss=XX
+30	zàngà-zangàr̃	zàngà-zangàr̃	NOUN	_	Definite=Cons|Gender=Fem	27	conj:coord	_	Gloss=demonstration.Fem.Cons
 31	lùmaːnàr̃	lùmaːnàr̃	NOUN	_	_	30	mod	_	Gloss=XX
 32	dà	dà	SCONJ	_	_	31	mod@relcl	_	Gloss=XX
 33	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	32	comp:obj	_	Gloss=XX
@@ -556,7 +556,7 @@
 6	akà	nàː	AUX	_	Aspect=Prog|Person=4	5	comp:obj	_	Gloss=XX
 7	saːmùː	saːmùː	VERB	_	_	6	comp:aux	_	Gloss=XX
 8	sànàdiyyàr̃	sànàdiyyàː	NOUN	_	Definite=Ind|Gender=Fem	7	comp:obj	_	Gloss=XX
-9	zàngà-zangàr̃	zàngà-zangàː	NOUN	_	_	8	mod	_	Gloss=XX
+9	zàngà-zangàr̃	zàngà-zangàː	NOUN	_	_	8	mod	_	Gloss=demonstration.Fem.Def
 10	dà	dà	SCONJ	_	_	8	mod	_	Gloss=XX
 11	akà	nàː	AUX	_	Aspect=Prog|Person=4	10	comp:obj	_	Gloss=XX|wordform=aka
 12	yi	yi	VERB	_	_	11	comp:aux	_	Gloss=XX
