@@ -1,7 +1,7 @@
 # sent_id = 02_Yarima_Charles__1
 # text = Yàr̃iːmà Charles yaː kai zìyaːr̃àː zuwàː Afìr̃kà ta Yâmma
 # text_ortho = Yàr̃iːmà Charles yaː kai zìyaːr̃àː zuwàː Afìr̃kà ta Yâmma
-1	Yàr̃iːmà	Yàr̃iːmà	PROPN	_	_	2	mod	_	Gloss=Yàr̃iːmà
+1	Yàr̃iːmà	yàr̃iːmà	NOUN	_	_	2	mod@desc	_	Gloss=prince.Masc
 2	Charles	Charles	PROPN	_	_	3	subj	_	Gloss=Charles
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 4	kai	kai	VERB	_	_	3	comp:aux	_	Gloss=reach/carry_to
@@ -124,7 +124,7 @@
 14	kèː	nèːː	AUX	_	Aspect=Prog	13	comp:obj	_	Gloss=XX
 15	Ìkko	Ìkko	PROPN	_	_	14	comp:pred	_	Gloss=Lagos|SpaceAfter=No
 16	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-17	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	21	subj	_	Gloss=XX
+17	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	21	subj	_	Gloss=who.Masc
 18	à	à	ADP	_	_	21	mod	_	Gloss=at
 19	dâː	dâː	ADV	_	_	18	comp:obj	_	Gloss=XX
 20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	21	comp:pred	_	Gloss=XX
@@ -149,7 +149,7 @@
 6	tèːku	tèːku	NOUN	_	Gender=Masc|Number=Plur	5	mod	_	Gloss=XX
 7	kuma	kuma	PART	_	_	10	cc	_	Gloss=also
 8	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	10	mod	_	Gloss=XX
-9	yànzu	yànzu	ADV	_	_	8	comp:obj	_	Gloss=XX
+9	yànzu	yànzu	ADV	_	_	8	comp:obj	_	Gloss=now
 10	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	2	conj:coord	_	Gloss=XX
 11	dà	dà	ADP	_	_	10	comp:pred	_	Gloss=XX
 12	ban	ban	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:obj	_	Gloss=XX
@@ -183,7 +183,7 @@
 3	bàː	bàː	PART	_	Polarity=Neg	5	mod	_	Gloss=XX
 4	dukkàn	dukkàn	DET	_	_	5	mod	_	Gloss=XX
 5	abuːbuwàn	àbù	NOUN	_	Definite=Cons|Number=Plur	0	root	_	Gloss=XX
-6	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	5	mod	_	Gloss=XX
+6	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	5	mod	_	Gloss=hear.Vnoun.Masc.Cons
 7	daːɗin	daːɗiː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	Gloss=XX
 8	ràːyuwaː	ràːyuwaː	NOUN	_	Gender=Fem	7	mod	_	Gloss=XX
 9	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
@@ -244,14 +244,14 @@
 7	Britannia	Britannia	PROPN	_	_	2	conj:appos	_	Gloss=Britannia|SpaceAfter=No
 8	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT|wordform=’
 9	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	10	comp:pred	_	Gloss=XX
-10	nèː	neː	PART	_	_	0	discourse@foc	_	Gloss=XX
+10	nèː	neː	PART	_	_	0	root	_	Gloss=XX
 11	don	don	SCONJ	_	_	10	dislocated@comp	_	Gloss=so_that
-12	Yàr̃iːmà	Yàr̃iːmà	PROPN	_	_	16	subj	_	Gloss=Yàr̃iːmà
-13	Charles	Charles	PROPN	_	_	12	flat@name	_	Gloss=Charles
+12	Yàr̃iːmà	yàr̃iːmà	NOUN	_	_	13	mod@desc	_	Gloss=prince.Masc
+13	Charles	Charles	PROPN	_	_	16	subj	_	Gloss=Charles
 14	dà	dà	CCONJ	_	_	15	cc	_	Gloss=XX
-15	Gimbìyaː	Gimbìyaː	PROPN	_	_	12	conj:coord	_	Gloss=Gimbìyaː
+15	Gimbìyaː	gimbìyaː	NOUN	_	_	13	conj:coord	_	Gloss=princess.Fem
 16	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	11	comp:obj	_	Gloss=XX
-17	sàːmu	saːmùː	VERB	_	_	16	comp:aux	_	Gloss=XX
+17	sàːmu	saːm-	VERB	_	_	16	comp:aux	_	Gloss=get
 18	wani	wani	DET	_	Definite=Spec|Gender=Masc	19	det	_	Gloss=some.Masc.Spec
 19	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	17	comp:obj	_	Gloss=Masc.Def
 20	dà	dà	SCONJ	_	_	19	mod@relcl	_	Gloss=COMP
@@ -410,7 +410,7 @@
 9	na	na	PART	_	Case=Gen|PartType=Pred	7	mod	_	Gloss=Gen
 10	Korup	Korup	PROPN	_	_	9	comp:obj	_	Gloss=Korup|SpaceAfter=No
 11	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-12	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	16	subj	_	Gloss=XX
+12	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	16	subj	_	Gloss=who.Masc
 13	kuma	kuma	PART	_	_	12	discourse@top	_	Gloss=also
 14	wataƙiːlà	wataƙiːlà	NOUN	_	Gender=Fem	16	mod	_	Gloss=XX
 15	shiː	shiː	PRON	_	Gender=Masc|Person=3	16	comp:pred	_	Gloss=XX
