@@ -134,7 +134,7 @@
 1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	10	mod	_	Gloss=Masc.Def
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 3	ƙùːraː	ƙùːraː	NOUN	_	Gender=Fem	4	subj	_	Gloss=XX
-4	ta	ta	ADP	_	Case=Gen|Gender=Fem	2	comp:obj	_	Gloss=XX
+4	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	2	comp:obj	_	Gloss=Gen.Fem
 5	lafàː	lafàː	VERB	_	_	4	comp:obj	_	Gloss=XX|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	10	mod	_	Gloss=XX
@@ -215,7 +215,7 @@
 24	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	22	comp:obj	_	Gloss=type.Masc.Cons
 25	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	26	det	_	Gloss=Prox.Sing
 26	rauniː	rauniː	NOUN	_	Gender=Masc	24	mod	_	Gloss=XX
-27	na	na	ADP	_	Case=Gen	26	mod	_	Gloss=XX
+27	na	na	PART	_	Case=Gen|PartType=Pred	26	mod	_	Gloss=Gen
 28	har̃bìn	har̃bìː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:obj	_	Gloss=XX
 29	bindigàː	bindigàː	NOUN	_	Number=Plur	28	mod	_	Gloss=XX|SpaceAfter=No
 30	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -243,7 +243,7 @@
 19	sàːce-sàːcên	sàːce-sàːce	NOUN	_	Number=Plur	17	conj:coord	_	Gloss=XX
 20	dà	dà	SCONJ	_	_	19	mod@relcl	_	Gloss=COMP
 21	akèː	nàː	AUX	_	Aspect=Prog|Person=4	20	comp:obj	_	Gloss=XX
-22	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	comp:aux	_	Gloss=do
+22	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	comp:aux	_	Gloss=do.Vnoun.Masc
 23	à	à	ADP	_	_	22	mod	_	Gloss=at
 24	cikin	cikin	ADP	_	_	23	comp:obj	_	Gloss=inside
 25	Nàːjeːr̃iyàr̃	Nàːjeːr̃iyàr̃	PROPN	_	Definite=Def|Gender=Fem	24	comp:obj	_	Gloss=Nigeria.Def
@@ -333,7 +333,7 @@
 18	ƙaːrà	ƙaːr-	VERB	_	_	17	comp:aux	_	Gloss=increase
 19	himmàː	himmàː	VERB	_	Gender=Masc	18	comp:obj	_	Gloss=XX
 20	wajen	wajen	ADP	_	_	19	comp:obl	_	Gloss=XX
-21	yaːƙìː	yaːƙìː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=XX
+21	yaːƙìː	yaːƙìː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=fight.Masc
 22	dà	dà	ADP	_	_	21	comp:obl	_	Gloss=XX
 23	ɓàràːyiː	ɓàràːyiː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=XX|SpaceAfter=No
 24	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
@@ -341,7 +341,7 @@
 26	kuma	kuma	PART	_	_	25	discourse	_	Gloss=also
 27	wargàzà	wargàzàː	VERB	_	_	25	comp:aux	_	Gloss=XX
 28	ƙungiỳar̃	ƙungiỳar̃	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	27	comp:obj	_	Gloss=XX
-29	bàbban	bàbbaː	ADJ	_	Definite=Cons|Number=Plur	30	mod	_	Gloss=XX
+29	bàbban	bàbba	ADJ	_	Definite=Cons|Number=Plur	30	mod	_	Gloss=XX
 30	ɓàraːwòn	ɓàraːwòː	NOUN	_	Definite=Cons|Gender=Masc	28	mod	_	Gloss=XX
 31	nan	nan	DET	_	PronType=Dem	30	det	_	Gloss=XX
 32	mài	mài	PART	_	Number=Sing|PartType=Der	30	mod	_	Gloss=owner/doer_of.Sing
@@ -373,7 +373,7 @@
 6	cêːwaː	cêː	VERB	_	Gender=Fem	5	comp:obj	_	Gloss=XX
 7	dòːkar̃	dòːkaː	NOUN	_	Definite=Cons|Gender=Fem	27	dislocated@subj	_	Gloss=XX
 8	soːjì	soːjì	NOUN	_	Gender=Masc	7	mod	_	Gloss=XX
-9	ta	ta	ADP	_	_	8	mod	_	Gloss=XX
+9	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	8	mod	_	Gloss=Gen.Fem
 10	biyu	biyu	NUM	_	_	9	comp:obj	_	Gloss=XX
 11	-	-	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	13	subj	_	Gloss=XX
@@ -399,6 +399,6 @@
 32	sàːce-sàːcên	sàːce-sàːce	NOUN	_	Definite=Cons|Gender=Masc	31	mod	_	Gloss=XX
 33	dà	dà	SCONJ	_	_	32	mod@relcl	_	Gloss=COMP
 34	akèː	nàː	AUX	_	Aspect=Prog|Person=4	33	comp:obj	_	Gloss=XX
-35	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	34	comp:aux	_	Gloss=do|SpaceAfter=No
+35	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	34	comp:aux	_	Gloss=do.Vnoun.Masc|SpaceAfter=No
 36	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 

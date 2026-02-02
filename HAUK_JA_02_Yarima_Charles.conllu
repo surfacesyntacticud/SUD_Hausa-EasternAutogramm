@@ -8,8 +8,8 @@
 5	zìyaːr̃àː	zìyaːr̃àː	NOUN	_	_	4	comp:obj	_	Gloss=XX
 6	zuwàː	zuwàː	ADP	_	_	5	mod	_	Gloss=towards
 7	Afìr̃kà	Afìr̃kà	PROPN	_	_	6	comp:obj	_	Gloss=Africa
-8	ta	ta	ADP	_	_	7	mod	_	Gloss=XX
-9	Yâmma	Yâmma	PROPN	_	_	8	comp:obj	_	Gloss=Yâmma
+8	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	7	mod	_	Gloss=Gen.Fem
+9	Yâmma	yâmma	ADV	_	_	8	comp:obj	_	Gloss=west
 
 # sent_id = 02_Yarima_Charles__2
 # text = gàː mafìː yawancin ꞌyan Nàːjeːr̃iyàː, ɓullôːwar̃ jirgin ruwân nan mài suːnaː « Britannia » à gaːɓàr̃ Tèːkun Ìkko kwaːnan baːya, ita cèː àlaːmàː ta farkoː dà ta nuːnà cêːwaː 'yan gidan sàrautàr̃ Bìrtaːniyàː sunàː zìyaːr̃àr̃ Nàːjeːr̃iyàː.
@@ -39,7 +39,7 @@
 23	ita	ita	PRON	_	Gender=Fem|Person=3	24	comp:pred	_	Gloss=XX
 24	cèː	neː	AUX	_	Gender=Fem	0	root	_	Gloss=XX
 25	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	24	dislocated@comp	_	Gloss=XX
-26	ta	ta	ADP	_	Gender=Fem|Person=3	25	mod	_	Gloss=XX
+26	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred|Person=3	25	mod	_	Gloss=Gen.Fem
 27	farkoː	farkoː	NOUN	_	Gender=Masc	26	comp:obj	_	Gloss=XX
 28	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=COMP
 29	ta	ta	AUX	_	Case=Gen|Gender=Fem	28	comp:obj	_	Gloss=XX
@@ -63,7 +63,7 @@
 4	kèː	keː	AUX	_	Aspect=Prog|Relative=Yes	3	comp:obj	_	Gloss=XX
 5	kân	kân	ADP	_	_	4	comp:pred	_	Gloss=on
 6	gadoːjiː	gadoːjiː	NOUN	_	Number=Plur	5	comp:obj	_	Gloss=XX
-7	na	na	ADP	_	_	6	mod	_	Gloss=XX
+7	na	na	PART	_	Case=Gen|PartType=Pred	6	mod	_	Gloss=Gen
 8	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=XX
 9	Ìkko	Ìkko	PROPN	_	_	8	mod	_	Gloss=Lagos
 10	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=XX
@@ -79,7 +79,7 @@
 20	"	"	PUNCT	_	_	21	punct	_	Gloss=PUNCT|wordform=‘
 21	Rolex	Rolex	PROPN	_	_	16	conj:coord	_	Gloss=Rolex|SpaceAfter=No
 22	"	"	PUNCT	_	_	21	punct	_	Gloss=PUNCT|wordform=’
-23	na	na	ADP	_	_	21	mod	_	Gloss=XX
+23	na	na	PART	_	Case=Gen|PartType=Pred	21	mod	_	Gloss=Gen
 24	jàbu	jàbu	ADJ	_	Number=Plur	23	comp:obj	_	Gloss=XX
 25	à	à	ADP	_	ExtPos=ADP	11	mod	_	Gloss=at|Idiom=Yes
 26	tsàːkaːnin	tsàːkaːniː	NOUN	_	Definite=Cons|Number=Plur	25	comp:obj	_	Gloss=XX|InIdiom=Yes
@@ -294,7 +294,7 @@
 15	fiːlin	fiːliː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:obj	_	Gloss=field.Masc.Cons
 16	jirgin	jirgiː	NOUN	_	Definite=Cons|Gender=Masc	15	mod	_	Gloss=XX
 17	samàn	samàː	NOUN	_	_	16	mod	_	Gloss=XX
-18	na	na	ADP	_	Case=Gen	15	mod	_	Gloss=XX
+18	na	na	PART	_	Case=Gen|PartType=Pred	15	mod	_	Gloss=Gen
 19	Inugù	Inugù	PROPN	_	_	18	comp:obj	_	Gloss=Inugù|SpaceAfter=No
 20	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
@@ -407,7 +407,7 @@
 6	zìyàr̃ci	zìyàr̃caː	VERB	_	_	5	comp:aux	_	Gloss=XX
 7	gandun	ganduː	NOUN	_	Definite=Cons|Gender=Masc	6	mod	_	Gloss=XX
 8	daːjìː	daːjìː	NOUN	_	Gender=Masc	7	mod	_	Gloss=XX
-9	na	na	ADP	_	_	7	mod	_	Gloss=XX
+9	na	na	PART	_	Case=Gen|PartType=Pred	7	mod	_	Gloss=Gen
 10	Korup	Korup	PROPN	_	_	9	comp:obj	_	Gloss=Korup|SpaceAfter=No
 11	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 12	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	16	subj	_	Gloss=XX
@@ -444,7 +444,7 @@
 2	ìsa	ìsa	VERB	_	_	1	comp:aux	_	Gloss=XX
 3	daːjìn	daːjìː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj	_	Gloss=XX
 4	neː	neː	PART	_	_	3	discourse@foc	_	Gloss=XX
-5	ta	ta	ADP	_	_	2	mod	_	Gloss=XX
+5	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	2	mod	_	Gloss=Gen.Fem
 6	wata	wani	DET	_	Definite=Spec|Gender=Masc	7	det	_	Gloss=some.Fem.Spec
 7	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:obj	_	Gloss=type.Masc.Cons
 8	gadàː	gadàː	NOUN	_	Gender=Fem	7	mod	_	Gloss=XX
@@ -464,7 +464,7 @@
 4	bìyar̃	bìyar̃	NUM	_	_	2	conj:coord	_	Gloss=five
 5	cikin	cikin	ADP	_	_	1	mod	_	Gloss=inside
 6	ɗàriː	ɗàriː	NOUN	_	Gender=Fem|Number=Plur	5	comp:obj	_	Gloss=hundred.Fem
-7	na	na	ADP	_	Definite=Cons	1	mod	_	Gloss=XX
+7	na	na	PART	_	Case=Gen|Definite=Cons|PartType=Pred	1	mod	_	Gloss=Gen
 8	duk	duk	DET	_	_	9	det	_	Gloss=XX
 9	yawàn	yawàn	ADJ	_	_	7	mod	_	Gloss=quantity.Masc.Cons
 10	jinsunàn	jinsìː	NOUN	_	Definite=Def|Number=Plur	9	mod	_	Gloss=species.Plur.Def

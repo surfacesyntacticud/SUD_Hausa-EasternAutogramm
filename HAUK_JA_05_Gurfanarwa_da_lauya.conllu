@@ -76,7 +76,7 @@
 12	-	-	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 13	wàːtòː	wàːtòː	PART	_	_	14	discourse	_	Gloss=that_is
 14	Dòːkaː	Dòːkaː	PROPN	_	_	11	conj:appos	_	Gloss=Dòːkaː
-15	ta	ta	ADP	_	_	14	mod	_	Gloss=XX
+15	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	14	mod	_	Gloss=Gen.Fem
 16	Biyu	Biyu	PROPN	_	_	15	comp:obj	_	Gloss=Biyu
 17	-	-	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 18	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	19	subj	_	Gloss=XX
@@ -150,7 +150,7 @@
 6	bìsàː	bìsàː	ADP	_	_	4	comp:obl	_	Gloss=according_to
 7	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	8	det	_	Gloss=Prox.Sing
 8	Dòːkaː	Dòːkaː	PROPN	_	_	6	comp:obj	_	Gloss=Dòːkaː
-9	ta	ta	ADP	_	_	8	mod	_	Gloss=XX
+9	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	8	mod	_	Gloss=Gen.Fem
 10	Biyu	biyu	NUM	_	_	9	comp:obj	_	Gloss=XX|SpaceAfter=No
 11	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 12	tòː	tòː	INTJ	_	_	13	discourse	_	Gloss=XX
@@ -189,7 +189,7 @@
 20	ƙàr̃ƙashin	ƙàr̃ƙashin	ADP	_	_	12	mod	_	Gloss=XX
 21	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	22	det	_	Gloss=Prox.Sing
 22	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	20	comp:obj	_	Gloss=XX
-23	ta	ta	ADP	_	Case=Gen|Gender=Fem	22	mod	_	Gloss=XX
+23	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	22	mod	_	Gloss=Gen.Fem
 24	tsàron	tsar-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	23	comp:obj	_	Gloss=XX
 25	laːfiyar̃	laːfiyaː	NOUN	_	Definite=Cons|Gender=Fem	24	mod	_	Gloss=XX
 26	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	25	mod	_	Gloss=country.Fem|SpaceAfter=No
@@ -234,7 +234,7 @@
 20	gàban	gàban	ADP	_	_	19	comp.obj	_	Gloss=front
 21	wata	wani	DET	_	Definite=Spec|Gender=Masc	22	det	_	Gloss=some.Fem.Spec
 22	koːtù	koːtù	NUM	_	Gender=Fem	20	comp:obj	_	Gloss=XX
-23	ta	ta	ADP	_	Case=Gen|Gender=Fem	22	mod	_	Gloss=XX
+23	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	22	mod	_	Gloss=Gen.Fem
 24	mùsammàn	mùsammàː	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=XX
 25	tàːre	tàːre	ADV	_	_	16	mod	_	Gloss=XX
 26	dà	dà	ADP	_	_	25	compound	_	Gloss=XX
@@ -288,7 +288,7 @@
 28	cikin	cikin	ADP	_	_	27	comp:obj	_	Gloss=inside
 29	wata	wani	DET	_	Definite=Spec|Gender=Masc	30	det	_	Gloss=some.Fem.Spec
 30	mùjallàː	mùjallàː	NOUN	_	_	28	comp:obj	_	Gloss=XX
-31	ta	na	ADP	_	Case=Gen|Gender=Fem	30	mod	_	Gloss=XX
+31	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Pred	30	mod	_	Gloss=Gen.Fem
 32	màːsu	mài	PART	_	Number=Plur|PartType=Der	31	comp:obj	_	Gloss=owner/doer_of.Plur
 33	r̃aꞌàyin	r̃aꞌàyiː	NOUN	_	Definite=Cons|Number=Plur	32	compound	_	Gloss=XX
 34	canjìː	canjìː	NOUN	_	Gender=Masc	33	mod	_	Gloss=XX
@@ -439,12 +439,12 @@
 # sent_id = 05_Gurfanarwa_da_lauya__19-20
 # text = Wannàn yaːƙìn dà Chief G.F. kèː yîː dà hukuːmoːmiː yaː yi sànàdiyyàr̃ zuwànsà koːtù har̃ kìːmaːnìn sàu tàlàːtin dà bìyar̃.
 1	Wannàn	wannàn	DET	_	Gender=Masc|PronType=Dem	2	det	_	Gloss=XX
-2	yaːƙìn	yaːƙìː	NOUN	_	Definite=Cons|Gender=Masc	10	subj	_	Gloss=XX
+2	yaːƙìn	yaːƙìː	NOUN	_	Definite=Def|Gender=Masc	10	subj	_	Gloss=fight.Masc.Def
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 4	Chief	Chief	PROPN	_	_	5	mod@desc	_	Gloss=Chief
 5	G.F.	G.F.	PROPN	_	_	6	subj	_	Gloss=G.F.
 6	kèː	nàː	AUX	_	Aspect=Prog	3	comp:obj	_	Gloss=XX
-7	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	Gloss=do
+7	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	Gloss=do.Vnoun.Masc
 8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=XX
 9	hukuːmoːmiː	hukuːmoːː	NOUN	_	Number=Plur	8	comp:obj	_	Gloss=XX
 10	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
@@ -509,7 +509,7 @@
 44	akà	nàː	AUX	_	Aspect=Prog|Person=4	43	comp:obj	_	Gloss=XX
 45	aikoː	aik-	VERB	_	_	44	comp:aux	_	Gloss=XX
 46	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	45	comp:obl	_	Gloss=XX
-47	ta	ta	ADP	_	Gender=Fem|Person=3	45	mod	_	Gloss=XX
+47	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred|Person=3	45	mod	_	Gloss=Gen.Fem
 48	cikin	cikin	ADP	_	_	47	comp:obj	_	Gloss=inside
 49	wàsiːƙàː	wàsiːƙàː	NOUN	_	Gender=Fem	48	comp:obj	_	Gloss=XX
 50	tun	tun	ADP	_	_	45	mod	_	Gloss=XX
@@ -578,7 +578,7 @@
 19	dà	dà	ADP	_	_	18	comp:obl	_	Gloss=XX
 20	Dòːkâr̃	dòːkaː	PROPN	_	Definite=Cons|Gender=Fem	19	comp:obj	_	Gloss=law.Fem.Cons
 21	nan	nan	DET	_	PronType=Dem	20	det	_	Gloss=XX
-22	ta	ta	ADP	_	_	20	mod	_	Gloss=XX
+22	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	20	mod	_	Gloss=Gen.Fem
 23	Biyu	biyu	NUM	_	_	22	comp:obj	_	Gloss=XX|SpaceAfter=No
 24	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
