@@ -535,7 +535,7 @@
 17	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha__15b
-# text = dàgà ƙàrsheː sai ɗàːlìbân sukà jaː dà baːya sukà koːmàː cikin hàr̃aːbàr̃jaːmi'àr̃.
+# text = dàgà ƙàrsheː sai ɗàːlìbân sukà jaː dà baːya sukà koːmàː cikin hàr̃aːbàr̃ jaːmi'àr̃.
 1	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=from
 2	ƙàrsheː	ƙàrsheː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=end.Masc
 3	sai	sai	ADV	_	_	5	mod	_	Gloss=XX
@@ -547,7 +547,7 @@
 9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	5	parataxis@conj	_	Gloss=XX
 10	koːmàː	koːm-	VERB	_	_	9	comp:aux	_	Gloss=go_back
 11	cikin	cikin	ADP	_	_	10	comp:obl	_	Gloss=inside
-12	hàr̃aːbàr̃	hàr̃aːbàː	NOUN	_	Definite=Cons|Gender=Fem	11	comp:obj	_	Gloss=campus.Fem.Cons|SpaceAfter=No|wordform=hàr̃aːbàr
+12	hàr̃aːbàr̃	hàr̃aːbàː	NOUN	_	Definite=Cons|Gender=Fem	11	comp:obj	_	Gloss=campus.Fem.Cons|wordform=hàr̃aːbàr
 13	jaːmi'àr̃	jaːmi'àː	NOUN	_	Definite=Def|Gender=Fem	12	mod	_	Gloss=university.Fem.def|SpaceAfter=No
 14	.	.	PUNCT	_	_	5	_	_	Gloss=PUNCT
 
