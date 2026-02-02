@@ -245,7 +245,7 @@
 8	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT|wordform=’
 9	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	10	comp:pred	_	Gloss=XX
 10	nèː	neː	PART	_	_	0	discourse@foc	_	Gloss=XX
-11	don	don	ADP	_	_	10	dislocated@comp	_	Gloss=XX
+11	don	don	SCONJ	_	_	10	dislocated@comp	_	Gloss=so_that
 12	Yàr̃iːmà	Yàr̃iːmà	PROPN	_	_	16	subj	_	Gloss=Yàr̃iːmà
 13	Charles	Charles	PROPN	_	_	12	flat@name	_	Gloss=Charles
 14	dà	dà	CCONJ	_	_	15	cc	_	Gloss=XX
@@ -536,10 +536,10 @@
 33	màkàːmai	màkàːmai	NOUN	_	Gender=Masc|Number=Plur	32	comp:obj	_	Gloss=XX
 34	zuwàː	zuwàː	ADP	_	_	28	comp:obl	_	Gloss=towards
 35	daːjìn	daːjìː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	34	comp:obj	_	Gloss=XX
-36	don	don	SCONJ	_	_	28	mod	_	Gloss=XX
-37	kaːrè	kar-	VERB	_	_	36	comp:obj	_	Gloss=XX
+36	don	don	SCONJ	_	_	28	mod	_	Gloss=so_that
+37	kaːrè	kar-	VERB	_	_	36	comp:obj	_	Gloss=protect
 38-39	laːfiyàr̃sà	_	_	_	_	_	_	_	_
-38	laːfiyàr̃	laːfiyàː	NOUN	_	Definite=Cons|Gender=Fem	37	comp:obj	_	Gloss=health.Fem.Cons|SpaceAfter=No
+38	laːfiyàr̃	laːfiyàː	NOUN	_	Definite=Cons|Gender=Fem	37	comp:obj	_	Gloss=security.Fem.Cons|SpaceAfter=No
 39	sà	sà	PRON	_	Gender=Fem	38	mod	_	Gloss=XX|SpaceAfter=No
 40	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
