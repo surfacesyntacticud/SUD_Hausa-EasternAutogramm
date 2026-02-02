@@ -43,7 +43,7 @@
 9	gà	gà	ADP	_	_	6	comp:obl	_	Gloss=to
 10	farar̃-hùːlaː	farar̃-hùːlaː	NOUN	_	_	9	comp:obj	_	Gloss=XX|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
-12	kuma	kuma	PART	_	_	13	cc	_	Gloss=too
+12	kuma	kuma	PART	_	_	13	cc	_	Gloss=also
 13	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	1	conj:coord	_	Gloss=XX
 14	tàːƙamaː	tàːƙamaː	NOUN	_	Gender=Fem	13	comp:aux	_	Gloss=XX
 15	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=XX
@@ -113,7 +113,7 @@
 48	maƙar̃ƙashìyaː	maƙar̃ƙashìyaː	NOUN	_	Gender=Fem	43	comp:pred	_	Gloss=XX|SpaceAfter=No
 49	,	,	PUNCT	_	_	52	punct	_	Gloss=PUNCT
 50	koː	koː	CCONJ	_	_	52	cc	_	Gloss=XX
-51	kuma	kuma	PART	_	_	50	discourse@top	_	Gloss=too
+51	kuma	kuma	PART	_	_	50	discourse@top	_	Gloss=also
 52	yi	yi	VERB	_	_	43	conj:coord	_	Gloss=do
 53	wà	wà	ADP	_	Case=Dat	52	comp:obl	_	Gloss=XX
 54	tsàron	tsàroː	NOUN	_	Definite=Cons|Gender=Masc	53	comp:obj	_	Gloss=XX
@@ -124,7 +124,7 @@
 # sent_id = 05_Gurfanarwa_da_lauya__5
 # text = Tanàː kuma dà iːkòn cîː gàba dà tsarè mùtumìn har̃ sai illaː maː shaː Àllaːhù.
 1	Tanàː	nàː	AUX	_	Gender=Fem|Person=3	0	root	_	Gloss=XX
-2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=too
+2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 3	dà	dà	ADP	_	_	1	comp:pred	_	Gloss=XX
 4	iːkòn	iːkòː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=XX
 5	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	mod	_	Gloss=XX
@@ -143,7 +143,7 @@
 # sent_id = 05_Gurfanarwa_da_lauya__6
 # text = Ìdan kuma akà tsarèː mùtûm bìsàː wannàn Dòːkaː ta Biyu, tòː baːbù wata koːtù à Nàːjeːr̃iyàː dà zaːtà sâː bàːkiː.
 1	Ìdan	ìdan	SCONJ	_	_	13	mod	_	Gloss=XX
-2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=too
+2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 3	akà	nàː	AUX	_	Aspect=Prog|Person=4	1	comp:obj	_	Gloss=XX
 4	tsarèː	tsar-	VERB	_	_	3	comp:aux	_	Gloss=XX
 5	mùtûm	mùtûm	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=XX
@@ -194,7 +194,7 @@
 25	laːfiyar̃	laːfiyaː	NOUN	_	Definite=Cons|Gender=Fem	24	mod	_	Gloss=XX
 26	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	25	mod	_	Gloss=country.Fem|SpaceAfter=No
 27	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
-28	kuma	kuma	PART	_	_	30	cc	_	Gloss=too
+28	kuma	kuma	PART	_	_	30	cc	_	Gloss=also
 29	bàː	bàː	PART	_	Polarity=Neg	30	mod	_	Gloss=XX
 30	tàːre	tàːre	ADV	_	_	11	mod	_	Gloss=XX
 31	dà	dà	ADP	_	_	30	mod	_	Gloss=XX
@@ -229,7 +229,7 @@
 15	shirìn	shiry-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:aux	_	Gloss=XX
 16	gur̃faːnar̃	gur̃faːn-	VERB	_	Definite=Cons|Gender=Fem	15	comp:obj	_	Gloss=XX
 17	dà	dà	ADP	_	_	16	comp:obl	_	Gloss=XX
-18	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	17	comp:obj	_	Gloss=XX
+18	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	17	comp:obj	_	Gloss=3Masc.Ind
 19	à	à	ADP	_	_	16	comp:obl	_	Gloss=at
 20	gàban	gàban	ADP	_	_	19	comp.obj	_	Gloss=front
 21	wata	wani	DET	_	Definite=Spec|Gender=Masc	22	det	_	Gloss=some.Fem.Spec
@@ -303,7 +303,7 @@
 1	À	à	ADP	_	_	5	mod	_	Gloss=XX
 2	cikin	cikiːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	1	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=cikintà
 3	tà	tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	2	comp:obj	_	Gloss=3Fem.Gen
-4	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=too
+4	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 5	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 6	sòːki	sauk-	VERB	_	_	5	comp:aux	_	Gloss=XX
 7	manufar̃	manufar̃	NOUN	_	Gender=Fem	6	comp:obl	_	Gloss=XX
@@ -489,7 +489,7 @@
 24	zàrgaː	zàrgaː	NOUN	_	Gender=Fem	23	comp:aux	_	Gloss=XX
 25	dà	dà	ADP	_	_	24	comp:obl	_	Gloss=XX
 26	lâifin	lâifiː	NOUN	_	Definite=Cons|Gender=Masc	25	comp:obj	_	Gloss=XX
-27	kashè	ka-	VERB	_	_	26	mod	_	Gloss=XX
+27	kashè	kas-	VERB	_	_	26	mod	_	Gloss=kill
 28	Dele	Dele	PROPN	_	_	27	comp:obj	_	Gloss=Dele
 29	Giwa	Giwa	PROPN	_	_	28	flat@name	_	Gloss=Giwa|SpaceAfter=No
 30	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
@@ -565,7 +565,7 @@
 6	suːkàː	suːkàː	NOUN	_	Gender=Fem	5	comp:obj	_	Gloss=criticism.Fem
 7	sòːsai	sòːsai	ADV	_	_	5	mod	_	Gloss=XX|SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-9	kuma	kuma	PART	_	_	10	cc	_	Gloss=too
+9	kuma	kuma	PART	_	_	10	cc	_	Gloss=also
 10	an	yaː	AUX	_	Aspect=Perf|Person=4	4	conj:coord	_	Gloss=XX
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
 12	kiràː	kir-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:pred	_	Gloss=call.Vnoun.Masc
@@ -597,8 +597,8 @@
 11	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	5	conj:coord	_	Gloss=XX
 12	gur̃fanar̃	gur̃fanar̃	VERB	_	Definite=Cons|Gender=Fem	11	comp:aux	_	Gloss=XX
 13	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=XX
-14	Chief	Chief	PROPN	_	_	13	comp:obj	_	Gloss=Chief
-15	G.F.	G.F.	PROPN	_	_	14	flat@name	_	Gloss=G.F.
+14	Chief	Chief	PROPN	_	_	15	mod@desc	_	Gloss=Chief
+15	G.F.	G.F.	PROPN	_	_	13	comp:obj	_	Gloss=G.F.
 16	à	à	ADP	_	_	12	comp:obl	_	Gloss=at
 17	gàban	gàban	ADP	_	_	16	comp:obj	_	Gloss=front
 18	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=XX|SpaceAfter=No
