@@ -185,8 +185,8 @@
 36	sâː	sâː	VERB	_	_	35	comp:aux	_	Gloss=put
 37	ƙuːsàː	ƙuːsàː	NOUN	_	Gender=Fem	36	comp:obj	_	Gloss=XX
 38	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	35	parataxis@conj	_	Gloss=XX
-39	rufèː	ruf-	VERB	_	_	38	comp:aux	_	Gloss=XX
-40	àkwàːtìn	àkwàːtìː	NOUN	_	Definite=Cons|Gender=Masc	39	comp:obj	_	Gloss=XX
+39	rufèː	ruf-	VERB	_	_	38	comp:aux	_	Gloss=close
+40	àkwàːtìn	àkwàːtì	NOUN	_	Definite=Def|Gender=Masc	39	comp:obj	_	Gloss=box.Masc.Def
 41	gam	gan	IDEO	_	_	39	mod	_	Gloss=XX|SpaceAfter=No
 42	,	,	PUNCT	_	_	43	punct	_	Gloss=PUNCT
 43	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	38	parataxis:conj	_	Gloss=XX
@@ -197,11 +197,11 @@
 48	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko__8
-# text = à jìkin àkwàːtìn sai akà r̃ubùːtaː " zuwàː gà maꞌaikatar̃ har̃koːkin wàje, gwamnatìn tàːr̃ayyàr̃ Nàjeːr̃iyàː, Ìkko" , wàːtòː indà zaː à kai shì kèːnan.
+# text = à jìkin àkwàːtìn sai akà r̃ubùːtaː " zuwàː gà maꞌaikatar̃ har̃koːkin wàje, gwamnatìn tàːr̃ayyàr̃ Nàjeːr̃iyàː, Ìkko", wàːtòː indà zaːà kai shì kèːnan.
 # text_ortho = À jìkin àkwàːtìn sai akà r̃ubùːtaː ‘Zuwàː gà Maꞌaikatar̃ Har̃koːkin Wàje, Gwamnatìn Tàːr̃ayyàr̃ Nàjeːr̃iyàː, Ìkko’, wàːtòː indà zaː à kai shì kèːnan.
 1	à	à	ADP	_	_	5	mod	_	Gloss=at
 2	jìkin	jìkin	ADP	_	_	1	comp:obj	_	Gloss=XX
-3	àkwàːtìn	àkwàːtìː	NOUN	_	Definite=Def|Gender=Masc	2	comp:obj	_	Gloss=XX
+3	àkwàːtìn	àkwàːtì	NOUN	_	Definite=Def|Gender=Masc	2	comp:obj	_	Gloss=box.Masc.Def
 4	sai	sai	ADV	_	_	5	mod	_	Gloss=XX
 5	akà	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=XX
 6	r̃ubùːtaː	r̃ubùːtaː	NOUN	_	ExtPos=NOUN|Gender=Fem	5	comp:aux	_	Gloss=XX
@@ -228,7 +228,7 @@
 27	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko__9
-# text = à wajen indà ya kàmaːtà à r̃ubùːtà wandà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà oːfishin jàkaːdàn Nàjeːr̃iyàː, " Landàn" .
+# text = à wajen indà ya kàmaːtà à r̃ubùːtà wandà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà oːfishin jàkaːdàn Nàjeːr̃iyàː, " Landàn".
 # text_ortho = À wajen indà ya kàmaːtà à r̃ubùːtà wandà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà ꞌOːfishin Jàkaːdàn Nàjeːr̃iyàː, Landàn’.
 1	à	à	ADP	_	_	16	dislocated@top	_	Gloss=at
 2	wajen	wajen	ADP	_	_	1	comp:obj	_	Gloss=XX
@@ -241,7 +241,7 @@
 9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	8	mod@relcl	_	Gloss=XX
 10	aikàː	aikàː	VERB	_	_	9	comp:aux	_	Gloss=XX
 11	dà	dà	ADP	_	_	10	comp:obl	_	Gloss=XX
-12	àkwàːtìn	àkwàːtìː	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	Gloss=XX
+12	àkwàːtìn	àkwàːtì	NOUN	_	Definite=Def|Gender=Masc	11	comp:obj	_	Gloss=box.Masc.Def
 13	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also|SpaceAfter=No
 14	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 15	sai	sai	ADV	_	_	16	mod	_	Gloss=XX
@@ -363,7 +363,7 @@
 21	dà	dà	SCONJ	_	_	19	mod@relcl	_	Gloss=COMP
 22	bà'à	yaː	AUX	_	Aspect=Perf|Person=4|Polarity=Neg	21	comp:obj	_	Gloss=XX
 23	taɓà	taɓ-	VERB	_	_	22	comp:aux	_	Gloss=XX
-24	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	23	comp:obj	_	Gloss=do
+24	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	23	comp:obj	_	Gloss=do.Vnoun.Masc.Cons
 25	irìn	irìnsà	NOUN	_	Gender=Fem	24	comp:pred	_	Gloss=XX|SpaceAfter=No|wordform=irìnsà
 26	sà	sà	PRON	_	_	25	mod@poss	_	Gloss=3Masc.Gen
 27	ba	ba	PART	_	Polarity=Neg	23	mod	_	Gloss=XX
@@ -470,7 +470,7 @@
 # text = ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà, yanà mài cêwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː.
 # text_ortho = Ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà, yanà mài cêwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː.
 1	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
-2	cèː	cêː	VERB	_	_	1	comp:aux	_	Gloss=XX
+2	cèː	cêː	VERB	_	_	1	comp:aux	_	Gloss=say
 3	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	4	dislocated@subj	_	Gloss=XX
 4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	2	comp:obj	_	Gloss=XX
 5	càncànci	càncànci	VERB	_	_	4	comp:aux	_	Gloss=XX
