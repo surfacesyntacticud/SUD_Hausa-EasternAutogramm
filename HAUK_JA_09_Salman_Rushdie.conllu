@@ -123,7 +123,7 @@
 25	zuwàː	zuwàː	ADP	_	_	22	conj:coord	_	Gloss=towards
 26	Japananciː	Japananciː	PROPN	_	Gender=Masc	25	conj:obj	_	Gloss=Japanese|SpaceAfter=No
 27	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
-28	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	30	comp:obj	_	Gloss=XX
+28	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	30	comp:obj	_	Gloss=who.Masc
 29	akèː	nàː	AUX	_	Aspect=Prog|Person=4	11	mod@relcl	_	Gloss=XX
 30	kiràː	kir-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	29	comp:aux	_	Gloss=XX
 31	"	"	PUNCT	_	_	32	punct	_	Gloss=PUNCT
@@ -193,7 +193,7 @@
 6	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=XX
 7	dà	dà	ADP	_	_	6	comp:pred	_	Gloss=XX
 8	tsayìː	tsayìː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=XX
-9	sòːsai	sòːsai	ADV	_	_	8	mod	_	Gloss=XX|SpaceAfter=No
+9	sòːsai	sòːsai	ADV	_	_	8	mod	_	Gloss=well|SpaceAfter=No
 10	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__9b
@@ -211,7 +211,7 @@
 11	biyu	biyu	NUM	_	_	10	mod:num	_	Gloss=XX
 12	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 13	shìga	shig-	VERB	_	ExtPos=NOUN|Gender=Fem	12	comp:aux	_	Gloss=XX
-14	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:obj@G	_	Gloss=do
+14	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:obj@G	_	Gloss=do.Vnoun.Masc.Cons
 15	zàngà-zangà	zàngà-zangà	NOUN	_	_	14	comp:pred	_	Gloss=demonstration.Fem
 16	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	15	mod	_	Gloss=Gen.Fem
 17	ƙîn	ƙi	VERB	_	Definite=Cons|ExtPos=VERB|Gender=Masc|VerbForm=Vnoun	16	comp:obj	_	Gloss=hate.Vnoun.Masc.Cons|Idiom=Yes
@@ -262,7 +262,7 @@
 # sent_id = 09_Salman_Rushdie__11
 # text = À yànzu hakà maː shiː wannàn mùtumìn yanàː can à asìbitì anàː yi masà maːgàniː.
 1	À	à	ADP	_	_	8	mod	_	Gloss=XX
-2	yànzu	yànzu	ADV	_	_	1	comp:obj	_	Gloss=XX
+2	yànzu	yànzu	ADV	_	_	1	comp:obj	_	Gloss=now
 3	hakà	hakà	ADV	_	_	8	mod	_	Gloss=thus
 4	maː	maː	PART	_	_	3	discourse@top	_	Gloss=XX
 5	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	dislocated@subj	_	Gloss=XX
@@ -353,7 +353,7 @@
 6	àshìr̃in	àshìr̃in	NUM	_	_	5	comp:obj	_	Gloss=XX
 7	nèː	neː	PART	_	_	2	discourse@foc	_	Gloss=XX
 8	akèː	nàː	AUX	_	Aspect=Prog|Person=4	2	comp:cleft	_	Gloss=XX
-9	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:aux	_	Gloss=do
+9	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:aux	_	Gloss=do.Vnoun.Masc.Cons
 10	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	11	det	_	Gloss=Prox.Sing
 11	tàːroː	tàːroː	NOUN	_	Gender=Masc	9	comp:pred	_	Gloss=meeting.Masc
 12	na	na	PART	_	Case=Gen|PartType=Pred	11	mod	_	Gloss=Gen
@@ -463,7 +463,7 @@
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=XX
 11	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=mouth.Masc
 12	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	8	parataxis@conj	_	Gloss=XX
-13	cèː	cêː	VERB	_	_	12	comp:aux	_	Gloss=XX
+13	cèː	cêː	VERB	_	_	12	comp:aux	_	Gloss=say
 14	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	16	dislocated@subj	_	Gloss=XX
 15	kàm	kàm	PART	_	_	14	discourse@top	_	Gloss=XX
 16	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	13	comp:obj	_	Gloss=XX
@@ -497,7 +497,7 @@
 5	kwàːnàkin	kwàːnàkiː	NOUN	_	Definite=Cons|Number=Plur	4	comp:obj	_	Gloss=XX
 6	baːya	baːya	ADV	_	_	5	mod	_	Gloss=back
 7	anàː	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=XX
-8	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:aux	_	Gloss=do
+8	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:aux	_	Gloss=do.Vnoun.Masc.Cons
 9	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	10	det	_	Gloss=Prox.Sing
 10	hàyàːniyaː	hàyàːniyaː	NOUN	_	Gender=Fem	8	comp:pred	_	Gloss=confusion.Fem
 11	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	12	mod	_	Gloss=XX
@@ -566,7 +566,7 @@
 # sent_id = 09_Salman_Rushdie__22
 # text = À yâu ɗîn kuma ɗaya dàgà cikin shùːgàbànnin wannàn ƙungìyaː ta Mùsùlmiː yaː cêː lalleː suː bà zaːsù ƙyaːlè Gianni Palma dà rânsà ba, dòːmin kùwa yaː ƙàːlùːbàlànci àl'ummàr̃ Mùsùlmiː bàːkiː ɗayansù .
 1	À	à	ADP	_	_	13	mod	_	Gloss=XX
-2	yâu	yâu	ADV	_	_	1	comp:obj	_	Gloss=XX
+2	yâu	yâu	ADV	_	_	1	comp:obj	_	Gloss=today
 3	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	2	det	_	Gloss=Def
 4	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 5	ɗaya	ɗaya	NUM	_	_	13	subj	_	Gloss=one
@@ -574,7 +574,7 @@
 7	cikin	cikin	ADP	_	_	6	comp:obj	_	Gloss=inside
 8	shùːgàbànnin	shùːgàbaː	NOUN	_	Definite=Cons|Number=Plur	7	comp:obj	_	Gloss=leader.Plur.Cons
 9	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	10	det	_	Gloss=Prox.Sing
-10	ƙungìyaː	ƙungìyaː	NOUN	_	Gender=Fem	8	mod	_	Gloss=XX
+10	ƙungìyaː	ƙungìyaː	NOUN	_	Gender=Fem	8	mod	_	Gloss=association.Fem
 11	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	10	mod	_	Gloss=Gen.Fem
 12	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	11	comp:obj	_	Gloss=Muslim.Plur
 13	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX

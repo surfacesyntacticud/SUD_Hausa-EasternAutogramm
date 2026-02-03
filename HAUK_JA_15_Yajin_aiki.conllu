@@ -8,7 +8,7 @@
 6	Jàmhuːr̃iyàr̃	Jàmhuːr̃iyàr̃	PROPN	_	Definite=Cons|Gender=Fem	5	comp:obj	_	Gloss=Jàmhuːr̃iyàr̃|wordform=Jamhuːr̃iyar
 7	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	6	mod	_	Gloss=Nìːjâr̃
 8	don	don	SCONJ	_	_	2	mod	_	Gloss=so_that
-9	neːman	neːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:obj	_	Gloss=XX
+9	neːman	neːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:obj	_	Gloss=look_for.Vnoun.Masc.Cons
 10	dìmùkùr̃àːɗiyyàː	dìmùkùr̃àːɗiyyàː	NOUN	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	9	comp:obj	_	Gloss=XX
 
 # sent_id = 15_Yajin_aiki__2
@@ -32,7 +32,7 @@
 17	daːmaː	daːmaː	NOUN	_	Gender=Fem	15	conj:coord	_	Gloss=opportunity.Fem|InIdiom=Yes
 18	gà	gà	ADP	_	_	15	mod	_	Gloss=to
 19	kiràn	kir-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp:obj	_	Gloss=XX
-20	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:obj	_	Gloss=do
+20	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:obj	_	Gloss=do.Vnoun.Masc.Cons
 21	yaːjìn	yaːjìː	NOUN	_	Definite=Cons|Gender=Masc	20	comp:pred	_	Gloss=XX
 22	aikìː	aikìː	NOUN	_	Gender=Masc	21	mod	_	Gloss=work.Masc|SpaceAfter=No|wordform=aiki
 23	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
@@ -107,7 +107,7 @@
 12	àshìr̃in	àshìr̃in	NUM	_	_	11	mod:num	_	Gloss=XX
 13	dà	dà	CCONJ	_	_	14	cc	_	Gloss=XX
 14	bakwài	bakwài	NUM	_	_	12	conj:coord	_	Gloss=seven
-15	na	na	ADP	_	_	14	mod	_	Gloss=XX
+15	na	na	PART	_	Case=Gen|PartType=Pred	14	mod	_	Gloss=Gen
 16	ma'àikàtan	ma'àikàtaː	NOUN	_	Definite=Cons|Number=Plur	15	comp:obj	_	Gloss=XX
 17	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	16	mod	_	Gloss=country.Fem.Def|SpaceAfter=No|wordform=kasár
 18	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -136,7 +136,7 @@
 10	gàban	gàbaː	NOUN	_	Definite=Cons	9	mod	_	Gloss=XX
 11	kàmfên	kàmfaː	NOUN	_	Definite=Cons|Number=Plur	10	mod	_	Gloss=XX
 12	ɗiːn	ɗiin	NUM	_	Definite=Cons|Gender=Masc	10	mod	_	Gloss=XX
-13	neːman	neːm-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	3	mod	_	Gloss=XX
+13	neːman	neːm-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	3	mod	_	Gloss=look_for.Vnoun.Masc.Cons
 14	à	yà	AUX	_	Mood=Sub|Person=4	13	comp:obj	_	Gloss=XX
 15	kafà	kaf-	VERB	_	_	14	comp:aux	_	Gloss=set_up
 16	tafarkìn	tafarkìː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	Gloss=XX
@@ -158,11 +158,11 @@
 32	bìkin	bìkin	ADP	_	_	30	mod	_	Gloss=XX
 33	'yan	ɗan	ADJ	_	Definite=Cons|Number=Plur	36	mod	_	Gloss=XX
 34	ƙoːdagoː	ƙoːdagoː	NOUN	_	Gender=Masc	33	mod	_	Gloss=XX
-35	ta	ta	ADP	_	Case=Gen|Gender=Fem	30	mod	_	Gloss=XX
+35	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	30	mod	_	Gloss=Gen.Fem
 36	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	35	comp:obj	_	Gloss=year.Fem.Cons
 37	nân	nân	ADV	_	PronType=Dem	36	mod	_	Gloss=XX
 38	wajen	wajen	ADP	_	_	30	mod	_	Gloss=XX
-39	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	38	comp:obj	_	Gloss=do
+39	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	38	comp:obj	_	Gloss=do.Vnoun.Masc.Cons
 40	kiràn	kir-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	39	mod	_	Gloss=XX
 41	à	yà	AUX	_	Mood=Sub|Person=4	39	comp:obj	_	Gloss=XX
 42	kaːwoː	kai	VERB	_	_	41	comp:aux	_	Gloss=carry/take_to
@@ -181,7 +181,7 @@
 # sent_id = 15_Yajin_aiki__7
 # text = Màːsu yîn yaːjìn aikìn sun bùkàːci gwamnatì tà yi wani tàːroː na 'yan ƙasâr̃ bàːkiː ɗaya, wandà zâi tattàunà tsaːrìn tattalin ar̃zìkiː dà kuma na sìyaːsàː.
 1	Màːsu	Màːsu	PROPN	_	Number=Plur	5	subj	_	Gloss=Màːsu
-2	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	comp:aux	_	Gloss=do
+2	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	comp:aux	_	Gloss=do.Vnoun.Masc.Cons
 3	yaːjìn	yaːjìː	NOUN	_	Definite=Cons|Gender=Masc	2	udep	_	Gloss=XX
 4	aikìn	aikìː	NOUN	_	Definite=Def|Gender=Masc	3	mod	_	Gloss=work.Masc.Def
 5	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
@@ -191,13 +191,13 @@
 9	yi	yi	VERB	_	_	8	comp:aux	_	Gloss=do
 10	wani	wani	DET	_	Definite=Spec|Gender=Masc	11	det	_	Gloss=some.Masc.Spec
 11	tàːroː	tàːroː	NOUN	_	Gender=Masc	9	comp:pred	_	Gloss=XX
-12	na	na	ADP	_	_	11	mod	_	Gloss=XX
+12	na	na	PART	_	Case=Gen|PartType=Pred	11	mod	_	Gloss=Gen
 13	'yan	ɗan	ADJ	_	Definite=Cons|Number=Plur	14	mod	_	Gloss=XX
 14	ƙasâr̃	ƙasaː	VERB	_	Definite=Def|Gender=Fem	12	comp:obj	_	Gloss=country.Fem.Def
 15	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	14	mod	_	Gloss=mouth.Masc
 16	ɗaya	ɗaya	NUM	_	_	15	mod:num	_	Gloss=one|SpaceAfter=No
 17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-18	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	20	comp:obj	_	Gloss=XX
+18	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	20	comp:obj	_	Gloss=who.Masc
 19	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	11	mod@relcl	_	Gloss=XX
 20	tattàunà	tattà	VERB	_	Case=Gen|Number=Sing|Person=1	19	comp:aux	_	Gloss=XX
 21	tsaːrìn	tsaːrìː	NOUN	_	Definite=Cons|Gender=Masc	20	comp:obj	_	Gloss=XX
@@ -205,7 +205,7 @@
 23	ar̃zìkiː	ar̃zìkiː	NOUN	_	Gender=Masc	22	mod	_	Gloss=XX
 24	dà	dà	CCONJ	_	_	26	cc	_	Gloss=XX
 25	kuma	kuma	PART	_	_	24	discourse@top	_	Gloss=also
-26	na	na	ADP	_	_	23	conj:coord	_	Gloss=XX
+26	na	na	PART	_	Case=Gen|PartType=Pred	23	conj:coord	_	Gloss=Gen
 27	sìyaːsàː	sìyaːsàː	NOUN	_	Gender=Fem	26	comp:obj	_	Gloss=politics.Fem|SpaceAfter=No
 28	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
@@ -331,7 +331,7 @@
 9	dà	dà	SCONJ	_	_	10	cc	_	Gloss=COMP
 10	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	7	comp:obj	_	Gloss=government.Fem.Cons|wordform=gwamnatin
 11	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	10	mod	_	Gloss=country.Fem.Def
-12	ta	ta	ADP	_	_	10	mod	_	Gloss=XX
+12	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	10	mod	_	Gloss=Gen.Fem
 13	baːyar̃	baːyar̃	ADV	_	Definite=Cons|Gender=Fem	12	comp:obj	_	Gloss=XX|wordform=bayar
 14	nèː	neː	PART	_	Gender=Masc|Number=Plur	10	discourse@foc	_	Gloss=XX
 15	à	à	ADP	_	_	7	mod	_	Gloss=at
@@ -344,18 +344,18 @@
 22	sauyà	sauyà	VERB	_	Gender=Fem	21	mod	_	Gloss=XX
 23	tsaːrìn	tsaːrìː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	30	comp:obj	_	Gloss=XX
 24	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	23	mod	_	Gloss=XX
-25	Jàmhuːr̃iyàr̃	Jàmhuːr̃iyàr̃	PROPN	_	Definite=Cons|Gender=Fem	24	mod	_	Gloss=Jàmhuːr̃iyàr̃|wordform=Jàmhuːr̃iyar
-26	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	25	mod	_	Gloss=Nìːjâr̃
+25	Jàmhuːr̃iyàr̃	jàmhuːr̃iyàː	NOUN	_	Definite=Cons|Gender=Fem	24	mod	_	Gloss=republic.Fem.Cons|wordform=Jàmhuːr̃iyar
+26	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	25	mod	_	Gloss=Niger
 27	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	23	det	_	Gloss=Def|wordform=din
 28	don	don	SCONJ	_	_	21	mod	_	Gloss=so_that
 29	à	yà	AUX	_	Mood=Sub|Person=4	28	comp:obj	_	Gloss=XX
-30	sàːmu	saːmùː	VERB	_	_	29	comp:aux	_	Gloss=XX
+30	sàːmu	saːm-	VERB	_	_	29	comp:aux	_	Gloss=get
 31	daːmar̃	daːmaː	NOUN	_	Definite=Cons|Gender=Fem	30	comp:obj	_	Gloss=XX
 32	kafà	kaf-	VERB	_	Aspect=Perf|Gender=Masc|Person=2	31	mod	_	Gloss=set_up
 33	tsaːrìː	tsaːrìː	NOUN	_	Gender=Masc	32	comp:aux	_	Gloss=XX
 34	mài	mài	PART	_	Number=Sing|PartType=Der	33	mod	_	Gloss=owner/doer_of.Sing
 35	jàm'ìyyuː	jàm'aː	NOUN	_	Number=Plur	34	compound	_	Gloss=XX
-36	dà	dà	ADP	_	ExtPos=ADJ	33	comp:obl	_	Gloss=with|Idiom=Yes
+36	dà	dà	ADP	_	ExtPos=ADJ	35	mod	_	Gloss=with|Idiom=Yes
 37	daːmaː	daːmaː	NOUN	_	Gender=Fem	36	comp:obj	_	Gloss=opportunity.Fem|InIdiom=Yes|SpaceAfter=No
 38	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
@@ -401,7 +401,7 @@
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyhow
 3	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 4	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	7	mod	_	Gloss=XX
-5	yànzu	yànzu	ADV	_	_	4	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=yanzu
+5	yànzu	yànzu	ADV	_	_	4	comp:obj	_	Gloss=now|SpaceAfter=No|wordform=yanzu
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 8	wani	wani	DET	_	Definite=Spec|Gender=Masc	9	det	_	Gloss=some.Masc.Spec
@@ -409,7 +409,7 @@
 10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=COMP
 11	akà	nàː	AUX	_	Aspect=Prog|Person=4	10	comp:obj	_	Gloss=XX
 12	saːkè	saːk-	VERB	_	_	11	comp:aux	_	Gloss=repeat
-13	jîː	ji	AUX	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	12	comp:obj	_	Gloss=XX
+13	jîː	ji	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	12	comp:obj	_	Gloss=hear.Vnoun.Masc
 14	danganèː	danganèː	NOUN	_	ExtPos=ADP|Gender=Masc	13	comp:obj	_	Gloss=relation.Masc|Idiom=Yes
 15	dà	dà	ADP	_	_	14	compound	_	Gloss=with|InIdiom=Yes
 16	kafà	kaf-	VERB	_	Aspect=Perf|Gender=Masc|Person=2	14	comp:obj	_	Gloss=set_up
@@ -426,7 +426,7 @@
 5	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	6	mod@desc	_	Gloss=country.Fem.Cons|SpaceAfter=No
 6	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	4	compound	_	Gloss=Nìːjâr̃
 7	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=XX|wordform=sunaː
-8	jîn	jîː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:aux	_	Gloss=XX
+8	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:aux	_	Gloss=hear.Vnoun.Masc.Cons
 9	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons	11	subj	_	Gloss=government.Fem.Cons|SpaceAfter=No
 10	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	9	mod@poss	_	Gloss=3Plur.Gen
 11	baːtàː	nàːː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	8	comp:obj	_	Gloss=XX
@@ -459,7 +459,7 @@
 15	dà	dà	ADP	_	_	11	cc	_	Gloss=XX|wordform=da
 16	cìkakken	cìkakkeː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	Gloss=XX
 17	bàyaːnìn	bàyaːnìː	NOUN	_	Definite=Cons|Gender=Masc	16	mod	_	Gloss=XX
-18	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	mod	_	Gloss=do
+18	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	mod	_	Gloss=do.Vnoun.Masc.Cons
 19	zàːɓeː	zàːɓeː	NOUN	_	Gender=Masc	18	comp:pred	_	Gloss=XX|SpaceAfter=No
 20	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
@@ -518,7 +518,7 @@
 # sent_id = 15_Yajin_aiki__17
 # text = Màːsu yîn zàngà-zangàr̃ sun yi zàrgin cêːwaː gwamnatìn taːsù taː kaːsà shaːwoː kân màtsalàr̃ cîn r̃ashawaː à ƙasâr̃, kuma shirìntà maː na tsuːkè bàːkin àljiːhuː yaː shàːfi talakaːwan ƙasâr̃ neː kawài.
 1	Màːsu	Màːsu	PROPN	_	Number=Plur	4	subj	_	Gloss=Màːsu
-2	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	comp:obj	_	Gloss=do
+2	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	comp:obj	_	Gloss=do.Vnoun.Masc.Cons
 3	zàngà-zangàr̃	zàngà-zangàː	NOUN	_	Definite=Cons|Gender=Fem	2	udep	_	Gloss=demonstration.Fem.Def
 4	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 5	yi	yi	VERB	_	_	4	comp:aux	_	Gloss=do
@@ -531,7 +531,7 @@
 12	shaːwoː	shaːwoː	VERB	_	Number=Plur	11	comp:obj	_	Gloss=XX
 13	kân	kân	ADP	_	_	12	mod	_	Gloss=on
 14	màtsalàr̃	màtsalàː	NOUN	_	Gender=Fem	13	comp:obj	_	Gloss=problem.Fem.Cons
-15	cîn	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	mod	_	Gloss=XX
+15	cîn	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	mod	_	Gloss=consume.Vnoun.Masc.Cons
 16	r̃ashawaː	r̃ashawaː	NOUN	_	Gender=Fem	15	mod	_	Gloss=XX
 17	à	à	ADP	_	_	12	comp:obl	_	Gloss=at
 18	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	17	comp:obj	_	Gloss=country.Fem.Def|SpaceAfter=No
@@ -540,7 +540,7 @@
 21	shirìn	shiry-	VERB	_	Definite=Cons	28	subj	_	Gloss=XX|SpaceAfter=No|wordform=shirìntà
 22	tà	tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	21	comp:obj	_	Gloss=3Fem.Gen
 23	maː	maː	PART	_	_	21	discourse@top	_	Gloss=XX
-24	na	na/ta	ADP	_	Case=Gen	21	mod	_	Gloss=XX
+24	na	na/ta	PART	_	Case=Gen|PartType=Pred	21	mod	_	Gloss=Gen
 25	tsuːkè	tsuːk-	VERB	_	_	24	comp:obj	_	Gloss=tighten
 26	bàːkin	bàːkiː	NOUN	_	Definite=Cons|Gender=Masc	25	comp:obj	_	Gloss=mouth.Masc.Cons
 27	àljiːhuː	àljiːhuː	NOUN	_	Gender=Masc	26	mod	_	Gloss=XX
@@ -589,7 +589,7 @@
 12	Bankìn	Bankìn	PROPN	_	_	11	mod	_	Gloss=Bankìn
 13	Raːyà	Raːyà	PROPN	_	_	12	flat@name	_	Gloss=Raːyà
 14	Ƙasâr̃	Ƙasâr̃	PROPN	_	Definite=Cons|Gender=Fem	13	flat@name	_	Gloss=Ƙasâr̃
-15	ta	ta	ADP	_	_	13	mod	_	Gloss=XX
+15	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	13	mod	_	Gloss=Gen.Fem
 16	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	15	comp:obj	_	Gloss=Nìːjâr̃|SpaceAfter=No|wordform=Nijaːr
 17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 18	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	20	comp:obj	_	Gloss=who.Plur|wordform=wadandal
@@ -625,7 +625,7 @@
 13	maː	maː	PART	_	_	12	discourse@top	_	Gloss=XX
 14	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 15	ƙi	ƙi	VERB	_	_	14	comp:aux	_	Gloss=XX
-16	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:obj	_	Gloss=do
+16	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:obj	_	Gloss=do.Vnoun.Masc.Cons
 17	aikìː	aikìː	NOUN	_	Gender=Masc	16	udep	_	Gloss=work.Masc|SpaceAfter=No
 18	.	.	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 
