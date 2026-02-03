@@ -132,12 +132,12 @@
 9	wàːtòː	wàːtòː	PART	_	_	10	discourse	_	Gloss=that_is
 10	jìmaːꞌì	jìmaːꞌì	NOUN	_	Gender=Masc	7	conj:dicto	_	Gloss=XX
 11	-	-	PUNCT	_	_	10	punct	_	Gloss=XX
-12	tsàkaːnin	tsàkaːnin	ADP	_	Definite=Cons|Gender=Masc	10	mod	_	Gloss=XX
+12	tsàkaːnin	tsàkaːnin	ADP	_	Definite=Cons|Gender=Masc	10	mod	_	Gloss=between
 13	màcè	màcè	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=XX
 14	dà	dà	CCONJ	_	_	15	cc	_	Gloss=XX
 15	namijì	namijì	NOUN	_	Gender=Masc	13	conj:coord	_	Gloss=XX
 16	koː	koː	CCONJ	_	_	17	cc	_	Gloss=XX
-17	tsàkaːnin	tsàkaːnin	ADP	_	Definite=Cons|Gender=Masc	12	conj:coord	_	Gloss=XX
+17	tsàkaːnin	tsàkaːnin	ADP	_	Definite=Cons|Gender=Masc	12	conj:coord	_	Gloss=between
 18	namijì	namijì	NOUN	_	Gender=Masc	17	comp:obj	_	Gloss=XX
 19	dà	dà	CCONJ	_	_	20	cc	_	Gloss=XX
 20	namijì	namijì	NOUN	_	Gender=Masc	18	conj:coord	_	Gloss=XX|SpaceAfter=No
@@ -270,8 +270,8 @@
 4	dàgà	dàgà	ADP	_	_	2	comp:obl	_	Gloss=from
 5	Àbijân	Àbijân	PROPN	_	_	4	comp:obj	_	Gloss=XX|SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	Gloss=XX
-7	bàbban	bàbba	ADJ	_	Definite=Cons|Gender=Masc	8	compound	_	Gloss=XX
-8	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	5	conj:appos	_	Gloss=XX
+7	bàbban	bàbba	ADJ	_	Definite=Cons|Gender=Masc	8	compound	_	Gloss=big.Masc.Cons
+8	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	5	conj:appos	_	Gloss=city.Masc.Cons
 9	Aːbir̃ù	Aːbir̃ù	PROPN	_	_	8	mod	_	Gloss=XX
 10	Kwâs	Kwâs	PROPN	_	_	9	flat@name	_	Gloss=XX|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=XX
@@ -288,7 +288,7 @@
 22	gwajìː	gwajìː	NOUN	_	ExtPos=NOUN|Gender=Masc	20	comp:pred	_	Gloss=XX
 23	à	à	ADP	_	_	20	mod	_	Gloss=at
 24	wani	wani	DET	_	Definite=Spec|Gender=Masc	26	det	_	Gloss=some.Masc.Spec
-25	bàbban	bàbba	ADJ	_	Definite=Cons|Gender=Masc	26	mod	_	Gloss=XX
+25	bàbban	bàbba	ADJ	_	Definite=Cons|Gender=Masc	26	mod	_	Gloss=big.Masc.Cons
 26	asìbitì	asìbitì	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=hospital.Masc
 27	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	15	comp:obj	_	Gloss=XX
 28	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Stat	27	comp:pred	_	Gloss=take.Stat
@@ -488,7 +488,7 @@
 2	ƙàrshẽ	ƙàrshẽ	NOUN	_	_	1	comp:obj	_	Gloss=XX
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	Gloss=say
-5	bàbban	bàbba	ADJ	_	Definite=Cons|Gender=Masc	6	mod	_	Gloss=XX
+5	bàbban	bàbba	ADJ	_	Definite=Cons|Gender=Masc	6	mod	_	Gloss=big.Masc.Cons
 6	aikìn	aikìː	NOUN	_	Definite=Cons|Gender=Masc	9	subj	_	Gloss=work.Masc.Cons
 7	kwàmìtîn	kwàmìtiː	NOUN	_	Definite=Def|Gender=Masc	6	mod	_	Gloss=XX
 8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	Gloss=XX
@@ -519,7 +519,7 @@
 4	akà	nàː	AUX	_	Aspect=Perf|Person=4	3	comp:obj	_	Gloss=XX
 5	yi	yi	VERB	_	_	4	comp:aux	_	Gloss=do
 6	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	5	comp:pred	_	Gloss=XX
-7	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=XX
+7	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=XX
 8	shiː	shiː	PRON	_	Gender=Masc|Person=3	7	comp:obj	_	Gloss=XX
 9	à	à	ADP	_	_	5	mod	_	Gloss=at
 10	Ìkko	Ìkko	PROPN	_	_	9	comp:obj	_	Gloss=XX
@@ -529,7 +529,7 @@
 14	akà	nàː	AUX	_	Aspect=Prog|Person=4	13	comp:obj	_	Gloss=XX
 15	yi	yi	VERB	_	_	14	comp:aux	_	Gloss=do
 16	làꞌakàr̃iː	làꞌakàr̃iː	NOUN	_	Gender=Masc	15	comp:pred	_	Gloss=XX
-17	dà	dà	ADP	_	_	15	comp:obl	_	Gloss=XX
+17	dà	dà	ADP	_	_	16	comp:obl	_	Gloss=XX
 18	cêːwaː	cêː	VERB	_	Gender=Fem	17	comp:obj	_	Gloss=XX
 19	yawàn	yawàn	ADJ	_	Definite=Cons|Gender=Masc	22	subj	_	Gloss=quantity.Masc.Cons
 20	mutàːnen	mùtûm	NOUN	_	Definite=Cons|Number=Plur	19	mod	_	Gloss=people.Plur.Cons

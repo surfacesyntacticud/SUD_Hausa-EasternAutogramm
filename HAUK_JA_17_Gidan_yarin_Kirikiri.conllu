@@ -36,7 +36,7 @@
 28	kuma	kuma	PART	_	_	29	discourse@top	_	Gloss=also
 29	kèː	nèːː	AUX	_	Aspect=Prog	19	mod@relcl	_	Gloss=XX
 30	can	can	ADV	_	PronType=Dem	34	comp:pred	_	Gloss=XX
-31	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=XX
+31	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=city.Masc.Cons
 32	Ìkko	Ìkko	PROPN	_	_	31	mod	_	Gloss=Lagos|SpaceAfter=No|wordform=Ikko
 33	,	,	PUNCT	_	_	34	punct	_	Gloss=PUNCT
 34	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	18	comp:obj	_	Gloss=XX|wordform=yanaː
@@ -125,10 +125,10 @@
 17	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	20	mod	_	Gloss=XX
 18	'yan	ɗan	NOUN	_	Definite=Cons|Number=Plur	20	subj	_	Gloss=XX
 19	fur̃sùnàn	fur̃sùnàn	NOUN	_	Definite=Def|Gender=Masc	18	mod	_	Gloss=XX
-20	sukàn	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	16	comp:obj	_	Gloss=XX
+20	sukàn	kàn	AUX	_	Aspect=Hab|Number=Plur|Person=3	16	comp:obj	_	Gloss=3Plur.Hab
 21	yi	yi	VERB	_	_	20	comp:aux	_	Gloss=do
 22	barciː	barciː	NOUN	_	Gender=Masc	21	comp:pred	_	Gloss=XX
-23	nèː	neː	PART	_	Gender=Masc|Number=Plur	21	discourse@foc	_	Gloss=XX
+23	nèː	neː	PART	_	Gender=Masc|Number=Plur	22	discourse@foc	_	Gloss=XX
 24	kaːmùː-kaːmùː	kaːmùː-kaːmùː	ADV	_	_	21	mod	_	Gloss=in_shifts|SpaceAfter=No
 25	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
 26	wasu	wani	PRON	_	Definite=Spec|Gender=Masc|Number=Plur|PronType=Ind	28	subj	_	Gloss=some.Plur.Spec
@@ -154,7 +154,7 @@
 46	dai	dai	PART	_	PartType=Top	45	discourse@top	_	Gloss=anyhow
 47	kawài	kawài	ADV	_	_	45	comp:obj	_	Gloss=merely
 48	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	32	comp:obj	_	Gloss=XX
-49	tsayàː	tsay-	VERB	_	_	48	comp:aux	_	Gloss=XX
+49	tsayàː	tsay-	VERB	_	_	48	comp:aux	_	Gloss=stop
 50	dà	dà	ADP	_	_	49	comp:obl	_	Gloss=XX|wordform=da
 51	ƙafàr̃	ƙafàː	NOUN	_	Definite=Cons	50	comp:obj	_	Gloss=leg.Fem.Cons|SpaceAfter=No|wordform=ƙafàr̃sù
 52	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	51	mod@poss	_	Gloss=3Plur.Gen

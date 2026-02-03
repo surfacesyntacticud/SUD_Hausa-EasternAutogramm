@@ -330,7 +330,7 @@
 18	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	17	comp:obj	_	Gloss=XX
 19	kàmar̃	kàmat	SCONJ	_	Definite=Cons|Gender=Fem	15	mod	_	Gloss=XX
 20	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	19	comp:obj	_	Gloss=XX
-21	jeː	jeː	VERB	_	_	20	comp:aux	_	Gloss=XX
+21	jeː	jeː	VERB	_	_	20	comp:aux	_	Gloss=go
 22	wata	wani	DET	_	Definite=Spec|Gender=Masc	23	det	_	Gloss=some.Fem.Spec
 23	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	21	mod	_	Gloss=country.Fem.Cons|SpaceAfter=No
 24	wàje	wàje	ADV	_	_	23	mod	_	Gloss=outside|SpaceAfter=No
@@ -494,14 +494,14 @@
 12	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=COMP
 13	kèː	keː	AUX	_	Aspect=Prog	12	comp:obj	_	Gloss=XX
 14	baːyan	baːyaː	ADP	_	Definite=Cons|Gender=Masc	13	comp:pred	_	Gloss=after
-15	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	16	mod@desc	_	Gloss=XX
+15	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	16	mod@desc	_	Gloss=city.Masc.Cons
 16	Ìkko	Ìkko	PROPN	_	_	14	comp:obj	_	Gloss=Lagos|SpaceAfter=No
 17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 18	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	21	comp:obj	_	Gloss=who.Masc
 19	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	mod@relcl	_	Gloss=XX
 20	laƙàbaː	laƙàbaː	VERB	_	_	19	comp:aux	_	Gloss=XX
 21	wà	wà	ADP	_	Case=Dat	20	comp:obl	_	Gloss=XX
-22	suːnaː	suːnaː	NOUN	_	_	20	comp:obj	_	Gloss=XX
+22	suːnaː	suːnaː	NOUN	_	_	20	comp:obj	_	Gloss=name.Masc
 23	"	"	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 24	The	The	PROPN	_	_	22	conj:appos	_	Gloss=The
 25	Shrine	Shrine	PROPN	_	_	24	flat@name	_	Gloss=Shrine|SpaceAfter=No
@@ -514,7 +514,7 @@
 2	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	àmfàniː	àmfàniː	NOUN	_	Gender=Fem	3	comp:pred	_	Gloss=XX
-5	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=XX
+5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=XX
 6	wàːƙe-wàːƙen	waːƙàː	PRON	_	Number=Plur	5	comp:obj	_	Gloss=song.Plur.Cons|SpaceAfter=No|wordform=wàːƙe-wàːƙensà
 7	sà	sà	PRON	_	_	6	mod@poss	_	Gloss=3Masc.Gen
 8	wajen	wajen	ADP	_	_	3	comp:obl	_	Gloss=XX
@@ -573,7 +573,7 @@
 26	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	19	comp:obj	_	Gloss=XX
 27	yi	yi	VERB	_	_	26	comp:aux	_	Gloss=do
 28	fàr̃makìː	fàr̃makìː	NOUN	_	Gender=Masc	27	comp:pred	_	Gloss=attack.Masc
-29	kân	kân	ADP	_	_	27	comp:obl	_	Gloss=on
+29	kân	kân	ADP	_	_	28	comp:obl	_	Gloss=on
 30	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	29	mod	_	Gloss=house.Masc.Cons
 31	Fela	Fela	PROPN	_	_	30	mod	_	Gloss=Fela
 32	dà	dà	SCONJ	_	_	30	mod@relcl	_	Gloss=COMP
@@ -846,7 +846,7 @@
 23	na	na	PART	_	Case=Gen|PartType=Pred	21	mod	_	Gloss=Gen
 24	aureː	aureː	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=XX
 25	suː	suː	PRON	_	Number=Plur|Person=3	21	conj:appos	_	Gloss=XX
-26	àshìr̃in	àshìr̃in	NUM	_	_	25	mod:num	_	Gloss=XX
+26	àshìr̃in	àshìr̃in	NUM	_	_	25	mod:num	_	Gloss=twenty
 27	dà	dà	CCONJ	_	_	28	cc	_	Gloss=XX
 28	bakwài	bakwài	NUM	_	_	26	conj:coord	_	Gloss=seven|SpaceAfter=No
 29	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
