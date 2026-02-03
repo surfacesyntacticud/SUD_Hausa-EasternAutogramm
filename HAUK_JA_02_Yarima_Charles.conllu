@@ -16,7 +16,7 @@
 # text_ortho = Gàː mafìː yawancin ꞌyan Nàːjeːr̃iyàː, ɓullôːwar jirgin ruwân nan mài suːnaː « Britannia » à gaːɓàr̃ tèːkun Ìkko kwaːnan baːya, ita cèː àlaːmàː ta farkoː dà ta nuːnà cêːwaː 'yan gidan sàrautàr̃ Bìrtaːniyàː sunàː zìyaːr̃àr̃ Nàːjeːr̃iyàː.
 1	gàː	gàː	PART	_	_	24	mod	_	Gloss=XX
 2	mafìː	mafìː	PART	_	Gender=Masc|PartType=Der	1	subj	_	Gloss=XX
-3	yawancin	yawanciː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj	_	Gloss=XX
+3	yawancin	yawanciː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj	_	Gloss=majority.Masc.Cons
 4	ꞌyan	ꞌyan	ADJ	_	_	3	mod	_	Gloss=XX
 5	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	4	compound	_	Gloss=Nigeria|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -25,9 +25,9 @@
 9	ruwân	ruwaː	NOUN	_	Definite=Cons|Gender=Masc	8	compound	_	Gloss=water.Masc.Cons
 10	nan	nan	DET	_	PronType=Dem	8	det	_	Gloss=XX
 11	mài	mài	PART	_	Number=Sing|PartType=Der	8	mod	_	Gloss=owner/doer_of.Sing
-12	suːnaː	suːnaː	NOUN	_	_	11	compound	_	Gloss=XX
+12	suːnaː	suːnaː	NOUN	_	_	11	compound	_	Gloss=name.Masc
 13	«	«	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-14	Britannia	Britannia	PROPN	_	_	12	conj:appos	_	Gloss=Britannia
+14	Britannia	Britannia	PROPN	_	_	12	mod	_	Gloss=Britannia
 15	»	»	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 16	à	à	ADP	_	_	7	mod	_	Gloss=at
 17	gaːɓàr̃	gaːɓàː	NOUN	_	Definite=Cons|Gender=Fem	16	comp:obj	_	Gloss=XX
@@ -45,8 +45,8 @@
 29	ta	ta	AUX	_	Case=Gen|Gender=Fem	28	comp:obj	_	Gloss=XX
 30	nuːnà	nuːn-	VERB	_	_	29	comp:obj	_	Gloss=XX
 31	cêːwaː	cêːwaː	SCONJ	_	_	30	comp:obj	_	Gloss=COMP
-32	'yan	ɗan	NOUN	_	Definite=Cons|Number=Plur	36	subj	_	Gloss=XX
-33	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	32	mod	_	Gloss=house.Masc.Cons
+32	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	36	subj	_	Gloss=child.Plur.Cons
+33	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	32	compound	_	Gloss=house.Masc.Cons
 34	sàrautàr̃	sàrautàː	NOUN	_	Definite=Cons|Gender=Fem	32	mod	_	Gloss=XX
 35	Bìrtaːniyàː	Bìrtaːniyàː	PROPN	_	_	34	mod	_	Gloss=Bìrtaːniyàː
 36	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	31	comp:obj	_	Gloss=XX
@@ -64,7 +64,7 @@
 5	kân	kân	ADP	_	_	4	comp:pred	_	Gloss=on
 6	gadoːjiː	gadoːjiː	NOUN	_	Number=Plur	5	comp:obj	_	Gloss=XX
 7	na	na	PART	_	Case=Gen|PartType=Pred	6	mod	_	Gloss=Gen
-8	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=XX
+8	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=city.Masc.Cons
 9	Ìkko	Ìkko	PROPN	_	_	8	mod	_	Gloss=Lagos
 10	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=XX
 11	tàllàn	tàllà	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	10	comp:aux	_	Gloss=XX
@@ -170,7 +170,7 @@
 27	takèː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	25	comp:obj	_	Gloss=XX
 28	cìke	cik-	VERB	_	_	27	comp:aux	_	Gloss=XX
 29	dà	dà	CCONJ	_	_	28	comp:obl	_	Gloss=XX
-30	ar̃zìkin	ar̃zìkiː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=XX
+30	ar̃zìkin	ar̃zìkiː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=wealth.Masc.Cons
 31	mân	mâi	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=XX
 32	feːtùr̃	feːtùː	NOUN	_	Definite=Cons|Gender=Fem	31	mod	_	Gloss=XX|SpaceAfter=No
 33	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -459,7 +459,7 @@
 # text = kashìː àshìr̃in dà bìyar̃ cikin ɗàriː na duk yawàn jinsunàn birân dà akè dà suː à Afìr̃kà zaː'à iskèː su à gandun daːjìn Korup; hakà maː màcìːzai, dà ƙanaːnàn gàdaː, kâi har̃ maː dà giːwàːyē.
 # text_ortho = Kashìː àshìr̃in dà bìyar̃ cikin ɗàriː na duk yawàn jinsunàn birân dà akè dà suː à Afìr̃kà zaː à iskèː su à gandun daːjìn Korup; hakà maː màcìːzai, dà ƙanaːnàn gàdaː, kâi har̃ maː dà giːwàːyē.
 1	kashìː	kashìː	NOUN	_	Gender=Masc	18	dislocated@subj	_	Gloss=XX
-2	àshìr̃in	àshìr̃in	NUM	_	_	1	mod:num	_	Gloss=XX
+2	àshìr̃in	àshìr̃in	NUM	_	_	1	mod:num	_	Gloss=twenty
 3	dà	dà	CCONJ	_	_	4	cc	_	Gloss=XX
 4	bìyar̃	bìyar̃	NUM	_	_	2	conj:coord	_	Gloss=five
 5	cikin	cikin	ADP	_	_	1	mod	_	Gloss=inside
