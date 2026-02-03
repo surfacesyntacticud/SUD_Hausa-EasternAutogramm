@@ -5,8 +5,8 @@
 3	yaːjìn	yaːjìː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:pred	_	Gloss=XX
 4	aikìː	aikìː	NOUN	_	Gender=Masc	3	mod	_	Gloss=work.Masc|wordform=aiki
 5	à	à	ADP	_	_	2	mod	_	Gloss=at
-6	Jàmhuːr̃iyàr̃	Jàmhuːr̃iyàr̃	PROPN	_	Definite=Cons|Gender=Fem	5	comp:obj	_	Gloss=Jàmhuːr̃iyàr̃|wordform=Jamhuːr̃iyar
-7	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	6	mod	_	Gloss=Nìːjâr̃
+6	Jàmhuːr̃iyàr̃	jàmhuːr̃iyàː	NOUN	_	Definite=Cons|Gender=Fem	7	mod@desc	_	Gloss=republic.Fem.Cons|wordform=Jamhuːr̃iyar
+7	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	5	comp:obj	_	Gloss=Niger
 8	don	don	SCONJ	_	_	2	mod	_	Gloss=so_that
 9	neːman	neːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:obj	_	Gloss=look_for.Vnoun.Masc.Cons
 10	dìmùkùr̃àːɗiyyàː	dìmùkùr̃àːɗiyyàː	NOUN	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	9	comp:obj	_	Gloss=XX
@@ -17,13 +17,13 @@
 2	r̃àhòːtànniː	r̃àhòːtànniː	NOUN	_	Number=Plur	9	subj	_	Gloss=XX
 3	dàgà	dàgà	ADP	_	_	2	mod	_	Gloss=from
 4	bàbban	bàbba	ADJ	_	Definite=Cons|Gender=Masc	5	mod	_	Gloss=XX
-5	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=XX
+5	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=city.Masc.Cons
 6	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	7	mod@desc	_	Gloss=country.Fem.Cons|SpaceAfter=No
 7	Jàmhuːr̃iyàr̃	Jàmhuːr̃iyàr̃	NOUN	_	Definite=Cons|Gender=Fem	5	mod	_	Gloss=republic.Fem.Cons
 8	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	7	flat@name	_	Gloss=Niger
 9	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 10	nuːnà	nuːn-	VERB	_	_	9	comp:aux	_	Gloss=XX
-11	saːmùn	saːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:obj	_	Gloss=XX
+11	saːmùn	saːmùː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:obj	_	Gloss=get.Vnoun.Masc.Cons
 12	goːyon	goːy-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:obj	_	Gloss=support.Vnoun.Masc.Cons
 13	baːyaː	baːyaː	NOUN	_	_	12	comp.obj	_	Gloss=back.Masc
 14	dàgà	dàgà	ADP	_	_	11	comp:obl	_	Gloss=from
@@ -174,8 +174,8 @@
 48	ɗaya	ɗaya	NUM	_	_	47	mod:num	_	Gloss=one
 49	tal	yaː	AUX	_	Gender=Fem|PronType=Dem	39	mod	_	Gloss=XX
 50	à	à	ADP	_	_	42	mod	_	Gloss=at
-51	Jàmhuːr̃iyàr̃	Jàmhuːr̃iyàr̃	PROPN	_	Definite=Cons|Gender=Fem	50	comp:obj	_	Gloss=Jàmhuːr̃iyàr̃|wordform=Jamhuːriyar
-52	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	51	flat@name	_	Gloss=Nìːjâr̃|SpaceAfter=No|wordform=Nijâr
+51	Jàmhuːr̃iyàr̃	jàmhuːr̃iyàː	NOUN	_	Definite=Cons|Gender=Fem	52	mod@desc	_	Gloss=republic.Fem.Cons|wordform=Jamhuːriyar
+52	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	50	comp:obj	_	Gloss=Nìːjâr̃|SpaceAfter=No|wordform=Nijâr
 53	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__7
@@ -232,14 +232,14 @@
 19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=COMP
 20	akà	nàː	AUX	_	Aspect=Prog|Person=4	19	comp:obj	_	Gloss=XX
 21	yi	yi	VERB	_	_	20	comp:aux	_	Gloss=do
-22	tsàkaːnin	tsàkaːnin	ADP	_	Definite=Cons|Number=Plur	21	comp:pred	_	Gloss=XX
+22	tsàkaːnin	tsàkaːnin	ADP	_	Definite=Cons|Number=Plur	21	comp:pred	_	Gloss=between
 23	ɗàːlìbai	ɗaːlìbiː	NOUN	_	Number=Plur	21	comp:pred	_	Gloss=student.Plur
 24	dà	dà	CCONJ	_	_	26	cc	_	Gloss=XX|wordform=da
 25	kuma	kuma	PART	_	_	28	discourse@top	_	Gloss=also
 26	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	23	conj:coord	_	Gloss=child.Plur.Cons
 27	sàndaː	sàndaː	NOUN	_	Gender=Masc	26	compound	_	Gloss=XX
 28	à	à	ADP	_	_	21	mod	_	Gloss=at
-29	bir̃nin	bir̃nin	ADP	_	_	28	comp:obj	_	Gloss=XX
+29	bir̃nin	bir̃nin	ADP	_	_	28	comp:obj	_	Gloss=city.Masc.Cons
 30	Yàmài	Yàmài	PROPN	_	_	29	comp:obj	_	Gloss=Niamey
 31	à	à	ADP	_	_	21	mod	_	Gloss=at
 32	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	33	mod@desc	_	Gloss=month.Masc.Cons
@@ -654,9 +654,9 @@
 21	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	13	comp:obj	_	Gloss=Nigeria
 22	dà	dà	CCONJ	_	_	23	cc	_	Gloss=XX
 23	To :gò	To :gò	PROPN	_	_	21	conj:coord	_	Gloss=To :gò
-24	dà	dà	CCONJ	_	_	25	cc	_	Gloss=XX
-25	Jàmhuːr̃iyàr̃	Jàmhuːr̃iyàr̃	PROPN	_	Definite=Cons|Gender=Fem	21	conj:coord	_	Gloss=Jàmhuːr̃iyàr̃
-26	Bìːni	Bìːni	PROPN	_	_	25	mod	_	Gloss=Bìːni|SpaceAfter=No
+24	dà	dà	CCONJ	_	_	26	cc	_	Gloss=XX
+25	Jàmhuːr̃iyàr̃	jàmhuːr̃iyàː	NOUN	_	Definite=Cons|Gender=Fem	26	mod@desc	_	Gloss=republic.Fem.Cons
+26	Bìːni	Bìːni	PROPN	_	_	23	conj:coord	_	Gloss=Benin|SpaceAfter=No
 27	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__22
