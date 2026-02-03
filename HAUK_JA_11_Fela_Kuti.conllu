@@ -123,7 +123,7 @@
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	1	comp:obj	_	Gloss=Masc.Def
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 4	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	3	comp:obj	_	Gloss=XX|wordform=yakề
-5	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:aux	_	Gloss=do
+5	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:aux	_	Gloss=do.Vnoun.Masc.Cons
 6	wannàn	wannàn	DET	_	Deixis=Prox|Gender=Masc|PronType=Dem	7	det	_	Gloss=Prox.Sing
 7	aikìː	aikìː	NOUN	_	Gender=Masc	5	udep	_	Gloss=work.Masc
 8	neː	neː	PART	_	Gender=Masc|Number=Plur	1	comp:obj	_	Gloss=XX
@@ -222,7 +222,7 @@
 15	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 16	indà	indà	ADV	_	PronType=Rel	18	mod	_	Gloss=where
 17	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	9	mod@relcl	_	Gloss=XX
-18	cèː	cêː	VERB	_	_	17	comp:aux	_	Gloss=XX|SpaceAfter=No
+18	cèː	cêː	VERB	_	_	17	comp:aux	_	Gloss=say|SpaceAfter=No
 19	:	:	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 20	"	"	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 21	Dâː	dâː	ADV	_	_	23	mod	_	Gloss=XX
@@ -429,7 +429,7 @@
 23	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 24	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 25	sauyà	sauy-	VERB	_	_	24	comp:aux	_	Gloss=XX
-26	suːnan	suːnaː	NOUN	_	Definite=Cons|Gender=Masc	25	comp:obj	_	Gloss=XX
+26	suːnan	suːnaː	NOUN	_	Definite=Cons|Gender=Masc	25	comp:obj	_	Gloss=name.Masc.Cons
 27	aːyàr̃in	aːyàr̃iː	NOUN	_	Definite=Cons|Gender=Masc	26	mod	_	Gloss=group.Masc.Cons
 28	makàɗan	makàɗiː	NOUN	_	Definite=Cons|Number=Plur	27	mod	_	Gloss=musician.Plur.Cons|SpaceAfter=No|wordform=makàɗansà
 29	sà	sà	PRON	_	_	28	mod@poss	_	Gloss=3Masc.Gen
@@ -443,7 +443,7 @@
 37	sànnan	sànnan	ADV	_	_	38	mod	_	Gloss=then
 38	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	24	parataxis@conj	_	Gloss=XX
 39	faːrà	faːr-	VERB	_	_	38	comp:aux	_	Gloss=begin
-40	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	39	comp:obj	_	Gloss=do
+40	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	39	comp:obj	_	Gloss=do.Vnoun.Masc.Cons
 41	fàyàːfàyai	faifai	NOUN	_	_	40	comp:pred	_	Gloss=record.Plur
 42	irìː-irìː	irìː-irìː	ADJ	_	Gender=Masc	41	mod	_	Gloss=various
 43	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	44	subj	_	Gloss=who.Plur|wordform=wadandal
@@ -713,7 +713,7 @@
 13	cikin	cikintà	ADP	_	Definite=Cons|Gender=Fem|Person=3	12	comp:obj	_	Gloss=inside|SpaceAfter=No|wordform=cikintà
 14	tà	tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	13	comp:obj	_	Gloss=3Fem.Gen
 15	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	mod@relcl	_	Gloss=XX
-16	cèː	cêː	VERB	_	_	15	comp:aux	_	Gloss=XX
+16	cèː	cêː	VERB	_	_	15	comp:aux	_	Gloss=say
 17	kàmaːtàː	kamaːt-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	18	subj	_	Gloss=be_appropriate.Vnoun.Fem
 18	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	16	comp:obj	_	Gloss=XX
 19	yi	yi	VERB	_	_	18	comp:aux	_	Gloss=do

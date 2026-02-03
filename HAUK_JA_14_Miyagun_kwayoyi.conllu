@@ -502,26 +502,26 @@
 17	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	14	comp:obj	_	Gloss=XX
 18	saːmùn	saːmùː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	17	comp:aux	_	Gloss=get.Vnoun.Masc.Cons
 19	wàhalàː	wàhalàː	NOUN	_	Gender=Fem	18	comp:obj	_	Gloss=trouble.Fem
-20	sòːsai	sòːsai	ADV	_	_	18	mod	_	Gloss=well
-21	wajen	wajen	ADP	_	_	18	comp:obl	_	Gloss=XX
+20	sòːsai	sòːsai	ADV	_	_	18	mod	_	Gloss=seriously
+21	wajen	wajen	ADP	_	_	18	comp:obl	_	Gloss=about
 22	kaːmà	kaːm-	VERB	_	_	21	comp:obj	_	Gloss=catch
-23	mânyan	mânyai	ADJ	_	Definite=Cons|Number=Plur	22	comp:obj	_	Gloss=XX
-24	màːsu	mài	PART	_	Number=Plur|PartType=Der	21	comp:obj	_	Gloss=owner/doer_of.Plur
-25	cìnikin	cìnikiː	NOUN	_	Definite=Cons|Gender=Masc	24	compound	_	Gloss=XX
+23	mânyan	bàbba	ADJ	_	Definite=Cons|Number=Plur	22	comp:obj	_	Gloss=big.Plur.Cons
+24	màːsu	mài	PART	_	Number=Plur|PartType=Der	23	mod	_	Gloss=owner/doer_of.Plur
+25	cìnikin	cìnikiː	NOUN	_	Definite=Cons|Gender=Masc	24	comp:obj	_	Gloss=XX
 26	ƙwaːyoːyîn	ƙwaːyoːyiː	NOUN	_	Definite=Def|Gender=Masc	25	mod	_	Gloss=XX|SpaceAfter=No
 27	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 28	dà	dà	CCONJ	_	_	30	cc	_	Gloss=XX
 29	kuma	kuma	PART	_	_	28	discourse@top	_	Gloss=also
-30	yi	yi	VERB	_	_	21	comp:obj	_	Gloss=do
+30	yi	yi	VERB	_	_	22	conj:coord	_	Gloss=do
 31	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	30	comp:obl	_	Gloss=XX
-32	shàr̃i'àː	shàr̃i'àː	NOUN	_	Gender=Fem	30	comp:pred	_	Gloss=XX|SpaceAfter=No
+32	shàr̃i'àː	shàr̃i'àː	NOUN	_	Gender=Fem	30	comp:pred	_	Gloss=prosecution.Fem|SpaceAfter=No
 33	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 14_Miyagun_kwayoyi__15
 # text = Shiː kânsà shùːgàban Hùkuːmàr̃ - " Fidelis Oyakhilome " - à haːlin yànzu yanàː nan tsùndum à cikin màganàr̃ shàr̃i'àr̃ wata màːtaː mài suːnaː " Jennifer Madike " waddà akà tsarèː sabòːdà lâifin cìnikin miyàːgun ƙwaːyoːyiː dà ɓaːtà suːnan ministoːcin gwamnatì .
 1	Shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	14	dislocated@subj	_	Gloss=XX
-2	kânsà	kânsà	PRON	_	Gender=Masc|Person=3|PronType=Prs|Reflex=Yes	1	conj:appos	_	Gloss=3Masc.Reflex
-3	shùːgàban	shùːgàbaː	NOUN	_	Definite=Cons|Number=Plur	2	comp:obj	_	Gloss=leader.Masc.Cons
+2	kânsà	kânsà	PRON	_	Gender=Masc|Person=3|PronType=Prs|Reflex=Yes	1	mod	_	Gloss=3Masc.Reflex
+3	shùːgàban	shùːgàbaː	NOUN	_	Definite=Cons|Number=Plur	1	conj:appos	_	Gloss=leader.Masc.Cons
 4	Hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Cons|Gender=Fem	3	mod	_	Gloss=agency.Fem.Def
 5	-	-	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 6	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -530,17 +530,17 @@
 9	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 10	-	-	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 11	à	à	ADP	_	_	14	mod	_	Gloss=at
-12	haːlin	haːliː	ADV	_	_	11	comp:obj	_	Gloss=XX
-13	yànzu	yànzu	ADV	_	_	7	mod	_	Gloss=now
+12	haːlin	haːliː	ADV	_	_	11	comp:obj	_	Gloss=situation.Masc.Cons
+13	yànzu	yànzu	ADV	_	_	12	mod	_	Gloss=now
 14	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=XX
 15	nan	nan	ADV	_	Definite=Def|PronType=Dem	14	comp:pred	_	Gloss=XX
-16	tsùndum	tsùndaː	IDEO	_	Definite=Cons|Gender=Fem	14	comp:aux	_	Gloss=XX
-17	à	à	ADP	_	_	22	mod	_	Gloss=at
+16	tsùndum	tsùndaː	IDEO	_	Definite=Cons|Gender=Fem	17	mod	_	Gloss=XX
+17	à	à	ADP	_	_	14	comp:pred	_	Gloss=at
 18	cikin	cikin	ADP	_	_	17	comp:obj	_	Gloss=inside
-19	màganàr̃	màganàː	NOUN	_	Gender=Fem	18	comp:obj	_	Gloss=XX|wordform=maganar
-20	shàr̃i'àr̃	shàr̃i'àː	NOUN	_	Gender=Fem	19	mod	_	Gloss=XX|wordform=shar̃i'aːr
+19	màganàr̃	màganàː	NOUN	_	Gender=Fem	18	comp:obj	_	Gloss=matter.Fem.Cons|wordform=maganar
+20	shàr̃i'àr̃	shàr̃i'àː	NOUN	_	Gender=Fem	19	mod	_	Gloss=case.Fem.Cons|wordform=shar̃i'aːr
 21	wata	wani	DET	_	Definite=Spec|Gender=Masc	22	det	_	Gloss=some.Fem.Spec
-22	màːtaː	màːtaː	NOUN	_	Gender=Fem	14	subj	_	Gloss=XX
+22	màːtaː	màːtaː	NOUN	_	Gender=Fem	20	mod	_	Gloss=XX
 23	mài	mài	PART	_	Number=Sing|PartType=Der	22	mod	_	Gloss=owner/doer_of.Sing
 24	suːnaː	suːnaː	NOUN	_	_	23	compound	_	Gloss=XX
 25	"	"	PUNCT	_	_	26	punct	_	Gloss=PUNCT
@@ -549,16 +549,16 @@
 28	"	"	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 29	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	31	comp:obj	_	Gloss=XX
 30	akà	nàː	AUX	_	Aspect=Prog|Person=4	22	mod@relcl	_	Gloss=XX|wordform=aka
-31	tsarèː	tsar-	VERB	_	Gender=Masc	30	comp:aux	_	Gloss=XX
+31	tsarèː	tsar-	VERB	_	Gender=Masc	30	comp:aux	_	Gloss=arrest
 32	sabòːdà	sabòːdà	ADP	_	_	31	mod	_	Gloss=because_of
 33	lâifin	lâifiː	NOUN	_	Definite=Cons|Gender=Masc	32	comp:obj	_	Gloss=XX
-34	cìnikin	cìnikiː	NOUN	_	Definite=Cons|Gender=Masc	33	comp:obj	_	Gloss=XX
-35	miyàːgun	muːgùː	ADJ	_	Definite=Cons|Number=Plur	34	mod	_	Gloss=bad.Plur
-36	ƙwaːyoːyiː	ƙwàːyaː	NOUN	_	_	35	mod	_	Gloss=drug.Plur
-37	dà	dà	ADP	_	_	38	comp:obl	_	Gloss=XX
-38	ɓaːtà	ɓaːt-	VERB	_	Gender=Fem	26	conj:coord	_	Gloss=XX
-39	suːnan	suːnaː	NOUN	_	Definite=Cons|Gender=Masc	38	comp:obj	_	Gloss=XX
-40	ministoːcin	ministoːciː	NOUN	_	Definite=Cons|Gender=Masc	39	mod	_	Gloss=XX
+34	cìnikin	cìnikiː	NOUN	_	Definite=Cons|Gender=Masc	33	comp:obj	_	Gloss=trade.Masc.Cons
+35	miyàːgun	muːgùː	ADJ	_	Definite=Cons|Number=Plur	36	mod	_	Gloss=bad.Plur
+36	ƙwaːyoːyiː	ƙwàːyaː	NOUN	_	_	34	mod	_	Gloss=drug.Plur
+37	dà	dà	CCONJ	_	_	38	cc	_	Gloss=XX
+38	ɓaːtà	ɓaːt-	VERB	_	Gender=Fem	33	conj:coord	_	Gloss=spoil
+39	suːnan	suːnaː	NOUN	_	Definite=Cons|Gender=Masc	38	comp:obj	_	Gloss=name.Masc.Cons
+40	ministoːcin	ministàː	NOUN	_	Definite=Cons	39	mod	_	Gloss=minister.Plur.Cons
 41	gwamnatì	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	40	mod	_	Gloss=government.Fem
 42	.	.	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 
@@ -607,7 +607,7 @@
 41	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 14_Miyagun_kwayoyi__18
-# text = Shiː Mr Oyakhilome dai yaː musàntà wannàn zàrgîn, yanà mài cêːwaː mânyan màːsu fataucìn miyàːgun ƙwaːyoːyiː nèː kawài sukà baːtà suːnansà.
+# text = Shiː Mr Oyakhilome dai yaː musàntà wannàn zàrgîn, yanà mài cêːwaː mânyan màːsu fataucìn miyàːgun ƙwaːyoːyiː nèː kawài sukà ɓaːtà suːnansà .
 1	Shiː	shiː	PRON	_	_	5	dislocated@subj	_	Gloss=XX
 2	Mr	Mr	PROPN	_	_	3	mod@desc	_	Gloss=Mr
 3	Oyakhilome	Oyakhilome	PROPN	_	_	1	conj:appos	_	Gloss=Oyakhilome
@@ -628,8 +628,8 @@
 18	nèː	neː	PART	_	Gender=Masc|Number=Plur	15	discourse@foc	_	Gloss=XX
 19	kawài	kawài	ADV	_	_	20	mod	_	Gloss=merely
 20	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	12	comp:obj	_	Gloss=XX
-21	baːtà	nàː	VERB	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	20	comp:aux	_	Gloss=XX
-22	suːnan	suːnaː	NOUN	_	Case=Gen|Number=Sing|Person=1	21	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=suːnansà
+21	ɓaːtà	ɓaːt-	VERB	_	_	20	comp:aux	_	Gloss=spoil
+22	suːnan	suːnaː	NOUN	_	_	21	comp:obj	_	Gloss=name.Masc.Cons|SpaceAfter=No|wordform=suːnansà
 23	sà	sà	PRON	_	_	22	mod@poss	_	Gloss=3Masc.Gen
 24	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
