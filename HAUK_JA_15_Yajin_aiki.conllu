@@ -352,9 +352,9 @@
 30	sàːmu	saːm-	VERB	_	_	29	comp:aux	_	Gloss=get
 31	daːmar̃	daːmaː	NOUN	_	Definite=Cons|Gender=Fem	30	comp:obj	_	Gloss=opportunity.Fem.Cons
 32	kafà	kaf-	VERB	_	Aspect=Perf|Gender=Masc|Person=2	31	mod	_	Gloss=set_up
-33	tsaːrìː	tsaːrìː	NOUN	_	Gender=Masc	32	comp:aux	_	Gloss=XX
+33	tsaːrìː	tsaːrìː	NOUN	_	Gender=Masc	32	comp:aux	_	Gloss=system.Masc
 34	mài	mài	PART	_	Number=Sing|PartType=Der	33	mod	_	Gloss=owner/doer_of.Sing
-35	jàm'ìyyuː	jàm'aː	NOUN	_	Number=Plur	34	compound	_	Gloss=XX
+35	jàm'ìyyuː	jàm'iyyàː	NOUN	_	Number=Plur	34	compound	_	Gloss=party.Plur
 36	dà	dà	ADP	_	ExtPos=ADJ	35	mod	_	Gloss=with|Idiom=Yes
 37	daːmaː	daːmaː	NOUN	_	Gender=Fem	36	comp:obj	_	Gloss=opportunity.Fem|InIdiom=Yes|SpaceAfter=No
 38	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -464,36 +464,36 @@
 20	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__16
-# text = Bandà kuma matsàː lambàr̃ dà shùːgàbaː " Ali Saibou " yakèː fùskantàː à kân kaucèːwaː dàgà kân tafarkìn tsaːrìn mulkìː mài jàm'iyyàː ƙwàːyaː ɗaya tal, hakà kuma shuːgàbân yanàː faːmaː dà ƙaːrìn yawàn wànzuwar̃ rashìn amìncêwaː dà manufoːfin tattalin ar̃zìkiː dà gwamnatìnsà takèː aikìː dà suː.
-1	Bandà	bandà	ADP	_	_	30	mod	_	Gloss=XX
+# text = Bandà kuma matsàː lambàr̃ dà shùːgàbaː " Ali Saibou " yakèː fùskantàː à kân kaucèːwaː dàgà kân tafarkìn tsaːrìn mulkìː mài jàm'iyyàː ƙwàːyaː ɗaya tal, hakà kuma shùːgàbân yanàː faːmaː dà ƙaːrìn yawàn wànzuwar̃ rashìn amìncêwaː dà manufoːfin tattalin ar̃zìkiː dà gwamnatìnsà takèː aikìː dà suː.
+1	Bandà	bandà	SCONJ	_	_	30	mod	_	Gloss=except_from
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 3	matsàː	matsàː	NOUN	_	_	1	comp:obj	_	Gloss=XX
-4	lambàr̃	lambàr̃	NOUN	_	Gender=Fem	3	mod	_	Gloss=XX
-5	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
+4	lambàr̃	lambàr̃	NOUN	_	Gender=Fem	3	mod	_	Gloss=pressure.Fem.Cons
+5	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=COMP
 6	shùːgàbaː	shùːgàbaː	NOUN	_	_	8	mod@desc	_	Gloss=leader.Masc
 7	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 8	Ali	Ali	PROPN	_	_	11	subj	_	Gloss=Ali
 9	Saibou	Saibou	PROPN	_	_	8	flat@name	_	Gloss=Saibou
 10	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 11	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	5	comp:obj	_	Gloss=XX
-12	fùskantàː	fùskantaː	VERB	_	Gender=Fem	11	comp:aux	_	Gloss=XX
+12	fùskantàː	fuskant-	VERB	_	Gender=Fem	11	comp:aux	_	Gloss=face.Vnoun.Fem
 13	à	à	ADP	_	_	12	comp:obl	_	Gloss=at
 14	kân	kân	ADP	_	_	13	comp:obj	_	Gloss=top
-15	kaucèːwaː	kauc-	VERB	_	Gender=Fem	14	comp:obj	_	Gloss=XX
+15	kaucèːwaː	kaut-	VERB	_	Gender=Fem	14	comp:obj	_	Gloss=move_away.Vnoun.Fem
 16	dàgà	dàgà	ADP	_	ExtPos=ADP	15	comp:obl	_	Gloss=from
 17	kân	kân	ADP	_	Definite=Cons|Gender=Masc	16	comp:obj	_	Gloss=on
-18	tafarkìn	tafarkìː	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	Gloss=XX
-19	tsaːrìn	tsaːrìː	NOUN	_	Definite=Cons|Gender=Masc	18	mod	_	Gloss=XX
-20	mulkìː	mulkìː	NOUN	_	Gender=Masc	19	mod	_	Gloss=XX
+18	tafarkìn	tafarkìː	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	Gloss=system.Masc.Cons
+19	tsaːrìn	tsaːrìː	NOUN	_	Definite=Cons|Gender=Masc	18	mod	_	Gloss=organisation.Masc.Cons
+20	mulkìː	mulkìː	NOUN	_	Gender=Masc	19	compound	_	Gloss=government.Masc.Cons
 21	mài	mài	PART	_	Number=Sing|PartType=Der	18	mod	_	Gloss=owner/doer_of.Sing
-22	jàm'iyyàː	jàm'iyyàː	NOUN	_	Gender=Fem	21	compound	_	Gloss=XX
+22	jàm'iyyàː	jàm'iyyàː	NOUN	_	Gender=Fem	21	compound	_	Gloss=party.Fem
 23	ƙwàːyaː	ƙwàːyaː	NOUN	_	Gender=Fem	22	mod	_	Gloss=XX
 24	ɗaya	ɗaya	NUM	_	_	23	mod:num	_	Gloss=one
-25	tal	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	17	mod	_	Gloss=XX|SpaceAfter=No
+25	tal	tal	IDEO	_	Aspect=Perf|Gender=Fem|Person=3	24	mod	_	Gloss=single|SpaceAfter=No
 26	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 27	hakà	hakà	ADV	_	_	30	mod	_	Gloss=thus
 28	kuma	kuma	PART	_	_	27	discourse@top	_	Gloss=also
-29	shuːgàbân	shuːgàbiː	NOUN	_	Definite=Def|Gender=Masc	30	subj	_	Gloss=XX
+29	shùːgàbân	shùːgàbaː	NOUN	_	Definite=Def|Gender=Masc	30	subj	_	Gloss=president.Masc.Def
 30	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=XX|wordform=yanaː
 31	faːmaː	faːmaː	VERB	_	_	30	comp:aux	_	Gloss=XX
 32	dà	dà	ADP	_	_	31	comp:obl	_	Gloss=XX
