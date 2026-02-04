@@ -1,6 +1,4 @@
 # sent_id = 16_Aihuwar_Yara__1
-# text_en = 
-# text_ortho = 
 # text = Matsaloːliː danganèː dà haihùwar̃ yâːraː à Nàːjeːr̃iyàː
 1	Matsaloːliː	màtsalàː	NOUN	_	_	0	root	_	Gloss=problem.Plur
 2	danganèː	danganèː	NOUN	_	ExtPos=ADP|Gender=Masc|Number=Plur	1	comp:cleft	_	Gloss=relation.Masc|Idiom=Yes
@@ -11,8 +9,6 @@
 7	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	6	comp:obj	_	Gloss=Nigeria
 
 # sent_id = 16_Aihuwar_Yara__2
-# text_en = 
-# text_ortho = 
 # text = Zuwàː gà ƙàrshen wannàn shèːkaràr̃ dà mukè ciki, an ƙiyàstà maːtaː à Nàːjeːr̃iyàː kìːma :nìn dubuː sàbà'in dà bìyar̃ nèː zaːsù rasà raːyukànsù à dàliːlìn saːmùn tangar̃ɗàː wajen haihùwaː koː kuma maː tun sunàː dà cikìː.
 1	Zuwàː	zuwàː	ADP	_	_	10	mod	_	Gloss=XX
 2	gà	gà	ADP	_	_	1	comp:obj	_	Gloss=to
@@ -54,8 +50,6 @@
 38	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = 16_Aihuwar_Yara__3
-# text_en = 
-# text_ortho = 
 # text = À loːkàcîn dà likitoːciː sukà yi wani tàːroː à Àbuːjaː, wàːtòː saːbuwar̃ hêdkwatàr̃ Nàːjeːr̃iyàː, dukànsù sun yàr̃da cêːwaː àkwai matuƙar̃ bùkaːtàr̃ ragè irìn haɗur̃àn nan bâː gair̃à baːbù dàliːlìː dà maːtaː kèː fùskantàː wajen haihùwaː.
 1	À	à	ADP	_	_	19	mod	_	Gloss=XX
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	1	comp:obj	_	Gloss=Masc.Def
@@ -98,8 +92,6 @@
 39	.	.	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 
 # sent_id = 16_Aihuwar_Yara__4
-# text_en = 
-# text_ortho = 
 # text = An cêː wai adàdin màce-màce dà lahàniː gà maːtaː yaː riɓà adàdin màce-màce à cikin jàːrìːrai dà kàmar̃ sàu àshìr̃in, kuma yâːraː sun mòrèː wà shirìn wasu ƙungiyoːyiː na duːniyàː kàmar̃ na Asuːsùn Tàimakon Yâːraː na Màjàlisàr̃ Ɗinkìn Duːniyàː
 1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=XX
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	Gloss=say
@@ -127,7 +119,7 @@
 24	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	10	conj:coord	_	Gloss=XX
 25	mòrèː	mòrèː	VERB	_	_	24	comp:aux	_	Gloss=XX
 26	wà	wà	ADP	_	Case=Dat	25	comp:obl	_	Gloss=XX
-27	shirìn	shir-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	26	comp:obj	_	Gloss=XX
+27	shirìn	shirìː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	26	comp:obj	_	Gloss=programme.Masc.Cons
 28	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	29	det	_	Gloss=some.Plur.Spec
 29	ƙungiyoːyiː	ƙungiyoːyiː	NOUN	_	Gender=Masc	27	comp:obj	_	Gloss=XX
 30	na	na	PART	_	Case=Gen|PartType=Pred	29	mod	_	Gloss=Gen
@@ -143,8 +135,6 @@
 40	Duːniyàː	Duːniyàː	PROPN	_	_	39	flat@name	_	Gloss=Duːniyàː
 
 # sent_id = 16_Aihuwar_Yara__5
-# text_en = 
-# text_ortho = 
 # text = Hukuːmoːmin kùlaː dà laːfiyàː à Nàːjeːr̃iyàː sun cêː goːmà shâː bìyar̃ dàgà cikin koːwàɗànnè maːtaː dubuː sukàn rasà raːyukànsù neː wajen haihùwaː.
 1	Hukuːmoːmin	Hukuːmoːmin	PROPN	_	Definite=Cons|Gender=Masc	7	subj	_	Gloss=Hukuːmoːmin
 2	kùlaː	kùlaː	NOUN	_	Gender=Fem	1	mod	_	Gloss=XX
@@ -172,8 +162,6 @@
 24	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 16_Aihuwar_Yara__6
-# text_en = 
-# text_ortho = 
 # text = À ƙallà maːtaː uků zuwàː huɗu nèː kèː mutuwàː à yàːyîn dà sukèː ƙòƙarin zamaː iyàːyeː à daidai wannàn loːkàciː dà kukèː sàuràːren wannàn shirìː.
 1	À	à	ADP	_	_	4	mod	_	Gloss=XX
 2	ƙallà	ƙallà	ADV	_	_	1	comp:obj	_	Gloss=XX
@@ -203,8 +191,6 @@
 26	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 16_Aihuwar_Yara__7
-# text_en = 
-# text_ortho = 
 # text = Wasu dàgà cikin wadànnân yâ:raː nèː ƙanaːnàː, waɗàndà bàsù kai minzàlin maːtaː ba, sunàː kuma mutuwàː neː sabòːdà kwàtangwalònsù yaː fayè ƙanƙantàː, don hakà sunàː shân wàhalàː wajen haihùwaː.
 1	Wasu	wast	PRON	_	_	16	mod	_	Gloss=XX
 2	dàgà	dàgà	ADP	_	_	16	mod	_	Gloss=from
@@ -242,8 +228,6 @@
 34	.	.	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 
 # sent_id = 16_Aihuwar_Yara__8
-# text_en = 
-# text_ortho = 
 # text = Wasunsù kuma sunàː mutuwàː neː sabòːdà ràːzanàr̃ dà sukèː yîː danganèː dà wasu cànje-cànje dà kèː fàːruwaː à loːkàcîn dà sukè dà juːnaː biyu, kàmar̃ kùmburin ƙafàːfunsů wandà akèː ganin cêːwaː wata àlaːmàː ceː dà kèː nuːnà koː tagwàːyeː neː zaː'à hàifaː koː kuma ɗaː namijì.
 1	Wasun	wasu	PRON	_	Definite=Cons|Number=Plur	4	subj	_	Gloss=some.Plur|SpaceAfter=No|wordform=Wasunsù
 2	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	1	mod@poss	_	Gloss=3Plur.Gen
@@ -296,8 +280,6 @@
 49	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 16_Aihuwar_Yara__9
-# text_en = 
-# text_ortho = 
 # text = Har̃ ìlaː yâu wasu maːtân sunàː mutuwàː neː sabòːdà rashìn moːtàr̃ dà zaːtà kai sù asìbitì loːkàcîn dà naːƙudàː ta kaːmàː su, koː kuma à loːkàcîn màigida baːyàː nan, koː kuma koː dàː yanàː nan bài baː dà izìniː à kai màːtâr̃ asìbitì ba.
 1	Har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	6	mod	_	Gloss=XX
 2	ìlaː	ìlaː	ADV	_	_	1	comp:obj	_	Gloss=XX
@@ -348,8 +330,6 @@
 47	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 16_Aihuwar_Yara__10
-# text_en = 
-# text_ortho = 
 # text = Wasu maːtân kuma sunàː mutuwàː neː à yàːyîn dà sukà yi ƙòːƙarin zubar̃ dà cikìː.
 1	Wasu	wasu	DET	_	_	2	det	_	Gloss=XX
 2	maːtân	maːtaː	NOUN	_	Number=Plur	4	subj	_	Gloss=XX
@@ -369,8 +349,6 @@
 16	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 16_Aihuwar_Yara__11
-# text_en = 
-# text_ortho = 
 # text = Zubar̃ dà cikìː dai wani àbù neː dà dòːkaː ta har̃àmtaː à Nàːjeːr̃iyàː, kuma à haːlîn dà akè ciki yànzu an waːtsar̃ daː kàmfên ɗîn neːman dòːkaː tà amìnceː dà zubar̃ dà cikìː à ƙasâr̃.
 1	Zubar̃	zubar̃	VERB	_	Definite=Cons|Gender=Fem	7	comp:pred	_	Gloss=XX
 2	dà	dà	ADP	_	_	1	mod	_	Gloss=XX
@@ -411,8 +389,6 @@
 37	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 16_Aihuwar_Yara__12
-# text_en = 
-# text_ortho = 
 # text = Nàːjeːr̃iyàː dai tanàː dà kàmar̃ kashìː goːmà shâː bìyar̃ dàgà cikin ɗàriː na yawàn iyàːyeː maːtaː waɗàndà sukèː mutuwàː dàgà cikin iyàːyeː maːtaː na duːniyàː;
 1	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	3	subj	_	Gloss=Nigeria
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyhow
@@ -442,8 +418,6 @@
 26	;	;	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 16_Aihuwar_Yara__13
-# text_en = 
-# text_ortho = 
 # text = wannàn adàdī kùwa wani àbin tsòːroː nèː gà ƙasaː waddà yawàn jàma'àr̃tà kashìː biyu nèː dàgà cikin ɗàriː na yawàn mutàːnên dà akè dà suː à duk duːniyàː bàːkiː ɗayantà .
 1	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	2	det	_	Gloss=Prox.Sing
 2	adàdī	adàdī	NOUN	_	_	7	subj	_	Gloss=XX
@@ -480,8 +454,6 @@
 33	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 16_Aihuwar_Yara__14
-# text_en = 
-# text_ortho = 
 # text = Wani mùhimmìn àbù dà akà fi dàːmuwaː dà shiː à loːkàcin wannàn tàːroː na ganin cêːwaː maːtaː sun sàːmi haifùwaː laːfiyàː, shiː nèː yi wà yâːraː maːtaː aureː dà saurī.
 1	Wani	wani	DET	_	Number=Plur|PronType=Dem	2	det	_	Gloss=XX
 2	mùhimmìn	mùhimmìː	NOUN	_	Definite=Cons|Gender=Masc	24	subj	_	Gloss=XX
@@ -501,7 +473,7 @@
 16	cêːwaː	cêːwaː	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 17	maːtaː	maːtaː	NOUN	_	Number=Plur	18	subj	_	Gloss=XX
 18	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	16	comp:obj	_	Gloss=XX
-19	sàːmi	saːm-	VERB	_	_	18	comp:aux	_	Gloss=XX
+19	sàːmi	saːm-	Verb	_	_	18	comp:aux	_	Gloss=get
 20	haifùwaː	hai-	VERB	_	ExtPos=NOUN|Gender=Fem	19	comp:obj	_	Gloss=XX
 21	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	20	mod	_	Gloss=XX|SpaceAfter=No
 22	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
@@ -517,8 +489,6 @@
 32	.	.	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 
 # sent_id = 16_Aihuwar_Yara__15
-# text_en = 
-# text_ortho = 
 # text = À loːkàcîn dà yakèː buːɗè tàːrôn, Ministàːn Laːfiyàː yaː ròːƙi mazan ƙasâr̃ dà kadà sù riƙà auren ƙanaːnàn yâːraː maːtaː.
 1	À	à	ADP	_	_	10	mod	_	Gloss=XX
 2	loːkàcîn	loːkàcîː	NOUN	_	Definite=Def|Gender=Masc	1	comp:obj	_	Gloss=Masc.Def
@@ -544,8 +514,6 @@
 22	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = 16_Aihuwar_Yara__16
-# text_en = 
-# text_ortho = 
 # text = Wasu likitōcī kuma sun cêː loːkàciː ya yi à Nàːjeːr̃iyàː dà zaː'à kafà wani kwàmìtî wandà zâi tabbatar̃ dà màːsu juːnaː biyu sun sàuka laːfiyàː, wandà kuma zâi ƙaːrà muhimmancìn kafà wata dòːkaː dà zaːtà hanà yi wà maːtaː ƙanaːnàː aureː.
 1	Wasu	Wasu	PROPN	_	_	2	det	_	Gloss=Wasu
 2	likitōcī	likitōcī	NOUN	_	Number=Plur	4	subj	_	Gloss=XX
