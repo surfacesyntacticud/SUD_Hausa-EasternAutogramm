@@ -248,7 +248,7 @@
 28	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	14	mod@relcl	_	Gloss=XX
 29	yi	yi	VERB	_	_	28	comp:aux	_	Gloss=do
 30	sànàdiyyàr̃	sànàdiyyàː	NOUN	_	Gender=Fem	29	comp:pred	_	Gloss=cause.Fem.Cons
-31	ƙòːƙarîn	ƙòːƙariː	NOUN	_	Definite=Def|Gender=Masc	30	mod	_	Gloss=Masc.Def
+31	ƙòːƙarîn	ƙòːƙariː	NOUN	_	Definite=Def|Gender=Masc	30	mod	_	Gloss=XX
 32	dà	dà	SCONJ	_	_	31	mod@relcl	_	Gloss=COMP
 33	ma'àikàtan	ma'àikàtaː	NOUN	_	Definite=Cons|Number=Plur	35	subj	_	Gloss=XX
 34	Hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Cons|Gender=Fem	33	mod	_	Gloss=agency.Fem.Def
@@ -410,8 +410,8 @@
 10	haɗìyeː	haɗiy-	VERB	_	_	9	comp:aux	_	Gloss=swallow
 11	kòːkên	kòːkên	NOUN	_	_	10	mod	_	Gloss=cocaine.Fem
 12	neː	neː	PART	_	Gender=Masc|Number=Plur	11	discourse@foc	_	Gloss=XX
-13	tàːre	tarː-	ADV	_	_	9	mod	_	Gloss=gather.Stat
-14	dà	dà	ADP	_	_	13	comp:obl	_	Gloss=XX
+13	tàːre	tàːre	ADV	_	_	14	mod	_	Gloss=together
+14	dà	dà	ADP	_	_	10	mod	_	Gloss=with
 15	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:obj	_	Gloss=do.Vnoun.Masc.Cons
 16	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	15	udep	_	Gloss=use.Masc
 17	dà	dà	ADP	_	_	15	comp:obl	_	Gloss=XX|wordform=ɗà
@@ -471,7 +471,7 @@
 26	bìyar̃	bìyar̃	NUM	_	_	25	comp:obj	_	Gloss=five|SpaceAfter=No
 27	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
 28	tun	tun	ADP	_	_	22	mod	_	Gloss=since
-29	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	28	comp:obj	_	Gloss=Masc.Def
+29	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	28	comp:obj	_	Gloss=time.Masc.Def
 30	dà	dà	SCONJ	_	_	29	mod@relcl	_	Gloss=COMP
 31	akà	yaː	AUX	_	Aspect=Prog|Person=4	30	comp:obj	_	Gloss=XX
 32	kafà	kaf-	VERB	_	_	31	comp:aux	_	Gloss=set_up
@@ -600,7 +600,7 @@
 34	mài	mài	PART	_	Number=Sing|PartType=Der	32	comp:obj	_	Gloss=owner/doer_of.Sing
 35	fataucìn	fataucìː	NOUN	_	Definite=Cons|Gender=Masc	34	compound	_	Gloss=trade.Masc.Cons
 36	miyàːgun	muːgùː	ADJ	_	Definite=Cons|Number=Plur	37	mod	_	Gloss=bad.Plur
-37	ƙwaːyoːyîn	ƙwaːyoːyiː	NOUN	_	Definite=Def|Gender=Masc	35	mod	_	Gloss=Masc.Def
+37	ƙwaːyoːyîn	ƙwaːyoːyiː	NOUN	_	Definite=Def|Gender=Masc	35	mod	_	Gloss=XX
 38	dà	dà	SCONJ	_	_	34	mod@relcl	_	Gloss=COMP
 39	akà	yaː	AUX	_	Aspect=Perf|Person=4	38	comp:obj	_	Gloss=XX
 40	tsarèː	tsar-	VERB	_	_	39	comp:aux	_	Gloss=XX|SpaceAfter=No
@@ -667,8 +667,8 @@
 27	dà	dà	SCONJ	_	_	26	mod@relcl	_	Gloss=COMP
 28	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	27	comp:obj	_	Gloss=XX
 29	ɗaukàː	ɗauk-	VERB	_	ExtPos=NOUN|Gender=Fem	28	comp:aux	_	Gloss=take
-30	tàːre	taːr-	ADV	_	_	29	mod	_	Gloss=gather.Stat
-31	dà	dà	ADP	_	_	30	comp:obl	_	Gloss=XX
+30	tàːre	tàːre	ADV	_	_	31	mod	_	Gloss=together
+31	dà	dà	ADP	_	_	29	comp:obl	_	Gloss=XX
 32	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	31	comp:obj	_	Gloss=XX
 33	à	à	ADP	_	_	29	mod	_	Gloss=at
 34	wani	wani	DET	_	Definite=Spec|Gender=Masc	35	det	_	Gloss=some.Masc.Spec

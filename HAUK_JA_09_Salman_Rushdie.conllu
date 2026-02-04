@@ -60,7 +60,7 @@
 # text = Àmmaː sabòːdà rìkicîn dà akà yi à bir̃nin " Tokyo " à kân wannàn littaːfìn dà akà fassàraː daː harshèn Japananciː, dà àlaːmàː bà zaː'à sàːmi daːmar̃ à bugàː shi gòːbe ɗîn ba.
 1	Àmmaː	àmmaː	CCONJ	_	_	23	discourse	_	Gloss=XX
 2	sabòːdà	sabòːdà	ADP	_	_	23	mod	_	Gloss=because_of
-3	rìkicîn	rìkicîː	NOUN	_	Definite=Def|Gender=Masc	2	comp:obj	_	Gloss=Masc.Def
+3	rìkicîn	rìkicîː	NOUN	_	Definite=Def|Gender=Masc	2	comp:obj	_	Gloss=XX
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
 5	akà	nàː	AUX	_	Aspect=Prog|Person=4	4	comp:obj	_	Gloss=XX
 6	yi	yi	VERB	_	_	5	comp:aux	_	Gloss=do
@@ -425,8 +425,8 @@
 3	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	11	subj	_	Gloss=child.Plur.Cons
 4	sàndan	sàndaː	NOUN	_	Definite=Cons|Gender=Masc	3	compound	_	Gloss=XX
 5	ciki	ciki	SCONJ	_	_	4	compound	_	Gloss=XX
-6	tàːre	tàːre	ADV	_	_	7	mod	_	Gloss=XX
-7	dà	dà	CCONJ	_	_	9	cc	_	Gloss=XX
+6	tàːre	tàːre	ADV	_	_	7	mod	_	Gloss=together
+7	dà	dà	CCONJ	_	_	9	cc	_	Gloss=and
 8	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	9	det	_	Gloss=some.Plur.Spec
 9	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	3	conj:coord	_	Gloss=child.Plur.Cons
 10	jàːr̃ìːduː	jàːr̃ìːduː	NOUN	_	Number=Plur	9	compound	_	Gloss=XX
@@ -451,7 +451,7 @@
 
 # sent_id = 09_Salman_Rushdie__19
 # text = Loːkàcîn dà akèː tàfiyàː dà shiː sai ya kaː dà bàːkiː ya cèː shiː kàm yanàː ƙàunar̃ ƙasar̃ Jàpân, kuma bài kàmaːtà ita ƙasar̃ Jàpân ɗîn tà tsoːmà bàːkintà cikin wannàn àl'amàr̃iː ba.
-1	Loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=Masc.Def
+1	Loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=XX
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 3	akèː	nàː	AUX	_	Aspect=Prog|Person=4	2	comp:obj	_	Gloss=XX
 4	tàfiyàː	tàfiyàː	VERB	_	ExtPos=NOUN|Gender=Fem	3	comp:aux	_	Gloss=XX
@@ -493,7 +493,7 @@
 1	Tòː	tòː	INTJ	_	_	7	discourse	_	Gloss=XX
 2	dâː	dâː	ADV	_	_	7	mod	_	Gloss=XX
 3	maː	maː	PART	_	_	2	discourse@top	_	Gloss=XX
-4	tun	tun	ADP	_	_	7	mod	_	Gloss=XX
+4	tun	tun	ADP	_	_	7	mod	_	Gloss=since
 5	kwàːnàkin	kwàːnàkiː	NOUN	_	Definite=Cons|Number=Plur	4	comp:obj	_	Gloss=XX
 6	baːya	baːya	ADV	_	_	5	mod	_	Gloss=back
 7	anàː	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=XX
