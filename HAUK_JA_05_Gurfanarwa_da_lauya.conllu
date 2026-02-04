@@ -92,13 +92,13 @@
 28	tsawon	tsawoː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:obj	_	Gloss=XX
 29	wàtànniː	wàtànniː	NOUN	_	Gender=Masc	28	mod	_	Gloss=XX
 30	shidà	shidà	NUM	_	_	29	mod:num	_	Gloss=XX
-31	bàː	bàː	PART	_	Polarity=Neg	32	mod	_	Gloss=XX
-32	tàːre	tàːre	ADP	_	_	25	mod	_	Gloss=together
-33	dà	dà	ADP	_	_	32	comp:obj	_	Gloss=with
+31	bàː	bàː	PART	_	Polarity=Neg	33	mod	_	Gloss=XX
+32	tàːre	tàːre	ADV	_	_	33	mod	_	Gloss=together
+33	dà	dà	ADP	_	_	25	mod	_	Gloss=with
 34-35	tùhumàr̃sà	_	_	_	_	_	_	_	_
 34	tùhumàr̃	tuhum-	VERB	_	Definite=Cons|Gender=Fem|VerbForm=Vnoun	33	comp:obj	_	Gloss=charge
 35	sà	sà	PRON	_	_	34	comp:obj	_	Gloss=3Masc.Gen
-36	ba	ba	PART	_	Polarity=Neg	32	mod	_	Gloss=XX|SpaceAfter=No
+36	ba	ba	PART	_	Polarity=Neg	33	mod	_	Gloss=XX|SpaceAfter=No
 37	,	,	PUNCT	_	_	38	punct	_	Gloss=PUNCT
 38	in	in	SCONJ	_	_	24	mod	_	Gloss=XX
 39	an	yaː	AUX	_	Aspect=Perf|Person=4	38	comp:obj	_	Gloss=XX
@@ -196,7 +196,7 @@
 27	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 28	kuma	kuma	PART	_	_	30	cc	_	Gloss=also
 29	bàː	bàː	PART	_	Polarity=Neg	30	mod	_	Gloss=XX
-30	tàːre	tàːre	ADV	_	_	11	mod	_	Gloss=XX
+30	tàːre	tàːre	ADV	_	_	11	mod	_	Gloss=together
 31	dà	dà	ADP	_	_	30	mod	_	Gloss=XX
 32	wata	wani	DET	_	Definite=Spec|Gender=Masc	33	det	_	Gloss=some.Fem.Spec
 33	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	31	comp:obj	_	Gloss=XX
@@ -236,9 +236,9 @@
 22	koːtù	koːtù	NUM	_	Gender=Fem	20	comp:obj	_	Gloss=XX
 23	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	22	mod	_	Gloss=Gen.Fem
 24	mùsammàn	mùsammàː	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=XX
-25	tàːre	tàːre	ADV	_	_	16	mod	_	Gloss=XX
-26	dà	dà	ADP	_	_	25	compound	_	Gloss=XX
-27	zàrgin	zarg-	VERB	_	Gender=Fem|Number=Plur	25	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=zàrginsà
+25	tàːre	tàːre	ADV	_	_	26	mod	_	Gloss=together
+26	dà	dà	CCONJ	_	_	27	cc	_	Gloss=and
+27	zàrgin	zarg-	VERB	_	Gender=Fem|Number=Plur	16	conj:coord	_	Gloss=XX|SpaceAfter=No|wordform=zàrginsà
 28	sà	sà	PRON	_	_	27	mod@poss	_	Gloss=3Masc.Gen
 29	dà	dà	CCONJ	_	_	27	comp:obl	_	Gloss=XX
 30	lâifin	lâifiː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=XX
@@ -259,7 +259,7 @@
 # sent_id = 05_Gurfanarwa_da_lauya__10-12
 # text = Wannàn lâifîn dà akèː zàrgin Chief G.F. dà shiː, ìn ji lauyàn naːsà, yaː shàːfi wata takàr̃daː cèː waddà shiː Chief G.F. ya r̃ubùːtaː à cikin wata mùjallàː ta màːsu r̃aꞌàyin canjìː à cikin watàn Maːyù.
 1	Wannàn	wannàn	DET	_	Gender=Masc|PronType=Dem	2	det	_	Gloss=XX
-2	lâifîn	lâifiː	NOUN	_	Definite=Def|Gender=Masc	16	subj	_	Gloss=Masc.Def
+2	lâifîn	lâifiː	NOUN	_	Definite=Def|Gender=Masc	16	subj	_	Gloss=XX
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 4	akèː	nàː	AUX	_	Aspect=Prog|Person=4	3	comp:obj	_	Gloss=XX
 5	zàrgin	zarg-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:aux	_	Gloss=XX
@@ -333,7 +333,7 @@
 7	ìdan	ìdan	SCONJ	_	_	18	mod	_	Gloss=if
 8	har̃	har̃	ADV	_	Definite=Cons|Gender=Fem	9	mod	_	Gloss=XX
 9	akà	nàː	AUX	_	Aspect=Prog|Person=4	7	comp:obj	_	Gloss=XX
-10	sàːmi	saːm-	Verb	_	_	9	comp:aux	_	Gloss=get
+10	sàːmi	saːm-	VERB	_	_	9	comp:aux	_	Gloss=get
 11	Chief	Chief	PROPN	_	_	12	mod@desc	_	Gloss=Chief
 12	G.F.	G.F.	PROPN	_	_	10	:obj	_	Gloss=G.F.
 13	dà	dà	CCONJ	_	_	10	comp:obl	_	Gloss=XX
@@ -387,7 +387,7 @@
 14	sìttin	sìttin	NUM	_	_	11	conj:coord	_	Gloss=XX
 15	dà	dà	CCONJ	_	_	16	cc	_	Gloss=XX
 16	tar̃à	tar̃à	NUM	_	_	14	conj:coord	_	Gloss=nine
-17	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	2	mod	_	Gloss=Masc.Def
+17	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	2	mod	_	Gloss=time.Masc.Def
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
 19	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	18	comp:obj	_	Gloss=XX
 20	kaːrè	kaːr-	VERB	_	_	19	comp:aux	_	Gloss=XX
@@ -512,7 +512,7 @@
 47	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred|Person=3	45	mod	_	Gloss=Gen.Fem
 48	cikin	cikin	ADP	_	_	47	comp:obj	_	Gloss=inside
 49	wàsiːƙàː	wàsiːƙàː	NOUN	_	Gender=Fem	48	comp:obj	_	Gloss=XX
-50	tun	tun	ADP	_	_	45	mod	_	Gloss=XX
+50	tun	tun	ADP	_	_	45	mod	_	Gloss=since
 51	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	52	mod@desc	_	Gloss=year.Fem.Cons
 52	alìf	alìf	NUM	_	_	50	comp:obj	_	Gloss=one_thousand
 53	dà	dà	CCONJ	_	_	54	cc	_	Gloss=XX
@@ -536,7 +536,7 @@
 8	Yuːnì	Yuːnì	NOUN	_	_	6	comp:obj	_	Gloss=June.Masc|SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 10	wàːtòː	wàːtòː	PART	_	_	11	discourse	_	Gloss=that_is
-11	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	2	mod	_	Gloss=Masc.Def
+11	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	2	mod	_	Gloss=time.Masc.Def
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 13	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	12	comp:obj	_	Gloss=XX
 14	cikin	cikin	ADP	_	_	13	comp:pred	_	Gloss=inside
