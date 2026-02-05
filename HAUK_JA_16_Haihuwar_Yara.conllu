@@ -85,7 +85,7 @@
 32	dàliːlìː	dàliːlìː	NOUN	_	Gender=Masc	31	subj	_	Gloss=XX
 33	dà	dà	SCONJ	_	_	32	comp:obl	_	Gloss=COMP
 34	maːtaː	maːtaː	NOUN	_	Number=Plur	35	subj	_	Gloss=XX
-35	kèː	nèːː	AUX	_	Aspect=Prog	33	comp:obj	_	Gloss=XX
+35	kèː	nàː	AUX	_	Aspect=Prog|Relative=Yes	33	comp:obj	_	Gloss=Prog.Rel
 36	fùskantàː	fùskantaː	VERB	_	_	35	comp:aux	_	Gloss=XX
 37	wajen	wajen	ADP	_	_	36	comp:obl	_	Gloss=XX
 38	haihùwaː	haihùwaː	NOUN	_	Gender=Fem	37	comp:obj	_	Gloss=XX|SpaceAfter=No
@@ -170,7 +170,7 @@
 5	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	mod	_	Gloss=towards|wordform=zuwa
 6	huɗu	huɗu	NUM	_	_	5	mod	_	Gloss=four
 7	nèː	neː	PART	_	_	5	discourse@foc	_	Gloss=XX
-8	kèː	nàː	AUX	_	Aspect=Prog	4	discourse@top	_	Gloss=XX
+8	kèː	nàː	AUX	_	Aspect=Prog|Relative=Yes	4	discourse@top	_	Gloss=Prog.Rel
 9	mutuwàː	mutù	VERB	_	Gender=Fem	8	comp:obj	_	Gloss=die.Vnoun.Fem
 10	à	à	ADP	_	_	9	mod	_	Gloss=at
 11	yàːyîn	yàːyiː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	Gloss=Masc.Def
@@ -245,7 +245,7 @@
 14	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	15	det	_	Gloss=some.Plur.Spec
 15	cànje-cànje	cànje-cànje	NOUN	_	_	12	comp:obj	_	Gloss=XX
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=COMP
-17	kèː	nèːː	AUX	_	Aspect=Prog	16	comp:obj	_	Gloss=XX
+17	kèː	nàː	AUX	_	Aspect=Prog|Relative=Yes	16	comp:obj	_	Gloss=Prog.Rel
 18	fàːruwaː	fàːruwaː	NOUN	_	ExtPos=NOUN|Gender=Fem	17	comp:aux	_	Gloss=XX
 19	à	à	ADP	_	_	18	comp:obl	_	Gloss=at
 20	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	19	comp:obj	_	Gloss=Masc.Def
@@ -266,7 +266,7 @@
 35	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	36	comp:pred	_	Gloss=XX
 36	ceː	neː	AUX	_	Gender=Fem	33	comp:obj	_	Gloss=XX
 37	dà	dà	SCONJ	_	_	35	mod@relcl	_	Gloss=COMP
-38	kèː	nèːː	AUX	_	Aspect=Prog	37	comp:obj	_	Gloss=XX
+38	kèː	nàː	AUX	_	Aspect=Prog|Relative=Yes	37	comp:obj	_	Gloss=Prog.Rel
 39	nuːnà	nuːnà	VERB	_	_	38	comp:aux	_	Gloss=XX
 40	koː	koː	CCONJ	_	_	41	cc	_	Gloss=XX
 41	tagwàːyeː	tagwàːyeː	NOUN	_	Number=Plur	38	conj:coord	_	Gloss=XX

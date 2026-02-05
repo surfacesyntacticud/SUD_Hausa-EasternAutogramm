@@ -55,12 +55,12 @@
 39	.	.	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__3
-# text = yâːraː ƙanaːnàː dà kèː kân gadoːjiː na bir̃nin Ìkko sunàː tàllàn tarkòn ɓeːr̃aː, dà kamfàːyeː, dà agoːgunàn " Rolex" na jàbu à tsàːkaːnin cùnkoːson moːtoːci, duk sun daːkatar̃ dà tàllàce-tàllàcensù dòːmin sù yi kallon hàdàː-hadâr̃ dà takèː àukuwaː à bàːkin tèːkûn.
+# text = yâːraː ƙanaːnàː dà kè kân gadoːjiː na bir̃nin Ìkko sunàː tàllàn tarkòn ɓeːr̃aː, dà kamfàːyeː, dà agoːgunàn " Rolex" na jàbu à tsàːkaːnin cùnkoːson moːtoːci, duk sun daːkatar̃ dà tàllàce-tàllàcensù dòːmin sù yi kallon hàdàː-hadâr̃ dà takèː àukuwaː à bàːkin tèːkûn.
 # text_ortho = Yâːraː ƙanaːnàː dà kèː kân gadoːjiː na bir̃nin Ìkko sunàː tàllàn tarkòn ɓeːr̃aː, da kamfàːyeː, dà agoːgunàn ‘Rolex’ na jàbu à tsàːkaːnin cùnkoːson moːtoːci, duk sun daːkatar̃ dà tàllàce-tàllàcensù dòːmin sù yi kallon hàdàː-hadâr̃ da takèː àukuwaː à bàːkin tèːkûn.
 1	yâːraː	yaːròː	NOUN	_	Number=Plur	10	subj	_	Gloss=XX
 2	ƙanaːnàː	ƙanaːnàː	ADJ	_	Number=Plur	1	mod	_	Gloss=XX
 3	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
-4	kèː	keː	AUX	_	Aspect=Prog|Relative=Yes	3	comp:obj	_	Gloss=XX
+4	kè	nàː	AUX	_	Aspect=Prog|Relative2=Yes	3	comp:obj	_	Gloss=Prog.Rel2
 5	kân	kân	ADP	_	_	4	comp:pred	_	Gloss=on
 6	gadoːjiː	gadoːjiː	NOUN	_	Number=Plur	5	comp:obj	_	Gloss=XX
 7	na	na	PART	_	Case=Gen|PartType=Pred	6	mod	_	Gloss=Gen
@@ -106,7 +106,7 @@
 47	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__4
-# text = bìsàː àlꞌaːdàː bàːƙin Gwamnatin Nàːjeːr̃iyàː sukàn sàuka nèː à tsoːhon gidan gwamnatì dà kèː Ìkko, wandà à dâː shiː nèː gidan gwamnà à loːkàcin mulkìn màllakàr̃ Bìrtaːniyàː.
+# text = bìsàː àlꞌaːdàː bàːƙin Gwamnatin Nàːjeːr̃iyàː sukàn sàuka nèː à tsoːhon gidan gwamnatì dà kè Ìkko, wandà à dâː shiː nèː gidan gwamnà à loːkàcin mulkìn màllakàr̃ Bìrtaːniyàː.
 # text_ortho = Bìsàː àlꞌaːdàː bàːƙin Gwamnatin Nàːjeːr̃iyàː sukàn sàuka nèː à tsoːhon gidan Gwamnatì dà kèː l̀kko, wandà à dâː shiː nèː gidan Gwamnà à loːkàcin mulkìn màllakàr̃ Bìrtaːniyàː.
 1	bìsàː	bìsàː	ADP	_	_	6	mod	_	Gloss=according_to
 2	àlꞌaːdàː	àlꞌaːdàː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=XX
@@ -121,7 +121,7 @@
 11	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	9	comp:obj	_	Gloss=house.Masc.Cons
 12	gwamnatì	gwamnatì	NOUN	_	Gender=Fem	11	mod	_	Gloss=government.Fem
 13	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
-14	kèː	nèːː	AUX	_	Aspect=Prog	13	comp:obj	_	Gloss=XX
+14	kè	nàː	AUX	_	Aspect=Prog|Relative2=Yes	13	comp:obj	_	Gloss=Prog.Rel2
 15	Ìkko	Ìkko	PROPN	_	_	14	comp:pred	_	Gloss=Lagos|SpaceAfter=No
 16	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 17	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	21	subj	_	Gloss=that.Masc
@@ -190,7 +190,7 @@
 10	kèː	keː	PART	_	Aspect=Prog	9	comp:obj	_	Gloss=XX
 11	cikin	cikin	ADP	_	_	10	comp:obl	_	Gloss=inside
 12	gidân	gidaː	NOUN	_	Definite=Def	11	comp:obj	_	Gloss=house.Masc.Def
-13	kèː	nàː	AUX	_	Aspect=Prog	5	comp:cleft	_	Gloss=XX
+13	kèː	nàː	AUX	_	Aspect=Prog|Relative=Yes	5	comp:cleft	_	Gloss=Prog.Rel
 14	aikìː	aikìː	NOUN	_	Gender=Masc	13	comp:aux	_	Gloss=work.Masc
 15	kàmar̃	kàmar̃	ADP	_	_	14	mod	_	Gloss=like
 16	yaddà	yaddà	ADV	_	PronType=Rel	15	comp:obj	_	Gloss=how
@@ -449,7 +449,7 @@
 7	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:obj	_	Gloss=type.Masc.Cons
 8	gadàː	gadàː	NOUN	_	Gender=Fem	7	mod	_	Gloss=bridge.Fem
 9	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	10	subj	_	Gloss=that.Masc
-10	kèː	nàː	AUX	_	Aspect=Prog	7	mod@relcl	_	Gloss=XX
+10	kèː	nàː	AUX	_	Aspect=Prog|Relative=Yes	7	mod@relcl	_	Gloss=Prog.Rel
 11	reːtòː	rētòː	NOUN	_	Gender=Masc	10	comp:pred	_	Gloss=hanging.Masc
 12	dàgà	dàgà	ADP	_	_	11	comp:obl	_	Gloss=from
 13	samà	samà	ADV	_	Gender=Fem	12	comp:obj	_	Gloss=XX|SpaceAfter=No

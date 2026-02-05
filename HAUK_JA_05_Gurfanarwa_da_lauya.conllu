@@ -12,7 +12,7 @@
 10	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	9	comp:obj	_	Gloss=Nigeria
 
 # sent_id = 05_Gurfanarwa_da_lauya__2
-# text = Gwamnatìn mulkìn soːjàn Nàːjeːr̃iyàː taː shaː bambam dà sauran gwamnatoːcin mulkìn soːjà dà kèː Afir̃kà.
+# text = Gwamnatìn mulkìn soːjàn Nàːjeːr̃iyàː taː shaː bambam dà sauran gwamnatoːcin mulkìn soːjà dà kè Afir̃kà.
 1	Gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	5	subj	_	Gloss=government.Fem
 2	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	1	mod	_	Gloss=XX
 3	soːjàn	soːjàː	NOUN	_	Definite=Cons|Number=Plur	2	mod	_	Gloss=XX
@@ -26,7 +26,7 @@
 11	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	10	mod	_	Gloss=XX
 12	soːjà	soːjà	NOUN	_	Gender=Masc	11	mod	_	Gloss=XX
 13	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=COMP
-14	kèː	nàː	AUX	_	Aspect=Prog	13	comp:obj	_	Gloss=XX
+14	kè	nàː	AUX	_	Aspect=Prog|Relative2=Yes	13	comp:obj	_	Gloss=Prog.Rel2
 15	Afir̃kà	Afir̃kà	PROPN	_	_	14	comp:pred	_	Gloss=Africa|SpaceAfter=No
 16	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
@@ -443,7 +443,7 @@
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 4	Chief	Chief	PROPN	_	_	5	mod@desc	_	Gloss=Chief
 5	G.F.	G.F.	PROPN	_	_	6	subj	_	Gloss=G.F.
-6	kèː	nàː	AUX	_	Aspect=Prog	3	comp:obj	_	Gloss=XX
+6	kèː	nàː	AUX	_	Aspect=Prog|Relative=Yes	3	comp:obj	_	Gloss=Prog.Rel
 7	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	Gloss=do.Vnoun.Masc
 8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=XX
 9	hukuːmoːmiː	hukuːmoːː	NOUN	_	Number=Plur	8	comp:obj	_	Gloss=XX

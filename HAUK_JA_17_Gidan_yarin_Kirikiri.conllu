@@ -32,9 +32,9 @@
 24	màtàːkan	màtàːkaː	NOUN	_	Definite=Cons|Number=Plur	23	mod	_	Gloss=XX
 25	tsàr̃oː	tsàr̃oː	NOUN	_	Gender=Masc	24	mod	_	Gloss=XX|SpaceAfter=No|wordform=tsar
 26	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
-27	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	34	subj	_	Gloss=who.Masc
+27	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	34	subj	_	Gloss=that.Masc
 28	kuma	kuma	PART	_	_	29	discourse@top	_	Gloss=also
-29	kèː	nèːː	AUX	_	Aspect=Prog	19	mod@relcl	_	Gloss=XX
+29	kèː	nàː	AUX	_	Aspect=Prog|Relative=Yes	19	mod@relcl	_	Gloss=Prog.Rel
 30	can	can	ADV	_	PronType=Dem	34	comp:pred	_	Gloss=XX
 31	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=city.Masc.Cons
 32	Ìkko	Ìkko	PROPN	_	_	31	mod	_	Gloss=Lagos|SpaceAfter=No|wordform=Ikko
@@ -48,7 +48,7 @@
 40	fìye	fi	VERB	_	ExtPos=ADV|VerbForm=Stat	38	mod	_	Gloss=exceed.Stat
 41	dà	dà	ADP	_	_	40	comp:obl	_	Gloss=XX|wordform=da
 42	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	41	comp:obj	_	Gloss=quantity.Masc.Cons
-43	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	46	subj	_	Gloss=who.Plur|wordform=wadandal
+43	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	46	subj	_	Gloss=that.Plur|wordform=wadandal
 44	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	42	mod@relcl	_	Gloss=XX
 45	kàmaːtà	kamaːt-	VERB	_	_	44	comp:aux	_	Gloss=be_appropriate
 46	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	45	comp:obj@agent	_	Gloss=XX
@@ -175,8 +175,8 @@
 10	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	8	mod	_	Gloss=child.Plur.Cons|wordform=yan
 11	fur̃sunoːnîn	fur̃sunoːniː	NOUN	_	Definite=Def|Gender=Masc	10	compound	_	Gloss=XX
 12	dà	dà	PART	_	_	10	mod@relcl	_	Gloss=XX
-13	kèː	nèːː	AUX	_	Aspect=Prog	12	comp:obj	_	Gloss=XX
-14	jiràn	jiraː	NOUN	_	Definite=Def|Gender=Masc	13	mod	_	Gloss=XX
+13	kèː	nàː	AUX	_	Aspect=Prog|Relative=Yes	12	comp:obj	_	Gloss=Prog.Rel
+14	jiràn	jiraː	NOUN	_	Definite=Def|Gender=Masc	13	comp:aux	_	Gloss=XX
 15	à	yà	AUX	_	Mood=Sub|Person=4	14	comp:obj	_	Gloss=XX
 16	zar̃tar̃	zar̃tar̃	VERB	_	Definite=Cons|Gender=Fem	15	comp:aux	_	Gloss=XX
 17	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	16	comp:obl	_	Gloss=XX
@@ -271,7 +271,7 @@
 11	dà	dà	ADP	_	_	10	mod	_	Gloss=XX|wordform=ɗà
 12	biyu	biyu	NUM	_	_	11	comp:obj	_	Gloss=XX
 13	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=COMP
-14	kèː	keː	AUX	_	Aspect=Prog	13	comp:obj	_	Gloss=XX
+14	kèː	nàː	AUX	_	Aspect=Prog|Relative=Yes	13	comp:obj	_	Gloss=Prog.Rel
 15	jiràn	jiràː	NOUN	_	Definite=Cons|Gender=Masc	17	subj	_	Gloss=XX
 16	hauniː	hauniː	NOUN	_	Gender=Masc	15	mod	_	Gloss=XX
 17	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	14	comp:obj	_	Gloss=XX
@@ -289,7 +289,7 @@
 29	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 17_Gidan_yarin_Kirikiri__8
-# text = R̃àhoːtòn hakà maː yaː cêː irìn cùnkoːsôn dà kèː àkwai à kûr̃kukùn Ƙìr̃iƙìr̃i yaː har̃àmtà àmfàːniː dà gadàːjeː à cikinsà dòːmin rashin ìsasshen fiːliː sai fa wasu kàɗan dàgà cikin tsàràrrûn dà kèː dà gaːliːhù.
+# text = R̃àhoːtòn hakà maː yaː cêː irìn cùnkoːsôn dà kèː àkwai à kûr̃kukùn Ƙìr̃iƙìr̃i yaː har̃àmtà àmfàːniː dà gadàːjeː à cikinsà dòːmin rashin ìsasshen fiːliː sai fa wasu kàɗan dàgà cikin tsàràrrûn dà kè dà gaːliːhù.
 1	R̃àhoːtòn	R̃àhoːtòn	PROPN	_	_	4	subj	_	Gloss=R̃àhoːtòn
 2	hakà	hakà	ADV	_	_	4	mod	_	Gloss=thus
 3	maː	maː	PART	_	_	2	discourse@top	_	Gloss=XX
@@ -323,7 +323,7 @@
 31	cikin	cikin	ADP	_	_	30	comp:obj	_	Gloss=inside
 32	tsàràrrûn	tsàràrruː	NOUN	_	Definite=Cons|Gender=Masc	31	comp:obj	_	Gloss=XX
 33	dà	dà	SCONJ	_	_	32	mod@relcl	_	Gloss=COMP
-34	kèː	nàː	AUX	_	Aspect=Prog	33	comp:obj	_	Gloss=XX
+34	kè	nàː	AUX	_	Aspect=Prog|Relative2=Yes	33	comp:obj	_	Gloss=Prog.Rel2
 35	dà	dà	ADP	_	_	34	comp:pred	_	Gloss=XX
 36	gaːliːhù	gaːliːhù	NOUN	_	Gender=Masc	35	comp:obj	_	Gloss=XX|SpaceAfter=No
 37	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
@@ -349,9 +349,9 @@
 
 # sent_id = 17_Gidan_yarin_Kirikiri__9b
 # text = waɗàndà maː kèː barcîn sunàː yînsà neː à bisà dàɓeː sabòːdà baː'à baː sù bar̃gunàː, suː kuma baːsàː iyà sàyeː dà kânsù.
-1	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	5	subj	_	Gloss=who.Plur|wordform=wadandal
+1	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	5	subj	_	Gloss=that.Plur|wordform=wadandal
 2	maː	maː	PART	_	_	1	discourse@top	_	Gloss=XX
-3	kèː	nàː	AUX	_	Aspect=Prog	1	mod@relcl	_	Gloss=XX
+3	kèː	nàː	AUX	_	Aspect=Prog|Relative=Yes	1	mod@relcl	_	Gloss=Prog.Rel
 4	barcîn	barciː	NOUN	_	Definite=Def|Gender=Masc	5	subj	_	Gloss=XX
 5	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=XX|wordform=sunaː
 6	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Person=3	5	comp:aux	_	Gloss=do.Vnoun.Masc.Cons|SpaceAfter=No|wordform=yînsà
