@@ -304,7 +304,7 @@
 3	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	2	mod	_	Gloss=Nigeria
 4	kà	eː	AUX	_	Aspect=Prog	2	mod	_	Gloss=XX
 5	kèː	keː	PART	_	_	4	comp:aux	_	Gloss=XX
-6	Baucîn	Baucîn	PROPN	_	Definite=Def	9	subj	_	Gloss=Bauchi.Def
+6	Baucîn	Baucîn	PROPN	_	Definite=Def	5	comp:pred	_	Gloss=Bauchi.Def
 7	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 8	cêː	cêː	VERB	_	_	7	comp:aux	_	Gloss=say
 9	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	8	comp:obj	_	Gloss=XX
@@ -315,10 +315,10 @@
 14	yi	yi	VERB	_	_	13	comp:aux	_	Gloss=do
 15	wà	wà	ADP	_	Case=Dat	14	comp:obl	_	Gloss=XX
 16	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	15	comp:obj	_	Gloss=Muslim.Plur
-17	suː	suː	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	mod:num	_	Gloss=XX
-18	fìye	fi	VERB	_	ExtPos=ADP|VerbForm=Stat	17	udep	_	Gloss=exceed.Stat|Idiom=Yes
+17	suː	suː	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	conj:appos	_	Gloss=XX
+18	fìye	fi	VERB	_	ExtPos=ADP|VerbForm=Stat	17	mod	_	Gloss=exceed.Stat|Idiom=Yes
 19	dà	dà	ADP	_	_	18	comp.obl	_	Gloss=with|InIdiom=Yes
-20	ɗàriː	ɗàriː	NOUN	_	Gender=Fem	19	comp:obj	_	Gloss=hundred.Fem
+20	ɗàriː	ɗàriː	NUM	_	Gender=Fem	19	comp:obj	_	Gloss=hundred.Fem
 21	dà	dà	CCONJ	_	_	20	cc	_	Gloss=XX
 22	àshìr̃in	àshìr̃in	NUM	_	_	20	conj:coord	_	Gloss=twenty|SpaceAfter=No
 23	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT

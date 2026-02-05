@@ -44,7 +44,7 @@
 34	na	na	PART	_	Case=Gen	32	mod	_	Gloss=Gen.Masc
 35	hoːdàr̃	hoːdàː	NOUN	_	Definite=Cons|Gender=Fem	34	comp:obj	_	Gloss=powder.Fem.Cons
 36	kòːkên	kòːkên	NOUN	_	Definite=Cons|Gender=Masc	35	mod	_	Gloss=cocaine.Fem
-37	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	35	mod@relcl	_	Gloss=that.Masc|wordform=wadda
+37	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	35	mod@relcl	_	Gloss=that.Fem|wordform=wadda
 38	akà	nàː	AUX	_	Aspect=Prog|Person=4	37	comp:obj	_	Gloss=XX
 39	yi	yi	VERB	_	_	38	comp:aux	_	Gloss=do
 40	niyyàr̃	niyyàː	NOUN	_	Gender=Fem	39	comp:pred	_	Gloss=effort.Fem.Cons
@@ -108,7 +108,7 @@
 22	ukù	ukù	NUM	_	_	21	comp:aux	_	Gloss=three
 23	à	à	ADP	_	_	22	mod	_	Gloss=at
 24	duːniːyàː	duːniːyàː	NOUN	_	Gender=Fem	23	comp:obj	_	Gloss=XX
-25	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	19	mod@relcl	_	Gloss=that.Masc|wordform=wadda
+25	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	19	mod@relcl	_	Gloss=that.Fem|wordform=wadda
 26	akà	nàː	AUX	_	Aspect=Prog|Person=4	25	comp:obj	_	Gloss=XX
 27	fi	fi	VERB	_	_	26	comp:aux	_	Gloss=XX
 28	kaːmà	kaːm-	VERB	_	_	27	comp:obj	_	Gloss=catch
@@ -300,7 +300,7 @@
 35	kòːkên	kòːkên	NOUN	_	Definite=Cons|Gender=Masc	34	mod	_	Gloss=cocaine.Fem
 36	ɗîn	ɗîn	DET	_	_	34	det	_	Gloss=Def|SpaceAfter=No
 37	,	,	PUNCT	_	_	38	punct	_	Gloss=PUNCT
-38	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	34	mod@relcl	_	Gloss=that.Masc|wordform=wadda
+38	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	34	mod@relcl	_	Gloss=that.Fem|wordform=wadda
 39	takèː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	38	comp:obj	_	Gloss=XX
 40	à	à	ADP	_	_	39	comp:pred	_	Gloss=at
 41	nànnàɗe	nannaɗ-	VERB	_	ExtPos=ADV|VerbForm=Stat	40	comp:pred	_	Gloss=tie.Plur.Stat
@@ -328,7 +328,7 @@
 4	wata	wani	DET	_	Definite=Spec|Gender=Masc	5	det	_	Gloss=some.Fem.Spec
 5	dàbaːr̃àː	dàbaːr̃àː	NOUN	_	Gender=Fem	6	comp:pred	_	Gloss=XX
 6	ceː	neː	AUX	_	Gender=Fem	0	root	_	Gloss=XX
-7	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	5	mod@relcl	_	Gloss=that.Masc
+7	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	5	mod@relcl	_	Gloss=that.Fem
 8	màːsu	mài	PART	_	Number=Plur|PartType=Der	12	subj	_	Gloss=owner/doer_of.Plur
 9	sùmoːgàr̃	sùmoːgàː	VERB	_	Gender=Fem	8	compound	_	Gloss=smuggling.Fem.Cons
 10	miyàːgun	muːgùː	ADJ	_	Definite=Cons|Number=Plur	11	mod	_	Gloss=bad.Plur
@@ -413,8 +413,8 @@
 13	tàːre	tàːre	ADV	_	_	14	mod	_	Gloss=together
 14	dà	dà	ADP	_	_	10	mod	_	Gloss=with
 15	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:obj	_	Gloss=do.Vnoun.Masc.Cons
-16	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	15	udep	_	Gloss=use.Masc
-17	dà	dà	ADP	_	_	15	comp:obl	_	Gloss=XX|wordform=ɗà
+16	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	15	comp:pred	_	Gloss=use.Masc
+17	dà	dà	ADP	_	_	16	comp:obl	_	Gloss=XX|wordform=ɗà
 18	miyàr̃	miyàː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=sauce.Fem.Cons
 19	kuɓèːwaː	kuɓèːwaː	NOUN	_	Gender=Fem	18	mod	_	Gloss=gombo.Fem|SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
@@ -429,7 +429,7 @@
 29	sauƙin	sauƙiː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	Gloss=facility.Masc.Cons
 30	hadìyêːwâr̃	hadiy-	NOUN	_	Gender=Fem	29	mod	_	Gloss=swallow.Vnoun.Fem.Def|SpaceAfter=No
 31	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
-32	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	21	conj:coord	_	Gloss=that.Masc
+32	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	21	conj:coord	_	Gloss=that.Fem
 33	kuma	kuma	PART	_	_	32	discourse@top	_	Gloss=also
 34	dâː	dâː	ADV	_	_	36	mod	_	Gloss=XX
 35	maː	maː	PART	_	_	34	discourse@top	_	Gloss=XX
@@ -547,7 +547,7 @@
 26	Jennifer	Jennifer	PROPN	_	_	24	mod	_	Gloss=Jennifer
 27	Madike	Madike	PROPN	_	_	26	flat@name	_	Gloss=Madike
 28	"	"	PUNCT	_	_	26	punct	_	Gloss=PUNCT
-29	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	22	mod@relcl	_	Gloss=that.Masc
+29	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	22	mod@relcl	_	Gloss=that.Fem
 30	akà	nàː	AUX	_	Aspect=Prog|Person=4	29	comp:obj	_	Gloss=XX|wordform=aka
 31	tsarèː	tsar-	VERB	_	Gender=Masc	30	comp:aux	_	Gloss=arrest
 32	sabòːdà	sabòːdà	ADP	_	_	31	mod	_	Gloss=because_of
