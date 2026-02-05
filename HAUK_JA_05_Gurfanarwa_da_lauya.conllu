@@ -79,7 +79,7 @@
 15	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	14	mod	_	Gloss=Gen.Fem
 16	Biyu	Biyu	PROPN	_	_	15	comp:obj	_	Gloss=Biyu
 17	-	-	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-18	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	19	subj	_	Gloss=XX
+18	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	19	subj	_	Gloss=that.Masc
 19	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	14	mod@relcl	_	Gloss=XX
 20	sâː	sâː	VERB	_	_	19	comp:aux	_	Gloss=put
 21	ita	ita	PRON	_	Gender=Fem|Person=3	23	subj	_	Gloss=XX
@@ -278,11 +278,11 @@
 18	wata	wani	DET	_	Definite=Spec|Gender=Masc	19	det	_	Gloss=some.Fem.Spec
 19	takàr̃daː	takàr̃daː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=XX
 20	cèː	neː	AUX	_	Gender=Fem	19	discourse@foc	_	Gloss=XX
-21	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	26	comp:obj	_	Gloss=XX
-22	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	19	mod@relcl	_	Gloss=XX
+21	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	26	comp:obj	_	Gloss=that.Masc
+22	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	25	subj	_	Gloss=XX
 23	Chief	Chief	PROPN	_	_	24	mod@desc	_	Gloss=Chief
 24	G.F.	G.F.	PROPN	_	_	22	conj:appos	_	Gloss=G.F.
-25	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	22	comp:cleft	_	Gloss=XX
+25	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	19	mod@relcl	_	Gloss=XX
 26	r̃ubùːtaː	r̃ubut-	VERB	_	ExtPos=NOUN|Gender=Fem	25	comp:aux	_	Gloss=XX
 27	à	à	ADP	_	_	26	mod	_	Gloss=at
 28	cikin	cikin	ADP	_	_	27	comp:obj	_	Gloss=inside
@@ -484,7 +484,7 @@
 19	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	20	mod@desc	_	Gloss=country.Fem.Cons
 20	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	18	mod	_	Gloss=Nigeria
 21	biyu	biyu	NUM	_	_	17	mod:num	_	Gloss=XX
-22	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	24	comp:obj	_	Gloss=who.Plur
+22	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	24	comp:obj	_	Gloss=that.Plur
 23	akà	nàː	AUX	_	Aspect=Prog|Person=4	17	mod@relcl	_	Gloss=XX
 24	zàrgaː	zàrgaː	NOUN	_	Gender=Fem	23	comp:aux	_	Gloss=XX
 25	dà	dà	ADP	_	_	24	comp:obl	_	Gloss=XX

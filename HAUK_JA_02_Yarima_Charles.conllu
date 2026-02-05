@@ -124,7 +124,7 @@
 14	kèː	nèːː	AUX	_	Aspect=Prog	13	comp:obj	_	Gloss=XX
 15	Ìkko	Ìkko	PROPN	_	_	14	comp:pred	_	Gloss=Lagos|SpaceAfter=No
 16	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-17	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	21	subj	_	Gloss=who.Masc
+17	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	21	subj	_	Gloss=that.Masc
 18	à	à	ADP	_	_	21	mod	_	Gloss=at
 19	dâː	dâː	ADV	_	_	18	comp:obj	_	Gloss=XX
 20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	21	comp:pred	_	Gloss=XX
@@ -164,7 +164,7 @@
 21	akà	nàː	AUX	_	Aspect=Prog|Person=4	20	comp:obj	_	Gloss=XX
 22	yi	yi	VERB	_	_	21	comp:aux	_	Gloss=do
 23	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	22	comp:obl	_	Gloss=XX
-24	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	22	mod	_	Gloss=Masc.Def
+24	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	22	mod	_	Gloss=time.Masc.Def
 25	dà	dà	SCONJ	_	_	24	comp:obl	_	Gloss=COMP
 26	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	27	subj	_	Gloss=Nigeria
 27	takèː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	25	comp:obj	_	Gloss=XX
@@ -204,7 +204,7 @@
 # text_ortho = Mìsaːlìː, loːkâcîn dà Fir̃aːyìm Ministàː ‘Margaret Thatcher’ ta kai zìyaːr̃àː shèːkàruː biyu da sukà wucèː, à boːkitì neː akà riƙà ɗeːboː matà ruwan zaːfiː.
 1	mìsaːlìː	mìsaːlìː	NOUN	_	_	20	mod	_	Gloss=XX|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-3	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	20	mod	_	Gloss=Masc.Def
+3	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	20	mod	_	Gloss=time.Masc.Def
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
 5	Fir̃aːyìm	Fir̃aːyìm	PROPN	_	_	11	subj	_	Gloss=Fir̃aːyìm
 6	Ministàː	Ministàː	PROPN	_	_	5	flat@name	_	Gloss=Ministàː
@@ -253,7 +253,7 @@
 16	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	11	comp:obj	_	Gloss=XX
 17	sàːmu	saːm-	VERB	_	_	16	comp:aux	_	Gloss=get
 18	wani	wani	DET	_	Definite=Spec|Gender=Masc	19	det	_	Gloss=some.Masc.Spec
-19	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	17	comp:obj	_	Gloss=Masc.Def
+19	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	17	comp:obj	_	Gloss=XX
 20	dà	dà	SCONJ	_	_	19	mod@relcl	_	Gloss=COMP
 21	sukà	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	20	comp:obj	_	Gloss=XX
 22	saːbàː	saːbàː	VERB	_	ExtPos=NOUN|Gender=Masc	21	comp:aux	_	Gloss=XX
@@ -363,7 +363,7 @@
 # text = baːbù àbîn dà ya fi ban shàꞌawàː kàmar̃ wata shirgeːgìyar̃ tar̃waɗaː dà akà ci.
 # text_ortho = Baːbù àbîn dà ya fi ban shàꞌawàː kàmar̃ wata shirgeːgìyar̃ tar̃waɗaː dà akà ci.
 1	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
-2	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	1	subj	_	Gloss=Masc.Def
+2	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	1	subj	_	Gloss=thing.Masc.Def
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 4	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	comp:obj	_	Gloss=XX
 5	fi	fi	VERB	_	_	4	comp:aux	_	Gloss=XX
@@ -410,7 +410,7 @@
 9	na	na	PART	_	Case=Gen|PartType=Pred	7	mod	_	Gloss=Gen
 10	Korup	Korup	PROPN	_	_	9	comp:obj	_	Gloss=Korup|SpaceAfter=No
 11	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-12	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	16	subj	_	Gloss=who.Masc
+12	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	16	subj	_	Gloss=that.Masc
 13	kuma	kuma	PART	_	_	12	discourse@top	_	Gloss=also
 14	wataƙiːlà	wataƙiːlà	NOUN	_	Gender=Fem	16	mod	_	Gloss=XX
 15	shiː	shiː	PRON	_	Gender=Masc|Person=3	16	comp:pred	_	Gloss=XX
@@ -438,7 +438,7 @@
 37	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__15
-# text = Yaː ìsa daːjìn neː ta wata irìn gadàː waddà kèː rētòː dàgà samà.
+# text = yaː ìsa daːjìn neː ta wata irìn gadàː waddà kèː reːtòː dàgà samà.
 # text_ortho = Yaː ìsa daːjìn neː ta wata irìn gadàː waddà kèː rētòː dàgà samà.
 1	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 2	ìsa	ìsa	VERB	_	_	1	comp:aux	_	Gloss=XX
@@ -447,10 +447,10 @@
 5	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	2	mod	_	Gloss=Gen.Fem
 6	wata	wani	DET	_	Definite=Spec|Gender=Masc	7	det	_	Gloss=some.Fem.Spec
 7	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:obj	_	Gloss=type.Masc.Cons
-8	gadàː	gadàː	NOUN	_	Gender=Fem	7	mod	_	Gloss=XX
-9	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	10	subj	_	Gloss=XX
+8	gadàː	gadàː	NOUN	_	Gender=Fem	7	mod	_	Gloss=bridge.Fem
+9	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	10	subj	_	Gloss=that.Masc
 10	kèː	nàː	AUX	_	Aspect=Prog	7	mod@relcl	_	Gloss=XX
-11	rētòː	rētòː	NOUN	_	Gender=Masc	10	comp:pred	_	Gloss=XX
+11	reːtòː	rētòː	NOUN	_	Gender=Masc	10	comp:pred	_	Gloss=hanging.Masc
 12	dàgà	dàgà	ADP	_	_	11	comp:obl	_	Gloss=from
 13	samà	samà	ADV	_	Gender=Fem	12	comp:obj	_	Gloss=XX|SpaceAfter=No
 14	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
