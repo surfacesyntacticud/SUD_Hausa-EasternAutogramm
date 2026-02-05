@@ -458,18 +458,18 @@
 14	tàːre	tàːre	ADV	_	_	15	mod	_	Gloss=together
 15	dà	dà	CCONJ	_	_	17	cc	_	Gloss=with|wordform=da
 16	cìkakken	cìkakkeː	ADJ	_	Definite=Cons|Gender=Masc	17	mod	_	Gloss=full.Masc.Cons
-17	bàyaːnìn	bàyaːnìː	NOUN	_	Definite=Cons|Gender=Masc	11	conj:coord	_	Gloss=explanation.Masc.Cons
+17	bàyaːnìn	bàyaːnìː	NOUN	_	Definite=Cons|Gender=Masc	7	conj:coord	_	Gloss=explanation.Masc.Cons
 18	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	17	mod	_	Gloss=do.Vnoun.Masc.Cons
 19	zàːɓeː	zàːɓeː	NOUN	_	Gender=Masc	18	comp:pred	_	Gloss=election.Masc|SpaceAfter=No
 20	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__16
-# text = Bandà kuma matsàː lambàr̃ dà shùːgàbaː " Ali Saibou " yakèː fùskantàː à kân kaucèːwaː dàgà kân tafarkìn tsaːrìn mulkìː mài jàm'iyyàː ƙwàːyaː ɗaya tal, hakà kuma shùːgàbân yanàː faːmaː dà ƙaːrìn yawàn wànzuwar̃ rashìn amìncêwaː dà manufoːfin tattalin ar̃zìkiː dà gwamnatìnsà takèː aikìː dà suː.
-1	Bandà	bandà	SCONJ	_	_	30	mod	_	Gloss=except_from
+# text = Bandà kuma matsà lambàr̃ dà shùːgàbaː " Ali Saibou " yakèː fùskantàː à kân kaucèːwaː dàgà kân tafarkìn tsaːrìn mulkìː mài jàm'iyyàː ƙwàːyaː ɗaya tal, hakà kuma shùːgàbân yanàː faːmaː dà ƙaːrìn yawàn wànzuwar̃ rashìn amìncêwaː dà manufoːfin tattalin ar̃zìkiː dà gwamnatìnsà takèː aikìː dà suː.
+1	Bandà	bandà	ADP	_	_	30	mod	_	Gloss=apart_from
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
-3	matsàː	matsàː	NOUN	_	_	1	comp:obj	_	Gloss=XX
-4	lambàr̃	lambàr̃	NOUN	_	Gender=Fem	3	mod	_	Gloss=pressure.Fem.Cons
-5	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=COMP
+3	matsà	mats-	NOUN	_	_	1	comp:obj	_	Gloss=press
+4	lambàr̃	lambàː	NOUN	_	Gender=Fem	3	compound	_	Gloss=sign.Fem.Cons
+5	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
 6	shùːgàbaː	shùːgàbaː	NOUN	_	_	8	mod@desc	_	Gloss=leader.Masc
 7	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 8	Ali	Ali	PROPN	_	_	11	subj	_	Gloss=Ali
@@ -495,15 +495,15 @@
 28	kuma	kuma	PART	_	_	27	discourse@top	_	Gloss=also
 29	shùːgàbân	shùːgàbaː	NOUN	_	Definite=Def|Gender=Masc	30	subj	_	Gloss=president.Masc.Def
 30	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=XX|wordform=yanaː
-31	faːmaː	faːmaː	VERB	_	_	30	comp:aux	_	Gloss=XX
+31	faːmaː	faːmaː	NOUN	_	_	30	comp:aux	_	Gloss=struggling.Fem
 32	dà	dà	ADP	_	_	31	comp:obl	_	Gloss=XX
 33	ƙaːrìn	ƙaːrìː	NOUN	_	Definite=Cons|Gender=Masc	32	comp:obj	_	Gloss=XX
 34	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	33	mod	_	Gloss=quantity.Masc.Cons
-35	wànzuwar̃	wànzuwar̃	VERB	_	Definite=Cons|Gender=Fem|PronType=Dem	34	mod	_	Gloss=XX
-36	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	34	mod	_	Gloss=lack.Vnoun.Masc.Cons
-37	amìncêwaː	amìncêwaː	NOUN	_	Number=Plur	36	comp.obj	_	Gloss=XX
+35	wànzuwar̃	wanz-	VERB	_	Definite=Cons|Gender=Fem	34	mod	_	Gloss=occur.Vnoun.Fem.Cons
+36	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	35	mod	_	Gloss=lack.Vnoun.Masc.Cons
+37	amìncêwaː	amint-	NOUN	_	_	36	comp.obj	_	Gloss=agree.Vnoun.Fem
 38	dà	dà	CCONJ	_	_	37	comp:obl	_	Gloss=XX
-39	manufoːfin	manufoːfiː	NOUN	_	Definite=Cons|Number=Plur	38	comp:obj	_	Gloss=XX
+39	manufoːfin	manufaː	NOUN	_	Definite=Cons|Number=Plur	38	comp:obj	_	Gloss=policy.Plur.Cons
 40	tattalin	tattaliː	NOUN	_	Definite=Cons|Gender=Masc	39	mod	_	Gloss=planning.Masc.Cons
 41	ar̃zìkiː	ar̃zìkiː	NOUN	_	Gender=Masc	40	mod	_	Gloss=wealth.Masc
 42	dà	dà	SCONJ	_	_	39	mod@relcl	_	Gloss=COMP
