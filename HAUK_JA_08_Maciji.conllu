@@ -221,7 +221,7 @@
 17	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	18	subj	_	Gloss=people.Plur.Def
 18	sukà	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	15	comp:obj	_	Gloss=XX
 19	cînyeː	cînyeː	VERB	_	_	18	comp:aux	_	Gloss=XX
-20	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	22	subj	_	Gloss=who.Masc
+20	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	22	subj	_	Gloss=that.Masc
 21	kuma	kuma	PART	_	_	20	discourse@top	_	Gloss=also
 22	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	13	mod@relcl	_	Gloss=XX
 23	kusa	kusa	VERB	_	_	22	comp:obl	_	Gloss=XX
@@ -304,7 +304,7 @@
 29	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 08_Maciji__10
-# text = Hakà kuma jàːmì'an asìbitìn sun yi wani gàr̃gàɗiː gàme dà maːgungunàn kashè ƙwàːriː irìː dàbam dàbam waɗànɗà manòːmaː kèː àmfàniː dà suː don kaɗà wasu ƙwàːriː sù laːlàːtaː musù àmfàːnin goːnaː.
+# text = Hakà kuma jàːmì'an asìbitìn sun yi wani gàr̃gàɗiː gàme dà maːgungunàn kashè ƙwàːriː irìː dàbam dàbam waɗàndà manòːmaː kèː àmfàniː dà suː don kaɗà wasu ƙwàːriː sù laːlàːtaː musù àmfàːnin goːnaː.
 1	Hakà	hakà	ADV	_	_	5	mod	_	Gloss=XX
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 3	jàːmì'an	jaːmì'iː	NOUN	_	Definite=Cons|Number=Plur	5	subj	_	Gloss=leader.Plur.Cons
@@ -321,7 +321,7 @@
 14	irìː	irìː	NOUN	_	Gender=Masc	11	mod	_	Gloss=XX
 15	dàbam	dàbak	ADV	_	_	14	mod	_	Gloss=XX
 16	dàbam	dàbam	ADV	_	_	15	conj:redup	_	Gloss=XX
-17	waɗànɗà	waɗànɗà	PRON	_	Number=Plur|PronType=Rel	21	udep	_	Gloss=XX
+17	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	21	udep	_	Gloss=wandà
 18	manòːmaː	manòːmaː	NOUN	_	Gender=Fem	19	subj	_	Gloss=XX
 19	kèː	nèːː	AUX	_	Aspect=Prog	11	mod@relcl	_	Gloss=XX
 20	àmfàniː	àmfàniː	NOUN	_	Gender=Masc	19	comp:aux	_	Gloss=XX
