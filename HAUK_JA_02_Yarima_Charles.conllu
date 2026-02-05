@@ -57,7 +57,7 @@
 # sent_id = 02_Yarima_Charles__3
 # text = yâːraː ƙanaːnàː dà kè kân gadoːjiː na bir̃nin Ìkko sunàː tàllàn tarkòn ɓeːr̃aː, dà kamfàːyeː, dà agoːgunàn " Rolex" na jàbu à tsàːkaːnin cùnkoːson moːtoːci, duk sun daːkatar̃ dà tàllàce-tàllàcensù dòːmin sù yi kallon hàdàː-hadâr̃ dà takèː àukuwaː à bàːkin tèːkûn.
 # text_ortho = Yâːraː ƙanaːnàː dà kèː kân gadoːjiː na bir̃nin Ìkko sunàː tàllàn tarkòn ɓeːr̃aː, da kamfàːyeː, dà agoːgunàn ‘Rolex’ na jàbu à tsàːkaːnin cùnkoːson moːtoːci, duk sun daːkatar̃ dà tàllàce-tàllàcensù dòːmin sù yi kallon hàdàː-hadâr̃ da takèː àukuwaː à bàːkin tèːkûn.
-1	yâːraː	yaːròː	NOUN	_	Number=Plur	10	subj	_	Gloss=XX
+1	yâːraː	yaːròː	NOUN	_	Number=Plur	10	subj	_	Gloss=child.Plur
 2	ƙanaːnàː	ƙanaːnàː	ADJ	_	Number=Plur	1	mod	_	Gloss=XX
 3	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 4	kè	nàː	AUX	_	Aspect=Prog|Relative2=Yes	3	comp:obj	_	Gloss=Prog.Rel2
@@ -123,12 +123,12 @@
 13	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 14	kè	nàː	AUX	_	Aspect=Prog|Relative2=Yes	13	comp:obj	_	Gloss=Prog.Rel2
 15	Ìkko	Ìkko	PROPN	_	_	14	comp:pred	_	Gloss=Lagos|SpaceAfter=No
-16	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-17	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	21	subj	_	Gloss=that.Masc
+16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
+17	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	11	mod@relcl	_	Gloss=that.Masc
 18	à	à	ADP	_	_	21	mod	_	Gloss=at
 19	dâː	dâː	ADV	_	_	18	comp:obj	_	Gloss=XX
 20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	21	comp:pred	_	Gloss=XX
-21	nèː	neː	AUX	_	Gender=Masc|Number=Plur	11	mod@relcl	_	Gloss=XX
+21	nèː	neː	AUX	_	Gender=Masc|Number=Plur	17	comp:obj	_	Gloss=XX
 22	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	21	dislocated@comp	_	Gloss=house.Masc.Cons
 23	gwamnà	gwamnà	NOUN	_	_	22	mod	_	Gloss=XX
 24	à	à	ADP	_	_	22	mod	_	Gloss=at
@@ -409,12 +409,12 @@
 8	daːjìː	daːjìː	NOUN	_	Gender=Masc	7	mod	_	Gloss=XX
 9	na	na	PART	_	Case=Gen|PartType=Pred	7	mod	_	Gloss=Gen
 10	Korup	Korup	PROPN	_	_	9	comp:obj	_	Gloss=Korup|SpaceAfter=No
-11	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-12	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	16	subj	_	Gloss=that.Masc
+11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
+12	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	7	mod@relcl	_	Gloss=that.Masc
 13	kuma	kuma	PART	_	_	12	discourse@top	_	Gloss=also
 14	wataƙiːlà	wataƙiːlà	NOUN	_	Gender=Fem	16	mod	_	Gloss=XX
 15	shiː	shiː	PRON	_	Gender=Masc|Person=3	16	comp:pred	_	Gloss=XX
-16	nèː	neː	AUX	_	Gender=Masc|Number=Plur	7	mod@relcl	_	Gloss=XX
+16	nèː	neː	AUX	_	Gender=Masc|Number=Plur	12	comp:obj	_	Gloss=XX
 17	gandun	ganduː	NOUN	_	Definite=Cons|Gender=Masc	16	dislocated@comp	_	Gloss=XX
 18	daːjìn	daːjìː	NOUN	_	Definite=Cons|Gender=Masc	17	mod	_	Gloss=XX
 19	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
@@ -448,8 +448,8 @@
 6	wata	wani	DET	_	Definite=Spec|Gender=Masc	7	det	_	Gloss=some.Fem.Spec
 7	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:obj	_	Gloss=type.Masc.Cons
 8	gadàː	gadàː	NOUN	_	Gender=Fem	7	mod	_	Gloss=bridge.Fem
-9	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	10	subj	_	Gloss=that.Masc
-10	kèː	nàː	AUX	_	Aspect=Prog|Relative=Yes	7	mod@relcl	_	Gloss=Prog.Rel
+9	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	8	mod@relcl	_	Gloss=that.Masc
+10	kèː	nàː	AUX	_	Aspect=Prog|Relative=Yes	9	comp:obj	_	Gloss=Prog.Rel
 11	reːtòː	rētòː	NOUN	_	Gender=Masc	10	comp:pred	_	Gloss=hanging.Masc
 12	dàgà	dàgà	ADP	_	_	11	comp:obl	_	Gloss=from
 13	samà	samà	ADV	_	Gender=Fem	12	comp:obj	_	Gloss=XX|SpaceAfter=No

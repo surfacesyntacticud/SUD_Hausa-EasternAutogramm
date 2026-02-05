@@ -179,8 +179,8 @@
 7	bàyaːnìn	bàyaːnìː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	Gloss=explanation.Masc.Cons
 8	yaddà	yaddà	ADV	_	PronType=Rel	7	mod	_	Gloss=how
 9	jikunkunàn	jìkiː	NOUN	_	Definite=Cons|Number=Plur	13	subj	_	Gloss=body.Plur.Cons
-10	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	12	comp:obj	_	Gloss=that.Plur
-11	sukà	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	9	mod@relcl	_	Gloss=XX
+10	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	9	mod@relcl	_	Gloss=that.Plur
+11	sukà	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	10	comp:obj	_	Gloss=XX
 12	tsiːrân	tsiːr-	VERB	_	Definite=Def	11	comp:aux	_	Gloss=escape.PrefRef
 13	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	8	mod@relcl	_	Gloss=XX
 14	sassaːɓùːleː	sassaːɓuːl-	VERB	_	_	13	comp:aux	_	Gloss=blister
@@ -382,10 +382,10 @@
 1	Ragè	Ragè	PROPN	_	_	20	subj	_	Gloss=Ragè
 2	nauyin	nauyiː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	Gloss=XX
 3	ruwân	ruwaː	NOUN	_	Definite=Def|Gender=Masc	2	mod	_	Gloss=water.Masc.Def|SpaceAfter=No
-4	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
-5	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	9	subj	_	Gloss=that.Masc
+4	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+5	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	1	mod@relcl	_	Gloss=that.Masc
 6	manàzàr̃tân	manàzàr̃ciː	NOUN	_	Definite=Def|Number=Plur	7	subj	_	Gloss=investigator.Plur.Def
-7	sukèː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	1	mod@relcl	_	Gloss=XX
+7	sukèː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	5	comp:obj	_	Gloss=XX
 8	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	7	comp:aux	_	Gloss=see.Vnoun.Masc.Cons
 9	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	8	comp:obj	_	Gloss=XX
 10	tsai	tsay-	VERB	_	_	9	comp:aux	_	Gloss=stand/stay.Cau

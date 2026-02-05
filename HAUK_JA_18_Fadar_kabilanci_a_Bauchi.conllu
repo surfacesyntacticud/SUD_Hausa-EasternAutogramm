@@ -176,7 +176,7 @@
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__6
 # text = Wannàn tàr̃zòːmaː dà akà yi dai, wata ƙwàƙƙwaːrar̃ àlaːmàː ceː mài nuːnà irìn rashìn jìtuwar̃ àddiːnìː à Nàjeːr̃iyàː wandà ya saːmoː asaliː nèː à gàrin Tafaːwà Ɓaleːwà, gàrîn dà yakè duk dà cêːwaː à yankìn Mùsùlmiː nèː, àmmaː Kir̃istoːciː sun fi yawàː à cikinsà .
 1	Wannàn	wannàn	DET	_	Gender=Masc|PronType=Dem	2	det	_	Gloss=XX
-2	tàr̃zòːmaː	tàr̃zòːmaː	NOUN	_	ExtPos=NOUN|Gender=Fem	11	dislocated@subj	_	Gloss=riot.Fem
+2	tàr̃zòːmaː	tàr̃zòːmaː	NOUN	_	ExtPos=NOUN|Gender=Fem	11	subj	_	Gloss=riot.Fem
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 4	akà	nàː	AUX	_	Aspect=Prog|Person=4	3	comp:obj	_	Gloss=XX
 5	yi	yi	VERB	_	_	4	comp:aux	_	Gloss=do
@@ -186,41 +186,41 @@
 9	ƙwàƙƙwaːrar̃	ƙwàƙƙwaːraː	ADJ	_	Definite=Cons|Number=Plur	11	comp:pred	_	Gloss=XX
 10	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	9	mod	_	Gloss=XX
 11	ceː	neː	AUX	_	Gender=Fem	0	root	_	Gloss=XX
-12	mài	mài	PART	_	Gender=Masc|PartType=Der	11	comp:pred	_	Gloss=owner/doer_of.Sing
+12	mài	mài	PART	_	Gender=Masc|PartType=Der	9	mod	_	Gloss=owner/doer_of.Sing
 13	nuːnà	nuːnà	VERB	_	_	12	compound	_	Gloss=XX
 14	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	Gloss=type.Masc.Cons
 15	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	14	mod	_	Gloss=lack.Vnoun.Masc.Cons
 16	jìtuwar̃	jìtuwaː	NOUN	_	Definite=Cons|Number=Plur	15	comp.obj	_	Gloss=XX
 17	àddiːnìː	àddiːnìː	NOUN	_	Gender=Masc	16	mod	_	Gloss=XX
-18	à	à	ADP	_	_	13	mod	_	Gloss=at
+18	à	à	ADP	_	_	14	mod	_	Gloss=at
 19	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	18	comp:obj	_	Gloss=Nigeria
-20	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	13	comp:obj	_	Gloss=that.Masc
-21	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	20	mod@relcl	_	Gloss=XX
+20	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	14	mod@relcl	_	Gloss=that.Masc
+21	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	20	comp:obj	_	Gloss=XX
 22	saːmoː	saːm-	VERB	_	_	21	comp:aux	_	Gloss=XX
 23	asaliː	asaliː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=XX
-24	nèː	neː	PART	_	Gender=Masc|Number=Plur	35	discourse@foc	_	Gloss=XX
+24	nèː	neː	PART	_	Gender=Masc|Number=Plur	23	discourse@foc	_	Gloss=XX
 25	à	à	ADP	_	_	22	comp:obl	_	Gloss=at
 26	gàrin	gàriː	NOUN	_	Definite=Cons|Gender=Masc	25	comp:obj	_	Gloss=XX
 27	Tafaːwà	Tafaːwà	PROPN	_	_	26	mod	_	Gloss=Tafawa
 28	Ɓaleːwà	Ɓaleːwà	PROPN	_	_	27	flat@name	_	Gloss=Balewa|SpaceAfter=No
 29	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
-30	gàrîn	gàriː	NOUN	_	Definite=Def|Gender=Masc	35	comp:obj	_	Gloss=XX
+30	gàrîn	gàriː	NOUN	_	Definite=Def|Gender=Masc	26	conj:appos	_	Gloss=XX
 31	dà	dà	SCONJ	_	_	30	mod@relcl	_	Gloss=COMP
-32	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	20	mod@relcl	_	Gloss=XX
-33	duk	dukà	DET	_	_	32	mod	_	Gloss=XX
+32	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	31	mod@relcl	_	Gloss=XX
+33	duk	dukà	DET	_	_	43	mod	_	Gloss=XX
 34	dà	dà	ADP	_	_	33	compound	_	Gloss=XX
 35	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem	34	comp:obj	_	Gloss=XX
-36	à	à	AUX	_	Mood=Sub|Person=4	34	comp:obj	_	Gloss=XX
+36	à	à	AUX	_	Mood=Sub|Person=4	39	comp:pred	_	Gloss=XX
 37	yankìn	yankìː	VERB	_	Definite=Cons|Gender=Masc	36	comp:obj	_	Gloss=area.Masc.Cons
 38	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	37	comp:obj	_	Gloss=Muslim.Plur
-39	nèː	neː	PART	_	_	35	discourse@foc	_	Gloss=XX|SpaceAfter=No
+39	nèː	neː	PART	_	_	35	comp:obj	_	Gloss=XX|SpaceAfter=No
 40	,	,	PUNCT	_	_	43	punct	_	Gloss=PUNCT
-41	àmmaː	àmmaː	CCONJ	_	_	43	cc	_	Gloss=XX
+41	àmmaː	àmmaː	CCONJ	_	_	43	discourse	_	Gloss=XX
 42	Kir̃istoːciː	Kir̃istàː	NOUN	_	Number=Plur	43	subj	_	Gloss=Christian.Plur
-43	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	21	parataxis@conj	_	Gloss=XX
+43	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	32	comp:pred	_	Gloss=XX
 44	fi	fi	VERB	_	_	43	comp:aux	_	Gloss=XX
 45	yawàː	yawàː	NOUN	_	Gender=Masc	44	comp:obj	_	Gloss=quantity.Masc
-46	à	à	ADP	_	_	44	comp:obl	_	Gloss=at
+46	à	à	ADP	_	_	44	mod	_	Gloss=at
 47	cikin	cikin	NOUN	_	Gender=Fem	46	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=cikinsà
 48	sà	sà	PRON	_	_	47	mod@poss	_	Gloss=3Masc.Gen
 49	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
@@ -252,7 +252,7 @@
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__8
 # text = Dàgà nan nèː kuma sai taːshìn hankàlîn ya bàzu sauran sâssan jihàr̃ ta Bauci, har̃ ya kai gà bàbban bir̃nin jihàr̃, wandà dàgà bìsaːniː kìːmaːnìn mutàːneː tàmàːnin sukà rasà raːyukànsù , sànnan kuma akà cinnàː wà coːcì-coːcì dà gìne-gìne wutaː.
-1	Dàgà	dàgà	ADP	_	_	6	mod	_	Gloss=from
+1	Dàgà	dàgà	ADP	_	_	8	mod	_	Gloss=from
 2	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	comp:obj	_	Gloss=XX
 3	nèː	neː	PART	_	_	1	discourse@foc	_	Gloss=XX
 4	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
@@ -266,22 +266,22 @@
 12	jihàr̃	jihàr̃	NOUN	_	Gender=Fem	11	mod	_	Gloss=XX
 13	ta	na/ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	11	mod	_	Gloss=Gen.Fem
 14	Bauci	Bauci	PROPN	_	_	13	comp:obj	_	Gloss=Bauchi|SpaceAfter=No
-15	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-16	har̃	har̃	CCONJ	_	Definite=Cons|Gender=Fem	17	cc	_	Gloss=XX
-17	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	8	parataxis@conj	_	Gloss=XX
+15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
+16	har̃	har̃	SCONJ	_	Definite=Cons|Gender=Fem	9	mod	_	Gloss=XX
+17	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	16	comp:obj	_	Gloss=XX
 18	kai	kai	VERB	_	_	17	comp:aux	_	Gloss=reach/carry_to
 19	gà	gà	ADP	_	_	18	comp:obl	_	Gloss=to
-20	bàbban	bàbba	ADJ	_	Definite=Cons|Gender=Masc	21	mod	_	Gloss=big.Masc.Cons
+20	bàbban	bàbba	ADJ	_	Definite=Cons|Gender=Masc	21	compound	_	Gloss=big.Masc.Cons
 21	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	19	comp:obj	_	Gloss=city.Masc.Cons
 22	jihàr̃	jihàr̃	NOUN	_	Gender=Fem	21	mod	_	Gloss=XX|SpaceAfter=No
-23	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
-24	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	38	comp:obj	_	Gloss=that.Masc
-25	dàgà	dàgà	ADP	_	_	30	mod	_	Gloss=from
+23	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
+24	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	21	mod@relcl	_	Gloss=that.Masc
+25	dàgà	dàgà	ADP	_	_	27	mod	_	Gloss=from
 26	bìsaːniː	bìsaːniː	NOUN	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	25	comp:obj	_	Gloss=XX
 27	kìːmaːnìn	kìːmaːnìː	NOUN	_	Definite=Cons|Gender=Masc	30	subj	_	Gloss=XX
 28	mutàːneː	mùtûm	NOUN	_	Number=Plur	27	mod	_	Gloss=people.Plur
-29	tàmàːnin	tàmàːnin	NUM	_	_	18	comp:obj	_	Gloss=eighty
-30	sukà	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	29	mod@relcl	_	Gloss=XX
+29	tàmàːnin	tàmàːnin	NUM	_	_	28	mod:num	_	Gloss=eighty
+30	sukà	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	24	comp:obj	_	Gloss=XX
 31	rasà	rasàː	VERB	_	_	30	comp:aux	_	Gloss=XX
 32	raːyukàn	râi	NOUN	_	Definite=Cons|Number=Plur	31	comp:obj	_	Gloss=life.Plur.Cons|SpaceAfter=No|wordform=raːyukànsù
 33	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	32	mod@poss	_	Gloss=3Plur.Gen
@@ -294,7 +294,7 @@
 40	coːcì-coːcì	coːcì-coːcì	ADV	_	_	39	comp:obj	_	Gloss=XX
 41	dà	dà	CCONJ	_	_	42	cc	_	Gloss=XX
 42	gìne-gìne	ginìː	VERB	_	Definite=Cons|Gender=Masc|Person=3	40	conj:coord	_	Gloss=XX
-43	wutaː	wutaː	NOUN	_	_	42	comp:obj	_	Gloss=XX|SpaceAfter=No
+43	wutaː	wutaː	NOUN	_	_	38	comp:obj	_	Gloss=XX|SpaceAfter=No
 44	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__9
@@ -367,9 +367,9 @@
 19	mafì	mafì	ADP	_	Gender=Masc	21	mod	_	Gloss=XX
 20	yawàː	yawàː	NOUN	_	Gender=Masc	19	compound	_	Gloss=quantity.Masc
 21	Kir̃istoːciː	kir̃istàː	NOUN	_	Number=Plur	15	conj:appos	_	Gloss=Christian.Plur|SpaceAfter=No
-22	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
-23	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	24	subj	_	Gloss=that.Plur
-24	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	21	mod@relcl	_	Gloss=XX
+22	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
+23	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	21	mod@relcl	_	Gloss=that.Plur
+24	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	23	comp:obj	_	Gloss=XX
 25	bar̃	barìː	VERB	_	Definite=Cons|Gender=Fem	24	comp:aux	_	Gloss=XX
 26	gidàːjen	gidaː	NOUN	_	Definite=Cons|Number=Plur	25	comp:obj	_	Gloss=house.Plur.Cons|SpaceAfter=No|wordform=gidàːjensù
 27	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	26	mod@poss	_	Gloss=3Plur.Gen
@@ -415,44 +415,44 @@
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__12
 # text = Dâː maː dai rashìn jìtuwar̃ àddiːnìː tsàkanin 'yan kudancin Nàjeːr̃iyàː, waɗàndà akasàr̃insù mabìyaː àddiːnìn Kir̃istàː neː, dà kuma 'yan areːwacin ƙasâr̃, waɗàndà mafìː yawànsù Mùsùlmiː nèː , bàː bàːƙon àbù ba nèː.
-1	Dâː	dâː	ADV	_	_	4	mod	_	Gloss=XX
+1	Dâː	dâː	ADV	_	_	37	mod	_	Gloss=XX
 2	maː	maː	PART	_	_	1	discourse@top	_	Gloss=XX
 3	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyhow
-4	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	0	root	_	Gloss=lack.Vnoun.Masc.Cons
+4	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	37	subj	_	Gloss=lack.Vnoun.Masc.Cons
 5	jìtuwar̃	jìtuwaː	NOUN	_	Definite=Cons|Number=Plur	4	comp.obj	_	Gloss=XX
 6	àddiːnìː	àddiːnìː	NOUN	_	Gender=Fem	5	mod	_	Gloss=XX
 7	tsàkanin	tsàkanin	ADP	_	_	4	mod	_	Gloss=XX
 8	'yan	ɗaː	ADJ	_	Definite=Cons|Number=Plur	7	comp:obj	_	Gloss=child.Plur.Cons
 9	kudancin	kudancin	ADP	_	_	8	compound	_	Gloss=XX
 10	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	9	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
-11	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-12	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	13	udep	_	Gloss=that.Plur
+11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
+12	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	8	mod@relcl	_	Gloss=that.Plur
 13	akasàr̃in	akasàr̃iː	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	18	subj	_	Gloss=majority.Masc.Cons|SpaceAfter=No|wordform=akasàr̃insù
 14	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	13	mod@poss	_	Gloss=3Plur.Gen
 15	mabìyaː	mabìyaː	NOUN	_	Gender=Fem	18	comp:pred	_	Gloss=XX
 16	àddiːnìn	àddiːnìː	NOUN	_	Definite=Cons|Number=Plur	15	comp:obj	_	Gloss=XX
 17	Kir̃istàː	Kir̃istàː	ADJ	_	Number=Sing	16	mod	_	Gloss=Christian.Sing
-18	neː	neː	AUX	_	Gender=Masc|Number=Plur	8	mod@relcl	_	Gloss=XX|SpaceAfter=No
+18	neː	neː	AUX	_	Gender=Masc|Number=Plur	12	comp:obj	_	Gloss=XX|SpaceAfter=No
 19	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 20	dà	dà	CCONJ	_	_	22	cc	_	Gloss=XX
 21	kuma	kuma	PART	_	_	20	discourse@top	_	Gloss=also
 22	'yan	ɗaː	ADJ	_	Definite=Cons|Number=Plur	8	conj:coord	_	Gloss=child.Plur.Cons
 23	areːwacin	areːwacin	ADP	_	Definite=Cons|Gender=Masc	22	compound	_	Gloss=XX
 24	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	23	mod	_	Gloss=country.Fem.Def|SpaceAfter=No
-25	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
-26	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	27	comp:obj	_	Gloss=that.Plur
-27	mafìː	mafìː	NOUN	_	Gender=Masc	31	comp:pred	_	Gloss=XX
+25	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
+26	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	22	mod@relcl	_	Gloss=that.Plur
+27	mafìː	mafìː	NOUN	_	Gender=Masc	31	subj	_	Gloss=XX
 28	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:obj	_	Gloss=quantity.Masc.Cons|SpaceAfter=No|wordform=yawànsù
 29	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	28	mod@poss	_	Gloss=3Plur.Gen
-30	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	28	mod	_	Gloss=Muslim.Plur
-31	nèː	neː	AUX	_	Gender=Masc|Number=Plur	15	discourse@foc	_	Gloss=XX
-32	,	,	PUNCT	_	_	34	punct	_	Gloss=PUNCT
-33	bàː	bàː	PART	_	Polarity=Neg	37	mod	_	Gloss=XX
-34	bàːƙon	bàːƙoː	NOUN	_	Definite=Cons|Gender=Masc	37	dislocated@comp	_	Gloss=XX
-35	àbù	àbù	NOUN	_	Gender=Masc	34	comp:obj	_	Gloss=XX
-36	ba	ba	PART	_	Polarity=Neg	37	mod	_	Gloss=XX
-37	nèː	neː	AUX	_	Gender=Masc|Number=Plur	31	conj:coord	_	Gloss=XX|SpaceAfter=No
-38	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+30	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	31	comp:pred	_	Gloss=Muslim.Plur
+31	nèː	neː	AUX	_	Gender=Masc|Number=Plur	26	comp:obj	_	Gloss=XX
+32	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+33	bàː	bàː	PART	_	Polarity=Neg	35	mod	_	Gloss=XX
+34	bàːƙon	bàːƙoː	NOUN	_	Definite=Cons|Gender=Masc	35	mod	_	Gloss=XX
+35	àbù	àbù	NOUN	_	Gender=Masc	37	comp:pred	_	Gloss=XX
+36	ba	ba	PART	_	Polarity=Neg	35	mod	_	Gloss=XX
+37	nèː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Gloss=XX|SpaceAfter=No
+38	.	.	PUNCT	_	_	37	punct	_	Gloss=PUNCT
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__13
 # text = Wasu maː har̃ sukàn jingìnà ruːshèːwar̃ Jàmhuːr̃iyàː ta Farkoː à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sìttin dà shidà., dà kuma Jàmhuːr̃iyàː ta Biyu à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà ukù bìsàː rashìn jìtuwar̃ àddiːnìː.

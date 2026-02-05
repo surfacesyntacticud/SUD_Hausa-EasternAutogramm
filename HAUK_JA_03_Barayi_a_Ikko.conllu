@@ -250,8 +250,8 @@
 26	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	15	comp:obj	_	Gloss=XX
 27	fi	fi	VERB	_	_	26	comp:aux	_	Gloss=XX
 28	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:obj	_	Gloss=type.Masc.Cons
-29	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	31	comp:pred	_	Gloss=who.Plur
-30	akà	nàː	AUX	_	Aspect=Prog|Person=4	28	mod@relcl	_	Gloss=XX
+29	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	28	mod	_	Gloss=who.Plur
+30	akà	nàː	AUX	_	Aspect=Prog|Person=4	29	mod@relcl	_	Gloss=XX
 31	yi	yi	VERB	_	_	30	comp:aux	_	Gloss=do
 32	cikin	cikin	ADP	_	_	31	mod	_	Gloss=inside
 33	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	32	comp:obj	_	Gloss=year.Plur
@@ -350,8 +350,8 @@
 35	Lawrence	Lawrence	PROPN	_	_	33	mod	_	Gloss=Lawrence
 36	Anini	Anini	PROPN	_	_	35	flat@name	_	Gloss=Anini|SpaceAfter=No
 37	"	"	PUNCT	_	_	35	punct	_	Gloss=PUNCT|wordform=’
-38	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	39	subj	_	Gloss=who.Masc
-39	kèː	keː	PRON	_	Aspect=Prog	30	mod@relcl	_	Gloss=XX
+38	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	30	mod@relcl	_	Gloss=that.Masc
+39	kèː	keː	PRON	_	Aspect=Prog	38	comp:obj	_	Gloss=XX
 40	dà	dà	ADP	_	_	39	comp:pred	_	Gloss=XX
 41	yâraː	yːròː	NOUN	_	Gender=Fem|Number=Plur	40	comp:obj	_	Gloss=XX
 42	ɓàràːyiː	ɓàràːyiː	NOUN	_	Gender=Masc	41	mod	_	Gloss=XX
@@ -375,9 +375,9 @@
 8	soːjì	soːjì	NOUN	_	Gender=Masc	7	mod	_	Gloss=XX
 9	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	8	mod	_	Gloss=Gen.Fem
 10	biyu	biyu	NUM	_	_	9	comp:obj	_	Gloss=XX
-11	-	-	PUNCT	_	_	13	punct	_	Gloss=PUNCT
-12	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	13	subj	_	Gloss=XX
-13	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	7	mod@relcl	_	Gloss=XX
+11	-	-	PUNCT	_	_	12	punct	_	Gloss=PUNCT
+12	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	7	mod@relcl	_	Gloss=XX
+13	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	12	comp:obj	_	Gloss=XX
 14	baː	baː	VERB	_	_	13	comp:aux	_	Gloss=give
 15	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=XX
 16	iːkòː	iːkòː	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=XX
@@ -389,7 +389,7 @@
 22	à	yà	AUX	_	Mood=Sub|Person=4	17	parataxis@conj	_	Gloss=XX
 23	tsarèː	tsarèː	NOUN	_	_	22	comp:aux	_	Gloss=XX
 24	-	-	PUNCT	_	_	27	punct	_	Gloss=PUNCT
-25	ita	ita	PRON	_	Gender=Fem|Person=3	27	dislocated@subj	_	Gloss=XX
+25	ita	ita	PRON	_	Gender=Fem|Person=3	27	subj	_	Gloss=XX
 26	maː	maː	PART	_	_	25	discourse@top	_	Gloss=XX
 27	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	6	comp:obj	_	Gloss=XX
 28	taimàkaː	taimàkaː	VERB	_	_	27	comp:aux	_	Gloss=XX
