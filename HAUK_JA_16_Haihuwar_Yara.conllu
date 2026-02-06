@@ -39,7 +39,7 @@
 27	saːmùn	saːmùː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	26	mod	_	Gloss=get.Vnoun.Masc.Cons
 28	tangar̃ɗàː	tangar̃ɗàː	NOUN	_	Gender=Fem	27	comp:obj	_	Gloss=problem.Fem
 29	wajen	wajen	ADP	_	_	27	comp:obl	_	Gloss=about
-30	haihùwaː	haihùwaː	NOUN	_	Gender=Fem	29	comp:obj	_	Gloss=XX
+30	haihùwaː	haihùwaː	NOUN	_	Gender=Fem	29	comp:obj	_	Gloss=giving_birth.Fem
 31	koː	koː	CCONJ	_	_	34	cc	_	Gloss=XX
 32	kuma	kuma	PART	_	_	31	discourse@top	_	Gloss=also
 33	maː	maː	PART	_	_	32	discourse@top	_	Gloss=XX
@@ -58,9 +58,9 @@
 5	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	3	comp:obj	_	Gloss=XX
 6	yi	yi	VERB	_	_	5	comp:aux	_	Gloss=do
 7	wani	wani	DET	_	Definite=Spec|Gender=Masc	8	det	_	Gloss=some.Masc.Spec
-8	tàːroː	tàːroː	NOUN	_	Gender=Masc	6	comp:pred	_	Gloss=XX
+8	tàːroː	tàːroː	NOUN	_	Gender=Masc	6	comp:pred	_	Gloss=meeting.Masc
 9	à	à	ADP	_	_	6	mod	_	Gloss=at
-10	Àbuːjaː	Àbuːjaː	PROPN	_	_	9	comp:obj	_	Gloss=Àbuːjaː|SpaceAfter=No
+10	Àbuːjaː	Àbuːjaː	PROPN	_	_	9	comp:obj	_	Gloss=Abuja|SpaceAfter=No
 11	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 12	wàːtòː	wàːtòː	PART	_	_	14	mod	_	Gloss=that_is
 13	saːbuwar̃	saːboː	ADJ	_	Definite=Cons|Gender=Fem	14	conj:appos	_	Gloss=new.Fem.Cons|wordform=sabuwar
@@ -73,22 +73,22 @@
 20	yàr̃da	yar̃d-	VERB	_	_	19	comp:aux	_	Gloss=agree
 21	cêːwaː	cêːwaː	SCONJ	_	_	20	comp:obj	_	Gloss=COMP|wordform=cêwaː
 22	àkwai	àkwai	PART	_	PartType=Pred	21	comp:obj	_	Gloss=there_is
-23	matuƙar̃	matuƙaː	NOUN	_	Definite=Cons|Gender=Fem	22	subj	_	Gloss=XX
-24	bùkaːtàr̃	bùkaːtàr̃	NOUN	_	Gender=Fem	23	mod	_	Gloss=XX
-25	ragè	nàː	AUX	_	Gender=Fem|Number=Plur	23	mod	_	Gloss=XX
+23	matuƙar̃	matuƙaː	ADJ	_	Definite=Cons|Gender=Fem	24	mod	_	Gloss=XX
+24	bùkaːtàr̃	bùkaːtàː	NOUN	_	Gender=Fem	22	subj	_	Gloss=need.Fem.Cons
+25	ragè	rag-	VERB	_	Gender=Fem|Number=Plur	24	mod	_	Gloss=reduce
 26	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	25	comp:obj	_	Gloss=type.Masc.Cons
-27	haɗur̃àn	haɗur̃àː	NOUN	_	Definite=Cons|Gender=Masc	26	mod	_	Gloss=XX
+27	haɗur̃àn	haɗàr̃iː	NOUN	_	Definite=Cons	26	mod	_	Gloss=danger.Plur.Cons
 28	nan	nan	DET	_	Definite=Def|PronType=Dem	27	det	_	Gloss=XX
-29	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	22	conj:coord	_	Gloss=there_is.Neg
-30	gair̃à	gair̃à	VERB	_	_	29	comp:aux	_	Gloss=XX
-31	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	30	comp:obj	_	Gloss=there_is.Neg
-32	dàliːlìː	dàliːlìː	NOUN	_	Gender=Masc	31	subj	_	Gloss=XX
-33	dà	dà	SCONJ	_	_	32	comp:obl	_	Gloss=COMP
+29	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	27	mod	_	Gloss=there_is.Neg
+30	gair̃à	gair̃à	NOUN	_	_	29	subj	_	Gloss=fault.Fem
+31	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	29	comp:coord	_	Gloss=there_is.Neg
+32	dàliːlìː	dàliːlìː	NOUN	_	Gender=Masc	31	subj	_	Gloss=reason.Masc
+33	dà	dà	SCONJ	_	_	27	mod@relcl	_	Gloss=COMP
 34	maːtaː	maːtaː	NOUN	_	Number=Plur	35	subj	_	Gloss=woman.Plur
 35	kèː	nàː	AUX	_	Aspect=Prog|Relative=Yes	33	comp:obj	_	Gloss=Prog.Rel
-36	fùskantàː	fùskantaː	VERB	_	_	35	comp:aux	_	Gloss=XX
+36	fùskantàː	fuskant-	VERB	_	_	35	comp:aux	_	Gloss=face
 37	wajen	wajen	ADP	_	_	36	comp:obl	_	Gloss=about
-38	haihùwaː	haihùwaː	NOUN	_	Gender=Fem	37	comp:obj	_	Gloss=XX|SpaceAfter=No
+38	haihùwaː	haihùwaː	NOUN	_	Gender=Fem	37	comp:obj	_	Gloss=giving_birth.Fem|SpaceAfter=No
 39	.	.	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 
 # sent_id = 16_Aihuwar_Yara__4
@@ -158,7 +158,7 @@
 20	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	19	mod@poss	_	Gloss=3Plur.Gen
 21	neː	neː	PART	_	Gender=Masc|Number=Plur	18	discourse@foc	_	Gloss=XX
 22	wajen	wajen	ADP	_	_	18	comp:obl	_	Gloss=about
-23	haihùwaː	haihùwaː	NOUN	_	Gender=Fem	22	comp:obj	_	Gloss=XX|SpaceAfter=No
+23	haihùwaː	haihùwaː	NOUN	_	Gender=Fem	22	comp:obj	_	Gloss=giving_birth.Fem|SpaceAfter=No
 24	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 16_Aihuwar_Yara__6
@@ -224,7 +224,7 @@
 30	shân	shaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	29	comp:aux	_	Gloss=experience
 31	wàhalàː	wàhalàː	NOUN	_	Gender=Fem	30	comp:obj	_	Gloss=trouble.Fem
 32	wajen	wajen	ADP	_	_	30	comp:obl	_	Gloss=about
-33	haihùwaː	haihùwaː	NOUN	_	Gender=Fem	32	comp:obj	_	Gloss=XX|SpaceAfter=No
+33	haihùwaː	haihùwaː	NOUN	_	Gender=Fem	32	comp:obj	_	Gloss=giving_birth.Fem|SpaceAfter=No
 34	.	.	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 
 # sent_id = 16_Aihuwar_Yara__8
