@@ -129,12 +129,12 @@
 30	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos__5
-# text = À wani ƙauyèː dà kè kusa dà tafkìn kuma, sai duk mutàːnen cikinsà sukà mutù, in bandà mùtûm bìyar̃ kawài.
+# text = À wani ƙauyèː dà kèː kusa dà tafkìn kuma, sai duk mutàːnen cikinsà sukà mutù, in bandà mùtûm bìyar̃ kawài.
 1	À	à	ADP	_	_	16	mod	_	Gloss=XX|wordform=A
 2	wani	wani	DET	_	Definite=Spec|Gender=Masc	3	det	_	Gloss=some.Masc.Spec
 3	ƙauyèː	ƙauyèː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=XX
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
-5	kè	nàː	AUX	_	Aspect=Prog|Relative2=Yes	4	comp:obj	_	Gloss=Prog.Rel2
+5	kèː	nàː	AUX	_	Aspect=Prog|Relative2=Yes	4	comp:obj	_	Gloss=Prog.Rel2
 6	kusa	kusa	ADV	_	_	5	comp:pred	_	Gloss=XX
 7	dà	dà	ADP	_	_	6	mod	_	Gloss=XX
 8	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	7	comp:obj	_	Gloss=river.Masc.Def
@@ -290,7 +290,7 @@
 4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 5	gaːnoː	gaːn-	VERB	_	_	4	comp:aux	_	Gloss=XX
 6	cêːwaː	cêːwaː	SCONJ	_	_	5	comp:obj	_	Gloss=COMP
-7	àkwai	àkwai	PART	_	_	6	comp:obj	_	Gloss=XX
+7	àkwai	àkwai	PART	_	PartType=Pred	6	comp:obj	_	Gloss=there_is
 8	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	7	subj	_	Gloss=type.Masc.Cons
 9	waɗànnân	wannàn	DET	_	Definite=Def|Deixis=Prox|Number=Plur|PronType=Dem	10	det	_	Gloss=Prox.Plur
 10	tafkunàː	tafkunàː	NOUN	_	Gender=Fem	8	mod	_	Gloss=XX
@@ -323,7 +323,7 @@
 37	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos__11
-# text = Yaddà zaː'à iyà cirèː gâs ɗîn shiː nèː à yi famfòn ruwân dà kè dà carbon dioxide dàgà cikin tafkìn, à fid dà shiː gàbaː ɗayansà .
+# text = Yaddà zaː'à iyà cirèː gâs ɗîn shiː nèː à yi famfòn ruwân dà kèː dà carbon dioxide dàgà cikin tafkìn, à fid dà shiː gàbaː ɗayansà .
 1	Yaddà	yaddà	ADV	_	PronType=Rel	8	subj	_	Gloss=how
 2	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	1	comp:obj	_	Gloss=XX
 3	iyà	iy-	VERB	_	_	2	comp:aux	_	Gloss=XX
@@ -337,7 +337,7 @@
 11	famfòn	famfòː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:pred	_	Gloss=pumping.Masc.Cons
 12	ruwân	ruwaː	NOUN	_	Definite=Def|Gender=Masc	11	comp:obj	_	Gloss=water.Masc.Def
 13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
-14	kè	nàː	AUX	_	Aspect=Prog|Relative2=Yes	13	comp:obj	_	Gloss=Prog.Rel2
+14	kèː	nàː	AUX	_	Aspect=Prog	13	comp:obj	_	Gloss=Prog.Rel
 15	dà	dà	ADP	_	_	14	comp:pred	_	Gloss=XX
 16	carbon	carbon	X	_	Definite=Cons|Foreign=Yes|Gender=Masc	15	comp:obj	_	Gloss=carbon|Lang=en
 17	dioxide	dioxide	X	_	Foreign=Yes	16	flat@foreign	_	Gloss=dioxide|Lang=en

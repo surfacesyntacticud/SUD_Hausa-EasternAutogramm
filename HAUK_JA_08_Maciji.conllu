@@ -8,14 +8,14 @@
 6	dafìː	dafìː	NOUN	_	_	5	compound	_	Gloss=XX
 
 # sent_id = 08_Maciji__2
-# text = À gàrin " Gboko " dà kè jihàr̃ Binuwài can areːwacin Nàːjeːr̃iyàː an kai wasu mutàneː gùdaː takwàs asìbitì baːyân dà sukà cikà cikìnsù dà àbincîn dà sukà yi miyàr̃sà dà naːmàn wani shirgeːgèn macìːjiː.
+# text = À gàrin " Gboko " dà kèː jihàr̃ Binuwài can areːwacin Nàːjeːr̃iyàː an kai wasu mutàneː gùdaː takwàs asìbitì baːyân dà sukà cikà cikìnsù dà àbincîn dà sukà yi miyàr̃sà dà naːmàn wani shirgeːgèn macìːjiː.
 1	À	à	ADP	_	_	13	mod	_	Gloss=XX
 2	gàrin	gàriː	NOUN	_	Definite=Cons|Gender=Masc	4	mod@desc	_	Gloss=XX
 3	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 4	Gboko	Gboko	PROPN	_	_	1	comp:obj	_	Gloss=Gboko
 5	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 6	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=COMP
-7	kè	nàː	AUX	_	Aspect=Prog|Relative2=Yes	6	comp:obj	_	Gloss=Prog.Rel2
+7	kèː	nàː	AUX	_	Aspect=Prog	6	comp:obj	_	Gloss=Prog.Rel
 8	jihàr̃	jihàr̃	ADP	_	Definite=Cons|Gender=Fem	7	comp:pred	_	Gloss=XX
 9	Binuwài	Binuwài	PROPN	_	_	8	mod	_	Gloss=Benue
 10	can	can	ADV	_	PronType=Dem	8	conj:appos	_	Gloss=XX
@@ -183,7 +183,7 @@
 18	Gboko	Gboko	PROPN	_	_	17	mod	_	Gloss=Gboko|SpaceAfter=No
 19	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 20	indà	indà	ADV	_	PronType=Rel	22	mod	_	Gloss=where
-21	likitoːciː	likitoːciː	NOUN	_	Number=Plur	22	subj	_	Gloss=XX
+21	likitoːciː	likitoːciː	NOUN	_	Number=Plur	22	subj	_	Gloss=doctor.Plur
 22	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	17	mod@relcl	_	Gloss=XX
 23	tàːru	tàːru	VERB	_	_	22	comp:aux	_	Gloss=XX
 24	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	22	parataxis@conj	_	Gloss=XX

@@ -12,7 +12,7 @@
 10	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	9	comp:obj	_	Gloss=Nigeria
 
 # sent_id = 05_Gurfanarwa_da_lauya__2
-# text = Gwamnatìn mulkìn soːjàn Nàːjeːr̃iyàː taː shaː bambam dà sauran gwamnatoːcin mulkìn soːjà dà kè Afir̃kà.
+# text = Gwamnatìn mulkìn soːjàn Nàːjeːr̃iyàː taː shaː bambam dà sauran gwamnatoːcin mulkìn soːjà dà kèː Afir̃kà.
 1	Gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	5	subj	_	Gloss=government.Fem
 2	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	1	mod	_	Gloss=XX
 3	soːjàn	soːjàː	NOUN	_	Definite=Cons|Number=Plur	2	mod	_	Gloss=XX
@@ -26,7 +26,7 @@
 11	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	10	mod	_	Gloss=XX
 12	soːjà	soːjà	NOUN	_	Gender=Masc	11	mod	_	Gloss=XX
 13	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=COMP
-14	kè	nàː	AUX	_	Aspect=Prog|Relative2=Yes	13	comp:obj	_	Gloss=Prog.Rel2
+14	kèː	nàː	AUX	_	Aspect=Prog	13	comp:obj	_	Gloss=Prog.Rel
 15	Afir̃kà	Afir̃kà	PROPN	_	_	14	comp:pred	_	Gloss=Africa|SpaceAfter=No
 16	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
@@ -278,7 +278,7 @@
 18	wata	wani	DET	_	Definite=Spec|Gender=Masc	19	det	_	Gloss=some.Fem.Spec
 19	takàr̃daː	takàr̃daː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=XX
 20	cèː	neː	AUX	_	Gender=Fem	19	discourse@foc	_	Gloss=XX
-21	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	19	mod@relcl	_	Gloss=that.Masc
+21	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	19	mod@relcl	_	Gloss=that.Fem
 22	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	25	subj	_	Gloss=XX
 23	Chief	Chief	PROPN	_	_	24	mod@desc	_	Gloss=Chief
 24	G.F.	G.F.	PROPN	_	_	22	conj:appos	_	Gloss=G.F.
@@ -525,7 +525,7 @@
 60	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__23
-# text = An kaːmè Chief G.F. neː à watàn Yuːnì, wàːtòː loːkàcîn dà yakè cikin shirìn wani tàːroː indà ya yi wà tsaːrìn tattalin ar̃zìkin ƙasar̃ Nàːjeːr̃iyàː tatas.
+# text = An kaːmè Chief G.F. neː à watàn Yuːnì, wàːtòː loːkàcîn dà yakèː cikin shirìn wani tàːroː indà ya yi wà tsaːrìn tattalin ar̃zìkin ƙasar̃ Nàːjeːr̃iyàː tatas.
 1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=XX
 2	kaːmè	kaːm-	VERB	_	_	1	comp:aux	_	Gloss=catch
 3	Chief	Chief	PROPN	_	_	4	parataxis@desc	_	Gloss=Chief
@@ -538,7 +538,7 @@
 10	wàːtòː	wàːtòː	PART	_	_	11	discourse	_	Gloss=that_is
 11	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	2	mod	_	Gloss=time.Masc.Def
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
-13	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	12	comp:obj	_	Gloss=XX
+13	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	12	comp:obj	_	Gloss=XX
 14	cikin	cikin	ADP	_	_	13	comp:pred	_	Gloss=inside
 15	shirìn	shiry-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:obj	_	Gloss=prepare.Vnoun.Masc.Cons
 16	wani	wani	DET	_	Definite=Spec|Gender=Masc	17	det	_	Gloss=some.Masc.Spec
