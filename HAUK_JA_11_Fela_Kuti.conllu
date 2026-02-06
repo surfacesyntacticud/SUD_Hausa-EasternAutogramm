@@ -822,7 +822,7 @@
 # sent_id = 11_Fela_Kuti__27
 # text = Wani àbù kuma dà ya sâː sauran duːniyàː ta shìga nuːnà shàʼawàː gàme dà Fela, shiː nèː gàme dà maːtansà na aureː suː àshìr̃in dà bakwài, waɗàndà ya àuri dukkànsù à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sàbà'in dà takwàs.
 1	Wani	wani	DET	_	Definite=Spec	2	det	_	Gloss=some.Masc
-2	àbù	àbù	NOUN	_	Gender=Masc	18	subj	_	Gloss=XX
+2	àbù	àbù	NOUN	_	Gender=Masc	18	subj	_	Gloss=thing.Masc
 3	kuma	kuma	PART	_	_	2	discourse@top	_	Gloss=also
 4	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	comp:obj	_	Gloss=XX
@@ -831,7 +831,7 @@
 8	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	7	subj	_	Gloss=world.Fem
 9	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	6	comp:obj	_	Gloss=XX
 10	shìga	shìga	VERB	_	_	9	comp:aux	_	Gloss=XX
-11	nuːnà	nuːnàː	VERB	_	_	10	comp:obj@G	_	Gloss=XX
+11	nuːnà	nuːn-	VERB	_	_	10	comp:obj@G	_	Gloss=show
 12	shàʼawàː	shàʼawàː	NOUN	_	ExtPos=NOUN|Gender=Fem	11	comp:obj	_	Gloss=XX
 13	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	11	mod	_	Gloss=join.Stat
 14	dà	dà	ADP	_	_	13	comp:obl	_	Gloss=with
@@ -844,7 +844,7 @@
 21	maːtan	màːtaː	NOUN	_	Definite=Cons|Number=Plur	20	comp:obj	_	Gloss=wife.Plur.Cons|SpaceAfter=No|wordform=maːtansà
 22	sà	sà	PRON	_	_	21	mod@poss	_	Gloss=3Masc.Gen
 23	na	na	PART	_	Case=Gen|PartType=Pred	21	mod	_	Gloss=Gen
-24	aureː	aureː	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=XX
+24	aureː	aureː	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=marriage.Masc
 25	suː	suː	PRON	_	Number=Plur|Person=3	21	conj:appos	_	Gloss=XX
 26	àshìr̃in	àshìr̃in	NUM	_	_	25	mod:num	_	Gloss=twenty
 27	dà	dà	CCONJ	_	_	28	cc	_	Gloss=XX

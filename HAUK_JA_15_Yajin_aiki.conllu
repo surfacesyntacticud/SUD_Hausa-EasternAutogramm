@@ -22,7 +22,7 @@
 7	Jàmhuːr̃iyàr̃	Jàmhuːr̃iyàr̃	NOUN	_	Definite=Cons|Gender=Fem	5	mod	_	Gloss=republic.Fem.Cons
 8	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	7	flat@name	_	Gloss=Niger
 9	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
-10	nuːnà	nuːn-	VERB	_	_	9	comp:aux	_	Gloss=XX
+10	nuːnà	nuːn-	VERB	_	_	9	comp:aux	_	Gloss=show
 11	saːmùn	saːmùː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:obj	_	Gloss=get.Vnoun.Masc.Cons
 12	goːyon	goːy-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:obj	_	Gloss=support.Vnoun.Masc.Cons
 13	baːyaː	baːyaː	NOUN	_	_	12	comp.obj	_	Gloss=back.Masc
@@ -72,7 +72,7 @@
 9	rufèː	ruf-	VERB	_	_	7	comp:aux	_	Gloss=close
 10	shaːgunàː	shaːgunàː	NOUN	_	Number=Plur	9	comp:obj	_	Gloss=shop.Plur|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-12	yàːyîn	yàːyiː	NOUN	_	Definite=Def|Gender=Masc	9	mod	_	Gloss=time.Masc.Def
+12	yàːyîn	yàːyiː	SCONJ	_	PronType=Rel	9	mod	_	Gloss=when
 13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
 14	har̃koːkin	har̃kàː	NOUN	_	Definite=Cons|Gender=Masc	17	subj	_	Gloss=business.Plur.Cons
 15	sufùr̃iː	sufùr̃iː	NOUN	_	Gender=Masc	14	mod	_	Gloss=transport.Masc
@@ -256,7 +256,7 @@
 3	kùwa	kùwa	PART	_	_	1	discourse@top	_	Gloss=XX|wordform=kuwa
 4	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=XX|wordform=sunaː
 5	zàngà-zangàr̃	zàngà-zangàr̃	NOUN	_	Definite=Def|Number=Plur	4	comp:aux	_	Gloss=demonstration.Fem.Cons
-6	nuːnà	nuːnà	VERB	_	_	5	mod	_	Gloss=XX
+6	nuːnà	nuːn-	VERB	_	_	5	mod	_	Gloss=show
 7	rashìn	ras-	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:obj	_	Gloss=lack.Vnoun.Masc.Cons
 8	amincêwar̃	amincêwaː	NOUN	_	Definite=Cons	7	comp:obj	_	Gloss=agreement.Fem.Cons|SpaceAfter=No|wordform=amincêwar̃sù
 9	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	8	mod@poss	_	Gloss=3Plur.Gen
@@ -580,7 +580,7 @@
 3	naːsù	naːsù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	1	mod@poss	_	Gloss=XX
 4	kùwa	kùwa	PART	_	_	1	discourse@top	_	Gloss=XX
 5	na	na	AUX	_	Aspect=Perf|Number=Plur|Person=1	9	comp:pred	_	Gloss=XX
-6	nuːnà	nuːn-	VERB	_	_	5	comp:aux	_	Gloss=XX
+6	nuːnà	nuːn-	VERB	_	_	5	comp:aux	_	Gloss=show
 7	goːyon	goːy-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:obj	_	Gloss=support.Vnoun.Masc.Cons
 8	baːyaː	baːyaː	NOUN	_	Gender=Masc	7	compound	_	Gloss=back.Masc
 9	nèː	neː	PART	_	_	0	root	_	Gloss=XX
@@ -592,7 +592,7 @@
 15	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	12	mod	_	Gloss=Gen.Fem
 16	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	15	comp:obj	_	Gloss=Nìːjâr̃|SpaceAfter=No|wordform=Nijaːr
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-18	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	11	mod@relcl	_	Gloss=who.Plur|wordform=wadandal
+18	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	11	mod@relcl	_	Gloss=that.Plur|wordform=wadandal
 19	sukà	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	18	comp:obj	_	Gloss=XX
 20	rasà	ras-	VERB	_	_	19	comp:aux	_	Gloss=lose
 21	ayyukàn	aykìː	NOUN	_	Number=Plur	20	comp:obj	_	Gloss=job.Plur.Cons|SpaceAfter=No|wordform=ayyukànsù

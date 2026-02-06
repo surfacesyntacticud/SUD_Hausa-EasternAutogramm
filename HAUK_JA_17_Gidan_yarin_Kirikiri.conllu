@@ -68,7 +68,7 @@
 6	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=COMP
 7	na	na	PART	_	Case=Gen|PartType=Pred	6	comp:obj	_	Gloss=Gen
 8	kiːwòn	kiːwòː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=XX
-9	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	8	mod	_	Gloss=XX
+9	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	8	mod	_	Gloss=health.Fem
 10	duk	duk	SCONJ	_	_	4	mod	_	Gloss=XX
 11	à	yà	AUX	_	Mood=Sub|Person=4	3	comp:obj	_	Gloss=XX
 12	tàɓàrɓàre	tàɓàrɓàre	VERB	_	_	11	comp:aux	_	Gloss=XX
@@ -386,7 +386,7 @@
 7	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	16	mod	_	Gloss=type.Masc.Cons
 8	haːlin	haːliː	NOUN	_	Definite=Cons|Gender=Masc	7	mod	_	Gloss=situation.Masc.Cons
 9	kiwòn	kiwòː	NOUN	_	Definite=Cons|Gender=Masc	8	mod	_	Gloss=XX
-10	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	9	mod	_	Gloss=XX
+10	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	9	mod	_	Gloss=health.Fem
 11	dà	dà	CCONJ	_	_	12	cc	_	Gloss=XX
 12	na	na	PART	_	Case=Gen|PartType=Pred	8	conj:coord	_	Gloss=Gen
 13	tsabtàː	tsabtàː	NOUN	_	_	12	comp:obj	_	Gloss=XX
@@ -645,7 +645,7 @@
 33	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 17_Gidan_yarin_Kirikiri__17
-# text = Ta cèː haːlîn dà akè ciki à kûr̃kukùn Ƙìr̃iƙìr̃i nàː haifar̃ dà shàːgìɗàɗɗun mutàːneː, kuma bàː àbin màːmaːkìː ba nèː ganin yaddà mutànên dà akà sakoː nà fitôːwaː dà wani haːliː na nuːnà ƙìyayyàː dà kuma sôn ɗaukàr̃ fansaː.
+# text = Ta cèː haːlîn dà akè ciki à kûr̃kukùn Ƙìr̃iƙìr̃i nàː haifar̃ dà shàːgìɗàɗɗun mutàːneː, kuma bàː àbin màːmaːkìː ba nèː ganin yaddà mutànên dà akà sakoː nàː fitôːwaː dà wani haːliː na nuːnà ƙìyayyàː dà kuma sôn ɗaukàr̃ fansaː.
 1	Ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=XX
 2	cèː	cêː	VERB	_	_	1	comp:aux	_	Gloss=say
 3	haːlîn	haːlîː	NOUN	_	Definite=Def|Gender=Masc	10	subj	_	Gloss=XX
@@ -667,25 +667,25 @@
 19	màːmaːkìː	màːmaːkìː	NOUN	_	Gender=Masc	18	mod	_	Gloss=XX
 20	ba	ba	PART	_	Polarity=Neg	21	mod	_	Gloss=XX
 21	nèː	neː	AUX	_	Gender=Masc|Number=Plur	10	conj:coord	_	Gloss=XX
-22	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	comp:aux	_	Gloss=XX
+22	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	comp:aux	_	Gloss=seen.Vnoun.Masc.Cons
 23	yaddà	yaddà	ADV	_	PronType=Rel	22	comp:obj	_	Gloss=how
-24	mutànên	mutàneː	NOUN	_	Definite=Def|Gender=Masc	28	subj	_	Gloss=XX
+24	mutànên	mùtûm	NOUN	_	Definite=Def|Gender=Masc	28	subj	_	Gloss=people.Plur.Def
 25	dà	dà	SCONJ	_	_	24	mod@relcl	_	Gloss=COMP
 26	akà	nàː	AUX	_	Aspect=Prog|Person=4	25	comp:obj	_	Gloss=XX
-27	sakoː	sakoː	VERB	_	_	26	comp:aux	_	Gloss=XX
-28	nà	nà	AUX	_	Aspect=Prog	23	mod@relcl	_	Gloss=XX
+27	sakoː	sak-	VERB	_	_	26	comp:aux	_	Gloss=release
+28	nàː	nàː	AUX	_	Aspect=Prog	23	mod@relcl	_	Gloss=XX
 29	fitôːwaː	fit-	VERB	_	ExtPos=NOUN|Gender=Fem	28	comp:aux	_	Gloss=come_out
 30	dà	dà	ADP	_	_	29	comp:obl	_	Gloss=XX
 31	wani	wani	DET	_	Definite=Spec|Gender=Masc	32	det	_	Gloss=some.Masc.Spec
-32	haːliː	haːliː	NOUN	_	Gender=Masc	30	comp:obj	_	Gloss=XX
-33	na	na	PART	_	Case=Gen|PartType=Pred	32	mod	_	Gloss=Gen
-34	nuːnà	nuːn-	VERB	_	_	33	comp:obj	_	Gloss=XX
-35	ƙìyayyàː	ƙìyayyàː	NOUN	_	ExtPos=NOUN|Gender=Fem	34	comp:obj	_	Gloss=XX
+32	haːliː	haːliː	NOUN	_	Gender=Masc	30	comp:obj	_	Gloss=character.Masc
+33	na	na	AUX	_	_	32	mod	_	Gloss=XX
+34	nuːnà	nuːn-	VERB	_	_	33	comp:aux	_	Gloss=show
+35	ƙìyayyàː	ƙìyayyàː	NOUN	_	ExtPos=NOUN|Gender=Fem	34	comp:obj	_	Gloss=hate.Fem
 36	dà	dà	CCONJ	_	_	38	cc	_	Gloss=XX|wordform=da
 37	kuma	kuma	PART	_	_	36	discourse@top	_	Gloss=also
-38	sôn	soː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	34	conj:coord	_	Gloss=want.Vnoun.Masc.Cons
+38	sôn	soː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	35	conj:coord	_	Gloss=want.Vnoun.Masc.Cons
 39	ɗaukàr̃	ɗauk-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	38	mod	_	Gloss=take.Vnoun.Fem.Cons
-40	fansaː	fansaː	NOUN	_	Gender=Fem	39	mod	_	Gloss=XX|SpaceAfter=No
+40	fansaː	fansaː	NOUN	_	Gender=Fem	39	mod	_	Gloss=revenge.Fem|SpaceAfter=No
 41	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 17_Gidan_yarin_Kirikiri__18

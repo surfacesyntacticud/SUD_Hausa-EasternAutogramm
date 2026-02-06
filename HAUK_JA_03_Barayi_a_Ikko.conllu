@@ -79,7 +79,7 @@
 11	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 12	tsayàː	tsay-	VERB	_	_	11	comp:aux	_	Gloss=stop
 13	dòːmin	dòːmin	SCONJ	_	_	12	mod	_	Gloss=XX
-14	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:obj	_	Gloss=XX
+14	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:obj	_	Gloss=seen.Vnoun.Masc.Cons
 15	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	14	comp:obj	_	Gloss=Masc.Def
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=COMP
 17	kèː	nàː	AUX	_	Aspect=Prog|Relative=Yes	16	comp:obj	_	Gloss=Prog.Rel
@@ -87,7 +87,7 @@
 19	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
 # sent_id = 03_Barayi_a_Ikko__4
-# text = loːkàcîn dà sukà fitoː dàgà cikin moːtàr̃sù , sai mutàːnên dà kè gàban bankìn sukà faːrà yi musù ruwan hàr̃saːshìː.
+# text = loːkàcîn dà sukà fitoː dàgà cikin moːtàr̃sù , sai mutàːnên dà kèː gàban bankìn sukà faːrà yi musù ruwan hàr̃saːshìː.
 1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	16	mod	_	Gloss=Masc.Def
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 3	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	2	comp:obj	_	Gloss=XX
@@ -100,7 +100,7 @@
 10	sai	sai	ADV	_	_	16	mod	_	Gloss=XX
 11	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	16	subj	_	Gloss=people.Plur.Def
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
-13	kè	nàː	AUX	_	Aspect=Prog	12	comp:obj	_	Gloss=XX
+13	kèː	nàː	AUX	_	Aspect=Prog	12	comp:obj	_	Gloss=Prog.Rel
 14	gàban	gàban	ADP	_	_	13	comp:pred	_	Gloss=XX
 15	bankìn	bankiː	NOUN	_	Definite=Cons|Gender=Masc	14	mod	_	Gloss=XX
 16	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
@@ -222,7 +222,7 @@
 
 # sent_id = 03_Barayi_a_Ikko__9
 # text = yàːyîn dà hakàn kèː fàːruwaː, hêdkwatàr̃ ꞌyan sàndân à bir̃nin Ìkko taː bayyànà cêːwaː yawàn fàshe-fàshe dà sàːce-sàːcên dà akèː yîː à cikin Nàːjeːr̃iyàr̃ yaː fi irìn waɗàndà akà yi cikin shèːkàruː biyûn dà sukà wucèː.
-1	yàːyîn	yàːyîː	NOUN	_	Definite=Def|Gender=Masc	13	mod	_	Gloss=Masc.Def
+1	yàːyîn	yàːyîː	SCONJ	_	PronType=Rel	13	mod	_	Gloss=when
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 3	hakàn	hakàn	ADV	_	_	4	subj	_	Gloss=XX
 4	kèː	nàː	AUX	_	Aspect=Prog|Relative=Yes	2	comp:obj	_	Gloss=Prog.Rel
@@ -250,7 +250,7 @@
 26	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	15	comp:obj	_	Gloss=XX
 27	fi	fi	VERB	_	_	26	comp:aux	_	Gloss=XX
 28	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:obj	_	Gloss=type.Masc.Cons
-29	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	28	mod	_	Gloss=who.Plur
+29	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	28	mod	_	Gloss=that.Plur
 30	akà	nàː	AUX	_	Aspect=Prog|Person=4	29	mod@relcl	_	Gloss=XX
 31	yi	yi	VERB	_	_	30	comp:aux	_	Gloss=do
 32	cikin	cikin	ADP	_	_	31	mod	_	Gloss=inside
@@ -394,7 +394,7 @@
 27	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	6	comp:obj	_	Gloss=XX
 28	taimàkaː	taimàkaː	VERB	_	_	27	comp:aux	_	Gloss=XX
 29	wajen	wajen	ADP	_	_	28	comp:obl	_	Gloss=about
-30	ragè	nàː	VERB	_	Gender=Fem|Number=Plur	29	comp:obj	_	Gloss=XX
+30	ragè	rag-	VERB	_	Gender=Fem|Number=Plur	29	comp:obj	_	Gloss=reduce
 31	yawàn	yawàn	ADJ	_	Definite=Cons|Gender=Masc	30	comp:obj	_	Gloss=quantity.Masc.Cons
 32	sàːce-sàːcên	sàːce-sàːce	NOUN	_	Definite=Cons|Gender=Masc	31	mod	_	Gloss=XX
 33	dà	dà	SCONJ	_	_	32	mod@relcl	_	Gloss=COMP

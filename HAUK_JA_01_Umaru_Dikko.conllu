@@ -10,7 +10,7 @@
 1	àlꞌamàr̃in	àlꞌamàr̃iː	NOUN	_	_	5	dislocated@subj	_	Gloss=XX
 2	Ùmar̃ù	Ùmar̃ù	PROPN	_	_	1	mod	_	Gloss=Ùmar̃ù
 3	Dikkò	Dikkò	PROPN	_	_	2	flat@name	_	Gloss=Dikkò
-4	àbù	àbù	NOUN	_	Gender=Masc	5	comp:pred	_	Gloss=XX
+4	àbù	àbù	NOUN	_	Gender=Masc	5	comp:pred	_	Gloss=thing.Masc
 5	neː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Gloss=XX
 6	mài	mài	PART	_	Number=Sing|PartType=Der	4	mod	_	Gloss=owner/doer_of.Sing
 7	ban	baː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	compound	_	Gloss=XX
@@ -137,7 +137,7 @@
 17	dà	dà	SCONJ	_	_	16	compound	_	Gloss=that|InIdiom=Yes
 18	akà	nàː	AUX	_	Aspect=Prog|Person=4	16	comp:obj	_	Gloss=XX
 19	yi	yi	VERB	_	_	18	comp:aux	_	Gloss=do
-20	ƙòːƙarin	ƙòːƙariː	NOUN	_	Definite=Cons|Gender=Masc	19	comp:pred	_	Gloss=XX
+20	ƙòːƙarin	ƙòːƙariː	NOUN	_	Definite=Cons|Gender=Masc	19	comp:pred	_	Gloss=effort.Masc.Cons
 21	saːcèː	saːt-	NOUN	_	Gender=Fem	20	comp:obj	_	Gloss=XX
 22	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	21	comp:obj	_	Gloss=XX
 23	à	à	ADP	_	_	21	mod	_	Gloss=at
@@ -231,7 +231,7 @@
 # text = à wajen indà ya kàmaːtà à r̃ubùːtà wandà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà oːfishin jàkaːdàn Nàjeːr̃iyàː, " Landàn".
 # text_ortho = À wajen indà ya kàmaːtà à r̃ubùːtà wandà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà ꞌOːfishin Jàkaːdàn Nàjeːr̃iyàː, Landàn’.
 1	à	à	ADP	_	_	16	dislocated@top	_	Gloss=at
-2	wajen	wajen	ADP	_	_	1	comp:obj	_	Gloss=XX
+2	wajen	wajen	ADP	_	_	1	comp:obj	_	Gloss=about
 3	indà	indà	ADV	_	PronType=Rel	2	comp:obj	_	Gloss=where
 4	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	mod@relcl	_	Gloss=XX
 5	kàmaːtà	kamaːt-	VERB	_	_	4	comp:aux	_	Gloss=be_appropriate
@@ -316,7 +316,7 @@
 28	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 29	amsà	ams-	VERB	_	_	28	comp:aux	_	Gloss=XX
 30	lâifin	lâifiː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=XX
-31	ƙòːƙarin	ƙòːƙariː	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=XX
+31	ƙòːƙarin	ƙòːƙariː	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=effort.Masc.Cons
 32	saːcè	saːt-	VERB	_	_	31	comp:obj	_	Gloss=XX
 33	Ùːmar̃ù	Ùːmar̃ù	PROPN	_	_	32	comp:obj	_	Gloss=Ùːmar̃ù
 34	Dikkò	Dikkò	PROPN	_	_	33	flat@name	_	Gloss=Dikkò|SpaceAfter=No
@@ -561,10 +561,10 @@
 4	dà	dà	ADP	_	_	3	unk	_	Gloss=XX|InIdiom=Yes
 5	hakà	hakà	ADV	_	_	4	unk	_	Gloss=thus|InIdiom=Yes|SpaceAfter=No
 6	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
-7	àkwai	àkwai	PART	_	_	0	root	_	Gloss=XX
+7	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	Gloss=there_is
 8	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	7	subj	_	Gloss=that.Plur
 9	kèː	nàː	AUX	_	Aspect=Prog|Relative=Yes	8	mod@relcl	_	Gloss=Prog.Rel
-10	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:aux	_	Gloss=XX
+10	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:aux	_	Gloss=seen.Vnoun.Masc.Cons
 11	cêːwaː	cêːwaː	SCONJ	_	_	10	comp:obj	_	Gloss=COMP|wordform=cêwaː
 12	bàː	bàː	PART	_	Polarity=Neg	14	mod	_	Gloss=XX
 13	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	14	det	_	Gloss=Prox.Sing

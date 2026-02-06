@@ -62,7 +62,7 @@
 7	dàgà	dàgà	ADP	_	_	6	comp:obl	_	Gloss=from
 8	Bauci	Bauci	PROPN	_	_	7	comp:obj	_	Gloss=Bauchi
 9	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
-10	nuːnà	nuːn-	VERB	_	_	9	comp:aux	_	Gloss=XX
+10	nuːnà	nuːn-	VERB	_	_	9	comp:aux	_	Gloss=show
 11	cêːwaː	cêːwaː	SCONJ	_	_	10	comp:obj	_	Gloss=COMP
 12	yànzu	yànzu	ADV	_	_	14	mod	_	Gloss=now
 13	ƙùːraː	ƙùːraː	NOUN	_	Gender=Fem	14	subj	_	Gloss=XX
@@ -87,7 +87,7 @@
 13	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 14	har̃	har̃	SCONJ	_	Definite=Cons|Gender=Fem	16	mod	_	Gloss=XX
 15	yànzu	yànzu	ADV	_	_	16	mod	_	Gloss=now
-16	àkwai	àkwai	PART	_	_	9	conj:coord	_	Gloss=XX
+16	àkwai	àkwai	PART	_	PartType=Pred	9	conj:coord	_	Gloss=there_is
 17	àlàːmun	àlàːmuː	NOUN	_	Definite=Cons|Gender=Masc	16	subj	_	Gloss=XX
 18	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	17	mod	_	Gloss=lack.Vnoun.Masc.Cons
 19	kwànciyar̃	kwànciyaː	VERB	_	Gender=Fem	18	comp.obj	_	Gloss=XX
@@ -96,7 +96,7 @@
 22	jiyà	jiyà	ADV	_	_	28	parataxis	_	Gloss=yesterday
 23	jàːmì'an	jàːmì'aː	NOUN	_	Definite=Cons|Number=Plur	28	subj	_	Gloss=XX
 24	kiːwòn	kiːwòː	NOUN	_	Definite=Cons|Gender=Masc	23	mod	_	Gloss=XX
-25	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	24	mod	_	Gloss=XX
+25	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	24	mod	_	Gloss=health.Fem
 26	sai	sai	ADV	_	_	28	mod	_	Gloss=XX
 27	dà	dà	ADP	_	_	26	unk	_	Gloss=XX
 28	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	21	comp:obj	_	Gloss=XX
@@ -187,7 +187,7 @@
 10	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	9	mod	_	Gloss=XX
 11	ceː	neː	AUX	_	Gender=Fem	0	root	_	Gloss=XX
 12	mài	mài	PART	_	Gender=Masc|PartType=Der	9	mod	_	Gloss=owner/doer_of.Sing
-13	nuːnà	nuːnà	VERB	_	_	12	compound	_	Gloss=XX
+13	nuːnà	nuːn-	VERB	_	_	12	compound	_	Gloss=show
 14	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	Gloss=type.Masc.Cons
 15	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	14	mod	_	Gloss=lack.Vnoun.Masc.Cons
 16	jìtuwar̃	jìtuwaː	NOUN	_	Definite=Cons|Number=Plur	15	comp.obj	_	Gloss=XX
@@ -449,7 +449,7 @@
 32	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 33	bàː	bàː	PART	_	Polarity=Neg	35	mod	_	Gloss=XX
 34	bàːƙon	bàːƙoː	NOUN	_	Definite=Cons|Gender=Masc	35	mod	_	Gloss=XX
-35	àbù	àbù	NOUN	_	Gender=Masc	37	comp:pred	_	Gloss=XX
+35	àbù	àbù	NOUN	_	Gender=Masc	37	comp:pred	_	Gloss=thing.Masc
 36	ba	ba	PART	_	Polarity=Neg	35	mod	_	Gloss=XX
 37	nèː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Gloss=XX|SpaceAfter=No
 38	.	.	PUNCT	_	_	37	punct	_	Gloss=PUNCT
@@ -507,13 +507,13 @@
 6	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	4	mod	_	Gloss=Nigeria
 7	maː	maː	PART	_	_	4	discourse@top	_	Gloss=XX
 8	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=XX
-9	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:aux	_	Gloss=XX
+9	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:aux	_	Gloss=seen.Vnoun.Masc.Cons
 10	cêːwaː	cêːwaː	SCONJ	_	_	9	comp:obj	_	Gloss=COMP
 11	ìdan	ìdan	SCONJ	_	_	24	mod	_	Gloss=if
 12	bà'à	yaː	AUX	_	Aspect=Perf|Person=4|Polarity=Neg	11	comp:obj	_	Gloss=XX
 13	yi	yi	VERB	_	_	12	comp:aux	_	Gloss=do
 14	wani	wani	DET	_	Definite=Spec|Gender=Masc	15	det	_	Gloss=some.Masc.Spec
-15	àbù	àbù	NOUN	_	Gender=Masc	13	comp:pred	_	Gloss=XX
+15	àbù	àbù	NOUN	_	Gender=Masc	13	comp:pred	_	Gloss=thing.Masc
 16	don	don	SCONJ	_	_	13	mod	_	Gloss=so_that
 17	shaːwoːkân	shaːwoːkaː	NOUN	_	Definite=Cons|Number=Plur	16	comp:obj	_	Gloss=XX
 18	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	19	det	_	Gloss=Prox.Sing
@@ -592,7 +592,7 @@
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	don	don	SCONJ	_	_	4	mod	_	Gloss=so_that
-14	nuːnà	nuːn-	VERB	_	_	13	comp:obj	_	Gloss=XX
+14	nuːnà	nuːn-	VERB	_	_	13	comp:obj	_	Gloss=show
 15	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	14	comp:obj	_	Gloss=lack.Vnoun.Masc.Cons
 16	amìncêːwaː	amìncêːwaː	NOUN	_	Gender=Fem	15	comp.obj	_	Gloss=XX
 17	dà	dà	CCONJ	_	_	18	cc	_	Gloss=XX

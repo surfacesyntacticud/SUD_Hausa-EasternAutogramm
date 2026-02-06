@@ -277,7 +277,7 @@
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=XX
 12	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	3	mod@relcl	_	Gloss=that.Masc
 13	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	12	comp:obj	_	Gloss=XX
-14	nuːnà	nuːn-	VERB	_	_	13	comp:aux	_	Gloss=XX
+14	nuːnà	nuːn-	VERB	_	_	13	comp:aux	_	Gloss=show
 15	cêːwaː	cêːwaː	SCONJ	_	_	14	comp:obj	_	Gloss=COMP
 16	rabìn	rabìː	NOUN	_	Definite=Cons|Gender=Masc	27	subj	_	Gloss=XX
 17	mazân	mijìː	NOUN	_	Definite=Def|Number=Plur	16	mod	_	Gloss=man.Plur.Def
@@ -351,7 +351,7 @@
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=XX
 5	ministàn	ministàː	NOUN	_	Definite=Cons|Gender=Masc	14	subj	_	Gloss=XX
 6	kiːwòn	kiːwòː	NOUN	_	Definite=Cons|Gender=Masc	5	mod	_	Gloss=XX
-7	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	6	mod	_	Gloss=XX
+7	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	6	mod	_	Gloss=health.Fem
 8	na	na	PART	_	Case=Gen|PartType=Pred	5	mod	_	Gloss=Gen
 9	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	8	comp:obj	_	Gloss=XX|SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=XX
@@ -400,7 +400,7 @@
 2	mazaː	mazaː	NOUN	_	Number=Plur	3	subj	_	Gloss=XX
 3	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 4	fi	fi	VERB	_	_	3	comp:aux	_	Gloss=XX
-5	maːtaː	maːtaː	NOUN	_	Number=Plur	4	comp:obj	_	Gloss=XX
+5	maːtaː	màːtaː	NOUN	_	Number=Plur	4	comp:obj	_	Gloss=woman.Plur
 6	yawàː	yawàː	NOUN	_	Gender=Masc	4	mod	_	Gloss=quantity.Masc
 7	à	à	ADP	_	_	4	mod	_	Gloss=at
 8	cikin	cikin	ADP	_	_	7	comp.obj	_	Gloss=inside
@@ -445,7 +445,7 @@
 29	ɗuːràː	ɗuːràː	VERB	_	ExtPos=NOUN|Gender=Fem	28	comp:aux	_	Gloss=XX
 30	wà	wà	ADP	_	_	29	comp:obl	_	Gloss=XX
 31	maràsaː	maràs	PART	_	Number=Plur|PartType=Der	30	comp:obj	_	Gloss=lacking.Plur
-32	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	31	compound	_	Gloss=XX|SpaceAfter=No
+32	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	31	compound	_	Gloss=health.Fem|SpaceAfter=No
 33	,	,	PUNCT	_	_	34	punct	_	Gloss=XX
 34	koː	koː	SCONJ	_	ExtPos=SCONJ	23	mod	_	Gloss=XX|Idiom=Yes
 35	dà	dà	SCONJ	_	_	34	unk	_	Gloss=COMP|InIdiom=Yes
