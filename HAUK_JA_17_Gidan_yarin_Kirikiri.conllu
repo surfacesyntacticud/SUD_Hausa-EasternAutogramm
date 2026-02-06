@@ -1,15 +1,15 @@
 # sent_id = 17_Gidan_yarin_Kirikiri__1
 # text = Gidan Yaːrìn Ƙìr̃iƙìr̃i
-1	Gidan	gidaː	NOUN	_	_	0	root	_	Gloss=house.Masc.Cons
-2	Yaːrìn	yaːrìː	NOUN	_	_	1	flat@name	_	Gloss=prison_warden.Masc.Cons
-3	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	2	mod	_	Gloss=Kirikiri
+1	Gidan	gidaː	NOUN	_	_	3	mod@desc	_	Gloss=house.Masc.Cons
+2	Yaːrìn	yaːrìː	NOUN	_	_	1	compound	_	Gloss=prison_warden.Masc.Cons
+3	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	0	root	_	Gloss=Kirikiri
 
 # sent_id = 17_Gidan_yarin_Kirikiri__2
 # text = Wani r̃àhoːtòn dà Ƙungìyar̃ Neːmàː wà Jàma'àː Haƙƙìnsù ta Nàːjeːr̃iyàː (= ƘNJH) ta bugàː yaː cêː gidan kûr̃kukùn Ƙìr̃iƙìr̃i mài tsauràːran màtàːkan tsàr̃oː, wandà kuma kèː can bir̃nin Ìkko, yanàː cìke màːƙil dà 'yan fursùnà fìye dà yawàn waɗàndà ya kàmaːtà sù kasànceː à cikinsà .
 1	Wani	wani	DET	_	Number=Plur|PronType=Dem	2	det	_	Gloss=XX
-2	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	17	subj	_	Gloss=XX
+2	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	17	subj	_	Gloss=report.Masc.Def
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP|wordform=da
-4	Ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	15	subj	_	Gloss=organisation.Fem.cons
+4	Ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	15	subj	_	Gloss=organisation.Fem.Cons
 5	Neːmàː	neːm-	VERB	_	_	4	mod	_	Gloss=look_for
 6	wà	wà	ADP	_	_	5	comp:obl	_	Gloss=XX
 7	Jàma'àː	jàma'àː	NOUN	_	_	6	comp:obj	_	Gloss=community.Fem
@@ -24,10 +24,10 @@
 16	bugàː	bug-	VERB	_	_	15	comp:aux	_	Gloss=XX
 17	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 18	cêː	cêː	VERB	_	_	17	comp:aux	_	Gloss=say
-19	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	34	mod	_	Gloss=house.Masc.Cons
-20	kûr̃kukùn	kûr̃kukùː	NOUN	_	Definite=Cons|Gender=Masc	19	mod	_	Gloss=prison.Masc.Cons
-21	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	20	mod	_	Gloss=Kirikiri
-22	mài	mài	PART	_	Gender=Masc|Number=Sing|PartType=Der	19	mod	_	Gloss=owner/doer_of.Sing
+19	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	21	mod@desc	_	Gloss=house.Masc.Cons
+20	kûr̃kukùn	kûr̃kukùː	NOUN	_	Definite=Cons|Gender=Masc	19	compound	_	Gloss=prison.Masc.Cons
+21	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	34	subj	_	Gloss=Kirikiri
+22	mài	mài	PART	_	Gender=Masc|Number=Sing|PartType=Der	21	mod	_	Gloss=owner/doer_of.Sing
 23	tsauràːran	tsauràːraː	NOUN	_	Definite=Cons|Number=Plur	22	compound	_	Gloss=XX
 24	màtàːkan	màtàːkaː	NOUN	_	Definite=Cons|Number=Plur	23	mod	_	Gloss=XX
 25	tsàr̃oː	tsàr̃oː	NOUN	_	Gender=Masc	24	mod	_	Gloss=XX|SpaceAfter=No|wordform=tsar
@@ -35,9 +35,9 @@
 27	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	19	mod@relcl	_	Gloss=that.Masc
 28	kuma	kuma	PART	_	_	29	discourse@top	_	Gloss=also
 29	kèː	nàː	AUX	_	Aspect=Prog|Relative=Yes	27	comp:obj	_	Gloss=Prog.Rel
-30	can	can	ADV	_	PronType=Dem	34	comp:pred	_	Gloss=XX
-31	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=city.Masc.Cons
-32	Ìkko	Ìkko	PROPN	_	_	31	mod	_	Gloss=Lagos|SpaceAfter=No|wordform=Ikko
+30	can	can	ADV	_	PronType=Dem	29	comp:pred	_	Gloss=XX
+31	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	32	mod@desc	_	Gloss=city.Masc.Cons
+32	Ìkko	Ìkko	PROPN	_	_	30	conj:appos	_	Gloss=Lagos|SpaceAfter=No|wordform=Ikko
 33	,	,	PUNCT	_	_	34	punct	_	Gloss=PUNCT
 34	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	18	comp:obj	_	Gloss=XX|wordform=yanaː
 35	cìke	cik-	VERB	_	_	34	comp:aux	_	Gloss=XX
@@ -592,7 +592,7 @@
 15	ceː	ceː	AUX	_	Gender=Fem	10	comp:obj	_	Gloss=XX|SpaceAfter=No
 16	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 17	àmmaː	àmmaː	CCONJ	_	_	19	cc	_	Gloss=XX
-18	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	19	subj	_	Gloss=XX
+18	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	19	subj	_	Gloss=report.Masc.Defː
 19	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	parataxis@conj	_	Gloss=XX
 20	cêː	cêː	VERB	_	_	19	comp:aux	_	Gloss=say|wordform=cê
 21	àkwai	àkwai	PART	_	PartType=Pred	20	comp:obj	_	Gloss=there_is
@@ -700,6 +700,6 @@
 8	ba	ba	PART	_	Polarity=Neg	6	mod	_	Gloss=XX
 9	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	6	comp:obl	_	Gloss=join.Stat
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=XX
-11	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	Gloss=XX|SpaceAfter=No
+11	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	Gloss=report.Masc.Defː|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
