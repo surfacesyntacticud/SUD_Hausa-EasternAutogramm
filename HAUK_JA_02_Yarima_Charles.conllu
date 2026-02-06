@@ -176,7 +176,7 @@
 33	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__6
-# text = tòː àmmaː bàː dukkàn abuːbuwàn jîn daːɗin ràːyuwaː dà kèː cikin gidân kèː aikìː kàmar̃ yaddà ya kàmaːtà ba.
+# text = tòː àmmaː bàː dukkàn abuːbuwàn jîn daːɗin ràːyuwaː dà kè cikin gidân kèː aikìː kàmar̃ yaddà ya kàmaːtà ba.
 # text_ortho = Tòː àmmaː bàː dukkàn abuːbuwàn jîn daːɗin ràːyuwaː dà kèː cikin gidân kèː aikìː kàmar̃ yaddà ya kàmaːtà ba.
 1	tòː	tòː	INTJ	_	_	5	discourse	_	Gloss=XX
 2	àmmaː	àmmaː	CCONJ	_	_	5	discourse	_	Gloss=XX
@@ -187,7 +187,7 @@
 7	daːɗin	daːɗiː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	Gloss=XX
 8	ràːyuwaː	ràːyuwaː	NOUN	_	Gender=Fem	7	mod	_	Gloss=XX
 9	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
-10	kèː	keː	PART	_	Aspect=Prog	9	comp:obj	_	Gloss=XX
+10	kè	nàː	AUX	_	Aspect=Prog	9	comp:obj	_	Gloss=XX
 11	cikin	cikin	ADP	_	_	10	comp:obl	_	Gloss=inside
 12	gidân	gidaː	NOUN	_	Definite=Def	11	comp:obj	_	Gloss=house.Masc.Def
 13	kèː	nàː	AUX	_	Aspect=Prog|Relative=Yes	5	comp:cleft	_	Gloss=Prog.Rel
@@ -344,7 +344,7 @@
 # sent_id = 02_Yarima_Charles__11b
 # text = àkwai shìnkaːfaː, dà waːkeː, dà sàlâk, dà sauran kaːyan marmariː.
 # text_ortho = Tòː an dai ci àbinci irìː-irìː, màsu sâː bàːkiː miyau - àkwai shìnkaːfaː, da waːkeː, dà sàlâk, da sauran kaːyan marmariː.
-1	àkwai	àkwai	PART	_	_	0	root	_	Gloss=XX
+1	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	Gloss=there_is
 2	shìnkaːfaː	shìnkaːfaː	NOUN	_	Gender=Fem	1	subj	_	Gloss=XX|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=and
@@ -448,7 +448,7 @@
 6	wata	wani	DET	_	Definite=Spec|Gender=Masc	7	det	_	Gloss=some.Fem.Spec
 7	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:obj	_	Gloss=type.Masc.Cons
 8	gadàː	gadàː	NOUN	_	Gender=Fem	7	mod	_	Gloss=bridge.Fem
-9	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	8	mod@relcl	_	Gloss=that.Masc
+9	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	8	mod@relcl	_	Gloss=that.Fem
 10	kèː	nàː	AUX	_	Aspect=Prog|Relative=Yes	9	comp:obj	_	Gloss=Prog.Rel
 11	reːtòː	rētòː	NOUN	_	Gender=Masc	10	comp:pred	_	Gloss=hanging.Masc
 12	dàgà	dàgà	ADP	_	_	11	comp:obl	_	Gloss=from
@@ -527,7 +527,7 @@
 24	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	23	mod	_	Gloss=Cameroon
 25	sukà	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	21	comp:obj	_	Gloss=XX
 26	nuːnàː	nuːnàː	VERB	_	ExtPos=NOUN|Gender=Masc	25	comp:aux	_	Gloss=XX
-27	wajen	wajen	ADP	_	_	26	comp:obl	_	Gloss=XX
+27	wajen	wajen	ADP	_	_	26	comp:obl	_	Gloss=about
 28	aikàːwaː	aik-	VERB	_	Number=Plur	27	comp:obj	_	Gloss=XX
 29	dà	dà	ADP	_	_	28	comp:obl	_	Gloss=XX
 30	rùndunaː	rùndunaː	NOUN	_	Number=Plur	29	comp:obj	_	Gloss=XX

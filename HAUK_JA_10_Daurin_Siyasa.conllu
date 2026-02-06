@@ -212,11 +212,11 @@
 39	dà	dà	CCONJ	_	_	40	cc	_	Gloss=XX
 40	kullum	kullum	ADV	_	_	38	conj:coord	_	Gloss=XX
 41	kawài	kawài	ADV	_	_	37	mod	_	Gloss=merely|SpaceAfter=No
-42	,	,	PUNCT	_	_	46	punct	_	Gloss=PUNCT
-43	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	44	mod@poss	_	Gloss=that.Plur|wordform=wadandal
+42	,	,	PUNCT	_	_	43	punct	_	Gloss=PUNCT
+43	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	36	mod@relcl	_	Gloss=that.Plur|wordform=wadandal
 44	al'amur̃àn	àl'amàr̃ìː	NOUN	_	Definite=Cons|Number=Plur	46	subj	_	Gloss=case.Plur.Cons|SpaceAfter=No|wordform=al'amur̃ànsù
 45	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	44	mod@poss	_	Gloss=3Plur.Gen
-46	bàsù	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Polarity=Neg	36	mod@relcl	_	Gloss=XX
+46	bàsù	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Polarity=Neg	43	comp:obj	_	Gloss=XX
 47	shàːfi	shàig-	VERB	_	_	46	comp:aux	_	Gloss=XX
 48	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	47	comp:obj	_	Gloss=do
 49	wata	wani	DET	_	Definite=Spec|Gender=Masc	50	det	_	Gloss=some.Fem.Spec
@@ -322,7 +322,7 @@
 60	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 10_Daurin_Siyasa__11
-# text = Shiː mùtumìn dà akà ɗaurèː yaː cêː yanàː sàːne dà mutàːneː ɗàriː dà tàlàːtin dà bìyar̃ dà akè tsàre dà suː à bir̃nin Ìkko kawai;
+# text = Shiː mùtumìn dà akà ɗaurèː yaː cêː yanàː sàːne dà mutàːneː ɗàriː dà tàlàːtin dà bìyar̃ dà akèː tsàre dà suː à bir̃nin Ìkko kawai;
 1	Shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	dislocated@subj	_	Gloss=XX
 2	mùtumìn	mùtûm	NOUN	_	Definite=Cons|Gender=Masc	1	conj:appos	_	Gloss=person.Masc.Def
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP|wordform=da
@@ -340,7 +340,7 @@
 15	dà	dà	CCONJ	_	_	16	cc	_	Gloss=XX
 16	bìyar̃	bìyar̃	NUM	_	_	14	conj:coord	_	Gloss=five
 17	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
-18	akè	nàː	AUX	_	Aspect=Prog|Person=4	17	comp:obj	_	Gloss=XX
+18	akèː	nàː	AUX	_	Aspect=Prog|Person=4	17	comp:obj	_	Gloss=XX
 19	tsàre	tsar-	ADV	_	ExtPos=ADV|VerbForm=Stat	18	comp:pred	_	Gloss=detain.Stat
 20	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=XX
 21	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	comp:obj	_	Gloss=XX

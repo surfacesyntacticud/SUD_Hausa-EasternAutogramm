@@ -42,7 +42,7 @@
 28	don	don	SCONJ	_	_	21	mod	_	Gloss=so_that
 29	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	28	comp:obj	_	Gloss=XX
 30	shìga	shig-	VERB	_	_	29	comp:aux	_	Gloss=XX
-31	ciki	ciki	ADV	_	_	30	comp:obl	_	Gloss=XX
+31	ciki	ciki	ADV	_	_	30	comp:obl	_	Gloss=inside
 32	.	.	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 
 # sent_id = 03_Barayi_a_Ikko__2b
@@ -72,7 +72,7 @@
 4	sàndaː	sàndaː	NOUN	_	_	3	compound	_	Gloss=XX
 5	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
 6	kèː	nàː	PART	_	Aspect=Prog	5	comp:obj	_	Gloss=XX
-7	sintir̃iː	sintir̃iː	NOUN	_	Gender=Masc	6	conj:coord	_	Gloss=XX
+7	sintir̃iː	sintir̃iː	NOUN	_	Gender=Masc	6	conj:coord	_	Gloss=patrolling.Masc
 8	à	à	ADP	_	_	7	mod	_	Gloss=at
 9	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	8	comp:obj	_	Gloss=place.Masc.Def
 10	sai	sai	ADV	_	_	11	mod	_	Gloss=XX
@@ -87,7 +87,7 @@
 19	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
 # sent_id = 03_Barayi_a_Ikko__4
-# text = loːkàcîn dà sukà fitoː dàgà cikin moːtàr̃sù , sai mutàːnên dà kèː gàban bankìn sukà faːrà yi musù ruwan hàr̃saːshìː.
+# text = loːkàcîn dà sukà fitoː dàgà cikin moːtàr̃sù , sai mutàːnên dà kè gàban bankìn sukà faːrà yi musù ruwan hàr̃saːshìː.
 1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	16	mod	_	Gloss=Masc.Def
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 3	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	2	comp:obj	_	Gloss=XX
@@ -100,7 +100,7 @@
 10	sai	sai	ADV	_	_	16	mod	_	Gloss=XX
 11	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	16	subj	_	Gloss=people.Plur.Def
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
-13	kèː	nàː	PART	_	Aspect=Prog	12	comp:obj	_	Gloss=XX
+13	kè	nàː	AUX	_	Aspect=Prog	12	comp:obj	_	Gloss=XX
 14	gàban	gàban	ADP	_	_	13	comp:pred	_	Gloss=XX
 15	bankìn	bankiː	NOUN	_	Definite=Cons|Gender=Masc	14	mod	_	Gloss=XX
 16	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
@@ -332,7 +332,7 @@
 17	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	14	comp:obj	_	Gloss=XX
 18	ƙaːrà	ƙaːr-	VERB	_	_	17	comp:aux	_	Gloss=increase
 19	himmàː	himmàː	VERB	_	Gender=Masc	18	comp:obj	_	Gloss=XX
-20	wajen	wajen	ADP	_	_	19	comp:obl	_	Gloss=XX
+20	wajen	wajen	ADP	_	_	19	comp:obl	_	Gloss=about
 21	yaːƙìː	yaːƙìː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=fight.Masc
 22	dà	dà	ADP	_	_	21	comp:obl	_	Gloss=XX
 23	ɓàràːyiː	ɓàràːyiː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=XX|SpaceAfter=No
@@ -376,7 +376,7 @@
 9	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	8	mod	_	Gloss=Gen.Fem
 10	biyu	biyu	NUM	_	_	9	comp:obj	_	Gloss=XX
 11	-	-	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-12	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	7	mod@relcl	_	Gloss=XX
+12	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	7	mod@relcl	_	Gloss=that.Fem
 13	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	12	comp:obj	_	Gloss=XX
 14	baː	baː	VERB	_	_	13	comp:aux	_	Gloss=give
 15	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=XX
@@ -393,7 +393,7 @@
 26	maː	maː	PART	_	_	25	discourse@top	_	Gloss=XX
 27	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	6	comp:obj	_	Gloss=XX
 28	taimàkaː	taimàkaː	VERB	_	_	27	comp:aux	_	Gloss=XX
-29	wajen	wajen	ADP	_	_	28	comp:obl	_	Gloss=XX
+29	wajen	wajen	ADP	_	_	28	comp:obl	_	Gloss=about
 30	ragè	nàː	VERB	_	Gender=Fem|Number=Plur	29	comp:obj	_	Gloss=XX
 31	yawàn	yawàn	ADJ	_	Definite=Cons|Gender=Masc	30	comp:obj	_	Gloss=quantity.Masc.Cons
 32	sàːce-sàːcên	sàːce-sàːce	NOUN	_	Definite=Cons|Gender=Masc	31	mod	_	Gloss=XX

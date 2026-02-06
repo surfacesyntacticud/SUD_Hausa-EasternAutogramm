@@ -105,14 +105,14 @@
 43	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 17_Gidan_yarin_Kirikiri__4
-# text = R̃àhoːtòn ya cèː cùnkoːson mutàːnên dà kèː cikin gidan fur̃sùnàn Ƙìr̃iƙìr̃i ya ɓaːcì, ta yaddà har̃ 'yan fur̃sùnàn sukàn yi barciː nèː kaːmùː-kaːmùː, wasu vuː bâi wà wasu, baːyan saː'oː'iː mìsaːlìn ukù kô huɗu, yàːyîn dà wasu 'yan fur̃sunoːnîn kùwa sai dai kawài sù tsayàː dà ƙafàr̃sù kurùm.
+# text = R̃àhoːtòn ya cèː cùnkoːson mutàːnên dà kè cikin gidan fur̃sùnàn Ƙìr̃iƙìr̃i ya ɓaːcì, ta yaddà har̃ 'yan fur̃sùnàn sukàn yi barciː nèː kaːmùː-kaːmùː, wasu vuː bâi wà wasu, baːyan saː'oː'iː mìsaːlìn ukù kô huɗu, yàːyîn dà wasu 'yan fur̃sunoːnîn kùwa sai dai kawài sù tsayàː dà ƙafàr̃sù kurùm.
 1	R̃àhoːtòn	r̃àhoːtòː	PROPN	_	Definite=Def	2	subj	_	Gloss=report.Masc.Def
 2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	cùnkoːson	cùnkoːsoː	NOUN	_	Definite=Cons|Gender=Masc	2	subj	_	Gloss=XX
 5	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	4	mod	_	Gloss=people.Plur.Def
 6	dà	dà	SCONJ	_	_	5	mod@relcl	_	Gloss=COMP
-7	kèː	keː	PART	_	Aspect=Prog	6	comp:obj	_	Gloss=XX
+7	kè	nà	AUX	_	Aspect=Prog	6	comp:obj	_	Gloss=XX
 8	cikin	cikin	ADP	_	_	20	comp:obl	_	Gloss=inside
 9	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=house.Masc.Cons
 10	fur̃sùnàn	fur̃sùnàː	NOUN	_	Definite=Cons|Number=Plur	8	comp:obj	_	Gloss=XX
@@ -272,13 +272,13 @@
 12	biyu	biyu	NUM	_	_	11	comp:obj	_	Gloss=XX
 13	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=COMP
 14	kèː	nàː	AUX	_	Aspect=Prog|Relative=Yes	13	comp:obj	_	Gloss=Prog.Rel
-15	jiràn	jiràː	NOUN	_	Definite=Cons|Gender=Masc	17	subj	_	Gloss=XX
-16	hauniː	hauniː	NOUN	_	Gender=Masc	15	mod	_	Gloss=XX
-17	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	14	comp:obj	_	Gloss=XX
+15	jiràn	jiràː	VERB	_	Definite=Cons|Gender=Masc	14	comp:aux	_	Gloss=XX
+16	hauniː	hauniː	NOUN	_	Gender=Masc	17	subj	_	Gloss=XX
+17	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	15	comp:obj	_	Gloss=XX
 18	kawar̃	kawar̃	VERB	_	Definite=Cons|Gender=Fem	17	comp:aux	_	Gloss=XX
 19	dà	dà	ADP	_	_	18	comp:obl	_	Gloss=XX
 20	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	comp:obj	_	Gloss=XX
-21	tun	tun	ADP	_	_	17	mod	_	Gloss=since
+21	tun	tun	ADP	_	_	15	mod	_	Gloss=since
 22	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	21	comp:obj	_	Gloss=year.Plur
 23	goːmà	goːmà	NUM	_	_	22	mod:num	_	Gloss=ten
 24	shâː	shâː	ADP	_	_	23	mod	_	Gloss=XX
@@ -289,7 +289,7 @@
 29	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 17_Gidan_yarin_Kirikiri__8
-# text = R̃àhoːtòn hakà maː yaː cêː irìn cùnkoːsôn dà kèː àkwai à kûr̃kukùn Ƙìr̃iƙìr̃i yaː har̃àmtà àmfàːniː dà gadàːjeː à cikinsà dòːmin rashin ìsasshen fiːliː sai fa wasu kàɗan dàgà cikin tsàràrrûn dà kè dà gaːliːhù.
+# text = R̃àhoːtòn hakà maː yaː cêː irìn cùnkoːsôn dà kè àkwai à kûr̃kukùn Ƙìr̃iƙìr̃i yaː har̃àmtà àmfàːniː dà gadàːjeː à cikinsà dòːmin rashin ìsasshen fiːliː sai fa wasu kàɗan dàgà cikin tsàràrrûn dà kè dà gaːliːhù.
 1	R̃àhoːtòn	R̃àhoːtòn	PROPN	_	_	4	subj	_	Gloss=R̃àhoːtòn
 2	hakà	hakà	ADV	_	_	4	mod	_	Gloss=thus
 3	maː	maː	PART	_	_	2	discourse@top	_	Gloss=XX
@@ -298,8 +298,8 @@
 6	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	14	subj	_	Gloss=type.Masc.Cons
 7	cùnkoːsôn	cùnkoːsoː	NOUN	_	Definite=Cons|Gender=Masc	6	mod	_	Gloss=XX
 8	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=COMP
-9	kèː	keː	PART	_	Aspect=Prog	8	comp:obj	_	Gloss=XX
-10	àkwai	àkwai	PART	_	_	9	comp:pred	_	Gloss=XX
+9	kè	nàː	AUX	_	Aspect=Prog	8	comp:obj	_	Gloss=XX
+10	àkwai	àkwai	PART	_	PartType=Pred	9	comp:pred	_	Gloss=there_is
 11	à	à	ADP	_	_	10	mod	_	Gloss=at
 12	kûr̃kukùn	kûr̃kukùː	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	Gloss=prison.Masc.Cons
 13	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	12	mod	_	Gloss=Kirikiri
@@ -595,7 +595,7 @@
 18	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	19	subj	_	Gloss=XX
 19	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	parataxis@conj	_	Gloss=XX
 20	cêː	cêː	VERB	_	_	19	comp:aux	_	Gloss=say|wordform=cê
-21	àkwai	àkwai	PART	_	_	20	comp:obj	_	Gloss=XX
+21	àkwai	àkwai	PART	_	PartType=Pred	20	comp:obj	_	Gloss=there_is
 22	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	23	det	_	Gloss=some.Plur.Spec
 23	dàlìːlân	dàlìːlâː	NOUN	_	Definite=Def	21	subj	_	Gloss=XX|SpaceAfter=No
 24	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
@@ -651,7 +651,7 @@
 3	haːlîn	haːlîː	NOUN	_	Definite=Def|Gender=Masc	10	subj	_	Gloss=XX
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
 5	akè	nàː	AUX	_	Aspect=Prog|Person=4	4	comp:obj	_	Gloss=XX
-6	ciki	ciki	ADV	_	_	5	comp:pred	_	Gloss=XX
+6	ciki	ciki	ADV	_	_	5	comp:pred	_	Gloss=inside
 7	à	à	ADP	_	_	5	mod	_	Gloss=at
 8	kûr̃kukùn	kûr̃kukùː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=prison.Masc.Cons
 9	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	8	mod	_	Gloss=KiriKiri
