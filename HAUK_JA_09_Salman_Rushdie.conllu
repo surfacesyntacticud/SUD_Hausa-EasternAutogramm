@@ -269,7 +269,7 @@
 6	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	7	det	_	Gloss=Prox.Sing
 7	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	5	conj:appos	_	Gloss=person.Masc.Def
 8	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=XX
-9	can	can	ADV	_	PronType=Dem	8	comp:pred	_	Gloss=XX
+9	can	can	ADV	_	PronType=Dem	8	comp:pred	_	Gloss=over_there
 10	à	à	ADP	_	_	9	mod	_	Gloss=at
 11	asìbitì	asìbitì	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=hospital.Masc
 12	anàː	nàː	AUX	_	Aspect=Prog|Person=4	9	mod@relcl	_	Gloss=XX
@@ -345,14 +345,14 @@
 
 # sent_id = 09_Salman_Rushdie__15
 # text = Tòː à can hawaː na àshìr̃in nèː akèː yîn wannàn tàːroː na manèːmaː làːbàːr̃ai dà shiː Gianni Palma ya kiraːwoː.
-1	Tòː	tòː	INTJ	_	_	2	discourse	_	Gloss=XX
-2	à	à	ADP	_	_	0	root	_	Gloss=at
-3	can	can	ADV	_	PronType=Dem	2	comp:obj	_	Gloss=XX
-4	hawaː	hawaː	NOUN	_	ExtPos=NOUN|Gender=Masc	3	conj:appos	_	Gloss=floor.Masc
+1	Tòː	tòː	INTJ	_	_	4	discourse	_	Gloss=XX
+2	à	à	ADP	_	_	4	mod	_	Gloss=at
+3	can	can	ADV	_	PronType=Dem	2	comp:obj	_	Gloss=over_there
+4	hawaː	hawaː	NOUN	_	ExtPos=NOUN|Gender=Masc	0	root	_	Gloss=floor.Masc
 5	na	na	PART	_	Case=Gen|PartType=Pred	4	mod	_	Gloss=Gen
 6	àshìr̃in	àshìr̃in	NUM	_	_	5	comp:obj	_	Gloss=twenty
-7	nèː	neː	PART	_	_	2	discourse@foc	_	Gloss=XX
-8	akèː	nàː	AUX	_	Aspect=Prog|Person=4	2	comp:cleft	_	Gloss=XX
+7	nèː	neː	PART	_	_	4	discourse@foc	_	Gloss=XX
+8	akèː	nàː	AUX	_	Aspect=Prog|Person=4	4	comp:cleft	_	Gloss=XX
 9	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:aux	_	Gloss=do.Vnoun.Masc.Cons
 10	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	11	det	_	Gloss=Prox.Sing
 11	tàːroː	tàːroː	NOUN	_	Gender=Masc	9	comp:pred	_	Gloss=meeting.Masc
@@ -365,7 +365,7 @@
 18	Palma	Palma	PROPN	_	_	17	flat@name	_	Gloss=Palma
 19	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	15	comp:obj	_	Gloss=XX
 20	kiraːwoː	kir-	VERB	_	_	19	comp:aux	_	Gloss=XX|SpaceAfter=No
-21	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+21	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__16
 # text = Tòː shiː Gianni Palma sai ya zoː ya buːɗè tàːroː akà faːrà màganàː.
@@ -386,7 +386,7 @@
 
 # sent_id = 09_Salman_Rushdie__17
 # text = Can sai wani mùtûm ya taːsoː ya jeː ya ɗàuki irìn 'yar̃ naː'uːr̃âr̃ nan dà akèː ɗaukàr̃ màganàː - wàːtòː maːkar̃ufôː ya jeː ya faːrà duːkàn Gianni Palma dà ita.
-1	Can	can	ADV	_	_	5	mod	_	Gloss=XX
+1	Can	can	ADV	_	_	5	mod	_	Gloss=over_there
 2	sai	sai	ADV	_	_	5	mod	_	Gloss=XX
 3	wani	wani	DET	_	Definite=Spec|Gender=Masc	4	det	_	Gloss=some.Masc.Spec
 4	mùtûm	mùtûm	NOUN	_	Gender=Masc	5	subj	_	Gloss=XX

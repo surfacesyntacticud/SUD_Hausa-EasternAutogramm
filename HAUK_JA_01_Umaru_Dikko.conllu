@@ -98,22 +98,22 @@
 # sent_id = 01_Umaru_Dikko__5
 # text = baːyan yaː yi kwaːnaː ukù à can nèː ya zoː nân Landàn à jirgin samà.
 # text_ortho = Baːyan yaː yi kwaːnaː ukù à can nèː ya zoː nân Landàn à jirgin samà.
-1	baːyan	baːyan	SCONJ	_	_	9	mod	_	Gloss=after
+1	baːyan	baːyan	SCONJ	_	_	0	root	_	Gloss=after
 2	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	comp:obj	_	Gloss=XX
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	kwaːnaː	kwaːn-	NOUN	_	ExtPos=NOUN|Gender=Masc	3	comp:pred	_	Gloss=XX
 5	ukù	ukù	NUM	_	_	4	mod:num	_	Gloss=three
 6	à	à	ADP	_	_	3	mod	_	Gloss=at
-7	can	can	ADV	_	PronType=Dem	6	comp:obj	_	Gloss=XX
-8	nèː	neː	PART	_	_	6	discourse@foc	_	Gloss=XX
-9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
+7	can	can	ADV	_	PronType=Dem	6	comp:obj	_	Gloss=over_there
+8	nèː	neː	PART	_	_	1	discourse@foc	_	Gloss=XX
+9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	comp:cleft	_	Gloss=XX
 10	zoː	zoː	VERB	_	_	9	comp:aux	_	Gloss=XX
-11	nân	nân	ADV	_	PronType=Dem	10	comp:obj@G	_	Gloss=XX
-12	Landàn	Landàn	PROPN	_	Definite=Def|Gender=Masc	11	mod	_	Gloss=London
+11	nân	nân	ADV	_	Deixis=Prox|PronType=Dem	10	comp:obj@G	_	Gloss=here
+12	Landàn	Landàn	PROPN	_	Definite=Def|Gender=Masc	11	conj:appos	_	Gloss=London
 13	à	à	ADP	_	_	10	mod	_	Gloss=at
 14	jirgin	jirgiː	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	Gloss=XX
 15	samà	samà	ADV	_	_	14	compound	_	Gloss=XX|SpaceAfter=No
-16	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
+16	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko__6
 # text = baːyan shèːkaràː gùdaː nèː kuma àlꞌamàr̃in na Ùmar̃ù Dikkò ya kai gà wani saːbon matsayiː baːyân dà akà yi ƙòːƙarin saːcèː shi à Ingìlà.
@@ -431,8 +431,8 @@
 5	zaman	zamaːsù	VERB	_	Gender=Fem	4	mod	_	Gloss=XX|SpaceAfter=No|wordform=zamansà
 6	sà	sà	PRON	_	_	5	mod@poss	_	Gloss=3Masc.Gen
 7	à	à	ADP	_	_	5	mod	_	Gloss=at
-8	nân	nân	ADV	_	PronType=Dem	7	comp:obj	_	Gloss=XX
-9	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	8	comp:obj	_	Gloss=Britania
+8	nân	nân	ADV	_	Deixis=Prox|PronType=Dem	7	comp:obj	_	Gloss=here
+9	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	8	conj:appos	_	Gloss=Britania
 10	dai	dai	PART	_	PartType=Top	7	discourse@top	_	Gloss=anyhow|SpaceAfter=No
 11	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 12	Ùːmar̃ù	Ùːmar̃ù	PROPN	_	_	14	subj	_	Gloss=Ùːmar̃ù
@@ -483,8 +483,8 @@
 12	gudùn	gudùː	NOUN	_	Definite=Cons|Gender=Masc	11	compound	_	Gloss=XX
 13	hijir̃aː	hijir̃aː	NOUN	_	Gender=Fem	12	mod	_	Gloss=XX
 14	à	à	ADP	_	_	7	mod	_	Gloss=at
-15	nân	nân	ADV	_	PronType=Dem	14	comp:obj	_	Gloss=XX
-16	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	15	mod	_	Gloss=Britania|SpaceAfter=No
+15	nân	nân	ADV	_	Deixis=Prox|PronType=Dem	14	comp:obj	_	Gloss=here
+16	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	15	conj:appos	_	Gloss=Britania|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	yanà	nà	AUX	_	Aspect=Prog|ExtPos=SCONJ|Gender=Masc|Person=3	5	parataxis@mod	_	Gloss=XX|Idiom=Yes
 19	mài	mài	PART	_	Gender=Masc|PartType=Der	18	comp:pred	_	Gloss=owner/doer_of.Sing|InIdiom=Yes
@@ -518,8 +518,8 @@
 11	shì	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	10	comp:obj@R	_	Gloss=XX
 12	mafakaː	mafakaː	NOUN	_	Gender=Fem	10	comp:obj@T	_	Gloss=XX
 13	à	à	ADP	_	_	10	mod	_	Gloss=at
-14	nân	nân	ADV	_	PronType=Dem	13	comp:obj	_	Gloss=XX
-15	Bìr̃tàniyà	Bìr̃tàniyà	PROPN	_	_	14	mod	_	Gloss=Bìr̃tàniyà|SpaceAfter=No
+14	nân	nân	ADV	_	Deixis=Prox|PronType=Dem	13	comp:obj	_	Gloss=here
+15	Bìr̃tàniyà	Bìr̃tàniyà	PROPN	_	_	14	conj:appos	_	Gloss=Bìr̃tàniyà|SpaceAfter=No
 16	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 17	Ùːmar̃ù	Ùːmar̃ù	PROPN	_	_	19	dislocated@subj	_	Gloss=Ùːmar̃ù
 18	Dikkò	Dikkò	PROPN	_	_	17	flat@name	_	Gloss=Dikkò
@@ -579,8 +579,8 @@
 22	zaman	zam-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Person=3	21	comp:pred	_	Gloss=XX|SpaceAfter=No|wordform=zamansà
 23	sà	sà	PRON	_	_	22	mod@poss	_	Gloss=3Masc.Gen
 24	à	à	ADP	_	_	21	mod	_	Gloss=at
-25	nân	nân	ADV	_	PronType=Dem	24	comp:obj	_	Gloss=XX
-26	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	25	mod	_	Gloss=Britania
+25	nân	nân	ADV	_	Deixis=Prox|PronType=Dem	24	comp:obj	_	Gloss=here
+26	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	25	conj:appos	_	Gloss=Britania
 27	ba	ba	PART	_	Polarity=Neg	14	mod	_	Gloss=XX|SpaceAfter=No
 28	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
@@ -590,8 +590,8 @@
 1	jàkaːdàn	jàkaːdàː	NOUN	_	Definite=Cons|Number=Plur	11	mod	_	Gloss=XX
 2	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	1	conj:appos	_	Gloss=Nigeria
 3	à	à	ADP	_	_	1	mod	_	Gloss=at
-4	nân	nân	ADV	_	PronType=Dem	3	comp:obj	_	Gloss=XX
-5	Landàn	Landàn	PROPN	_	_	4	mod	_	Gloss=London|SpaceAfter=No
+4	nân	nân	ADV	_	Deixis=Prox|PronType=Dem	3	comp:obj	_	Gloss=here
+5	Landàn	Landàn	PROPN	_	_	4	conj:appos	_	Gloss=London|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	Mr	Mr	PROPN	_	Definite=Cons|Gender=Fem	11	subj	_	Gloss=Mr
 8	George	George	PROPN	_	_	7	flat@name	_	Gloss=George
