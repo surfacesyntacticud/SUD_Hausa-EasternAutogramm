@@ -1,13 +1,13 @@
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__1
 # text = Rashìn jìtuwaː tsàkaːnin Mùsùlmiː dà Kir̃istoːciː à jihàr̃ Bauci yaː koːmàː faɗàn ƙabiːlanciː dà àddiːnìː
-1	Rashìn	rashìː	NOUN	_	_	10	subj	_	Gloss=lack.Masc.Cons
-2	jìtuwaː	jìtuwaː	NOUN	_	Gender=Fem	1	mod	_	Gloss=XX
+1	Rashìn	ras-	VERB	_	_	10	subj	_	Gloss=lack.Vnoun.Masc.Cons
+2	jìtuwaː	jit-	VERB	_	Gender=Fem	1	comp:obj	_	Gloss=agree.Vnoun.Fem
 3	tsàkaːnin	tsàkaːnin	ADP	_	Definite=Cons	1	mod	_	Gloss=between
 4	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	3	comp:obj	_	Gloss=Muslim.Plur
 5	dà	dà	CCONJ	_	_	6	cc	_	Gloss=XX
 6	Kir̃istoːciː	Kir̃istàː	NOUN	_	Number=Plur	4	conj:coord	_	Gloss=Christian.Plur
-7	à	à	ADP	_	_	11	mod	_	Gloss=at
-8	jihàr̃	jihàrː	NOUN	_	Definite=Cons|Gender=Fem	9	mod@desc	_	Gloss=state.Fem.Cons
+7	à	à	ADP	_	_	1	mod	_	Gloss=at
+8	jihàr̃	jihàrː	NOUN	_	Definite=Cons|Gender=Fem	9	mod@desc	_	Gloss=XX
 9	Bauci	Bauci	PROPN	_	_	7	comp:obj	_	Gloss=Bauchi
 10	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 11	koːmàː	koːm-	VERB	_	_	10	comp:aux	_	Gloss=go_(back)_to
