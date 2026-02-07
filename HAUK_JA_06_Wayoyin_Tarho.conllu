@@ -22,7 +22,7 @@
 6	BBC	BBC	PROPN	_	Definite=Cons|Number=Plur	8	subj	_	Gloss=BBC|wordform='BBC
 7	"	"	PUNCT	_	_	6	punct	_	Gloss=PUNCT|wordform='
 8	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	2	comp:obj	_	Gloss=XX
-9	gabaːtar̃	gabaːtaː	VERB	_	Definite=Cons|Gender=Fem	8	comp:aux	_	Gloss=XX
+9	gabaːtar̃	gabaːt-	VERB	_	_	8	comp:aux	_	Gloss=present
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=XX
 11	shìrye-shìryen	shìrye-shìrye	NOUN	_	Definite=Cons|Number=Plur	10	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=shìrye-shìryensà
 12	sà	sà	PRON	_	_	11	mod@poss	_	Gloss=3Masc.Gen
@@ -276,7 +276,7 @@
 9	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 06_01_Wayoyin_Tarho__12
-# text = Kaː ga doːlè à sàːmi haɗìn kâi tsàkaːnin ƙasàːshen dūniyà kafin à shiryà hakà.
+# text = kaː ga doːlè à sàːmi haɗìn kâi tsàkaːnin ƙasàːshen duːniyàː kafin à shiryà hakà.
 # text_ortho = Kaː ga doːlè à sàːmi haɗìn kâi tsàkaːnin ƙasàːshen dūniyà kafin à shiryà hakà.
 1	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	3	parataxis@discourse	_	Gloss=XX
 2	ga	ganiː	VERB	_	_	1	comp:aux	_	Gloss=see
@@ -287,7 +287,7 @@
 7	kâi	kâi	NOUN	_	_	6	compound	_	Gloss=XX
 8	tsàkaːnin	tsàkaːnin	ADP	_	_	6	mod	_	Gloss=between
 9	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	8	comp:obj	_	Gloss=country.Plur.Cons
-10	dūniyà	dūniyà	ADV	_	ExtPos=NOUN|Gender=Fem	9	mod	_	Gloss=XX
+10	duːniyàː	duːniyàː	NOUN	_	ExtPos=NOUN|Gender=Fem	9	mod	_	Gloss=world.Fem
 11	kafin	kafin	PART	_	_	5	mod	_	Gloss=XX
 12	à	yà	AUX	_	Mood=Sub|Person=4	11	comp:obj	_	Gloss=XX
 13	shiryà	shir-	VERB	_	_	12	comp:aux	_	Gloss=prepare

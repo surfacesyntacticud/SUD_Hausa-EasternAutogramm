@@ -60,7 +60,7 @@
 20	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	19	mod@relcl	_	Gloss=that.Masc
 21	akà	nàː	AUX	_	Aspect=Prog|Person=4	20	comp:obj	_	Gloss=XX
 22	ɗuːràː	ɗuːràː	VERB	_	ExtPos=NOUN|Gender=Fem	21	comp:aux	_	Gloss=XX
-23	wà	wà	PRON	_	Gender=Masc|PronType=Dem	22	comp:obl	_	Gloss=XX
+23	wà	wà	ADP	_	Gender=Masc|PronType=Dem	22	comp:obl	_	Gloss=XX
 24	jiniː	jiniː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=XX
 25	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	0	root	_	Gloss=XX
 26	kàːmu	kaːm-	VERB	_	_	25	comp:aux	_	Gloss=XX
@@ -79,8 +79,8 @@
 5	yi	yi	VERB	_	_	4	comp:aux	_	Gloss=do
 6	wà	wà	ADP	_	Case=Dat	5	comp:obl	_	Gloss=XX
 7	mutàːneː	mùtûm	NOUN	_	Number=Plur	6	comp:obj	_	Gloss=people.Plur
-8	dàbam	dàbam	ADV	_	_	7	mod	_	Gloss=XX
-9	dàbam	dàbam	ADV	_	_	8	conj:redup	_	Gloss=XX
+8	dàbam	dàbam	ADJ	_	_	7	mod	_	Gloss=XX
+9	dàbam	dàbam	ADJ	_	_	8	conj:redup	_	Gloss=XX
 10	àlluːràː	àlluːràː	NOUN	_	Gender=Fem	5	comp:pred	_	Gloss=XX
 11	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=XX
 12	àlluːràː	àlluːràː	NOUN	_	Gender=Fem	11	comp:obj	_	Gloss=XX
@@ -266,7 +266,7 @@
 # text = an sàːmi r̃àhoːtòː dàgà Àbijân, bàbban bir̃nin Aːbir̃ù Kwâs, wandà ya nuːnà cêːwaː rabìn mazân dà akà yi wà gwajìː à wani bàbban asìbitì sunàː ɗàuke dà ƙwaːyoːyin cùːtâr̃.
 1	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=XX
 2	sàːmi	saːm-	VERB	_	_	1	comp:aux	_	Gloss=get
-3	r̃àhoːtòː	r̃àhoːtòː	NOUN	_	Gender=Masc	2	comp:obj	_	Gloss=XX
+3	r̃àhoːtòː	r̃àhoːtòː	NOUN	_	Gender=Masc	2	comp:obj	_	Gloss=report.Masc
 4	dàgà	dàgà	ADP	_	_	2	comp:obl	_	Gloss=from
 5	Àbijân	Àbijân	PROPN	_	_	4	comp:obj	_	Gloss=XX|SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	Gloss=XX
@@ -366,8 +366,8 @@
 19	kashè	kas-	VERB	_	_	18	comp:aux	_	Gloss=kill
 20	mutàːneː	mùtûm	NOUN	_	Number=Plur	19	comp:obj	_	Gloss=people.Plur
 21	goːmà	goːmà	NUM	_	_	20	mod:num	_	Gloss=ten
-22	shâː	shâː	ADP	_	_	21	mod	_	Gloss=XX
-23	shidà	shidà	NUM	_	_	22	comp:obj	_	Gloss=XX
+22	shâː	shâː	ADP	_	_	21	flat@num	_	Gloss=plus
+23	shidà	shidà	NUM	_	_	22	flat@num	_	Gloss=XX
 24	dàgà	dàgà	ADP	_	_	20	mod	_	Gloss=from
 25	cikin	cikin	ADP	_	_	24	comp:obl	_	Gloss=inside
 26	tàlàːtin	tàlàːtin	NUM	_	_	25	comp:obj	_	Gloss=thirty
