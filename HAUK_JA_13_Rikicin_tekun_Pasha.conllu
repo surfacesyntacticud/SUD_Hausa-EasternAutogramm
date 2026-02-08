@@ -9,7 +9,7 @@
 7	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	2	mod	_	Gloss=together.Stat
 8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=with
 9	rìkicin	rìkiciː	NOUN	_	Definite=Cons	8	comp:obj	_	Gloss=crisis.Masc.Cons
-10	Tèːkun	tèːkun	ADP	_	Definite=Cons|Gender=Masc	9	mod	_	Gloss=XX|wordform=tèːkun
+10	Tèːkun	tèːku	NOUN	_	Definite=Cons|Gender=Fem	9	mod	_	Gloss=sea.Fem.Cons|wordform=tèːkun
 11	Paːshà	Paːshà	PROPN	_	_	10	mod	_	Gloss=Paːshà
 
 # sent_id = 13_Rikicin_tekun_Pasha__2
@@ -328,7 +328,7 @@
 28	sâː	sâː	VERB	_	_	27	comp:aux	_	Gloss=put
 29	wà	wà	ADP	_	_	28	comp:obl	_	Gloss=XX
 30	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	29	comp:obj	_	Gloss=Irak
-31	daːmar̃	daːmaː	ADP	_	_	24	comp:obj@T	_	Gloss=opportunity.Fem.Cons
+31	daːmar̃	daːmaː	NOUN	_	_	24	comp:obj@T	_	Gloss=opportunity.Fem.Cons
 32	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	31	comp:obj	_	Gloss=do.Vnoun.Masc.Cons
 33	aikìː	aikìː	NOUN	_	Gender=Masc	32	comp:pred	_	Gloss=work.Masc
 34	ba	ba	PART	_	Polarity=Neg	23	mod	_	Gloss=XX|SpaceAfter=No
@@ -452,7 +452,7 @@
 
 # sent_id = 13_Rikicin_tekun_Pasha__13
 # text = Tun dà duku-duku nèː 'yan sàndan kashè tàr̃zòːmâr̃ sukà jeː hàr̃aːbàr̃ jaːmi'àr̃ sukà yi wà wurîn ƙawanyàː, sànnan kuma sukà kullèː duk ƙoːfoːfîn dà mânyan kwaːɗunàː.
-1	Tun	tun	ADP	_	_	9	mod	_	Gloss=XX
+1	Tun	tun	ADP	_	_	9	mod	_	Gloss=since
 2	dà	dà	ADP	_	_	1	comp:obj	_	Gloss=with
 3	duku-duku	duku-dukkà	ADV	_	_	2	comp:obj	_	Gloss=early_morning
 4	nèː	neː	AUX	_	Gender=Masc|Number=Plur	3	discourse@foc	_	Gloss=XX
