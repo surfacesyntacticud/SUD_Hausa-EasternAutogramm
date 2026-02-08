@@ -488,8 +488,8 @@
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	yanà	nà	AUX	_	Aspect=Prog|ExtPos=SCONJ|Gender=Masc|Person=3	5	parataxis@mod	_	Gloss=XX|Idiom=Yes
 19	mài	mài	PART	_	Gender=Masc|PartType=Der	18	comp:pred	_	Gloss=owner/doer_of.Sing|InIdiom=Yes
-20	cêːwaː	cê	VERB	_	ExtPos=NOUN|Gender=Fem	19	compound	_	Gloss=XX|InIdiom=Yes|wordform=cêwaː
-21	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	18	comp:obj	_	Gloss=XX
+20	cêːwaː	cê	VERB	_	ExtPos=NOUN|Gender=Fem	19	compound	_	Gloss=say.Vnoun.Fem|InIdiom=Yes|wordform=cêwaː
+21	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	20	comp:obj	_	Gloss=XX
 22	kasànceː	kasant-	VERB	_	_	21	comp:aux	_	Gloss=XX
 23	cikin	cikin	ADP	_	_	22	comp:obl	_	Gloss=inside
 24	wani	wani	DET	_	Definite=Spec|Gender=Masc	26	det	_	Gloss=some.Masc.Spec
@@ -601,7 +601,7 @@
 12	fàďaː	fàďaː	VERB	_	_	11	comp:aux	_	Gloss=XX
 13	à	à	AUX	_	_	12	mod	_	Gloss=XX
 14	bàːra	bàar-	VERB	_	_	13	comp:obj	_	Gloss=XX
-15	cêːwaː	cê	VERB	_	ExtPos=NOUN|Gender=Fem	12	comp:obj	_	Gloss=XX|wordform=cêwaː
+15	cêːwaː	cêwaː	SCONJ	_	_	12	comp:obj	_	Gloss=COMP|wordform=cêwaː
 16	zuːƙì-ta-Màlle	zuːƙì-ta-màlle	NOUN	_	Gender=Masc	17	comp:pred	_	Gloss=XX
 17	cèː	neː	AUX	_	Gender=Fem	15	comp:obj	_	Gloss=XX
 18	kawài	kawài	ADV	_	_	17	mod	_	Gloss=merely
