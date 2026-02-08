@@ -147,15 +147,15 @@
 4	dà	dà	ADP	_	_	3	comp:obj	_	Gloss=with|InIdiom=Yes
 5	bàːkin	bàːkin	ADP	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=XX
 6	tèːku	tèːku	NOUN	_	Gender=Masc|Number=Plur	5	mod	_	Gloss=XX
-7	kuma	kuma	PART	_	_	10	cc	_	Gloss=also
+7	kuma	kuma	CCONJ	_	_	10	cc	_	Gloss=also
 8	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	10	mod	_	Gloss=XX
 9	yànzu	yànzu	ADV	_	_	8	comp:obj	_	Gloss=now
 10	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	2	conj:coord	_	Gloss=XX
 11	dà	dà	ADP	_	_	10	comp:pred	_	Gloss=with
 12	ban	baː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:obj	_	Gloss=give
 13	shàꞌawàː	shàꞌawàː	NOUN	_	Gender=Fem	12	compound	_	Gloss=XX
-14	dà	da	PART	_	_	13	mod	_	Gloss=XX|wordform=da
-15	haskàkâːwaː	haskàk-	VERB	_	Number=Plur	14	comp:obj	_	Gloss=XX
+14	dà	da	CCONJ	_	_	15	cc	_	Gloss=XX|wordform=da
+15	haskàkâːwaː	haskàk-	VERB	_	Number=Plur	13	conj:coord	_	Gloss=XX
 16	duk	dukà	DET	_	_	12	mod	_	Gloss=XX
 17	dà	dà	CCONJ	_	_	16	compound	_	Gloss=XX
 18	gyàːre-gyàːren	gyaːraː	NOUN	_	Definite=Cons|Number=Plur	16	comp:obj	_	Gloss=repair.Plur
@@ -288,7 +288,7 @@
 9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 10	tàrbi	tarb-	VERB	_	_	9	comp:aux	_	Gloss=XX
 11	Yàr̃iːmà	Yàr̃iːmà	PROPN	_	_	10	comp:obj	_	Gloss=Yàr̃iːmà
-12	dà	da	PART	_	_	13	cc	_	Gloss=XX|wordform=da
+12	dà	da	CCONJ	_	_	13	cc	_	Gloss=XX|wordform=da
 13	Gimbìyaː	Gimbìyaː	PROPN	_	_	11	conj:coord	_	Gloss=Gimbìyaː
 14	à	à	ADP	_	_	10	comp:obl	_	Gloss=at
 15	fiːlin	fiːliː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:obj	_	Gloss=field.Masc.Cons
@@ -494,7 +494,7 @@
 34	kâi	kâi	INTJ	_	Gender=Masc	38	discourse	_	Gloss=XX
 35	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	37	mod	_	Gloss=XX
 36	maː	maː	PART	_	_	35	discourse@top	_	Gloss=XX
-37	dà	dà	ADP	_	_	38	cc	_	Gloss=with
+37	dà	dà	CCONJ	_	_	38	cc	_	Gloss=with
 38	giːwàːyē	giːwàːyē	NOUN	_	Gender=Masc	32	conj:coord	_	Gloss=XX|SpaceAfter=No
 39	.	.	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 
