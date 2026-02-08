@@ -46,7 +46,7 @@
 32	.	.	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 
 # sent_id = 03_Barayi_a_Ikko__2b
-# text = bankìn ‘ First Bank ’ shiː nèː kuma bankìː mafìː girmaː à cikin ƙasar̃ Nàːjeːr̃iyàː .
+# text = bankìn " First Bank" shiː nèː kuma bankìː mafìː girmaː à cikin ƙasar̃ Nàːjeːr̃iyàː.
 1	bankìn	bankìː	NOUN	_	Definite=Cons|Gender=Masc	3	mod@desc	_	Gloss=XX
 2	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT|wordform=‘
 3	First	First	PROPN	_	_	7	subj	_	Gloss=First
@@ -56,7 +56,7 @@
 7	nèː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Gloss=XX
 8	kuma	kuma	PART	_	PartType=Disc	7	discourse@top	_	Gloss=also
 9	bankìː	bankìː	NOUN	_	Gender=Masc	7	dislocated@comp	_	Gloss=XX
-10	mafìː	mafìː	PART	_	Gender=Masc	9	mod	_	Gloss=XX
+10	mafìː	mafìː	ADP	_	_	9	mod	_	_
 11	girmaː	girmaː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=XX
 12	à	à	ADP	_	_	10	mod	_	Gloss=at
 13	cikin	cikin	ADP	_	_	12	comp:obj	_	Gloss=inside
@@ -123,7 +123,7 @@
 8	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 9	shìga	shig-	VERB	_	ExtPos=NOUN|Gender=Fem	8	comp:aux	_	Gloss=XX
 10	mùsaːyar̃	mùsaːyar̃	VERB	_	Definite=Cons|Gender=Fem	9	comp:obj@G	_	Gloss=XX
-11	wutaː	wutaː	NOUN	_	_	10	comp:obj	_	Gloss=XX
+11	wutaː	wutaː	NOUN	_	_	10	comp:obj	_	Gloss=fire.Masc
 12	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	10	mod	_	Gloss=XX
 13	mintìː	mintìː	NOUN	_	_	12	comp:obj	_	Gloss=XX
 14	àshìr̃in	àshìr̃in	NUM	_	_	13	mod:num	_	Gloss=twenty|SpaceAfter=No
@@ -168,7 +168,7 @@
 17	ƙallà	ƙallà	ADV	_	_	16	comp:obj	_	Gloss=XX
 18	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	comp:pred	_	Gloss=XX
 19	goːmà	goːmà	NUM	_	_	18	mod:num	_	Gloss=ten
-20	shâː	shâː	ADP	_	_	19	flat@num	_	Gloss=XX
+20	shâː	shâː	NUM	_	_	19	flat@num	_	Gloss=plus
 21	ukù	ukù	NUM	_	_	20	flat@num	_	Gloss=three
 22	neː	neː	PART	_	Gender=Masc|Number=Plur	19	discourse@foc	_	Gloss=XX|SpaceAfter=No
 23	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
@@ -370,7 +370,7 @@
 3	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 4	ƙaːràː	ƙaːr-	VERB	_	_	3	comp:aux	_	Gloss=increase
 5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=XX
-6	cêːwaː	cêː	VERB	_	Gender=Fem	5	comp:obj	_	Gloss=XX
+6	cêːwaː	cêː	VERB	_	Gender=Fem	5	comp:obj	_	Gloss=say.Vnoun.Fem
 7	dòːkar̃	dòːkaː	NOUN	_	Definite=Cons|Gender=Fem	27	dislocated@subj	_	Gloss=XX
 8	soːjì	soːjì	NOUN	_	Gender=Masc	7	mod	_	Gloss=XX
 9	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	8	mod	_	Gloss=Gen.Fem

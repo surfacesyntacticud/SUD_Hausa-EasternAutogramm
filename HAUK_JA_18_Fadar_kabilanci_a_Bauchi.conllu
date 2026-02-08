@@ -348,9 +348,9 @@
 # text = Ƙungìyar̃ Kir̃istoːcin Nàjeːr̃iyàː taː ƙiyàstaː cêːwaː Kir̃istoːciː ɗàriː nèː akà kashèː, kuma dùbban 'yan gudùn hijir̃aː, mafì yawàː Kir̃istoːciː, waɗàndà sukà bar̃ gidàːjensù sàːkàmakon hàrgitsîn, sunà fùskantàr̃ màtsalàr̃ saːmùn àbinci.
 1	Ƙungìyar̃	ƙungìyaː	PROPN	_	Definite=Cons|Gender=Fem	4	subj	_	Gloss=association
 2	Kir̃istoːcin	Kir̃istàː	PROPN	_	_	1	mod	_	Gloss=Christian
-3	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	2	mod	_	Gloss=Nigeria
+3	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	1	mod	_	Gloss=Nigeria
 4	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=XX
-5	ƙiyàstaː	ƙiyàstaː	VERB	_	_	4	comp:aux	_	Gloss=XX
+5	ƙiyàstaː	ƙiyast-	VERB	_	_	4	comp:aux	_	Gloss=estimate
 6	cêːwaː	cêːwaː	SCONJ	_	_	5	comp:obj	_	Gloss=COMP
 7	Kir̃istoːciː	Kir̃istàː	NOUN	_	Number=Plur	6	comp:obj	_	Gloss=Christian.Plur
 8	ɗàriː	ɗàriː	NUM	_	_	7	mod:num	_	Gloss=hundred
@@ -361,10 +361,10 @@
 13	kuma	kuma	PART	_	_	31	cc	_	Gloss=also
 14	dùbban	dubuː	NOUN	_	Definite=Cons|Number=Plur	31	subj	_	Gloss=thousand.Plur.Cons
 15	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	14	mod	_	Gloss=child.Plur.Cons
-16	gudùn	gudùː	NOUN	_	Definite=Cons|Number=Plur	15	compound	_	Gloss=XX
-17	hijir̃aː	hijir̃aː	NOUN	_	Gender=Fem	16	compound	_	Gloss=XX|SpaceAfter=No
+16	gudùn	gudùː	NOUN	_	Definite=Cons|Number=Plur	15	compound	_	Gloss=running.Masc.Cons
+17	hijir̃aː	hijir̃aː	NOUN	_	Gender=Fem	16	compound	_	Gloss=flight.Fem|SpaceAfter=No
 18	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-19	mafì	mafì	ADP	_	Gender=Masc	21	mod	_	Gloss=XX
+19	mafì	mafì	ADP	_	_	21	mod	_	Gloss=exceeding_in
 20	yawàː	yawàː	NOUN	_	Gender=Masc	19	compound	_	Gloss=quantity.Masc
 21	Kir̃istoːciː	kir̃istàː	NOUN	_	Number=Plur	15	conj:appos	_	Gloss=Christian.Plur|SpaceAfter=No
 22	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
@@ -441,7 +441,7 @@
 24	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	23	mod	_	Gloss=country.Fem.Def|SpaceAfter=No
 25	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 26	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	22	mod@relcl	_	Gloss=that.Plur
-27	mafìː	mafìː	NOUN	_	Gender=Masc	31	subj	_	Gloss=XX
+27	mafìː	mafìː	ADP	_	_	31	subj	_	Gloss=exceeding_in
 28	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:obj	_	Gloss=quantity.Masc.Cons|SpaceAfter=No|wordform=yawànsù
 29	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	28	mod@poss	_	Gloss=3Plur.Gen
 30	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	31	comp:pred	_	Gloss=Muslim.Plur
@@ -630,7 +630,7 @@
 8	Kanòː	Kanòː	PROPN	_	_	7	mod	_	Gloss=Kano|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 10	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	3	parataxis@conj	_	Gloss=XX
-11	kunnà	kunn-	VERB	_	_	10	comp:aux	_	Gloss=XX
+11	kunnà	kunn-	VERB	_	_	10	comp:aux	_	Gloss=light
 12	wutaː	wutaː	NOUN	_	Gender=Fem	11	comp:obj	_	Gloss=fire.Masc
 13	gà	gà	ADP	_	_	11	comp:obl	_	Gloss=to
 14	kantunàː	kantunàː	NOUN	_	Case=Gen|Number=Sing|Person=1	13	comp:obj	_	Gloss=XX
