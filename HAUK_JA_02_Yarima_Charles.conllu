@@ -117,7 +117,7 @@
 7	sàuka	sauk-	VERB	_	_	6	comp:aux	_	Gloss=XX
 8	nèː	neː	PART	_	_	7	discourse@foc	_	Gloss=XX
 9	à	à	ADP	_	_	7	comp:obl	_	Gloss=at
-10	tsoːhon	tsoːhoː	ADJ	_	Definite=Cons|Gender=Masc	11	mod	_	Gloss=XX
+10	tsoːhon	tsoːhoː	ADJ	_	Definite=Cons|Gender=Masc	11	mod	_	Gloss=old.Masc
 11	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	9	comp:obj	_	Gloss=house.Masc.Cons
 12	gwamnatì	gwamnatì	NOUN	_	Gender=Fem	11	mod	_	Gloss=government.Fem
 13	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
@@ -152,8 +152,8 @@
 9	yànzu	yànzu	ADV	_	_	8	comp:obj	_	Gloss=now
 10	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	2	conj:coord	_	Gloss=XX
 11	dà	dà	ADP	_	_	10	comp:pred	_	Gloss=XX
-12	ban	ban	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:obj	_	Gloss=XX
-13	shàꞌawàː	shàꞌawàː	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=XX
+12	ban	baː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:obj	_	Gloss=give
+13	shàꞌawàː	shàꞌawàː	NOUN	_	Gender=Fem	12	compound	_	Gloss=XX
 14	dà	da	PART	_	_	13	mod	_	Gloss=XX|wordform=da
 15	haskàkâːwaː	haskàk-	VERB	_	Number=Plur	14	comp:obj	_	Gloss=XX
 16	duk	dukà	DET	_	_	12	mod	_	Gloss=XX
@@ -262,7 +262,7 @@
 25	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 26	indà	indà	SCONJ	_	PronType=Rel	19	mod@relcl	_	Gloss=where
 27	zaːsù	zâi	AUX	_	Mood=Sub|Number=Plur|Person=3	26	comp:obj	_	Gloss=XX|wordform=sù
-28	iyà	iy-	VERB	_	_	27	comp:aux	_	Gloss=XX
+28	iyà	iy-	VERB	_	_	27	comp:aux	_	Gloss=be_able_to
 29	raːmà	raːmàː	VERB	_	_	28	comp:obj	_	Gloss=XX
 30	irin	irin	ADP	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=XX
 31	kar̃imcìn	kar̃imcìː	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=XX
@@ -367,8 +367,8 @@
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 4	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	comp:obj	_	Gloss=XX
 5	fi	fi	VERB	_	_	4	comp:aux	_	Gloss=XX
-6	ban	ban	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:obj	_	Gloss=XX
-7	shàꞌawàː	shàꞌawàː	NOUN	_	Gender=Fem	6	comp:obj	_	Gloss=XX
+6	ban	baː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:obj	_	Gloss=give
+7	shàꞌawàː	shàꞌawàː	NOUN	_	Gender=Fem	6	compound	_	Gloss=XX
 8	kàmar̃	kàmar̃	ADP	_	_	5	mod	_	Gloss=like
 9	wata	wani	DET	_	Definite=Spec|Gender=Masc	11	det	_	Gloss=some.Fem.Spec
 10	shirgeːgìyar̃	shirgeːgèː	ADJ	_	Definite=Cons|Gender=Fem	11	mod	_	Gloss=XX
@@ -463,7 +463,7 @@
 3	dà	dà	CCONJ	_	_	4	cc	_	Gloss=XX
 4	bìyar̃	bìyar̃	NUM	_	_	2	conj:coord	_	Gloss=five
 5	cikin	cikin	ADP	_	_	1	mod	_	Gloss=inside
-6	ɗàriː	ɗàriː	NOUN	_	Gender=Fem|Number=Plur	5	comp:obj	_	Gloss=hundred.Fem
+6	ɗàriː	ɗàriː	NUM	_	Gender=Fem|Number=Plur	5	comp:obj	_	Gloss=hundred.Fem
 7	na	na	PART	_	Case=Gen|Definite=Cons|PartType=Pred	1	mod	_	Gloss=Gen
 8	duk	duk	DET	_	_	9	det	_	Gloss=XX
 9	yawàn	yawàn	ADJ	_	_	7	mod	_	Gloss=quantity.Masc.Cons

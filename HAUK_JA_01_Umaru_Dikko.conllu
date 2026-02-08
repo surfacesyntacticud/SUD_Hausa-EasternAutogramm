@@ -6,7 +6,7 @@
 
 # sent_id = 01_Umaru_Dikko__2
 # text = àlꞌamàr̃in Ùmar̃ù Dikkò àbù neː mài ban shàꞌawàr̃ jîː.
-# text_en = Umaru Dikko's case is something interesting to hear. 
+# text_en = Umaru Dikko's case is something interesting to hear.
 # text_ortho = Àlꞌamàr̃in Ùmar̃ù Dikkò àbù neː mài ban shàꞌawàr̃ jîː.
 1	àlꞌamàr̃in	àlꞌamàr̃iː	NOUN	_	_	5	dislocated@subj	_	Gloss=case.Masc.Cons
 2	Ùmar̃ù	Ùmar̃ù	PROPN	_	_	1	mod	_	Gloss=Ùmar̃ù
@@ -14,16 +14,15 @@
 4	àbù	àbù	NOUN	_	Gender=Masc	5	comp:pred	_	Gloss=thing.Masc
 5	neː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Gloss=XX
 6	mài	mài	PART	_	Number=Sing|PartType=Der	4	mod	_	Gloss=owner/doer_of.Sing
-7	ban	baː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	compound	_	Gloss=XX
-8	shàꞌawàr̃	shàꞌawàː	NOUN	_	Definite=Cons|Gender=Fem	7	comp:obj	_	Gloss=interest.Fem.Cons
+7	ban	baː	VERB	_	_	6	compound	_	Gloss=give
+8	shàꞌawàr̃	shàꞌawàː	NOUN	_	Definite=Cons|Gender=Fem	7	compound	_	Gloss=interest.Fem.Cons
 9	jîː	ji	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	mod	_	Gloss=hear.Vnoun.Masc|SpaceAfter=No
 10	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko__3
 # text = tsoːhon ministàn sufùr̃in na Nàjeːr̃iyàː yaː tseːrèː neː dàgà ƙasâr̃ baːyan juːyìn mulkìn dà soːjà sukà yi à watan disambàː na shèːkararàr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà ukù, indà akà hamɓarar̃ dà gwamnatìn farar̃-hùːlaː ta Shùːgàbaː Sheːhù Shàːgàːri.
-# text_en = 
 # text_ortho = Tsoːhon Ministàn Sufùr̃in na Nàjeːr̃iyàː yaː tseːrèː neː dàgà ƙasâr̃ baːyan juːyìn mulkìn dà soːjà sukà yi à watan Disambàː na shèːkararàr̃ alìf da ɗàriː tar̃à đà tàmàːnin dà ukù, indà akà hamɓarar̃ dà gwamnatìn farar̃-hùːlaː ta Shùːgàbaː Sheːhù Shàːgàːri.
-1	tsoːhon	tsoːhoː	ADJ	_	_	2	mod	_	Gloss=XX
+1	tsoːhon	tsoːhoː	ADJ	_	_	2	mod	_	Gloss=old.Masc
 2	ministàn	ministàː	NOUN	_	Definite=Cons|Gender=Masc	6	subj	_	Gloss=minister.Masc.Cons
 3	sufùr̃in	sufùr̃iː	NOUN	_	Definite=Cons|Gender=Masc	2	mod	_	Gloss=transport.Masc.Cons
 4	na	na	PART	_	Case=Gen|PartType=Pred	3	mod	_	Gloss=Gen
@@ -68,7 +67,6 @@
 
 # sent_id = 01_Umaru_Dikko__4
 # text = shiː Ùmar̃ù Dikkò kuma ya tsallàkaː kân iyàːkaː ya shìga cikin ƙasar̃ Bìːni, ƙiːlà baːyan yaː ɓad dà kàmaː yaː yi shìgaː irìn ta fàːdaː.
-# text_en = 
 # text_ortho = Shiː Ùmar̃ù Dikkò kuma ya tsallàkaː kân iyàːkaː ya shìga cikin ƙasar̃ Bìːni, ƙiːlà baːyan yaː ɓad dà kàmaː yaː yi shìgaː irìn ta fàːdaː.
 1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	5	dislocated@subj	_	Gloss=XX
 2	Ùmar̃ù	Ùmar̃ù	PROPN	_	_	1	conj:appos	_	Gloss=Ùmar̃ù
@@ -100,7 +98,6 @@
 
 # sent_id = 01_Umaru_Dikko__5
 # text = baːyan yaː yi kwaːnaː ukù à can nèː ya zoː nân Landàn à jirgin samà.
-# text_en = 
 # text_ortho = Baːyan yaː yi kwaːnaː ukù à can nèː ya zoː nân Landàn à jirgin samà.
 1	baːyan	baːyan	SCONJ	_	_	0	root	_	Gloss=after
 2	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	comp:obj	_	Gloss=XX
@@ -121,7 +118,6 @@
 
 # sent_id = 01_Umaru_Dikko__6
 # text = baːyan shèːkaràː gùdaː nèː kuma àlꞌamàr̃in na Ùmar̃ù Dikkò ya kai gà wani saːbon matsayiː baːyân dà akà yi ƙòːƙarin saːcèː shi à Ingìlà.
-# text_en = 
 # text_ortho = Baːyan shèːkaràː  gùdaː nèː kuma àlꞌamàr̃in na Ùmar̃ù Dikkò ya kai gà wani saːbon matsayiː baːyân dà akà yi ƙòːƙarin saːcèː shi à Ingìlà.
 1	baːyan	baːyan	ADP	_	_	10	mod	_	Gloss=after
 2	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=year.Fem
@@ -151,7 +147,6 @@
 
 # sent_id = 01_Umaru_Dikko__7
 # text = waɗàndà sukà yi niyyàr̃ saːcèː shîn sun cafkèː shi à kân tiːtìn Landàn, sukà sâː masà ankwàː, sukà ɗuːràː masà ƙwàːyaː, sànnan sukà sâː shi à cikin wani kaːtòn àkwàːtì, sukà sâː ƙuːsàː sukà rufèː àkwàːtìn gam, sunàː shirin kai shì Nàːjeːr̃iyàː.
-# text_en = 
 # text_ortho = Waɗàndà sukà yi niyyàr̃ saːcèː shîn sun cafkèː shi à kân tiːtìn Landàn, sukà sâː masà ankwàː, sukà ɗuːràː masà ƙwàːyaː, sànnan sukà sâː shi à cikin wani kaːtòn àkwàːtì, sukà sâː ƙuːsàː sukà rufèː àkwàːtìn gam, sunàː shirin kai shì Nàːjeːr̃iyàː.
 1	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	7	subj	_	Gloss=that.Plur
 2	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	1	mod@relcl	_	Gloss=XX
@@ -204,7 +199,6 @@
 
 # sent_id = 01_Umaru_Dikko__8
 # text = à jìkin àkwàːtìn sai akà r̃ubùːtaː " zuwàː gà maꞌaikatar̃ har̃koːkin wàje, gwamnatìn tàːr̃ayyàr̃ Nàjeːr̃iyàː, Ìkko", wàːtòː indà zaːà kai shì kèːnan.
-# text_en = 
 # text_ortho = À jìkin àkwàːtìn sai akà r̃ubùːtaː ‘Zuwàː gà Maꞌaikatar̃ Har̃koːkin Wàje, Gwamnatìn Tàːr̃ayyàr̃ Nàjeːr̃iyàː, Ìkko’, wàːtòː indà zaː à kai shì kèːnan.
 1	à	à	ADP	_	_	5	mod	_	Gloss=at
 2	jìkin	jìkin	ADP	_	_	1	comp:obj	_	Gloss=XX
@@ -236,7 +230,6 @@
 
 # sent_id = 01_Umaru_Dikko__9
 # text = à wajen indà ya kàmaːtà à r̃ubùːtà wandà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà oːfishin jàkaːdàn Nàjeːr̃iyàː, " Landàn".
-# text_en = 
 # text_ortho = À wajen indà ya kàmaːtà à r̃ubùːtà wandà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà ꞌOːfishin Jàkaːdàn Nàjeːr̃iyàː, Landàn’.
 1	à	à	ADP	_	_	16	dislocated@top	_	Gloss=at
 2	wajen	wajen	ADP	_	_	1	comp:obj	_	Gloss=about
@@ -266,7 +259,6 @@
 
 # sent_id = 01_Umaru_Dikko__10
 # text = indà Allàh ya ɗigàː wà gàːrin Ùmar̃ù Dikkò noːnòː shiː nèː wannàn àkwàːtì dai bài sàːmi taːshìː samà à cikin jirgiː ba.
-# text_en = 
 # text_ortho = Indà Allàh ya ɗigàː wà gàːrin Ùmar̃ù Dikkò noːnòː shiː nèː wannàn àkwàːtì dai bài sàːmi taːshìː samà à cikin jirgiː ba.
 1	indà	indà	ADV	_	PronType=Rel	11	subj	_	Gloss=where
 2	Allàh	Allàh	PROPN	_	_	3	subj	_	Gloss=Allàh
@@ -294,7 +286,6 @@
 
 # sent_id = 01_Umaru_Dikko__11
 # text = à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː kuma wasu ꞌyan ƙasar̃ Ìsr̃aːꞌiːlà suː ukù, dà wani ɗan lèːƙen àsiːr̃ì mùtumìn Nàjeːr̃iyàː, sukà amsà lâifin ƙòːƙarin saːcè Ùːmar̃ù Dikkò.
-# text_en = 
 # text_ortho = À shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː kuma wasu ꞌyan ƙasar̃ Ìsr̃aːꞌiːlà suː ukù, dà wani ɗan lèːƙen àsiːr̃ì mùtumìn Nàjeːr̃iyàː, sukà amsà lâifin ƙòːƙarin saːcè Ùːmar̃ù Dikkò.
 1	à	à	ADP	_	_	28	mod	_	Gloss=at
 2	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	3	mod@desc	_	Gloss=year.Fem.Cons
@@ -334,7 +325,6 @@
 
 # sent_id = 01_Umaru_Dikko__12
 # text = Tùni akà yankèː musù hukuncìn daurìː mài tsawoː à kûr̃kukùː.
-# text_en = 
 # text_ortho = Tùni akà yankèː musù hukuncìn daurìː mài tsawoː à kûr̃kukùː.
 1	tùni	tùni	ADV	_	_	2	mod	_	Gloss=XX
 2	akà	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=XX
@@ -350,7 +340,6 @@
 
 # sent_id = 01_Umaru_Dikko__13a
 # text = à loːkàcin shàr̃iꞌàr̃, mài shàr̃iꞌàː yaː cêː an bayyànà Ùːmar̃ù Dikkò dà cêːwaː: “ wani ƙàːsur̃gumin ɓàraːwòː neː dà bà'à taɓà yîn irìnsà ba à duːniyàː. ".
-# text_en = 
 # text_ortho = À loːkàcin shàr̃iꞌàr̃, Mài Shàr̃iꞌàː yaː cêː an bayyànà Ùːmar̃ù Dikkò dà cêwaː: “Wani ƙàːsur̃gumin ɓàraːwòː neː dà bà à taɓà yîn irìnsà ba à duːniyàː.” Sai à watàn Jànair̃u na shekaràr̃ alif dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː Gwamnatìn Nàjeːr̃iyàː ta bùkàːci Bìr̃taːniyà tà miːƙàː matà shiː don à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː kân lâifin cîn hancìː dà kàrɓar̃ r̃ashawaː ta fâm miliyàn bàr̃kàtài.
 1	à	à	ADP	_	_	7	mod	_	Gloss=at
 2	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	Gloss=time.Masc.Cons
@@ -387,7 +376,6 @@
 
 # sent_id = 01_Umaru_Dikko__13b
 # text = sai à watàn Jànair̃u na shèːkaràr̃ alif dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː gwamnatìn Nàjeːr̃iyàː ta bùkàːci Bìr̃taːniyà tà miːƙàː matà shiː don à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː kân lâifin cîn hancìː dà kàrɓar̃ r̃ashawaː ta fâm miliyàn bàr̃kàtài.
-# text_en = 
 # text_ortho = À loːkàcin shàr̃iꞌàr̃, Mài Shàr̃iꞌàː yaː cêː an bayyànà Ùːmar̃ù Dikkò dà cêwaː: “Wani ƙàːsur̃gumin ɓàraːwòː neː dà bà à taɓà yîn irìnsà ba à duːniyàː.” Sai à watàn Jànair̃u na shekaràr̃ alif dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː Gwamnatìn Nàjeːr̃iyàː ta bùkàːci Bìr̃taːniyà tà miːƙàː matà shiː don à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː kân lâifin cîn hancìː dà kàrɓar̃ r̃ashawaː ta fâm miliyàn bàr̃kàtài.
 1	sai	sai	ADV	_	_	2	mod	_	Gloss=XX
 2	à	yà	AUX	_	Mood=Sub|Person=4	18	mod	_	Gloss=XX
@@ -436,7 +424,6 @@
 
 # sent_id = 01_Umaru_Dikko__14
 # text = tôː à duk loːkàcin zamansà à nân Bìr̃taːniyà dai, Ùːmar̃ù Dikkò yaː shaː naːnàːtà cêːwaː shiː bài sàːci kuɗiː nair̃àː miliyàn bìlaː adàdin ba ta hanyàr̃ gàdàː-gadar̃ shìnkaːfaː dà kuma duk sauran laifuffukàn dà akèː zàrgin yaː aikàtaː.
-# text_en = 
 # text_ortho = Tôː à duk loːkàcin zamansà à nân Bìr̃taːniyà dai, Ùːmar̃ù Dikkò yaː shaː naːnàːtà cêwaː shiː bài sàːci kuɗiː nair̃àː miliyàn bìlaː adàdin ba ta hanyàr̃ gàdàː-gadar̃ shìnkaːfaː dà kuma duk sauran laifuffukàn dà akèː zàrgin yaː aikàtaː.
 1	tôː	tôː	INTJ	_	_	14	discourse	_	Gloss=XX
 2	à	à	ADP	_	_	14	mod	_	Gloss=at
@@ -482,7 +469,6 @@
 
 # sent_id = 01_Umaru_Dikko__15
 # text = ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà, yanà mài cêwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː.
-# text_en = 
 # text_ortho = Ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà, yanà mài cêwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː.
 1	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 2	cèː	cêː	VERB	_	_	1	comp:aux	_	Gloss=say
@@ -519,7 +505,6 @@
 
 # sent_id = 01_Umaru_Dikko__16
 # text = à wàncan loːkàcîn dà ya kai ƙaːrar̃ neːman à baː shì mafakaː à nân Bìr̃tàniyà, Ùːmar̃ù Dikkò cêːwaː ya yi, " in dàː zân koːmàː Nàjeːr̃iyàː, jàmaꞌàː zaː'à taːràː sù yi kallon loːkàcîn dà zaː'à sâː soːjà sù bindìgeː ni. ".
-# text_en = 
 # text_ortho = À wàncan loːkàcîn dà ya kai ƙaːrar̃ neːman à baː shì mafakaː à nân Bìr̃tàniyà, Ùːmar̃ù Dikkò cêwaː ya yi, ‘In dàː zân koːmàː Nàjeːr̃iyàː, jàmaꞌàː zaː à taːràː sù yi kallon loːkàcîn dà zaː à sâː soːjà sù bindìgeː ni.’
 1	à	à	ADP	_	_	19	mod	_	Gloss=at
 2	wàncan	wàncan	DET	_	Gender=Masc|PronType=Dem	3	det	_	Gloss=XX
@@ -570,7 +555,6 @@
 
 # sent_id = 01_Umaru_Dikko__17
 # text = tòː àmmaː duk dà hakà, àkwai waɗàndà kèː ganin cêwaː bàː wannàn dàliːlìː neː ya sâː yakèː sôn yà yi zamansà à nân Bìr̃taːniyà ba.
-# text_en = 
 # text_ortho = Tòː àmmaː duk dà hakà, àkwai waɗàndà kèː ganin cêwaː bàː wannàn dàliː lìː neː ya sâː yakèː sôn yà yi zamansà à nân Bìr̃taːniyà ba.
 1	tòː	tòː	INTJ	_	_	7	discourse	_	Gloss=XX
 2	àmmaː	àmmaː	CCONJ	_	_	7	discourse	_	Gloss=XX
@@ -603,7 +587,6 @@
 
 # sent_id = 01_Umaru_Dikko__18
 # text = jàkaːdàn Nàjeːr̃iyàː à nân Landàn, Mr George Dove-Edwin, yaː fàďaː à bàːra cêːwaː zuːƙì-ta-Màlle cèː kawài dàliːlìn dà Ùːmar̃ù Dikkò kèː baːyâr̃waː cêːwaː ìdan yaː koːmàː Nàjeːr̃iyàː kashèː shi zaː'à yi.
-# text_en = 
 # text_ortho = Jàkaːdàn Nàjeːr̃iyàː à nân Landàn, Mr George Dove-Edwin, yaː fàďa à bàːra cêwaː zuːƙì-ta-Màlle cèː kawài dàliːlìn dà Ùːmar̃ù Dikkò kèː baːyâr̃waː cêwaː ìdan yaː koːmàː Nàjeːr̃iyàː kashèː shi zaː à yi.# text = Jàkaːdàn Nàjeːr̃iyàː à nân Landàn, Mr George Dove-Edwin, yaː fàďa à bàːra cêwaː zuːƙì-ta-Màlle cèː kawài dàliːlìn dà Ùːmar̃ù Dikkò kèː baːyâr̃waː cêwaː ìdan yaː koːmàː Nàjeːr̃iyàː kashèː shi zaː à yi.
 1	jàkaːdàn	jàkaːdàː	NOUN	_	Definite=Cons|Number=Plur	11	mod	_	Gloss=XX
 2	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	1	conj:appos	_	Gloss=Nigeria
@@ -642,7 +625,6 @@
 
 # sent_id = 01_Umaru_Dikko__19
 # text = hakà nan à bàːr̃a ɗîn wani lauyàː na maꞌaikatar̃ har̃koːkin cikin gidan Bìr̃taːniyà yaː gayàː wà Ùːmar̃ù Dikkò cêːwaː, " inàː jîn dai kaː tseːroː dàgà Nàjeːr̃iyàː neː bà wai don kanàː tsòːron zaː'à ƙuntàtaː makà ba, sai don kanàː tsòːron zaː'à gur̃faːnar̃ dà kai à gàban shàr̃iꞌàː kawài. ".
-# text_en = 
 # text_ortho = Hakà nan à bàːr̃a ɗîn wani lauyàː na Maꞌaikatar̃ Har̃koːkin Cikin Gidan Bìr̃taːniyà yaː gayàː wà Ùːmar̃ù Dikkò cêwaː, ‘Inàː jîn dai kaː tseːroː dàgà Nàjeːr̃iyàː neː bà wai don kanàː tsòːron zaː à ƙuntàtaː makà ba, sai don kanàː tsòːron zaː à gur̃faːnar̃ dà kai à gàban shàr̃iꞌàː kawài.’
 1	hakà	hakà	ADV	_	_	14	mod	_	Gloss=thus
 2	nan	nan	DET	_	Definite=Def|PronType=Dem	1	det	_	Gloss=XX
