@@ -31,7 +31,7 @@
 14	jàma'àr̃	jàma'àː	NOUN	_	Definite=Cons|Gender=Fem	13	comp:obj	_	Gloss=people.Fem.Cons
 15	sà	sà	PRON	_	Gender=Masc	14	mod@poss	_	Gloss=3Masc.Cons
 16	dà	dà	SCONJ	_	_	12	comp:obl	_	Gloss=COMP
-17	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	16	comp:obj	_	Gloss=XX
+17	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	16	comp:obj	_	Gloss=3Plur.Sub
 18	yi	yi	VERB	_	_	17	comp:aux	_	Gloss=do
 19	bìr̃is	bìr̃is	IDEO	_	Definite=Cons|Gender=Fem	18	comp:pred	_	Gloss=ignore
 20	dà	dà	ADP	_	_	18	comp:obl	_	Gloss=with
@@ -48,7 +48,7 @@
 31	zugà	zug-	VERB	_	_	30	mod	_	Gloss=incite
 32	àl'ummàr̃	àl'ummàː	NOUN	_	Definite=Cons|Gender=Fem	34	subj	_	Gloss=community.Fem.Cons
 33	Mùsùlmiː	mùsùlmiː	NOUN	_	_	32	mod	_	Gloss=Muslim.Plur
-34	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	31	comp:obj	_	Gloss=XX
+34	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	31	comp:obj	_	Gloss=3Plur.Sub
 35	ɗàuki	ɗauk-	VERB	_	_	34	comp:aux	_	Gloss=take
 36	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	37	det	_	Gloss=some.Plur.Spec
 37	màtàːkai	mataːkiː	NOUN	_	_	35	comp:obj	_	Gloss=step.Plur
@@ -204,10 +204,10 @@
 28	dukkàn	dukà	DET	_	PronType=Tot	29	det	_	Gloss=all
 29	mùsùlmiː	mùsùlmiː	NOUN	_	Gender=Masc	27	comp:obj	_	Gloss=muslim.Plur
 30	dà	dà	SCONJ	_	_	26	comp:obl	_	Gloss=COMP
-31	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	30	comp:obj	_	Gloss=XX
+31	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	30	comp:obj	_	Gloss=3Plur.Sub
 32	taːshì	taːs-	VERB	_	_	31	comp:aux	_	Gloss=get_up
 33	tsàye	tsay-	VERB	_	ExtPos=ADV|VerbForm=Stat	32	mod	_	Gloss=stand.Stat
-34	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	31	parataxis@conj	_	Gloss=XX
+34	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	31	parataxis@conj	_	Gloss=3Plur.Sub
 35	bayyànà	bayyan-	VERB	_	_	34	comp:aux	_	Gloss=explain
 36-37	r̃a'àyinsù	_	_	_	_	_	_	_	_
 36	r̃a'àyin	r̃a'àyin	NOUN	_	Gender=Masc	35	comp:obj	_	Gloss=viewpoint.Masc.Cons
@@ -279,7 +279,7 @@
 8	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	7	comp:obj	_	Gloss=Nigeria
 9	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	4	comp:obj	_	Gloss=3Plur.Prog
 10	sôː	soː	VERB	_	ExtPos=NOUN|Gender=Masc	9	comp:aux	_	Gloss=want.Vnoun.Masc
-11	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3|PronType=Prs	10	comp:obj	_	Gloss=XX
+11	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	10	comp:obj	_	Gloss=3Plur.Sub
 12	nuːnà	nuːn-	VERB	_	_	11	comp:aux	_	Gloss=show
 13	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	12	comp:obj	_	Gloss=lack.Vnoun.Masc.Cons
 14	goːyon	goːy-	VERB	_	Definite=Cons|Number=Plur	13	comp:obj	_	Gloss=support.Vnoun.Masc.Cons
@@ -415,7 +415,7 @@
 21	Kanòː	Kanòː	PROPN	_	_	20	comp:obj	_	Gloss=Kano|SpaceAfter=No
 22	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 23	don	don	SCONJ	_	_	14	mod	_	Gloss=so_that
-24	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	23	comp:obj	_	Gloss=XX
+24	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	23	comp:obj	_	Gloss=3Plur.Sub
 25	hanà	han-	VERB	_	_	24	comp:aux	_	Gloss=prevent
 26	ɗàːlìban	ɗaːlìbiː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	28	subj	_	Gloss=student.Plur.Cons
 27	jaːmi'àr̃	jaːmi'àː	NOUN	_	Definite=Def|Gender=Fem	26	mod	_	Gloss=university.Fem.Def
@@ -574,14 +574,14 @@
 19	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 20	tòː	tòː	INTJ	_	_	32	discourse	_	Gloss=XX
 21	àmmaː	àmmaː	CCONJ	_	_	32	cc	_	Gloss=but
-22	kiràn	kir-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	32	subj	_	Gloss=call.Vnoun.Masc.Cons
+22	kiràn	kir-	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	32	subj	_	Gloss=call.Vnoun.Masc.Def
 23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=COMP|wordform=da
 24	Sarkin	sarkiː	NOUN	_	_	26	subj	_	Gloss=leader.Masc.Cons
 25	Mùsùlmiː	mùsùlmiː	PROPN	_	_	24	mod	_	Gloss=muslim.Plur
 26	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Yes	23	comp:obj	_	Gloss=3Masc.Perf.Rel
 27	yi	yi	VERB	_	_	26	comp:aux	_	Gloss=XX
 28	na	na	PART	_	_	22	mod	_	Gloss=Gen.Masc
-29	à	yà	AUX	_	Mood=Sub|Person=4	28	comp:obj	_	Gloss=XX
+29	à	yà	AUX	_	Mood=Sub|Person=4	28	comp:obj	_	Gloss=4.Sub
 30	zaunàː	zaun-	VERB	_	_	29	comp:aux	_	Gloss=sit
 31	laːfiyàː	laːfiyàː	NOUN	_	Definite=Ind	30	comp:obj	_	Gloss=health.Fem
 32	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	conj:coord	_	Gloss=3Masc.Perf
