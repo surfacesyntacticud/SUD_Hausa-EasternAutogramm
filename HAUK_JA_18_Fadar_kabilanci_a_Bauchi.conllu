@@ -557,11 +557,11 @@
 12	tàːshe-tàːshen	tàːshe-tàːshen	ADJ	_	Definite=Cons|Number=Plur	10	comp:pred	_	Gloss=XX
 13	hankulàː	hankulàː	NOUN	_	_	12	mod	_	Gloss=XX
 14	à	à	ADP	_	_	10	mod	_	Gloss=at
-15	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:obj	_	Gloss=city.Masc.Cons
-16	Kanòː	Kanòː	PROPN	_	_	15	mod	_	Gloss=Kano|SpaceAfter=No
-17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-18	indà	indà	ADV	_	PronType=Rel	20	mod	_	Gloss=where
-19	akà	nàː	AUX	_	Aspect=Prog|Person=4	12	mod@relcl	_	Gloss=XX
+15	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	16	mod@desc	_	Gloss=city.Masc.Cons
+16	Kanòː	Kanòː	PROPN	_	_	14	comp:obj	_	Gloss=Kano|SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
+18	indà	indà	SCONJ	_	PronType=Rel	16	mod@relcl	_	Gloss=where
+19	akà	nàː	AUX	_	Aspect=Prog|Person=4	18	comp:obj	_	Gloss=XX
 20	kashè	kas-	VERB	_	_	19	comp:aux	_	Gloss=kill
 21	à	à	ADP	_	_	23	mod	_	Gloss=at
 22	ƙallà	ƙallà	ADV	_	_	21	comp:obj	_	Gloss=XX

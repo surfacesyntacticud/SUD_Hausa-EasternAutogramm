@@ -622,7 +622,7 @@
 # text = yanàː mài cêːwaː mânyan màːsu fataucìn miyàːgun ƙwaːyoːyiː nèː kawài sukà ɓaːtà suːnansà .
 1	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=XX
 2	mài	mài	PART	_	Gender=Masc|PartType=Der	1	comp:pred	_	Gloss=owner/doer_of.Sing
-3	cêːwaː	cê	VERB	_	ExtPos=NOUN|Gender=Fem	2	comp:obj	_	Gloss=XX|wordform=cêwaː
+3	cêːwaː	cê	VERB	_	ExtPos=NOUN|Gender=Fem	2	comp:obj	_	Gloss=say.Vnoun.Fem|wordform=cêwaː
 4	mânyan	bàbba	ADJ	_	Definite=Cons|Number=Plur	5	mod	_	Gloss=big.Plur.Cons
 5	màːsu	mài	PART	_	Number=Plur|PartType=Der	3	comp:obj	_	Gloss=owner/doer_of.Plur
 6	fataucìn	fataucìː	NOUN	_	Definite=Cons|Gender=Masc	5	compound	_	Gloss=trade.Masc.Cons
@@ -768,9 +768,9 @@
 8	uwargidan	uwargidaː	NOUN	_	Definite=Cons	7	mod	_	Gloss=wife.Fem.Cons
 9	Mr	Mr	PROPN	_	_	10	mod@desc	_	Gloss=Mr
 10	Oyakhilome	Oyakhilome	PROPN	_	_	8	mod	_	Gloss=Oyakhilome|SpaceAfter=No
-11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
-12	indà	indà	ADV	_	PronType=Rel	14	mod	_	Gloss=where
-13	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	2	mod@relcl	_	Gloss=XX
+11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
+12	indà	indà	ADV	_	PronType=Rel	5	mod	_	Gloss=where
+13	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	12	mod@relcl	_	Gloss=XX
 14	yi	yi	VERB	_	_	13	comp:aux	_	Gloss=do
 15	tir̃	tir̃	IDEO	_	_	14	comp:pred	_	Gloss=reject
 16	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=XX
