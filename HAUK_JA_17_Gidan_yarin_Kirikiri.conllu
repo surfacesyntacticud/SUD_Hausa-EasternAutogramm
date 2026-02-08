@@ -100,7 +100,7 @@
 38	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	37	comp:obj	_	Gloss=XX
 39	nèː	neː	PART	_	_	17	parataxis@conj	_	Gloss=XX
 40	à	à	ADP	_	_	36	comp:obl	_	Gloss=at
-41	gàban	gàban	ADP	_	_	40	comp.obj	_	Gloss=front
+41	gàban	gàban	ADP	_	_	40	comp:obj	_	Gloss=front
 42	koːtù	koːtù	PRON	_	_	41	mod	_	Gloss=XX|SpaceAfter=No
 43	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
@@ -587,8 +587,8 @@
 10	cêːwaː	cêː	VERB	_	Gender=Fem	9	comp:obj	_	Gloss=say.Vnoun.Fem|wordform=cêwaː
 11	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	15	comp:pred	_	Gloss=Gen.Fem
 12	Allàh	Allàh	PROPN	_	_	11	comp:obj	_	Gloss=Allah
-13	dà	dà	ADP	_	_	14	cc	_	Gloss=XX
-14	Ànnabì	Ànnabì	PROPN	_	_	11	comp:obj	_	Gloss=Prophet
+13	dà	dà	CCONJ	_	_	14	cc	_	Gloss=XX
+14	Ànnabì	Ànnabì	PROPN	_	_	12	conj:coord	_	Gloss=Prophet
 15	ceː	ceː	AUX	_	Gender=Fem	10	comp:obj	_	Gloss=XX|SpaceAfter=No
 16	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 17	àmmaː	àmmaː	CCONJ	_	_	19	cc	_	Gloss=XX
