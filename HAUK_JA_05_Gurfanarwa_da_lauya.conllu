@@ -33,8 +33,8 @@
 # sent_id = 05_Gurfanarwa_da_lauya__3
 # text = Tanàː cîː gàba dà shirìn baːyar̃ dà mulkìː gà farar̃-hùːlaː, kuma tanàː tàːƙamaː dà irìn abuːbuwàn dà ta yi danganèː dà kaːrè haƙƙìn ꞌyan ƙasâr̃.
 1	Tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	Gloss=XX
-2	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc	1	comp:aux	_	Gloss=consume.Vnoun.Masc
-3	gàba	gàba	ADV	_	_	2	mod	_	Gloss=front
+2	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc	1	comp:aux	_	Gloss=proceed.Vnoun.Masc
+3	gàba	gàba	ADV	_	_	2	mod	_	Gloss=in_front
 4	dà	dà	ADP	_	_	2	comp:obl	_	Gloss=XX
 5	shirìn	shiry-	VERB	_	Definite=Cons|Gender=Masc	4	comp:obj	_	Gloss=prepare.Vnoun.Masc.Cons
 6	baːyar̃	baː	VERB	_	Definite=Cons|Gender=Fem	5	comp:obj	_	Gloss=give.Cau
@@ -66,8 +66,8 @@
 2	gàː	gàː	PART	_	_	4	discourse	_	Gloss=XX
 3	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	2	subj	_	Gloss=XX
 4	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=XX
-5	ci	ci	VERB	_	_	4	comp:aux	_	Gloss=XX
-6	gàba	gàba	ADV	_	_	5	mod	_	Gloss=front
+5	ci	ci	VERB	_	_	4	comp:aux	_	Gloss=proceed
+6	gàba	gàba	ADV	_	_	5	mod	_	Gloss=in_front
 7	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=XX
 8	aikìː	aikìː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=work.Masc
 9	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=XX
@@ -127,8 +127,8 @@
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 3	dà	dà	ADP	_	_	1	comp:pred	_	Gloss=XX
 4	iːkòn	iːkòː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=XX
-5	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	mod	_	Gloss=consume.Vnoun.Masc
-6	gàba	gàba	ADV	_	_	5	mod	_	Gloss=front
+5	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	mod	_	Gloss=proceed.Vnoun.Masc
+6	gàba	gàba	ADV	_	_	5	mod	_	Gloss=in_front
 7	dà	dà	ADP	_	_	5	comp:obj	_	Gloss=XX
 8	tsarè	tsar-	VERB	_	_	7	comp:obj	_	Gloss=XX
 9	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	8	comp:obj	_	Gloss=person.Masc.Def
@@ -247,7 +247,7 @@
 33	àngùlu	àngùlu	NOUN	_	Gender=Masc	32	mod	_	Gloss=XX
 34	à	à	ADP	_	_	31	comp:obl	_	Gloss=at
 35	shirìn	shiry-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	34	comp:obj	_	Gloss=prepare.Vnoun.Masc.Cons
-36	miːƙà	miːƙ-	PRON	_	Number=Plur	35	comp:obj	_	Gloss=XX
+36	miːƙà	miːƙ-	VERB	_	Number=Plur	35	comp:obj	_	Gloss=XX
 37	mulkìː	mulkìː	NOUN	_	Gender=Masc	36	comp:obj	_	Gloss=XX
 38	gà	gà	ADP	_	_	36	comp:obl	_	Gloss=to
 39	farar̃-hùːlaː	farar̃-hùːlaː	NOUN	_	_	38	comp:obj	_	Gloss=XX
@@ -301,7 +301,7 @@
 # sent_id = 05_Gurfanarwa_da_lauya__13
 # text = À cikintà kuma yaː sòːki manufar̃ tattalin ar̃zìkin Gwamnatì, yanàː cêːwaː tanàː ta laːlàːtà haːlin ràːyuwar̃ maꞌàikàtan Nàːjeːr̃iyàː.
 1	À	à	ADP	_	_	5	mod	_	Gloss=XX
-2	cikin	cikiːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	1	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=cikintà
+2	cikin	cikin	ADP	_	_	1	comp:obj	_	Gloss=inside|SpaceAfter=No
 3	tà	tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	2	comp:obj	_	Gloss=3Fem.Gen
 4	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 5	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
@@ -312,7 +312,7 @@
 10	Gwamnatì	Gwamnatì	PROPN	_	_	9	mod	_	Gloss=Gwamnatì|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	5	parataxis@conj	_	Gloss=XX
-13	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem	12	comp:aux	_	Gloss=XX
+13	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem	12	comp:aux	_	Gloss=say.Vnoun.Fem
 14	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	13	comp:obj	_	Gloss=XX
 15	ta	ta	PART	_	Aspect=Iter	14	compound:prt	_	Gloss=XX
 16	laːlàːtà	laːlà	VERB	_	Gender=Fem	14	comp:aux	_	Gloss=XX
@@ -329,7 +329,7 @@
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 4	ƙaːràː	ƙaːr-	VERB	_	_	3	comp:aux	_	Gloss=increase
 5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=XX
-6	cêːwaː	cêː	VERB	_	Gender=Fem	5	comp:obj	_	Gloss=XX
+6	cêːwaː	cêː	VERB	_	Gender=Fem	5	comp:obj	_	Gloss=say.Vnoun.Fem
 7	ìdan	ìdan	SCONJ	_	_	18	mod	_	Gloss=if
 8	har̃	har̃	ADV	_	Definite=Cons|Gender=Fem	9	mod	_	Gloss=XX
 9	akà	nàː	AUX	_	Aspect=Prog|Person=4	7	comp:obj	_	Gloss=XX
@@ -421,8 +421,8 @@
 7	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	6	comp:obj	_	Gloss=XX
 8	yi	yi	VERB	_	_	7	comp:aux	_	Gloss=do
 9	niyyàr̃	niyyàː	NOUN	_	Gender=Fem	8	comp:pred	_	Gloss=XX
-10	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	mod	_	Gloss=consume.Vnoun.Masc
-11	gàba	gàba	ADV	_	_	10	mod	_	Gloss=front
+10	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	mod	_	Gloss=proceed.Vnoun.Masc
+11	gàba	gàba	ADV	_	_	10	mod	_	Gloss=in_front
 12	dà	dà	ADP	_	_	10	comp:obl	_	Gloss=XX
 13	tabbatar̃	tabbataː	VERB	_	Definite=Cons|Gender=Fem	12	comp:obj	_	Gloss=XX
 14	dà	dà	ADP	_	_	13	comp:obl	_	Gloss=XX
