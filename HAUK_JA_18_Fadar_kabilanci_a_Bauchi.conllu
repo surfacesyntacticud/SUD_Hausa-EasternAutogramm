@@ -90,7 +90,7 @@
 16	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	Gloss=there_is
 17	àlàːmun	àlàːmuː	NOUN	_	Definite=Cons|Gender=Masc	16	subj	_	Gloss=XX
 18	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	17	mod	_	Gloss=lack.Vnoun.Masc.Cons
-19	kwànciyar̃	kwant-	VERB	_	Gender=Fem	18	comp.obj	_	Gloss=lie.Vnoun.Fem.Cons
+19	kwànciyar̃	kwant-	VERB	_	Gender=Fem	18	comp:obj	_	Gloss=lie.Vnoun.Fem.Cons
 20	hankàliː	hankàliː	NOUN	_	Gender=Masc	19	mod	_	Gloss=mind.Masc
 21	sabòːdà	sabòːdà	SCONJ	_	_	16	mod	_	Gloss=because
 22	jiyà	jiyà	ADV	_	_	28	parataxis	_	Gloss=yesterday
@@ -190,7 +190,7 @@
 13	nuːnà	nuːn-	VERB	_	_	12	compound	_	Gloss=show
 14	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	Gloss=type.Masc.Cons
 15	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	14	mod	_	Gloss=lack.Vnoun.Masc.Cons
-16	jìtuwar̃	jit-	NOUN	_	Definite=Cons|Number=Plur	15	comp.obj	_	Gloss=tolerate.Vnoun.Fem.Cons
+16	jìtuwar̃	jit-	NOUN	_	Definite=Cons|Number=Plur	15	comp:obj	_	Gloss=tolerate.Vnoun.Fem.Cons
 17	àddiːnìː	àddiːnìː	NOUN	_	Gender=Masc	16	mod	_	Gloss=religion.Masc
 18	à	à	ADP	_	_	14	mod	_	Gloss=at
 19	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	18	comp:obj	_	Gloss=Nigeria
@@ -303,7 +303,7 @@
 2	jàːr̃ìːdun	jàːr̃iːdàː	NOUN	_	Definite=Cons|Number=Plur	1	compound	_	Gloss=newspaper.Plur.Cons
 3	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	1	mod	_	Gloss=Nigeria
 4	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
-5	kèː	keː	AUX	_	_	4	comp:aux	_	Gloss=Prog.Rel
+5	kèː	keː	AUX	_	_	4	comp:obj	_	Gloss=Prog.Rel
 6	Baucîn	Baucîn	PROPN	_	Definite=Def	5	comp:pred	_	Gloss=Bauchi.Def
 7	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 8	cêː	cêː	VERB	_	_	7	comp:aux	_	Gloss=say
@@ -317,7 +317,7 @@
 16	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	15	comp:obj	_	Gloss=Muslim.Plur
 17	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	conj:appos	_	Gloss=XX
 18	fìye	fi	VERB	_	ExtPos=ADP|VerbForm=Stat	17	mod	_	Gloss=exceed.Stat|Idiom=Yes
-19	dà	dà	ADP	_	_	18	comp.obl	_	Gloss=with|InIdiom=Yes
+19	dà	dà	ADP	_	_	18	comp:obl	_	Gloss=with|InIdiom=Yes
 20	ɗàriː	ɗàriː	NUM	_	Gender=Fem	19	comp:obj	_	Gloss=hundred.Fem
 21	dà	dà	CCONJ	_	_	20	cc	_	Gloss=XX
 22	àshìr̃in	àshìr̃in	NUM	_	_	20	conj:coord	_	Gloss=twenty|SpaceAfter=No
@@ -419,7 +419,7 @@
 2	maː	maː	PART	_	_	1	discourse@top	_	Gloss=XX
 3	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyhow
 4	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	37	subj	_	Gloss=lack.Vnoun.Masc.Cons
-5	jìtuwar̃	jit-	NOUN	_	_	4	comp.obj	_	Gloss=tolerate.Vnoun.Fem.Cons
+5	jìtuwar̃	jit-	NOUN	_	_	4	comp:obj	_	Gloss=tolerate.Vnoun.Fem.Cons
 6	àddiːnìː	àddiːnìː	NOUN	_	Gender=Fem	5	mod	_	Gloss=religion.Masc
 7	tsàkaːnin	tsàkaːnin	ADP	_	_	4	mod	_	Gloss=between
 8	'yan	ɗaː	ADJ	_	Definite=Cons|Number=Plur	7	comp:obj	_	Gloss=child.Plur.Cons
@@ -493,7 +493,7 @@
 35	ukù	yà	NUM	_	Number=Plur|Person=3	30	conj:coord	_	Gloss=three
 36	bìsàː	bìsàː	ADP	_	Voice=Cau	6	comp:obl	_	Gloss=according_to
 37	rashìn	ras-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	36	comp:obj	_	Gloss=lack.Vnoun.Masc.Cons
-38	jìtuwar̃	jit-	NOUN	_	Definite=Cons|Gender=Fem	37	comp.obj	_	Gloss=tolerate.Vnoun.Fem.Cons
+38	jìtuwar̃	jit-	NOUN	_	Definite=Cons|Gender=Fem	37	comp:obj	_	Gloss=tolerate.Vnoun.Fem.Cons
 39	àddiːnìː	àddiːnìː	NOUN	_	Gender=Masc	38	mod	_	Gloss=religion.Masc|SpaceAfter=No
 40	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
@@ -595,7 +595,7 @@
 13	don	don	SCONJ	_	_	11	mod	_	Gloss=so_that
 14	nuːnà	nuːn-	VERB	_	_	13	comp:obj	_	Gloss=show
 15	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	14	comp:obj	_	Gloss=lack.Vnoun.Masc.Cons
-16	amìncêːwaː	amint-	NOUN	_	Gender=Fem	15	comp.obj	_	Gloss=agree.Vnoun.Fem
+16	amìncêːwaː	amint-	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=agree.Vnoun.Fem
 17	dà	dà	CCONJ	_	_	18	cc	_	Gloss=XX
 18	zìyaːr̃àr̃	zìyaːr̃àː	NOUN	_	Definite=Def|Gender=Fem	16	conj:coord	_	Gloss=visit.Fem.Def
 19	dà	dà	ADP	_	_	18	mod@relcl	_	Gloss=XX

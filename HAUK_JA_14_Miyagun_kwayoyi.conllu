@@ -105,7 +105,7 @@
 19	kasâr̃	kasâr̃	NOUN	_	Gender=Fem	20	comp:pred	_	Gloss=XX
 20	ceː	neː	AUX	_	Gender=Fem	18	comp:obj	_	Gloss=XX
 21	ta	ta	PART	_	PartType=Pred	20	dislocated@comp	_	Gloss=Gen.Fem
-22	ukù	ukù	NUM	_	_	21	comp:aux	_	Gloss=three
+22	ukù	ukù	NUM	_	_	21	comp:obj	_	Gloss=three
 23	à	à	ADP	_	_	22	mod	_	Gloss=at
 24	duːniːyàː	duːniːyàː	NOUN	_	Gender=Fem	23	comp:obj	_	Gloss=XX
 25	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	19	mod@relcl	_	Gloss=that.Fem|wordform=wadda
@@ -350,7 +350,7 @@
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 9	tòː	tòː	INTJ	_	_	10	discourse	_	Gloss=XX
 10	sukàn	kàn	AUX	_	Aspect=Hab|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Hab
-11	iyà	iy-	VERB	_	_	10	comp:aux	_	Gloss=XX
+11	iyà	iy-	VERB	_	_	10	comp:aux	_	Gloss=be_able_to
 12	kaːsayar̃	kaːsay-	VERB	_	_	11	comp:obj	_	Gloss=excrete.Cau
 13	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=XX
 14	hoːdàr̃	hoːdàː	NOUN	_	Gender=Fem	13	comp:obj	_	Gloss=powder.Fem.Cons
@@ -634,7 +634,7 @@
 12	ɓaːtà	ɓaːt-	VERB	_	_	11	comp:aux	_	Gloss=spoil
 13	suːnan	suːnaː	NOUN	_	_	12	comp:obj	_	Gloss=name.Masc.Cons|SpaceAfter=No|wordform=suːnansà
 14	sà	sà	PRON	_	_	13	mod@poss	_	Gloss=3Masc.Gen
-15	.	.	PUNCT	_	_	1	_	_	Gloss=PUNCT
+15	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 14_Miyagun_kwayoyi__19_20
 # text = Tòː sai dai Mr Oyakhilome yaː cêː baːbù shakkàː yanàː dà dàngàntakàr̃ ƙut dà ƙut dà ita màːtâr̃, wàːtòː Jennifer Madike, kuma wasu hoːtunàː dà ta ɗaukàː tàːre dà shiː à wani bìkiː, suː maː bâː shakkàː sun tabbatar̃ dà hakà.

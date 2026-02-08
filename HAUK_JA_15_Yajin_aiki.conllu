@@ -25,7 +25,7 @@
 10	nuːnà	nuːn-	VERB	_	_	9	comp:aux	_	Gloss=show
 11	saːmùn	saːmùː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:obj	_	Gloss=get.Vnoun.Masc.Cons
 12	goːyon	goːy-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:obj	_	Gloss=support.Vnoun.Masc.Cons
-13	baːyaː	baːyaː	NOUN	_	_	12	comp.obj	_	Gloss=back.Masc
+13	baːyaː	baːyaː	NOUN	_	_	12	comp:obj	_	Gloss=back.Masc
 14	dàgà	dàgà	ADP	_	_	11	comp:obl	_	Gloss=from
 15	sâssaː	saːshìː	NOUN	_	_	14	comp:obj	_	Gloss=district.Plur
 16	dà	dà	ADP	_	_	15	mod	_	Gloss=with
@@ -310,7 +310,7 @@
 31	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	21	comp:obj	_	Gloss=XX
 32	cêː	cêː	VERB	_	_	31	comp:aux	_	Gloss=say
 33	fìye	fi	VERB	_	ExtPos=ADP|VerbForm=Stat	38	subj	_	Gloss=exceed.Stat|Idiom=Yes
-34	dà	dà	ADP	_	_	33	comp.obl	_	Gloss=with|InIdiom=Yes
+34	dà	dà	ADP	_	_	33	comp:obl	_	Gloss=with|InIdiom=Yes
 35	mutàneː	ùtûm	NOUN	_	Number=Plur	34	comp:obj	_	Gloss=XX
 36	goːmà	goːmà	NUM	_	_	35	mod:num	_	Gloss=ten
 37	neː	neː	AUX	_	Gender=Masc|Number=Plur	36	discourse@foc	_	Gloss=XX
@@ -352,7 +352,7 @@
 30	sàːmu	saːm-	VERB	_	_	29	comp:aux	_	Gloss=get
 31	daːmar̃	daːmaː	NOUN	_	Definite=Cons|Gender=Fem	30	comp:obj	_	Gloss=opportunity.Fem.Cons
 32	kafà	kaf-	VERB	_	Aspect=Perf|Gender=Masc|Person=2	31	mod	_	Gloss=set_up
-33	tsaːrìː	tsaːrìː	NOUN	_	Gender=Masc	32	comp:aux	_	Gloss=system.Masc
+33	tsaːrìː	tsaːrìː	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=system.Masc
 34	mài	mài	PART	_	Number=Sing|PartType=Der	33	mod	_	Gloss=owner/doer_of.Sing
 35	jàm'ìyyuː	jàm'iyyàː	NOUN	_	Number=Plur	34	compound	_	Gloss=party.Plur
 36	dà	dà	ADP	_	ExtPos=ADJ	35	mod	_	Gloss=with|Idiom=Yes
@@ -501,7 +501,7 @@
 34	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	33	mod	_	Gloss=quantity.Masc.Cons
 35	wànzuwar̃	wanz-	VERB	_	Definite=Cons|Gender=Fem	34	mod	_	Gloss=occur.Vnoun.Fem.Cons
 36	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	35	mod	_	Gloss=lack.Vnoun.Masc.Cons
-37	amìncêwaː	amint-	VERB	_	_	36	comp.obj	_	Gloss=agree.Vnoun.Fem
+37	amìncêwaː	amint-	VERB	_	_	36	comp:obj	_	Gloss=agree.Vnoun.Fem
 38	dà	dà	CCONJ	_	_	37	comp:obl	_	Gloss=XX
 39	manufoːfin	manufaː	NOUN	_	Definite=Cons|Number=Plur	38	comp:obj	_	Gloss=policy.Plur.Cons
 40	tattalin	tattaliː	NOUN	_	Definite=Cons|Gender=Masc	39	mod	_	Gloss=planning.Masc.Cons
@@ -680,7 +680,7 @@
 17	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=XX
 18	nuːnà	nuːn-	VERB	_	_	17	comp:aux	_	Gloss=show
 19	rashìn	ras-	VERB	_	Definite=Cons	18	comp:obj	_	Gloss=lack.Vnoun.Masc.Cons
-20	amìncêwaː	amint-	VERB	_	_	19	comp.obj	_	Gloss=agree.Vnoun.Fem
+20	amìncêwaː	amint-	VERB	_	_	19	comp:obj	_	Gloss=agree.Vnoun.Fem
 21	dà	dà	CCONJ	_	_	20	comp:obl	_	Gloss=XX
 22	mulkìn	mulkìː	NOUN	_	Definite=Def	21	comp:obj	_	Gloss=government
 23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=COMP
