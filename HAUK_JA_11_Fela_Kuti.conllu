@@ -88,7 +88,7 @@
 16	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	17	mod@desc	_	Gloss=year.Fem.Cons
 17	alìf	alìf	NUM	_	_	15	comp:obj	_	Gloss=one_thousand
 18	dà	dà	CCONJ	_	_	19	cc	_	Gloss=XX
-19	ɗàriː	ɗàriː	NOUN	_	Gender=Fem	17	conj:coord	_	Gloss=hundred.Fem
+19	ɗàriː	ɗàriː	NUM	_	Gender=Fem	17	conj:coord	_	Gloss=hundred.Fem
 20	tar̃à	tar̃à	NUM	_	_	19	mod:num	_	Gloss=nine
 21	dà	dà	CCONJ	_	_	22	cc	_	Gloss=XX
 22	tàlàːtin	tàlàːtin	NUM	_	_	19	conj:coord	_	Gloss=thirty
@@ -150,7 +150,7 @@
 3	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	2	comp:obj	_	Gloss=time.Masc.Def
 4	Fela	Fela	PROPN	_	_	5	subj	_	Gloss=Fela
 5	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
-6	iyà	iy-	VERB	_	_	5	comp:aux	_	Gloss=XX
+6	iyà	iy-	VERB	_	_	5	comp:aux	_	Gloss=be_able_to
 7	kaɗà	kaɗ-	VERB	_	_	6	comp:obj	_	Gloss=beat
 8	"	"	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 9	piano	piano	NOUN	_	_	7	comp:obj	_	Gloss=piano
@@ -279,12 +279,12 @@
 7	maː	maː	PART	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	6	discourse@top	_	Gloss=XX
 8	naː	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=1	6	comp:obj	_	Gloss=XX
 9	fi	fi	VERB	_	_	8	comp:aux	_	Gloss=XX
-10	iyà	iy-	VERB	_	_	9	comp:obj	_	Gloss=XX
+10	iyà	iy-	VERB	_	_	9	comp:obj	_	Gloss=be_able_to
 11	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=use.Masc
 12	dà	dà	ADP	_	_	11	comp:obl	_	Gloss=XX
 13	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	12	comp:obj	_	Gloss=XX
 14	fìye	fi	VERB	_	ExtPos=ADP|VerbForm=Stat	10	mod	_	Gloss=exceed.Stat|Idiom=Yes
-15	dà	dà	ADP	_	_	14	comp.obl	_	Gloss=with|InIdiom=Yes
+15	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=with|InIdiom=Yes
 16	bàdùːjalaː	bàdùːja	NOUN	_	Gender=Fem	15	comp:obl	_	Gloss=bugle.Fem
 17	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 18	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -352,7 +352,7 @@
 5	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	6	mod@desc	_	Gloss=year.Fem.Cons
 6	alìf	alìf	NUM	_	_	4	comp:obj	_	Gloss=one_thousand
 7	dà	dà	CCONJ	_	_	8	cc	_	Gloss=XX
-8	ɗàriː	ɗàriː	NOUN	_	Gender=Fem|Number=Plur	6	conj:coord	_	Gloss=hundred.Fem
+8	ɗàriː	ɗàriː	NUM	_	Gender=Fem|Number=Plur	6	conj:coord	_	Gloss=hundred.Fem
 9	tar̃à	tar̃à	NUM	_	_	8	mod:num	_	Gloss=nine
 10	dà	dà	CCONJ	_	_	11	cc	_	Gloss=XX
 11	hàmsin	hàmsiː	NOUN	_	Definite=Cons|Gender=Masc	8	conj:coord	_	Gloss=XX
@@ -420,7 +420,7 @@
 14	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	15	mod@desc	_	Gloss=year.Fem.Cons
 15	alìf	alìf	NUM	_	_	13	comp:obj	_	Gloss=one_thousand
 16	dà	dà	CCONJ	_	_	17	cc	_	Gloss=XX
-17	ɗàriː	ɗàriː	NOUN	_	Gender=Fem	15	conj:coord	_	Gloss=hundred.Fem
+17	ɗàriː	ɗàriː	NUM	_	Gender=Fem	15	conj:coord	_	Gloss=hundred.Fem
 18	tar̃à	tar̃à	NUM	_	_	17	mod:num	_	Gloss=nine
 19	dà	dà	CCONJ	_	_	20	cc	_	Gloss=XX
 20	sìttin	sìttin	NUM	_	_	17	conj:coord	_	Gloss=XX
@@ -446,7 +446,7 @@
 40	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	39	comp:obj	_	Gloss=do.Vnoun.Masc.Cons
 41	fàyàːfàyai	faifai	NOUN	_	_	40	comp:pred	_	Gloss=record.Plur
 42	irìː-irìː	irìː-irìː	ADJ	_	Gender=Masc	41	mod	_	Gloss=various
-43	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	41	@relcl	_	Gloss=that.Plur|wordform=wadandal
+43	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	41	mod@relcl	_	Gloss=that.Plur|wordform=wadandal
 44	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	43	comp:obj	_	Gloss=XX
 45	sâː	sâː	VERB	_	_	44	comp:aux	_	Gloss=put
 46	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	45	comp:obj	_	Gloss=XX
@@ -549,14 +549,14 @@
 2	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	3	mod@desc	_	Gloss=year.Fem.Cons
 3	alìf	alìf	NUM	_	_	1	comp:obj	_	Gloss=one_thousand
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=XX
-5	ɗàriː	ɗàriː	NOUN	_	Gender=Fem|Number=Plur	3	conj:coord	_	Gloss=hundred.Fem
+5	ɗàriː	ɗàriː	NUM	_	Gender=Fem|Number=Plur	3	conj:coord	_	Gloss=hundred.Fem
 6	tar̃à	tar̃à	NUM	_	_	5	mod:num	_	Gloss=nine
 7	dà	dà	CCONJ	_	_	8	cc	_	Gloss=XX
 8	sàbà'in	sàbà'in	NUM	_	_	5	conj:coord	_	Gloss=seventy
 9	dà	dà	ADP	_	_	8	cc	_	Gloss=XX
 10	bakwài	bakwài	NUM	_	_	8	conj:coord	_	Gloss=seven
 11	neː	neː	PART	_	Gender=Masc	1	discourse@foc	_	Gloss=XX
-12	àbîn	àbî	NOUN	_	Definite=Def|Gender=Masc	13	subj	_	Gloss=thing.Masc.Def
+12	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	13	subj	_	Gloss=thing.Masc.Def
 13	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 14	kai	kai	VERB	_	_	13	comp:aux	_	Gloss=reach/carry_to
 15	magaryar̃	magaryaː	NOUN	_	ExtPos=NOUN|Gender=Fem	14	comp:obj	_	Gloss=jujube_tree.Fem|Idiom=Yes
@@ -591,7 +591,7 @@
 5	mài	mài	PART	_	Gender=Masc|Number=Sing|PartType=Der	3	mod	_	Gloss=owner/doer_of.Sing
 6	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	5	compound	_	Gloss=year.Plur
 7	fìye	fi	VERB	_	ExtPos=ADP|VerbForm=Stat	6	mod	_	Gloss=exceed.Stat|Idiom=Yes
-8	dà	dà	ADP	_	_	7	comp.obl	_	Gloss=with|InIdiom=Yes
+8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=with|InIdiom=Yes
 9	sàbà'in	sàbà'in	NUM	_	_	8	comp:obj	_	Gloss=seventy
 10	à	à	ADP	_	_	6	mod	_	Gloss=at
 11	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	10	comp:obj	_	Gloss=world.Fem
@@ -663,7 +663,7 @@
 8	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	9	mod@desc	_	Gloss=year.Fem.Cons
 9	alìf	alìf	NUM	_	_	7	comp:obj	_	Gloss=one_thousand
 10	dà	dà	CCONJ	_	_	11	cc	_	Gloss=XX
-11	ɗàriː	ɗàriː	NOUN	_	Gender=Fem	9	conj:coord	_	Gloss=hundred.Fem
+11	ɗàriː	ɗàriː	NUM	_	Gender=Fem	9	conj:coord	_	Gloss=hundred.Fem
 12	tar̃à	tar̃à	NUM	_	_	11	mod:num	_	Gloss=nine
 13	dà	dà	CCONJ	_	_	14	cc	_	Gloss=XX
 14	sàbà'in	sàbà'in	NUM	_	_	11	conj:coord	_	Gloss=seventy
@@ -753,7 +753,7 @@
 4	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	5	mod@desc	_	Gloss=year.Fem.Cons
 5	alìf	alìf	NUM	_	_	3	comp:obj	_	Gloss=one_thousand
 6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=XX
-7	ɗàriː	ɗàriː	NOUN	_	Gender=Fem	5	conj:coord	_	Gloss=hundred.Fem
+7	ɗàriː	ɗàriː	NUM	_	Gender=Fem	5	conj:coord	_	Gloss=hundred.Fem
 8	tar̃à	tar̃à	NUM	_	_	7	flat:num	_	Gloss=nine
 9	dà	dà	CCONJ	_	_	10	cc	_	Gloss=XX
 10	tàmàːnin	tàmàːniː	NUM	_	Definite=Cons|Gender=Masc	7	conj:coord	_	Gloss=eighty
@@ -859,7 +859,7 @@
 36	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	37	mod@desc	_	Gloss=year.Fem.Cons
 37	alìf	alìf	NUM	_	_	35	comp:obj	_	Gloss=one_thousand
 38	dà	dà	CCONJ	_	_	39	cc	_	Gloss=XX
-39	ɗàriː	ɗàriː	NOUN	_	Gender=Fem	37	conj:coord	_	Gloss=hundred.Fem
+39	ɗàriː	ɗàriː	NUM	_	Gender=Fem	37	conj:coord	_	Gloss=hundred.Fem
 40	tar̃à	tar̃à	NUM	_	_	39	mod:num	_	Gloss=nine
 41	dà	dà	CCONJ	_	_	42	cc	_	Gloss=XX
 42	sàbà'in	sàbà'in	NUM	_	_	39	conj:coord	_	Gloss=seventy
