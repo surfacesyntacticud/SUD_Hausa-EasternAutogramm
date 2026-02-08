@@ -282,7 +282,7 @@
 11	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3|PronType=Prs	10	comp:obj	_	Gloss=XX
 12	nuːnà	nuːn-	VERB	_	_	11	comp:aux	_	Gloss=show
 13	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	12	comp:obj	_	Gloss=lack.Vnoun.Masc.Cons
-14	goːyon	goːy-	VERB	_	Definite=Cons|Number=Plur	13	comp.obj	_	Gloss=support.Vnoun.Masc.Cons
+14	goːyon	goːy-	VERB	_	Definite=Cons|Number=Plur	13	comp:obj	_	Gloss=support.Vnoun.Masc.Cons
 15-16	baːyansù	_	_	_	_	_	_	_	_
 15	baːyan	baːyaː	NOUN	_	_	14	comp:obj	_	Gloss=back.Masc.Cons
 16	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3	15	mod	_	Gloss=3Plur.Gen
@@ -302,7 +302,7 @@
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 3	dà	dà	ADP	_	_	1	comp:pred	_	Gloss=XX
 4	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=lack.Vnoun.Masc.Cons
-5	goːyon	goːy-	VERB	_	_	4	comp.obj	_	Gloss=support.Vnoun.Masc.Cons
+5	goːyon	goːy-	VERB	_	_	4	comp:obj	_	Gloss=support.Vnoun.Masc.Cons
 6	baːyan	baːyaː	NOUN	_	_	5	comp:obj	_	Gloss=back.Masc.Cons
 7	harìn	harìː	NOUN	_	Definite=Def|Gender=Masc	6	mod	_	Gloss=attack.Masc.Def
 8	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=XX
@@ -376,8 +376,8 @@
 14	zàngà-zangàr̃	zàngà-zangà	NOUN	_	Definite=Cons|Gender=Masc	13	comp:pred	_	Gloss=demonstration.Fem.Cons
 15	nuːnà	nuːn-	VERB	_	_	14	mod	_	Gloss=show
 16	rashìn	ras-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:obj	_	Gloss=lack.Vnoun.Masc.Cons
-17	goːyon	goːy-	VERB	_	_	16	comp.obj	_	Gloss=support.Vnoun.Masc.Cons
-18	baːyan	baːyan	NOUN	_	_	17	comp.obj	_	Gloss=back.Masc.Cons
+17	goːyon	goːy-	VERB	_	_	16	comp:obj	_	Gloss=support.Vnoun.Masc.Cons
+18	baːyan	baːyan	NOUN	_	_	17	comp:obj	_	Gloss=back.Masc.Cons
 19	Shùːgàbaː	shùːgàbaː	NOUN	_	_	21	mod@desc	_	Gloss=president.Masc
 20	"	"	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 21	George	George	PROPN	_	_	18	mod	_	Gloss=George
@@ -431,7 +431,7 @@
 37	nuːnà	nuːn-	VERB	_	_	36	comp:obj	_	Gloss=show
 38	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	37	comp:obj	_	Gloss=lack.Vnoun.Masc.Cons
 39-40	amìncêːwar̃sù	_	_	_	_	_	_	_	_
-39	amìncêːwar̃	amint-	VERB	_	Number=Plur	38	comp.obj	_	Gloss=agree.Vnoun.Fem.Cons
+39	amìncêːwar̃	amint-	VERB	_	Number=Plur	38	comp:obj	_	Gloss=agree.Vnoun.Fem.Cons
 40	sù	sù	PRON	_	Number=Plur	39	subj	_	Gloss=XX
 41	dà	dà	ADP	_	_	39	comp:obl	_	Gloss=XX|wordform=ɗà
 42	harìn	harìː	NOUN	_	Definite=Def|Gender=Masc	41	comp:obj	_	Gloss=attack.Masc.Def

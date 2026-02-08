@@ -385,7 +385,7 @@
 38	shigoː	shig-	VERB	_	_	37	comp:obj	_	Gloss=enter
 39	Nàːjeːriyàː	Nàːjeːriyàː	PROPN	_	_	38	comp:obj@G	_	Gloss=XX
 40	fìye	fi	VERB	_	ExtPos=ADP|VerbForm=Stat	38	mod	_	Gloss=exceed.Stat|Idiom=Yes
-41	dà	dà	ADP	_	_	40	comp.obl	_	Gloss=with|InIdiom=Yes
+41	dà	dà	ADP	_	_	40	comp:obl	_	Gloss=with|InIdiom=Yes
 42	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	41	comp:obj	_	Gloss=year.Plur
 43	ukù	ukù	NUM	_	_	42	mod:num	_	Gloss=three
 44	dà	dà	SCONJ	_	_	42	mod@relcl	_	Gloss=COMP
@@ -403,7 +403,7 @@
 5	maːtaː	màːtaː	NOUN	_	Number=Plur	4	comp:obj	_	Gloss=woman.Plur
 6	yawàː	yawàː	NOUN	_	Gender=Masc	4	mod	_	Gloss=quantity.Masc
 7	à	à	ADP	_	_	4	mod	_	Gloss=at
-8	cikin	cikin	ADP	_	_	7	comp.obj	_	Gloss=inside
+8	cikin	cikin	ADP	_	_	7	comp:obj	_	Gloss=inside
 9	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	8	comp:obj	_	Gloss=that.Plur
 10	ta	na	AUX	_	Aspect=Perf|Gender=Fem|Person=3	9	mod@relcl	_	Gloss=XX
 11	kashèː	kas-	VERB	_	_	10	comp:aux	_	Gloss=kill
@@ -416,7 +416,7 @@
 # text_ortho = Ministàn, wandà shiː nèː shùːgàban kwàmìtî kân cùːtar̃ AIDS, ya ƙaːràː dà cêːwaː kwàmìtînsà yanàː naːnàːtaː wà asibitoːciː sù tabbatar̃ dà kyâun jinîn dà zaː sù ɗuːràː wà maràsaː laːfiyàː, koː dà yakè yaː cêː bàbbar̃ màtsalàː ita cèː rashìn naːꞌur̃oːr̃in duːbà jiniː.
 1	ministàn	ministàː	NOUN	_	_	12	subj	_	Gloss=XX|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=XX
-3	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	1	@relcl	_	Gloss=that.Masc
+3	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	1	mod@relcl	_	Gloss=that.Masc
 4	shiː	shiː	PRON	_	Gender=Masc|Person=3	5	comp:pred	_	Gloss=XX
 5	nèː	neː	AUX	_	Gender=Masc|Number=Plur	3	comp:obj	_	Gloss=XX
 6	shùːgàban	shùːgàbaː	NOUN	_	_	5	dislocated@comp	_	Gloss=leader.Masc.Cons
@@ -457,7 +457,7 @@
 41	ita	ita	PRON	_	Gender=Fem|Person=3	42	comp:pred	_	Gloss=XX
 42	cèː	neː	AUX	_	Gender=Fem	38	comp:obj	_	Gloss=XX
 43	rashìn	ras-	VERB	_	Definite=Cons|Gender=Fem	42	dislocated@comp	_	Gloss=lack.Vnoun.Masc.Cons
-44	naːꞌur̃oːr̃in	naːꞌur̃oːr̃iː	NOUN	_	Definite=Cons|Gender=Masc	43	comp.obj	_	Gloss=XX
+44	naːꞌur̃oːr̃in	naːꞌur̃oːr̃iː	NOUN	_	Definite=Cons|Gender=Masc	43	comp:obj	_	Gloss=XX
 45	duːbà	duːbà	VERB	_	_	44	mod	_	Gloss=XX
 46	jiniː	jiniː	NOUN	_	Gender=Masc	45	comp:obj	_	Gloss=XX|SpaceAfter=No
 47	.	.	PUNCT	_	_	12	punct	_	Gloss=XX

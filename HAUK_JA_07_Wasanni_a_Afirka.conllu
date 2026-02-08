@@ -13,7 +13,7 @@
 2	yâu	yâu	ADV	_	_	1	comp:obj	_	Gloss=today
 3	zaːmù	zâi	AUX	_	Number=Plur|Person=1|Tense=Fut	0	root	_	Gloss=XX
 4	soːmà	soːm-	VERB	_	_	3	comp:aux	_	Gloss=XX
-5	shirìn	shir-	NOUN	_	_	4	comp:obj	_	Gloss=prepare.Vnoun.Masc.Cons|SpaceAfter=No
+5	shirìn	shir-	VERB	_	_	4	comp:obj	_	Gloss=prepare.Vnoun.Masc.Cons|SpaceAfter=No
 6	mù	mù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	mod@poss	_	Gloss=1Plur.Gen
 7	dà	dà	CCONJ	_	_	4	comp:obl	_	Gloss=XX
 8	làːbaːr̃ìn	làːbaːr̃ìː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=XX
@@ -160,7 +160,7 @@
 20	amìnceː	amìnceː	VERB	_	_	19	comp:aux	_	Gloss=XX
 21	dà	dà	ADP	_	_	20	comp:obl	_	Gloss=XX
 22	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	23	mod@desc	_	Gloss=country.Fem.Cons
-23	Afir̃kà	Afir̃kà	PROPN	_	_	21	:obj	_	Gloss=Africa
+23	Afir̃kà	Afir̃kà	PROPN	_	_	21	comp:obj	_	Gloss=Africa
 24	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	23	mod	_	Gloss=Gen.Fem
 25	Kudù	Kudù	PROPN	_	_	24	comp:obj	_	Gloss=Kudù|SpaceAfter=No
 26	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
@@ -215,7 +215,7 @@
 # text_ortho = Tô, àbîn dà ya kaːwoː rùːɗaːnîn shiː nèː shùːgàban Hùkuːmàr̃ Dambe ta Nàːjeːr̃iyàː, 'Chief Ralph Ogunbufunmi', shiː nèː ya baː dà sanâr̃waː cêːwaː Lasisi bàː zâi jeː wàːsân ba, har̃ ya cèː sun tattàunà hakàn dà Ministàn Wàːsànniː na Nàːjeːr̃iyàː.
 1	tô	tô	INTJ	_	_	9	discourse	_	Gloss=XX|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-3	àbîn	àbiː	NOUN	_	Definite=Def|Gender=Masc	9	subj	_	Gloss=Masc.Def
+3	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	9	subj	_	Gloss=Masc.Def
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	comp:obj	_	Gloss=XX
 6	kaːwoː	kai	VERB	_	_	5	comp:aux	_	Gloss=carry/take_to
@@ -267,7 +267,7 @@
 1	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 2	ƙaːràː	ƙaːr-	VERB	_	_	1	comp:aux	_	Gloss=increase
 3	dà	dà	ADP	_	_	2	comp:obl	_	Gloss=XX
-4	cêːwaː	cêː	VERB	_	Gender=Fem	3	comp:obj	_	Gloss=XX
+4	cêːwaː	cêː	VERB	_	Gender=Fem	3	comp:obj	_	Gloss=say.Vnoun.Fem
 5	tun	tun	SCONJ	_	_	10	mod	_	Gloss=XX
 6	cikin	cikin	ADP	_	_	5	comp:obj	_	Gloss=inside
 7	maːkòn	maːkòː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	Gloss=XX
@@ -346,7 +346,7 @@
 2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 3	ƙaːràː	ƙaːr-	VERB	_	_	2	comp:aux	_	Gloss=increase
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=XX
-5	cêːwaː	cêː	VERB	_	Gender=Fem	4	comp:obj	_	Gloss=XX
+5	cêːwaː	cêː	VERB	_	Gender=Fem	4	comp:obj	_	Gloss=say.Vnoun.Fem
 6	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	subj	_	Gloss=do.Vnoun.Masc.Cons
 7	wannàn	wannàn	DET	_	Deixis=Prox|Gender=Masc|PronType=Dem	8	det	_	Gloss=Prox.Sing
 8	dambe	dambe	SCONJ	_	_	6	mod	_	Gloss=XX
@@ -420,15 +420,15 @@
 32	r̃ubùːtà	r̃ubùːt-	VERB	_	ExtPos=NOUN|Gender=Fem	31	comp:aux	_	Gloss=XX
 33	shar̃hìː	shar̃hìː	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=XX
 34	à	à	ADP	_	ExtPos=ADP	32	comp:obl	_	Gloss=at|Idiom=Yes
-35	kân	kâi	ADP	_	Definite=Cons|Gender=Masc	34	comp.obj	_	Gloss=top|InIdiom=Yes
+35	kân	kâi	ADP	_	Definite=Cons|Gender=Masc	34	comp:obj	_	Gloss=top|InIdiom=Yes
 36	bàtûn	bàtuː	NOUN	_	Definite=Def|Gender=Masc	35	comp:obj	_	Gloss=XX|SpaceAfter=No
 37	,	,	PUNCT	_	_	38	punct	_	Gloss=PUNCT
 38	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	31	parataxis@conj	_	Gloss=XX
-39	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem	38	comp:aux	_	Gloss=XX
+39	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem	38	comp:aux	_	Gloss=say.Vnoun.Fem
 40	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	39	comp:obj	_	Gloss=XX
 41	kàmaːtà	kamaːt-	VERB	_	_	40	comp:aux	_	Gloss=be_appropriate
 42	à	yà	AUX	_	Mood=Sub|Person=4	41	comp:obj@agent	_	Gloss=XX
-43	bar̃	barìː	VERB	_	Definite=Cons|Gender=Fem	42	comp:aux	_	Gloss=XX
+43	bar̃	bariː	VERB	_	Definite=Cons|Gender=Fem	42	comp:aux	_	Gloss=leave
 44	Lasisi	Lasisi	PROPN	_	_	45	subj	_	Gloss=Lasisi
 45	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	43	comp:obj	_	Gloss=XX
 46	shìga	shìga	VERB	_	_	45	comp:aux	_	Gloss=XX

@@ -85,13 +85,13 @@
 21	ita	ita	PRON	_	Gender=Fem|Person=3	23	subj	_	Gloss=XX
 22	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	21	conj:appos	_	Gloss=government.Fem.Def
 23	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	20	comp:obj	_	Gloss=XX
-24	iyà	iy-	VERB	_	_	23	comp:aux	_	Gloss=XX
+24	iyà	iy-	VERB	_	_	23	comp:aux	_	Gloss=be_able_to
 25	tsarè	tsar-	VERB	_	_	24	comp:obj	_	Gloss=XX
 26	mùtûm	mùtûm	NOUN	_	_	25	comp:obj	_	Gloss=XX
 27	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	25	mod	_	Gloss=XX
 28	tsawon	tsawoː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:obj	_	Gloss=XX
 29	wàtànniː	wàtànniː	NOUN	_	Gender=Masc	28	mod	_	Gloss=XX
-30	shidà	shidà	NUM	_	_	29	mod:num	_	Gloss=XX
+30	shidà	shidà	NUM	_	_	29	mod:num	_	Gloss=six
 31	bàː	bàː	PART	_	Polarity=Neg	33	mod	_	Gloss=XX
 32	tàːre	tàːre	ADV	_	_	33	mod	_	Gloss=together
 33	dà	dà	ADP	_	_	25	mod	_	Gloss=with
@@ -231,7 +231,7 @@
 17	dà	dà	ADP	_	_	16	comp:obl	_	Gloss=XX
 18	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	17	comp:obj	_	Gloss=3Masc.Ind
 19	à	à	ADP	_	_	16	comp:obl	_	Gloss=at
-20	gàban	gàban	ADP	_	_	19	comp.obj	_	Gloss=front
+20	gàban	gàban	ADP	_	_	19	comp:obj	_	Gloss=front
 21	wata	wani	DET	_	Definite=Spec|Gender=Masc	22	det	_	Gloss=some.Fem.Spec
 22	koːtù	koːtù	NUM	_	Gender=Fem	20	comp:obj	_	Gloss=XX
 23	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	22	mod	_	Gloss=Gen.Fem
@@ -335,14 +335,14 @@
 9	akà	nàː	AUX	_	Aspect=Prog|Person=4	7	comp:obj	_	Gloss=XX
 10	sàːmi	saːm-	VERB	_	_	9	comp:aux	_	Gloss=get
 11	Chief	Chief	PROPN	_	_	12	mod@desc	_	Gloss=Chief
-12	G.F.	G.F.	PROPN	_	_	10	:obj	_	Gloss=G.F.
+12	G.F.	G.F.	PROPN	_	_	10	comp:obj	_	Gloss=G.F.
 13	dà	dà	CCONJ	_	_	10	comp:obl	_	Gloss=XX
 14	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	15	det	_	Gloss=Prox.Sing
 15	lâifiː	lâifiː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=XX|SpaceAfter=No
 16	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 17	tòː	tòː	INTJ	_	_	18	discourse	_	Gloss=XX
 18	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	6	comp:obj	_	Gloss=XX
-19	iyà	iy-	VERB	_	_	18	comp:aux	_	Gloss=XX
+19	iyà	iy-	VERB	_	_	18	comp:aux	_	Gloss=be_able_to
 20	saːmùn	saːmùː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:obj	_	Gloss=get.Vnoun.Masc.Cons
 21	ɗaurìn	ɗaur-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	20	comp:obj	_	Gloss=XX
 22	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	21	mod	_	Gloss=XX
@@ -516,12 +516,12 @@
 51	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	52	mod@desc	_	Gloss=year.Fem.Cons
 52	alìf	alìf	NUM	_	_	50	comp:obj	_	Gloss=one_thousand
 53	dà	dà	CCONJ	_	_	54	cc	_	Gloss=XX
-54	ɗàriː	ɗàriː	NOUN	_	Gender=Fem	52	conj:coord	_	Gloss=hundred.Fem
+54	ɗàriː	ɗàriː	NUM	_	Gender=Fem	52	conj:coord	_	Gloss=hundred.Fem
 55	tar̃à	tar̃à	NUM	_	_	54	mod:num	_	Gloss=nine
 56	dà	dà	CCONJ	_	_	57	cc	_	Gloss=XX
 57	tàmàːnin	tàmàːnin	NUM	_	_	54	conj:coord	_	Gloss=eighty
 58	dà	dà	CCONJ	_	_	59	cc	_	Gloss=XX
-59	shidà	shidà	ADV	_	_	57	conj:coord	_	Gloss=XX|SpaceAfter=No
+59	shidà	shidà	NUM	_	_	57	conj:coord	_	Gloss=six|SpaceAfter=No
 60	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__23
