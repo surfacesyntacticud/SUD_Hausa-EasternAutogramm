@@ -332,10 +332,10 @@
 2	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=XX
 3	dai	dai	PART	_	PartType=Top	2	discourse@top	_	Gloss=anyhow
 4	ci	ci	VERB	_	_	2	comp:aux	_	Gloss=XX
-5	àbinci	àbinci	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=XX
-6	irìː-irìː	irìː-irìː	ADJ	_	Gender=Masc	5	comp:obj	_	Gloss=various|SpaceAfter=No
+5	àbinci	àbinci	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=food.Masc
+6	irìː-irìː	irìː-irìː	ADJ	_	Gender=Masc	5	mod	_	Gloss=various|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-8	màsu	màsu	ADP	_	Number=Plur	5	mod	_	Gloss=XX
+8	màsu	màsu	PART	_	Number=Plur	5	mod	_	Gloss=XX
 9	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc	8	comp:obj	_	Gloss=put
 10	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	9	comp:obj@R	_	Gloss=mouth.Masc
 11	miyau	miyau	NOUN	_	Gender=Masc	9	comp:obj@T	_	Gloss=saliva.Masc
