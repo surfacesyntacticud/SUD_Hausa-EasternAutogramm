@@ -65,12 +65,12 @@
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	sha'ànin	sha'àniː	NOUN	_	Definite=Cons|Gender=Masc	11	dislocated@top	_	Gloss=matter.Masc.Cons
 5	tsabtàː	tsabtàː	NOUN	_	Gender=Fem	4	mod	_	Gloss=hygiene.Fem
-6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=COMP
+6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=and
 7	na	na	PART	_	Case=Gen|PartType=Pred	5	conj:coord	_	Gloss=Gen
 8	kiːwòn	kiːwòː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=tending.Masc.Cons
 9	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	8	mod	_	Gloss=health.Fem
 10	duk	duk	SCONJ	_	_	4	mod	_	Gloss=XX
-11	à	yà	AUX	_	Mood=Sub|Person=4	3	comp:obj	_	Gloss=XX
+11	à	à	ADP	_	_	3	comp:obj	_	Gloss=XX
 12	tàɓàrɓàre	taɓarɓar-	VERB	_	_	11	comp:obj	_	Gloss=get_out_of_control.Stat
 13	sukè	nàː	AUX	_	Aspect=Prog|Person=3	11	comp:cleft	_	Gloss=XX|SpaceAfter=No
 14	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
@@ -78,7 +78,7 @@
 16	kusan	kusan	ADV	_	_	17	mod	_	Gloss=almost
 17	mutàːneː	mùtûm	NOUN	_	Number=Plur	11	conj:coord	_	Gloss=people.Plur
 18	àr̃bà'in	àr̃bà'in	NUM	_	_	17	mod:num	_	Gloss=XX
-19	dà	dà	CCONJ	_	_	20	cc	_	Gloss=COMP
+19	dà	dà	CCONJ	_	_	20	cc	_	Gloss=and
 20	tar̃à	tar̃à	NUM	_	_	18	conj:coord	_	Gloss=nine
 21	neː	neː	PART	_	Gender=Masc	17	discourse@foc	_	Gloss=XX
 22	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	17	comp:cleft	_	Gloss=XX
@@ -202,12 +202,12 @@
 1	Àkwai	àkwai	PART	_	_	0	root	_	Gloss=there_is
 2	mutàːneː	mùtûm	NOUN	_	Number=Plur	1	subj	_	Gloss=people.Plur
 3	dubuː	dubuː	NUM	_	_	2	mod:num	_	Gloss=thousand
-4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=XX
+4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=and
 5	ɗàriː	ɗàriː	NUM	_	Gender=Fem|Number=Plur	3	conj:coord	_	Gloss=hundred.Fem
 6	shidà	shidà	NUM	_	_	5	flat:num	_	Gloss=six
-7	dà	dà	CCONJ	_	_	8	cc	_	Gloss=XX
+7	dà	dà	CCONJ	_	_	8	cc	_	Gloss=and
 8	àr̃bà'in	àr̃bà'in	NUM	_	_	5	conj:coord	_	Gloss=XX
-9	dà	dà	CCONJ	_	_	10	cc	_	Gloss=XX
+9	dà	dà	CCONJ	_	_	10	cc	_	Gloss=and
 10	bìyar̃	bìyar̃	NUM	_	_	8	conj:coord	_	Gloss=five
 11	à	à	ADP	_	_	1	comp:pred	_	Gloss=at
 12	cikin	cikin	ADP	_	_	11	comp:obj	_	Gloss=inside
@@ -225,9 +225,9 @@
 24	mutàːneː	mùtûm	NOUN	_	Number=Plur	23	comp:obj	_	Gloss=people.Plur
 25	ɗàriː	ɗàriː	NUM	_	_	24	mod:num	_	Gloss=hundred
 26	tar̃à	tar̃à	NUM	_	_	25	flat:num	_	Gloss=nine
-27	dà	dà	CCONJ	_	_	28	cc	_	Gloss=XX
+27	dà	dà	CCONJ	_	_	28	cc	_	Gloss=and
 28	hàmsin	hàmsiː	NOUN	_	Definite=Cons|Gender=Masc	25	conj:coord	_	Gloss=XX
-29	dà	dà	CCONJ	_	_	30	cc	_	Gloss=XX
+29	dà	dà	CCONJ	_	_	30	cc	_	Gloss=and
 30	shidà	shidà	NUM	_	_	28	conj:coord	_	Gloss=six
 31	kurùm	kurùm	ADV	_	_	23	mod	_	Gloss=just|SpaceAfter=No
 32	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -237,9 +237,9 @@
 1	Gùdaː	gùdaː	NOUN	_	_	11	subj	_	Gloss=unit.Masc
 2	ɗàriː	ɗàriː	NUM	_	_	1	mod:num	_	Gloss=hundred
 3	huɗu	huɗu	NUM	_	_	2	flat:num	_	Gloss=four
-4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=XX
+4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=and
 5	hàmsin	hàmsiː	NOUN	_	Definite=Cons|Gender=Masc	2	conj:coord	_	Gloss=XX
-6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=COMP
+6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=and
 7	tar̃à	tar̃à	NUM	_	_	5	conj:coord	_	Gloss=nine
 8	ɗàgà	ɗàgà	ADP	_	_	1	mod	_	Gloss=XX
 9	cikin	cikin	ADP	_	_	8	comp:obj	_	Gloss=inside
@@ -387,7 +387,7 @@
 8	haːlin	haːliː	NOUN	_	Definite=Cons|Gender=Masc	7	mod	_	Gloss=situation.Masc.Cons
 9	kiwòn	kiy-	VERB	_	Definite=Cons|Gender=Masc	8	mod	_	Gloss=protect.Vnoun.Masc.Cons
 10	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	9	mod	_	Gloss=health.Fem
-11	dà	dà	CCONJ	_	_	12	cc	_	Gloss=XX
+11	dà	dà	CCONJ	_	_	12	cc	_	Gloss=and
 12	na	na	PART	_	Case=Gen|PartType=Pred	8	conj:coord	_	Gloss=Gen
 13	tsabtàː	tsabtàː	NOUN	_	_	12	comp:obj	_	Gloss=hygiene.Fem
 14	à	à	ADP	_	_	8	mod	_	Gloss=XX
@@ -403,11 +403,11 @@
 24	ìsasshiyar̃	ìsassheː	ADJ	_	Definite=Cons|Gender=Fem	25	mod	_	Gloss=sufficient.fem
 25	iskàː	iskàː	NOUN	_	Gender=Fem	23	comp:obj	_	Gloss=wind.Fem
 26	à	à	ADP	_	_	23	mod	_	Gloss=at
-27	cikin	cikiː	ADP	_	_	26	comp:obj	_	Gloss=inside
+27	cikin	cikin	ADP	_	_	26	comp:obj	_	Gloss=inside
 28	ɗaːkunàː	ɗaːkìː	NOUN	_	Number=Plur	27	comp:obj	_	Gloss=room.Plur|SpaceAfter=No
 29	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 30	tàːre	tàːre	ADV	_	_	31	mod	_	Gloss=together
-31	dà	dà	CCONJ	_	_	32	cc	_	Gloss=with
+31	dà	dà	CCONJ	_	_	32	cc	_	Gloss=and
 32	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	23	conj:coord	_	Gloss=lack.Vnoun.Masc.Cons
 33	ìsasshen	ìsassheː	ADV	_	Definite=Cons|Number=Plur	34	mod	_	Gloss=sufficient.Masc
 34	hasken	haskeː	NOUN	_	Definite=Cons|Gender=Masc	32	comp:obj	_	Gloss=light.Masc
@@ -418,7 +418,7 @@
 39	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	40	det	_	Gloss=some.Plur.Spec
 40	ƙwaːyoːyin	ƙwàːya:	NOUN	_	Definite=Cons|Number=Plur	38	comp:obj	_	Gloss=grain.Plur.Cons
 41	cùːtaː	cùːtaː	NOUN	_	Gender=Fem	40	compound	_	Gloss=disease.Fem
-42	dà	dà	CCONJ	_	_	44	cc	_	Gloss=XX
+42	dà	dà	CCONJ	_	_	44	cc	_	Gloss=and
 43	kuma	kuma	PART	_	_	42	discourse@top	_	Gloss=also
 44	ƙwàːriː	ƙwàːroː	NOUN	_	Number=Plur	40	conj:coord	_	Gloss=insect.Plur|SpaceAfter=No
 45	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -431,20 +431,20 @@
 4	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 5	ci	ci	VERB	_	_	4	comp:aux	_	Gloss=proceed
 6	gàba	gàba	ADV	_	_	5	mod	_	Gloss=in_front
-7	dà	dà	CCONJ	_	_	5	comp:obl	_	Gloss=XX|wordform=ɗà
+7	dà	dà	CCONJ	_	_	5	comp:obl	_	Gloss=and|wordform=ɗà
 8	cêːwaː	cêː	VERB	_	Gender=Fem	7	comp:obj	_	Gloss=say.Vnoun.Fem
 9	anàː	nàː	AUX	_	Aspect=Prog|Person=4	8	comp:obj	_	Gloss=XX
 10	saːmùn	saːmùː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:aux	_	Gloss=get.Vnoun.Masc.Cons
 11	sauroː	sauroː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=mosquito.Masc
-12	dà	dà	CCONJ	_	_	13	cc	_	Gloss=XX
+12	dà	dà	CCONJ	_	_	13	cc	_	Gloss=and
 13	kwâr̃kwatàː	kwâr̃kwatàː	NOUN	_	Gender=Fem	11	conj:coord	_	Gloss=louse.Fem
-14	dà	dà	CCONJ	_	_	15	cc	_	Gloss=XX
+14	dà	dà	CCONJ	_	_	15	cc	_	Gloss=and
 15	kuɗin	kuɗiː	NOUN	_	Definite=Cons|Gender=Masc	13	conj:coord	_	Gloss=bed-bug.Masc.Cons
 16	ciːzòː	ciːz-	VERB	_	Gender=Masc	15	compound	_	Gloss=bite.Vnoun.Masc.Cons
-17	dà	dà	CCONJ	_	_	18	cc	_	Gloss=XX
+17	dà	dà	CCONJ	_	_	18	cc	_	Gloss=and
 18	kyànkyàsai	kyànkyasòː	NOUN	_	Number=Plur	13	conj:coord	_	Gloss=cockroach.Plur
 19	har̃	har̃	ADV	_	_	20	mod	_	Gloss=even
-20	dà	dà	CCONJ	_	_	22	cc	_	Gloss=with
+20	dà	dà	CCONJ	_	_	22	cc	_	Gloss=and
 21	kuma	kuma	PART	_	_	20	discourse@top	_	Gloss=also
 22	ɓeːràːyeː	ɓeːraː	NOUN	_	Number=Plur	18	conj:coord	_	Gloss=rat.Plur
 23	à	à	ADP	_	_	22	mod	_	Gloss=at
@@ -460,16 +460,16 @@
 33	dà	dà	ADP	_	_	32	comp:obl	_	Gloss=with
 34	ƙazwaː	ƙazwaː	NOUN	_	Gender=Fem	33	comp:obj	_	Gloss=scabies.Fem|SpaceAfter=No
 35	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
-36	dà	dà	CCONJ	_	_	37	cc	_	Gloss=XX|wordform=da
+36	dà	dà	CCONJ	_	_	37	cc	_	Gloss=and|wordform=da
 37	zàzzàɓin	zàzzàɓiː	NOUN	_	Definite=Cons|Gender=Masc	34	conj:coord	_	Gloss=fever.Masc.Cons
 38	ciːzòn	ciːzòː	NOUN	_	Definite=Cons|Gender=Masc	37	compound	_	Gloss=bite.Masc.Cons
 39	sauroː	sauroː	NOUN	_	Gender=Masc	38	compound	_	Gloss=mosquito.Masc|SpaceAfter=No
 40	,	,	PUNCT	_	_	42	punct	_	Gloss=PUNCT
-41	dà	dà	CCONJ	_	_	42	cc	_	Gloss=XX
+41	dà	dà	CCONJ	_	_	42	cc	_	Gloss=and
 42	ciːwòn	ciːwòː	NOUN	_	Definite=Cons|Gender=Masc	22	conj:coord	_	Gloss=disease.Masc
 43	fùkaː	fùkaː	NOUN	_	Gender=Fem	42	compound	_	Gloss=tuberculosis.Fem
 44	tàːre	tàːre	ADV	_	_	45	mod	_	Gloss=together
-45	dà	dà	CCONJ	_	_	46	cc	_	Gloss=with
+45	dà	dà	CCONJ	_	_	46	cc	_	Gloss=and
 46	zàzzàɓiː	zàzzàɓiː	NOUN	_	Gender=Masc	42	conj:coord	_	Gloss=fever.Masc
 47	mài	mài	PART	_	Gender=Masc|Number=Sing|PartType=Der	46	mod	_	Gloss=owner/doer_of.Sing
 48	tsananiː	tsananiː	NOUN	_	_	47	compound	_	Gloss=severity.Masc
@@ -486,7 +486,7 @@
 4	dai	dai	PART	_	PartType=Top	3	discourse@top	_	Gloss=anyhow
 5	ci	ci	VERB	_	_	3	comp:aux	_	Gloss=proceed
 6	gàba	gàba	ADV	_	_	5	mod	_	Gloss=in_front
-7	dà	dà	CCONJ	_	_	5	comp:obl	_	Gloss=XX
+7	dà	dà	CCONJ	_	_	5	comp:obl	_	Gloss=and
 8	cêːwaː	cêː	VERB	_	Gender=Fem	7	comp:obj	_	Gloss=say.Vnoun.Fem
 9	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=quantity.Masc.Cons
 10	àbincîn	àbinciː	NOUN	_	Definite=Cons|Gender=Masc	9	mod	_	Gloss=food.Masc.Def
@@ -562,7 +562,7 @@
 6	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	7	det	_	Gloss=some.Plur.Spec
 7	mutàːneː	mùtûm	NOUN	_	Number=Plur	5	mod	_	Gloss=people.Plur
 8	àr̃bà'in	àr̃bà'in	NUM	_	_	7	mod:num	_	Gloss=XX
-9	dà	dà	CCONJ	_	_	10	cc	_	Gloss=with
+9	dà	dà	CCONJ	_	_	10	cc	_	Gloss=and
 10	tar̃à	tar̃à	NUM	_	_	8	conj:coord	_	Gloss=nine
 11	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=COMP
 12	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	11	comp:obj	_	Gloss=XX
@@ -587,7 +587,7 @@
 10	cêːwaː	cêː	VERB	_	Gender=Fem	9	comp:obj	_	Gloss=say.Vnoun.Fem|wordform=cêwaː
 11	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	15	comp:pred	_	Gloss=Gen.Fem
 12	Allàh	Allàh	PROPN	_	_	11	comp:obj	_	Gloss=Allah
-13	dà	dà	CCONJ	_	_	14	cc	_	Gloss=XX
+13	dà	dà	CCONJ	_	_	14	cc	_	Gloss=and
 14	Ànnabì	Ànnabì	PROPN	_	_	12	conj:coord	_	Gloss=Prophet
 15	ceː	ceː	AUX	_	Gender=Fem	10	comp:obj	_	Gloss=XX|SpaceAfter=No
 16	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
@@ -681,7 +681,7 @@
 33	na	na	AUX	_	_	32	mod	_	Gloss=XX
 34	nuːnà	nuːn-	VERB	_	_	33	comp:aux	_	Gloss=show
 35	ƙìyayyàː	ƙìyayyàː	NOUN	_	ExtPos=NOUN|Gender=Fem	34	comp:obj	_	Gloss=hate.Fem
-36	dà	dà	CCONJ	_	_	38	cc	_	Gloss=XX|wordform=da
+36	dà	dà	CCONJ	_	_	38	cc	_	Gloss=and|wordform=da
 37	kuma	kuma	PART	_	_	36	discourse@top	_	Gloss=also
 38	sôn	soː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	34	conj:coord	_	Gloss=want.Vnoun.Masc.Cons
 39	ɗaukàr̃	ɗauk-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	38	mod	_	Gloss=take.Vnoun.Fem.Cons
@@ -690,7 +690,7 @@
 
 # sent_id = 17_Gidan_yarin_Kirikiri__18
 # text = Har̃ yànzu dai gwamnatì bàtà cêː koːmeː ba gàme dà r̃àhoːtòn.
-1	Har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	5	mod	_	Gloss=XX
+1	Har̃	har̃	ADP	_	_	5	mod	_	Gloss=up_to
 2	yànzu	yànzu	ADV	_	_	1	comp:obj	_	Gloss=now|wordform=yanzu
 3	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyhow
 4	gwamnatì	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	5	subj	_	Gloss=government.Fem

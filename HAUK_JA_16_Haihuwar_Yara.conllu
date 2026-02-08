@@ -27,7 +27,7 @@
 15	kìːma:nìn	kìːmaːnìn	ADP	_	_	12	mod	_	Gloss=about
 16	dubuː	dubuː	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=thousand.Fem
 17	sàbà'in	sàbà'in	NUM	_	_	16	mod:num	_	Gloss=seventy
-18	dà	dà	ADP	_	_	19	cc	_	Gloss=with
+18	dà	dà	CCONJ	_	_	19	cc	_	Gloss=and
 19	bìyar̃	bìyar̃	NUM	_	_	17	conj:coord	_	Gloss=five
 20	nèː	neː	PART	_	Gender=Masc|Number=Plur	16	discourse@foc	_	Gloss=XX
 21	zaːsù	zâi	AUX	_	Mood=Sub|Number=Plur|Person=3	11	comp:obj	_	Gloss=XX
@@ -35,7 +35,7 @@
 23	raːyukàn	râi	NOUN	_	Definite=Cons|Number=Plur	22	comp:obj	_	Gloss=life.Plur.Cons|SpaceAfter=No|wordform=raːyukànsù
 24	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	23	mod@poss	_	Gloss=3Plur.Gen
 25	à	à	ADP	_	_	22	comp:obl	_	Gloss=at
-26	dàliːlìn	dàliːlìː	NOUN	_	Definite=Cons|Gender=Masc	25	comp:obj	_	Gloss=reason.Masc.Cons
+26	dàliːlìn	dàliːlìː	ADP	_	Definite=Cons|Gender=Masc	25	comp:obj	_	Gloss=reason.Masc.Cons
 27	saːmùn	saːmùː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	26	mod	_	Gloss=get.Vnoun.Masc.Cons
 28	tangar̃ɗàː	tangar̃ɗàː	NOUN	_	Gender=Fem	27	comp:obj	_	Gloss=problem.Fem
 29	wajen	wajen	ADP	_	_	27	comp:obl	_	Gloss=about
@@ -98,7 +98,7 @@
 3	wai	wai	PART	_	_	10	mod	_	Gloss=XX
 4	adàdin	adàdiː	NOUN	_	Definite=Cons|Gender=Masc	10	subj	_	Gloss=total.Masc.Cons
 5	màce-màce	mutuwàː	NOUN	_	_	4	mod	_	Gloss=death.Plur
-6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=XX
+6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=and
 7	lahàniː	lahàniː	NOUN	_	_	5	conj:coord	_	Gloss=injury.Masc
 8	gà	gà	ADP	_	_	4	mod	_	Gloss=to
 9	maːtaː	màːtaː	NOUN	_	Number=Plur	8	comp:obj	_	Gloss=woman.Plur
@@ -366,7 +366,7 @@
 12	à	à	ADP	_	_	11	mod	_	Gloss=at
 13	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	12	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 14	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
-15	kuma	kuma	PART	_	_	22	cc	_	Gloss=also
+15	kuma	kuma	CCONJ	_	_	22	cc	_	Gloss=also
 16	à	à	ADP	_	_	22	mod	_	Gloss=at
 17	haːlîn	haːlîː	NOUN	_	Definite=Def|Gender=Masc	16	comp:obj	_	Gloss=situation.Masc.Def
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP

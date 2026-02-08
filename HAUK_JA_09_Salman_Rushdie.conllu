@@ -200,7 +200,7 @@
 # text = sabòːdà hakà à hawaː na ɗaya sai wasu mutàneː suː biyu sukà shìga yîn zàngà-zangà ta ƙîn jinin à bugà wannàn littaːfìn dà harshèn Tuːr̃anciː.
 1	sabòːdà	sabòːdà	ADP	_	_	12	mod	_	Gloss=because_of
 2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=thus
-3	à	yà	AUX	_	Mood=Sub|Person=4	12	mod	_	Gloss=XX
+3	à	yà	ADP	_	Mood=Sub|Person=4	12	mod	_	Gloss=XX
 4	hawaː	hawaː	NOUN	_	_	3	comp:aux	_	Gloss=floor.Masc
 5	na	na	PART	_	Case=Gen|PartType=Pred	4	comp:obj	_	Gloss=Gen
 6	ɗaya	ɗaya	NUM	_	_	5	comp:obj	_	Gloss=one
@@ -307,7 +307,7 @@
 25	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	26	det	_	Gloss=Prox.Sing
 26	littaːfìn	littaːfìː	NOUN	_	Definite=Cons|Gender=Masc	24	comp:obj	_	Gloss=XX
 27	à	à	ADP	_	_	24	comp:obl	_	Gloss=at
-28	cikin	cikiː	ADP	_	_	27	comp:obj	_	Gloss=inside
+28	cikin	cikin	ADP	_	_	27	comp:obj	_	Gloss=inside
 29	harshèn	harshèː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	Gloss=XX
 30	Japananciː	Japananciː	PROPN	_	_	29	mod	_	Gloss=Japanese|SpaceAfter=No
 31	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
@@ -544,7 +544,7 @@
 # text = Sun fitoː kân tiːtunàː sunàː zàngà-zangà ta ƙîn jinìn wannàn littaːfìː dà akèː sôn bugàːwaː à harshèn Japananciː ɗîn.
 1	Sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 2	fitoː	fit-	VERB	_	_	1	comp:aux	_	Gloss=come_out
-3	kân	kâi	ADP	_	Definite=Cons|Gender=Masc	2	comp:obl	_	Gloss=on
+3	kân	kâi	ADP	_	_	2	comp:obl	_	Gloss=on_top_of
 4	tiːtunàː	tiːtu	NOUN	_	Case=Gen|Gender=Masc|Person=3	3	comp:obj	_	Gloss=XX
 5	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	1	parataxis@conj	_	Gloss=XX
 6	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	5	comp:aux	_	Gloss=demonstration.Fem
@@ -558,9 +558,9 @@
 14	sôn	soː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:aux	_	Gloss=want.Vnoun.Masc.Cons
 15	bugàːwaː	bug-	VERB	_	ExtPos=NOUN|Gender=Fem	14	comp:obj	_	Gloss=XX
 16	à	à	ADP	_	_	15	mod	_	Gloss=at
-17	harshèn	harshèː	NOUN	_	Definite=Cons|Gender=Masc	16	comp:obj	_	Gloss=XX
-18	Japananciː	Japananciː	PROPN	_	_	17	mod	_	Gloss=Japanese
-19	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	17	det	_	Gloss=Def|SpaceAfter=No
+17	harshèn	harshèː	NOUN	_	Definite=Cons|Gender=Masc	18	mod@desc	_	Gloss=XX
+18	Japananciː	Japananciː	PROPN	_	_	16	comp:obj	_	Gloss=Japanese
+19	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	18	det	_	Gloss=Def|SpaceAfter=No
 20	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__22

@@ -31,7 +31,7 @@
 15	»	»	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 16	à	à	ADP	_	_	7	mod	_	Gloss=at
 17	gaːɓàr̃	gaːɓàː	NOUN	_	Definite=Cons|Gender=Fem	16	comp:obj	_	Gloss=XX
-18	Tèːkun	tèːku	ADP	_	Definite=Cons|Gender=Fem	17	mod	_	Gloss=sea.Fem.Cons|wordform=tèːkun
+18	Tèːkun	tèːku	NOUN	_	Definite=Cons|Gender=Fem	17	mod	_	Gloss=sea.Fem.Cons|wordform=tèːkun
 19	Ìkko	Ìkko	PROPN	_	_	18	mod	_	Gloss=Lagos
 20	kwaːnan	kwaːnaː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	7	mod	_	Gloss=XX
 21	baːya	baːya	ADV	_	_	20	mod	_	Gloss=back|SpaceAfter=No
@@ -81,9 +81,9 @@
 22	"	"	PUNCT	_	_	21	punct	_	Gloss=PUNCT|wordform=’
 23	na	na	PART	_	Case=Gen|PartType=Pred	21	mod	_	Gloss=Gen
 24	jàbu	jàbu	ADJ	_	Number=Plur	23	comp:obj	_	Gloss=XX
-25	à	à	ADP	_	ExtPos=ADP	11	mod	_	Gloss=at|Idiom=Yes
-26	tsàːkaːnin	tsàːkaːniː	NOUN	_	Definite=Cons|Number=Plur	25	comp:obj	_	Gloss=XX|InIdiom=Yes
-27	cùnkoːson	cùnkoːsoː	NOUN	_	Definite=Cons|Gender=Masc	25	comp:obj	_	Gloss=XX
+25	à	à	ADP	_	_	11	mod	_	Gloss=at
+26	tsàːkaːnin	tsàːkaːnin	ADP	_	_	25	comp:obj	_	Gloss=XX
+27	cùnkoːson	cùnkoːsoː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:obj	_	Gloss=XX
 28	moːtoːci	moːtoːci	NOUN	_	Gender=Masc	27	mod	_	Gloss=XX|SpaceAfter=No
 29	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
 30	duk	duk	DET	_	_	31	mod	_	Gloss=XX
@@ -478,7 +478,7 @@
 18	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	0	root	_	Gloss=XX
 19	iskèː	isk-	VERB	_	_	18	comp:aux	_	Gloss=XX
 20	su	su	PRON	_	Number=Plur|Person=3|PronType=Prs	19	comp:obj	_	Gloss=XX
-21	à	à	AUX	_	Mood=Sub|Person=4	19	comp:obl	_	Gloss=XX
+21	à	à	ADP	_	Mood=Sub|Person=4	19	comp:obl	_	Gloss=XX
 22	gandun	ganduː	NOUN	_	Definite=Cons	24	mod@desc	_	Gloss=XX
 23	daːjìn	daːjìː	NOUN	_	Definite=Cons	22	comp:obj	_	Gloss=XX
 24	Korup	Korup	PROPN	_	_	21	comp:obj	_	Gloss=Korup|SpaceAfter=No

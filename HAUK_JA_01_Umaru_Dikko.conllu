@@ -40,9 +40,9 @@
 16	sukà	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	14	comp:obj	_	Gloss=XX
 17	yi	yi	VERB	_	_	16	comp:aux	_	Gloss=do
 18	à	à	ADP	_	_	17	comp:obl	_	Gloss=at
-19	watan	watan	DET	_	Definite=Cons|Gender=Masc	18	comp:obj	_	Gloss=XX
-20	disambàː	disambàː	NOUN	_	Gender=Fem	19	mod	_	Gloss=XX
-21	na	na	PART	_	Case=Gen|PartType=Pred	19	mod	_	Gloss=Gen
+19	watan	watan	NOUN	_	Definite=Cons|Gender=Masc	20	mod@desc	_	Gloss=XX
+20	disambàː	disambàː	NOUN	_	Gender=Fem	18	comp:obj	_	Gloss=XX
+21	na	na	PART	_	Case=Gen|PartType=Pred	20	mod	_	Gloss=Gen
 22	shèːkararàr̃	shèːkararàː	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	21	comp:obj	_	Gloss=XX
 23	alìf	alìf	NUM	_	_	22	mod:num	_	Gloss=one_thousand
 24	dà	da	CCONJ	_	_	25	cc	_	Gloss=and|wordform=da
@@ -236,7 +236,7 @@
 3	indà	indà	ADV	_	PronType=Rel	2	comp:obj	_	Gloss=where
 4	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	mod@relcl	_	Gloss=XX
 5	kàmaːtà	kamaːt-	VERB	_	_	4	comp:aux	_	Gloss=be_appropriate
-6	à	à	ADP	_	_	5	comp:obj@agent	_	Gloss=at
+6	à	yà	AUX	_	_	5	comp:obj@agent	_	Gloss=XX
 7	r̃ubùːtà	r̃ubùːtà	NOUN	_	Case=Gen|Gender=Fem|Person=3	6	comp:obj	_	Gloss=XX
 8	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	7	comp:obj	_	Gloss=that.Masc
 9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	8	mod@relcl	_	Gloss=XX
@@ -378,7 +378,7 @@
 # text = sai à watàn Jànair̃u na shèːkaràr̃ alif dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː gwamnatìn Nàjeːr̃iyàː ta bùkàːci Bìr̃taːniyà tà miːƙàː matà shiː don à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː kân lâifin cîn hancìː dà kàrɓar̃ r̃ashawaː ta fâm miliyàn bàr̃kàtài.
 # text_ortho = À loːkàcin shàr̃iꞌàr̃, Mài Shàr̃iꞌàː yaː cêː an bayyànà Ùːmar̃ù Dikkò dà cêwaː: “Wani ƙàːsur̃gumin ɓàraːwòː neː dà bà à taɓà yîn irìnsà ba à duːniyàː.” Sai à watàn Jànair̃u na shekaràr̃ alif dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː Gwamnatìn Nàjeːr̃iyàː ta bùkàːci Bìr̃taːniyà tà miːƙàː matà shiː don à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː kân lâifin cîn hancìː dà kàrɓar̃ r̃ashawaː ta fâm miliyàn bàr̃kàtài.
 1	sai	sai	ADV	_	_	2	mod	_	Gloss=XX
-2	à	yà	AUX	_	Mood=Sub|Person=4	18	mod	_	Gloss=XX
+2	à	yà	ADP	_	Mood=Sub|Person=4	18	mod	_	Gloss=XX
 3	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	4	mod@desc	_	Gloss=month.Masc.Cons
 4	Jànair̃u	Jànair̃u	NOUN	_	Gender=Masc	2	comp:obj	_	Gloss=january.Masc
 5	na	na	PART	_	Case=Gen|PartType=Pred	4	mod	_	Gloss=Gen
@@ -600,7 +600,7 @@
 10	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 11	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 12	fàďaː	fàďaː	VERB	_	_	11	comp:aux	_	Gloss=XX
-13	à	à	AUX	_	_	12	mod	_	Gloss=XX
+13	à	à	ADP	_	_	12	mod	_	Gloss=XX
 14	bàːra	bàar-	VERB	_	_	13	comp:obj	_	Gloss=XX
 15	cêːwaː	cêwaː	SCONJ	_	_	12	comp:obj	_	Gloss=COMP|wordform=cêwaː
 16	zuːƙì-ta-Màlle	zuːƙì-ta-màlle	NOUN	_	Gender=Masc	17	comp:pred	_	Gloss=XX
