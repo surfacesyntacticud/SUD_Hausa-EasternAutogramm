@@ -345,7 +345,7 @@
 44	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__10
-# text = Ƙungìyar̃ Kir̃istoːcin Nàjeːr̃iyàː taː ƙiyàstaː cêːwaː Kir̃istoːciː ɗàriː nèː akà kashèː, kuma dùbban 'yan gudùn hijir̃aː, mafì yawàː Kir̃istoːciː, waɗàndà sukà bar̃ gidàːjensù sàːkàmakon hàrgitsîn, sunà fùskantàr̃ màtsalàr̃ saːmùn àbinci.
+# text = Ƙungìyar̃ Kir̃istoːcin Nàjeːr̃iyàː taː ƙiyàstaː cêːwaː Kir̃istoːciː ɗàriː nèː akà kashèː, kuma dùbban 'yan gudùn hijir̃aː, mafìː yawàː Kir̃istoːciː, waɗàndà sukà bar̃ gidàːjensù sàːkàmakon hàrgitsîn, sunà fùskantàr̃ màtsalàr̃ saːmùn àbinci.
 1	Ƙungìyar̃	ƙungìyaː	PROPN	_	Definite=Cons|Gender=Fem	4	subj	_	Gloss=association
 2	Kir̃istoːcin	Kir̃istàː	PROPN	_	_	1	mod	_	Gloss=Christian
 3	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	1	mod	_	Gloss=Nigeria
@@ -364,13 +364,13 @@
 16	gudùn	gudùː	NOUN	_	Definite=Cons|Number=Plur	15	compound	_	Gloss=running.Masc.Cons
 17	hijir̃aː	hijir̃aː	NOUN	_	Gender=Fem	16	compound	_	Gloss=flight.Fem|SpaceAfter=No
 18	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-19	mafì	mafì	ADP	_	_	21	mod	_	Gloss=exceeding_in
+19	mafìː	mafìː	ADP	_	_	21	mod	_	Gloss=exceeding_in
 20	yawàː	yawàː	NOUN	_	Gender=Masc	19	compound	_	Gloss=quantity.Masc
 21	Kir̃istoːciː	kir̃istàː	NOUN	_	Number=Plur	15	conj:appos	_	Gloss=Christian.Plur|SpaceAfter=No
 22	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 23	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	21	mod@relcl	_	Gloss=that.Plur
 24	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	23	comp:obj	_	Gloss=XX
-25	bar̃	barìː	VERB	_	Definite=Cons|Gender=Fem	24	comp:aux	_	Gloss=XX
+25	bar̃	bariː	VERB	_	Definite=Cons|Gender=Fem	24	comp:aux	_	Gloss=leave
 26	gidàːjen	gidaː	NOUN	_	Definite=Cons|Number=Plur	25	comp:obj	_	Gloss=house.Plur.Cons|SpaceAfter=No|wordform=gidàːjensù
 27	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	26	mod@poss	_	Gloss=3Plur.Gen
 28	sàːkàmakon	sàːkàmakon	ADP	_	_	25	mod	_	Gloss=because_of
