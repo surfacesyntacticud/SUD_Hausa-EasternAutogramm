@@ -28,8 +28,8 @@
 13	baːyaː	baːyaː	NOUN	_	_	12	comp.obj	_	Gloss=back.Masc
 14	dàgà	dàgà	ADP	_	_	11	comp:obl	_	Gloss=from
 15	sâssaː	saːshìː	NOUN	_	_	14	comp:obj	_	Gloss=district.Plur
-16	dà	dà	CCONJ	_	ExtPos=ADJ	17	cc	_	Gloss=with|Idiom=Yes
-17	daːmaː	daːmaː	NOUN	_	Gender=Fem	15	conj:coord	_	Gloss=opportunity.Fem|InIdiom=Yes
+16	dà	dà	ADP	_	_	15	mod	_	Gloss=with
+17	daːmaː	daːmaː	NOUN	_	Gender=Fem	16	comp:obj	_	Gloss=opportunity.Fem
 18	gà	gà	ADP	_	_	11	mod	_	Gloss=to
 19	kiràn	kir-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp:obj	_	Gloss=call.Vnoun.Masc.Cons
 20	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:obj	_	Gloss=do.Vnoun.Masc.Cons
@@ -257,7 +257,7 @@
 4	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=XX|wordform=sunaː
 5	zàngà-zangàr̃	zàngà-zangàr̃	NOUN	_	Definite=Def|Number=Plur	4	comp:aux	_	Gloss=demonstration.Fem.Cons
 6	nuːnà	nuːn-	VERB	_	_	5	mod	_	Gloss=show
-7	rashìn	ras-	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:obj	_	Gloss=lack.Vnoun.Masc.Cons
+7	rashìn	ras-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:obj	_	Gloss=lack.Vnoun.Masc.Cons
 8	amincêwar̃	amincêwaː	NOUN	_	Definite=Cons	7	comp:obj	_	Gloss=agreement.Fem.Cons|SpaceAfter=No|wordform=amincêwar̃sù
 9	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	8	mod@poss	_	Gloss=3Plur.Gen
 10	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=XX
@@ -467,7 +467,7 @@
 # text = Bandà kuma matsà lambàr̃ dà shùːgàbaː " Ali Saibou " yakèː fùskantàː à kân kaucèːwaː dàgà kân tafarkìn tsaːrìn mulkìː mài jàm'iyyàː ƙwàːyaː ɗaya tal, hakà kuma shùːgàbân yanàː faːmaː dà ƙaːrìn yawàn wànzuwar̃ rashìn amìncêwaː dà manufoːfin tattalin ar̃zìkiː dà gwamnatìnsà takèː aikìː dà suː.
 1	Bandà	bandà	ADP	_	_	30	mod	_	Gloss=apart_from
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
-3	matsà	mats-	NOUN	_	_	1	comp:obj	_	Gloss=press
+3	matsà	mats-	VERB	_	_	1	comp:obj	_	Gloss=press
 4	lambàr̃	lambàː	NOUN	_	Gender=Fem	3	compound	_	Gloss=sign.Fem.Cons
 5	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
 6	shùːgàbaː	shùːgàbaː	NOUN	_	_	8	mod@desc	_	Gloss=leader.Masc
@@ -501,7 +501,7 @@
 34	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	33	mod	_	Gloss=quantity.Masc.Cons
 35	wànzuwar̃	wanz-	VERB	_	Definite=Cons|Gender=Fem	34	mod	_	Gloss=occur.Vnoun.Fem.Cons
 36	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	35	mod	_	Gloss=lack.Vnoun.Masc.Cons
-37	amìncêwaː	amint-	NOUN	_	_	36	comp.obj	_	Gloss=agree.Vnoun.Fem
+37	amìncêwaː	amint-	VERB	_	_	36	comp.obj	_	Gloss=agree.Vnoun.Fem
 38	dà	dà	CCONJ	_	_	37	comp:obl	_	Gloss=XX
 39	manufoːfin	manufaː	NOUN	_	Definite=Cons|Number=Plur	38	comp:obj	_	Gloss=policy.Plur.Cons
 40	tattalin	tattaliː	NOUN	_	Definite=Cons|Gender=Masc	39	mod	_	Gloss=planning.Masc.Cons
@@ -680,7 +680,7 @@
 17	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=XX
 18	nuːnà	nuːn-	VERB	_	_	17	comp:aux	_	Gloss=show
 19	rashìn	ras-	VERB	_	Definite=Cons	18	comp:obj	_	Gloss=lack.Vnoun.Masc.Cons
-20	amìncêwaː	amint-	NOUN	_	_	19	comp.obj	_	Gloss=agree.Vnoun.Fem
+20	amìncêwaː	amint-	VERB	_	_	19	comp.obj	_	Gloss=agree.Vnoun.Fem
 21	dà	dà	CCONJ	_	_	20	comp:obl	_	Gloss=XX
 22	mulkìn	mulkìː	NOUN	_	Definite=Def	21	comp:obj	_	Gloss=government
 23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=COMP
