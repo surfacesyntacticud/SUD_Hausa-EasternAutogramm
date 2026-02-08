@@ -80,7 +80,7 @@
 2	loːkàciː	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	9	mod	_	Gloss=time.Masc
 3	kuma	kuma	PART	_	_	2	discourse@top	_	Gloss=also
 4	koː	koː	SCONJ	_	_	9	mod	_	Gloss=XX
-5	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	4	comp:obj	_	Gloss=XX
+5	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	4	comp:obj	_	Gloss=2Masc.Perf
 6	sàːmi	saːm-	VERB	_	_	5	comp:aux	_	Gloss=get
 7	laːyìː	laːyìː	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=line.Masc
 8	sai	sai	ADV	_	_	9	mod	_	Gloss=XX
@@ -93,7 +93,7 @@
 15	sòːsai	sòːsai	ADV	_	_	14	mod	_	Gloss=well|SpaceAfter=No
 16	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 17	har̃	har̃	CCONJ	_	Definite=Cons|Gender=Fem	18	cc	_	Gloss=XX
-18	baːkàː	yaː	AUX	_	Case=Acc|Gender=Masc|Person=2|Polarity=Neg	11	conj:coord	_	Gloss=XX
+18	baːkàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=2|Polarity=Neg	11	conj:coord	_	Gloss=2Masc.Prog.Neg
 19	iyà	iy-	VERB	_	_	18	comp:aux	_	Gloss=be_able_to
 20	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:obj	_	Gloss=hear.Vnoun.Masc.Cons
 21	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	20	comp:obj	_	Gloss=thing.Masc.Def
@@ -109,7 +109,7 @@
 2	àmmaː	àmmaː	CCONJ	_	_	5	discourse	_	Gloss=XX
 3	yànzu	yànzu	ADV	_	_	5	mod	_	Gloss=now
 4	al'amur̃àː	al'amur̃àː	NOUN	_	Number=Plur	5	subj	_	Gloss=XX
-5	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
+5	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
 6	faːrà	faːr-	VERB	_	_	5	comp:aux	_	Gloss=begin
 7	canjàːwaː	canj-	VERB	_	ExtPos=NOUN|Gender=Fem	6	comp:obj	_	Gloss=XX|SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -121,7 +121,7 @@
 2	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=year.Fem
 3	bìyar̃	bìyar̃	NUM	_	_	2	mod:num	_	Gloss=five
 4	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
-5	sukà	yaː	AUX	_	Aspect=Prog|Number=Plur|Person=3	4	comp:obj	_	Gloss=XX
+5	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Yes	4	comp:obj	_	Gloss=3Plur.Perf.Rel
 6	wucèː	wut-	VERB	_	_	5	comp:aux	_	Gloss=pass|SpaceAfter=No
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 8	ìdan	ìdan	SCONJ	_	_	29	mod	_	Gloss=if
@@ -173,7 +173,7 @@
 18	bàː	bàː	PART	_	Polarity=Neg	20	mod	_	Gloss=XX
 19	tàːre	tàːre	ADV	_	_	20	mod	_	Gloss=together
 20	dà	dà	ADP	_	_	15	mod	_	Gloss=with
-21	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	20	comp:obj	_	Gloss=XX
+21	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	20	comp:obj	_	Gloss=2Masc.Perf
 22	sàːmi	saːm-	VERB	_	_	21	comp:aux	_	Gloss=get
 23	laːyìː	laːyìː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=line.Masc
 24	ba	ba	PART	_	Polarity=Neg	20	mod	_	Gloss=XX|SpaceAfter=No
@@ -277,7 +277,7 @@
 # sent_id = 06_01_Wayoyin_Tarho__12
 # text = kaː ga doːlè à sàːmi haɗìn kâi tsàkaːnin ƙasàːshen duːniyàː kafin à shiryà hakà.
 # text_ortho = Kaː ga doːlè à sàːmi haɗìn kâi tsàkaːnin ƙasàːshen dūniyà kafin à shiryà hakà.
-1	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	3	parataxis@discourse	_	Gloss=XX
+1	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	3	parataxis@discourse	_	Gloss=2Masc.Perf
 2	ga	ganiː	VERB	_	_	1	comp:aux	_	Gloss=see
 3	doːlè	doːlè	ADV	_	_	0	root	_	Gloss=necessary
 4	à	yà	AUX	_	Mood=Sub|Person=4	3	mod	_	Gloss=XX
@@ -351,7 +351,7 @@
 10	juːnaː	juːnaː	PRON	_	PronType=Rcp	9	comp:obj	_	Gloss=XX|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	àmmaː	àmmaː	CCONJ	_	_	13	cc	_	Gloss=XX
-13	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	5	parataxis@conj	_	Gloss=XX
+13	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	5	parataxis@conj	_	Gloss=3Masc.Perf
 14	fi	fi	VERB	_	_	13	comp:aux	_	Gloss=XX
 15	sauƙiː	sauƙiː	NOUN	_	Gender=Masc	14	comp:obj	_	Gloss=XX
 16	kà	nàː	AUX	_	Aspect=Prog	13	subj	_	Gloss=XX
@@ -427,7 +427,7 @@
 9	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=COMP
 10	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	12	subj	_	Gloss=country.Plur.Cons
 11	Afir̃kà	Afir̃kà	PROPN	_	_	10	mod	_	Gloss=Africa
-12	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	9	comp:obj	_	Gloss=XX
+12	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Yes	9	comp:obj	_	Gloss=3Plur.Perf.Rel
 13	yi	yi	VERB	_	_	12	comp:aux	_	Gloss=do
 14	à	à	ADP	_	ExtPos=ADP	13	comp:obl	_	Gloss=at|Idiom=Yes
 15	ƙàr̃ƙashin	ƙàr̃ƙashin	ADP	_	_	14	comp:obj	_	Gloss=XX|InIdiom=Yes
@@ -438,7 +438,7 @@
 20	yànzu	yànzu	ADV	_	_	23	mod	_	Gloss=now
 21	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	23	subj	_	Gloss=country.Plur.Cons
 22	Afir̃kà	Afir̃kà	PROPN	_	_	21	mod	_	Gloss=Africa
-23	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	2	parataxis@conj	_	Gloss=XX
+23	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	2	parataxis@conj	_	Gloss=3Plur.Perf
 24	soːmà	soːm-	VERB	_	_	23	comp:aux	_	Gloss=XX
 25	ƙaːrà	ƙaːr-	VERB	_	_	24	comp:obj	_	Gloss=increase
 26	dàngàntakàː	dàngànta	NOUN	_	Case=Gen|Number=Sing|Person=1	25	comp:obj	_	Gloss=XX
