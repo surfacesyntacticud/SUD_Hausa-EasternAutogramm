@@ -194,7 +194,7 @@
 # text = sàːƙôn yakàn soːmàː neː dàgà wata wayàr̃ tàr̃hôː à yammacin Kyanadà, sànnan yà tàfi zuwàː Montreal " à gabashin Kyanadàn.
 # text_ortho = Sàːƙôn yakàn soːmàː neː dàgà wata wayàr̃ tàr̃hôː à yammacin Kyanadà, sànnan yà tàfi zuwàː 'Montreal' à gabashin Kyanadàn.
 1	sàːƙôn	sàːƙoː	NOUN	_	Definite=Def|Gender=Masc	2	mod	_	Gloss=XX
-2	yakàn	kàn	AUX	_	Aspect=Hab|Gender=Masc|Person=3	0	root	_	Gloss=XX
+2	yakàn	kàn	AUX	_	Aspect=Hab|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Hab
 3	soːmàː	soːm-	VERB	_	_	2	comp:aux	_	Gloss=XX
 4	neː	neː	PART	_	Gender=Masc|Number=Plur	3	discourse@foc	_	Gloss=XX
 5	dàgà	dàgà	ADP	_	_	3	comp:obl	_	Gloss=from
@@ -211,9 +211,9 @@
 16	zuwàː	zuwàː	ADP	_	_	15	comp:obl	_	Gloss=towards
 17	Montreal	Montreal	PROPN	_	_	16	comp:obj	_	Gloss=Montreal
 18	"	"	PUNCT	_	_	17	punct	_	Gloss=PUNCT|wordform='
-19	à	à	ADP	_	ExtPos=ADP	17	mod	_	Gloss=at|Idiom=Yes
-20	gabashin	gabashin	ADP	_	_	19	compound	_	Gloss=XX|InIdiom=Yes
-21	Kyanadàn	Kyanadàn	PROPN	_	Definite=Def	19	comp:obj	_	Gloss=Canada.Def|SpaceAfter=No
+19	à	à	ADP	_	_	17	mod	_	Gloss=at
+20	gabashin	gabashin	ADP	_	_	19	comp:obj	_	Gloss=east_of
+21	Kyanadàn	Kyanadàn	PROPN	_	Definite=Def	20	comp:obj	_	Gloss=Canada.Def|SpaceAfter=No
 22	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 06_01_Wayoyin_Tarho__9
