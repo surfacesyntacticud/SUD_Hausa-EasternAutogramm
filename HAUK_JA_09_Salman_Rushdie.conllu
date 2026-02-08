@@ -289,7 +289,7 @@
 7	kai	kai	VERB	_	_	6	comp:aux	_	Gloss=reach/carry_to
 8	harìː	harìː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=XX
 9	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
-10	zàci	zat-	AUX	_	_	9	comp:aux	_	Gloss=think
+10	zàci	zat-	VERB	_	_	9	comp:aux	_	Gloss=think
 11	cêːwaː	cêːwaː	SCONJ	_	_	10	comp:obj	_	Gloss=COMP
 12	waɗànnân	wannàn	DET	_	Deixis=Prox|Number=Plur|PronType=Dem	13	det	_	Gloss=Prox.Plur
 13	mutàneː	ùtûm	NOUN	_	Number=Plur	14	subj	_	Gloss=XX
@@ -338,7 +338,7 @@
 8	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	7	comp:obj	_	Gloss=XX
 9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	6	parataxis@conj	_	Gloss=XX
 10	yi	yi	VERB	_	_	9	comp:aux	_	Gloss=do
-11	gàba	gàba	ADV	_	_	10	comp:pred	_	Gloss=front
+11	gàba	gàba	ADV	_	_	10	comp:pred	_	Gloss=in_front
 12	dà	dà	ADP	_	_	10	comp:obl	_	Gloss=XX
 13	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	12	comp:obj	_	Gloss=XX
 14	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -423,8 +423,8 @@
 1	Shiːkèːnan	shiːkèːnan	INTJ	_	_	11	discourse	_	Gloss=OK|wordform=Shikenan
 2	sai	sai	ADV	_	_	11	mod	_	Gloss=XX
 3	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	11	subj	_	Gloss=child.Plur.Cons
-4	sàndan	sàndaː	NOUN	_	Definite=Cons|Gender=Masc	3	compound	_	Gloss=XX
-5	ciki	ciki	ADV	_	_	4	compound	_	Gloss=inside
+4	sàndan	sàndaː	NOUN	_	Definite=Cons|Gender=Masc	3	compound	_	Gloss=baton.Masc.Cons
+5	ciki	ciki	ADV	_	_	3	compound	_	Gloss=inside
 6	tàːre	tàːre	ADV	_	_	7	mod	_	Gloss=together
 7	dà	dà	CCONJ	_	_	9	cc	_	Gloss=and
 8	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	9	det	_	Gloss=some.Plur.Spec

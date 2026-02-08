@@ -72,66 +72,66 @@
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__4
 # text = Àmmaː koː dà yakè 'yan sàndan kashè tàr̃zòːmaː sun shaːwoː kân lamàr̃în, har̃ yànzu àkwai àlàːmun rashìn kwànciyar̃ hankàliː sabòːdà jiyà jàːmì'an kiːwòn laːfiyàː sai dà sukà kwaːshè majìnyàtaː dàgà bàbban asìbitìn gàrîn, loːkàcîn dà 'yan sàndaː sukà riƙà har̃bìː à hàr̃aːbàr̃ asìbitìn.
-1	Àmmaː	àmmaː	CCONJ	_	_	9	discourse	_	Gloss=XX
-2	koː	koː	SCONJ	_	ExtPos=ADV	9	mod	_	Gloss=XX
-3	dà	dà	SCONJ	_	_	2	unk	_	Gloss=COMP
-4	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	3	comp:obj	_	Gloss=XX
+1	Àmmaː	àmmaː	CCONJ	_	_	16	discourse	_	Gloss=XX
+2	koː	koː	SCONJ	_	ExtPos=SCONJ	16	mod	_	Gloss=even_if|Idiom=Yes
+3	dà	dà	SCONJ	_	_	2	unk	_	Gloss=COMP|InIdiom=Yes
+4	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Relative2=Yes	3	comp:obj	_	Gloss=XX|InIdiom=Yes
 5	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	9	subj	_	Gloss=child.Plur.Cons
-6	sàndan	sàndaː	NOUN	_	_	5	compound	_	Gloss=XX
+6	sàndan	sàndaː	NOUN	_	_	5	compound	_	Gloss=baton.Masc.Cons
 7	kashè	kas-	VERB	_	Gender=Masc	5	compound	_	Gloss=kill
 8	tàr̃zòːmaː	tàr̃zòːmaː	NOUN	_	Gender=Fem	7	compound	_	Gloss=riot.Fem
-9	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
-10	shaːwoː	shaːwoː	VERB	_	_	9	comp:aux	_	Gloss=XX
-11	kân	kâi	ADP	_	_	10	comp:obj	_	Gloss=on_top_of
-12	lamàr̃în	lamàr̃iː	NOUN	_	Definite=Def|Gender=Masc	11	comp:obj	_	Gloss=XX|SpaceAfter=No
-13	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-14	har̃	har̃	SCONJ	_	Definite=Cons|Gender=Fem	16	mod	_	Gloss=XX
-15	yànzu	yànzu	ADV	_	_	16	mod	_	Gloss=now
-16	àkwai	àkwai	PART	_	PartType=Pred	9	conj:coord	_	Gloss=there_is
+9	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	2	comp:obj	_	Gloss=XX
+10	shaːwoː	shaːwoː	VERB	_	_	9	comp:aux	_	Gloss=tackle
+11	kân	kâi	ADP	_	_	10	comp:obl	_	Gloss=on_top_of
+12	lamàr̃în	lamàr̃iː	NOUN	_	Definite=Def|Gender=Masc	11	comp:obj	_	Gloss=problem.Masc.Def|SpaceAfter=No
+13	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+14	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	16	mod	_	Gloss=up_to
+15	yànzu	yànzu	ADV	_	_	14	comp:obj	_	Gloss=now
+16	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	Gloss=there_is
 17	àlàːmun	àlàːmuː	NOUN	_	Definite=Cons|Gender=Masc	16	subj	_	Gloss=XX
 18	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	17	mod	_	Gloss=lack.Vnoun.Masc.Cons
-19	kwànciyar̃	kwànciyaː	VERB	_	Gender=Fem	18	comp.obj	_	Gloss=XX
-20	hankàliː	hankàliː	NOUN	_	Gender=Masc	19	mod	_	Gloss=XX
-21	sabòːdà	sabòːdà	SCONJ	_	_	10	mod	_	Gloss=because
+19	kwànciyar̃	kwant-	VERB	_	Gender=Fem	18	comp.obj	_	Gloss=lie.Vnoun.Fem.Cons
+20	hankàliː	hankàliː	NOUN	_	Gender=Masc	19	mod	_	Gloss=mind.Masc
+21	sabòːdà	sabòːdà	SCONJ	_	_	16	mod	_	Gloss=because
 22	jiyà	jiyà	ADV	_	_	28	parataxis	_	Gloss=yesterday
 23	jàːmì'an	jàːmì'aː	NOUN	_	Definite=Cons|Number=Plur	28	subj	_	Gloss=XX
 24	kiːwòn	kiːwòː	NOUN	_	Definite=Cons|Gender=Masc	23	mod	_	Gloss=XX
 25	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	24	mod	_	Gloss=health.Fem
-26	sai	sai	ADV	_	_	28	mod	_	Gloss=XX
-27	dà	dà	ADP	_	_	26	unk	_	Gloss=XX
+26	sai	sai	ADV	_	_	28	mod	_	Gloss=then
+27	dà	dà	SCONJ	_	_	26	compound	_	Gloss=COMP
 28	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	21	comp:obj	_	Gloss=XX
 29	kwaːshè	kwaːs-	VERB	_	_	28	comp:aux	_	Gloss=remove
-30	majìnyàtaː	majìnyàtaː	NOUN	_	Number=Plur	29	comp:obj	_	Gloss=XX
+30	majìnyàtaː	majìnyàciː	NOUN	_	Number=Plur	29	comp:obj	_	Gloss=patient.Plur
 31	dàgà	dàgà	ADP	_	_	29	comp:obl	_	Gloss=from
 32	bàbban	bàbba	ADJ	_	Definite=Cons|Gender=Masc	33	mod	_	Gloss=big.Masc.Cons
 33	asìbitìn	asìbitìː	NOUN	_	Definite=Cons|Gender=Masc	31	comp:obj	_	Gloss=hospital.Masc.Cons
-34	gàrîn	gàriː	NOUN	_	Definite=Def|Gender=Masc	33	mod	_	Gloss=XX|SpaceAfter=No
-35	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
-36	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	40	mod	_	Gloss=time.Masc.Def
+34	gàrîn	gàriː	NOUN	_	Definite=Def|Gender=Masc	33	mod	_	Gloss=city.Masc.Def|SpaceAfter=No
+35	,	,	PUNCT	_	_	36	punct	_	Gloss=PUNCT
+36	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	29	mod	_	Gloss=time.Masc.Def
 37	dà	dà	SCONJ	_	_	36	mod@relcl	_	Gloss=COMP
 38	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	40	subj	_	Gloss=child.Plur.Cons
 39	sàndaː	sàndaː	NOUN	_	Gender=Masc	38	compound	_	Gloss=baton.Masc
-40	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	21	comp:obj	_	Gloss=XX
+40	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	37	comp:obj	_	Gloss=XX
 41	riƙà	riƙ-	VERB	_	_	40	comp:aux	_	Gloss=keep_doing
-42	har̃bìː	har̃bìː	NOUN	_	Gender=Masc	41	comp:obj	_	Gloss=XX
-43	à	à	ADP	_	_	41	comp:obl	_	Gloss=at
+42	har̃bìː	har̃b-	VERB	_	Gender=Masc	41	comp:obj	_	Gloss=shoot.Vnoun.Masc
+43	à	à	ADP	_	_	42	mod	_	Gloss=at
 44	hàr̃aːbàr̃	hàr̃aːbàː	NOUN	_	Gender=Fem	43	comp:obj	_	Gloss=grounds.Fem.Cons
-45	asìbitìn	asìbitìː	NOUN	_	Definite=Cons|Gender=Masc	44	mod	_	Gloss=hospital.Masc.Cons|SpaceAfter=No
-46	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
+45	asìbitìn	asìbitìː	NOUN	_	Definite=Def|Gender=Masc	44	mod	_	Gloss=hospital.Masc.Def|SpaceAfter=No
+46	.	.	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__5
 # text = R̃àhòːtannîn sun ci gàba dà cêːwaː wannàn shiː nèː taːshìn hankàliː na àddiːnìː mafìː muːnìː dà akà taɓà yîː à Nàjeːr̃iyàː tun baːyan rìkicin Kàfàncàn dà akà yi à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà ukù tsàkaːnin Mùsùlmiː dà Kir̃istoːciː, indà mutàːneː goːmà shâː huɗu sukà hàlakà.
-1	R̃àhòːtannîn	r̃àhoːtòː	NOUN	_	Definite=Def|Number=Plur	2	subj	_	Gloss=report.Plur
+1	R̃àhòːtannîn	r̃àhoːtòː	NOUN	_	Definite=Def|Number=Plur	2	subj	_	Gloss=report.Plur.Def
 2	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
-3	ci	ci	VERB	_	_	2	comp:aux	_	Gloss=XX
-4	gàba	gàba	ADV	_	_	3	mod	_	Gloss=front
+3	ci	ci	VERB	_	_	2	comp:aux	_	Gloss=proceed
+4	gàba	gàba	ADV	_	_	3	mod	_	Gloss=in_front
 5	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=XX
 6	cêːwaː	cêː	VERB	_	Gender=Fem	5	comp:obj	_	Gloss=XX
 7	wannàn	wannàn	PRON	_	Deixis=Prox|PronType=Dem	10	det	_	Gloss=Prox.Sing
 8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	Gloss=XX
 9	nèː	neː	AUX	_	Gender=Masc|Number=Plur	6	comp:obj	_	Gloss=XX
-10	taːshìn	taːs-	NOUN	_	Definite=Cons|Gender=Masc	9	subj	_	Gloss=rise.Vnoun.Masc.Cons
-11	hankàliː	hankàliː	NOUN	_	Gender=Masc	10	mod	_	Gloss=XX
+10	taːshìn	taːs-	VERB	_	Definite=Cons|Gender=Masc	9	subj	_	Gloss=rise.Vnoun.Masc.Cons
+11	hankàliː	hankàliː	NOUN	_	Gender=Masc	10	mod	_	Gloss=mind.Masc
 12	na	na	PART	_	Case=Gen|PartType=Pred	10	mod	_	Gloss=Gen
 13	àddiːnìː	àddiːnìː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=religion.Masc
 14	mafìː	mafìː	PART	_	Gender=Masc	17	subj	_	Gloss=XX
@@ -204,7 +204,7 @@
 27	Tafaːwà	Tafaːwà	PROPN	_	_	25	comp:obj	_	Gloss=Tafawa
 28	Ɓaleːwà	Ɓaleːwà	PROPN	_	_	27	flat@name	_	Gloss=Balewa|SpaceAfter=No
 29	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
-30	gàrîn	gàriː	NOUN	_	Definite=Def|Gender=Masc	27	conj:appos	_	Gloss=XX
+30	gàrîn	gàriː	NOUN	_	Definite=Def|Gender=Masc	27	conj:appos	_	Gloss=city.Masc.Def
 31	dà	dà	SCONJ	_	_	30	mod@relcl	_	Gloss=COMP
 32	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	31	mod@relcl	_	Gloss=XX
 33	duk	dukà	DET	_	_	43	mod	_	Gloss=XX
@@ -244,9 +244,9 @@
 15	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	14	comp:pred	_	Gloss=use.Masc
 16	dà	dà	ADP	_	_	15	comp:obl	_	Gloss=XX
 17	mayankar̃	mayankaː	ADJ	_	Definite=Cons|Number=Plur	16	comp:obj	_	Gloss=XX
-18	gàrîn	gàriː	NOUN	_	Definite=Cons|Gender=Masc	17	mod	_	Gloss=XX
+18	gàrîn	gàriː	NOUN	_	Definite=Cons|Gender=Masc	17	mod	_	Gloss=city.Masc.Def
 19	don	don	SCONJ	_	_	12	mod	_	Gloss=so_that
-20	yankà	yank-	AUX	_	Case=Gen|Gender=Masc|Person=2|PronType=Prs	19	comp:obj	_	Gloss=cut
+20	yankà	yank-	VERB	_	Case=Gen|Gender=Masc|Person=2|PronType=Prs	19	comp:obj	_	Gloss=cut
 21	àlàduː	àlàduː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=XX|SpaceAfter=No
 22	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
@@ -257,8 +257,8 @@
 3	nèː	neː	PART	_	_	1	discourse@foc	_	Gloss=XX
 4	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 5	sai	sai	ADV	_	_	8	mod	_	Gloss=XX
-6	taːshìn	taːs-	NOUN	_	Definite=Cons|Gender=Masc	8	subj	_	Gloss=rise.Vnoun.Masc.Cons
-7	hankàlîn	hankàliː	NOUN	_	Definite=Def|Gender=Masc	6	mod	_	Gloss=XX
+6	taːshìn	taːs-	VERB	_	Definite=Cons|Gender=Masc	8	subj	_	Gloss=rise.Vnoun.Masc.Cons
+7	hankàlîn	hankàliː	NOUN	_	Definite=Def|Gender=Masc	6	mod	_	Gloss=mind.Masc.Def
 8	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 9	bàzu	bàzaː	VERB	_	_	8	comp:aux	_	Gloss=XX
 10	sauran	sauraː	ADP	_	Definite=Cons|Gender=Masc	9	comp:obj	_	Gloss=rest.Masc.Cons
@@ -409,7 +409,7 @@
 22	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	20	comp:cleft	_	Gloss=XX
 23	janyoː	j-	VERB	_	_	22	comp:aux	_	Gloss=XX
 24	waɗànnân	wannàn	DET	_	Deixis=Prox|Number=Plur|PronType=Dem	23	comp:obj	_	Gloss=Prox.Plur
-25	tàːshe-tàːshen	tàːshe-tà-	ADJ	_	Definite=Cons|Number=Plur	23	comp:obj	_	Gloss=XX
+25	tàːshe-tàːshen	taːs-	VERB	_	Definite=Cons|Number=Plur	23	comp:obj	_	Gloss=rise.Vnoun.Plur.Cons
 26	hankulàː	hankulàː	NOUN	_	Gender=Fem	25	mod	_	Gloss=XX|SpaceAfter=No
 27	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
@@ -579,8 +579,8 @@
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__16
 # text = Taːshìn hankàlîn yaː biyoː baːyan zàngà-zangàr̃ dà dubbàn Mùsùlmiː sukà yi, don nuːnà rashìn amìncêːwaː dà zìyaːr̃àr̃ dà wani mài wa'àzin àddiːnìn Kir̃istàː, ɗan Jaːmùs mài suːnaː " Reinhard Bonnke " , ya kai Kanòː.
-1	Taːshìn	taːshìː	NOUN	_	Definite=Cons|Gender=Masc	3	subj	_	Gloss=XX
-2	hankàlîn	hankàliː	NOUN	_	_	1	mod	_	Gloss=XX
+1	Taːshìn	taːs-	VERB	_	Definite=Cons|Gender=Masc	3	subj	_	Gloss=rise.Vnoun.Masc.Cons
+2	hankàlîn	hankàliː	NOUN	_	_	1	mod	_	Gloss=mind.Masc.Def
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
 4	biyoː	bi	VERB	_	_	3	comp:aux	_	Gloss=XX
 5	baːyan	baːyan	ADP	_	_	4	mod	_	Gloss=after

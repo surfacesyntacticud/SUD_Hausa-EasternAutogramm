@@ -169,7 +169,7 @@
 9	ƙungìyâr̃	ƙungìyaː	NOUN	_	Definite=Def|Gender=Fem	8	compound	_	Gloss=association.Fem.Def
 10	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
 11	akèː	nàː	AUX	_	Aspect=Prog|Person=4	10	comp:obj	_	Gloss=XX|wordform=akề
-12	zàrgiː	zarg-	NOUN	_	Gender=Masc	11	comp:aux	_	Gloss=accuse.Vnoun.Masc
+12	zàrgiː	zarg-	VERB	_	Gender=Masc	11	comp:aux	_	Gloss=accuse.Vnoun.Masc
 13	nèː	neː	AUX	_	Gender=Masc|Number=Plur	7	comp:obj	_	Gloss=XX|SpaceAfter=No
 14	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 15	Huːkuːmàr̃	huːkuːmàː	NOUN	_	Definite=Def|Gender=Fem	16	subj	_	Gloss=agency.Fem.Def
@@ -204,7 +204,7 @@
 8	wani	wani	PRON	_	Definite=Spec|Gender=Masc	7	comp:obj	_	Gloss=some.Masc.Spec
 9	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
 10	akèː	nàː	AUX	_	Aspect=Prog|Person=4	9	comp:obj	_	Gloss=XX
-11	zàrgiː	zarg-	NOUN	_	Gender=Masc	10	comp:aux	_	Gloss=accuse.Vnoun.Masc.Cons|SpaceAfter=No
+11	zàrgiː	zarg-	VERB	_	Gender=Masc	10	comp:aux	_	Gloss=accuse.Vnoun.Masc|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	8	mod@relcl	_	Gloss=that.Masc
 14	kuma	kuma	PART	_	_	13	discourse@top	_	Gloss=also
@@ -285,7 +285,7 @@
 20	tsarè	tsar-	VERB	_	_	18	comp:aux	_	Gloss=XX
 21	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	20	comp:obj	_	Gloss=that.Masc
 22	akèː	nàː	AUX	_	Aspect=Prog|Person=4	21	mod@relcl	_	Gloss=XX
-23	zàrgiː	zarg-	NOUN	_	Gender=Masc	22	comp:aux	_	Gloss=accuse
+23	zàrgiː	zarg-	VERB	_	Gender=Masc	22	comp:aux	_	Gloss=accuse.Vnoun.Masc
 24	dà	dà	ADP	_	_	23	comp:obl	_	Gloss=XX
 25	ɗaukàr̃	ɗauk-	VERB	_	Gender=Fem	24	comp:obj	_	Gloss=take.Vnoun.Fem.Cons
 26	ƙwaːyoːyin	ƙwaːyoːyiː	NOUN	_	Definite=Def|Gender=Masc	25	comp:obj	_	Gloss=XX|SpaceAfter=No
@@ -427,7 +427,7 @@
 27	dòːmin	dòːmin	SCONJ	_	_	23	mod	_	Gloss=XX
 28	saːmùn	saːmùː	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	27	comp:obj	_	Gloss=get.Vnoun.Masc.Cons
 29	sauƙin	sauƙiː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	Gloss=facility.Masc.Cons
-30	hadìyêːwâr̃	hadiy-	NOUN	_	Gender=Fem	29	mod	_	Gloss=swallow.Vnoun.Fem.Def|SpaceAfter=No
+30	hadìyêːwâr̃	hadiy-	VERB	_	Gender=Fem	29	mod	_	Gloss=swallow.Vnoun.Fem.Def|SpaceAfter=No
 31	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 32	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	21	conj:coord	_	Gloss=that.Fem
 33	kuma	kuma	PART	_	_	32	discourse@top	_	Gloss=also
@@ -748,7 +748,7 @@
 8	:	:	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 9	“	“	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 10	Ci	ci	VERB	_	Mood=Imp	7	comp:obj	_	Gloss=do.Imp
-11	gàba	gàba	ADV	_	_	10	mod	_	Gloss=front
+11	gàba	gàba	ADV	_	_	10	mod	_	Gloss=in_front
 12	dà	dà	ADP	_	_	10	mod	_	Gloss=XX
 13	nuːnàː	nuːn-	VERB	_	Gender=Masc	12	comp:obj	_	Gloss=show
 14	mîn	mîn	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	13	comp:obl	_	Gloss=XX
