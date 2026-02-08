@@ -134,9 +134,9 @@
 9	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	8	comp:obj	_	Gloss=person.Masc.Def
 10	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	8	mod	_	Gloss=until
 11	sai	sai	ADP	_	_	10	comp:obj	_	Gloss=until
-12	illaː	illaː	X	_	_	11	comp:obj	_	Gloss=XX
-13	maː	maː	PART	_	_	12	discourse@top	_	Gloss=XX
-14	shaː	shaː	X	_	ExtPos=ADV	12	flat@foreign	_	Gloss=XX|Idiom=Yes
+12	illaː	illaː	X	_	_	11	comp:obj	_	Gloss=X
+13	maː	maː	X	_	_	12	flat@foreign	_	Gloss=X
+14	shaː	shaː	X	_	_	13	flat@foreign	_	Gloss=X|Idiom=Yes
 15	Àllaːhù	Àllaːhù	PROPN	_	_	14	flat@foreign	_	Gloss=Àllaːhù|InIdiom=Yes|SpaceAfter=No
 16	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
@@ -344,7 +344,7 @@
 18	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	6	comp:obj	_	Gloss=XX
 19	iyà	iy-	VERB	_	_	18	comp:aux	_	Gloss=be_able_to
 20	saːmùn	saːmùː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:obj	_	Gloss=get.Vnoun.Masc.Cons
-21	ɗaurìn	ɗaur-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	20	comp:obj	_	Gloss=XX
+21	ɗaurìn	ɗaur-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	20	comp:obj	_	Gloss=tie.Vnoun.Masc.Cons
 22	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	21	mod	_	Gloss=XX
 23	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	22	comp:obj	_	Gloss=year.Fem
 24	bìyar̃	bìyar̃	NUM	_	_	23	mod:num	_	Gloss=five
@@ -381,7 +381,7 @@
 8	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	9	mod@desc	_	Gloss=year.Fem.Cons
 9	alìf	alìf	NUM	_	_	7	comp:obj	_	Gloss=one_thousand
 10	dà	dà	CCONJ	_	_	11	cc	_	Gloss=and
-11	ɗàːriː	ɗàːriː	NOUN	_	Number=Plur	9	conj:coord	_	Gloss=XX
+11	ɗàːriː	ɗàːriː	NOUN	_	Number=Plur	9	conj:coord	_	Gloss=hundred
 12	tar̃à	tar̃à	NUM	_	_	11	mod:num	_	Gloss=nine
 13	dà	dà	CCONJ	_	_	14	cc	_	Gloss=and
 14	sìttin	sìttin	NUM	_	_	11	conj:coord	_	Gloss=XX
@@ -463,7 +463,7 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya__21
 # text = Zuwànsà koːtùn dà ya fi koːwànneː muhimmancìː shiː nèː neːman yà ga an ɗaurè wasu jàːmìꞌan tsàron ƙasar̃ Nàːjeːr̃iyàː biyu waɗàndà akà zàrgaː dà lâifin kashè Dele Giwa, wàːtòː ɗan jàr̃iːdàr̃ nan dà ya rasà rânsà dàliːlìn wani bâm dà akà aikoː masà ta cikin wàsiːƙàː tun shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà.
-1	Zuwàn	zoː	VERB	_	_	10	subj	_	Gloss=XX|SpaceAfter=No|wordform=Zuwànsà
+1	Zuwàn	zoː	VERB	_	_	10	subj	_	Gloss=go.Vnoun.Masc.Cons|SpaceAfter=No|wordform=Zuwànsà
 2	sà	sà	PRON	_	_	1	mod@poss	_	Gloss=3Masc.Gen
 3	koːtùn	koːtùn	NOUN	_	_	1	comp:obj@G	_	Gloss=XX
 4	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
@@ -516,7 +516,7 @@
 51	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	52	mod@desc	_	Gloss=year.Fem.Cons
 52	alìf	alìf	NUM	_	_	50	comp:obj	_	Gloss=one_thousand
 53	dà	dà	CCONJ	_	_	54	cc	_	Gloss=and
-54	ɗàriː	ɗàriː	NUM	_	Gender=Fem	52	conj:coord	_	Gloss=hundred.Fem
+54	ɗàriː	ɗàriː	NUM	_	Gender=Fem	52	conj:coord	_	Gloss=hundred
 55	tar̃à	tar̃à	NUM	_	_	54	mod:num	_	Gloss=nine
 56	dà	dà	CCONJ	_	_	57	cc	_	Gloss=and
 57	tàmàːnin	tàmàːnin	NUM	_	_	54	conj:coord	_	Gloss=eighty
