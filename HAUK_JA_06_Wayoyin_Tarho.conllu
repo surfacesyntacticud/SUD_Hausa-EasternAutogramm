@@ -69,7 +69,7 @@
 25	ƙasàːsheː	ƙasàːsheː	NOUN	_	Gender=Masc	20	conj:coord	_	Gloss=XX
 26	kàmar̃	kàmar̃	ADP	_	_	25	mod	_	Gloss=like
 27	Zàyâr̃	Zàyâr̃	PROPN	_	Definite=Cons|Gender=Fem	26	comp:obj	_	Gloss=Zàyâr̃|wordform=Zàyâr
-28	dà	dà	CCONJ	_	_	29	cc	_	Gloss=XX
+28	dà	dà	CCONJ	_	_	29	cc	_	Gloss=and
 29	Sudân	Sudân	PROPN	_	_	27	conj:coord	_	Gloss=Sudan|SpaceAfter=No
 30	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
@@ -202,8 +202,8 @@
 7	wayàr̃	wayàː	NOUN	_	Definite=Cons|Gender=Fem	5	comp:obj	_	Gloss=XX
 8	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	7	compound	_	Gloss=XX
 9	à	à	ADP	_	ExtPos=ADP	7	mod	_	Gloss=at|Idiom=Yes
-10	yammacin	yammacin	ADP	_	_	9	compound	_	Gloss=XX|InIdiom=Yes
-11	Kyanadà	Kyanadà	PROPN	_	_	9	comp:obj	_	Gloss=Canada|SpaceAfter=No
+10	yammacin	yammacin	ADP	_	_	9	comp:obj	_	Gloss=XX|InIdiom=Yes
+11	Kyanadà	Kyanadà	PROPN	_	_	10	comp:obj	_	Gloss=Canada|SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 13	sànnan	sànnan	ADV	_	_	14	mod	_	Gloss=then
 14	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	2	conj:coord	_	Gloss=XX
@@ -308,7 +308,7 @@
 10	akèː	nàː	AUX	_	Aspect=Prog|Person=4	9	comp:obj	_	Gloss=XX
 11	bùkaːtàː	bùkaːtàː	NOUN	_	ExtPos=NOUN|Gender=Fem	10	comp:aux	_	Gloss=XX|SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
-13	dà	dà	CCONJ	_	_	15	cc	_	Gloss=XX
+13	dà	dà	CCONJ	_	_	15	cc	_	Gloss=and
 14	kuma	kuma	PART	_	_	13	discourse@top	_	Gloss=also
 15	kuɗîn	kuɗiː	NOUN	_	Definite=Def|Gender=Masc	8	conj:coord	_	Gloss=XX
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=COMP
@@ -341,13 +341,13 @@
 # text_ortho = Tòː Zambìyà dà Mazàmbîk sunàː hannun rìːgaː nèː dà jūnaː,¹ àmmaː yaː fi sauƙiː kà yi wayàː zuwàː ƙasàːshen Tūr̃ai màimakon kà bugà wayàː zuwàː Mazàmbîk.
 1	tòː	tòː	INTJ	_	_	5	discourse	_	Gloss=XX
 2	Zambìyà	Zambìyà	PROPN	_	_	5	subj	_	Gloss=Zambìyà
-3	dà	dà	CCONJ	_	_	4	cc	_	Gloss=XX
+3	dà	dà	CCONJ	_	_	4	cc	_	Gloss=and
 4	Mazàmbîk	Mazàmbîk	PROPN	_	_	2	conj:coord	_	Gloss=Mazàmbîk
 5	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=XX
 6	hannun	hannuː	NOUN	_	_	5	comp:pred	_	Gloss=XX
 7	rìːgaː	rìːgaː	NOUN	_	Gender=Fem	6	mod	_	Gloss=XX
 8	nèː	neː	PART	_	Gender=Masc|Number=Plur	6	discourse@foc	_	Gloss=XX
-9	dà	dà	CCONJ	_	_	6	mod	_	Gloss=XX
+9	dà	dà	CCONJ	_	_	6	mod	_	Gloss=and
 10	juːnaː	juːnaː	PRON	_	PronType=Rcp	9	comp:obj	_	Gloss=XX|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	àmmaː	àmmaː	CCONJ	_	_	13	cc	_	Gloss=XX
@@ -400,7 +400,7 @@
 5	akèː	nàː	AUX	_	Aspect=Prog|Person=4	4	comp:obj	_	Gloss=XX
 6	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:aux	_	Gloss=do.Vnoun.Masc
 7	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=with
-8	wayàr̃	wayàr̃	ADP	_	Gender=Fem	7	comp:obj	_	Gloss=XX
+8	wayàr̃	wayàr̃	NOUN	_	Gender=Fem	7	comp:obj	_	Gloss=XX
 9	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	8	compound	_	Gloss=XX
 10	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=XX
 11	ɓaːtà	ɓaːtà	VERB	_	_	10	comp:aux	_	Gloss=XX
@@ -430,8 +430,8 @@
 12	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	9	comp:obj	_	Gloss=XX
 13	yi	yi	VERB	_	_	12	comp:aux	_	Gloss=do
 14	à	à	ADP	_	ExtPos=ADP	13	comp:obl	_	Gloss=at|Idiom=Yes
-15	ƙàr̃ƙashin	ƙàr̃ƙashin	ADP	_	_	14	compound	_	Gloss=XX|InIdiom=Yes
-16	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	14	comp:obj	_	Gloss=country.Plur.Cons
+15	ƙàr̃ƙashin	ƙàr̃ƙashin	ADP	_	_	14	comp:obj	_	Gloss=XX|InIdiom=Yes
+16	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	15	comp:obj	_	Gloss=country.Plur.Cons
 17	Tuːr̃ai	Tuːr̃ai	PROPN	_	_	16	mod	_	Gloss=Tuːr̃ai|SpaceAfter=No
 18	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 19	àmmaː	àmmaː	CCONJ	_	_	23	cc	_	Gloss=XX
@@ -455,11 +455,11 @@
 4	shiryà	shir-	VERB	_	_	3	comp:aux	_	Gloss=prepare
 5	wani	wani	DET	_	Definite=Spec|Gender=Masc	6	det	_	Gloss=some.Masc.Spec
 6	laːyìn	laːyìː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	Gloss=XX
-7	wayàr̃	wayàr̃	ADP	_	Definite=Cons|Gender=Fem	6	mod	_	Gloss=XX
+7	wayàr̃	wayàr̃	NOUN	_	Definite=Cons|Gender=Fem	6	mod	_	Gloss=XX
 8	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	7	compound	_	Gloss=XX
 9	tsàkaːnin	tsàkaːnin	ADP	_	_	6	mod	_	Gloss=between
 10	Toːgò	Toːgò	PROPN	_	_	9	comp:obj	_	Gloss=Toːgò
-11	dà	da	CCONJ	_	_	12	cc	_	Gloss=XX|wordform=da
+11	dà	da	CCONJ	_	_	12	cc	_	Gloss=and|wordform=da
 12	Gaːnà	Gaːnà	PROPN	_	_	10	conj:coord	_	Gloss=Gaːnà|SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
@@ -481,7 +481,7 @@
 13	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc	12	comp:aux	_	Gloss=put
 14	râi	râi	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=life.Masc
 15	nân	nân	ADV	_	PronType=Dem	20	mod	_	Gloss=here
-16	dà	dà	CCONJ	_	_	17	cc	_	Gloss=with
+16	dà	dà	CCONJ	_	_	17	cc	_	Gloss=and
 17	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	15	conj:coord	_	Gloss=year.Fem
 18	bìyar̃	bìyar̃	NUM	_	_	17	mod:num	_	Gloss=five|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT

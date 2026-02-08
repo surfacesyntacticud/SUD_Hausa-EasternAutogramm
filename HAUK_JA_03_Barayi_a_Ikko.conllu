@@ -5,7 +5,7 @@
 3	tsàkaːnin	tsàkaːnin	ADP	_	Definite=Cons	2	comp:obl	_	Gloss=between
 4	ꞌyan	ɗan	ADJ	_	Definite=Cons|Number=Plur	3	comp:obj	_	Gloss=XX
 5	sàndaː	sàndaː	NOUN	_	_	4	compound	_	Gloss=XX
-6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=XX
+6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=and
 7	ɓàràːyiː	ɓàraːròː	NOUN	_	Number=Plur	4	conj:coord	_	Gloss=XX
 8	à	à	ADP	_	_	2	mod	_	Gloss=at
 9	Ìkko	Ìkko	PROPN	_	_	8	comp:obj	_	Gloss=Lagos
@@ -13,7 +13,7 @@
 # sent_id = 03_Barayi_a_Ikko__2a
 # text = jiyà dà dare à bir̃nin Ìkko wasu ꞌyan sàndaː màːsu ɗàuke dà màkàːmai sukà iskè wasu ɓàràːyiː sunàː ƙòːƙariː sù fasà ƙoːfàr̃ bankìn " First Bank" don sù shìga ciki .
 1	jiyà	jiyà	ADV	_	_	14	discourse	_	Gloss=XX
-2	dà	dà	ADP	_	_	1	mod	_	Gloss=at
+2	dà	dà	ADP	_	_	1	mod	_	Gloss=with
 3	dare	dare	ADV	_	_	2	comp:obj	_	Gloss=XX
 4	à	à	ADP	_	_	14	mod	_	Gloss=at
 5	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	Gloss=city.Masc.Cons
@@ -56,7 +56,7 @@
 7	nèː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Gloss=XX
 8	kuma	kuma	PART	_	PartType=Disc	7	discourse@top	_	Gloss=also
 9	bankìː	bankìː	NOUN	_	Gender=Masc	7	dislocated@comp	_	Gloss=XX
-10	mafìː	mafìː	ADP	_	_	9	mod	_	_
+10	mafìː	mafìː	ADP	_	_	9	mod	_	Gloss=exceeding_in
 11	girmaː	girmaː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=XX
 12	à	à	ADP	_	_	10	mod	_	Gloss=at
 13	cikin	cikin	ADP	_	_	12	comp:obj	_	Gloss=inside
@@ -118,7 +118,7 @@
 3	ꞌyan	ɗan	NOUN	_	Definite=Cons|Number=Plur	1	conj:appos	_	Gloss=XX
 4	sàndân	sàndaː	NOUN	_	_	3	compound	_	Gloss=XX
 5	nan	nan	DET	_	PronType=Dem	8	mod	_	Gloss=XX
-6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=XX
+6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=and
 7	nan	nan	ADV	_	Definite=Def|PronType=Dem	5	conj:coord	_	Gloss=XX
 8	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 9	shìga	shig-	VERB	_	ExtPos=NOUN|Gender=Fem	8	comp:aux	_	Gloss=XX
@@ -172,7 +172,7 @@
 21	ukù	ukù	NUM	_	_	20	flat@num	_	Gloss=three
 22	neː	neː	PART	_	Gender=Masc|Number=Plur	19	discourse@foc	_	Gloss=XX|SpaceAfter=No
 23	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
-24	kuma	kuma	PART	_	_	25	cc	_	Gloss=also
+24	kuma	kuma	CCONJ	_	_	25	cc	_	Gloss=also
 25	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	conj:coord	_	Gloss=XX
 26	tabbàtaː	tabbàtaː	VERB	_	ExtPos=NOUN|Gender=Fem	25	comp:aux	_	Gloss=XX
 27	sauraː	sauraː	NOUN	_	Gender=Masc	34	subj	_	Gloss=XX
@@ -239,7 +239,7 @@
 15	cêːwaː	cêːwaː	SCONJ	_	_	14	comp:obj	_	Gloss=COMP
 16	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	26	subj	_	Gloss=quantity.Masc.Cons
 17	fàshe-fàshe	fàshe-fàshe	NOUN	_	_	16	mod	_	Gloss=XX
-18	dà	dà	CCONJ	_	_	19	cc	_	Gloss=XX
+18	dà	dà	CCONJ	_	_	19	cc	_	Gloss=and
 19	sàːce-sàːcên	sàːce-sàːce	NOUN	_	Number=Plur	17	conj:coord	_	Gloss=XX
 20	dà	dà	SCONJ	_	_	19	mod@relcl	_	Gloss=COMP
 21	akèː	nàː	AUX	_	Aspect=Prog|Person=4	20	comp:obj	_	Gloss=XX
@@ -269,12 +269,12 @@
 4	sàu	sàu	NOUN	_	_	3	comp:obj	_	Gloss=XX
 5	dubuː	dubuː	NUM	_	_	4	mod:num	_	Gloss=thousand
 6	ɗaya	ɗaya	NUM	_	_	5	mod:num	_	Gloss=one
-7	dà	dà	CCONJ	_	_	8	cc	_	Gloss=XX
+7	dà	dà	CCONJ	_	_	8	cc	_	Gloss=and
 8	ɗàriː	ɗàriː	NUM	_	Gender=Fem	5	conj:coord	_	Gloss=hundred.Fem
 9	ukù	ukù	NUM	_	_	8	mod:num	_	Gloss=three
-10	dà	dà	CCONJ	_	_	11	cc	_	Gloss=XX
+10	dà	dà	CCONJ	_	_	11	cc	_	Gloss=and
 11	tàlàːtin	tàlàːtin	NUM	_	_	8	conj:coord	_	Gloss=thirty
-12	dà	dà	SCONJ	_	_	13	cc	_	Gloss=COMP
+12	dà	dà	CCONJ	_	_	13	cc	_	Gloss=and
 13	takwàs	takwàs	NUM	_	_	11	conj:coord	_	Gloss=eight
 14	neː	neː	PART	_	Gender=Masc|PartType=Foc	4	discourse@foc	_	Gloss=XX
 15	ɓàràːyiː	ɓàràːyiː	NOUN	_	Gender=Masc	16	subj	_	Gloss=XX
@@ -301,12 +301,12 @@
 36	à	à	ADP	_	_	35	mod	_	Gloss=at
 37	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	38	mod@desc	_	Gloss=year.Fem.Cons
 38	alìf	alìf	NUM	_	_	36	comp:obj	_	Gloss=one_thousand
-39	dà	dà	CCONJ	_	_	40	cc	_	Gloss=XX
+39	dà	dà	CCONJ	_	_	40	cc	_	Gloss=and
 40	ɗàriː	ɗàriː	NUM	_	Gender=Fem	38	conj:coord	_	Gloss=hundred.Fem
 41	tar̃à	tar̃à	NUM	_	_	40	mod:num	_	Gloss=nine
-42	dà	dà	CCONJ	_	_	43	cc	_	Gloss=XX
+42	dà	dà	CCONJ	_	_	43	cc	_	Gloss=and
 43	tàmàːnin	tàmàːnin	NUM	_	_	40	conj:coord	_	Gloss=eighty
-44	dà	dà	CCONJ	_	_	45	cc	_	Gloss=XX
+44	dà	dà	CCONJ	_	_	45	cc	_	Gloss=and
 45	shidà	shidà	NUM	_	_	43	conj:coord	_	Gloss=six
 46	ba	ba	PART	_	Polarity=Neg	30	mod	_	Gloss=XX|SpaceAfter=No
 47	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -334,7 +334,7 @@
 19	himmàː	himmàː	VERB	_	Gender=Masc	18	comp:obj	_	Gloss=XX
 20	wajen	wajen	ADP	_	_	19	comp:obl	_	Gloss=about
 21	yaːƙìː	yaːƙìː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=fight.Masc
-22	dà	dà	ADP	_	_	21	comp:obl	_	Gloss=XX
+22	dà	dà	ADP	_	_	21	comp:obl	_	Gloss=with
 23	ɓàràːyiː	ɓàràːyiː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=XX|SpaceAfter=No
 24	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 25	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	17	parataxis@conj	_	Gloss=XX
@@ -352,7 +352,7 @@
 37	"	"	PUNCT	_	_	35	punct	_	Gloss=PUNCT|wordform=’
 38	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	30	mod@relcl	_	Gloss=that.Masc
 39	kèː	keː	PRON	_	Aspect=Prog	38	comp:obj	_	Gloss=XX
-40	dà	dà	ADP	_	_	39	comp:pred	_	Gloss=XX
+40	dà	dà	ADP	_	_	39	comp:pred	_	Gloss=with
 41	yâraː	yːròː	NOUN	_	Gender=Fem|Number=Plur	40	comp:obj	_	Gloss=XX
 42	ɓàràːyiː	ɓàràːyiː	NOUN	_	Gender=Masc	41	mod	_	Gloss=XX
 43	à	à	ADP	_	_	39	mod	_	Gloss=at
@@ -369,7 +369,7 @@
 2	sàndân	sàndaː	NOUN	_	_	1	compound	_	Gloss=XX
 3	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 4	ƙaːràː	ƙaːr-	VERB	_	_	3	comp:aux	_	Gloss=increase
-5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=XX
+5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
 6	cêːwaː	cêː	VERB	_	Gender=Fem	5	comp:obj	_	Gloss=say.Vnoun.Fem
 7	dòːkar̃	dòːkaː	NOUN	_	Definite=Cons|Gender=Fem	27	dislocated@subj	_	Gloss=XX
 8	soːjì	soːjì	NOUN	_	Gender=Masc	7	mod	_	Gloss=XX
@@ -379,7 +379,7 @@
 12	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	7	mod@relcl	_	Gloss=that.Fem
 13	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	12	comp:obj	_	Gloss=XX
 14	baː	baː	VERB	_	_	13	comp:aux	_	Gloss=give
-15	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=XX
+15	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=with
 16	iːkòː	iːkòː	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=XX
 17	à	yà	AUX	_	Mood=Sub|Person=4	16	mod	_	Gloss=XX
 18	kaːmà	kaːm-	VERB	_	_	17	comp:aux	_	Gloss=catch

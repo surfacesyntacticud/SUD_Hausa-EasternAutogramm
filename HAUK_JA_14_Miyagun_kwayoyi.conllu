@@ -10,7 +10,7 @@
 # text = Hùkuːmàr̃ Yaːƙìː dà Fataucìn Miyàːgun Ƙwaːyoːyiː ta Nàːjeːr̃iyàː taː cêː taː r̃agar̃gàzà wata ƙungìyar̃ màːsu fataucìn miyàːgun ƙwaːyoːyiː baːyan taː cafkè wasu gâggan shùːgàbànnin ƙungìyâr̃ gùdaː huɗu, kuma taː ƙwaːcè kilô gùdaː na hoːdàr̃ kòːkên waddà akà yi niyyàr̃ fàsà-ƙwàurintà zuwàː Amìr̃kà.
 1	Hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Cons|Gender=Fem	9	subj	_	Gloss=agency.Fem.Cons
 2	Yaːƙìː	yaːƙìː	NOUN	_	_	1	mod	_	Gloss=fight.Masc
-3	dà	dà	ADP	_	_	2	comp:obl	_	Gloss=XX
+3	dà	dà	ADP	_	_	2	comp:obl	_	Gloss=with
 4	Fataucìn	fataucìː	NOUN	_	_	3	comp:obj	_	Gloss=trade.Masc.Cons
 5	Miyàːgun	muːgùː	NOUN	_	_	6	mod	_	Gloss=bad.Plur.Cons
 6	Ƙwaːyoːyiː	ƙwàːyaː	NOUN	_	_	4	comp:obj	_	Gloss=drug.Plur
@@ -36,7 +36,7 @@
 26	gùdaː	gùdaː	NOUN	_	_	24	mod:num	_	Gloss=unit.Masc
 27	huɗu	huɗu	NUM	_	_	26	mod:num	_	Gloss=four|SpaceAfter=No
 28	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
-29	kuma	kuma	PART	_	_	30	cc	_	Gloss=also
+29	kuma	kuma	CCONJ	_	_	30	cc	_	Gloss=also
 30	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	11	conj:coord	_	Gloss=XX
 31	ƙwaːcè	ƙwat-	VERB	_	_	30	comp:aux	_	Gloss=seize
 32	kilô	kilô	NOUN	_	Definite=Cons|Gender=Masc	31	comp:obj	_	Gloss=kilo.Masc
@@ -78,7 +78,7 @@
 20	zuwàː	zuwàː	ADP	_	_	14	conj:coord	_	Gloss=towards|wordform=zuwa
 21	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	20	comp:obj	_	Gloss=country.Plur.Cons
 22	Tuːr̃ai	Tuːr̃ai	PROPN	_	_	21	mod	_	Gloss=Europe
-23	dà	dà	CCONJ	_	_	24	cc	_	Gloss=XX
+23	dà	dà	CCONJ	_	_	24	cc	_	Gloss=and
 24	Amìr̃kà	Amìr̃kà	PROPN	_	_	22	conj:coord	_	Gloss=America|SpaceAfter=No
 25	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
@@ -99,7 +99,7 @@
 13	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	14	mod@desc	_	Gloss=country.Fem.Cons|SpaceAfter=No
 14	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	12	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 15	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-16	kuma	kuma	PART	_	_	17	cc	_	Gloss=also
+16	kuma	kuma	CCONJ	_	_	17	cc	_	Gloss=also
 17	an	yaː	AUX	_	Aspect=Perf|Person=4	9	conj:coord	_	Gloss=XX
 18	cêː	cêː	VERB	_	_	17	comp:aux	_	Gloss=say|wordform=cê
 19	kasâr̃	kasâr̃	NOUN	_	Gender=Fem	20	comp:pred	_	Gloss=XX
@@ -142,16 +142,16 @@
 16	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:aux	_	Gloss=hear.Vnoun.Masc.Cons
 17	cêːwaː	cêːwaː	SCONJ	_	_	16	comp:obj	_	Gloss=COMP
 18	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	17	comp:obj	_	Gloss=XX
-19	dà	dà	ADP	_	_	18	comp:pred	_	Gloss=XX|wordform=da
+19	dà	dà	ADP	_	_	18	comp:pred	_	Gloss=with|wordform=da
 20	ƙwàƙƙwaːran	ƙwàƙƙwaːraː	ADJ	_	Definite=Cons	21	mod	_	Gloss=strong.Masc
 21	tuːshèː	tuːshèː	NOUN	_	Gender=Masc	19	comp:obj	_	Gloss=foundation.Masc
 22	à	à	ADP	_	_	18	mod	_	Gloss=at
 23	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	22	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 24	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
-25	dà	dà	CCONJ	_	_	26	cc	_	Gloss=XX
+25	dà	dà	CCONJ	_	_	26	cc	_	Gloss=and
 26	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	23	conj:coord	_	Gloss=Great-Britain|SpaceAfter=No
 27	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
-28	dà	dà	CCONJ	_	_	30	cc	_	Gloss=XX
+28	dà	dà	CCONJ	_	_	30	cc	_	Gloss=and
 29	kuma	kuma	PART	_	_	28	discourse@top	_	Gloss=also
 30	Amìr̃kà	Amìr̃kà	PROPN	_	_	26	conj:coord	_	Gloss=America|SpaceAfter=No
 31	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
@@ -183,7 +183,7 @@
 23	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	22	comp:obj	_	Gloss=XX
 24	bayyànà	bayyan-	VERB	_	_	23	comp:aux	_	Gloss=explain
 25	kânsà	kânsà	PRON	_	Gender=Masc|Person=3|PronType=Prs|Reflex=Yes	24	comp:obj	_	Gloss=3Masc.Reflex
-26	dà	dà	ADP	_	_	24	comp:obl	_	Gloss=XX
+26	dà	dà	ADP	_	_	24	comp:obl	_	Gloss=with
 27	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem	26	comp:obj	_	Gloss=say.Vnoun.Fem|wordform=cêwaː
 28	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	32	subj	_	Gloss=XX
 29	bàbban	bàbba	ADJ	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=big.Masc.Cons
@@ -286,7 +286,7 @@
 21	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	20	comp:obj	_	Gloss=that.Masc
 22	akèː	nàː	AUX	_	Aspect=Prog|Person=4	21	mod@relcl	_	Gloss=XX
 23	zàrgiː	zarg-	VERB	_	Gender=Masc	22	comp:aux	_	Gloss=accuse.Vnoun.Masc
-24	dà	dà	ADP	_	_	23	comp:obl	_	Gloss=XX
+24	dà	dà	ADP	_	_	23	comp:obl	_	Gloss=with
 25	ɗaukàr̃	ɗauk-	VERB	_	Gender=Fem	24	comp:obj	_	Gloss=take.Vnoun.Fem.Cons
 26	ƙwaːyoːyin	ƙwaːyoːyiː	NOUN	_	Definite=Def|Gender=Masc	25	comp:obj	_	Gloss=XX|SpaceAfter=No
 27	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
@@ -313,7 +313,7 @@
 48	dà	dà	SCONJ	_	_	46	mod@relcl	_	Gloss=COMP
 49	akèː	nàː	AUX	_	Aspect=Prog|Person=4	48	comp:obj	_	Gloss=XX|wordform=akề
 50	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	49	comp:aux	_	Gloss=use.Masc
-51	dà	dà	ADP	_	_	50	comp:obl	_	Gloss=XX
+51	dà	dà	ADP	_	_	50	comp:obl	_	Gloss=with
 52	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	51	comp:obj	_	Gloss=XX
 53	don	don	SCONJ	_	_	50	mod	_	Gloss=so_that
 54	hanà	han-	VERB	_	_	53	comp:obj	_	Gloss=prevent
@@ -352,7 +352,7 @@
 10	sukàn	kàn	AUX	_	Aspect=Hab|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Hab
 11	iyà	iy-	VERB	_	_	10	comp:aux	_	Gloss=be_able_to
 12	kaːsayar̃	kaːsay-	VERB	_	_	11	comp:obj	_	Gloss=excrete.Cau
-13	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=XX
+13	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=with
 14	hoːdàr̃	hoːdàː	NOUN	_	Gender=Fem	13	comp:obj	_	Gloss=powder.Fem.Cons
 15	kòːkên	kòːkên	NOUN	_	Definite=Cons|Gender=Masc	14	mod	_	Gloss=cocaine.Fem
 16	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	14	det	_	Gloss=Def
@@ -384,7 +384,7 @@
 14	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	13	mod	_	Gloss=that.Plur|wordform=wadandal
 15	kèː	nàː	AUX	_	Aspect=Prog|Relative=Yes	14	mod@relcl	_	Gloss=Prog.Rel
 16	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Stat	15	comp:pred	_	Gloss=take.Stat
-17	dà	dà	CCONJ	_	_	16	comp:obl	_	Gloss=XX|wordform=da
+17	dà	dà	CCONJ	_	_	16	comp:obl	_	Gloss=and|wordform=da
 18	ƙwaːyoːyîn	ƙwàːyaː	NOUN	_	Definite=Def|Gender=Masc	17	comp:obj	_	Gloss=drug.Plur.Def|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 20	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	10	mod@relcl	_	Gloss=that.Masc|wordform=wanda
@@ -414,7 +414,7 @@
 14	dà	dà	ADP	_	_	10	mod	_	Gloss=with
 15	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:obj	_	Gloss=do.Vnoun.Masc.Cons
 16	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	15	comp:pred	_	Gloss=use.Masc
-17	dà	dà	ADP	_	_	16	comp:obl	_	Gloss=XX|wordform=ɗà
+17	dà	dà	ADP	_	_	16	comp:obl	_	Gloss=with|wordform=ɗà
 18	miyàr̃	miyàː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=sauce.Fem.Cons
 19	kuɓèːwaː	kuɓèːwaː	NOUN	_	Gender=Fem	18	mod	_	Gloss=gombo.Fem|SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
@@ -422,7 +422,7 @@
 22	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	21	comp:obj	_	Gloss=XX
 23	yi	yi	VERB	_	_	22	comp:aux	_	Gloss=do
 24	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	23	comp:pred	_	Gloss=use.Masc
-25	dà	dà	ADP	_	_	24	comp:obl	_	Gloss=XX
+25	dà	dà	ADP	_	_	24	comp:obl	_	Gloss=with
 26	ita	ita	PRON	_	Gender=Fem|Person=3	25	comp:obj	_	Gloss=XX
 27	dòːmin	dòːmin	SCONJ	_	_	23	mod	_	Gloss=XX
 28	saːmùn	saːmùː	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	27	comp:obj	_	Gloss=get.Vnoun.Masc.Cons
@@ -510,7 +510,7 @@
 25	cìnikin	cìnikiː	NOUN	_	Definite=Cons|Gender=Masc	24	compound	_	Gloss=XX
 26	ƙwaːyoːyîn	ƙwaːyoːyiː	NOUN	_	Definite=Def|Gender=Masc	25	mod	_	Gloss=XX|SpaceAfter=No
 27	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
-28	dà	dà	CCONJ	_	_	30	cc	_	Gloss=XX
+28	dà	dà	CCONJ	_	_	30	cc	_	Gloss=and
 29	kuma	kuma	PART	_	_	28	discourse@top	_	Gloss=also
 30	yi	yi	VERB	_	_	22	conj:coord	_	Gloss=do
 31	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	30	comp:obl	_	Gloss=XX
@@ -555,7 +555,7 @@
 34	cìnikin	cìnikiː	NOUN	_	Definite=Cons|Gender=Masc	33	comp:obj	_	Gloss=trade.Masc.Cons
 35	miyàːgun	muːgùː	ADJ	_	Definite=Cons|Number=Plur	36	mod	_	Gloss=bad.Plur
 36	ƙwaːyoːyiː	ƙwàːyaː	NOUN	_	_	34	mod	_	Gloss=drug.Plur
-37	dà	dà	CCONJ	_	_	38	cc	_	Gloss=XX
+37	dà	dà	CCONJ	_	_	38	cc	_	Gloss=and
 38	ɓaːtà	ɓaːt-	VERB	_	Gender=Fem	33	conj:coord	_	Gloss=spoil
 39	suːnan	suːnaː	NOUN	_	Definite=Cons|Gender=Masc	38	comp:obj	_	Gloss=name.Masc.Cons
 40	ministoːcin	ministàː	NOUN	_	Definite=Cons	39	mod	_	Gloss=minister.Plur.Cons
@@ -569,7 +569,7 @@
 3	Fidelis	Fidelis	PROPN	_	_	2	comp:obj	_	Gloss=Fidelis
 4	Oyakhilome	Oyakhilome	PROPN	_	_	3	flat@name	_	Gloss=Oyakhilome
 5	neː	neː	PART	_	_	3	discourse@foc	_	Gloss=XX
-6	dà	dà	CCONJ	_	_	2	comp:obl	_	Gloss=XX|wordform=da
+6	dà	dà	CCONJ	_	_	2	comp:obl	_	Gloss=and|wordform=da
 7	lâifin	lâifiː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	Gloss=crime.Masc.Cons
 8	kàrɓar̃	kàrɓaː	NOUN	_	Gender=Fem	7	mod	_	Gloss=XX|wordform=kaːrbar
 9	hancìː	hancìː	NOUN	_	Gender=Masc	8	mod	_	Gloss=XX
@@ -593,7 +593,7 @@
 27	bàbban	bàbba	ADJ	_	Definite=Cons|Gender=Masc	28	mod	_	Gloss=big.Masc
 28	dillaːlin	dillaːliː	NOUN	_	Definite=Cons	25	comp:obj	_	Gloss=broker.Masc.Cons
 29	ƙwaːyoːyiː	ƙwàːyaː	NOUN	_	_	28	mod	_	Gloss=drug.Plur
-30	dà	dà	CCONJ	_	_	32	cc	_	Gloss=XX
+30	dà	dà	CCONJ	_	_	32	cc	_	Gloss=and
 31	kuma	kuma	PART	_	_	30	discourse@top	_	Gloss=also
 32	sakoː	sak-	VERB	_	_	20	conj:coord	_	Gloss=release
 33	wani	wani	DET	_	Definite=Spec|Gender=Masc	34	det	_	Gloss=some.Masc.Spec
@@ -648,12 +648,12 @@
 8	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	10	mod	_	Gloss=there_is.Neg
 9	shakkàː	shakkàː	NOUN	_	Gender=Fem	8	subj	_	Gloss=doubt.Fem
 10	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	7	comp:obj	_	Gloss=XX
-11	dà	dà	ADP	_	_	10	comp:pred	_	Gloss=XX
+11	dà	dà	ADP	_	_	10	comp:pred	_	Gloss=with
 12	dàngàntakàr̃	dàngàntakàː	NOUN	_	Gender=Fem	11	comp:obj	_	Gloss=relationship.Fem.Def
 13	ƙut	ƙut	IDEO	_	_	12	mod	_	Gloss=XX
-14	dà	dà	CCONJ	_	_	15	cc	_	Gloss=XX
+14	dà	dà	CCONJ	_	_	15	cc	_	Gloss=and
 15	ƙut	ƙut	IDEO	_	_	13	conj:redup	_	Gloss=XX
-16	dà	dà	CCONJ	_	_	17	cc@preconj	_	Gloss=XX
+16	dà	dà	CCONJ	_	_	17	cc@preconj	_	Gloss=and
 17	ita	ita	PRON	_	Gender=Fem|Person=3	12	conj:coord	_	Gloss=XX
 18	màːtâr̃	màːtâr̃	NOUN	_	Gender=Fem	17	conj:appos	_	Gloss=XX|SpaceAfter=No|wordform=mắtâr
 19	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
@@ -668,7 +668,7 @@
 28	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	27	comp:obj	_	Gloss=XX
 29	ɗaukàː	ɗauk-	VERB	_	ExtPos=NOUN|Gender=Fem	28	comp:aux	_	Gloss=take
 30	tàːre	tàːre	ADV	_	_	31	mod	_	Gloss=together
-31	dà	dà	ADP	_	_	29	comp:obl	_	Gloss=XX
+31	dà	dà	ADP	_	_	29	comp:obl	_	Gloss=with
 32	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	31	comp:obj	_	Gloss=XX
 33	à	à	ADP	_	_	29	mod	_	Gloss=at
 34	wani	wani	DET	_	Definite=Spec|Gender=Masc	35	det	_	Gloss=some.Masc.Spec
@@ -680,7 +680,7 @@
 40	shakkàː	shakkàː	NOUN	_	Gender=Fem	39	subj	_	Gloss=doubt.Fem
 41	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	10	conj:coord	_	Gloss=XX
 42	tabbatar̃	tabbat-	VERB	_	_	41	comp:aux	_	Gloss=be_sure.Cau
-43	dà	dà	ADP	_	_	42	comp:obl	_	Gloss=XX
+43	dà	dà	ADP	_	_	42	comp:obl	_	Gloss=with
 44	hakà	hakà	ADV	_	_	43	comp:obj	_	Gloss=thus|SpaceAfter=No
 45	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
@@ -716,7 +716,7 @@
 6	cêː	cêː	VERB	_	_	5	comp:aux	_	Gloss=say|wordform=cê
 7	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	6	comp:obj	_	Gloss=XX
 8	faːràː	faːràː	VERB	_	_	7	comp:aux	_	Gloss=begin
-9	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=XX
+9	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with
 10	cêːwar̃	cêː	VERB	_	Definite=Cons|Gender=Fem	9	comp:obj	_	Gloss=say.Vnoun.Fem.Cons
 11	kàmar̃	kàmar̃	ADP	_	_	10	mod	_	Gloss=like|wordform=kàmar
 12	hakà	hakà	ADV	_	_	11	mod	_	Gloss=thus|SpaceAfter=No
@@ -738,9 +738,9 @@
 
 # sent_id = 14_Miyagun_kwayoyi__23
 # text = à cikin ɗaya takàr̃dâr̃ kuma ya cèː: “ Ci gàba dà nuːnàː mîn sòːyayyàː! "
-1	à	à	ADP	_	ExtPos=ADP	6	mod	_	Gloss=at
-2	cikin	cikiː	ADP	_	_	1	compound	_	Gloss=inside
-3	ɗaya	ɗaya	NUM	_	_	4	mod	_	Gloss=one
+1	à	à	ADP	_	_	6	mod	_	Gloss=at
+2	cikin	cikiː	ADP	_	_	1	comp:obj	_	Gloss=inside
+3	ɗaya	ɗaya	NUM	_	_	4	mod:num	_	Gloss=one
 4	takàr̃dâr̃	takàr̃daː	NOUN	_	Definite=Def|Gender=Fem	2	comp:obj	_	Gloss=paper.Fem.Def|wordform=takardaːr
 5	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 6	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=XX
@@ -749,7 +749,7 @@
 9	“	“	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 10	Ci	ci	VERB	_	Mood=Imp	7	comp:obj	_	Gloss=do.Imp
 11	gàba	gàba	ADV	_	_	10	mod	_	Gloss=in_front
-12	dà	dà	ADP	_	_	10	mod	_	Gloss=XX
+12	dà	dà	ADP	_	_	10	mod	_	Gloss=with
 13	nuːnàː	nuːn-	VERB	_	Gender=Masc	12	comp:obj	_	Gloss=show
 14	mîn	mîn	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	13	comp:obl	_	Gloss=XX
 15	sòːyayyàː	sòːyayyàː	NOUN	_	Gender=Fem	13	comp:obj	_	Gloss=love.Fem|SpaceAfter=No
@@ -773,7 +773,7 @@
 13	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	12	mod@relcl	_	Gloss=XX
 14	yi	yi	VERB	_	_	13	comp:aux	_	Gloss=do
 15	tir̃	tir̃	IDEO	_	_	14	comp:pred	_	Gloss=reject
-16	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=XX
+16	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=with
 17	shàːgùɓeː	shàːgùɓeː	NOUN	_	Gender=Masc	16	comp:obj	_	Gloss=innuendo.Plur
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
 19	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	18	comp:obj	_	Gloss=XX
@@ -783,7 +783,7 @@
 23	tsàkaːnin	tsàkaːnin	ADP	_	_	22	mod	_	Gloss=between
 24	mijìn	mijìː	NOUN	_	Definite=Cons	23	comp:obj	_	Gloss=husband.Masc.Cons
 25	naːtà	naːtà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	24	mod@poss	_	Gloss=XX
-26	dà	dà	CCONJ	_	_	28	cc	_	Gloss=XX
+26	dà	dà	CCONJ	_	_	28	cc	_	Gloss=and
 27	Miss	Miss	PROPN	_	_	28	mod@desc	_	Gloss=Miss
 28	Madike	Madike	PROPN	_	_	24	conj:coord	_	Gloss=Madike|SpaceAfter=No
 29	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
