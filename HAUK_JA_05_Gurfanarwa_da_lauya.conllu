@@ -238,8 +238,8 @@
 24	mùsammàn	mùsammàː	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=XX
 25	tàːre	tàːre	ADV	_	_	26	mod	_	Gloss=together
 26	dà	dà	CCONJ	_	_	27	cc	_	Gloss=and
-27	zàrgin	zarg-	VERB	_	Gender=Fem|Number=Plur	16	conj:coord	_	Gloss=XX|SpaceAfter=No|wordform=zàrginsà
-28	sà	sà	PRON	_	_	27	mod@poss	_	Gloss=3Masc.Gen
+27	zàrgin	zarg-	VERB	_	Gender=Fem|Number=Plur	16	conj:coord	_	Gloss=accuse.Vnoun.Masc.Cons|SpaceAfter=No|wordform=zàrginsà
+28	sà	sà	PRON	_	_	27	comp:obj	_	Gloss=3Masc.Gen
 29	dà	dà	CCONJ	_	_	27	comp:obl	_	Gloss=XX
 30	lâifin	lâifiː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=XX
 31	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	30	mod	_	Gloss=do.Vnoun.Masc.Cons
@@ -262,7 +262,7 @@
 2	lâifîn	lâifiː	NOUN	_	Definite=Def|Gender=Masc	16	subj	_	Gloss=XX
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 4	akèː	nàː	AUX	_	Aspect=Prog|Person=4	3	comp:obj	_	Gloss=XX
-5	zàrgin	zarg-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:aux	_	Gloss=XX
+5	zàrgin	zarg-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:aux	_	Gloss=accuse.Vnoun.Masc.Cons
 6	Chief	Chief	PROPN	_	_	7	mod@desc	_	Gloss=Chief
 7	G.F.	G.F.	PROPN	_	_	5	comp:obj	_	Gloss=G.F.
 8	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=XX
@@ -396,7 +396,7 @@
 23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=COMP
 24	akèː	nàː	AUX	_	Aspect=Prog|Person=4	23	comp:obj	_	Gloss=XX
 25	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	24	comp:aux	_	Gloss=do.Vnoun.Masc.Cons
-26	zàrgin	zàrgiː	NOUN	_	Definite=Cons|Gender=Masc	25	comp:pred	_	Gloss=XX
+26	zàrgin	zarg-	NOUN	_	Definite=Cons|Gender=Masc	25	comp:pred	_	Gloss=accuse.Vnoun.Masc.Cons
 27	cêːwa	cêːwa	SCONJ	_	_	26	mod@relcl	_	Gloss=XX
 28	wani	wani	DET	_	Definite=Spec|Gender=Masc	29	det	_	Gloss=some.Masc.Spec
 29	jaːmìꞌin	jaːmìꞌiː	NOUN	_	Definite=Cons|Gender=Masc	31	subj	_	Gloss=XX

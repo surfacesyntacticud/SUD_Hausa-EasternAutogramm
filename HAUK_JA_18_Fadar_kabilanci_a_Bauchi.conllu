@@ -387,17 +387,17 @@
 # text = À loːkàcin tàr̃zòːmâr̃ dai Kir̃istoːciː dà daːmaː dàgà kudancin ƙasâr sun yi zàrgin cêwaː Mùsùlmiː màːsu tsananin r̃a'àyin àddiːnìː suː nèː sukà janyoː waɗànnân tàːshe-tàːshen hankulàː.
 1	À	à	ADP	_	_	11	mod	_	Gloss=XX
 2	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	Gloss=time.Masc.Cons
-3	tàr̃zòːmâr̃	tàr̃zòːmâː	NOUN	_	Case=Gen|Definite=Cons|Gender=Fem|Person=3	2	mod	_	Gloss=XX
+3	tàr̃zòːmâr̃	tàr̃zòːmaː	NOUN	_	Definite=Def|Gender=Fem	2	mod	_	Gloss=riot.Fem.Def
 4	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyhow
 5	Kir̃istoːciː	Kir̃istàː	NOUN	_	Number=Plur	11	subj	_	Gloss=Christian.Plur
-6	dà	dà	CCONJ	_	ExtPos=ADJ	5	cc@preconj	_	Gloss=with|Idiom=Yes
-7	daːmaː	daːmaː	NOUN	_	Gender=Masc	11	subj	_	Gloss=opportunity.Fem|InIdiom=Yes
-8	dàgà	dàgà	ADP	_	_	7	comp:obl	_	Gloss=from
-9	kudancin	kudanciː	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=XX
-10	ƙasâr	ƙasː	NOUN	_	Definite=Cons|Gender=Fem	9	mod	_	Gloss=XX
+6	dà	dà	ADP	_	ExtPos=ADJ	5	cc@preconj	_	Gloss=with|Idiom=Yes
+7	daːmaː	daːmaː	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=opportunity.Fem|InIdiom=Yes
+8	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=from
+9	kudancin	kudancin	ADP	_	_	8	comp:obj	_	Gloss=south_of
+10	ƙasâr	ƙasː	NOUN	_	Definite=Cons|Gender=Fem	9	comp:obj	_	Gloss=XX
 11	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 12	yi	yi	VERB	_	_	11	comp:aux	_	Gloss=do
-13	zàrgin	zàrgiː	NOUN	_	Definite=Cons|Gender=Masc	12	comp:pred	_	Gloss=XX
+13	zàrgin	zarg-	NOUN	_	Definite=Cons|Gender=Masc	12	comp:pred	_	Gloss=accuse.Vnoun.Masc.Cons
 14	cêwaː	cêwaː	SCONJ	_	_	13	mod	_	Gloss=XX
 15	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	20	dislocated@top	_	Gloss=Muslim.Plur
 16	màːsu	mài	PART	_	Number=Plur|PartType=Der	15	mod	_	Gloss=owner/doer_of.Plur
