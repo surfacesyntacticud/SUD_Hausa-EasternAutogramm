@@ -165,7 +165,7 @@
 14	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	5	comp:obj	_	Gloss=XX
 15	kai	kai	VERB	_	_	14	comp:aux	_	Gloss=reach/carry_to
 16	à	à	ADP	_	_	18	mod	_	Gloss=at
-17	ƙallà	ƙallà	ADV	_	_	16	comp:obj	_	Gloss=XX
+17	ƙallà	ƙallà	ADV	_	_	16	comp:obj	_	Gloss=least
 18	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	comp:pred	_	Gloss=XX
 19	goːmà	goːmà	NUM	_	_	18	mod:num	_	Gloss=ten
 20	shâː	shâː	NUM	_	_	19	flat@num	_	Gloss=plus
@@ -270,7 +270,7 @@
 5	dubuː	dubuː	NUM	_	_	4	mod:num	_	Gloss=thousand
 6	ɗaya	ɗaya	NUM	_	_	5	mod:num	_	Gloss=one
 7	dà	dà	CCONJ	_	_	8	cc	_	Gloss=XX
-8	ɗàriː	ɗàriː	NOUN	_	Gender=Fem	5	conj:coord	_	Gloss=hundred.Fem
+8	ɗàriː	ɗàriː	NUM	_	Gender=Fem	5	conj:coord	_	Gloss=hundred.Fem
 9	ukù	ukù	NUM	_	_	8	mod:num	_	Gloss=three
 10	dà	dà	CCONJ	_	_	11	cc	_	Gloss=XX
 11	tàlàːtin	tàlàːtin	NUM	_	_	8	conj:coord	_	Gloss=thirty
@@ -302,12 +302,12 @@
 37	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	38	mod@desc	_	Gloss=year.Fem.Cons
 38	alìf	alìf	NUM	_	_	36	comp:obj	_	Gloss=one_thousand
 39	dà	dà	CCONJ	_	_	40	cc	_	Gloss=XX
-40	ɗàriː	ɗàriː	NOUN	_	Gender=Fem	38	conj:coord	_	Gloss=hundred.Fem
+40	ɗàriː	ɗàriː	NUM	_	Gender=Fem	38	conj:coord	_	Gloss=hundred.Fem
 41	tar̃à	tar̃à	NUM	_	_	40	mod:num	_	Gloss=nine
 42	dà	dà	CCONJ	_	_	43	cc	_	Gloss=XX
 43	tàmàːnin	tàmàːnin	NUM	_	_	40	conj:coord	_	Gloss=eighty
 44	dà	dà	CCONJ	_	_	45	cc	_	Gloss=XX
-45	shidà	shidà	ADV	_	_	43	conj:coord	_	Gloss=XX
+45	shidà	shidà	NUM	_	_	43	conj:coord	_	Gloss=six
 46	ba	ba	PART	_	Polarity=Neg	30	mod	_	Gloss=XX|SpaceAfter=No
 47	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
