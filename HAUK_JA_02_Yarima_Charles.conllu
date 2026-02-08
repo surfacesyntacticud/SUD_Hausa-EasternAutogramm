@@ -71,10 +71,10 @@
 12	tarkòn	tarkòː	NOUN	_	Definite=Cons|Gender=Masc	11	mod	_	Gloss=XX
 13	ɓeːr̃aː	ɓeːr̃aː	NOUN	_	Gender=Fem	12	mod	_	Gloss=XX|SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-15	dà	da	CCONJ	_	_	16	cc	_	Gloss=XX|wordform=da
+15	dà	da	CCONJ	_	_	16	cc	_	Gloss=and|wordform=da
 16	kamfàːyeː	kamfàːyeː	NOUN	_	Number=Plur	12	conj:coord	_	Gloss=XX|SpaceAfter=No
 17	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-18	dà	dà	CCONJ	_	_	21	cc	_	Gloss=XX
+18	dà	dà	CCONJ	_	_	21	cc	_	Gloss=and
 19	agoːgunàn	àgoːgo	NOUN	_	Definite=Cons|Number=Plur	21	mod@desc	_	Gloss=watch.Plur.Cons
 20	"	"	PUNCT	_	_	21	punct	_	Gloss=PUNCT|wordform=‘
 21	Rolex	Rolex	PROPN	_	_	16	conj:coord	_	Gloss=Rolex|SpaceAfter=No
@@ -154,10 +154,10 @@
 11	dà	dà	ADP	_	_	10	comp:pred	_	Gloss=with
 12	ban	baː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:obj	_	Gloss=give
 13	shàꞌawàː	shàꞌawàː	NOUN	_	Gender=Fem	12	compound	_	Gloss=XX
-14	dà	da	CCONJ	_	_	15	cc	_	Gloss=XX|wordform=da
+14	dà	da	CCONJ	_	_	15	cc	_	Gloss=and|wordform=da
 15	haskàkâːwaː	haskàk-	VERB	_	Number=Plur	13	conj:coord	_	Gloss=XX
 16	duk	dukà	DET	_	_	12	mod	_	Gloss=XX
-17	dà	dà	CCONJ	_	_	16	compound	_	Gloss=XX
+17	dà	dà	CCONJ	_	_	16	compound	_	Gloss=and
 18	gyàːre-gyàːren	gyaːraː	NOUN	_	Definite=Cons|Number=Plur	16	comp:obj	_	Gloss=repair.Plur
 19	zaːmàniː	zaːmàniː	NOUN	_	Gender=Masc	18	mod	_	Gloss=period.Masc
 20	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=COMP
@@ -169,7 +169,7 @@
 26	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	27	subj	_	Gloss=Nigeria
 27	takèː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	25	comp:obj	_	Gloss=XX
 28	cìke	cik-	VERB	_	_	27	comp:aux	_	Gloss=XX
-29	dà	dà	CCONJ	_	_	28	comp:obl	_	Gloss=XX
+29	dà	dà	CCONJ	_	_	28	comp:obl	_	Gloss=and
 30	ar̃zìkin	ar̃zìkiː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=wealth.Masc.Cons
 31	mân	mâi	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=XX
 32	feːtùr̃	feːtùː	NOUN	_	Definite=Cons|Gender=Fem	31	mod	_	Gloss=XX|SpaceAfter=No
@@ -248,7 +248,7 @@
 11	don	don	SCONJ	_	_	10	dislocated@comp	_	Gloss=so_that
 12	Yàr̃iːmà	yàr̃iːmà	NOUN	_	_	13	mod@desc	_	Gloss=prince.Masc
 13	Charles	Charles	PROPN	_	_	16	subj	_	Gloss=Charles
-14	dà	dà	CCONJ	_	_	15	cc	_	Gloss=XX
+14	dà	dà	CCONJ	_	_	15	cc	_	Gloss=and
 15	Gimbìyaː	gimbìyaː	NOUN	_	_	13	conj:coord	_	Gloss=princess.Fem
 16	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	11	comp:obj	_	Gloss=XX
 17	sàːmu	saːm-	VERB	_	_	16	comp:aux	_	Gloss=get
@@ -282,13 +282,13 @@
 3	Gwamnàn	Gwamnàn	PROPN	_	Definite=Cons|Gender=Masc	9	subj	_	Gloss=Gwamnàn
 4	Jihàr̃	Jihàr̃	PROPN	_	Definite=Cons|Gender=Fem	5	mod	_	Gloss=Jihàr̃
 5	Ànambar̃à	Ànambar̃à	PROPN	_	_	3	mod	_	Gloss=Ànambar̃à
-6	dà	da	CCONJ	_	_	7	cc	_	Gloss=XX|wordform=da
+6	dà	da	CCONJ	_	_	7	cc	_	Gloss=and|wordform=da
 7	uwar̃gidan	uwar̃gidaː	NOUN	_	Gender=Fem	3	conj:coord	_	Gloss=XX|SpaceAfter=No|wordform=uwar̃gidansà
 8	sà	sà	PRON	_	_	7	mod@poss	_	Gloss=3Masc.Gen
 9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=XX
 10	tàrbi	tarb-	VERB	_	_	9	comp:aux	_	Gloss=XX
 11	Yàr̃iːmà	Yàr̃iːmà	PROPN	_	_	10	comp:obj	_	Gloss=Yàr̃iːmà
-12	dà	da	CCONJ	_	_	13	cc	_	Gloss=XX|wordform=da
+12	dà	da	CCONJ	_	_	13	cc	_	Gloss=and|wordform=da
 13	Gimbìyaː	Gimbìyaː	PROPN	_	_	11	conj:coord	_	Gloss=Gimbìyaː
 14	à	à	ADP	_	_	10	comp:obl	_	Gloss=at
 15	fiːlin	fiːliː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:obj	_	Gloss=field.Masc.Cons
@@ -385,7 +385,7 @@
 2	kàshèːgàriː	kàshèːgàreː	ADV	_	Number=Plur	1	comp:obj	_	Gloss=XX
 3	sai	sai	ADV	_	_	9	mod	_	Gloss=XX
 4	Yàr̃iːmà	Yàr̃iːmà	PROPN	_	_	9	subj	_	Gloss=Yàr̃iːmà
-5	dà	dà	CCONJ	_	_	6	cc	_	Gloss=XX
+5	dà	dà	CCONJ	_	_	6	cc	_	Gloss=and
 6	uwar̃gidan	uwar̃gidaː	NOUN	_	Definite=Cons|Number=Plur	4	conj:coord	_	Gloss=XX|SpaceAfter=No|wordform=uwar̃gidansà
 7	sà	sà	PRON	_	_	6	mod@poss	_	Gloss=3Masc.Gen
 8	Gimbìyaː	Gimbìyaː	PROPN	_	_	6	conj:appos	_	Gloss=Gimbìyaː
@@ -460,7 +460,7 @@
 # text_ortho = Kashìː àshìr̃in dà bìyar̃ cikin ɗàriː na duk yawàn jinsunàn birân dà akè dà suː à Afìr̃kà zaː à iskèː su à gandun daːjìn Korup; hakà maː màcìːzai, dà ƙanaːnàn gàdaː, kâi har̃ maː dà giːwàːyē.
 1	kashìː	kashìː	NOUN	_	Gender=Masc	18	dislocated@subj	_	Gloss=XX
 2	àshìr̃in	àshìr̃in	NUM	_	_	1	mod:num	_	Gloss=twenty
-3	dà	dà	CCONJ	_	_	4	cc	_	Gloss=XX
+3	dà	dà	CCONJ	_	_	4	cc	_	Gloss=and
 4	bìyar̃	bìyar̃	NUM	_	_	2	conj:coord	_	Gloss=five
 5	cikin	cikin	ADP	_	_	1	mod	_	Gloss=inside
 6	ɗàriː	ɗàriː	NUM	_	Gender=Fem|Number=Plur	5	comp:obj	_	Gloss=hundred.Fem
@@ -479,22 +479,22 @@
 19	iskèː	isk-	VERB	_	_	18	comp:aux	_	Gloss=XX
 20	su	su	PRON	_	Number=Plur|Person=3|PronType=Prs	19	comp:obj	_	Gloss=XX
 21	à	à	AUX	_	Mood=Sub|Person=4	19	comp:obl	_	Gloss=XX
-22	gandun	ganduː	NOUN	_	Definite=Cons	21	comp:aux	_	Gloss=XX
+22	gandun	ganduː	NOUN	_	Definite=Cons	24	mod@desc	_	Gloss=XX
 23	daːjìn	daːjìː	NOUN	_	Definite=Cons	22	comp:obj	_	Gloss=XX
-24	Korup	Korup	PROPN	_	_	22	mod	_	Gloss=Korup|SpaceAfter=No
+24	Korup	Korup	PROPN	_	_	21	comp:obj	_	Gloss=Korup|SpaceAfter=No
 25	;	;	PUNCT	_	_	28	punct	_	Gloss=PUNCT
 26	hakà	hakà	ADV	_	_	28	mod	_	Gloss=thus
 27	maː	maː	PART	_	_	26	discourse@top	_	Gloss=XX
 28	màcìːzai	màcìːzai	NOUN	_	Gender=Masc	19	dislocated@comp	_	Gloss=XX|SpaceAfter=No
 29	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
-30	dà	dà	CCONJ	_	_	32	cc	_	Gloss=XX
+30	dà	dà	CCONJ	_	_	32	cc	_	Gloss=and
 31	ƙanaːnàn	ƙanaːnàː	ADJ	_	Definite=Cons|Number=Plur	32	mod	_	Gloss=XX
 32	gàdaː	gàdaː	NOUN	_	Gender=Fem	28	conj:coord	_	Gloss=XX|SpaceAfter=No
 33	,	,	PUNCT	_	_	38	punct	_	Gloss=PUNCT
 34	kâi	kâi	INTJ	_	Gender=Masc	38	discourse	_	Gloss=XX
 35	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	37	mod	_	Gloss=XX
 36	maː	maː	PART	_	_	35	discourse@top	_	Gloss=XX
-37	dà	dà	CCONJ	_	_	38	cc	_	Gloss=with
+37	dà	dà	CCONJ	_	_	38	cc	_	Gloss=and
 38	giːwàːyē	giːwàːyē	NOUN	_	Gender=Masc	32	conj:coord	_	Gloss=XX|SpaceAfter=No
 39	.	.	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 
@@ -532,7 +532,7 @@
 29	dà	dà	ADP	_	_	28	comp:obl	_	Gloss=with
 30	rùndunaː	rùndunaː	NOUN	_	Number=Plur	29	comp:obj	_	Gloss=XX
 31	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Stat	30	mod	_	Gloss=take.Stat
-32	dà	dà	CCONJ	_	_	31	comp:obl	_	Gloss=XX
+32	dà	dà	CCONJ	_	_	31	comp:obl	_	Gloss=and
 33	màkàːmai	màkàːmai	NOUN	_	Gender=Masc|Number=Plur	32	comp:obj	_	Gloss=XX
 34	zuwàː	zuwàː	ADP	_	_	28	comp:obl	_	Gloss=towards
 35	daːjìn	daːjìː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	34	comp:obj	_	Gloss=XX
