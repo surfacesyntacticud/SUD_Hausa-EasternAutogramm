@@ -55,7 +55,7 @@
 47	kasànceː	kasant-	VERB	_	_	46	comp:aux	_	Gloss=be
 48	à	à	ADP	_	_	47	mod	_	Gloss=at
 49	cikin	cikin	ADP	_	Gender=Fem	48	comp:obj	_	Gloss=inside|SpaceAfter=No|wordform=cikinsà
-50	sà	sà	PRON	_	_	49	mod	_	Gloss=3Masc.Gen
+50	sà	sà	PRON	_	_	49	comp:obj	_	Gloss=3Masc.Gen
 51	.	.	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 
 # sent_id = 17_Gidan_yarin_Kirikiri__3
@@ -117,7 +117,7 @@
 9	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	11	mod@desc	_	Gloss=house.Masc.Cons
 10	fur̃sùnàn	fur̃sùnàː	NOUN	_	Definite=Cons|Number=Plur	9	mod	_	Gloss=XX
 11	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	8	comp:obj	_	Gloss=Kirikiri
-12	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	comp:cleft	_	Gloss=XX
+12	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	comp:obj	_	Gloss=XX
 13	ɓaːcì	ɓaːt-	VERB	_	_	12	comp:aux	_	Gloss=deteriorate|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 15	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	13	mod	_	Gloss=Gen.Fem
@@ -189,7 +189,7 @@
 24	kai	kai	VERB	_	_	23	comp:aux	_	Gloss=reach/carry_to
 25	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	24	comp:obj	_	Gloss=year.Plur
 26	goːmà	goːmà	NUM	_	_	25	mod:num	_	Gloss=ten
-27	shâː	shâː	ADP	_	_	26	flat@num	_	Gloss=XX
+27	shâː	shâː	NUM	_	_	26	flat@num	_	Gloss=plus
 28	bìyar̃	bìyar̃	NUM	_	_	27	flat@num	_	Gloss=five
 29	à	à	ADP	_	_	24	comp:obl	_	Gloss=at
 30	cikin	cikin	ADP	_	_	29	comp:obj	_	Gloss=inside
@@ -204,7 +204,7 @@
 3	dubuː	dubuː	NUM	_	_	2	mod:num	_	Gloss=thousand
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=XX
 5	ɗàriː	ɗàriː	NUM	_	Gender=Fem|Number=Plur	3	conj:coord	_	Gloss=hundred.Fem
-6	shidà	shidà	NUM	_	_	5	flat:num	_	Gloss=XX
+6	shidà	shidà	NUM	_	_	5	flat:num	_	Gloss=six
 7	dà	dà	CCONJ	_	_	8	cc	_	Gloss=XX
 8	àr̃bà'in	àr̃bà'in	NUM	_	_	5	conj:coord	_	Gloss=XX
 9	dà	dà	CCONJ	_	_	10	cc	_	Gloss=XX
@@ -228,7 +228,7 @@
 27	dà	dà	CCONJ	_	_	28	cc	_	Gloss=XX
 28	hàmsin	hàmsiː	NOUN	_	Definite=Cons|Gender=Masc	25	conj:coord	_	Gloss=XX
 29	dà	dà	CCONJ	_	_	30	cc	_	Gloss=XX
-30	shidà	shidà	NUM	_	_	28	conj:coord	_	Gloss=XX
+30	shidà	shidà	NUM	_	_	28	conj:coord	_	Gloss=six
 31	kurùm	kurùm	ADV	_	_	23	mod	_	Gloss=just|SpaceAfter=No
 32	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
@@ -281,7 +281,7 @@
 21	tun	tun	ADP	_	_	15	mod	_	Gloss=since
 22	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	21	comp:obj	_	Gloss=year.Plur
 23	goːmà	goːmà	NUM	_	_	22	mod:num	_	Gloss=ten
-24	shâː	shâː	ADP	_	_	23	flat@num	_	Gloss=plus
+24	shâː	shâː	NUM	_	_	23	flat@num	_	Gloss=plus
 25	bìyar̃	bìyar̃	NUM	_	_	24	flat@num	_	Gloss=five
 26	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=COMP|wordform=ɗà
 27	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	26	comp:obj	_	Gloss=XX
@@ -310,7 +310,7 @@
 18	gadàːjeː	gadòː	NOUN	_	Number=Plur	17	comp:obj	_	Gloss=bed.Plur
 19	à	à	ADP	_	_	16	mod	_	Gloss=at
 20	cikin	cikin	ADP	_	Gender=Fem	19	comp:obj	_	Gloss=inside|SpaceAfter=No|wordform=cikinsà
-21	sà	sà	PRON	_	_	20	mod@poss	_	Gloss=3Masc.Gen
+21	sà	sà	PRON	_	_	20	comp:obj	_	Gloss=3Masc.Gen
 22	dòːmin	dòːmin	ADP	_	_	16	mod	_	Gloss=XX
 23	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	22	comp:obj	_	Gloss=lack.Vnoun.Masc.Cons
 24	ìsasshen	ìsassheː	NOUN	_	Definite=Cons|Gender=Masc	25	mod	_	Gloss=sufficient.Masc.Cons
@@ -369,7 +369,7 @@
 18	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	dislocated@subj	_	Gloss=XX
 19	kuma	kuma	PART	_	_	18	discourse@top	_	Gloss=also
 20	baːsàː	nàː	AUX	_	Aspect=Prog|Person=4|Polarity=Neg	13	conj:coord	_	Gloss=XX
-21	iyà	iy-	VERB	_	_	20	comp:aux	_	Gloss=XX
+21	iyà	iy-	VERB	_	_	20	comp:aux	_	Gloss=be_able_to
 22	sàyeː	say-	VERB	_	_	21	comp:obj	_	Gloss=buy
 23	dà	dà	ADP	_	_	22	mod	_	Gloss=XX
 24	kânsù	kânsù	PRON	_	Number=Plur|Person=3|Reflex=Yes	23	comp:obj	_	Gloss=3Plur.Reflex|SpaceAfter=No
@@ -382,7 +382,7 @@
 3	ci	ci	VERB	_	_	2	comp:aux	_	Gloss=proceed
 4	gàba	gàba	ADV	_	_	3	mod	_	Gloss=in_front
 5	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=XX
-6	cêːwaː	cêː	VERB	_	Gender=Fem	5	comp:obj	_	Gloss=XX
+6	cêːwaː	cêː	VERB	_	Gender=Fem	5	comp:obj	_	Gloss=say.Vnoun.Fem
 7	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	16	mod	_	Gloss=type.Masc.Cons
 8	haːlin	haːliː	NOUN	_	Definite=Cons|Gender=Masc	7	mod	_	Gloss=situation.Masc.Cons
 9	kiwòn	kiy-	VERB	_	Definite=Cons|Gender=Masc	8	mod	_	Gloss=protect.Vnoun.Masc.Cons
@@ -614,7 +614,7 @@
 2	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=XX
 3	ƙaːrà	ƙaːr-	VERB	_	_	2	comp:aux	_	Gloss=increase
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=XX|wordform=ɗà
-5	cêːwaː	cêː	VERB	_	Gender=Fem	4	comp:obj	_	Gloss=XX|wordform=cêwaː
+5	cêːwaː	cêː	VERB	_	Gender=Fem	4	comp:obj	_	Gloss=say.Vnoun.Fem|wordform=cêwaː
 6	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	5	comp:obj	_	Gloss=XX
 7	shakkàr̃	shakkàː	NOUN	_	Definite=Cons|Gender=Fem	6	comp:aux	_	Gloss=fear.Fem.Cons
 8	ìkìr̃aːrìn	ìkìr̃aːrìː	NOUN	_	_	7	mod	_	Gloss=claim.Masc.Cons
