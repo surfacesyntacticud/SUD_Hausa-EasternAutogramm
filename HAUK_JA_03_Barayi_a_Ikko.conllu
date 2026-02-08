@@ -130,12 +130,12 @@
 15	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = 03_Barayi_a_Ikko__6
-# text = Loːkàcîn dà ƙùːraː ta lafàː, sai ꞌyan sàndân sukà gaːnoː gàːwàwwakin mutàːneː bakwài.
+# text = loːkàcîn dà ƙùːraː ta lafàː, sai ꞌyan sàndân sukà gaːnoː gàːwàwwakin mutàːneː bakwài.
 1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	10	mod	_	Gloss=Masc.Def
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 3	ƙùːraː	ƙùːraː	NOUN	_	Gender=Fem	4	subj	_	Gloss=XX
-4	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	2	comp:obj	_	Gloss=Gen.Fem
-5	lafàː	lafàː	VERB	_	_	4	comp:obj	_	Gloss=XX|SpaceAfter=No
+4	ta	ta	AUX	_	_	2	comp:obj	_	Gloss=XX
+5	lafàː	lafàː	VERB	_	_	4	comp:aux	_	Gloss=XX|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	10	mod	_	Gloss=XX
 8	ꞌyan	ɗan	NOUN	_	Definite=Cons|Number=Plur	10	subj	_	Gloss=XX
