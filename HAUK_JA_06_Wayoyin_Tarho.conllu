@@ -21,7 +21,7 @@
 5	"	"	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 6	BBC	BBC	PROPN	_	Definite=Cons|Number=Plur	8	subj	_	Gloss=BBC|wordform='BBC
 7	"	"	PUNCT	_	_	6	punct	_	Gloss=PUNCT|wordform='
-8	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	2	comp:obj	_	Gloss=XX
+8	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	2	comp:obj	_	Gloss=3Masc.Fut
 9	gabaːtar̃	gabaːt-	VERB	_	_	8	comp:aux	_	Gloss=present
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with
 11	shìrye-shìryen	shìrye-shìrye	NOUN	_	Definite=Cons|Number=Plur	10	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=shìrye-shìryensà
@@ -145,7 +145,7 @@
 26	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 27	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	29	dislocated@subj	_	Gloss=thing.Masc.Def
 28	bà	bà	PART	_	Polarity=Neg	29	mod	_	Gloss=XX
-29	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	0	root	_	Gloss=XX
+29	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	0	root	_	Gloss=3Masc.Fut
 30	yìwu	yìi	VERB	_	ExtPos=NOUN	29	comp:aux	_	Gloss=XX
 31	ba	ba	PART	_	Polarity=Neg	30	mod	_	Gloss=XX
 32	-	-	PUNCT	_	_	29	punct	_	Gloss=PUNCT
@@ -153,7 +153,7 @@
 # sent_id = 06_01_Wayoyin_Tarho__6b
 # text = zaːkà ɓaːtà loːkàciː dà yawàː kàːfìn àfàrētàː yà haɗàː ka, koː kùwa kà ji wata màganàː bàː tàːre dà kaː sàːmi laːyìː ba.
 # text_ortho = Kàmar̃ shèːkaràː bìyar̃ dà sukà wucèː, ìdan kanàː sôn kà bugà wayàː zuwàː Bùr̃kiːnà Faːsò dàgà 'Vancouver', can cikin ƙasar̃ Kyanadà, àbîn bà zâi yìwu ba - zaː kà ɓaːtà loːkàciː dà yawàː kàːfìn àfàrētàː yà haɗàː ka, koː kùwa kà ji wata màganàː bàː tàːre dà kaː sàːmi laːyìː ba.
-1	zaːkà	zâi	AUX	_	Gender=Masc|Mood=Sub|Person=2	0	root	_	Gloss=XX|wordform=kà
+1	zaːkà	zâi	AUX	_	Gender=Masc|Mood=Sub|Person=2	0	root	_	Gloss=2Masc.Fut|wordform=kà
 2	ɓaːtà	ɓaːtàː	VERB	_	_	1	comp:aux	_	Gloss=XX
 3	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	2	comp:obj	_	Gloss=time.Masc
 4	dà	dà	SCONJ	_	_	3	mod	_	Gloss=XX
@@ -492,7 +492,7 @@
 24	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	23	comp:obj	_	Gloss=country.Plur.Cons
 25	kudancin	kudancin	ADP	_	_	24	mod	_	Gloss=south_of
 26	Afir̃kà	Afir̃kà	PROPN	_	_	25	comp:obj	_	Gloss=Africa
-27	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	13	comp:obj	_	Gloss=XX
+27	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	13	comp:obj	_	Gloss=3Masc.Fut
 28	yi	yi	VERB	_	_	27	comp:aux	_	Gloss=do
 29	sauƙiː	sauƙiː	NOUN	_	Gender=Masc	28	comp:pred	_	Gloss=XX|SpaceAfter=No
 30	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
