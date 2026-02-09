@@ -490,7 +490,7 @@
 18	yanà	nà	AUX	_	Aspect=Prog|ExtPos=SCONJ|Gender=Masc|Person=3	5	parataxis@mod	_	Gloss=XX|Idiom=Yes
 19	mài	mài	PART	_	Gender=Masc|PartType=Der	18	comp:pred	_	Gloss=owner/doer_of.Sing|InIdiom=Yes
 20	cêːwaː	cê	VERB	_	ExtPos=NOUN|Gender=Fem	19	compound	_	Gloss=say.Vnoun.Fem|InIdiom=Yes|wordform=cêwaː
-21	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	20	comp:obj	_	Gloss=XX
+21	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	20	comp:obj	_	Gloss=3Masc.Fut
 22	kasànceː	kasant-	VERB	_	_	21	comp:aux	_	Gloss=XX
 23	cikin	cikin	ADP	_	_	22	comp:obl	_	Gloss=inside
 24	wani	wani	DET	_	Definite=Spec|Gender=Masc	26	det	_	Gloss=some.Masc.Spec
@@ -531,19 +531,19 @@
 23	"	"	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 24	in	in	SCONJ	_	_	30	mod	_	Gloss=XX
 25	dàː	dàː	SCONJ	_	_	24	unk	_	Gloss=XX
-26	zân	zâi	AUX	_	Number=Sing|Person=1|Tense=Fut	24	comp:obj	_	Gloss=XX
+26	zân	zâi	AUX	_	Number=Sing|Person=1|Tense=Fut	24	comp:obj	_	Gloss=1Sing.Fut
 27	koːmàː	koːm-	VERB	_	_	26	comp:aux	_	Gloss=go_(back)_to
 28	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	27	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 29	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 30	jàmaꞌàː	jàmaꞌàː	NOUN	_	Gender=Fem	19	parataxis	_	Gloss=XX
-31	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	30	comp:cleft	_	Gloss=XX
+31	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	30	comp:cleft	_	Gloss=4.Fut
 32	taːràː	taːr-	VERB	_	_	31	comp:aux	_	Gloss=XX
 33	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	32	comp:obj	_	Gloss=3Plur.Sub
 34	yi	yi	VERB	_	_	33	comp:aux	_	Gloss=do
 35	kallon	kalloː	ADJ	_	Definite=Cons|Gender=Masc	34	comp:pred	_	Gloss=XX
 36	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	35	mod	_	Gloss=time.Masc.Def
 37	dà	dà	SCONJ	_	_	36	mod@relcl	_	Gloss=COMP
-38	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	37	comp:obj	_	Gloss=XX
+38	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	37	comp:obj	_	Gloss=4.Fut
 39	sâː	sâː	VERB	_	_	38	comp:aux	_	Gloss=put
 40	soːjà	soːjà	NOUN	_	_	41	subj	_	Gloss=XX
 41	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	39	parataxis@mod	_	Gloss=3Plur.Sub
@@ -619,7 +619,7 @@
 29	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	28	comp:obj@G	_	Gloss=Nigeria
 30	kashèː	kas-	VERB	_	_	25	comp:obj	_	Gloss=kill
 31	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	30	comp:obj	_	Gloss=XX
-32	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	30	comp:cleft	_	Gloss=XX
+32	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	30	comp:cleft	_	Gloss=4.Fut
 33	yi	yi	VERB	_	_	32	comp:aux	_	Gloss=do|SpaceAfter=No
 34	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
@@ -660,7 +660,7 @@
 32	don	don	SCONJ	_	_	26	mod	_	Gloss=because
 33	kanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=2	32	comp:obj	_	Gloss=2Masc.Prog
 34	tsòːron	tsòːroː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	33	comp:aux	_	Gloss=XX
-35	zaː'à	zâi	AUX	_	_	34	mod	_	Gloss=XX
+35	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	34	mod	_	Gloss=4.Fut
 36	ƙuntàtaː	ƙuntàtaː	VERB	_	Case=Gen|Number=Sing|Person=1	35	comp:obj	_	Gloss=XX
 37	makà	makà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	36	comp:obl	_	Gloss=XX
 38	ba	ba	PART	_	Polarity=Neg	34	mod	_	Gloss=XX|SpaceAfter=No
@@ -669,7 +669,7 @@
 41	don	don	SCONJ	_	_	32	conj:coord	_	Gloss=so_that
 42	kanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=2	41	comp:obj	_	Gloss=2Masc.Prog
 43	tsòːron	tsòːroː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	42	comp:aux	_	Gloss=XX
-44	zaː'à	zâi	AUX	_	_	43	mod	_	Gloss=XX
+44	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	43	mod	_	Gloss=4.Fut
 45	gur̃faːnar̃	gur̃faːnar̃	VERB	_	Definite=Cons|Gender=Fem	44	comp:obj	_	Gloss=XX
 46	dà	dà	ADP	_	_	45	comp:obl	_	Gloss=with
 47	kai	kai	PRON	_	Case=Nom|Gender=Masc|Person=2|PronType=Prs	46	comp:obj	_	Gloss=2Masc.Nom

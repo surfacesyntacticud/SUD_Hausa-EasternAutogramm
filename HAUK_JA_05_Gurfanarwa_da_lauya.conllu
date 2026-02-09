@@ -1,6 +1,6 @@
 # sent_id = 05_Gurfanarwa_da_lauya__1
-# text = Zaːà gur̃faːnar̃ dà wani lauyàː mài r̃aꞌàyin canjìː à Nàːjeːr̃iyàː
-1	Zaːà	zâi	AUX	_	Person=4|Tense=Fut	0	root	_	Gloss=XX
+# text = Zaː'à gur̃faːnar̃ dà wani lauyàː mài r̃aꞌàyin canjìː à Nàːjeːr̃iyàː
+1	Zaː'à	zâi	AUX	_	Person=4|Tense=Fut	0	root	_	Gloss=4.Fut
 2	gur̃faːnar̃	gur̃faːn-	VERB	_	Definite=Cons|Gender=Fem	1	comp:aux	_	Gloss=XX
 3	dà	dà	ADP	_	_	2	comp:obl	_	Gloss=with
 4	wani	wani	DET	_	Definite=Spec|Gender=Masc	5	det	_	Gloss=some.Masc.Spec
@@ -160,7 +160,7 @@
 16	à	à	ADP	_	_	13	comp:pred	_	Gloss=at
 17	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	16	comp:obj	_	Gloss=Nigeria
 18	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=COMP
-19	zaːtà	zâi	AUX	_	Gender=Fem|Person=3|Tense=Fut	18	comp:obj	_	Gloss=XX
+19	zaːtà	zâi	AUX	_	Gender=Fem|Person=3|Tense=Fut	18	comp:obj	_	Gloss=Fem.Fut
 20	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc	19	comp:aux	_	Gloss=put
 21	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=mouth.Masc|SpaceAfter=No
 22	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
@@ -200,7 +200,7 @@
 31	dà	dà	ADP	_	_	12	mod	_	Gloss=with
 32	wata	wani	DET	_	Definite=Spec|Gender=Masc	33	det	_	Gloss=some.Fem.Spec
 33	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	31	comp:obj	_	Gloss=XX
-34	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	33	mod@relcl	_	Gloss=XX
+34	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	33	mod@relcl	_	Gloss=4.Fut
 35	gur̃faːnar̃	gur̃faːn-	VERB	_	Definite=Cons|Gender=Fem	34	comp:aux	_	Gloss=XX
 36	dà	dà	ADP	_	_	35	comp:obl	_	Gloss=with
 37	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	36	comp:obj	_	Gloss=XX
@@ -341,7 +341,7 @@
 15	lâifiː	lâifiː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=XX|SpaceAfter=No
 16	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 17	tòː	tòː	INTJ	_	_	18	discourse	_	Gloss=XX
-18	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	6	comp:obj	_	Gloss=XX
+18	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	6	comp:obj	_	Gloss=3Masc.Fut
 19	iyà	iy-	VERB	_	_	18	comp:aux	_	Gloss=be_able_to
 20	saːmùn	saːmùː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:obj	_	Gloss=get.Vnoun.Masc.Cons
 21	ɗaurìn	ɗaur-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	20	comp:obj	_	Gloss=tie.Vnoun.Masc.Cons
