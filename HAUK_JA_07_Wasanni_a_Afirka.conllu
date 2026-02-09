@@ -19,7 +19,7 @@
 8	làːbaːr̃ìn	làːbaːr̃ìː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=XX
 9	rìkicîn	rìkiciː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=Masc.Def
 10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=COMP
-11	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Yes	10	comp:obj	_	Gloss=4.Prog.Rel
+11	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	10	comp:obj	_	Gloss=4.Prog.Rel
 12	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:aux	_	Gloss=do.Vnoun.Masc
 13	can	can	ADV	_	PronType=Dem	12	mod	_	Gloss=over_there
 14	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	13	conj:appos	_	Gloss=Nigeria
@@ -53,7 +53,7 @@
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	8	mod@relcl	_	Gloss=that.Masc
 19	kuma	kuma	PART	_	_	18	discourse@top	_	Gloss=also
-20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	21	comp:pred	_	Gloss=XX
+20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	21	comp:pred	_	Gloss=3Masc.Nom
 21	nèː	neː	AUX	_	Gender=Masc|Number=Plur	18	comp:obj	_	Gloss=XX
 22	zàkaràn	zàkaràː	NOUN	_	Definite=Cons|Gender=Masc	21	dislocated@comp	_	Gloss=XX
 23	ajìn	ajìː	NOUN	_	Definite=Cons|Gender=Masc	22	mod	_	Gloss=XX
@@ -151,7 +151,7 @@
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
 12	wàːsân	wàːsaː	NOUN	_	Gender=Masc|PronType=Dem	11	comp:pred	_	Gloss=XX
 13	sabòːdà	sabòːdà	SCONJ	_	_	11	mod	_	Gloss=because
-14	ita	ita	PRON	_	Gender=Fem|Person=3	19	subj	_	Gloss=XX
+14	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	19	subj	_	Gloss=3Fem.Nom
 15	ƙungìyar̃	ƙungìyaː	NOUN	_	Gender=Fem	14	conj:appos	_	Gloss=association.Fem.Cons
 16	dambe	dambe	DET	_	_	15	mod	_	Gloss=XX
 17	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	15	mod	_	Gloss=Gen.Fem
@@ -167,7 +167,7 @@
 27	wàːtòː	wàːtòː	PART	_	_	30	discourse	_	Gloss=that_is
 28	indà	indà	ADV	_	PronType=Rel	31	mod	_	Gloss=where
 29	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	30	subj	_	Gloss=government.Fem.Def
-30	kèː	nàː	AUX	_	Aspect=Prog|Relative=Yes	23	mod@relcl	_	Gloss=Prog.Rel
+30	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	23	mod@relcl	_	Gloss=Prog.Rel
 31	nuːnà	nuːn-	VERB	_	_	30	comp:aux	_	Gloss=show
 32	waːriyar̃	waːriyaː	NOUN	_	Definite=Cons|Gender=Fem	31	comp:obj	_	Gloss=XX
 33	launìn	launìː	NOUN	_	Definite=Cons|Gender=Masc	32	mod	_	Gloss=XX
@@ -177,7 +177,7 @@
 37	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	30	conj:coord	_	Gloss=3Fem.Prog
 38	hulɗàː	hulɗàː	VERB	_	_	37	comp:aux	_	Gloss=XX
 39	dà	dà	ADP	_	_	38	comp:obl	_	Gloss=with
-40	ita	ita	PRON	_	Gender=Fem|Person=3	39	comp:obj	_	Gloss=XX|SpaceAfter=No
+40	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	39	comp:obj	_	Gloss=3Fem.Nom|SpaceAfter=No
 41	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka__6
@@ -217,10 +217,10 @@
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 3	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	9	subj	_	Gloss=Masc.Def
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
-5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Yes	4	comp:obj	_	Gloss=3Masc.Perf.Rel
+5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	4	comp:obj	_	Gloss=3Masc.Perf.Rel
 6	kaːwoː	kai	VERB	_	_	5	comp:aux	_	Gloss=carry/take_to
 7	rùːɗaːnîn	rùːɗaːniː	NOUN	_	Definite=Def|Number=Plur	6	comp:obj	_	Gloss=XX
-8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	Gloss=XX
+8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	Gloss=3Masc.Nom
 9	nèː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Gloss=XX
 10	shùːgàban	shùːgàbaː	NOUN	_	Definite=Cons	22	dislocated@top	_	Gloss=leader.Masc.Cons
 11	hùkuːmàr̃	hùkuːmàː	NOUN	_	Gender=Masc	10	mod	_	Gloss=XX
@@ -234,9 +234,9 @@
 19	Ogunbufunmi	Ogunbufunmi	PROPN	_	Definite=Cons|Number=Plur	18	flat@name	_	Gloss=Ogunbufunmi
 20	"	"	PUNCT	_	_	18	punct	_	Gloss=PUNCT|SpaceAfter=No
 21	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-22	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	dislocated@comp	_	Gloss=XX
+22	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	dislocated@comp	_	Gloss=3Masc.Nom
 23	nèː	neː	PART	_	Gender=Masc|PartType=Foc	22	discourse@foc	_	Gloss=XX
-24	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Yes	22	comp:cleft	_	Gloss=3Masc.Perf.Rel
+24	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	22	comp:cleft	_	Gloss=3Masc.Perf.Rel
 25	baː	baː	VERB	_	_	24	comp:aux	_	Gloss=give
 26	dà	dà	ADP	_	_	25	comp:obl	_	Gloss=with
 27	sanâr̃waː	sanâr̃ː	VERB	_	Gender=Fem	26	comp:obj	_	Gloss=XX
@@ -249,7 +249,7 @@
 34	ba	ba	PART	_	Polarity=Neg	32	mod	_	Gloss=XX|SpaceAfter=No
 35	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
 36	har̃	har̃	CCONJ	_	Definite=Cons|Gender=Fem	37	cc	_	Gloss=XX
-37	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Yes	24	conj:coord	_	Gloss=3Masc.Perf.Rel
+37	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	24	conj:coord	_	Gloss=3Masc.Perf.Rel
 38	cèː	cêː	VERB	_	_	37	comp:aux	_	Gloss=say
 39	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	38	comp:obj	_	Gloss=3Plur.Perf
 40	tattàunà	tattà	VERB	_	Case=Gen|Number=Sing|Person=1	39	comp:aux	_	Gloss=XX
@@ -264,7 +264,7 @@
 # sent_id = 07_Wasanni_a_Afirka__8
 # text = ya ƙaːràː dà cêːwaː tun cikin maːkòn jiyà neː ya r̃ubùːtaː wà Lasisi wàsiːƙàː ya gayàː masà kadà yà kùskurà yà shìga wannàn gàːsaː.
 # text_ortho = Ya ƙaːràː dà cêːwaː tun cikin maːkòn jiyà neː ya r̃ubùːtaː wà Lasisi wàsiːƙàː ya gayàː masà kadà yà kùskurà yà shìga wannàn gàːsaː.
-1	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Yes	0	root	_	Gloss=3Masc.Perf.Rel
+1	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
 2	ƙaːràː	ƙaːr-	VERB	_	_	1	comp:aux	_	Gloss=increase
 3	dà	dà	ADP	_	_	2	comp:obl	_	Gloss=with
 4	cêːwaː	cêː	VERB	_	Gender=Fem	3	comp:obj	_	Gloss=say.Vnoun.Fem
@@ -273,12 +273,12 @@
 7	maːkòn	maːkòː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	Gloss=XX
 8	jiyà	jiyà	ADV	_	_	7	mod	_	Gloss=XX
 9	neː	neː	PART	_	PartType=Foc	5	dislocated@foc	_	Gloss=XX
-10	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Yes	4	comp:obj	_	Gloss=3Masc.Perf.Rel
+10	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	4	comp:obj	_	Gloss=3Masc.Perf.Rel
 11	r̃ubùːtaː	r̃ubùː	VERB	_	_	10	comp:aux	_	Gloss=XX
 12	wà	wà	ADP	_	_	11	comp:obl	_	Gloss=XX
 13	Lasisi	Lasisi	PROPN	_	_	12	comp:obj	_	Gloss=Lasisi
 14	wàsiːƙàː	wàsiːƙàː	NOUN	_	Gender=Masc	13	flat@name	_	Gloss=XX
-15	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Yes	10	parataxis@conj	_	Gloss=3Masc.Perf.Rel
+15	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	10	parataxis@conj	_	Gloss=3Masc.Perf.Rel
 16	gayàː	gay-	VERB	_	_	15	comp:aux	_	Gloss=XX
 17	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	16	comp:obl	_	Gloss=XX
 18	kadà	kadà	ADV	_	_	19	mod	_	Gloss=XX
@@ -333,7 +333,7 @@
 38	gà	gà	ADP	_	_	34	comp:obl	_	Gloss=to
 39	Lasisi	Lasisi	PROPN	_	_	38	comp:obj	_	Gloss=Lasisi
 40	ìdan	ìdan	SCONJ	_	_	34	mod	_	Gloss=if
-41	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Yes	40	comp:obj	_	Gloss=3Masc.Perf.Rel
+41	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	40	comp:obj	_	Gloss=3Masc.Perf.Rel
 42	zoː	zoː	VERB	_	_	41	comp:aux	_	Gloss=go
 43	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	42	comp:obj@G	_	Gloss=do.Vnoun.Masc.Cons
 44	dambe	dambe	NOUN	_	_	43	comp:pred	_	Gloss=XX|SpaceAfter=No
@@ -343,7 +343,7 @@
 # text = sakatar̃èn ya ƙaːràː dà cêːwaː yîn wannàn dambe bài saːɓàː wà manufoːfin gwamnatì ba, tun dà yakè àboːkin damben Lasisi bàː ɗan Afir̃kà ta Kudù ba nèː, kuma bàː à Afir̃kà ta Kudù zaː'à yi dambên ba.
 # text_ortho = Sakatar̃èn ya ƙaːràː dà cêːwaː yîn wannàn dambe bài saːɓàː wà manufoːfin Gwamnatì ba, tun dà yakè àboːkin damben Lasisi bàː ɗan Afir̃kà ta Kudù ba nèː, kuma bàː à Afir̃kà ta Kudù zaː à yi dambên ba.
 1	sakatar̃èn	sakatar̃èː	NOUN	_	Definite=Def|Gender=Masc	2	subj	_	Gloss=XX
-2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Yes	0	root	_	Gloss=3Masc.Perf.Rel
+2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
 3	ƙaːràː	ƙaːr-	VERB	_	_	2	comp:aux	_	Gloss=increase
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with
 5	cêːwaː	cêː	VERB	_	Gender=Fem	4	comp:obj	_	Gloss=say.Vnoun.Fem
@@ -359,7 +359,7 @@
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	tun	tun	SCONJ	_	ExtPos=SCONJ	10	mod	_	Gloss=XX|Idiom=Yes
 17	dà	dà	SCONJ	_	_	16	compound	_	Gloss=COMP|InIdiom=Yes
-18	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Relative2=Yes	17	compound	_	Gloss=3Fem.Prog.Rel2|InIdiom=Yes
+18	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Relative=Rel2	17	compound	_	Gloss=3Fem.Prog.Rel2|InIdiom=Yes
 19	àboːkin	àboːkiː	NOUN	_	Definite=Cons|Gender=Masc	28	subj	_	Gloss=XX
 20	damben	dambeː	NOUN	_	Definite=Cons|Gender=Masc	19	mod	_	Gloss=XX
 21	Lasisi	Lasisi	PROPN	_	_	19	mod	_	Gloss=Lasisi
@@ -410,7 +410,7 @@
 22	à	à	ADP	_	_	21	mod	_	Gloss=at
 23	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	22	comp:obj	_	Gloss=Nigeria
 24	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	21	mod@relcl	_	Gloss=that.Fem
-25	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Yes	24	comp:obj	_	Gloss=4.Prog.Rel
+25	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	24	comp:obj	_	Gloss=4.Prog.Rel
 26	kiràː	kir-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	25	comp:aux	_	Gloss=XX
 27	"	"	PUNCT	_	_	28	punct	_	Gloss=PUNCT
 28	Sunday	Sunday	PROPN	_	_	26	comp:pred	_	Gloss=Sunday
@@ -439,7 +439,7 @@
 # text = tòː shiː maː Lasisi kânsà yanàː sôn à barìː yà yi wàːsân.
 # text_ortho = Tòː shiː maː Lasisi kânsà yanàː sôn à barìː yà yi waːsân.
 1	 tòː	 tòː	INTJ	_	_	6	discourse	_	Gloss=XX
-2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	dislocated@subj	_	Gloss=XX
+2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	dislocated@subj	_	Gloss=3Masc.Nom
 3	maː	maː	PART	_	_	2	discourse@top	_	Gloss=XX
 4	Lasisi	Lasisi	PROPN	_	_	2	conj:appos	_	Gloss=Lasisi
 5	kânsà	kânsà	PRON	_	Gender=Masc|Person=3|PronType=Prs|Reflex=Yes	4	mod	_	Gloss=3Masc.Reflex
@@ -464,7 +464,7 @@
 7	sàːkàmakon	sàːkàmakoː	NOUN	_	Definite=Cons|Number=Plur	6	comp:obj	_	Gloss=XX
 8	wàːsànnîn	wàːsaː	NOUN	_	Definite=Def|Number=Plur|Person=3	7	mod	_	Gloss=game.Plur.Def
 9	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
-10	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Yes	9	comp:obj	_	Gloss=4.Perf.Rel
+10	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	9	comp:obj	_	Gloss=4.Perf.Rel
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
 12	na	na	PART	_	Case=Gen|PartType=Pred	7	mod	_	Gloss=Gen
 13	gàːsar̃	gàːsaː	NOUN	_	Definite=Cons|Gender=Fem	12	comp:obj	_	Gloss=XX
