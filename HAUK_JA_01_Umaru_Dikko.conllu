@@ -2,17 +2,17 @@
 # text = Ùmaru Dikkò
 # text_ortho = Ùmaru Dikkò
 1	Ùmaru	Ùmaru	PROPN	_	_	0	root	_	Gloss=Ùmaru
-2	Dikkò	Dikkò	PROPN	_	_	1	flat@name	_	Gloss=Dikkò
+2	Dikkò	Dikkò	PROPN	_	_	1	flat@name	_	Gloss=Dikko
 
 # sent_id = 01_Umaru_Dikko__2
 # text = àlꞌamàr̃in Ùmar̃ù Dikkò àbù neː mài ban shàꞌawàr̃ jîː.
 # text_en = Umaru Dikko's case is something interesting to hear.
 # text_ortho = Àlꞌamàr̃in Ùmar̃ù Dikkò àbù neː mài ban shàꞌawàr̃ jîː.
 1	àlꞌamàr̃in	àlꞌamàr̃iː	NOUN	_	_	5	dislocated@subj	_	Gloss=case.Masc.Cons
-2	Ùmar̃ù	Ùmar̃ù	PROPN	_	_	1	mod	_	Gloss=Ùmar̃ù
-3	Dikkò	Dikkò	PROPN	_	_	2	flat@name	_	Gloss=Dikkò
+2	Ùmar̃ù	Ùmar̃ù	PROPN	_	_	1	mod	_	Gloss=Umaru
+3	Dikkò	Dikkò	PROPN	_	_	2	flat@name	_	Gloss=Dikko
 4	àbù	àbù	NOUN	_	Gender=Masc	5	comp:pred	_	Gloss=thing.Masc
-5	neː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Gloss=XX
+5	neː	neː	AUX	_	_	0	root	_	Gloss=be
 6	mài	mài	PART	_	Number=Sing|PartType=Der	4	mod	_	Gloss=owner/doer_of.Sing
 7	ban	baː	VERB	_	_	6	compound	_	Gloss=give
 8	shàꞌawàr̃	shàꞌawàː	NOUN	_	Definite=Cons|Gender=Fem	7	compound	_	Gloss=interest.Fem.Cons
@@ -29,7 +29,7 @@
 5	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	4	comp:obj	_	Gloss=Nigeria
 6	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 7	tseːrèː	tseːr-	VERB	_	_	6	comp:aux	_	Gloss=XX
-8	neː	neː	PART	_	Gender=Masc|Number=Plur	7	discourse@foc	_	Gloss=XX
+8	neː	neː	PART	_	PartType=Foc	7	discourse@foc	_	Gloss=Emph
 9	dàgà	dàgà	ADP	_	_	7	comp:obl	_	Gloss=from
 10	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	9	comp:obj	_	Gloss=country.Fem.Def
 11	baːyan	baːyan	ADP	_	_	7	mod	_	Gloss=after
@@ -69,15 +69,15 @@
 # text = shiː Ùmar̃ù Dikkò kuma ya tsallàkaː kân iyàːkaː ya shìga cikin ƙasar̃ Bìːni, ƙiːlà baːyan yaː ɓad dà kàmaː yaː yi shìgaː irìn ta fàːdaː.
 # text_ortho = Shiː Ùmar̃ù Dikkò kuma ya tsallàkaː kân iyàːkaː ya shìga cikin ƙasar̃ Bìːni, ƙiːlà baːyan yaː ɓad dà kàmaː yaː yi shìgaː irìn ta fàːdaː.
 1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	5	dislocated@subj	_	Gloss=3Masc.Nom
-2	Ùmar̃ù	Ùmar̃ù	PROPN	_	_	1	conj:appos	_	Gloss=Ùmar̃ù
-3	Dikkò	Dikkò	PROPN	_	_	2	flat@name	_	Gloss=Dikkò
+2	Ùmar̃ù	Ùmar̃ù	PROPN	_	_	1	conj:appos	_	Gloss=Umaru
+3	Dikkò	Dikkò	PROPN	_	_	2	flat@name	_	Gloss=Dikko
 4	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
 6	tsallàkaː	tsallàkaː	VERB	_	_	5	comp:aux	_	Gloss=XX
 7	kân	kân	ADP	_	_	6	comp:obl	_	Gloss=on
-8	iyàːkaː	iyàːkaː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=XX
+8	iyàːkaː	iyàːkaː	NOUN	_	Gender=Fem	7	comp:obj	_	Gloss=border.Fem
 9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	5	parataxis@conj	_	Gloss=3Masc.Perf.Rel
-10	shìga	shig-	VERB	_	_	9	comp:aux	_	Gloss=XX
+10	shìga	shig-	VERB	_	_	9	comp:aux	_	Gloss=enter
 11	cikin	cikin	ADP	_	_	10	comp:obl	_	Gloss=inside
 12	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	13	mod@desc	_	Gloss=country.Fem.Cons
 13	Bìːni	Bìːni	PROPN	_	_	11	comp:obj	_	Gloss=Benin_Republic|SpaceAfter=No
@@ -85,15 +85,15 @@
 15	ƙiːlà	ƙiːlà	ADV	_	_	16	mod	_	Gloss=maybe
 16	baːyan	baːyan	SCONJ	_	_	10	mod	_	Gloss=after
 17	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	16	comp:obj	_	Gloss=3Masc.Perf
-18	ɓad	ɓaː	ADV	_	_	17	comp:aux	_	Gloss=XX
+18	ɓad	ɓat-	ADV	_	_	17	comp:aux	_	Gloss=dispose_of.Cau
 19	dà	dà	ADP	_	_	18	mod	_	Gloss=with
-20	kàmaː	kàmaː	NOUN	_	Gender=Fem	19	comp:obj	_	Gloss=XX
+20	kàmaː	kàmaː	NOUN	_	Gender=Fem	19	comp:obj	_	Gloss=appearance.Fem
 21	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	17	parataxis@conj	_	Gloss=3Masc.Perf
 22	yi	yi	VERB	_	_	21	comp:aux	_	Gloss=do
-23	shìgaː	shìgaː	NOUN	_	ExtPos=NOUN|Gender=Fem	22	comp:pred	_	Gloss=XX
+23	shìgaː	shig-	VERB	_	ExtPos=NOUN|Gender=Fem	22	comp:pred	_	Gloss=enter.VNoun.Fem
 24	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	23	mod	_	Gloss=type.Masc.Cons
 25	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	24	mod	_	Gloss=Gen.Fem
-26	fàːdaː	fàːdaː	NOUN	_	Gender=Fem	25	comp:obj	_	Gloss=XX|SpaceAfter=No
+26	fàːdaː	fàːdaː	NOUN	_	Gender=Masc	25	comp:obj	_	Gloss=priest.Masc|SpaceAfter=No
 27	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko__5
@@ -106,14 +106,14 @@
 5	ukù	ukù	NUM	_	_	4	mod:num	_	Gloss=three
 6	à	à	ADP	_	_	3	mod	_	Gloss=at
 7	can	can	ADV	_	PronType=Dem	6	comp:obj	_	Gloss=over_there
-8	nèː	neː	PART	_	_	1	discourse@foc	_	Gloss=XX
+8	nèː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
 9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	1	comp:cleft	_	Gloss=3Masc.Perf.Rel
 10	zoː	zoː	VERB	_	_	9	comp:aux	_	Gloss=go
 11	nân	nân	ADV	_	Deixis=Prox|PronType=Dem	10	comp:obj@G	_	Gloss=here
 12	Landàn	Landàn	PROPN	_	Definite=Def|Gender=Masc	11	conj:appos	_	Gloss=London
 13	à	à	ADP	_	_	10	mod	_	Gloss=at
-14	jirgin	jirgiː	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	Gloss=XX
-15	samà	samà	ADV	_	_	14	compound	_	Gloss=XX|SpaceAfter=No
+14	jirgin	jirgiː	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	Gloss=vehicle.Masc.Cons
+15	samà	samà	ADV	_	_	14	compound	_	Gloss=above|SpaceAfter=No
 16	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko__6
@@ -121,13 +121,13 @@
 # text_ortho = Baːyan shèːkaràː  gùdaː nèː kuma àlꞌamàr̃in na Ùmar̃ù Dikkò ya kai gà wani saːbon matsayiː baːyân dà akà yi ƙòːƙarin saːcèː shi à Ingìlà.
 1	baːyan	baːyan	ADP	_	_	10	mod	_	Gloss=after
 2	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=year.Fem
-3	gùdaː	gùdaː	NUM	_	_	2	mod:num	_	Gloss=XX
-4	nèː	neː	PART	_	_	1	discourse@foc	_	Gloss=XX
+3	gùdaː	gùdaː	NOUN	_	_	2	mod:num	_	Gloss=unit/one.Masc
+4	nèː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
 5	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 6	àlꞌamàr̃in	àlꞌamàr̃iː	NOUN	_	_	10	subj	_	Gloss=XX
 7	na	na	PART	_	Case=Gen|PartType=Pred	6	mod	_	Gloss=Gen
-8	Ùmar̃ù	Ùmar̃ù	PROPN	_	_	7	comp:obj	_	Gloss=Ùmar̃ù
-9	Dikkò	Dikkò	PROPN	_	_	8	flat@name	_	Gloss=Dikkò
+8	Ùmar̃ù	Ùmar̃ù	PROPN	_	_	7	comp:obj	_	Gloss=Umaru
+9	Dikkò	Dikkò	PROPN	_	_	8	flat@name	_	Gloss=Dikko
 10	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
 11	kai	kai	VERB	_	_	10	comp:aux	_	Gloss=reach/carry_to
 12	gà	gà	ADP	_	_	11	comp:obl	_	Gloss=to
@@ -266,18 +266,18 @@
 4	ɗigàː	ɗig-	VERB	_	_	3	comp:aux	_	Gloss=XX
 5	wà	wà	ADP	_	Case=Dat	4	comp:obl	_	Gloss=XX
 6	gàːrin	gàːriː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:obj	_	Gloss=flour.Masc.Cons
-7	Ùmar̃ù	Ùmar̃ù	PROPN	_	_	6	mod	_	Gloss=Ùmar̃ù
-8	Dikkò	Dikkò	PROPN	_	_	7	flat@name	_	Gloss=Dikkò
+7	Ùmar̃ù	Ùmar̃ù	PROPN	_	_	6	mod	_	Gloss=Umaru
+8	Dikkò	Dikkò	PROPN	_	_	7	flat@name	_	Gloss=Dikko
 9	noːnòː	noːnòː	PART	_	Gender=Masc	4	comp:obj	_	Gloss=XX
 10	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	11	comp:pred	_	Gloss=3Masc.Nom
-11	nèː	neː	PART	_	Gender=Masc|Number=Plur	0	root	_	Gloss=XX
+11	nèː	neː	AUX	_	PartType=Foc	0	root	_	Gloss=be
 12	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	13	det	_	Gloss=Prox.Sing
 13	àkwàːtì	àkwàːtì	NOUN	_	Gender=Masc	15	subj	_	Gloss=box.Masc
 14	dai	dai	PART	_	PartType=Top	13	discourse@top	_	Gloss=anyhow
 15	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	11	dislocated@comp	_	Gloss=3Masc.Perf.Neg
 16	sàːmi	saːm-	VERB	_	_	15	comp:aux	_	Gloss=get
 17	taːshìː	taːs-	VERB	_	Gender=Masc	16	comp:obj	_	Gloss=rise.Vnoun.Masc
-18	samà	samà	ADV	_	_	17	mod	_	Gloss=XX
+18	samà	samà	ADV	_	_	17	mod	_	Gloss=above
 19	à	à	ADP	_	_	17	comp:obl	_	Gloss=at
 20	cikin	cikin	ADP	_	_	19	comp:obj	_	Gloss=inside
 21	jirgiː	jirgiː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=XX
@@ -297,7 +297,7 @@
 8	tàmàːnin	tàmàːnin	NUM	_	_	5	conj:coord	_	Gloss=eighty
 9	dà	dà	CCONJ	_	_	10	cc	_	Gloss=and
 10	bìyar̃	bìyar̃	NUM	_	_	8	conj:coord	_	Gloss=five
-11	nèː	neː	PART	_	Gender=Masc|Number=Plur	1	discourse@foc	_	Gloss=XX
+11	nèː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
 12	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 13	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	14	det	_	Gloss=some.Plur.Spec
 14	ꞌyan	ꞌyan	ADJ	_	Definite=Cons|Number=Plur	28	subj	_	Gloss=XX
@@ -320,7 +320,7 @@
 31	ƙòːƙarin	ƙòːƙariː	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=effort.Masc.Cons
 32	saːcè	saːt-	VERB	_	_	31	comp:obj	_	Gloss=XX
 33	Ùːmar̃ù	Ùːmar̃ù	PROPN	_	_	32	comp:obj	_	Gloss=Ùːmar̃ù
-34	Dikkò	Dikkò	PROPN	_	_	33	flat@name	_	Gloss=Dikkò|SpaceAfter=No
+34	Dikkò	Dikkò	PROPN	_	_	33	flat@name	_	Gloss=Dikko|SpaceAfter=No
 35	.	.	PUNCT	_	_	28	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko__12
@@ -352,7 +352,7 @@
 9	an	yaː	AUX	_	Aspect=Perf|Person=4	8	comp:obj	_	Gloss=4.Perf
 10	bayyànà	bayyan-	VERB	_	_	9	comp:aux	_	Gloss=explain
 11	Ùːmar̃ù	Ùːmar̃ù	PROPN	_	_	10	comp:obj	_	Gloss=Ùːmar̃ù
-12	Dikkò	Dikkò	PROPN	_	_	11	flat@name	_	Gloss=Dikkò
+12	Dikkò	Dikkò	PROPN	_	_	11	flat@name	_	Gloss=Dikko
 13	dà	dà	ADP	_	_	10	comp:obl	_	Gloss=with
 14	cêːwaː	cêː	VERB	_	Gender=Fem	13	comp:obj	_	Gloss=say.Vnoun.Fem|SpaceAfter=No|wordform=cêwaː
 15	:	:	PUNCT	_	_	20	punct	_	Gloss=PUNCT
@@ -360,7 +360,7 @@
 17	wani	wani	DET	_	Definite=Spec|Gender=Masc	19	det	_	Gloss=some.Masc.Spec
 18	ƙàːsur̃gumin	ƙàːsur̃gumiː	ADJ	_	Definite=Cons|Gender=Masc	19	mod	_	Gloss=XX
 19	ɓàraːwòː	ɓàraːwòː	NOUN	_	Gender=Masc	20	comp:pred	_	Gloss=XX
-20	neː	neː	AUX	_	Gender=Masc	14	comp:obj	_	Gloss=XX
+20	neː	neː	AUX	_	_	14	comp:obj	_	Gloss=be
 21	dà	dà	SCONJ	_	_	19	mod@relcl	_	Gloss=COMP
 22	bà'à	yaː	AUX	_	Aspect=Perf|Person=4|Polarity=Neg	21	comp:obj	_	Gloss=4.Perf.Neg
 23	taɓà	taɓ-	VERB	_	_	22	comp:aux	_	Gloss=XX
@@ -377,7 +377,7 @@
 # sent_id = 01_Umaru_Dikko__13b
 # text = sai à watàn Jànair̃u na shèːkaràr̃ alif dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː gwamnatìn Nàjeːr̃iyàː ta bùkàːci Bìr̃taːniyà tà miːƙàː matà shiː don à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː kân lâifin cîn hancìː dà kàrɓar̃ r̃ashawaː ta fâm miliyàn bàr̃kàtài.
 # text_ortho = À loːkàcin shàr̃iꞌàr̃, Mài Shàr̃iꞌàː yaː cêː an bayyànà Ùːmar̃ù Dikkò dà cêwaː: “Wani ƙàːsur̃gumin ɓàraːwòː neː dà bà à taɓà yîn irìnsà ba à duːniyàː.” Sai à watàn Jànair̃u na shekaràr̃ alif dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː Gwamnatìn Nàjeːr̃iyàː ta bùkàːci Bìr̃taːniyà tà miːƙàː matà shiː don à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː kân lâifin cîn hancìː dà kàrɓar̃ r̃ashawaː ta fâm miliyàn bàr̃kàtài.
-1	sai	sai	ADV	_	_	2	mod	_	Gloss=XX
+1	sai	sai	ADV	_	_	18	mod	_	Gloss=XX
 2	à	à	ADP	_	Mood=Sub|Person=4	18	mod	_	Gloss=at
 3	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	4	mod@desc	_	Gloss=month.Masc.Cons
 4	Jànair̃u	Jànair̃u	NOUN	_	Gender=Masc	2	comp:obj	_	Gloss=january.Masc
@@ -391,7 +391,7 @@
 12	tàmàːnin	tàmàːnin	NUM	_	_	10	conj:coord	_	Gloss=eighty
 13	dà	dà	CCONJ	_	_	14	cc	_	Gloss=and
 14	bìyar̃	bìyar̃	NUM	_	_	12	conj:coord	_	Gloss=five
-15	nèː	neː	AUX	_	Gender=Masc|Number=Plur	2	discourse@foc	_	Gloss=XX
+15	nèː	neː	PART	_	PartType=Foc	2	discourse@foc	_	Gloss=Emph
 16	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	9	conj:appos	_	Gloss=government.Fem.Cons
 17	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	16	mod	_	Gloss=Nigeria
 18	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	0	root	_	Gloss=Gen.Fem
@@ -437,7 +437,7 @@
 10	dai	dai	PART	_	PartType=Top	7	discourse@top	_	Gloss=anyhow|SpaceAfter=No
 11	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 12	Ùːmar̃ù	Ùːmar̃ù	PROPN	_	_	14	subj	_	Gloss=Ùːmar̃ù
-13	Dikkò	Dikkò	PROPN	_	_	12	flat@name	_	Gloss=Dikkò
+13	Dikkò	Dikkò	PROPN	_	_	12	flat@name	_	Gloss=Dikko
 14	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 15	shaː	shaː	VERB	_	_	14	comp:aux	_	Gloss=XX
 16	naːnàːtà	naːnàː	VERB	_	Case=Gen|Number=Sing|Person=1	15	comp:obj	_	Gloss=XX
@@ -471,7 +471,7 @@
 # text = ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà, yanà mài cêːwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː.
 # text_ortho = Ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà, yanà mài cêwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː.
 1	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
-2	cèː	cêː	VERB	_	_	1	comp:aux	_	Gloss=say
+2	cèː	cêː	VERB	_	Gender=Fem	1	comp:aux	_	Gloss=be.Fem
 3	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	4	dislocated@subj	_	Gloss=3Masc.Nom
 4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	2	comp:obj	_	Gloss=3Masc.Perf
 5	càncànci	cancant-	VERB	_	_	4	comp:aux	_	Gloss=be_appropriate
@@ -523,7 +523,7 @@
 15	Bìr̃tàniyà	Bìr̃tàniyà	PROPN	_	_	14	conj:appos	_	Gloss=Bìr̃tàniyà|SpaceAfter=No
 16	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 17	Ùːmar̃ù	Ùːmar̃ù	PROPN	_	_	19	dislocated@subj	_	Gloss=Ùːmar̃ù
-18	Dikkò	Dikkò	PROPN	_	_	17	flat@name	_	Gloss=Dikkò
+18	Dikkò	Dikkò	PROPN	_	_	17	flat@name	_	Gloss=Dikko
 19	cêːwaː	cêː	VERB	_	Gender=Fem	0	root	_	Gloss=say.Vnoun.Fem|wordform=cêwaː
 20	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	19	comp:cleft	_	Gloss=3Masc.Perf.Rel
 21	yi	yi	VERB	_	_	20	comp:aux	_	Gloss=do|SpaceAfter=No
@@ -570,7 +570,7 @@
 12	bàː	bàː	PART	_	Polarity=Neg	14	mod	_	Gloss=XX
 13	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	14	det	_	Gloss=Prox.Sing
 14	dàliːlìː	dàliːlìː	NOUN	_	_	11	comp:obj	_	Gloss=XX
-15	neː	neː	PART	_	Gender=Masc|PartType=Foc	14	discourse@foc	_	Gloss=XX
+15	neː	neː	PART	_	PartType=Foc	14	discourse@foc	_	Gloss=Emph
 16	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	14	comp:cleft	_	Gloss=3Masc.Perf.Rel
 17	sâː	sâː	VERB	_	_	16	comp:aux	_	Gloss=put
 18	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Relative=Rel	17	comp:obj	_	Gloss=3Fem.Prog.Rel
@@ -604,12 +604,12 @@
 14	bàːra	bàar-	VERB	_	_	13	comp:obj	_	Gloss=XX
 15	cêːwaː	cêwaː	SCONJ	_	_	12	comp:obj	_	Gloss=COMP|wordform=cêwaː
 16	zuːƙì-ta-Màlle	zuːƙì-ta-màlle	NOUN	_	Gender=Masc	17	comp:pred	_	Gloss=XX
-17	cèː	neː	AUX	_	Gender=Fem	15	comp:obj	_	Gloss=XX
+17	cèː	neː	AUX	_	Gender=Fem	15	comp:obj	_	Gloss=be.Fem
 18	kawài	kawài	ADV	_	_	17	mod	_	Gloss=merely
 19	dàliːlìn	dàliːlìː	NOUN	_	Definite=Def	17	dislocated@subj	_	Gloss=XX
 20	dà	dà	SCONJ	_	_	19	mod@relcl	_	Gloss=COMP
 21	Ùːmar̃ù	Ùːmar̃ù	PROPN	_	_	23	subj	_	Gloss=Ùːmar̃ù
-22	Dikkò	Dikkò	PROPN	_	_	21	flat@name	_	Gloss=Dikkò
+22	Dikkò	Dikkò	PROPN	_	_	21	flat@name	_	Gloss=Dikko
 23	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	20	comp:obj	_	Gloss=Prog.Rel
 24	baːyâr̃waː	baːyâ-	VERB	_	Number=Plur	23	comp:aux	_	Gloss=XX
 25	cêːwaː	cêːwaː	SCONJ	_	_	24	comp:obj	_	Gloss=COMP|wordform=cêwaː
@@ -643,7 +643,7 @@
 15	gayàː	gay-	VERB	_	_	14	comp:aux	_	Gloss=XX
 16	wà	wà	ADP	_	Case=Dat	15	comp:obl	_	Gloss=XX
 17	Ùːmar̃ù	Ùːmar̃ù	PROPN	_	_	16	comp:obj	_	Gloss=Ùːmar̃ù
-18	Dikkò	Dikkò	PROPN	_	_	17	flat@name	_	Gloss=Dikkò
+18	Dikkò	Dikkò	PROPN	_	_	17	flat@name	_	Gloss=Dikko
 19	cêːwaː	cêːwaː	SCONJ	_	_	15	comp:obj	_	Gloss=COMP|SpaceAfter=No|wordform=cêwaː
 20	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 21	"	"	PUNCT	_	_	22	punct	_	Gloss=PUNCT
@@ -654,7 +654,7 @@
 26	tseːroː	tseːr-	VERB	_	_	25	comp:aux	_	Gloss=XX
 27	dàgà	dàgà	ADP	_	_	26	comp:obl	_	Gloss=from
 28	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	27	comp:obj	_	Gloss=Nigeria
-29	neː	neː	PART	_	Gender=Masc|Number=Plur	26	discourse@foc	_	Gloss=XX
+29	neː	neː	PART	_	PartType=Foc	26	discourse@foc	_	Gloss=Emph
 30	bà	bà	PART	_	Polarity=Neg	32	mod	_	Gloss=XX
 31	wai	wai	PART	_	_	32	discourse	_	Gloss=XX
 32	don	don	SCONJ	_	_	26	mod	_	Gloss=because

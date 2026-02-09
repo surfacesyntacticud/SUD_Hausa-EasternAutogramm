@@ -69,7 +69,7 @@
 4	yi	yi	VERB	_	_	3	comp:aux	_	Gloss=do
 5	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	6	det	_	Gloss=Prox.Sing
 6	kiràn	kir-	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:pred	_	Gloss=call.Vnoun.Masc.Def
-7	neː	neː	PART	_	_	6	discourse@foc	_	Gloss=XX
+7	neː	neː	PART	_	PartType=Foc	6	discourse@foc	_	Gloss=Emph
 8	baːyan	baːyan	ADP	_	_	4	mod	_	Gloss=after
 9	zàngà-zangà	zàngà-zangà	NOUN	_	Definite=Def|Gender=Fem|Number=Plur	8	comp:obj	_	Gloss=demonstration.Fem
 10	gùdaː	gùdaː	NOUN	_	_	9	mod:num	_	Gloss=unit.Masc
@@ -195,7 +195,7 @@
 19	mùsùlmin	mùsùlmin	NOUN	_	Definite=Cons	18	mod	_	Gloss=muslims.Plur.Cons
 20	areːwacin	areːwacin	ADP	_	_	19	mod	_	Gloss=north_of
 21	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	20	comp:obj	_	Gloss=Nigeria|wordform=Nijeːiyar
-22	neː	neː	PART	_	Gender=Masc	13	discourse@foc	_	Gloss=XX|SpaceAfter=No
+22	neː	neː	PART	_	PartType=Foc	13	discourse@foc	_	Gloss=Emph|SpaceAfter=No
 23	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 24	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 25	yi	yi	VERB	_	_	24	comp:aux	_	Gloss=XX
@@ -243,7 +243,7 @@
 18	wasu	wasu	DET	_	Definite=Spec|Number=Plur	19	det	_	Gloss=some.Plur
 19	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	17	mod	_	Gloss=child.Plur.Cons
 20	tsìràːruː	tsìràːruː	NOUN	_	_	19	compound	_	Gloss=minority.Plur
-21	nèː	neː	PART	_	Gender=Masc|Number=Plur	10	comp:obj	_	Gloss=XX|SpaceAfter=No
+21	nèː	neː	AUX	_	PartType=Foc	10	comp:obj	_	Gloss=be|SpaceAfter=No
 22	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 23	kuma	kuma	CCONJ	_	_	26	cc	_	Gloss=also
 24	shùːgàbànnin	shùːgàbaː	NOUN	_	Definite=Cons	26	subj	_	Gloss=leader.Plur.Cons
@@ -252,7 +252,7 @@
 27	hàƙuriː	hàƙuriː	NOUN	_	Gender=Masc	26	comp:aux	_	Gloss=patience.Masc
 28	dà	dà	ADP	_	_	27	comp:obl	_	Gloss=with
 29	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	28	comp:obj	_	Gloss=3Plur.Nom
-30	nèː	neː	PART	_	_	27	discourse@foc	_	Gloss=XX
+30	nèː	neː	PART	_	PartType=Foc	27	discourse@foc	_	Gloss=Emph
 31	kawài	kawài	ADV	_	_	27	mod	_	Gloss=merely
 32	sabòːdà	sabòːdà	ADP	_	_	27	mod	_	Gloss=because_of
 33	'yancìn	'yancìː	NOUN	_	Definite=Def|Gender=Masc	32	comp:obj	_	Gloss=freedom.Masc.Def
@@ -349,7 +349,7 @@
 11	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=XX
 12	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	11	comp:obj	_	Gloss=4.Perf.Rel
 13	yi	yi	VERB	_	_	12	comp:aux	_	Gloss=XX
-14	nèː	neː	PART	_	Gender=Masc|Number=Plur	13	discourse@foc	_	Gloss=XX
+14	nèː	neː	PART	_	PartType=Foc	13	discourse@foc	_	Gloss=Emph
 15	har̃	har̃	ADP	_	_	13	mod	_	Gloss=up_to
 16	sàu	sàu	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=time.Masc
 17	biyu	biyu	NUM	_	_	16	det	_	Gloss=two
@@ -364,7 +364,7 @@
 2	yi	yi	VERB	_	_	1	comp:aux	_	Gloss=XX
 3	zàngà-zangàr̃	zàngà-zangà	NOUN	_	Definite=Cons|Gender=Fem	2	comp:pred	_	Gloss=demonstration.Fem.Cons
 4	farkoː	farkoː	NOUN	_	Gender=Masc	3	mod	_	Gloss=beginning.Masc
-5	nèː	nèː	PART	_	_	2	discourse@foc	_	Gloss=XX
+5	nèː	neː	PART	_	PartType=Foc	2	discourse@foc	_	Gloss=Emph
 6	à	à	ADP	_	_	2	mod	_	Gloss=at
 7	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	8	mod@desc	_	Gloss=city.Masc.Cons
 8	Kàtsinà	Kàtsinà	PROPN	_	_	6	comp:obj	_	Gloss=Kàtsinà
@@ -455,7 +455,7 @@
 1	Tun	tun	ADP	_	_	9	mod	_	Gloss=since
 2	dà	dà	ADP	_	_	1	comp:obj	_	Gloss=with
 3	duku-duku	duku-dukkà	ADV	_	_	2	comp:obj	_	Gloss=early_morning
-4	nèː	neː	AUX	_	Gender=Masc|Number=Plur	3	discourse@foc	_	Gloss=XX
+4	nèː	neː	PART	_	PartType=Foc	3	discourse@foc	_	Gloss=Emph
 5	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	9	subj	_	Gloss=child.Plur.Cons
 6	sàndan	sàndaː	NOUN	_	_	5	compound	_	Gloss=baton.Masc.Cons
 7	kashè	kas-	VERB	_	Gender=Masc	5	compound	_	Gloss=kill
@@ -518,7 +518,7 @@
 # text = Ganin hakà neː kuma ya sâː suː 'yan sàndân sukà mai dà mar̃tàniː dà bàr̃kòːnon tsoːhuwaː,
 1	Ganin	ganiː	VERB	_	_	0	root	_	Gloss=see.Vnoun.Masc.Cons
 2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=XX
-3	neː	neː	PART	_	Gender=Masc	1	discourse@foc	_	Gloss=XX
+3	neː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
 4	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	1	comp:cleft	_	Gloss=3Masc.Perf.Rel
 6	sâː	sâː	VERB	_	_	5	comp:aux	_	Gloss=XX
