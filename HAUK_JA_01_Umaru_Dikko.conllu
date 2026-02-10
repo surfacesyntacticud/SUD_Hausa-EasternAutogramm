@@ -156,7 +156,7 @@
 6	shîn	shi	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Person=3|PronType=Prs	5	comp:obj	_	Gloss=3Sing.Acc.Def
 7	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
 8	cafkèː	cafk-	VERB	_	_	7	comp:aux	_	Gloss=seize
-9	shi	shi	PRON	_	Gender=Masc|Person=3	8	comp:obj	_	Gloss=XX
+9	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	8	comp:obj	_	Gloss=3Masc.Acc
 10	à	à	ADP	_	_	8	comp:obl	_	Gloss=at
 11	kân	kân	ADP	_	_	10	comp:obj	_	Gloss=top
 12	tiːtìn	tiːtìː	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	Gloss=street.Masc.Cons
@@ -165,12 +165,12 @@
 15	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	7	parataxis@conj	_	Gloss=3Plur.Perf.Rel
 16	sâː	sâː	VERB	_	_	15	comp:aux	_	Gloss=put
 17	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	16	comp:obl	_	Gloss=3Masc.Dat
-18	ankwàː	ankwàː	NOUN	_	Gender=Fem	16	comp:obj	_	Gloss=XX|SpaceAfter=No
+18	ankwàː	ankwàː	NOUN	_	Gender=Fem	16	comp:obj	_	Gloss=handcuffs.Fem|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 20	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	15	parataxis@conj	_	Gloss=3Plur.Perf.Rel
-21	ɗuːràː	ɗuːràː	VERB	_	ExtPos=NOUN|Gender=Fem	20	comp:aux	_	Gloss=XX
+21	ɗuːràː	ɗuːr-	VERB	_	_	20	comp:aux	_	Gloss=pour
 22	masà	masà	ADP	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	21	comp:obl	_	Gloss=XX
-23	ƙwàːyaː	ƙwàːyaː	NOUN	_	Gender=Fem	21	comp:obj	_	Gloss=XX|SpaceAfter=No
+23	ƙwàːyaː	ƙwàːyaː	NOUN	_	Gender=Fem	21	comp:obj	_	Gloss=drugs.Fem|SpaceAfter=No
 24	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 25	sànnan	sànnan	ADV	_	_	26	mod	_	Gloss=then
 26	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	20	parataxis@conj	_	Gloss=3Plur.Perf.Rel

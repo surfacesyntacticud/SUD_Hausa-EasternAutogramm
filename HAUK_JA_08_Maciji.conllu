@@ -105,7 +105,7 @@
 13	ci	ci	VERB	_	_	12	comp:aux	_	Gloss=XX
 14	nasar̃àr̃	nasar̃àː	NOUN	_	Gender=Fem	13	comp:obj	_	Gloss=success.Fem.Cons
 15	dafàː	dafàː	ADP	_	_	14	mod	_	Gloss=XX
-16	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	15	comp:obj	_	Gloss=XX
+16	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	15	comp:obj	_	Gloss=3Masc.Acc
 17	luɓus	luɓus	ADV	_	Definite=Cons	15	mod	_	Gloss=XX
 18	dòːmin	dòːmin	SCONJ	_	_	15	mod	_	Gloss=in_order_to
 19	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc	18	comp:obj	_	Gloss=consume.Vnoun.Masc|SpaceAfter=No
@@ -122,7 +122,7 @@
 7	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	comp:pred	_	Gloss=3Masc.Nom
 8	nèː	neː	AUX	_	PartType=Foc	0	root	_	Gloss=be
 9	baːyân	baːyân	SCONJ	_	Definite=Def|ExtPos=SCONJ	8	comp	_	Gloss=after.Def|Idiom=Yes
-10	dà	dà	SCONJ	_	_	9	comp:obj	_	Gloss=that|InIdiom=Yes
+10	dà	dà	SCONJ	_	_	9	comp:obj	_	Gloss=COMP|InIdiom=Yes
 11	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	10	comp:obj	_	Gloss=3Plur.Perf.Rel
 12	cînyẽ	cîni	VERB	_	_	11	comp:aux	_	Gloss=XX
 13	macìːjîn	macìːjiː	NOUN	_	Definite=Def|Number=Plur	12	comp:obj	_	Gloss=snake.Plur.Def
@@ -221,7 +221,7 @@
 17	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	18	subj	_	Gloss=people.Plur.Def
 18	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	15	comp:obj	_	Gloss=3Plur.Perf.Rel
 19	cînyeː	cînyeː	VERB	_	_	18	comp:aux	_	Gloss=XX
-20	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	15	conj:coord	_	Gloss=that.Masc
+20	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	15	conj:coord	_	Gloss=REL.Sing
 21	kuma	kuma	PART	_	_	20	discourse@top	_	Gloss=also
 22	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	20	comp:obj	_	Gloss=3Masc.Perf.Rel
 23	kusa	kusa	VERB	_	_	22	comp:obl	_	Gloss=XX
@@ -321,7 +321,7 @@
 14	irìː	irìː	NOUN	_	Gender=Masc	11	mod	_	Gloss=XX
 15	dàbam	dàbak	ADJ	_	_	14	mod	_	Gloss=XX
 16	dàbam	dàbam	ADJ	_	_	15	conj:redup	_	Gloss=XX
-17	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	11	mod@relcl	_	Gloss=that.Plur
+17	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	11	mod@relcl	_	Gloss=REL.Plur
 18	manòːmaː	manòːmaː	NOUN	_	Gender=Fem	19	subj	_	Gloss=XX
 19	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	17	comp:obj	_	Gloss=Prog.Rel
 20	àmfàniː	àmfàniː	NOUN	_	Gender=Masc	19	comp:aux	_	Gloss=XX
