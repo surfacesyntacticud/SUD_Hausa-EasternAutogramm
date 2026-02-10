@@ -84,7 +84,7 @@
 10	àlluːràː	àlluːràː	NOUN	_	Gender=Fem	5	comp:pred	_	Gloss=XX
 11	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=with
 12	àlluːràː	àlluːràː	NOUN	_	Gender=Fem	11	comp:obj	_	Gloss=XX
-13	gùdaː	gùdaː	NOUN	_	_	12	mod:num	_	Gloss=unit/one.Masc|SpaceAfter=No
+13	gùdaː	gùdaː	NOUN	_	Gender=Masc	12	mod:num	_	Gloss=unit/one.Masc|SpaceAfter=No
 14	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 15	tòː	tòː	INTJ	_	_	34	discourse	_	Gloss=XX
 16	ìdan	ìdan	SCONJ	_	_	34	mod	_	Gloss=if
@@ -103,7 +103,7 @@
 29	AIDS	AIDS	PROPN	_	_	28	mod	_	Gloss=XX
 30	à	à	ADP	_	_	25	mod	_	Gloss=at
 31	jìkin	jìkiː	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	30	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=jìkinsà
-32	sà	sà	PRON	_	_	31	mod@poss	_	Gloss=3Masc.Gen
+32	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	31	mod	_	Gloss=3Masc.Gen
 33	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 34	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	0	root	_	Gloss=3Masc.Fut
 35	bazà	bazà	VERB	_	_	34	comp:aux	_	Gloss=XX
@@ -184,7 +184,7 @@
 16	cùːtâr̃	cùːtâː	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=XX
 17	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	15	comp:obl	_	Gloss=Gen.Fem
 18	màniyyìn	màniyyìːsù	NOUN	_	Definite=Cons|Gender=Masc|Person=3	17	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=màniyyìnsà
-19	sà	sà	PRON	_	_	18	mod@poss	_	Gloss=3Masc.Gen
+19	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	18	mod	_	Gloss=3Masc.Gen
 20	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
 # sent_id = 04_AIDS__7
@@ -203,32 +203,32 @@
 11	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=XX|SpaceAfter=No
 12	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 13	kuma	kuma	CCONJ	_	_	24	cc	_	Gloss=also
-14	mài	mài	PART	_	Gender=Masc|PartType=Der	24	dislocated@top	_	Gloss=owner/doer_of.Sing
+14	mài	mài	PART	_	Gender=Masc|Number=Sing|PartType=Der	24	dislocated@top	_	Gloss=owner/doer_of.Sing
 15	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Stat	14	compound	_	Gloss=take.Stat
 16	dà	dà	ADP	_	_	15	comp:obl	_	Gloss=with
 17	ƙwaːyoːyin	ƙwaːyoːyiː	NOUN	_	Definite=Cons|Number=Plur	16	comp:obj	_	Gloss=XX
 18	cùːtâr̃	cùːtâː	NOUN	_	Gender=Fem	17	compound	_	Gloss=XX
 19	à	à	ADP	_	_	15	mod	_	Gloss=at
 20	jinin	jiniːtà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	19	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=jininsà
-21	sà	sà	PRON	_	_	20	mod@poss	_	Gloss=3Masc.Gen
+21	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	20	mod	_	Gloss=3Masc.Gen
 22	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 23	bàː	bàː	PART	_	Polarity=Neg	24	mod	_	Gloss=XX
 24	zaːà	zâi	AUX	_	Mood=Sub|Person=4	8	conj:coord	_	Gloss=XX|wordform=à
 25	ga	ganiː	VERB	_	_	24	comp:aux	_	Gloss=see
 26	wata	wani	DET	_	Definite=Spec|Gender=Masc	27	det	_	Gloss=some.Fem.Spec
 27	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	25	comp:obj	_	Gloss=XX
-28	ta	ta	PRON	_	Gender=Fem|Person=3	27	mod	_	Gloss=XX
+28	ta	tà	PART	_	Gender=Fem	27	mod	_	Gloss=of.Fem
 29	cùːtâr̃	cùːtâː	NOUN	_	Gender=Fem	28	comp:obj	_	Gloss=XX
 30	à	à	ADP	_	_	25	comp:obl	_	Gloss=at
 31	jìkin	jìkiːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	30	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=jìkinsà
-32	sà	sà	PRON	_	_	31	mod@poss	_	Gloss=3Masc.Gen
+32	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	31	mod	_	Gloss=3Masc.Gen
 33	ba	ba	PART	_	Polarity=Neg	25	mod	_	Gloss=XX|SpaceAfter=No
 34	,	,	PUNCT	_	_	35	punct	_	Gloss=PUNCT
 35	sai	sai	SCONJ	_	_	25	mod	_	Gloss=except_that
 36	dai	dai	PART	_	PartType=Top	35	discourse@top	_	Gloss=anyhow
 37	à	à	ADP	_	_	42	mod	_	Gloss=at
 38	jinin	jiniːtà	VERB	_	_	37	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=jininsà
-39	sà	sà	PRON	_	_	38	mod@poss	_	Gloss=3Masc.Gen
+39	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	38	mod	_	Gloss=3Masc.Gen
 40	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
 41	kuma	kuma	PART	_	_	42	discourse	_	Gloss=also
 42	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	35	comp:obj	_	Gloss=3Masc.Prog
@@ -237,10 +237,10 @@
 45	cùːtâr̃	cùːtâː	NOUN	_	Gender=Fem	44	comp:obj	_	Gloss=XX
 46	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	44	comp:obl	_	Gloss=Gen.Fem
 47	jinin	jiniːtà	NOUN	_	Gender=Masc|PronType=Dem	46	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=jininsà
-48	sà	sà	PRON	_	_	47	mod@poss	_	Gloss=3Masc.Gen
+48	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	47	mod	_	Gloss=3Masc.Gen
 49	dà	dà	CCONJ	_	_	50	cc	_	Gloss=and
 50	màniyyìn	màniyyìːsù	NOUN	_	Definite=Cons|Gender=Fem|Person=3	47	conj:coord	_	Gloss=XX|SpaceAfter=No|wordform=màniyyìnsà
-51	sà	sà	PRON	_	_	50	mod@poss	_	Gloss=3Masc.Gen
+51	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	50	mod	_	Gloss=3Masc.Gen
 52	har̃	har̃	ADP	_	_	44	mod	_	Gloss=XX
 53	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	52	comp:obj	_	Gloss=year.Fem
 54	takwàs	takwàs	NUM	_	_	53	mod:num	_	Gloss=eight
@@ -253,12 +253,12 @@
 61	faːrà	faːràː	VERB	_	_	60	comp:aux	_	Gloss=begin
 62	laːlàːtà	laːlàːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	61	comp:obj	_	Gloss=XX
 63	jìkin	jìkiːsù	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur|Person=3	62	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=jìkinsà
-64	sà	sà	PRON	_	_	63	mod@poss	_	Gloss=3Masc.Gen
+64	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	63	mod	_	Gloss=3Masc.Gen
 65	,	,	PUNCT	_	_	66	punct	_	Gloss=PUNCT
 66	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	62	mod	_	Gloss=3Fem.Sub
 67	zama	zama	VERB	_	_	66	comp:aux	_	Gloss=become
 68	ajàlin	ajàliː	NOUN	_	Gender=Fem	67	comp:pred	_	Gloss=XX|SpaceAfter=No|wordform=ajàlinsà
-69	sà	sà	PRON	_	_	68	mod@poss	_	Gloss=3Masc.Gen
+69	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	68	mod	_	Gloss=3Masc.Gen
 70	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = 04_AIDS__8
@@ -333,7 +333,7 @@
 19	cùːtâr̃	cùːtâː	NOUN	_	Gender=Fem	18	compound	_	Gloss=XX
 20	à	à	ADP	_	_	16	mod	_	Gloss=at
 21	jìkin	jìkiː	NOUN	_	Definite=Cons|Gender=Masc	20	comp:obj	_	Gloss=body.Masc.Cons|SpaceAfter=No|wordform=jìkinsù
-22	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	21	mod@poss	_	Gloss=3Plur.Gen
+22	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	21	mod	_	Gloss=3Plur.Gen
 23	kàmar̃	kàmar̃	ADP	_	_	5	mod	_	Gloss=like
 24	yaddà	yaddà	ADV	_	PronType=Rel	23	comp:obj	_	Gloss=how
 25	akà	akà	AUX	_	Aspect=Prog|Person=4	24	mod@relcl	_	Gloss=XX
@@ -430,11 +430,11 @@
 14	dà	dà	ADP	_	_	13	comp:obl	_	Gloss=with
 15	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem	14	comp:obj	_	Gloss=say.Vnoun.Fem
 16	kwàmìtîn	kwàmìtînsà	NOUN	_	Gender=Fem	18	subj	_	Gloss=XX|SpaceAfter=No|wordform=kwàmìtînsà
-17	sà	sà	PRON	_	_	16	mod@poss	_	Gloss=3Masc.Gen
+17	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	16	mod	_	Gloss=3Masc.Gen
 18	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	15	comp:obj	_	Gloss=3Masc.Prog
 19	naːnàːtaː	naːnàːtaː	VERB	_	ExtPos=NOUN|Gender=Fem	18	comp:aux	_	Gloss=insist
 20	wà	wà	ADP	_	_	19	comp:obl	_	Gloss=XX
-21	asibitoːciː	asìbitì	NOUN	_	_	20	comp:obj	_	Gloss=hospital.Plur
+21	asibitoːciː	asìbitì	NOUN	_	Number=Plur	20	comp:obj	_	Gloss=hospital.Plur
 22	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	19	comp:obj	_	Gloss=3Plur.Sub
 23	tabbatar̃	tabbatar̃	VERB	_	_	22	comp:aux	_	Gloss=XX
 24	dà	dà	ADP	_	_	23	comp:obl	_	Gloss=with
@@ -503,7 +503,7 @@
 17	kaːrè	kaːr-	VERB	_	_	16	comp:aux	_	Gloss=XX
 18	kânsù	kâːsù	PRON	_	Case=Gen|Number=Plur|Person=3	17	comp:obj	_	Gloss=XX
 19	dàgà	dàgà	ADP	_	_	17	comp:obl	_	Gloss=from
-20	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	21	det	_	Gloss=Prox.Sing
+20	wannàn	wannàn	DET	_	Deixis=Prox|Number=Sing|PronType=Dem	21	det	_	Gloss=Prox.Sing
 21	cùːtaː	cùːtaː	NOUN	_	Gender=Fem	19	comp:obj	_	Gloss=XX
 22	mài	mài	PART	_	Number=Sing|PartType=Der	21	mod	_	Gloss=owner/doer_of.Sing
 23	ban	baː	VERB	_	Definite=Cons|Gender=Masc	22	compound	_	Gloss=give
@@ -536,7 +536,7 @@
 21	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	20	mod	_	Gloss=XX
 22	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	18	comp:obj	_	Gloss=3Masc.Perf
 23	fi	fi	VERB	_	_	22	comp:aux	_	Gloss=XX
-24	miliyàn	miliyàn	NOUN	_	_	23	comp:obj	_	Gloss=million.Fem
+24	miliyàn	miliyàn	NOUN	_	Gender=Fem	23	comp:obj	_	Gloss=million.Fem
 25	ɗàriː	ɗàriː	NUM	_	_	24	mod:num	_	Gloss=hundred|SpaceAfter=No
 26	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
 27	tòː	tòː	INTJ	_	_	28	discourse	_	Gloss=XX
@@ -546,7 +546,7 @@
 31	sàːmi	saːm-	VERB	_	_	30	comp:aux	_	Gloss=get
 32	mutàːneː	mùtûm	NOUN	_	Number=Plur	31	comp:obj	_	Gloss=people.Plur
 33	dà	dà	ADP	_	ExtPos=ADJ	32	mod	_	Gloss=with|Idiom=Yes
-34	daːmaː	daːmaː	NOUN	_	_	33	comp:obj	_	Gloss=opportunity.Fem|InIdiom=Yes
+34	daːmaː	daːmaː	NOUN	_	Gender=Fem	33	comp:obj	_	Gloss=opportunity.Fem|InIdiom=Yes
 35	màːsu	mài	PART	_	Number=Plur|PartType=Der	32	mod	_	Gloss=owner/doer_of.Plur
 36	cùːtâr̃	cùːtâː	NOUN	_	Definite=Def|Gender=Fem	35	compound	_	Gloss=disease.Fem.Def
 37	koː	koː	CCONJ	_	_	39	cc	_	Gloss=XX
