@@ -621,7 +621,7 @@
 # sent_id = 14_Miyagun_kwayoyi__18b
 # text = yanàː mài cêːwaː mânyan màːsu fataucìn miyàːgun ƙwaːyoːyiː nèː kawài sukà ɓaːtà suːnansà .
 1	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Prog
-2	mài	mài	PART	_	Gender=Masc|Number=Sing|PartType=Der	1	comp:pred	_	Gloss=owner/doer_of.Sing
+2	mài	mài	PART	_	Number=Sing|PartType=Der	1	comp:pred	_	Gloss=owner/doer_of.Sing
 3	cêːwaː	cê	VERB	_	ExtPos=NOUN|Gender=Fem	2	comp:obj	_	Gloss=say.Vnoun.Fem|wordform=cêwaː
 4	mânyan	bàbba	ADJ	_	Definite=Cons|Number=Plur	5	mod	_	Gloss=big.Plur.Cons
 5	màːsu	mài	PART	_	Number=Plur|PartType=Der	3	comp:obj	_	Gloss=owner/doer_of.Plur
@@ -774,7 +774,7 @@
 14	yi	yi	VERB	_	_	13	comp:aux	_	Gloss=do
 15	tir̃	tir̃	IDEO	_	_	14	comp:pred	_	Gloss=reject
 16	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=with
-17	shàːgùɓeː	shàːgùɓeː	NOUN	_	Gender=Masc|Number=Plur	16	comp:obj	_	Gloss=innuendo.Plur
+17	shàːgùɓeː	shàːgùɓeː	NOUN	_	Gender=Masc	16	comp:obj	_	Gloss=innuendo.Masc
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
 19	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	18	comp:obj	_	Gloss=3Plur.Perf.Rel
 20	shàːfi	shaːf-	VERB	_	_	19	comp:aux	_	Gloss=concern

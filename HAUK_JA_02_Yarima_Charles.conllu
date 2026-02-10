@@ -1,7 +1,7 @@
 # sent_id = 02_Yarima_Charles__1
 # text = Yàr̃iːmà Charles yaː kai zìyaːr̃àː zuwàː Afìr̃kà ta Yâmma
 # text_ortho = Yàr̃iːmà Charles yaː kai zìyaːr̃àː zuwàː Afìr̃kà ta Yâmma
-1	Yàr̃iːmà	yàr̃iːmà	NOUN	_	_	2	mod@desc	_	Gloss=prince.Masc
+1	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	2	mod@desc	_	Gloss=prince.Masc
 2	Charles	Charles	PROPN	_	_	3	subj	_	Gloss=Charles
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 4	kai	kai	VERB	_	_	3	comp:aux	_	Gloss=reach/carry_to
@@ -25,7 +25,7 @@
 9	ruwân	ruwaː	NOUN	_	Definite=Cons|Gender=Masc	8	compound	_	Gloss=water.Masc.Cons
 10	nan	nan	DET	_	PronType=Dem	8	det	_	Gloss=XX
 11	mài	mài	PART	_	Number=Sing|PartType=Der	8	mod	_	Gloss=owner/doer_of.Sing
-12	suːnaː	suːnaː	NOUN	_	_	11	compound	_	Gloss=name.Masc
+12	suːnaː	suːnaː	NOUN	_	Gender=Masc	11	compound	_	Gloss=name.Masc
 13	«	«	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 14	Britannia	Britannia	PROPN	_	_	12	mod	_	Gloss=Britannia
 15	»	»	PUNCT	_	_	14	punct	_	Gloss=PUNCT
@@ -91,7 +91,7 @@
 32	daːkatar̃	daːkat-	VERB	_	Definite=Cons|Gender=Fem	31	comp:aux	_	Gloss=XX
 33	dà	dà	ADP	_	_	32	comp:obl	_	Gloss=with
 34	tàllàce-tàllàcen	tàllà	NOUN	_	Number=Plur	33	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=tàllàce-tàllàcensù
-35	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	34	mod@poss	_	Gloss=3Plur.Gen
+35	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	34	mod	_	Gloss=3Plur.Gen
 36	dòːmin	dòːmin	SCONJ	_	_	32	mod	_	Gloss=XX
 37	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	36	comp:obj	_	Gloss=3Plur.Sub
 38	yi	yi	VERB	_	_	37	comp:aux	_	Gloss=do
@@ -146,7 +146,7 @@
 3	gab	gab	ADP	_	ExtPos=ADP	2	comp:pred	_	Gloss=XX|Idiom=Yes
 4	dà	dà	ADP	_	_	3	comp:obj	_	Gloss=with|InIdiom=Yes
 5	bàːkin	bàːkin	ADP	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=XX
-6	tèːku	tèːku	NOUN	_	Gender=Masc|Number=Plur	5	mod	_	Gloss=XX
+6	tèːku	tèːku	NOUN	_	Gender=Fem	5	mod	_	Gloss=sea.Fem
 7	kuma	kuma	CCONJ	_	_	10	cc	_	Gloss=also
 8	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	10	mod	_	Gloss=XX
 9	yànzu	yànzu	ADV	_	_	8	comp:obj	_	Gloss=now
@@ -163,7 +163,7 @@
 20	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=COMP
 21	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	20	comp:obj	_	Gloss=4.Perf.Rel
 22	yi	yi	VERB	_	_	21	comp:aux	_	Gloss=do
-23	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	22	comp:obl	_	Gloss=XX
+23	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	22	comp:obl	_	Gloss=3Masc.Dat
 24	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	22	mod	_	Gloss=time.Masc.Def
 25	dà	dà	SCONJ	_	_	24	comp:obl	_	Gloss=COMP
 26	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	27	subj	_	Gloss=Nigeria
@@ -227,7 +227,7 @@
 23	akà	akà	AUX	_	Aspect=Perf|Person=4	20	comp:cleft	_	Gloss=XX
 24	riƙà	riƙ-	VERB	_	_	23	comp:aux	_	Gloss=keep_doing
 25	ɗeːboː	ɗeːb-	VERB	_	_	24	comp:obj	_	Gloss=XX
-26	matà	matà	PRON	_	Case=Dat|Gender=Fem|Person=3|PronType=Prs	25	comp:obl	_	Gloss=XX
+26	matà	matà	PRON	_	Case=Dat|Gender=Fem|Person=3|PronType=Prs	25	comp:obl	_	Gloss=3Fem.Dat
 27	ruwan	ruwaː	NOUN	_	Definite=Cons|Number=Plur	25	comp:obj	_	Gloss=XX
 28	zaːfiː	zaːfiː	NOUN	_	Gender=Masc	27	mod	_	Gloss=XX|SpaceAfter=No
 29	.	.	PUNCT	_	_	20	punct	_	Gloss=PUNCT
@@ -246,10 +246,10 @@
 9	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	10	comp:pred	_	Gloss=3Masc.Nom
 10	nèː	neː	AUX	_	PartType=Foc	0	root	_	Gloss=be
 11	don	don	SCONJ	_	_	10	dislocated@comp	_	Gloss=so_that
-12	Yàr̃iːmà	yàr̃iːmà	NOUN	_	_	13	mod@desc	_	Gloss=prince.Masc
+12	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	13	mod@desc	_	Gloss=prince.Masc
 13	Charles	Charles	PROPN	_	_	16	subj	_	Gloss=Charles
 14	dà	dà	CCONJ	_	_	15	cc	_	Gloss=and
-15	Gimbìyaː	gimbìyaː	NOUN	_	_	13	conj:coord	_	Gloss=princess.Fem
+15	Gimbìyaː	gimbìyaː	NOUN	_	Gender=Fem	13	conj:coord	_	Gloss=princess.Fem
 16	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	11	comp:obj	_	Gloss=3Plur.Sub
 17	sàːmu	saːm-	VERB	_	_	16	comp:aux	_	Gloss=get
 18	wani	wani	DET	_	Definite=Spec|Gender=Masc	19	det	_	Gloss=some.Masc.Spec
@@ -271,7 +271,7 @@
 34	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	33	compound	_	Gloss=Nigeria
 35	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	32	comp:obj	_	Gloss=3Plur.Perf.Rel
 36	yi	yi	VERB	_	_	35	comp:aux	_	Gloss=do
-37	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	36	comp:obl	_	Gloss=XX|SpaceAfter=No
+37	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	36	comp:obl	_	Gloss=3Plur.Dat|SpaceAfter=No
 38	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__9
@@ -284,7 +284,7 @@
 5	Ànambar̃à	Ànambar̃à	PROPN	_	_	3	mod	_	Gloss=Ànambar̃à
 6	dà	da	CCONJ	_	_	7	cc	_	Gloss=and|wordform=da
 7	uwar̃gidan	uwar̃gidaː	NOUN	_	Gender=Fem	3	conj:coord	_	Gloss=XX|SpaceAfter=No|wordform=uwar̃gidansà
-8	sà	sà	PRON	_	_	7	mod@poss	_	Gloss=3Masc.Gen
+8	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	7	mod	_	Gloss=3Masc.Gen
 9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
 10	tàrbi	tarb-	VERB	_	_	9	comp:aux	_	Gloss=XX
 11	Yàr̃iːmà	Yàr̃iːmà	PROPN	_	_	10	comp:obj	_	Gloss=Yàr̃iːmà
@@ -387,7 +387,7 @@
 4	Yàr̃iːmà	Yàr̃iːmà	PROPN	_	_	9	subj	_	Gloss=Yàr̃iːmà
 5	dà	dà	CCONJ	_	_	6	cc	_	Gloss=and
 6	uwar̃gidan	uwar̃gidaː	NOUN	_	Definite=Cons|Number=Plur	4	conj:coord	_	Gloss=XX|SpaceAfter=No|wordform=uwar̃gidansà
-7	sà	sà	PRON	_	_	6	mod@poss	_	Gloss=3Masc.Gen
+7	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	6	mod	_	Gloss=3Masc.Gen
 8	Gimbìyaː	Gimbìyaː	PROPN	_	_	6	conj:appos	_	Gloss=Gimbìyaː
 9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
 10	taːshì	taːs-	VERB	_	_	9	comp:aux	_	Gloss=set_off
@@ -463,7 +463,7 @@
 3	dà	dà	CCONJ	_	_	4	cc	_	Gloss=and
 4	bìyar̃	bìyar̃	NUM	_	_	2	conj:coord	_	Gloss=five
 5	cikin	cikin	ADP	_	_	1	mod	_	Gloss=inside
-6	ɗàriː	ɗàriː	NUM	_	Gender=Fem|Number=Plur	5	comp:obj	_	Gloss=hundred
+6	ɗàriː	ɗàriː	NUM	_	Gender=Fem	5	comp:obj	_	Gloss=hundred
 7	na	na	PART	_	Case=Gen|Definite=Cons|PartType=Pred	1	mod	_	Gloss=Gen
 8	duk	duk	DET	_	_	9	det	_	Gloss=XX
 9	yawàn	yawàn	ADJ	_	_	7	mod	_	Gloss=quantity.Masc.Cons
@@ -477,7 +477,7 @@
 17	Afìr̃kà	Afìr̃kà	PROPN	_	_	16	comp:obj	_	Gloss=Africa
 18	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	0	root	_	Gloss=4.Fut
 19	iskèː	isk-	VERB	_	_	18	comp:aux	_	Gloss=XX
-20	su	su	PRON	_	Number=Plur|Person=3|PronType=Prs	19	comp:obj	_	Gloss=XX
+20	su	su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	19	comp:obj	_	Gloss=3Plur.Acc
 21	à	à	ADP	_	Mood=Sub|Person=4	19	comp:obl	_	Gloss=XX
 22	gandun	ganduː	NOUN	_	Definite=Cons	24	mod@desc	_	Gloss=XX
 23	daːjìn	daːjìː	NOUN	_	Definite=Cons	22	comp:obj	_	Gloss=XX
@@ -512,7 +512,7 @@
 9	ga	ganiː	VERB	_	_	8	comp:aux	_	Gloss=see
 10	koː	koː	PART	_	ExtPos=ADV	12	mod	_	Gloss=XX|Idiom=Yes
 11	dàː	dàː	PART	_	_	10	unk	_	Gloss=XX|InIdiom=Yes
-12	gùdaː	gùdaː	NOUN	_	_	9	comp:obj	_	Gloss=unit/one.Masc
+12	gùdaː	gùdaː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=unit/one.Masc
 13	dàgà	dàgà	ADP	_	ExtPos=ADP	12	mod	_	Gloss=from|Idiom=Yes
 14	cikin	cikin	ADP	_	_	13	comp:obj	_	Gloss=inside|InIdiom=Yes
 15	waɗànnân	wannàn	DET	_	Definite=Def|Deixis=Prox|Number=Plur|PronType=Dem	16	det	_	Gloss=Prox.Plur
@@ -533,14 +533,14 @@
 30	rùndunaː	rùndunaː	NOUN	_	Number=Plur	29	comp:obj	_	Gloss=XX
 31	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Stat	30	mod	_	Gloss=take.Stat
 32	dà	dà	CCONJ	_	_	31	comp:obl	_	Gloss=and
-33	màkàːmai	màkàːmai	NOUN	_	Gender=Masc|Number=Plur	32	comp:obj	_	Gloss=XX
+33	màkàːmai	makaːmiː	NOUN	_	Number=Plur	32	comp:obj	_	Gloss=weapon.Plur
 34	zuwàː	zuwàː	ADP	_	_	28	comp:obl	_	Gloss=towards
 35	daːjìn	daːjìː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	34	comp:obj	_	Gloss=XX
 36	don	don	SCONJ	_	_	28	mod	_	Gloss=so_that
 37	kaːrè	kar-	VERB	_	_	36	comp:obj	_	Gloss=protect
 38-39	laːfiyàr̃sà	_	_	_	_	_	_	_	_
 38	laːfiyàr̃	laːfiyàː	NOUN	_	Definite=Cons|Gender=Fem	37	comp:obj	_	Gloss=security.Fem.Cons|SpaceAfter=No
-39	sà	sà	PRON	_	Gender=Fem	38	mod	_	Gloss=XX|SpaceAfter=No
+39	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	38	mod	_	Gloss=3Masc.Gen|SpaceAfter=No
 40	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__19

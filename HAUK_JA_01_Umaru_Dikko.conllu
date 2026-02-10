@@ -43,7 +43,7 @@
 19	watan	wataː	NOUN	_	Definite=Cons|Gender=Masc	20	mod@desc	_	Gloss=month.Masc.Cons
 20	disambàː	disambàː	NOUN	_	Gender=Fem	18	comp:obj	_	Gloss=december.Fem
 21	na	na	PART	_	Case=Gen|PartType=Pred	20	mod	_	Gloss=Gen
-22	shèːkararàr̃	shèːkararàː	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	23	mod@desc	_	Gloss=year.Fem.Cons
+22	shèːkararàr̃	shèːkararàː	NOUN	_	Definite=Cons|Gender=Fem	23	mod@desc	_	Gloss=year.Fem.Cons
 23	alìf	alìf	NUM	_	_	21	comp:obj	_	Gloss=one_thousand
 24	dà	da	CCONJ	_	_	25	cc	_	Gloss=and|wordform=da
 25	ɗàriː	ɗàriː	NUM	_	Gender=Fem	23	conj:coord	_	Gloss=hundred
@@ -488,7 +488,7 @@
 16	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	15	conj:appos	_	Gloss=Britania|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	yanà	nà	AUX	_	Aspect=Prog|ExtPos=SCONJ|Gender=Masc|Person=3	5	parataxis@mod	_	Gloss=XX|Idiom=Yes
-19	mài	mài	PART	_	Gender=Masc|PartType=Der	18	comp:pred	_	Gloss=owner/doer_of.Sing|InIdiom=Yes
+19	mài	mài	PART	_	Number=Sing|PartType=Der	18	comp:pred	_	Gloss=owner/doer_of.Sing|InIdiom=Yes
 20	cêːwaː	cê	VERB	_	ExtPos=NOUN|Gender=Fem	19	compound	_	Gloss=say.Vnoun.Fem|InIdiom=Yes|wordform=cêwaː
 21	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	20	comp:obj	_	Gloss=3Masc.Fut
 22	kasànceː	kasant-	VERB	_	_	21	comp:aux	_	Gloss=XX

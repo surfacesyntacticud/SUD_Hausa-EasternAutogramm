@@ -25,7 +25,7 @@
 9	gabaːtar̃	gabaːt-	VERB	_	_	8	comp:aux	_	Gloss=present
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with
 11	shìrye-shìryen	shìrye-shìrye	NOUN	_	Definite=Cons|Number=Plur	10	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=shìrye-shìryensà
-12	sà	sà	PRON	_	_	11	mod@poss	_	Gloss=3Masc.Gen
+12	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	11	mod	_	Gloss=3Masc.Gen
 13	gà	gà	ADP	_	_	9	comp:obl	_	Gloss=to
 14	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	13	comp:obj	_	Gloss=country.Plur.Cons
 15	Afìr̃kà	Afìr̃kà	PROPN	_	_	14	flat@name	_	Gloss=Africa|SpaceAfter=No
@@ -180,13 +180,13 @@
 25	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 06_01_Wayoyin_Tarho__7
-# text = Àmmaː yànzu baːbù irìn wannàn wàhalàr̃.
+# text = àmmaː yànzu baːbù irìn wannàn wàhalàr̃.
 # text_ortho = Àmmaː yànzu baːbù irìn wannàn wàhalàr̃.
 1	àmmaː	àmmaː	CCONJ	_	_	3	discourse	_	Gloss=XX
 2	yànzu	yànzu	ADV	_	_	3	mod	_	Gloss=now
 3	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 4	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	3	subj	_	Gloss=type.Masc.Cons
-5	wannàn	wannàn	DET	_	Deixis=Prox|Gender=Masc|PronType=Dem	6	det	_	Gloss=Prox.Sing
+5	wannàn	wannàn	DET	_	Deixis=Prox|Number=Sing|PronType=Dem	6	det	_	Gloss=Prox.Sing
 6	wàhalàr̃	wàhalàː	NOUN	_	Definite=Cons|Gender=Fem	4	mod	_	Gloss=XX|SpaceAfter=No
 7	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
@@ -196,7 +196,7 @@
 1	sàːƙôn	sàːƙoː	NOUN	_	Definite=Def|Gender=Masc	2	mod	_	Gloss=XX
 2	yakàn	kàn	AUX	_	Aspect=Hab|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Hab
 3	soːmàː	soːm-	VERB	_	_	2	comp:aux	_	Gloss=XX
-4	neː	neː	PART	_	Gender=Masc|Number=Plur	3	discourse@foc	_	Gloss=XX
+4	neː	neː	PART	_	PartType=Foc	3	discourse@foc	_	Gloss=Emph
 5	dàgà	dàgà	ADP	_	_	3	comp:obl	_	Gloss=from
 6	wata	wani	DET	_	Definite=Spec|Gender=Masc	7	det	_	Gloss=some.Fem.Spec
 7	wayàr̃	wayàː	NOUN	_	Definite=Cons|Gender=Fem	5	comp:obj	_	Gloss=XX
@@ -221,7 +221,7 @@
 # text_ortho = Dàgà nan nèː zaː à aikàː dà sàːƙôn zuwàː bàːkin tèːkun Kyanadà, sànnan zuwàː 'Widemouth'' à ƙasar̃ Bìr̃taːniyà ta wasu wayoːyin ƙàr̃ƙashin tèːku.
 1	dàgà	dàgà	ADP	_	_	0	root	_	Gloss=from
 2	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	comp:obj	_	Gloss=XX
-3	nèː	neː	PART	_	Gender=Masc|PartType=Foc	1	discourse@foc	_	Gloss=XX
+3	nèː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
 4	zaːà	zâi	AUX	_	Mood=Sub|Person=4	1	comp:cleft	_	Gloss=XX|wordform=à
 5	aikàː	aikàː	VERB	_	_	4	comp:aux	_	Gloss=XX
 6	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=with
@@ -240,7 +240,7 @@
 19	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	20	mod@desc	_	Gloss=country.Fem.Cons
 20	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	18	comp:obj	_	Gloss=Great-Britain
 21	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	14	conj:coord	_	Gloss=Gen.Fem
-22	wasu	wani	DET	_	Definite=Spec|Gender=Masc|Number=Plur	23	det	_	Gloss=some.Plur.Spec
+22	wasu	wani	DET	_	Definite=Spec|Number=Plur	23	det	_	Gloss=some.Plur.Spec
 23	wayoːyin	wayoːyiː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:obj	_	Gloss=XX
 24	ƙàr̃ƙashin	ƙàr̃ƙashin	ADP	_	Definite=Cons|Number=Plur	23	mod	_	Gloss=XX
 25	tèːku	tèːku	NOUN	_	Gender=Masc	24	comp:obj	_	Gloss=XX|SpaceAfter=No
@@ -297,7 +297,7 @@
 # text = doːlè neː koːwàcè ƙasaː tà amìnceː dà laːyukàn dà akèː bùkaːtàː, dà kuma kuɗîn dà zaːà biyaː à kân koːwànè sàːƙon wayàr̃ tàrhôː.
 # text_ortho = Doːlè neː koːwàcè kasaː tà amìnceː dà laːyukàn dà akèː bùkaːtàː, dà kuma kuɗîn dà zaː à biyaː à kân koːwànè sàːƙon wayàr̃ tàrhôː.
 1	doːlè	doːlè	ADV	_	_	0	root	_	Gloss=necessary
-2	neː	neː	PART	_	Gender=Masc|PartType=Foc	1	discourse@foc	_	Gloss=XX
+2	neː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
 3	koːwàcè	koːwàcè	DET	_	_	4	det	_	Gloss=XX
 4	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	5	subj	_	Gloss=country.Fem|wordform=kasaː
 5	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	1	comp:cleft	_	Gloss=3Fem.Sub
@@ -346,7 +346,7 @@
 5	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
 6	hannun	hannuː	NOUN	_	_	5	comp:pred	_	Gloss=XX
 7	rìːgaː	rìːgaː	NOUN	_	Gender=Fem	6	mod	_	Gloss=XX
-8	nèː	neː	PART	_	Gender=Masc|Number=Plur	6	discourse@foc	_	Gloss=XX
+8	nèː	neː	PART	_	PartType=Foc	6	discourse@foc	_	Gloss=Emph
 9	dà	dà	CCONJ	_	_	6	mod	_	Gloss=and
 10	juːnaː	juːnaː	PRON	_	PronType=Rcp	9	comp:obj	_	Gloss=XX|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
@@ -416,10 +416,10 @@
 # sent_id = 06_01_Wayoyin_Tarho__18
 # text = wannàn yanàː fàːruwaː nèː sabòːdà zaman mulkìn màllakàr̃ dà ƙasàːshen Afir̃kà sukà yi à ƙàr̃ƙashin ƙasàːshen Tuːr̃ai, àmmaː yànzu ƙasàːshen Afir̃kà sun soːmà ƙaːrà dàngàntakàː tsàkaːninsù .
 # text_ortho = Wannàn yanàː fàːruwaː nèː sabòːdà zaman mulkìn màllakàr̃ dà ƙasàːshen Afir̃kà sukà yi à ƙàr̃ƙashin ƙasàːshen Tuːr̃ai, àmmaː yànzu ƙasàːshen Afir̃kà sun soːmà ƙaːrà dàngàntakàː tsàkaːninsù.
-1	wannàn	wannàn	PRON	_	Deixis=Prox|PronType=Dem	2	subj	_	Gloss=Prox.Sing
+1	wannàn	wannàn	PRON	_	Deixis=Prox|Number=Sing|PronType=Dem	2	subj	_	Gloss=Prox.Sing
 2	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Prog
 3	fàːruwaː	fàːru	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:aux	_	Gloss=XX
-4	nèː	neː	PART	_	_	3	discourse@foc	_	Gloss=XX
+4	nèː	neː	PART	_	PartType=Foc	3	discourse@foc	_	Gloss=Emph
 5	sabòːdà	sabòːdà	ADP	_	_	3	mod	_	Gloss=because_of
 6	zaman	zamn-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:obj	_	Gloss=XX
 7	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	6	mod	_	Gloss=rule.Masc.Cons
