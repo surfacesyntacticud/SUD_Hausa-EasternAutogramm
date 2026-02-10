@@ -76,7 +76,7 @@
 12	-	-	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 13	wàːtòː	wàːtòː	PART	_	_	14	discourse	_	Gloss=that_is
 14	Dòːkaː	Dòːkaː	PROPN	_	_	11	conj:appos	_	Gloss=Dòːkaː
-15	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	14	mod	_	Gloss=Gen.Fem
+15	ta	na	PART	_	Case=Gen|Gender=Fem	14	mod	_	Gloss=of.Fem
 16	Biyu	Biyu	PROPN	_	_	15	comp:obj	_	Gloss=Biyu
 17	-	-	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 18	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	14	mod@relcl	_	Gloss=that.Fem
@@ -150,7 +150,7 @@
 6	bìsàː	bìsàː	ADP	_	_	4	comp:obl	_	Gloss=according_to
 7	wannàn	wannàn	DET	_	Deixis=Prox|Number=Sing|PronType=Dem	8	det	_	Gloss=Prox.Sing
 8	Dòːkaː	Dòːkaː	PROPN	_	_	6	comp:obj	_	Gloss=Dòːkaː
-9	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	8	mod	_	Gloss=Gen.Fem
+9	ta	na	PART	_	Case=Gen|Gender=Fem	8	mod	_	Gloss=of.Fem
 10	Biyu	biyu	NUM	_	_	9	comp:obj	_	Gloss=XX|SpaceAfter=No
 11	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 12	tòː	tòː	INTJ	_	_	13	discourse	_	Gloss=XX
@@ -189,7 +189,7 @@
 20	ƙàr̃ƙashin	ƙàr̃ƙashin	ADP	_	_	12	mod	_	Gloss=XX
 21	wannàn	wannàn	DET	_	Deixis=Prox|Number=Sing|PronType=Dem	22	det	_	Gloss=Prox.Sing
 22	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	20	comp:obj	_	Gloss=XX
-23	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	22	mod	_	Gloss=Gen.Fem
+23	ta	na	PART	_	Case=Gen|Gender=Fem	22	mod	_	Gloss=of.Fem
 24	tsàron	tsar-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	23	comp:obj	_	Gloss=XX
 25	laːfiyar̃	laːfiyaː	NOUN	_	Definite=Cons|Gender=Fem	24	mod	_	Gloss=XX
 26	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	25	mod	_	Gloss=country.Fem|SpaceAfter=No
@@ -234,7 +234,7 @@
 20	gàban	gàban	ADP	_	_	19	comp:obj	_	Gloss=front
 21	wata	wani	DET	_	Definite=Spec|Gender=Masc	22	det	_	Gloss=some.Fem.Spec
 22	koːtù	koːtù	NUM	_	Gender=Fem	20	comp:obj	_	Gloss=XX
-23	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	22	mod	_	Gloss=Gen.Fem
+23	ta	na	PART	_	Gender=Fem	22	mod	_	Gloss=of.Fem
 24	mùsammàn	mùsammàː	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=XX
 25	tàːre	tàːre	ADV	_	_	26	mod	_	Gloss=together
 26	dà	dà	CCONJ	_	_	27	cc	_	Gloss=and
@@ -257,9 +257,9 @@
 43	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__10-12
-# text = Wannàn lâifîn dà akèː zàrgin Chief G.F. dà shiː, ìn ji lauyàn naːsà, yaː shàːfi wata takàr̃daː cèː waddà shiː Chief G.F. ya r̃ubùːtaː à cikin wata mùjallàː ta màːsu r̃aꞌàyin canjìː à cikin watàn Maːyù.
+# text = Wannàn lâifîn dà akèː zàrgin Chief G.F. dà shiː, ìn ji lauyàn naːsà , yaː shàːfi wata takàr̃daː cèː waddà shiː Chief G.F. ya r̃ubùːtaː à cikin wata mùjallàː ta màːsu r̃aꞌàyin canjìː à cikin watàn Maːyù.
 1	Wannàn	wannàn	DET	_	Gender=Masc|PronType=Dem	2	det	_	Gloss=XX
-2	lâifîn	lâifiː	NOUN	_	Definite=Def|Gender=Masc	16	subj	_	Gloss=XX
+2	lâifîn	lâifiː	NOUN	_	Definite=Def|Gender=Masc	17	subj	_	Gloss=XX
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 4	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	3	comp:obj	_	Gloss=4.Prog.Rel
 5	zàrgin	zarg-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:aux	_	Gloss=accuse.Vnoun.Masc.Cons
@@ -268,35 +268,37 @@
 8	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=with
 9	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	comp:obj	_	Gloss=3Masc.Nom|SpaceAfter=No
 10	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-11	ìn	yà	AUX	_	Mood=Sub|Number=Sing|Person=1	16	discourse	_	Gloss=1Sing.Sub
+11	ìn	yà	AUX	_	Mood=Sub|Number=Sing|Person=1	17	discourse	_	Gloss=1Sing.Sub
 12	ji	ji	VERB	_	_	11	comp:aux	_	Gloss=hear
 13	lauyàn	lauyàː	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	Gloss=XX
-14	naːsà	naːsà	PRON	_	_	13	mod	_	Gloss=XX|SpaceAfter=No
-15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-16	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
-17	shàːfi	shaf-	VERB	_	_	16	comp:aux	_	Gloss=XX
-18	wata	wani	DET	_	Definite=Spec|Gender=Masc	19	det	_	Gloss=some.Fem.Spec
-19	takàr̃daː	takàr̃daː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=XX
-20	cèː	neː	AUX	_	Gender=Fem	19	discourse@foc	_	Gloss=be.Fem
-21	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	19	mod@relcl	_	Gloss=that.Fem
-22	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	25	subj	_	Gloss=3Masc.Nom
-23	Chief	Chief	PROPN	_	_	24	mod@desc	_	Gloss=Chief
-24	G.F.	G.F.	PROPN	_	_	22	conj:appos	_	Gloss=G.F.
-25	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	21	comp:obj	_	Gloss=3Masc.Perf.Rel
-26	r̃ubùːtaː	r̃ubut-	VERB	_	ExtPos=NOUN|Gender=Fem	25	comp:aux	_	Gloss=XX
-27	à	à	ADP	_	_	26	mod	_	Gloss=at
-28	cikin	cikin	ADP	_	_	27	comp:obj	_	Gloss=inside
-29	wata	wani	DET	_	Definite=Spec|Gender=Masc	30	det	_	Gloss=some.Fem.Spec
-30	mùjallàː	mùjallàː	NOUN	_	_	26	comp:obj	_	Gloss=XX
-31	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Pred	30	mod	_	Gloss=Gen.Fem
-32	màːsu	mài	PART	_	Number=Plur|PartType=Der	31	comp:obj	_	Gloss=owner/doer_of.Plur
-33	r̃aꞌàyin	r̃aꞌàyiː	NOUN	_	Definite=Cons|Number=Plur	32	compound	_	Gloss=XX
-34	canjìː	canjìː	NOUN	_	Gender=Masc	33	mod	_	Gloss=XX
-35	à	à	ADP	_	_	26	mod	_	Gloss=at
-36	cikin	cikin	ADP	_	_	35	comp:obj	_	Gloss=inside
-37	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	38	mod@desc	_	Gloss=month.Masc.Cons
-38	Maːyù	Maːyù	NOUN	_	Gender=Masc	36	comp:obj	_	Gloss=may.Masc|SpaceAfter=No
-39	.	.	PUNCT	_	_	16	punct	_	Gloss=PUNCT
+14-15	naːsà	_	_	_	_	_	_	_	_
+14	naː	na	PART	_	Gender=Masc	13	mod	_	Gloss=of.Masc|SpaceAfter=No
+15	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	14	comp:obj	_	Gloss=3Masc.Gen|SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
+17	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
+18	shàːfi	shaf-	VERB	_	_	17	comp:aux	_	Gloss=XX
+19	wata	wani	DET	_	Definite=Spec|Gender=Masc	20	det	_	Gloss=some.Fem.Spec
+20	takàr̃daː	takàr̃daː	NOUN	_	Gender=Fem	18	comp:obj	_	Gloss=XX
+21	cèː	neː	AUX	_	Gender=Fem	20	discourse@foc	_	Gloss=be.Fem
+22	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	20	mod@relcl	_	Gloss=that.Fem
+23	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	26	subj	_	Gloss=3Masc.Nom
+24	Chief	Chief	PROPN	_	_	25	mod@desc	_	Gloss=Chief
+25	G.F.	G.F.	PROPN	_	_	23	conj:appos	_	Gloss=G.F.
+26	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	22	comp:obj	_	Gloss=3Masc.Perf.Rel
+27	r̃ubùːtaː	r̃ubut-	VERB	_	ExtPos=NOUN|Gender=Fem	26	comp:aux	_	Gloss=XX
+28	à	à	ADP	_	_	27	mod	_	Gloss=at
+29	cikin	cikin	ADP	_	_	28	comp:obj	_	Gloss=inside
+30	wata	wani	DET	_	Definite=Spec|Gender=Masc	31	det	_	Gloss=some.Fem.Spec
+31	mùjallàː	mùjallàː	NOUN	_	_	27	comp:obj	_	Gloss=XX
+32	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Pred	31	mod	_	Gloss=of.Fem
+33	màːsu	mài	PART	_	Number=Plur|PartType=Der	32	comp:obj	_	Gloss=owner/doer_of.Plur
+34	r̃aꞌàyin	r̃aꞌàyiː	NOUN	_	Definite=Cons|Number=Plur	33	compound	_	Gloss=XX
+35	canjìː	canjìː	NOUN	_	Gender=Masc	34	mod	_	Gloss=XX
+36	à	à	ADP	_	_	27	mod	_	Gloss=at
+37	cikin	cikin	ADP	_	_	36	comp:obj	_	Gloss=inside
+38	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	39	mod@desc	_	Gloss=month.Masc.Cons
+39	Maːyù	Maːyù	NOUN	_	Gender=Masc	37	comp:obj	_	Gloss=may.Masc|SpaceAfter=No
+40	.	.	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__13
 # text = À cikintà kuma yaː sòːki manufar̃ tattalin ar̃zìkin Gwamnatì, yanàː cêːwaː tanàː ta laːlàːtà haːlin ràːyuwar̃ maꞌàikàtan Nàːjeːr̃iyàː.
@@ -314,7 +316,7 @@
 12	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	5	parataxis@conj	_	Gloss=3Masc.Prog
 13	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem	12	comp:aux	_	Gloss=say.Vnoun.Fem
 14	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	13	comp:obj	_	Gloss=3Fem.Prog
-15	ta	ta	PART	_	Aspect=Iter	14	compound:prt	_	Gloss=XX
+15	ta	ta	PART	_	Aspect=Iter	14	compound:prt	_	Gloss=Iter
 16	laːlàːtà	laːlà	VERB	_	Gender=Fem	14	comp:aux	_	Gloss=XX
 17	haːlin	haːliː	NOUN	_	Definite=Cons|Gender=Masc	16	comp:obj	_	Gloss=situation.Masc.Cons
 18	ràːyuwar̃	ràːyuwaː	VERB	_	Definite=Cons|Gender=Fem	17	mod	_	Gloss=XX
@@ -509,7 +511,7 @@
 44	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	43	comp:obj	_	Gloss=4.Perf.Rel
 45	aikoː	aik-	VERB	_	_	44	comp:aux	_	Gloss=XX
 46	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	45	comp:obl	_	Gloss=3Masc.Dat
-47	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred|Person=3	45	mod	_	Gloss=Gen.Fem
+47	ta	ta	ADP	_	_	45	mod	_	Gloss=via
 48	cikin	cikin	ADP	_	_	47	comp:obj	_	Gloss=inside
 49	wàsiːƙàː	wàsiːƙàː	NOUN	_	Gender=Fem	48	comp:obj	_	Gloss=XX
 50	tun	tun	ADP	_	_	45	mod	_	Gloss=since
@@ -578,8 +580,8 @@
 19	dà	dà	ADP	_	_	18	comp:obl	_	Gloss=with
 20	Dòːkâr̃	dòːkaː	PROPN	_	Definite=Cons|Gender=Fem	19	comp:obj	_	Gloss=law.Fem.Cons
 21	nan	nan	DET	_	PronType=Dem	20	det	_	Gloss=XX
-22	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	20	mod	_	Gloss=Gen.Fem
-23	Biyu	biyu	NUM	_	_	22	comp:obj	_	Gloss=XX|SpaceAfter=No
+22	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Pred	20	mod	_	Gloss=of.Fem
+23	Biyu	biyu	NUM	_	_	22	comp:obj	_	Gloss=two|SpaceAfter=No
 24	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__25-6

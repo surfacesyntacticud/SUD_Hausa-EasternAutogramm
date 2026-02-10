@@ -79,7 +79,7 @@
 16	shidà	shidà	NUM	_	_	15	flat:num	_	Gloss=six
 17	na	na	PART	_	Case=Gen|PartType=Pred	14	mod	_	Gloss=Gen
 18	iskàr̃	iskàː	NOUN	_	Definite=Cons|Gender=Fem	17	comp:obj	_	Gloss=gas.Fem.Cons
-19	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	18	mod	_	Gloss=Gen.Fem
+19	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Pred	18	mod	_	Gloss=of.Fem
 20	carbon	carbon	X	_	Definite=Cons|Foreign=Yes|Gender=Masc	19	comp:obj	_	Gloss=carbon|Lang=en
 21	dioxide	dioxide	X	_	Foreign=Yes|Gender=Fem	20	flat@foreign	_	Gloss=dioxide|Lang=en
 22	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
@@ -112,7 +112,7 @@
 13	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	3	parataxis@conj	_	Gloss=4.Perf.Rel
 14	hankàɗaː	hankaɗ-	VERB	_	_	13	comp:aux	_	Gloss=push
 15	su	su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	comp:obj	_	Gloss=3Plur.Acc
-16	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred|Person=3	14	comp:obl	_	Gloss=Gen.Fem
+16	ta	ta	ADP	_	_	14	comp:obl	_	Gloss=via
 17	indà	indà	ADV	_	PronType=Rel	16	comp:obj	_	Gloss=where
 18	ruwan	ruwaː	NOUN	_	Definite=Cons|Gender=Masc	20	subj	_	Gloss=water.Masc.Cons
 19	kòːgiː	kòːgiː	NOUN	_	Gender=Masc	18	mod	_	Gloss=river.Masc
@@ -213,23 +213,25 @@
 10	kân	kân	ADP	_	_	9	comp:obj	_	Gloss=top
 11	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	Gloss=thing.Masc.Def
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
-13	bìncìkên	bìncìkeː	NOUN	_	Definite=Def|Gender=Masc	15	subj	_	Gloss=investigation.Masc.Def
-14	naːsù	naːsù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	13	mod	_	Gloss=XX
-15	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	12	comp:obj	_	Gloss=3Masc.Perf.Rel
-16	gaːnoː	gaːn-	VERB	_	_	15	comp:aux	_	Gloss=discover|SpaceAfter=No
-17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-18	cêːwar̃	cêːwaː	SCONJ	_	_	16	comp:obj	_	Gloss=COMP
-19	iskàr̃	iskàː	NOUN	_	Definite=Def|Gender=Fem	27	subj	_	Gloss=gas.Fem.Def
-20	dà	dà	SCONJ	_	_	19	mod@relcl	_	Gloss=XX
-21	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	20	comp:obj	_	Gloss=3Fem.Perf.Rel
-22	yiwoː	yi	VERB	_	_	21	comp:aux	_	Gloss=do
-23	bùr̃tsîn	bùr̃tsiː	NOUN	_	Definite=Def|Gender=Masc	22	comp:obj	_	Gloss=expulsion.Masc.Def
-24	wai	wai	SCONJ	_	_	27	discourse	_	Gloss=XX
-25	carbon	carbon	X	_	Definite=Cons|Foreign=Yes|Gender=Masc	27	comp:pred	_	Gloss=carbon|Lang=en
-26	dioxide	dioxide	X	_	Foreign=Yes	25	flat@foreign	_	Gloss=dioxide|Lang=en
-27	ce	ne	PART	_	Gender=Fem|PartType=Pred	18	comp:obj	_	Gloss=XX
-28	kawài	kawài	ADV	_	_	27	mod	_	Gloss=merely|SpaceAfter=No
-29	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
+13	bìncìkên	bìncìkeː	NOUN	_	Definite=Def|Gender=Masc	16	subj	_	Gloss=investigation.Masc.Def
+14-15	naːsù	_	_	_	_	_	_	_	_
+14	naː	na	PART	_	Gender=Masc	13	mod	_	Gloss=of.Masc
+15	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	14	comp:obj	_	Gloss=3Plur.Gen
+16	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	12	comp:obj	_	Gloss=3Masc.Perf.Rel
+17	gaːnoː	gaːn-	VERB	_	_	16	comp:aux	_	Gloss=discover|SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
+19	cêːwar̃	cêːwaː	SCONJ	_	_	17	comp:obj	_	Gloss=COMP
+20	iskàr̃	iskàː	NOUN	_	Definite=Def|Gender=Fem	28	subj	_	Gloss=gas.Fem.Def
+21	dà	dà	SCONJ	_	_	20	mod@relcl	_	Gloss=XX
+22	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	21	comp:obj	_	Gloss=3Fem.Perf.Rel
+23	yiwoː	yi	VERB	_	_	22	comp:aux	_	Gloss=do
+24	bùr̃tsîn	bùr̃tsiː	NOUN	_	Definite=Def|Gender=Masc	23	comp:obj	_	Gloss=expulsion.Masc.Def
+25	wai	wai	SCONJ	_	_	28	discourse	_	Gloss=XX
+26	carbon	carbon	X	_	Definite=Cons|Foreign=Yes|Gender=Masc	28	comp:pred	_	Gloss=carbon|Lang=en
+27	dioxide	dioxide	X	_	Foreign=Yes	26	flat@foreign	_	Gloss=dioxide|Lang=en
+28	ce	ne	PART	_	Gender=Fem|PartType=Pred	19	comp:obj	_	Gloss=XX
+29	kawài	kawài	ADV	_	_	28	mod	_	Gloss=merely|SpaceAfter=No
+30	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos__9
 # text = Ɗaya dàgà cikin masànaː kìːmiyyàn yaː yi màːmaːkìː dà ya gaːnoː cêːwaː an yi irìn wannàn aman gâs mài gubàː à wani tafkìn à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà huɗu.

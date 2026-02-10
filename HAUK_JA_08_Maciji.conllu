@@ -96,7 +96,7 @@
 4	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	2	comp:pred	_	Gloss=XX
 5	ukù	ukù	NUM	_	_	4	mod:num	_	Gloss=three
 6	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	2	mod	_	Gloss=3Plur.Prog
-7	ta	ta	PART	_	Aspect=Iter	6	compound:prt	_	Gloss=XX
+7	ta	ta	PART	_	Aspect=Iter	6	compound:prt	_	Gloss=Iter
 8	dafà	dafàː	VERB	_	_	6	comp:aux	_	Gloss=XX
 9	wannan	wannan	DET	_	Definite=Spec|Gender=Masc	10	det	_	Gloss=XX
 10	kùmurciː	kùmurciː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=XX
@@ -162,7 +162,7 @@
 9	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 08_Maciji__6
-# text = Nan dà nan sai maƙwàbtaː sukà kwàːshi waɗànnân mutàːnên dà sukà shaː gaːrar̃ dàfaffen macìːjîn zuwàː asìbitìn Gboko, indà likitoːciː sukà tàːru sukà yi ta aikìː har̃ tsawon saː'oː'iː dòːmin neːman cèːton raːyukànsù.
+# text = Nan dà nan sai maƙwàbtaː sukà kwàːshi waɗànnân mutàːnên dà sukà shaː gaːrar̃ dàfaffen macìːjîn zuwàː asìbitìn Gboko, indà likitoːciː sukà tàːru sukà yi ta aikìː har̃ tsawon saː'oː'iː dòːmin neːman cèːton raːyukànsù .
 1	Nan	nan	ADV	_	_	6	mod	_	Gloss=XX
 2	dà	dà	CCONJ	_	_	3	cc	_	Gloss=and
 3	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	conj:coord	_	Gloss=XX
@@ -188,7 +188,7 @@
 23	tàːru	tàːru	VERB	_	_	22	comp:aux	_	Gloss=XX
 24	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	22	parataxis@conj	_	Gloss=3Plur.Perf.Rel
 25	yi	yi	VERB	_	_	24	comp:aux	_	Gloss=do
-26	ta	ta	PART	_	Aspect=Iter	25	compound:prt	_	Gloss=XX
+26	ta	ta	PART	_	Aspect=Iter	25	compound:prt	_	Gloss=Iter
 27	aikìː	aikìː	NOUN	_	Gender=Masc	25	comp:pred	_	Gloss=work.Masc
 28	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	27	mod	_	Gloss=XX
 29	tsawon	tsawoː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	Gloss=XX

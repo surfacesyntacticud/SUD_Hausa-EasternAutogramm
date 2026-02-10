@@ -15,7 +15,7 @@
 7	Jàma'àː	jàma'àː	NOUN	_	Gender=Fem	6	comp:obj	_	Gloss=community.Fem
 8	Haƙƙìn	haƙƙìː	NOUN	_	Definite=Cons	5	comp:obj	_	Gloss=rights.Masc.Cons|SpaceAfter=No|wordform=Haƙƙinsù
 9	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	8	mod	_	Gloss=3Plur.Gen
-10	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	4	mod	_	Gloss=Gen.Fem
+10	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Pred	4	mod	_	Gloss=of.Fem
 11	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	10	comp:obj	_	Gloss=Nigeria
 12	(=	(=	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	ƘNJH	ƘNJH	PROPN	_	_	4	conj:appos	_	Gloss=ƘNJH|SpaceAfter=No
@@ -120,7 +120,7 @@
 12	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	3	comp:obj	_	Gloss=3Masc.Perf.Rel
 13	ɓaːcì	ɓaːt-	VERB	_	_	12	comp:aux	_	Gloss=spoil|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
-15	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	13	mod	_	Gloss=Gen.Fem
+15	ta	ta	ADP	_	_	13	mod	_	Gloss=via
 16	yaddà	yaddà	ADV	_	PronType=Rel	15	comp:obj	_	Gloss=how
 17	har̃	har̃	ADV	_	Definite=Cons|Gender=Fem	20	mod	_	Gloss=even
 18	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	20	subj	_	Gloss=child.Plur.Cons
@@ -585,7 +585,7 @@
 8	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	7	mod	_	Gloss=3Plur.Gen
 9	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
 10	cêːwaː	cêː	VERB	_	Gender=Fem	9	comp:obj	_	Gloss=say.Vnoun.Fem|wordform=cêwaː
-11	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	15	comp:pred	_	Gloss=Gen.Fem
+11	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Pred	15	comp:pred	_	Gloss=of.Fem
 12	Allàh	Allàh	PROPN	_	_	11	comp:obj	_	Gloss=Allah
 13	dà	dà	CCONJ	_	_	14	cc	_	Gloss=and
 14	Ànnabì	Ànnabì	PROPN	_	_	12	conj:coord	_	Gloss=Prophet

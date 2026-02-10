@@ -14,7 +14,7 @@
 4	Fataucìn	fataucìː	NOUN	_	_	3	comp:obj	_	Gloss=trade.Masc.Cons
 5	Miyàːgun	muːgùː	NOUN	_	_	6	mod	_	Gloss=bad.Plur.Cons
 6	Ƙwaːyoːyiː	ƙwàːyaː	NOUN	_	Number=Plur	4	comp:obj	_	Gloss=drug.Plur
-7	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	1	mod	_	Gloss=Gen.Fem
+7	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Pred	1	mod	_	Gloss=of.Fem
 8	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	7	comp:obj	_	Gloss=Nigeria
 9	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
 10	cêː	cêː	VERB	_	_	9	comp:aux	_	Gloss=say|wordform=cê
@@ -104,7 +104,7 @@
 18	cêː	cêː	VERB	_	_	17	comp:aux	_	Gloss=say|wordform=cê
 19	kasâr̃	kasâr̃	NOUN	_	Gender=Fem	20	comp:pred	_	Gloss=XX
 20	ceː	neː	AUX	_	Gender=Fem	18	comp:obj	_	Gloss=be.Fem
-21	ta	ta	PART	_	Gender=Fem|PartType=Pred	20	dislocated@comp	_	Gloss=Gen.Fem
+21	ta	na	PART	_	Gender=Fem|PartType=Pred	20	dislocated@comp	_	Gloss=of.Fem
 22	ukù	ukù	NUM	_	_	21	comp:obj	_	Gloss=three
 23	à	à	ADP	_	_	22	mod	_	Gloss=at
 24	duːniːyàː	duːniːyàː	NOUN	_	Gender=Fem	23	comp:obj	_	Gloss=XX
@@ -339,7 +339,7 @@
 15	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 14_Miyagun_kwayoyi__11
-# text = Ìdan dai har̃ sun yi nasar̃àr̃ ficèːwaː, tòː sukàn iyà kaːsayar̃ dà hoːdàr̃ kòːkên ɗîn dàgà cikin r̃oːbàr̃ baːyan sun gamà tàfiyàr̃ taːsù.
+# text = Ìdan dai har̃ sun yi nasar̃àr̃ ficèːwaː, tòː sukàn iyà kaːsayar̃ dà hoːdàr̃ kòːkên ɗîn dàgà cikin r̃oːbàr̃ baːyan sun gamà tàfiyàr̃ taːsù .
 1	Ìdan	ìdan	SCONJ	_	_	10	mod	_	Gloss=XX
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyhow
 3	har̃	har̃	ADV	_	Definite=Cons|Gender=Fem	4	mod	_	Gloss=XX
@@ -362,9 +362,11 @@
 20	baːyan	baːyan	SCONJ	_	_	12	mod	_	Gloss=after
 21	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	20	comp:obj	_	Gloss=3Plur.Perf
 22	gamà	gam-	VERB	_	_	21	comp:aux	_	Gloss=finish
-23	tàfiyàr̃	tàfiyàː	NOUN	_	Gender=Fem	22	comp:obj	_	Gloss=trip.Fem.Cons
-24	taːsù	taːsù	PRON	_	Gender=Fem|Person=3	23	mod	_	Gloss=XX|SpaceAfter=No
-25	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
+23	tàfiyàr̃	tàfiyàː	NOUN	_	Definite=Def|Gender=Fem	22	comp:obj	_	Gloss=trip.Fem.Def
+24-25	taːsù	_	_	_	_	_	_	_	_
+24	taː	taː	PART	_	Gender=Fem	23	mod	_	Gloss=of.Fem|SpaceAfter=No
+25	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	24	comp:obj	_	Gloss=3Plur.Gen|SpaceAfter=No
+26	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = 14_Miyagun_kwayoyi__12a
 # text = Sai dai àmmaː wani loːkàcîn, ita r̃oːbàr̃ tanàː tsaːgèːwaː à cikin cikìn waɗàndà kèː ɗàuke dà ƙwaːyoːyîn, wandà kuma hakàn yanàː jaːwoː muːgùwar̃ mutuwàː.
@@ -731,8 +733,8 @@
 20	matuƙaː	matuƙaː	ADV	_	_	18	mod	_	Gloss=extremely|SpaceAfter=No
 21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 22-23	masoːyìyaːtaː	_	_	_	_	_	_	_	_
-22	masoːyìyaː	masòːyiː	NOUN	_	_	17	vocative	_	Gloss=lover.Fem.Cons|SpaceAfter=No
-23	taː	taː	PRON	_	Case=Gen|Person=3|PronType=Prs	22	mod	_	Gloss=3Sing.Gen|SpaceAfter=No
+22	masoːyìyaː	masòːyiː	NOUN	_	_	17	vocative	_	Gloss=lover.Fem|SpaceAfter=No
+23	taː	taː	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=1|PronType=Prs	22	mod	_	Gloss=Fem.1Sing.Gen|SpaceAfter=No
 24	"	"	PUNCT	_	_	17	punct	_	Gloss=PUNCT|SpaceAfter=No
 25	;	;	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
@@ -782,9 +784,11 @@
 22	dàngàntakàː	dàngànta	NOUN	_	Gender=Fem	20	comp:obj	_	Gloss=relationship.Fem
 23	tsàkaːnin	tsàkaːnin	ADP	_	_	22	mod	_	Gloss=between
 24	mijìn	mijìː	NOUN	_	Definite=Cons	23	comp:obj	_	Gloss=husband.Masc.Cons
-25	naːtà	naːtà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	24	mod	_	Gloss=XX
-26	dà	dà	CCONJ	_	_	28	cc	_	Gloss=and
-27	Miss	Miss	PROPN	_	_	28	mod@desc	_	Gloss=Miss
-28	Madike	Madike	PROPN	_	_	24	conj:coord	_	Gloss=Madike|SpaceAfter=No
-29	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+25-26	naːtà	_	_	_	_	_	_	_	_
+25	naː	na	PART	_	Gender=Masc	24	mod	_	Gloss=of.Masc
+26	tà	tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	25	comp:obj	_	Gloss=XX
+27	dà	dà	CCONJ	_	_	29	cc	_	Gloss=and
+28	Miss	Miss	PROPN	_	_	29	mod@desc	_	Gloss=Miss
+29	Madike	Madike	PROPN	_	_	24	conj:coord	_	Gloss=Madike|SpaceAfter=No
+30	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 

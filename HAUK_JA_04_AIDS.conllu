@@ -29,7 +29,7 @@
 13	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 14	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	13	comp:obj	_	Gloss=4.Prog.Rel
 15	bazàːwaː	bazàːwaː	VERB	_	Gender=Fem	14	comp:aux	_	Gloss=XX
-16	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred|Person=3	15	mod:obl	_	Gloss=Gen.Fem
+16	ta	ta	ADP	_	_	15	comp:obl	_	Gloss=via
 17	jiniː	jiniː	NOUN	_	Gender=Masc	16	comp:obj	_	Gloss=XX
 18	dà	dà	CCONJ	_	_	19	cc	_	Gloss=and
 19	màniyyìː	màniyyìː	NOUN	_	Gender=Masc	17	conj:coord	_	Gloss=XX|SpaceAfter=No
@@ -164,7 +164,7 @@
 12	;	;	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 04_AIDS__6
-# text = hakà kuma namijì mài taːràːwaː dà màcè koː namijì, shiː maː yanàː iyà bazà cùːtâr̃ ta màniyyìnsà.
+# text = hakà kuma namijì mài taːràːwaː dà màcè koː namijì, shiː maː yanàː iyà bazà cùːtâr̃ ta màniyyìnsà .
 # text_ortho = hakà kuma namijì mài taːràːwaː dà màcè koː namijì, shiː maː yanàː iyà bazà cùːtâr̃ ta màniyyìnsà.
 1	hakà	hakà	ADV	_	_	13	mod	_	Gloss=thus
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
@@ -182,7 +182,7 @@
 14	iyà	iy-	VERB	_	_	13	comp:aux	_	Gloss=be_able_to
 15	bazà	bazà	ADP	_	_	14	comp:obj	_	Gloss=XX
 16	cùːtâr̃	cùːtâː	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=XX
-17	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	15	comp:obl	_	Gloss=Gen.Fem
+17	ta	ta	ADP	_	_	15	comp:obl	_	Gloss=via
 18	màniyyìn	màniyyìːsù	NOUN	_	Definite=Cons|Gender=Masc|Person=3	17	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=màniyyìnsà
 19	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	18	mod	_	Gloss=3Masc.Gen
 20	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
@@ -217,7 +217,7 @@
 25	ga	ganiː	VERB	_	_	24	comp:aux	_	Gloss=see
 26	wata	wani	DET	_	Definite=Spec|Gender=Masc	27	det	_	Gloss=some.Fem.Spec
 27	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	25	comp:obj	_	Gloss=XX
-28	ta	tà	PART	_	Gender=Fem	27	mod	_	Gloss=of.Fem
+28	ta	na	PART	_	Gender=Fem	27	mod	_	Gloss=of.Fem
 29	cùːtâr̃	cùːtâː	NOUN	_	Gender=Fem	28	comp:obj	_	Gloss=XX
 30	à	à	ADP	_	_	25	comp:obl	_	Gloss=at
 31	jìkin	jìkiːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	30	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=jìkinsà
@@ -235,7 +235,7 @@
 43	iyà	iy-	VERB	_	_	42	comp:aux	_	Gloss=be_able_to
 44	bazà	bazàː	VERB	_	_	43	comp:obj	_	Gloss=XX
 45	cùːtâr̃	cùːtâː	NOUN	_	Gender=Fem	44	comp:obj	_	Gloss=XX
-46	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	44	comp:obl	_	Gloss=Gen.Fem
+46	ta	ta	ADP	_	_	44	comp:obl	_	Gloss=via
 47	jinin	jiniːtà	NOUN	_	Gender=Masc|PronType=Dem	46	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=jininsà
 48	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	47	mod	_	Gloss=3Masc.Gen
 49	dà	dà	CCONJ	_	_	50	cc	_	Gloss=and
