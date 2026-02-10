@@ -343,10 +343,10 @@
 # text_ortho = À loːkàcin shàr̃iꞌàr̃, Mài Shàr̃iꞌàː yaː cêː an bayyànà Ùːmar̃ù Dikkò dà cêwaː: “Wani ƙàːsur̃gumin ɓàraːwòː neː dà bà à taɓà yîn irìnsà ba à duːniyàː.” Sai à watàn Jànair̃u na shekaràr̃ alif dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː Gwamnatìn Nàjeːr̃iyàː ta bùkàːci Bìr̃taːniyà tà miːƙàː matà shiː don à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː kân lâifin cîn hancìː dà kàrɓar̃ r̃ashawaː ta fâm miliyàn bàr̃kàtài.
 1	à	à	ADP	_	_	7	mod	_	Gloss=at
 2	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	Gloss=time.Masc.Cons
-3	shàr̃iꞌàr̃	shàr̃iꞌàː	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Person=3	2	mod	_	Gloss=judgement.Fem.Def|SpaceAfter=No
+3	shàr̃iꞌàr̃	shàr̃iꞌàː	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Person=3	2	mod	_	Gloss=court.Fem.Def|SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	mài	mài	PART	_	Number=Sing|PartType=Der	7	subj	_	Gloss=owner/doer_of.Sing
-6	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Gender=Masc	5	compound	_	Gloss=justice.Fem
+6	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Gender=Masc	5	compound	_	Gloss=court.Fem
 7	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 8	cêː	cêː	VERB	_	_	7	comp:aux	_	Gloss=say
 9	an	yaː	AUX	_	Aspect=Perf|Person=4	8	comp:obj	_	Gloss=4.Perf
@@ -392,34 +392,34 @@
 13	dà	dà	CCONJ	_	_	14	cc	_	Gloss=and
 14	bìyar̃	bìyar̃	NUM	_	_	12	conj:coord	_	Gloss=five
 15	nèː	neː	PART	_	PartType=Foc	2	discourse@foc	_	Gloss=Emph
-16	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	9	conj:appos	_	Gloss=government.Fem.Cons
+16	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	18	subj	_	Gloss=government.Fem.Cons
 17	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	16	mod	_	Gloss=Nigeria
 18	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	0	root	_	Gloss=3Fem.Perf.Rel
 19	bùkàːci	bùkàːci	VERB	_	_	18	comp:obj	_	Gloss=XX
-20	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	21	subj	_	Gloss=Britania
+20	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	21	subj	_	Gloss=Great_Britain
 21	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	19	comp:obj	_	Gloss=3Fem.Sub
-22	miːƙàː	miːƙàː	VERB	_	_	21	comp:aux	_	Gloss=XX
+22	miːƙàː	miːƙ-	VERB	_	_	21	comp:aux	_	Gloss=hand_over
 23	matà	matà	PRON	_	Case=Dat|Gender=Fem|Person=3|PronType=Prs	22	comp:obl	_	Gloss=3Fem.Dat
 24	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	22	comp:obj	_	Gloss=3Masc.Nom
 25	don	don	SCONJ	_	_	22	mod	_	Gloss=so_that
 26	à	à	ADP	_	_	25	comp:obj	_	Gloss=at
-27	gur̃faːnar̃	gur̃faːnar̃	VERB	_	Definite=Cons|Gender=Fem	26	comp:obj	_	Gloss=XX
+27	gur̃faːnar̃	gur̃faːn-	VERB	_	_	26	comp:obj	_	Gloss=kneel_down.Cau
 28	dà	dà	ADP	_	_	27	comp:obl	_	Gloss=with
 29	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	28	comp:obj	_	Gloss=3Masc.Nom
 30	à	à	ADP	_	_	27	comp:obl	_	Gloss=at
 31	gàban	gàban	ADP	_	_	30	comp:obj	_	Gloss=front
-32	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Gender=Fem	31	comp:obj	_	Gloss=XX
+32	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Gender=Fem	31	comp:obj	_	Gloss=court.Fem
 33	kân	kân	ADP	_	_	27	comp:obl	_	Gloss=on
-34	lâifin	lâifiː	NOUN	_	Definite=Cons|Gender=Masc	33	comp:obj	_	Gloss=XX
+34	lâifin	lâifiː	NOUN	_	Definite=Cons|Gender=Masc	33	comp:obj	_	Gloss=crime.Fem.Cons
 35	cîn	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	34	mod	_	Gloss=consume.Vnoun.Masc.Cons
-36	hancìː	hancìː	NOUN	_	Gender=Masc	35	compound	_	Gloss=XX
+36	hancìː	hancìː	NOUN	_	Gender=Masc	35	compound	_	Gloss=bribe.Masc
 37	dà	dà	CCONJ	_	_	38	cc	_	Gloss=and
-38	kàrɓar̃	kàrɓaː	NOUN	_	Definite=Cons|Gender=Fem	35	conj:coord	_	Gloss=XX
-39	r̃ashawaː	r̃ashawaː	NOUN	_	Gender=Fem	38	mod	_	Gloss=XX
+38	kàrɓar̃	karɓ-	NOUN	_	Definite=Cons|Gender=Fem	35	conj:coord	_	Gloss=take.Vnoun.Fem.Cons
+39	r̃ashawaː	r̃ashawaː	NOUN	_	Gender=Fem	38	mod	_	Gloss=corruption.Fem
 40	ta	na	PART	_	Case=Gen|Gender=Fem	39	mod	_	Gloss=Gen.Fem
-41	fâm	faː	NOUN	_	_	40	comp:obj	_	Gloss=XX
-42	miliyàn	miliyàn	NUM	_	_	41	mod:num	_	Gloss=XX
-43	bàr̃kàtài	bàr̃kàtài	NOUN	_	_	42	mod	_	Gloss=XX|SpaceAfter=No
+41	fâm	fâm	NOUN	_	Gender=Fem	40	comp:obj	_	Gloss=pound.Fem
+42	miliyàn	miliyàn	NUM	_	Gender=Fem	41	mod:num	_	Gloss=million.Fem
+43	bàr̃kàtài	bàr̃kàtài	ADV	_	_	35	mod	_	Gloss=all_over|SpaceAfter=No
 44	.	.	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko__14
@@ -427,13 +427,13 @@
 # text_ortho = Tôː à duk loːkàcin zamansà à nân Bìr̃taːniyà dai, Ùːmar̃ù Dikkò yaː shaː naːnàːtà cêwaː shiː bài sàːci kuɗiː nair̃àː miliyàn bìlaː adàdin ba ta hanyàr̃ gàdàː-gadar̃ shìnkaːfaː dà kuma duk sauran laifuffukàn dà akèː zàrgin yaː aikàtaː.
 1	tôː	tôː	INTJ	_	_	14	discourse	_	Gloss=XX
 2	à	à	ADP	_	_	14	mod	_	Gloss=at
-3	duk	dukà	DET	_	_	4	det	_	Gloss=XX
+3	duk	dukà	DET	_	_	4	det	_	Gloss=all
 4	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj	_	Gloss=time.Masc.Cons
-5	zaman	zamaːsù	VERB	_	Gender=Fem	4	mod	_	Gloss=XX|SpaceAfter=No|wordform=zamansà
+5	zaman	zama	VERB	_	Gender=Fem	4	mod	_	Gloss=stay.Vnoun.Masc.Cons|SpaceAfter=No|wordform=zamansà
 6	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	5	mod	_	Gloss=3Masc.Gen
 7	à	à	ADP	_	_	5	mod	_	Gloss=at
 8	nân	nân	ADV	_	Deixis=Prox|PronType=Dem	7	comp:obj	_	Gloss=here
-9	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	8	conj:appos	_	Gloss=Britania
+9	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	8	conj:appos	_	Gloss=Great_Britain
 10	dai	dai	PART	_	PartType=Top	7	discourse@top	_	Gloss=anyhow|SpaceAfter=No
 11	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 12	Ùːmar̃ù	Ùːmar̃ù	PROPN	_	_	14	subj	_	Gloss=Ùːmar̃ù
@@ -457,7 +457,7 @@
 30	shìnkaːfaː	shìnkaːfaː	NOUN	_	_	29	mod	_	Gloss=XX
 31	dà	dà	CCONJ	_	_	34	cc	_	Gloss=and
 32	kuma	kuma	PART	_	_	31	discourse@top	_	Gloss=also
-33	duk	dukà	DET	_	_	34	det	_	Gloss=XX
+33	duk	dukà	DET	_	_	34	det	_	Gloss=all
 34	sauran	sauraː	NOUN	_	Definite=Cons|Gender=Masc	17	conj:coord	_	Gloss=rest.Masc.Cons
 35	laifuffukàn	lâifiː	NOUN	_	Definite=Def|Number=Plur	34	mod	_	Gloss=fault.Plur.Def
 36	dà	dà	SCONJ	_	_	35	mod@relcl	_	Gloss=COMP
@@ -485,7 +485,7 @@
 13	hijir̃aː	hijir̃aː	NOUN	_	Gender=Fem	12	mod	_	Gloss=XX
 14	à	à	ADP	_	_	7	mod	_	Gloss=at
 15	nân	nân	ADV	_	Deixis=Prox|PronType=Dem	14	comp:obj	_	Gloss=here
-16	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	15	conj:appos	_	Gloss=Britania|SpaceAfter=No
+16	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	15	conj:appos	_	Gloss=Great_Britain|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	yanà	nà	AUX	_	Aspect=Prog|ExtPos=SCONJ|Gender=Masc|Person=3	5	parataxis@mod	_	Gloss=XX|Idiom=Yes
 19	mài	mài	PART	_	Number=Sing|PartType=Der	18	comp:pred	_	Gloss=owner/doer_of.Sing|InIdiom=Yes
@@ -558,7 +558,7 @@
 # text_ortho = Tòː àmmaː duk dà hakà, àkwai waɗàndà kèː ganin cêwaː bàː wannàn dàliː lìː neː ya sâː yakèː sôn yà yi zamansà à nân Bìr̃taːniyà ba.
 1	tòː	tòː	INTJ	_	_	7	discourse	_	Gloss=XX
 2	àmmaː	àmmaː	CCONJ	_	_	7	discourse	_	Gloss=XX
-3	duk	dukà	DET	_	ExtPos=ADV	7	mod	_	Gloss=XX|Idiom=Yes
+3	duk	dukà	DET	_	ExtPos=ADV	7	mod	_	Gloss=all|Idiom=Yes
 4	dà	dà	ADP	_	_	3	unk	_	Gloss=with|InIdiom=Yes
 5	hakà	hakà	ADV	_	_	4	unk	_	Gloss=thus|InIdiom=Yes|SpaceAfter=No
 6	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -577,11 +577,11 @@
 19	sôn	soː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp:aux	_	Gloss=want.Vnoun.Masc.Cons
 20	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	19	comp:obj	_	Gloss=3Masc.Sub
 21	yi	yi	VERB	_	_	20	comp:aux	_	Gloss=do
-22	zaman	zam-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Person=3	21	comp:pred	_	Gloss=XX|SpaceAfter=No|wordform=zamansà
+22	zaman	zama	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Person=3	21	comp:pred	_	Gloss=stay.Vnoun.Masc.Cons|SpaceAfter=No|wordform=zamansà
 23	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	22	mod	_	Gloss=3Masc.Gen
 24	à	à	ADP	_	_	21	mod	_	Gloss=at
 25	nân	nân	ADV	_	Deixis=Prox|PronType=Dem	24	comp:obj	_	Gloss=here
-26	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	25	conj:appos	_	Gloss=Britania
+26	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	25	conj:appos	_	Gloss=Great_Britain
 27	ba	ba	PART	_	PartType=Ill|Polarity=Neg	14	mod	_	Gloss=Neg|SpaceAfter=No
 28	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
@@ -638,7 +638,7 @@
 10	har̃koːkin	har̃kàː	NOUN	_	Definite=Cons|Gender=Masc	9	mod	_	Gloss=business.Plur.Cons
 11	cikin	cikin	ADP	_	_	10	mod	_	Gloss=inside
 12	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	Gloss=house.Masc.Cons
-13	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	12	mod	_	Gloss=Britania
+13	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	12	mod	_	Gloss=Great_Britain
 14	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 15	gayàː	gay-	VERB	_	_	14	comp:aux	_	Gloss=XX
 16	wà	wà	ADP	_	Case=Dat	15	comp:obl	_	Gloss=XX
