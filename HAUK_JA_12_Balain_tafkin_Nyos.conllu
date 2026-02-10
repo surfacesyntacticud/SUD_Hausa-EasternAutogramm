@@ -78,8 +78,8 @@
 15	dubuː	dubuː	NUM	_	_	14	mod:num	_	Gloss=thousand
 16	shidà	shidà	NUM	_	_	15	flat:num	_	Gloss=six
 17	na	na	PART	_	Case=Gen|PartType=Pred	14	mod	_	Gloss=Gen
-18	iskàr̃	iskàː	NOUN	_	Definite=Cons|Gender=Fem	17	comp:obj	_	Gloss=gas.Fem.Cons
-19	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Pred	18	mod	_	Gloss=of.Fem
+18	iskàr̃	iskàː	NOUN	_	Definite=Def|Gender=Fem	17	comp:obj	_	Gloss=gas.Fem.Def
+19	ta	na	PART	_	Case=Gen|Gender=Fem	18	mod	_	Gloss=Gen.Fem
 20	carbon	carbon	X	_	Definite=Cons|Foreign=Yes|Gender=Masc	19	comp:obj	_	Gloss=carbon|Lang=en
 21	dioxide	dioxide	X	_	Foreign=Yes|Gender=Fem	20	flat@foreign	_	Gloss=dioxide|Lang=en
 22	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
@@ -215,7 +215,7 @@
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 13	bìncìkên	bìncìkeː	NOUN	_	Definite=Def|Gender=Masc	16	subj	_	Gloss=investigation.Masc.Def
 14-15	naːsù	_	_	_	_	_	_	_	_
-14	naː	na	PART	_	Gender=Masc	13	mod	_	Gloss=of.Masc
+14	naː	na	PART	_	Case=Gen|Gender=Masc	13	mod	_	Gloss=Gen.Masc
 15	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	14	comp:obj	_	Gloss=3Plur.Gen
 16	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	12	comp:obj	_	Gloss=3Masc.Perf.Rel
 17	gaːnoː	gaːn-	VERB	_	_	16	comp:aux	_	Gloss=discover|SpaceAfter=No

@@ -454,7 +454,7 @@
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with|wordform=da
 11	shìrye-shìryên	shirìː	NOUN	_	Definite=Def|Number=Plur	10	comp:obj	_	Gloss=preparation.Plur.Def
 12-13	naːtà	_	_	_	_	_	_	_	_
-12	naː	na	PART	_	Number=Plur	11	mod	_	Gloss=of.Plur|SpaceAfter=No
+12	naː	na	PART	_	Case=Gen|Number=Plur	11	mod	_	Gloss=Gen.Plur|SpaceAfter=No
 13	tà	tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	12	comp:obj	_	Gloss=XX|SpaceAfter=No
 14	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 15	tàːre	tàːre	ADV	_	_	16	mod	_	Gloss=together
@@ -579,10 +579,10 @@
 
 # sent_id = 15_Yajin_aiki__19
 # text = Yaːjìn aikìn naːsù kùwa na nuːnà goːyon baːyaː nèː gà ma'àikàtan Bankìn Raːyà Ƙasâr̃ ta Nìːjâr̃, waɗàndà sukà rasà ayyukànsù baːyân dà gwamnatìn ƙasâr̃ ta yankè shaːwar̃àr̃ rufè bankìn.
-1	Yaːjìn	yaːjìː	PROPN	_	_	10	subj	_	Gloss=hot_spice.Masc.Cons
-2	aikìn	aikìː	NOUN	_	Definite=Cons|Gender=Masc	1	compound	_	Gloss=work.Masc.Cons
+1	Yaːjìn	yaːjìː	PROPN	_	Definite=Cons|Gender=Masc	10	subj	_	Gloss=hot_spice.Masc.Cons
+2	aikìn	aikìː	NOUN	_	Definite=Def|Gender=Masc	1	compound	_	Gloss=work.Masc.Def
 3-4	naːsù	_	_	_	_	_	_	_	_
-3	naː	na	PART	_	Gender=Masc	1	mod	_	Gloss=of.Masc
+3	naː	na	PART	_	Case=Gen|Gender=Masc	1	mod	_	Gloss=Gen.Masc
 4	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	3	comp:obj	_	Gloss=3Plur.Gen
 5	kùwa	kùwa	PART	_	_	1	discourse@top	_	Gloss=XX
 6	na	na	AUX	_	Aspect=Perf|Number=Plur|Person=1	10	comp:pred	_	Gloss=XX
@@ -643,7 +643,7 @@
 4	yi	yi	VERB	_	_	3	comp:aux	_	Gloss=do
 5	kuːkan	kuːkaː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:pred	_	Gloss=complaint.Masc.Cons
 6	cêːwaː	cêːwaː	SCONJ	_	_	5	mod	_	Gloss=COMP
-7	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	10	subj	_	Gloss=government.Fem.Cons|wordform=gwamnatin
+7	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	10	subj	_	Gloss=government.Fem.Def|wordform=gwamnatin
 8-9	taːsù	_	_	_	_	_	_	_	_
 8	taː	na	PART	_	Case=Gen|Gender=Fem	7	mod	_	Gloss=Gen.Fem
 9	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	8	comp:obj	_	Gloss=3Plur.Cons

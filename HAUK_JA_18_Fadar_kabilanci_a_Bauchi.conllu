@@ -263,8 +263,8 @@
 9	bàzu	baz-	VERB	_	_	8	comp:aux	_	Gloss=spread
 10	sauran	sauraː	NOUN	_	Definite=Cons|Gender=Masc	9	comp:obj@G	_	Gloss=rest.Masc.Cons
 11	sâssan	saːshèː	NOUN	_	Definite=Cons|Number=Plur	10	comp:obj	_	Gloss=district.Plur.Cons
-12	jihàr̃	jihàr̃	NOUN	_	Gender=Fem	11	mod	_	Gloss=state.Fem.Def
-13	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Pred	12	mod	_	Gloss=of.Fem
+12	jihàr̃	jihàr̃	NOUN	_	Definite=Def|Gender=Fem	11	mod	_	Gloss=state.Fem.Def
+13	ta	na	PART	_	Case=Gen|Gender=Fem	12	mod	_	Gloss=Gen.Fem
 14	Bauci	Bauci	PROPN	_	_	13	comp:obj	_	Gloss=Bauchi|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	har̃	har̃	SCONJ	_	_	9	mod	_	Gloss=so_that
@@ -463,7 +463,7 @@
 5	jingìnà	jingìnà	VERB	_	_	4	mod	_	Gloss=precipitate
 6	ruːshèːwar̃	ruːs-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	5	comp:obj	_	Gloss=collapse.Vnoun.Fem.Cons
 7	Jàmhuːr̃iyàː	jàmhuːr̃iyàː	NOUN	_	_	6	mod	_	Gloss=republic
-8	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Pred	7	mod	_	Gloss=of.Fem
+8	ta	na	PART	_	Case=Gen|Gender=Fem	7	mod	_	Gloss=Gen.Fem
 9	Farkoː	farkoː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=beginning.Masc
 10	à	à	ADP	_	_	6	mod	_	Gloss=at
 11	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	12	mod@desc	_	Gloss=year.Fem.Cons
@@ -479,7 +479,7 @@
 21	dà	dà	CCONJ	_	_	23	cc	_	Gloss=and
 22	kuma	kuma	PART	_	_	21	discourse@top	_	Gloss=also
 23	Jàmhuːr̃iyàː	jàmhuːr̃iyàː	NOUN	_	Gender=Fem	7	conj:coord	_	Gloss=republic.Fem
-24	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Pred	23	mod	_	Gloss=of.Fem
+24	ta	na	PART	_	Case=Gen|Gender=Fem	23	mod	_	Gloss=Gen.Fem
 25	Biyu	biyu	NUM	_	_	24	comp:obj	_	Gloss=two
 26	à	à	ADP	_	_	6	mod	_	Gloss=at
 27	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	28	mod@desc	_	Gloss=year.Fem.Cons
