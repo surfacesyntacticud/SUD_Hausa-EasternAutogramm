@@ -15,7 +15,7 @@
 7	Jàma'àː	jàma'àː	NOUN	_	Gender=Fem	6	comp:obj	_	Gloss=community.Fem
 8	Haƙƙìn	haƙƙìː	NOUN	_	Definite=Cons	5	comp:obj	_	Gloss=rights.Masc.Cons|SpaceAfter=No|wordform=Haƙƙinsù
 9	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	8	mod	_	Gloss=3Plur.Gen
-10	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Pred	4	mod	_	Gloss=of.Fem
+10	ta	na	PART	_	Case=Gen|Gender=Fem	4	mod	_	Gloss=Gen.Fem
 11	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	10	comp:obj	_	Gloss=Nigeria
 12	(=	(=	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	ƘNJH	ƘNJH	PROPN	_	_	4	conj:appos	_	Gloss=ƘNJH|SpaceAfter=No
@@ -66,7 +66,7 @@
 4	sha'ànin	sha'àniː	NOUN	_	Definite=Cons|Gender=Masc	11	dislocated@top	_	Gloss=matter.Masc.Cons
 5	tsabtàː	tsabtàː	NOUN	_	Gender=Fem	4	mod	_	Gloss=hygiene.Fem
 6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=and
-7	na	na	PART	_	Case=Gen|PartType=Pred	5	conj:coord	_	Gloss=Gen
+7	na	na	PART	_	Case=Gen|PartType=Pred	4	conj:coord	_	Gloss=Gen
 8	kiːwòn	kiːwòː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=tending.Masc.Cons
 9	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	8	mod	_	Gloss=health.Fem
 10	duk	duk	SCONJ	_	_	4	mod	_	Gloss=XX
@@ -388,9 +388,9 @@
 9	kiwòn	kiy-	VERB	_	Definite=Cons|Gender=Masc	8	mod	_	Gloss=protect.Vnoun.Masc.Cons
 10	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	9	mod	_	Gloss=health.Fem
 11	dà	dà	CCONJ	_	_	12	cc	_	Gloss=and
-12	na	na	PART	_	Case=Gen|PartType=Pred	8	conj:coord	_	Gloss=Gen
+12	na	na	PART	_	Case=Gen|PartType=Pred	7	conj:coord	_	Gloss=Gen
 13	tsabtàː	tsabtàː	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=hygiene.Fem
-14	à	à	ADP	_	_	8	mod	_	Gloss=XX
+14	à	à	ADP	_	_	7	mod	_	Gloss=XX
 15	kûr̃kukùn	kûr̃kukùː	NOUN	_	Definite=Def|Gender=Masc	14	comp:obj	_	Gloss=prison.Masc.Def
 16	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	6	comp:obj	_	Gloss=3Masc.Prog
 17	dà	dà	ADP	_	_	16	comp:pred	_	Gloss=with
@@ -585,7 +585,7 @@
 8	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	7	mod	_	Gloss=3Plur.Gen
 9	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
 10	cêːwaː	cêː	VERB	_	Gender=Fem	9	comp:obj	_	Gloss=say.Vnoun.Fem|wordform=cêwaː
-11	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Pred	15	comp:pred	_	Gloss=of.Fem
+11	ta	na	PART	_	Case=Gen|Gender=Fem	15	comp:pred	_	Gloss=Gen.Fem
 12	Allàh	Allàh	PROPN	_	_	11	comp:obj	_	Gloss=Allah
 13	dà	dà	CCONJ	_	_	14	cc	_	Gloss=and
 14	Ànnabì	Ànnabì	PROPN	_	_	12	conj:coord	_	Gloss=Prophet

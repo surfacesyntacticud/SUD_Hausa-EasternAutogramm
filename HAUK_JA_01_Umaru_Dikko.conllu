@@ -59,7 +59,7 @@
 35	dà	dà	ADP	_	_	34	comp:obl	_	Gloss=with
 36	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	35	comp:obj	_	Gloss=government.Fem.Cons
 37	farar̃-hùːlaː	farar̃-hùːlaː	NOUN	_	Number=Plur	36	mod	_	Gloss=civilian.Plur
-38	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	36	mod	_	Gloss=Gen.Fem
+38	ta	na	PART	_	Case=Gen|Gender=Fem	36	mod	_	Gloss=Gen.Fem
 39	Shùːgàbaː	shùːgàbaː	NOUN	_	Gender=Masc	40	mod@desc	_	Gloss=president.Masc
 40	Sheːhù	Sheːhù	PROPN	_	_	38	comp:obj	_	Gloss=Sheːhù
 41	Shàːgàːri	Shàːgàːri	PROPN	_	_	40	flat@name	_	Gloss=Shàːgàːri|SpaceAfter=No
@@ -92,7 +92,7 @@
 22	yi	yi	VERB	_	_	21	comp:aux	_	Gloss=do
 23	shìgaː	shig-	VERB	_	ExtPos=NOUN|Gender=Fem	22	comp:pred	_	Gloss=enter.VNoun.Fem
 24	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	23	mod	_	Gloss=type.Masc.Cons
-25	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	24	mod	_	Gloss=Gen.Fem
+25	ta	na	PART	_	Case=Gen|Gender=Fem	24	mod	_	Gloss=Gen.Fem
 26	fàːdaː	fàːdaː	NOUN	_	Gender=Masc	25	comp:obj	_	Gloss=priest.Masc|SpaceAfter=No
 27	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
@@ -394,7 +394,7 @@
 15	nèː	neː	PART	_	PartType=Foc	2	discourse@foc	_	Gloss=Emph
 16	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	9	conj:appos	_	Gloss=government.Fem.Cons
 17	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	16	mod	_	Gloss=Nigeria
-18	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	0	root	_	Gloss=Gen.Fem
+18	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	0	root	_	Gloss=3Fem.Perf.Rel
 19	bùkàːci	bùkàːci	VERB	_	_	18	comp:obj	_	Gloss=XX
 20	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	21	subj	_	Gloss=Britania
 21	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	19	comp:obj	_	Gloss=3Fem.Sub
@@ -416,7 +416,7 @@
 37	dà	dà	CCONJ	_	_	38	cc	_	Gloss=and
 38	kàrɓar̃	kàrɓaː	NOUN	_	Definite=Cons|Gender=Fem	35	conj:coord	_	Gloss=XX
 39	r̃ashawaː	r̃ashawaː	NOUN	_	Gender=Fem	38	mod	_	Gloss=XX
-40	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	39	mod	_	Gloss=Gen.Fem
+40	ta	na	PART	_	Case=Gen|Gender=Fem	39	mod	_	Gloss=Gen.Fem
 41	fâm	faː	NOUN	_	_	40	comp:obj	_	Gloss=XX
 42	miliyàn	miliyàn	NUM	_	_	41	mod:num	_	Gloss=XX
 43	bàr̃kàtài	bàr̃kàtài	NOUN	_	_	42	mod	_	Gloss=XX|SpaceAfter=No
@@ -451,7 +451,7 @@
 24	bìlaː	bìlaː	ADP	_	_	23	mod	_	Gloss=XX
 25	adàdin	adàdiː	NOUN	_	_	24	comp:obj	_	Gloss=XX
 26	ba	ba	PART	_	Polarity=Neg	20	mod	_	Gloss=XX
-27	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	20	mod	_	Gloss=Gen.Fem
+27	ta	na	PART	_	Case=Gen|Gender=Fem	20	mod	_	Gloss=Gen.Fem
 28	hanyàr̃	hanyàː	NOUN	_	Definite=Cons|Gender=Fem	27	comp:obj	_	Gloss=way.Fem.Cons
 29	gàdàː-gadar̃	gàdàː-gadaː	NOUN	_	Definite=Cons|Gender=Fem	28	mod	_	Gloss=XX
 30	shìnkaːfaː	shìnkaːfaː	NOUN	_	_	29	mod	_	Gloss=XX

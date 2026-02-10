@@ -74,7 +74,7 @@
 38	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	36	mod@relcl	_	Gloss=that.Fem
 39	ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	43	subj	_	Gloss=association.Fem.Cons
 40	dambe	dambe	ADP	_	_	39	mod	_	Gloss=XX
-41	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	39	mod	_	Gloss=Gen.Fem
+41	ta	na	PART	_	Case=Gen|Gender=Fem	39	mod	_	Gloss=Gen.Fem
 42	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	41	comp:obj	_	Gloss=world.Fem
 43	ta	na	AUX	_	Aspect=Perf|Gender=Fem|Person=3	38	comp:obj	_	Gloss=XX
 44	shiryàː	shir-	VERB	_	_	43	comp:aux	_	Gloss=prepare
@@ -140,7 +140,7 @@
 # text_ortho = Hùkuːmàr̃ Dambe ta Nàːjeːr̃iyàː baː tàː sôː tà ƙyaːlè Lasisi yà yi wàːsân sabòːdà ita Ƙungìyar̃ Dambe ta Duːniyàː taː amìnceː dà ƙasar̃ Afir̃kà ta Kudù, wàːtòː indà gwamnatìn kèː nũnà waːriyar̃ launìn faːtàː, kuma tanàː hulɗàː dà ita.
 1	hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Cons|Gender=Fem	5	mod	_	Gloss=XX
 2	dambe	dambe	NOUN	_	_	1	mod	_	Gloss=XX
-3	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	1	mod	_	Gloss=Gen.Fem
+3	ta	na	PART	_	Case=Gen|Gender=Fem	1	mod	_	Gloss=Gen.Fem
 4	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	3	comp:obj	_	Gloss=Nigeria
 5	baːtàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	0	root	_	Gloss=3Fem.Prog.Neg
 6	sôː	soː	VERB	_	ExtPos=NOUN|Gender=Masc	5	comp:aux	_	Gloss=want.Vnoun.Masc
@@ -154,14 +154,14 @@
 14	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	19	subj	_	Gloss=3Fem.Nom
 15	ƙungìyar̃	ƙungìyaː	NOUN	_	Gender=Fem	14	conj:appos	_	Gloss=association.Fem.Cons
 16	dambe	dambe	DET	_	_	15	mod	_	Gloss=XX
-17	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	15	mod	_	Gloss=Gen.Fem
+17	ta	na	PART	_	Case=Gen|Gender=Fem	15	mod	_	Gloss=Gen.Fem
 18	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=world.Fem
 19	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	13	comp:obj	_	Gloss=3Fem.Perf
 20	amìnceː	amìnceː	VERB	_	_	19	comp:aux	_	Gloss=XX
 21	dà	dà	ADP	_	_	20	comp:obl	_	Gloss=with
 22	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	23	mod@desc	_	Gloss=country.Fem.Cons
 23	Afir̃kà	Afir̃kà	PROPN	_	_	21	comp:obj	_	Gloss=Africa
-24	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	23	mod	_	Gloss=Gen.Fem
+24	ta	na	PART	_	Case=Gen|Gender=Fem	23	mod	_	Gloss=Gen.Fem
 25	Kudù	Kudù	PROPN	_	_	24	comp:obj	_	Gloss=Kudù|SpaceAfter=No
 26	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 27	wàːtòː	wàːtòː	PART	_	_	30	discourse	_	Gloss=that_is
@@ -205,7 +205,7 @@
 20	nasabàː	nasabàː	NOUN	_	Gender=Fem	19	compound	_	Gloss=XX
 21	dà	dà	ADP	_	_	20	comp:obl	_	Gloss=with
 22	Afir̃kà	Afir̃kà	PROPN	_	_	21	comp:obj	_	Gloss=Africa
-23	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	22	mod	_	Gloss=Gen.Fem
+23	ta	na	PART	_	Case=Gen|Gender=Fem	22	mod	_	Gloss=Gen.Fem
 24	Kudù	Kudù	PROPN	_	_	23	comp:obj	_	Gloss=South
 25	ba	ba	PART	_	Polarity=Neg	9	mod	_	Gloss=XX|SpaceAfter=No
 26	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
@@ -225,7 +225,7 @@
 10	shùːgàban	shùːgàbaː	NOUN	_	Definite=Cons	22	dislocated@top	_	Gloss=leader.Masc.Cons
 11	hùkuːmàr̃	hùkuːmàː	NOUN	_	Gender=Masc	10	mod	_	Gloss=XX
 12	dambe	dambe	ADP	_	_	11	mod	_	Gloss=XX
-13	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	11	mod	_	Gloss=Gen.Fem
+13	ta	na	PART	_	Case=Gen|Gender=Fem	11	mod	_	Gloss=Gen.Fem
 14	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	13	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 15	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 16	"	"	PUNCT	_	_	18	punct	_	Gloss=PUNCT
@@ -298,7 +298,7 @@
 3	sakatar̃èn	sakatar̃èː	NOUN	_	Definite=Cons|Gender=Masc	17	subj	_	Gloss=XX
 4	hùkuːmàr̃	hùkuːmàː	NOUN	_	Number=Plur	3	mod	_	Gloss=XX
 5	dambe	dambe	NOUN	_	_	4	mod	_	Gloss=XX
-6	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	4	mod	_	Gloss=Gen.Fem
+6	ta	na	PART	_	Case=Gen|Gender=Fem	4	mod	_	Gloss=Gen.Fem
 7	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	6	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 9	wani	wani	PRON	_	Definite=Spec|Gender=Masc	3	conj:appos	_	Gloss=some.Masc.Spec
@@ -366,8 +366,8 @@
 22	bàː	bàː	PART	_	Polarity=Neg	23	mod	_	Gloss=XX
 23	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	28	compound:pred	_	Gloss=child.Masc.Cons
 24	Afir̃kà	Afir̃kà	PROPN	_	_	23	compound	_	Gloss=Africa
-25	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	24	flat@name	_	Gloss=Gen.Fem
-26	Kudù	Kudù	PROPN	_	_	25	flat@name	_	Gloss=Kudù
+25	ta	na	PART	_	Case=Gen|Gender=Fem	24	mod	_	Gloss=Gen.Fem
+26	Kudù	Kudù	PROPN	_	_	25	comp:obj	_	Gloss=Kudù
 27	ba	ba	PART	_	Polarity=Neg	23	mod	_	Gloss=XX
 28	nèː	neː	AUX	_	_	16	comp:obj	_	Gloss=be|SpaceAfter=No
 29	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
@@ -375,8 +375,8 @@
 31	bàː	bàː	PART	_	Polarity=Neg	32	mod	_	Gloss=XX
 32	à	à	ADP	_	_	28	conj:coord	_	Gloss=at
 33	Afir̃kà	Afir̃kà	PROPN	_	_	32	comp:obj	_	Gloss=Africa
-34	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	33	flat@name	_	Gloss=Gen.Fem
-35	Kudù	Kudù	PROPN	_	_	34	flat@name	_	Gloss=Kudù
+34	ta	na	PART	_	Case=Gen|Gender=Fem	33	mod	_	Gloss=Gen.Fem
+35	Kudù	Kudù	PROPN	_	_	34	comp:obj	_	Gloss=Kudù
 36	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	32	parataxis@conj	_	Gloss=4.Fut
 37	yi	yi	VERB	_	_	36	comp:aux	_	Gloss=do
 38	dambên	dambên	ADV	_	_	37	comp:pred	_	Gloss=XX
@@ -484,7 +484,7 @@
 2	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 3	Bizerte	Bizerte	PROPN	_	_	7	subj	_	Gloss=Bizerte|wordform='Bizerte
 4	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT|wordform='
-5	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	3	mod	_	Gloss=Gen.Fem
+5	ta	na	PART	_	Case=Gen|Gender=Fem	3	mod	_	Gloss=Gen.Fem
 6	Tùːniːsiyà	Tùːniːsiyà	PROPN	_	_	5	comp:obj	_	Gloss=Tunisia
 7	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
 8	laːshè	laːs-	VERB	_	_	7	comp:aux	_	Gloss=XX
@@ -492,7 +492,7 @@
 10	"	"	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 11	Al-Merrekh	Al-Merrekh	PROPN	_	_	8	comp:obj	_	Gloss=Al-Merrekh
 12	"	"	PUNCT	_	_	11	punct	_	Gloss=PUNCT|wordform='
-13	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	11	mod	_	Gloss=Gen.Fem
+13	ta	na	PART	_	Case=Gen|Gender=Fem	11	mod	_	Gloss=Gen.Fem
 14	Sudân	Sudân	PROPN	_	Definite=Cons|Number=Plur	13	comp:obj	_	Gloss=Sudan
 15	dà	dà	CCONJ	_	_	8	mod	_	Gloss=and
 16	cîː	cîː	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=score.Masc
@@ -513,7 +513,7 @@
 3	Asi	Asi	PROPN	_	_	9	subj	_	Gloss=Asi
 4	Abengourou	Abengourou	PROPN	_	Gender=Masc	3	flat@name	_	Gloss=Abengourou
 5	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT|wordform='
-6	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	3	mod	_	Gloss=Gen.Fem
+6	ta	na	PART	_	Case=Gen|Gender=Fem	3	mod	_	Gloss=Gen.Fem
 7	Aːbir̃u	Aːbir̃u	PROPN	_	_	6	comp:obj	_	Gloss=Ivory
 8	Kwâs	Kwâs	PROPN	_	_	7	flat@name	_	Gloss=Coast
 9	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
@@ -522,7 +522,7 @@
 12	"	"	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	Patronage	Patronage	PROPN	_	_	10	comp:obj	_	Gloss=Patronage|wordform='Patronage
 14	"	"	PUNCT	_	_	13	punct	_	Gloss=PUNCT|wordform='
-15	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	13	mod	_	Gloss=Gen.Fem
+15	ta	na	PART	_	Case=Gen|Gender=Fem	13	mod	_	Gloss=Gen.Fem
 16	Làːbeːr̃iyà	Làːbeːr̃iyà	PROPN	_	_	15	comp:obj	_	Gloss=Liberia
 17	dà	dà	CCONJ	_	_	10	comp:obl	_	Gloss=and
 18	cîː	cîː	NOUN	_	Gender=Masc	17	comp:obj	_	Gloss=score.Masc
@@ -543,7 +543,7 @@
 7	Stade	Stade	PROPN	_	_	13	subj	_	Gloss=Stade
 8	Malien	Malien	PROPN	_	_	7	flat@name	_	Gloss=Malien
 9	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT|wordform='
-10	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	7	mod	_	Gloss=Gen.Fem
+10	ta	na	PART	_	Case=Gen|Gender=Fem	7	mod	_	Gloss=Gen.Fem
 11	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	12	mod@desc	_	Gloss=country.Fem.Cons
 12	Màːli	Màːli	PROPN	_	_	10	comp:obj	_	Gloss=Mali
 13	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
@@ -552,7 +552,7 @@
 16	"	"	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 17	USKA	USKA	PROPN	_	_	14	comp:obj	_	Gloss=USKA
 18	"	"	PUNCT	_	_	17	punct	_	Gloss=PUNCT|wordform='
-19	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Pred	17	mod	_	Gloss=Gen.Fem
+19	ta	na	PART	_	Case=Gen|Gender=Fem	17	mod	_	Gloss=Gen.Fem
 20	Àljeːr̃iyà	Àljeːr̃iyà	PROPN	_	_	19	comp:obj	_	Gloss=Algeria
 21	dà	dà	CCONJ	_	_	14	comp:obl	_	Gloss=and
 22	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	comp:obj	_	Gloss=consume.Vnoun.Masc

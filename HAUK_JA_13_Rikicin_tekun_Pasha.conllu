@@ -397,7 +397,7 @@
 1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 2	yi	yi	VERB	_	_	1	comp:aux	_	Gloss=XX
 3	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	2	comp:pred	_	Gloss=demonstration.Fem
-4	ta	ta	PART	_	Case=Gen	3	mod	_	Gloss=Gen.Fem
+4	ta	na	PART	_	Case=Gen|Gender=Fem	3	mod	_	Gloss=Gen.Fem
 5	biyûn	biyû	NUM	_	Definite=Def	4	comp:obj	_	Gloss=two.Def
 6	à	à	ADP	_	_	2	mod	_	Gloss=at
 7	Kanòː	Kanòː	PROPN	_	_	6	comp:obj	_	Gloss=Kanòː
@@ -413,7 +413,7 @@
 17	hàr̃aːbàr̃	hàr̃aːbàː	NOUN	_	Definite=Ind|Gender=Fem	16	comp:obj	_	Gloss=campus.Fem.Cons
 18	Jaːmi'àr̃	jaːmi'àː	NOUN	_	_	19	mod@desc	_	Gloss=university.Fem.Cons
 19	Bàyer̃ò	Bàyer̃ò	PROPN	_	_	17	mod	_	Gloss=Bàyer̃ò
-20	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Pred	19	mod	_	Gloss=of.Fem
+20	ta	na	PART	_	Case=Gen|Gender=Fem	19	mod	_	Gloss=Gen.Fem
 21	Kanòː	Kanòː	PROPN	_	_	20	comp:obj	_	Gloss=Kano|SpaceAfter=No
 22	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 23	don	don	SCONJ	_	_	14	mod	_	Gloss=so_that
@@ -582,7 +582,7 @@
 25	Mùsùlmiː	mùsùlmiː	PROPN	_	Number=Plur	24	mod	_	Gloss=muslim.Plur
 26	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	23	comp:obj	_	Gloss=3Masc.Perf.Rel
 27	yi	yi	VERB	_	_	26	comp:aux	_	Gloss=XX
-28	na	na	PART	_	Gender=Masc	22	mod	_	Gloss=Gen.Masc
+28	na	na	PART	_	Case=Gen|Gender=Masc	22	mod	_	Gloss=Gen
 29	à	yà	AUX	_	Mood=Sub|Person=4	28	comp:obj	_	Gloss=4.Sub
 30	zaunàː	zaun-	VERB	_	_	29	comp:aux	_	Gloss=sit
 31	laːfiyàː	laːfiyàː	NOUN	_	Definite=Ind|Gender=Fem	30	comp:obj	_	Gloss=health.Fem

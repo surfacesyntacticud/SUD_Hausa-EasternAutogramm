@@ -14,7 +14,7 @@
 4	Fataucìn	fataucìː	NOUN	_	_	3	comp:obj	_	Gloss=trade.Masc.Cons
 5	Miyàːgun	muːgùː	NOUN	_	_	6	mod	_	Gloss=bad.Plur.Cons
 6	Ƙwaːyoːyiː	ƙwàːyaː	NOUN	_	Number=Plur	4	comp:obj	_	Gloss=drug.Plur
-7	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Pred	1	mod	_	Gloss=of.Fem
+7	ta	na	PART	_	Case=Gen|Gender=Fem	1	mod	_	Gloss=Gen.Fem
 8	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	7	comp:obj	_	Gloss=Nigeria
 9	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
 10	cêː	cêː	VERB	_	_	9	comp:aux	_	Gloss=say|wordform=cê
@@ -41,7 +41,7 @@
 31	ƙwaːcè	ƙwat-	VERB	_	_	30	comp:aux	_	Gloss=seize
 32	kilô	kilô	NOUN	_	Definite=Cons|Gender=Masc	31	comp:obj	_	Gloss=kilo.Masc
 33	gùdaː	gùdaː	NUM	_	Gender=Masc	32	mod:num	_	Gloss=unit.Masc
-34	na	na	PART	_	Case=Gen|Gender=Masc	32	mod	_	Gloss=Gen.Masc
+34	na	na	PART	_	Case=Gen|Gender=Masc	32	mod	_	Gloss=Gen
 35	hoːdàr̃	hoːdàː	NOUN	_	Definite=Cons|Gender=Fem	34	comp:obj	_	Gloss=powder.Fem.Cons
 36	kòːkên	kòːkên	NOUN	_	Definite=Cons|Gender=Masc	35	mod	_	Gloss=cocaine.Fem
 37	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	35	mod@relcl	_	Gloss=that.Fem|wordform=wadda
@@ -83,7 +83,7 @@
 25	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 14_Miyagun_kwayoyi__4
-# text = Hanà fàsà-ƙwàurin miyàːgun ƙwaːyoːyiː dai wata bàbbar̃ màtsalàː ceː dà ta àddàbi ƙasar̃Nàːjeːr̃iyàː, kuma an cêː kasâr̃ ceː ta ukù à duːniːyàː waddà akà fi kaːmà 'yan ƙasar̃tà sabòːdà laifuffukàn fàsà-ƙwàurin miyàːgun ƙwaːyoːyiː.
+# text = Hanà fàsà-ƙwàurin miyàːgun ƙwaːyoːyiː dai wata bàbbar̃ màtsalàː ceː dà ta àddàbi ƙasar̃Nàːjeːr̃iyàː, kuma an cêː ƙasâr̃ ceː ta ukù à duːniːyàː waddà akà fi kaːmà 'yan ƙasar̃tà sabòːdà laifuffukàn fàsà-ƙwàurin miyàːgun ƙwaːyoːyiː.
 1	Hanà	han-	VERB	_	_	9	subj	_	Gloss=forbid
 2	fàsà-ƙwàurin	fàsà-ƙwàuriː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	Gloss=smuggling.Masc.Cons
 3	miyàːgun	muːgùː	ADJ	_	Definite=Cons|Number=Plur	4	mod	_	Gloss=bad.Plur
@@ -102,9 +102,9 @@
 16	kuma	kuma	CCONJ	_	_	17	cc	_	Gloss=also
 17	an	yaː	AUX	_	Aspect=Perf|Person=4	9	conj:coord	_	Gloss=4.Perf
 18	cêː	cêː	VERB	_	_	17	comp:aux	_	Gloss=say|wordform=cê
-19	kasâr̃	kasâr̃	NOUN	_	Gender=Fem	20	comp:pred	_	Gloss=XX
+19	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	20	comp:pred	_	Gloss=country.Fem.Def
 20	ceː	neː	AUX	_	Gender=Fem	18	comp:obj	_	Gloss=be.Fem
-21	ta	na	PART	_	Gender=Fem|PartType=Pred	20	dislocated@comp	_	Gloss=of.Fem
+21	ta	na	PART	_	Case=Gen|Gender=Fem	19	mod	_	Gloss=Gen.Fem
 22	ukù	ukù	NUM	_	_	21	comp:obj	_	Gloss=three
 23	à	à	ADP	_	_	22	mod	_	Gloss=at
 24	duːniːyàː	duːniːyàː	NOUN	_	Gender=Fem	23	comp:obj	_	Gloss=XX
@@ -451,7 +451,7 @@
 4	wannàn	wannàn	DET	_	Deixis=Prox|Number=Sing|PronType=Dem	5	det	_	Gloss=Prox.Sing
 5	kaːmà	kaːm-	VERB	_	_	11	comp:aux	_	Gloss=catch
 6	mutàːnên	mùtûm	NOUN	_	Definite=Def|Gender=Masc	5	comp:obj	_	Gloss=people.Plur.Def
-7	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Pred	5	mod	_	Gloss=Gen.Masc
+7	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Pred	5	mod	_	Gloss=Gen
 8	baːya-baːyan	baːya-baːyan	ADV	_	_	7	comp:obj	_	Gloss=recent
 9	nàn	nàn	DET	_	PronType=Dem	8	det	_	Gloss=XX|SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
