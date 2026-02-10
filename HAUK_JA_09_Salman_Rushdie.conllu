@@ -123,7 +123,7 @@
 25	zuwàː	zuwàː	ADP	_	_	22	conj:coord	_	Gloss=towards
 26	Japananciː	Japananciː	PROPN	_	Gender=Masc	25	conj:obj	_	Gloss=Japanese|SpaceAfter=No
 27	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
-28	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	11	mod@relcl	_	Gloss=that.Masc
+28	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	11	mod@relcl	_	Gloss=REL.Sing
 29	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	28	comp:obj	_	Gloss=4.Prog.Rel
 30	kiràː	kir-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	29	comp:aux	_	Gloss=XX
 31	"	"	PUNCT	_	_	32	punct	_	Gloss=PUNCT
@@ -533,7 +533,7 @@
 41	wata	wani	DET	_	Definite=Spec|Gender=Masc	42	det	_	Gloss=some.Fem.Spec
 42	zaːngà-zangà	zaːngà-zangà	NOUN	_	Gender=Fem	40	comp:pred	_	Gloss=XX
 43	baːyân	baːyân	SCONJ	_	ExtPos=SCONJ	40	mod	_	Gloss=after.Def|Idiom=Yes
-44	dà	dà	SCONJ	_	_	43	comp:obj	_	Gloss=that|InIdiom=Yes
+44	dà	dà	SCONJ	_	_	43	comp:obj	_	Gloss=COMP|InIdiom=Yes
 45	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	44	comp:obj	_	Gloss=3Plur.Perf.Rel
 46	idar̃	iy-	VERB	_	Voice=Cau	45	comp:aux	_	Gloss=accomplish
 47	dà	dà	ADP	_	_	46	comp:obl	_	Gloss=with
@@ -545,7 +545,7 @@
 1	Sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
 2	fitoː	fit-	VERB	_	_	1	comp:aux	_	Gloss=come_out
 3	kân	kân	ADP	_	_	2	comp:obl	_	Gloss=on_top_of
-4	tiːtunàː	tiːtu	NOUN	_	Case=Gen|Gender=Masc|Person=3	3	comp:obj	_	Gloss=XX
+4	tiːtunàː	tiːtìː	NOUN	_	Number=Plur	3	comp:obj	_	Gloss=street.Plur
 5	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	1	parataxis@conj	_	Gloss=3Plur.Prog
 6	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	5	comp:aux	_	Gloss=demonstration.Fem
 7	ta	na	PART	_	Case=Gen|Gender=Fem	6	mod	_	Gloss=Gen.Fem
