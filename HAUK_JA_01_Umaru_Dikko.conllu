@@ -135,20 +135,20 @@
 14	saːbon	saːboː	ADJ	_	Definite=Cons|Gender=Masc	15	mod	_	Gloss=new.Masc.Cons
 15	matsayiː	matsayiː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=situation.Masc
 16	baːyân	baːyân	SCONJ	_	ExtPos=SCONJ	11	mod	_	Gloss=after|Idiom=Yes
-17	dà	dà	SCONJ	_	_	16	comp:obj	_	Gloss=that|InIdiom=Yes
+17	dà	dà	SCONJ	_	_	16	comp:obj	_	Gloss=COMP|InIdiom=Yes
 18	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	17	comp:obj	_	Gloss=4.Perf.Rel
 19	yi	yi	VERB	_	_	18	comp:aux	_	Gloss=do
 20	ƙòːƙarin	ƙòːƙariː	NOUN	_	Definite=Cons|Gender=Masc	19	comp:pred	_	Gloss=effort.Masc.Cons
 21	saːcèː	saːt-	VERB	_	Gender=Fem	20	comp:obj	_	Gloss=kidnap
 22	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	21	comp:obj	_	Gloss=3Masc.Acc
 23	à	à	ADP	_	_	21	mod	_	Gloss=at
-24	Ingìlà	Ingìlà	PROPN	_	_	23	comp:obj	_	Gloss=Ingìlà|SpaceAfter=No
+24	Ingìlà	Ingìlà	PROPN	_	_	23	comp:obj	_	Gloss=England|SpaceAfter=No
 25	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko__7
 # text = waɗàndà sukà yi niyyàr̃ saːcèː shîn sun cafkèː shi à kân tiːtìn Landàn, sukà sâː masà ankwàː, sukà ɗuːràː masà ƙwàːyaː, sànnan sukà sâː shi à cikin wani kaːtòn àkwàːtì, sukà sâː ƙuːsàː sukà rufèː àkwàːtìn gam, sunàː shirin kai shì Nàːjeːr̃iyàː.
 # text_ortho = Waɗàndà sukà yi niyyàr̃ saːcèː shîn sun cafkèː shi à kân tiːtìn Landàn, sukà sâː masà ankwàː, sukà ɗuːràː masà ƙwàːyaː, sànnan sukà sâː shi à cikin wani kaːtòn àkwàːtì, sukà sâː ƙuːsàː sukà rufèː àkwàːtìn gam, sunàː shirin kai shì Nàːjeːr̃iyàː.
-1	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	7	subj	_	Gloss=that.Plur
+1	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	7	subj	_	Gloss=REL.Plur
 2	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	1	mod@relcl	_	Gloss=3Plur.Perf.Rel
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	niyyàr̃	niyyàː	NOUN	_	Gender=Fem	3	comp:pred	_	Gloss=attempt.Fem.Cons
@@ -238,7 +238,7 @@
 5	kàmaːtà	kamaːt-	VERB	_	_	4	comp:aux	_	Gloss=be_appropriate
 6	à	yà	AUX	_	Mood=Sub|Person=4	5	comp:obj@agent	_	Gloss=4.Sub
 7	r̃ubùːtà	r̃ubùːtà	NOUN	_	Case=Gen|Gender=Fem|Person=3	6	comp:aux	_	Gloss=XX
-8	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	7	comp:obj	_	Gloss=that.Masc
+8	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	7	comp:obj	_	Gloss=REL.Sing
 9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	8	mod@relcl	_	Gloss=3Masc.Perf.Rel
 10	aikàː	aikàː	VERB	_	_	9	comp:aux	_	Gloss=XX
 11	dà	dà	ADP	_	_	10	comp:obl	_	Gloss=with
@@ -563,7 +563,7 @@
 5	hakà	hakà	ADV	_	_	4	unk	_	Gloss=thus|InIdiom=Yes|SpaceAfter=No
 6	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 7	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	Gloss=there_is
-8	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	7	subj	_	Gloss=that.Plur
+8	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	7	subj	_	Gloss=REL.Plur
 9	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	8	mod@relcl	_	Gloss=Prog.Rel
 10	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:aux	_	Gloss=seen.Vnoun.Masc.Cons
 11	cêːwaː	cêːwaː	SCONJ	_	_	10	comp:obj	_	Gloss=COMP|wordform=cêwaː
