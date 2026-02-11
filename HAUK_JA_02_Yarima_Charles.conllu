@@ -5,17 +5,17 @@
 2	Charles	Charles	PROPN	_	_	3	subj	_	Gloss=Charles
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 4	kai	kai	VERB	_	_	3	comp:aux	_	Gloss=reach/carry_to
-5	zìyaːr̃àː	zìyaːr̃àː	NOUN	_	_	4	comp:obj	_	Gloss=XX
+5	zìyaːr̃àː	zìyaːr̃àː	NOUN	_	_	4	comp:obj	_	Gloss=visit.Fem
 6	zuwàː	zuwàː	ADP	_	_	5	mod	_	Gloss=towards
 7	Afìr̃kà	Afìr̃kà	PROPN	_	_	6	comp:obj	_	Gloss=Africa
 8	ta	na	PART	_	Case=Gen|Gender=Fem	7	mod	_	Gloss=Gen.Fem
 9	Yâmma	yâmma	ADV	_	_	8	comp:obj	_	Gloss=west
 
 # sent_id = 02_Yarima_Charles__2
-# text = gàː mafìː yawancin ꞌyan Nàːjeːr̃iyàː, ɓullôːwar̃ jirgin ruwân nan mài suːnaː « Britannia » à gaːɓàr̃ Tèːkun Ìkko kwaːnan baːya, ita cèː àlaːmàː ta farkoː dà ta nuːnà cêːwaː 'yan gidan sàrautàr̃ Bìrtaːniyàː sunàː zìyaːr̃àr̃ Nàːjeːr̃iyàː.
+# text = gà mafìː yawancin ꞌyan Nàːjeːr̃iyàː, ɓullôːwar̃ jirgin ruwân nan mài suːnaː « Britannia » à gaːɓàr̃ Tèːkun Ìkko kwaːnan baːya, ita cèː àlaːmàː ta farkoː dà ta nuːnà cêːwaː 'yan gidan sàrautàr̃ Bìrtaːniyàː sunàː zìyaːr̃àr̃ Nàːjeːr̃iyàː.
 # text_ortho = Gàː mafìː yawancin ꞌyan Nàːjeːr̃iyàː, ɓullôːwar jirgin ruwân nan mài suːnaː « Britannia » à gaːɓàr̃ tèːkun Ìkko kwaːnan baːya, ita cèː àlaːmàː ta farkoː dà ta nuːnà cêːwaː 'yan gidan sàrautàr̃ Bìrtaːniyàː sunàː zìyaːr̃àr̃ Nàːjeːr̃iyàː.
-1	gàː	gàː	PART	_	_	24	mod	_	Gloss=XX
-2	mafìː	mafìː	ADP	_	_	1	subj	_	Gloss=exceeding_in
+1	gà	gà	ADP	_	_	24	mod	_	Gloss=to
+2	mafìː	mafìː	PART	_	PartType=Der	1	comp:obj	_	Gloss=exceeding_in
 3	yawancin	yawanciː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj	_	Gloss=majority.Masc.Cons
 4	ꞌyan	ꞌyan	ADJ	_	_	3	mod	_	Gloss=XX
 5	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	4	compound	_	Gloss=Nigeria|SpaceAfter=No
@@ -214,7 +214,7 @@
 10	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT|wordform=’
 11	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	4	mod@relcl	_	Gloss=3Fem.Perf.Rel
 12	kai	kai	VERB	_	_	11	comp:aux	_	Gloss=reach/carry_to
-13	zìyaːr̃àː	zìyaːr̃àː	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=XX
+13	zìyaːr̃àː	zìyaːr̃àː	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=visit.Fem
 14	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	13	mod	_	Gloss=year.Plur
 15	biyu	biyu	NUM	_	_	14	mod:num	_	Gloss=XX
 16	dà	da	SCONJ	_	_	14	mod@relcl	_	Gloss=COMP|wordform=da
