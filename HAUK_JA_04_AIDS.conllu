@@ -148,7 +148,7 @@
 25	.	.	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 
 # sent_id = 04_AIDS__5
-# text = Màcè mài taːràːwaː dà namijì tanàː iyà baː shì ƙwaːyoːyin cùːtâr̃;
+# text = màcè mài taːràːwaː dà namijì tanàː iyà baː shì ƙwaːyoːyin cùːtâr̃;
 # text_ortho = Màcè mài taːràːwaː dà namijì tanàː iyà baː shì ƙwaːyoːyin cùːtâr̃;
 1	màcè	màcè	NOUN	_	Gender=Fem	6	subj	_	Gloss=XX
 2	mài	mài	PART	_	Number=Sing|PartType=Der	1	mod	_	Gloss=owner/doer_of.Sing
@@ -158,7 +158,7 @@
 6	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Prog
 7	iyà	iy-	VERB	_	_	6	comp:aux	_	Gloss=be_able_to
 8	baː	baː	VERB	_	_	7	comp:obj	_	Gloss=give
-9	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	8	comp:obj@R	_	Gloss=XX
+9	shì	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	8	comp:obj@R	_	Gloss=3Masc.Acc
 10	ƙwaːyoːyin	ƙwaːyoːyiː	NOUN	_	Definite=Cons	8	comp:obj@T	_	Gloss=XX
 11	cùːtâr̃	cùːtâː	NOUN	_	_	10	mod	_	Gloss=XX|SpaceAfter=No
 12	;	;	PUNCT	_	_	6	punct	_	Gloss=PUNCT

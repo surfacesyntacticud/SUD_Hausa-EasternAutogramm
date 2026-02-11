@@ -210,7 +210,7 @@
 28	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__8
-# text = Hakà kuma sunàː sôn mahùkùntan ƙasâr̃ sù baːyar̃ dàː cìkakken bàyaːnìː à kân aràngamàː dà zub dà jiniː dà akà yi tsàkaːnin ɗàːlìbai dà kuma 'yan sàndaː à bir̃nin Yàmài à watàn Fàbàr̃air̃ùn dà ya shigèː.
+# text = Hakà kuma sunàː sôn mahùkùntan ƙasâr̃ sù baːyar̃ dà cìkakken bàyaːnìː à kân aràngamàː dà zub dà jiniː dà akà yi tsàkaːnin ɗàːlìbai dà kuma 'yan sàndaː à bir̃nin Yàmài à watàn Fàbàr̃air̃ùn dà ya shigèː.
 1	Hakà	hakà	ADV	_	_	3	mod	_	Gloss=XX
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 3	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
@@ -219,7 +219,7 @@
 6	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	5	mod	_	Gloss=country.Fem.Def
 7	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	4	comp:obj	_	Gloss=3Plur.Sub
 8	baːyar̃	baː	VERB	_	Definite=Cons|Gender=Fem	7	comp:aux	_	Gloss=give.Cau|wordform=bayar
-9	dàː	dàː	ADP	_	_	8	comp:obl	_	Gloss=XX
+9	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with
 10	cìkakken	cìkakkeː	ADJ	_	Definite=Cons|Number=Plur	11	mod	_	Gloss=complete.Plur.Cons
 11	bàyaːnìː	bàyaːnìː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=explanation.Masc
 12	à	à	ADP	_	ExtPos=ADP	8	comp:obl	_	Gloss=at
