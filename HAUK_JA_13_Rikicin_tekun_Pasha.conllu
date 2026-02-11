@@ -125,7 +125,7 @@
 19	kâi	kâi	NOUN	_	Gender=Masc	18	comp:obj	_	Gloss=head.Masc|InIdiom=Yes
 20	ba	ba	PART	_	PartType=Ill|Polarity=Neg	9	mod	_	Gloss=Neg|SpaceAfter=No
 21	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
-22	tòː	tòː	INTJ	_	_	30	discourse	_	Gloss=XX
+22	tòː	tòː	INTJ	_	_	30	discourse	_	Gloss=well
 23	àmmaː	àmmaː	CCONJ	_	_	30	cc	_	Gloss=but
 24	à	à	ADP	_	ExtPos=ADP	30	mod	_	Gloss=at
 25	'yan	ɗan	ADJ	_	Definite=Cons|Number=Plur	26	mod	_	Gloss=little.Plur.Cons
@@ -170,7 +170,7 @@
 21	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	23	subj	_	Gloss=country.Plur
 22	ƙàwànceː	ƙàwànceː	NOUN	_	Gender=Masc	21	mod	_	Gloss=coalition.Masc
 23	sukèː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3|Relative=Rel	20	comp:obj	_	Gloss=3Plur.Prog.Rel
-24	wà	wà	ADP	_	Case=Dat	23	comp:obl	_	Gloss=XX
+24	wà	wà	ADP	_	Case=Dat	23	comp:obl	_	Gloss=Dat
 25	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	24	comp:obj	_	Gloss=Irak
 26	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
@@ -294,7 +294,7 @@
 20	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	21	subj	_	Gloss=Irak
 21	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	19	comp:obj	_	Gloss=XX
 22	yi	yi	VERB	_	_	21	comp:aux	_	Gloss=XX
-23	wà	wà	ADP	_	Case=Dat	22	comp:obl	_	Gloss=XX
+23	wà	wà	ADP	_	Case=Dat	22	comp:obl	_	Gloss=Dat
 24	Kùwât	Kùwât	PROPN	_	_	23	comp:obj	_	Gloss=Koweit
 25	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
@@ -312,7 +312,7 @@
 10	ƙàwànceː	ƙàwànceː	NOUN	_	Gender=Masc	9	mod	_	Gloss=coalition.Masc
 11	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	8	comp:obj	_	Gloss=Prog.Rel
 12	kai	kai	VERB	_	_	11	comp:aux	_	Gloss=reach/carry_to
-13	wà	wà	ADP	_	_	12	comp:obl	_	Gloss=XX
+13	wà	wà	ADP	_	Case=Dat	12	comp:obl	_	Gloss=Dat
 14	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	13	comp:obj	_	Gloss=Irak
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	7	mod@relcl	_	Gloss=REL.Sing
@@ -328,7 +328,7 @@
 26	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=COMP|wordform=da
 27	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	26	comp:obj	_	Gloss=4.Perf.Rel|wordform=aka
 28	sâː	sâː	VERB	_	_	27	comp:aux	_	Gloss=put
-29	wà	wà	ADP	_	_	28	comp:obl	_	Gloss=XX
+29	wà	wà	ADP	_	Case=Dat	28	comp:obl	_	Gloss=Dat
 30	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	29	comp:obj	_	Gloss=Irak
 31	daːmar̃	daːmaː	NOUN	_	_	24	comp:obj@T	_	Gloss=opportunity.Fem.Cons
 32	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	31	comp:obj	_	Gloss=do.Vnoun.Masc.Cons
@@ -447,7 +447,7 @@
 49	tà	tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	48	mod	_	Gloss=3Fem.Gen
 50	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	43	mod@relcl	_	Gloss=3Plur.Perf.Rel
 51	kai	kai	VERB	_	_	50	comp:aux	_	Gloss=reach/carry_to
-52	wà	wà	ADP	_	Case=Dat	51	comp:obl	_	Gloss=XX
+52	wà	wà	ADP	_	Case=Dat	51	comp:obl	_	Gloss=Dat
 53	ƙasar̃	ƙasaː	NOUN	_	_	54	mod@desc	_	Gloss=XX
 54	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	52	comp:obj	_	Gloss=Irak|SpaceAfter=No
 55	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -468,7 +468,7 @@
 12	jaːmi'àr̃	jaːmi'àː	NOUN	_	Definite=Def|Gender=Fem	11	mod	_	Gloss=university.Fem.Def
 13	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	9	parataxis@conj	_	Gloss=3Plur.Perf.Rel
 14	yi	yi	VERB	_	_	13	comp:aux	_	Gloss=XX
-15	wà	wà	ADP	_	Case=Dat	14	comp:obl	_	Gloss=XX
+15	wà	wà	ADP	_	Case=Dat	14	comp:obl	_	Gloss=Dat
 16	wurîn	wurîː	NOUN	_	Definite=Def|Gender=Masc	15	comp:obj	_	Gloss=place.Masc.Def
 17	ƙawanyàː	ƙawanyàː	NOUN	_	ExtPos=NOUN|Gender=Fem	14	comp:pred	_	Gloss=circle.Fem|SpaceAfter=No
 18	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
@@ -540,7 +540,7 @@
 # text = dàgà ƙàrsheː sai ɗàːlìbân sukà jaː dà baːya sukà koːmàː cikin hàr̃aːbàr̃ jaːmi'àr̃.
 1	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=from
 2	ƙàrsheː	ƙàrsheː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=end.Masc
-3	sai	sai	ADV	_	_	5	mod	_	Gloss=XX
+3	sai	sai	ADV	_	_	5	mod	_	Gloss=then
 4	ɗàːlìbân	ɗaːlìbiː	NOUN	_	Definite=Def|Number=Plur	5	subj	_	Gloss=student.Plur.Def
 5	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
 6	jaː	jaː	VERB	_	_	5	comp:aux	_	Gloss=pull
@@ -574,7 +574,7 @@
 17	kuma	kuma	PART	_	_	16	discourse@top	_	Gloss=also
 18	Kanòː	Kanòː	PROPN	_	_	15	conj:coord	_	Gloss=Kanòː|SpaceAfter=No
 19	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-20	tòː	tòː	INTJ	_	_	32	discourse	_	Gloss=XX
+20	tòː	tòː	INTJ	_	_	32	discourse	_	Gloss=well
 21	àmmaː	àmmaː	CCONJ	_	_	32	cc	_	Gloss=but
 22	kiràn	kir-	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	32	subj	_	Gloss=call.Vnoun.Masc.Def
 23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=COMP|wordform=da

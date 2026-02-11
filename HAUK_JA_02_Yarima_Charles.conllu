@@ -178,9 +178,9 @@
 # sent_id = 02_Yarima_Charles__6
 # text = tòː àmmaː bàː dukkàn abuːbuwàn jîn daːɗin ràːyuwaː dà kèː cikin gidân kèː aikìː kàmar̃ yaddà ya kàmaːtà ba.
 # text_ortho = Tòː àmmaː bàː dukkàn abuːbuwàn jîn daːɗin ràːyuwaː dà kèː cikin gidân kèː aikìː kàmar̃ yaddà ya kàmaːtà ba.
-1	tòː	tòː	INTJ	_	_	5	discourse	_	Gloss=XX
-2	àmmaː	àmmaː	CCONJ	_	_	5	discourse	_	Gloss=XX
-3	bàː	bàː	PART	_	Polarity=Neg	5	mod	_	Gloss=XX
+1	tòː	tòː	INTJ	_	_	5	discourse	_	Gloss=well
+2	àmmaː	àmmaː	CCONJ	_	_	5	discourse	_	Gloss=but
+3	bàː	bàː	PART	_	PartType=Ill|Polarity=Neg	5	mod	_	Gloss=Neg
 4	dukkàn	dukkàn	DET	_	_	5	mod	_	Gloss=XX
 5	abuːbuwàn	àbù	NOUN	_	Definite=Cons|Number=Plur	0	root	_	Gloss=XX
 6	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	5	mod	_	Gloss=hear.Vnoun.Masc.Cons
@@ -287,9 +287,9 @@
 8	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	7	mod	_	Gloss=3Masc.Gen
 9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
 10	tàrbi	tarb-	VERB	_	_	9	comp:aux	_	Gloss=XX
-11	Yàr̃iːmà	Yàr̃iːmà	PROPN	_	_	10	comp:obj	_	Gloss=Yàr̃iːmà
+11	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=prince.Masc
 12	dà	da	CCONJ	_	_	13	cc	_	Gloss=and|wordform=da
-13	Gimbìyaː	Gimbìyaː	PROPN	_	_	11	conj:coord	_	Gloss=Gimbìyaː
+13	Gimbìyaː	gimbìyaː	NOUN	_	Gender=Fem	11	conj:coord	_	Gloss=princess.Fem
 14	à	à	ADP	_	_	10	comp:obl	_	Gloss=at
 15	fiːlin	fiːliː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:obj	_	Gloss=field.Masc.Cons
 16	jirgin	jirgiː	NOUN	_	Definite=Cons|Gender=Masc	15	mod	_	Gloss=vehicle.Masc.Cons
@@ -306,11 +306,11 @@
 3	yaːrinyàː	yaːrinyàː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=XX
 4	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
 5	miːƙàː	miːƙàː	VERB	_	_	4	comp:aux	_	Gloss=XX
-6	wà	wà	ADP	_	Case=Dat	5	comp:obl	_	Gloss=XX
-7	Yàr̃iːmà	Yàr̃iːmà	PROPN	_	_	6	comp:obj	_	Gloss=Yàr̃iːmà
+6	wà	wà	ADP	_	Case=Dat	5	comp:obl	_	Gloss=Dat
+7	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=prince.Masc
 8	fùrànnin	fùrànniː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:obj	_	Gloss=XX
 9	mar̃àːba	mar̃àːba	NOUN	_	Number=Plur	8	mod	_	Gloss=XX
-10	sai	sai	ADV	_	_	13	mod	_	Gloss=XX
+10	sai	sai	ADV	_	_	13	mod	_	Gloss=then
 11	mânyan	mânyai	ADJ	_	Definite=Cons|Number=Plur	12	mod	_	Gloss=XX
 12	bàːƙiː	bàːƙiː	NOUN	_	Number=Plur	13	subj	_	Gloss=XX
 13	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	4	parataxis@conj	_	Gloss=3Plur.Perf.Rel
@@ -328,7 +328,7 @@
 # sent_id = 02_Yarima_Charles__11a
 # text = tòː an dai ci àbinci irìː-irìː, màsu sâː bàːkiː miyau .
 # text_ortho = Tòː an dai ci àbinci irìː-irìː, màsu sâː bàːkiː miyau - àkwai shìnkaːfaː, da waːkeː, dà sàlâk, da sauran kaːyan marmariː.
-1	tòː	tòː	INTJ	_	_	2	discourse	_	Gloss=XX
+1	tòː	tòː	INTJ	_	_	2	discourse	_	Gloss=well
 2	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 3	dai	dai	PART	_	PartType=Top	2	discourse@top	_	Gloss=anyhow
 4	ci	ci	VERB	_	_	2	comp:aux	_	Gloss=XX
@@ -379,16 +379,16 @@
 15	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__13
-# text = to kàshèːgàriː sai Yàr̃iːmà dà uwar̃gidansà Gimbìyaː sukà taːshì zuwàː ƙasar̃ Kàmàr̃u.
+# text = tòː kàshèːgàriː sai Yàr̃iːmà dà uwar̃gidansà Gimbìyaː sukà taːshì zuwàː ƙasar̃ Kàmàr̃u.
 # text_ortho = To kàshèːgàriː sai Yàr̃iːmà dà uwar̃gidansà Gimbìyaː sukà taːshì zuwàː kasar ƙasar Kàmàr̃u.
-1	to	to	ADP	_	_	9	discourse	_	Gloss=XX
-2	kàshèːgàriː	kàshèːgàreː	ADV	_	Number=Plur	1	comp:obj	_	Gloss=XX
-3	sai	sai	ADV	_	_	9	mod	_	Gloss=XX
-4	Yàr̃iːmà	Yàr̃iːmà	PROPN	_	_	9	subj	_	Gloss=Yàr̃iːmà
+1	tòː	tòː	INTJ	_	_	9	discourse	_	Gloss=well
+2	kàshèːgàriː	kàshèːgàreː	ADV	_	Number=Plur	9	mod	_	Gloss=XX
+3	sai	sai	ADV	_	_	9	mod	_	Gloss=then
+4	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	9	subj	_	Gloss=prince.Masc
 5	dà	dà	CCONJ	_	_	6	cc	_	Gloss=and
 6	uwar̃gidan	uwar̃gidaː	NOUN	_	Definite=Cons|Number=Plur	4	conj:coord	_	Gloss=XX|SpaceAfter=No|wordform=uwar̃gidansà
 7	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	6	mod	_	Gloss=3Masc.Gen
-8	Gimbìyaː	Gimbìyaː	PROPN	_	_	6	conj:appos	_	Gloss=Gimbìyaː
+8	Gimbìyaː	gimbìyaː	NOUN	_	Gender=Fem	6	conj:appos	_	Gloss=princess.Fem
 9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
 10	taːshì	taːs-	VERB	_	_	9	comp:aux	_	Gloss=set_off
 11	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:obl	_	Gloss=towards
@@ -402,7 +402,7 @@
 1	à	à	ADP	_	_	5	mod	_	Gloss=at
 2	can	can	ADV	_	Deixis=Remt|PronType=Dem	1	comp:obj	_	Gloss=Remt
 3	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
-4	Yàr̃iːmà	Yàr̃iːmà	PROPN	_	_	5	subj	_	Gloss=Yàr̃iːmà
+4	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	5	subj	_	Gloss=prince.Masc
 5	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 6	zìyàr̃ci	zìyàr̃caː	VERB	_	_	5	comp:aux	_	Gloss=XX
 7	gandun	ganduː	NOUN	_	Definite=Cons|Gender=Masc	6	mod	_	Gloss=XX
@@ -507,7 +507,7 @@
 4	kash	kash	INTJ	_	_	8	discourse	_	Gloss=alas|SpaceAfter=No
 5	!	!	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 6	–	–	PUNCT	_	_	4	punct	_	Gloss=PUNCT
-7	Yàr̃iːmà	Yàr̃iːmà	PROPN	_	_	8	subj	_	Gloss=Yàr̃iːmà
+7	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	8	subj	_	Gloss=prince.Masc
 8	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	0	root	_	Gloss=3Masc.Perf.Neg
 9	ga	ganiː	VERB	_	_	8	comp:aux	_	Gloss=see
 10	koː	koː	ADP	_	ExtPos=ADV	12	mod	_	Gloss=even|Idiom=Yes
