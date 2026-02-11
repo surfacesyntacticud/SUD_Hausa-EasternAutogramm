@@ -395,7 +395,7 @@
 16	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	18	subj	_	Gloss=government.Fem.Cons
 17	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	16	mod	_	Gloss=Nigeria
 18	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	0	root	_	Gloss=3Fem.Perf.Rel
-19	bùkàːci	bùkàːci	VERB	_	_	18	comp:obj	_	Gloss=XX
+19	bùkàːci	bukaːt-	VERB	_	_	18	comp:obj	_	Gloss=require
 20	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	21	subj	_	Gloss=Great_Britain
 21	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	19	comp:obj	_	Gloss=3Fem.Sub
 22	miːƙàː	miːƙ-	VERB	_	_	21	comp:aux	_	Gloss=hand_over
@@ -467,8 +467,8 @@
 40	aikàtaː	aikat-	VERB	_	_	39	comp:aux	_	Gloss=do|SpaceAfter=No
 41	.	.	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 
-# sent_id = 01_Umaru_Dikko__15
-# text = ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà, yanà mài cêːwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː.
+# sent_id = 01_Umaru_Dikko__15a
+# text = ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà ,
 # text_ortho = Ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà, yanà mài cêwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː.
 1	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
 2	cèː	cêː	VERB	_	Gender=Fem	1	comp:aux	_	Gloss=be.Fem
@@ -487,21 +487,25 @@
 15	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	14	comp:obj	_	Gloss=ProxS
 16	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	15	conj:appos	_	Gloss=Great_Britain|SpaceAfter=No
 17	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-18	yanà	nà	AUX	_	Aspect=Prog|ExtPos=SCONJ|Gender=Masc|Person=3	0	root	_	Gloss=XX|Idiom=Yes
-19	mài	mài	PART	_	Number=Sing|PartType=Der	18	comp:pred	_	Gloss=owner/doer_of.Sing|InIdiom=Yes
-20	cêːwaː	cê	VERB	_	ExtPos=NOUN|Gender=Fem	19	compound	_	Gloss=say.Vnoun.Fem|InIdiom=Yes|wordform=cêwaː
-21	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	20	comp:obj	_	Gloss=3Masc.Fut
-22	kasànceː	kasant-	VERB	_	_	21	comp:aux	_	Gloss=happen
-23	cikin	cikin	ADP	_	_	22	comp:obl	_	Gloss=inside
-24	wani	wani	DET	_	Definite=Spec|Gender=Masc	26	det	_	Gloss=some.Masc.Spec
-25	mùmmuːnan	mùmmuːnaː	ADJ	_	Definite=Cons|Gender=Masc	26	mod	_	Gloss=ugly.Masc.Cons
-26	haɗàr̃iː	haɗàr̃iː	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=XX
-27	ìdan	ìdan	SCONJ	_	_	21	mod	_	Gloss=if
-28	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	27	comp:obj	_	Gloss=3Masc.Perf.Rel
-29	koːmàː	koːm-	VERB	_	_	28	comp:aux	_	Gloss=go_(back)_to
-30	gidaː	gidaː	NOUN	_	Gender=Masc	29	comp:obj@G	_	Gloss=home.Masc
-31	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	30	mod	_	Gloss=Nigeria|SpaceAfter=No
-32	.	.	PUNCT	_	_	18	punct	_	Gloss=PUNCT
+
+# sent_id = 01_Umaru_Dikko__15b
+# text = yanà mài cêːwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː .
+# text_ortho = Ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà, yanà mài cêwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː.
+1	yanà	nà	AUX	_	Aspect=Prog|ExtPos=SCONJ|Gender=Masc|Person=3	0	root	_	Gloss=XX|Idiom=Yes
+2	mài	mài	PART	_	Number=Sing|PartType=Der	1	comp:pred	_	Gloss=owner/doer_of.Sing|InIdiom=Yes
+3	cêːwaː	cê	VERB	_	ExtPos=NOUN|Gender=Fem	2	compound	_	Gloss=say.Vnoun.Fem|InIdiom=Yes|wordform=cêwaː
+4	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	3	comp:obj	_	Gloss=3Masc.Fut
+5	kasànceː	kasant-	VERB	_	_	4	comp:aux	_	Gloss=happen
+6	cikin	cikin	ADP	_	_	5	comp:obl	_	Gloss=inside
+7	wani	wani	DET	_	Definite=Spec|Gender=Masc	9	det	_	Gloss=some.Masc.Spec
+8	mùmmuːnan	mùmmuːnaː	ADJ	_	Definite=Cons|Gender=Masc	9	mod	_	Gloss=ugly.Masc.Cons
+9	haɗàr̃iː	haɗàr̃iː	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=XX
+10	ìdan	ìdan	SCONJ	_	_	4	mod	_	Gloss=if
+11	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	10	comp:obj	_	Gloss=3Masc.Perf.Rel
+12	koːmàː	koːm-	VERB	_	_	11	comp:aux	_	Gloss=go_(back)_to
+13	gidaː	gidaː	NOUN	_	Gender=Masc	12	comp:obj@G	_	Gloss=home.Masc
+14	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	13	mod	_	Gloss=Nigeria|SpaceAfter=No
+15	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko__16
 # text = à wàncan loːkàcîn dà ya kai ƙaːrar̃ neːman à baː shì mafakaː à nân Bìr̃tàniyà, Ùːmar̃ù Dikkò cêːwaː ya yi, " in dàː zân koːmàː Nàjeːr̃iyàː, jàmaꞌàː zaː'à taːràː sù yi kallon loːkàcîn dà zaː'à sâː soːjà sù bindìgeː ni. ".
