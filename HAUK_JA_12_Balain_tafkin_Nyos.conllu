@@ -362,11 +362,11 @@
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyhow
 3	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 4	anàː	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=4.Prog|wordform=and
-5	tsòːron	tsòːroː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:aux	_	Gloss=XX
+5	tsòːron	tsòːroː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:aux	_	Gloss=fear.Masc.Cons
 6	ƙiːlà	ƙiːlà	ADV	_	_	9	mod	_	Gloss=maybe
 7	gâs	gâs	NOUN	_	Definite=Cons|Gender=Masc	9	subj	_	Gloss=gas.Masc
 8	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	7	det	_	Gloss=Def
-9	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	4	parataxis@conj	_	Gloss=3Masc.Sub
+9	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	5	comp:obj	_	Gloss=3Masc.Sub
 10	ƙaːrà	ƙaːr-	VERB	_	_	9	comp:aux	_	Gloss=increase
 11	ɓulɓulôːwaː	ɓulɓul-	VERB	_	ExtPos=NOUN|Gender=Fem	10	comp:obj	_	Gloss=gush.Vnoun.Fem
 12	cikin	cikin	ADP	_	_	10	comp:obl	_	Gloss=inside
