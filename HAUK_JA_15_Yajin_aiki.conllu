@@ -88,7 +88,7 @@
 25	jeː	jeː	VERB	_	_	24	comp:aux	_	Gloss=go
 26	màkàr̃àntun	makar̃antaː	NOUN	_	Number=Plur	25	comp:obl	_	Gloss=school.Plur.Cons|SpaceAfter=No|wordform=màkàr̃àntunsù
 27	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	26	mod	_	Gloss=3Plur.Gen
-28	ba	ba	PART	_	Polarity=Neg	25	mod	_	Gloss=XX|SpaceAfter=No
+28	ba	ba	PART	_	PartType=Ill|Polarity=Neg	25	mod	_	Gloss=Neg|SpaceAfter=No
 29	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__5
@@ -160,7 +160,7 @@
 34	ƙoːdagoː	ƙoːdagoː	NOUN	_	Gender=Masc	33	compound	_	Gloss=labour.Masc
 35	ta	na	PART	_	Case=Gen|Gender=Fem	31	mod	_	Gloss=Gen.Fem
 36	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	35	comp:obj	_	Gloss=year.Fem.Cons
-37	nân	nân	DET	_	Deixis=Prox|PronType=Dem	36	det	_	Gloss=this
+37	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	36	det	_	Gloss=ProxS
 38	wajen	wajen	SCONJ	_	_	27	mod	_	Gloss=so_as_to
 39	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	38	comp:obj	_	Gloss=do.Vnoun.Masc.Cons
 40	kiràn	kir-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	39	comp:pred	_	Gloss=call.Vnoun.Masc.Cons
@@ -197,7 +197,7 @@
 15	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	13	mod	_	Gloss=mouth.Masc
 16	ɗaya	ɗaya	NUM	_	_	15	mod:num	_	Gloss=one|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-18	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	11	mod@relcl	_	Gloss=that.Masc
+18	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	11	mod@relcl	_	Gloss=REL.Sing
 19	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	18	comp:obj	_	Gloss=3Masc.Fut
 20	tattàunà	tattaun-	VERB	_	_	19	comp:aux	_	Gloss=discuss
 21	tsaːrìn	tsaːrìː	NOUN	_	Definite=Cons|Gender=Masc	20	comp:obj	_	Gloss=system.Masc
@@ -413,7 +413,7 @@
 14	danganèː	danganèː	NOUN	_	ExtPos=ADP|Gender=Masc	13	comp:obj	_	Gloss=relation.Masc|Idiom=Yes
 15	dà	dà	ADP	_	_	14	compound	_	Gloss=with|InIdiom=Yes
 16	kafà	kaf-	VERB	_	Aspect=Perf|Gender=Masc|Person=2	14	comp:obj	_	Gloss=set_up
-17	wannàn	wannàn	DET	_	Deixis=Prox|Number=Sing|PronType=Dem	18	det	_	Gloss=Prox.Sing
+17	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	18	det	_	Gloss=ProxS.Sing
 18	kwàmìtîn	kwàmìtiː	NOUN	_	Definite=Def|Gender=Masc	16	mod	_	Gloss=committee.Masc.Def|SpaceAfter=No
 19	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
@@ -598,7 +598,7 @@
 16	ta	na	PART	_	Case=Gen|Gender=Fem	13	mod	_	Gloss=Gen.Fem
 17	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	16	comp:obj	_	Gloss=Nìːjâr̃|SpaceAfter=No|wordform=Nijaːr
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-19	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	12	mod@relcl	_	Gloss=that.Plur|wordform=wadandal
+19	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	12	mod@relcl	_	Gloss=REL.Plur|wordform=wadandal
 20	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	19	comp:obj	_	Gloss=3Plur.Perf.Rel
 21	rasà	ras-	VERB	_	_	20	comp:aux	_	Gloss=lose
 22	ayyukàn	aykìː	NOUN	_	Number=Plur	21	comp:obj	_	Gloss=job.Plur.Cons|SpaceAfter=No|wordform=ayyukànsù
@@ -683,7 +683,7 @@
 12	dòːmin	dòːmin	SCONJ	_	_	9	mod	_	Gloss=in_order_to
 13	shaːwoː	shaːwoː	VERB	_	_	12	comp:obj	_	Gloss=deal_with
 14	kân	kân	ADP	_	_	13	comp:obl	_	Gloss=on
-15	wannàn	wannàn	DET	_	Deixis=Prox|Number=Sing|PronType=Dem	16	det	_	Gloss=Prox.Sing
+15	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	16	det	_	Gloss=ProxS.Sing
 16	zàngà-zangàr̃	zàngà-zangàː	NOUN	_	_	14	comp:obj	_	Gloss=demonstration.Fem.Def
 17	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	0	root	_	Gloss=3Fem.Perf.Rel
 18	nuːnà	nuːn-	VERB	_	_	17	comp:aux	_	Gloss=show
@@ -696,6 +696,6 @@
 25	daɗèː	daɗ-	VERB	_	_	24	comp:aux	_	Gloss=XX
 26	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	25	mod	_	Gloss=3Masc.Prog|wordform=yana
 27	kâi	kâi	NOUN	_	Gender=Masc	26	comp:aux	_	Gloss=top.Masc
-28	ba	ba	PART	_	Polarity=Neg	25	mod	_	Gloss=XX
+28	ba	ba	PART	_	PartType=Ill|Polarity=Neg	25	mod	_	Gloss=Neg
 29	.	.	PUNCT	_	_	17	mod	_	Gloss=PUNCT
 

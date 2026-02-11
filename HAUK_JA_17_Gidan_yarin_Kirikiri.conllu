@@ -32,10 +32,10 @@
 24	màtàːkan	mataːkiː	NOUN	_	Definite=Cons|Number=Plur	23	comp:obj	_	Gloss=step.Plur.Cons
 25	tsàr̃oː	tsàr̃oː	NOUN	_	Gender=Masc	24	mod	_	Gloss=security.Masc|SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
-27	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	21	mod@relcl	_	Gloss=that.Masc
+27	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	21	mod@relcl	_	Gloss=REL.Sing
 28	kuma	kuma	PART	_	_	29	discourse@top	_	Gloss=also
 29	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	27	comp:obj	_	Gloss=Prog.Rel
-30	can	can	ADV	_	PronType=Dem	29	comp:pred	_	Gloss=over_there
+30	can	can	ADV	_	Deixis=Remt|PronType=Dem	29	comp:pred	_	Gloss=Remt
 31	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	32	mod@desc	_	Gloss=city.Masc.Cons
 32	Ìkko	Ìkko	PROPN	_	_	30	conj:appos	_	Gloss=Lagos|SpaceAfter=No|wordform=Ikko
 33	,	,	PUNCT	_	_	34	punct	_	Gloss=PUNCT
@@ -48,7 +48,7 @@
 40	fìye	fi	VERB	_	ExtPos=ADV|VerbForm=Stat	38	mod	_	Gloss=exceed.Stat
 41	dà	dà	ADP	_	_	40	comp:obl	_	Gloss=with|wordform=da
 42	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	41	comp:obj	_	Gloss=quantity.Masc.Cons
-43	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	42	mod	_	Gloss=that.Plur|wordform=wadandal
+43	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	42	mod	_	Gloss=REL.Plur|wordform=wadandal
 44	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	43	mod@relcl	_	Gloss=3Masc.Perf.Rel
 45	kàmaːtà	kamaːt-	VERB	_	_	44	comp:aux	_	Gloss=be_appropriate
 46	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	45	comp:obj@agent	_	Gloss=3Plur.Sub
@@ -174,7 +174,7 @@
 9	dukkàn	dukkàn	DET	_	_	10	det	_	Gloss=XX
 10	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	8	mod	_	Gloss=child.Plur.Cons|wordform=yan
 11	fur̃sunoːnîn	fur̃sùnà	NOUN	_	Definite=Def	10	compound	_	Gloss=prison.Plur.Def
-12	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=XX
+12	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=COMP
 13	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	12	comp:obj	_	Gloss=Prog.Rel
 14	jiràn	jiraː	VERB	_	Definite=Def|Gender=Masc	13	comp:aux	_	Gloss=wait.Vnoun.Masc.Cons
 15	à	yà	AUX	_	Mood=Sub|Person=4	14	comp:obj	_	Gloss=4.Sub
@@ -349,7 +349,7 @@
 
 # sent_id = 17_Gidan_yarin_Kirikiri__9b
 # text = waɗàndà maː kèː barcîn sunàː yînsà neː à bisà dàɓeː sabòːdà baː'à baː sù bar̃gunàː, suː kuma baːsàː iyà sàyeː dà kânsù.
-1	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	5	subj	_	Gloss=that.Plur|wordform=wadandal
+1	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	5	subj	_	Gloss=REL.Plur|wordform=wadandal
 2	maː	maː	PART	_	_	1	discourse@top	_	Gloss=XX
 3	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	1	mod@relcl	_	Gloss=Prog.Rel
 4	barcîn	barciː	NOUN	_	Definite=Def|Gender=Masc	3	comp:aux	_	Gloss=sleep.Masc.Def
@@ -490,7 +490,7 @@
 8	cêːwaː	cêː	VERB	_	Gender=Fem	7	comp:obj	_	Gloss=say.Vnoun.Fem
 9	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=quantity.Masc.Cons
 10	àbincîn	àbinciː	NOUN	_	Definite=Cons|Gender=Masc	9	mod	_	Gloss=food.Masc.Def
-11	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=XX
+11	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=COMP
 12	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	11	comp:obj	_	Gloss=4.Prog.Rel|wordform=akề
 13	bâi	baː	VERB	_	_	12	comp:aux	_	Gloss=give
 14	wà	wà	ADP	_	Case=Dat	13	comp:obl	_	Gloss=XX
@@ -498,7 +498,7 @@
 16	samsam	samsan	IDEO	_	_	17	mod	_	Gloss=at_all
 17	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	12	conj:coord	_	Gloss=3Masc.Perf.Neg
 18	ìsa	is-	VERB	_	_	17	comp:aux	_	Gloss=be_sufficient
-19	ba	ba	PART	_	Polarity=Neg	18	mod	_	Gloss=XX
+19	ba	ba	PART	_	PartType=Ill|Polarity=Neg	18	mod	_	Gloss=Neg
 20	ta	ta	ADP	_	_	18	mod	_	Gloss=via
 21	koːwànè	koːwànè	DET	_	Gender=Masc	22	det	_	Gloss=each.Masc
 22	haːliː	haːliː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=circumstance.Masc|SpaceAfter=No
@@ -605,7 +605,7 @@
 28	kàmar̃	kàmar̃	ADP	_	_	25	comp:obj	_	Gloss=like|wordform=kaːrmar
 29	ciːwòn	ciːwòː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	Gloss=illness.Masc.Cons
 30	fùkaː	fùkaː	NOUN	_	_	29	compound	_	Gloss=tuberculosis
-31	ba	ba	PART	_	Polarity=Neg	28	mod	_	Gloss=XX|SpaceAfter=No
+31	ba	ba	PART	_	PartType=Ill|Polarity=Neg	28	mod	_	Gloss=Neg|SpaceAfter=No
 32	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 17_Gidan_yarin_Kirikiri__16
@@ -665,7 +665,7 @@
 17	bàː	bàː	PART	_	Polarity=Neg	18	mod	_	Gloss=XX
 18	àbin	àbiː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:pred	_	Gloss=thing.Masc.Cons
 19	màːmaːkìː	màːmaːkìː	NOUN	_	Gender=Masc	18	mod	_	Gloss=wonder.Masc
-20	ba	ba	PART	_	Polarity=Neg	18	mod	_	Gloss=XX
+20	ba	ba	PART	_	PartType=Ill|Polarity=Neg	18	mod	_	Gloss=Neg
 21	nèː	neː	AUX	_	_	10	conj:coord	_	Gloss=be
 22	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	dislocated@subj	_	Gloss=seen.Vnoun.Masc.Cons
 23	yaddà	yaddà	ADV	_	PronType=Rel	22	comp:obj	_	Gloss=how
@@ -697,7 +697,7 @@
 5	bàtà	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Polarity=Neg	0	root	_	Gloss=3Fem.Perf.Neg
 6	cêː	cêː	VERB	_	_	5	comp:aux	_	Gloss=say
 7	koːmeː	koːmeː	PRON	_	PronType=Ind	6	comp:obj	_	Gloss=XX
-8	ba	ba	PART	_	Polarity=Neg	6	mod	_	Gloss=XX
+8	ba	ba	PART	_	PartType=Ill|Polarity=Neg	6	mod	_	Gloss=Neg
 9	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	6	comp:obl	_	Gloss=join.Stat
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with
 11	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	Gloss=report.Masc.Defː|SpaceAfter=No
