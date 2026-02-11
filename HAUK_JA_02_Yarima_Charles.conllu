@@ -12,7 +12,7 @@
 9	Yâmma	yâmma	ADV	_	_	8	comp:obj	_	Gloss=west
 
 # sent_id = 02_Yarima_Charles__2
-# text = gà mafìː yawancin ꞌyan Nàːjeːr̃iyàː, ɓullôːwar̃ jirgin ruwân nan mài suːnaː « Britannia » à gaːɓàr̃ Tèːkun Ìkko kwaːnan baːya, ita cèː àlaːmàː ta farkoː dà ta nuːnà cêːwaː 'yan gidan sàrautàr̃ Bìrtaːniyàː sunàː zìyaːr̃àr̃ Nàːjeːr̃iyàː.
+# text = gà mafìː yawancin ꞌyan Nàːjeːr̃iyàː, ɓullôːwar̃ jirgin ruwân nan mài suːnaː « Britannia » à gaːɓàr̃ Tèːkun Ìkko kwaːnan baːya, ita cèː àlaːmàː ta farkoː dà ta nuːnà cêːwaː 'yan gidan sàrautàr̃ Bìrtaːniyà sunàː zìyaːr̃àr̃ Nàːjeːr̃iyàː.
 # text_ortho = Gàː mafìː yawancin ꞌyan Nàːjeːr̃iyàː, ɓullôːwar jirgin ruwân nan mài suːnaː « Britannia » à gaːɓàr̃ tèːkun Ìkko kwaːnan baːya, ita cèː àlaːmàː ta farkoː dà ta nuːnà cêːwaː 'yan gidan sàrautàr̃ Bìrtaːniyàː sunàː zìyaːr̃àr̃ Nàːjeːr̃iyàː.
 1	gà	gà	ADP	_	_	24	mod	_	Gloss=to
 2	mafìː	mafìː	PART	_	PartType=Der	1	comp:obj	_	Gloss=exceeding_in
@@ -20,7 +20,7 @@
 4	ꞌyan	ꞌyan	ADJ	_	_	3	mod	_	Gloss=XX
 5	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	4	compound	_	Gloss=Nigeria|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-7	ɓullôːwar̃	ɓullôːwaː	NOUN	_	Definite=Cons|Number=Plur	24	subj	_	Gloss=XX|wordform=ɓullôːwar
+7	ɓullôːwar̃	ɓull-	NOUN	_	Definite=Cons	24	subj	_	Gloss=appear.Vnoun.Fem.Cons|wordform=ɓullôːwar
 8	jirgin	jirgiː	NOUN	_	Definite=Cons|Gender=Masc	7	mod	_	Gloss=vehicle.Masc.Cons
 9	ruwân	ruwaː	NOUN	_	Definite=Cons|Gender=Masc	8	compound	_	Gloss=water.Masc.Cons
 10	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	8	det	_	Gloss=ProxH
@@ -30,27 +30,27 @@
 14	Britannia	Britannia	PROPN	_	_	12	mod	_	Gloss=Britannia
 15	»	»	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 16	à	à	ADP	_	_	7	mod	_	Gloss=at
-17	gaːɓàr̃	gaːɓàː	NOUN	_	Definite=Cons|Gender=Fem	16	comp:obj	_	Gloss=XX
+17	gaːɓàr̃	gaːɓàː	NOUN	_	Definite=Cons|Gender=Fem	16	comp:obj	_	Gloss=shore.Fem.Cons
 18	Tèːkun	tèːku	NOUN	_	Definite=Cons|Gender=Fem	17	mod	_	Gloss=sea.Fem.Cons|wordform=tèːkun
 19	Ìkko	Ìkko	PROPN	_	_	18	mod	_	Gloss=Lagos
-20	kwaːnan	kwaːnaː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	7	mod	_	Gloss=XX
-21	baːya	baːya	ADV	_	_	20	mod	_	Gloss=back|SpaceAfter=No
+20	kwaːnan	kwaːnaː	NOUN	_	Definite=Cons|Gender=Masc	7	mod	_	Gloss=day.Masc.Cons
+21	baːya	baːya	ADV	_	_	20	compound	_	Gloss=back|SpaceAfter=No
 22	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 23	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	24	comp:pred	_	Gloss=3Fem.Nom
 24	cèː	neː	AUX	_	Gender=Fem	0	root	_	Gloss=be.Fem
-25	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	24	dislocated@comp	_	Gloss=XX
+25	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	24	dislocated@comp	_	Gloss=sign.Fem
 26	ta	na	PART	_	Case=Gen|Gender=Fem|Person=3	25	mod	_	Gloss=Gen.Fem
-27	farkoː	farkoː	NOUN	_	Gender=Masc	26	comp:obj	_	Gloss=XX
+27	farkoː	farkoː	NOUN	_	Gender=Masc	26	comp:obj	_	Gloss=beginning.Masc
 28	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=COMP
-29	ta	ta	AUX	_	Case=Gen|Gender=Fem	28	comp:obj	_	Gloss=XX
+29	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	28	comp:obj	_	Gloss=3Fem.Rel
 30	nuːnà	nuːn-	VERB	_	_	29	comp:obj	_	Gloss=show
 31	cêːwaː	cêːwaː	SCONJ	_	_	30	comp:obj	_	Gloss=COMP
 32	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	36	subj	_	Gloss=child.Plur.Cons
 33	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	32	compound	_	Gloss=house.Masc.Cons
-34	sàrautàr̃	sàrautàː	NOUN	_	Definite=Cons|Gender=Fem	32	mod	_	Gloss=XX
-35	Bìrtaːniyàː	Bìrtaːniyàː	PROPN	_	_	34	mod	_	Gloss=Bìrtaːniyàː
+34	sàrautàr̃	sàrautàː	NOUN	_	Definite=Cons|Gender=Fem	32	mod	_	Gloss=royalty.Fem.Cons
+35	Bìrtaːniyà	Bìrtaːniyà	PROPN	_	_	34	mod	_	Gloss=Great-Britain
 36	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	31	comp:obj	_	Gloss=3Plur.Prog
-37	zìyaːr̃àr̃	zìyaːr̃àː	NOUN	_	Definite=Cons|Gender=Fem	36	comp:aux	_	Gloss=XX
+37	zìyaːr̃àr̃	ziyaːr̃-	NOUN	_	Definite=Cons|Gender=Fem	36	comp:aux	_	Gloss=visit.Vnoun.Fem.Cons
 38	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	37	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 39	.	.	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 
