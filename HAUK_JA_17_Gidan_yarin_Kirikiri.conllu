@@ -32,7 +32,7 @@
 24	màtàːkan	mataːkiː	NOUN	_	Definite=Cons|Number=Plur	23	comp:obj	_	Gloss=step.Plur.Cons
 25	tsàr̃oː	tsàr̃oː	NOUN	_	Gender=Masc	24	mod	_	Gloss=security.Masc|SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
-27	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	21	mod@relcl	_	Gloss=REL.Sing
+27	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	21	mod@relcl	_	Gloss=REL.Masc
 28	kuma	kuma	PART	_	_	29	discourse@top	_	Gloss=also
 29	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	27	comp:obj	_	Gloss=Prog.Rel
 30	can	can	ADV	_	Deixis=Remt|PronType=Dem	29	comp:pred	_	Gloss=Remt
@@ -69,7 +69,7 @@
 7	na	na	PART	_	Case=Gen|PartType=Pred	4	conj:coord	_	Gloss=Gen
 8	kiːwòn	kiːwòː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=tending.Masc.Cons
 9	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	8	mod	_	Gloss=health.Fem
-10	duk	duk	SCONJ	_	_	4	mod	_	Gloss=XX
+10	duk	dukà	DET	_	PronType=Tot	4	det	_	Gloss=all
 11	à	à	ADP	_	_	3	comp:obj	_	Gloss=XX
 12	tàɓàrɓàre	taɓarɓar-	VERB	_	_	11	comp:obj	_	Gloss=get_out_of_control.Stat
 13	sukè	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3|Relative=Rel2	11	comp:cleft	_	Gloss=2Plur.Prog.Rel|SpaceAfter=No
@@ -91,7 +91,7 @@
 29	,	,	PUNCT	_	_	39	punct	_	Gloss=PUNCT
 30	yawancin	yawanciː	NOUN	_	Definite=Cons|Gender=Masc	39	subj	_	Gloss=majority.Masc.Cons|SpaceAfter=No|wordform=yawancinsù
 31	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	30	mod	_	Gloss=3Plur.Gen
-32	maː	maː	PART	_	_	30	discourse@top	_	Gloss=XX
+32	maː	maː	PART	_	_	30	discourse@top	_	Gloss=even
 33	màːsu	mài	PART	_	Number=Plur|PartType=Der	39	comp:pred	_	Gloss=owner/doer_of.Plur
 34	jiràn	jiraː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	33	compound	_	Gloss=wait.Vnoun.Masc.Cons
 35	à	yà	AUX	_	Mood=Sub|Person=4	34	comp:obj	_	Gloss=4.Sub
@@ -292,7 +292,7 @@
 # text = R̃àhoːtòn hakà maː yaː cêː irìn cùnkoːsôn dà kèː àkwai à kûr̃kukùn Ƙìr̃iƙìr̃i yaː har̃àmtà àmfàːniː dà gadàːjeː à cikinsà dòːmin rashìn ìsasshen fiːliː sai fa wasu kàɗan dàgà cikin tsàràrrûn dà kèː dà gaːliːhù.
 1	R̃àhoːtòn	r̃àhoːtòː	NOUN	_	_	4	subj	_	Gloss=report.Masc.Def
 2	hakà	hakà	ADV	_	_	4	mod	_	Gloss=thus
-3	maː	maː	PART	_	_	2	discourse@top	_	Gloss=XX
+3	maː	maː	PART	_	_	2	discourse@top	_	Gloss=even
 4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 5	cêː	cêː	VERB	_	_	4	comp:aux	_	Gloss=say
 6	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	14	subj	_	Gloss=type.Masc.Cons
@@ -350,7 +350,7 @@
 # sent_id = 17_Gidan_yarin_Kirikiri__9b
 # text = waɗàndà maː kèː barcîn sunàː yînsà neː à bisà dàɓeː sabòːdà baː'à baː sù bar̃gunàː, suː kuma baːsàː iyà sàyeː dà kânsù.
 1	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	5	subj	_	Gloss=REL.Plur|wordform=wadandal
-2	maː	maː	PART	_	_	1	discourse@top	_	Gloss=XX
+2	maː	maː	PART	_	_	1	discourse@top	_	Gloss=even
 3	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	1	mod@relcl	_	Gloss=Prog.Rel
 4	barcîn	barciː	NOUN	_	Definite=Def|Gender=Masc	3	comp:aux	_	Gloss=sleep.Masc.Def
 5	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog|wordform=sunaː
@@ -601,7 +601,7 @@
 24	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 25	tun	tun	ADP	_	_	21	mod	_	Gloss=since
 26	bàː	bàː	PART	_	PartType=Ill|Polarity=Neg	28	mod	_	Gloss=Neg
-27	maː	maː	PART	_	_	26	discourse@top	_	Gloss=XX
+27	maː	maː	PART	_	_	26	discourse@top	_	Gloss=even
 28	kàmar̃	kàmar̃	ADP	_	_	25	comp:obj	_	Gloss=like|wordform=kaːrmar
 29	ciːwòn	ciːwòː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	Gloss=illness.Masc.Cons
 30	fùkaː	fùkaː	NOUN	_	_	29	compound	_	Gloss=tuberculosis

@@ -194,7 +194,7 @@
 17	àddiːnìː	àddiːnìː	NOUN	_	Gender=Masc	16	mod	_	Gloss=religion.Masc
 18	à	à	ADP	_	_	14	mod	_	Gloss=at
 19	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	18	comp:obj	_	Gloss=Nigeria
-20	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	14	mod@relcl	_	Gloss=REL.Sing
+20	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	14	mod@relcl	_	Gloss=REL.Masc
 21	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	20	comp:obj	_	Gloss=3Masc.Perf.Rel
 22	saːmoː	saːm-	VERB	_	_	21	comp:aux	_	Gloss=get
 23	asaliː	asaliː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=origin.Masc
@@ -218,7 +218,7 @@
 41	àmmaː	àmmaː	CCONJ	_	_	43	discourse	_	Gloss=but
 42	Kir̃istoːciː	Kir̃istàː	NOUN	_	Number=Plur	43	subj	_	Gloss=Christian.Plur
 43	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	32	comp:pred	_	Gloss=3Plur.Perf
-44	fi	fi	VERB	_	_	43	comp:aux	_	Gloss=XX
+44	fi	fi	VERB	_	_	43	comp:aux	_	Gloss=exceed
 45	yawàː	yawàː	NOUN	_	Gender=Masc	44	comp:obj	_	Gloss=quantity.Masc
 46	à	à	ADP	_	_	44	mod	_	Gloss=at
 47	cikin	cikin	ADP	_	_	46	comp:obj	_	Gloss=inside|SpaceAfter=No|wordform=cikinsà
@@ -275,9 +275,9 @@
 21	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	19	comp:obj	_	Gloss=city.Masc.Cons
 22	jihàr̃	jihàr̃	NOUN	_	Gender=Fem	21	mod	_	Gloss=state.Fem.Cons|SpaceAfter=No
 23	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
-24	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	21	mod@relcl	_	Gloss=REL.Sing
+24	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	21	mod@relcl	_	Gloss=REL.Masc
 25	dàgà	dàgà	ADP	_	_	30	mod	_	Gloss=from
-26	bìsaːniː	bìsaːniː	NOUN	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	25	comp:obj	_	Gloss=moment(?).Masc
+26	bìsaːniː	bìsaːniː	ADV	_	_	25	comp:obj	_	Gloss=later
 27	kìːmaːnìn	kìːmaːnìː	ADV	_	Definite=Cons|Gender=Masc	28	mod	_	Gloss=XX
 28	mutàːneː	mùtûm	NOUN	_	Number=Plur	30	subj	_	Gloss=people.Plur
 29	tàmàːnin	tàmàːnin	NUM	_	_	28	mod:num	_	Gloss=eighty
@@ -416,7 +416,7 @@
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__12
 # text = Dâː maː dai rashìn jìtuwar̃ àddiːnìː tsàkaːnin 'yan kudancin Nàjeːr̃iyàː, waɗàndà akasàr̃insù mabìyaː àddiːnìn Kir̃istàː neː, dà kuma 'yan areːwacin ƙasâr̃, waɗàndà mafìː yawànsù Mùsùlmiː nèː , bàː bàːƙon àbù ba nèː.
 1	Dâː	dâː	ADV	_	_	37	mod	_	Gloss=XX
-2	maː	maː	PART	_	_	1	discourse@top	_	Gloss=XX
+2	maː	maː	PART	_	_	1	discourse@top	_	Gloss=even
 3	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyhow
 4	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	37	subj	_	Gloss=lack.Vnoun.Masc.Cons
 5	jìtuwar̃	jit-	NOUN	_	_	4	comp:obj	_	Gloss=tolerate.Vnoun.Fem.Cons
@@ -457,7 +457,7 @@
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__13
 # text = Wasu maː har̃ sukàn jingìnà ruːshèːwar̃ Jàmhuːr̃iyàː ta Farkoː à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sìttin dà shidà. dà kuma Jàmhuːr̃iyàː ta Biyu à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà ukù bìsàː rashìn jìtuwar̃ àddiːnìː.
 1	Wasu	wasu	PRON	_	_	4	subj	_	Gloss=XX
-2	maː	maː	PART	_	_	1	discourse@top	_	Gloss=XX
+2	maː	maː	PART	_	_	1	discourse@top	_	Gloss=even
 3	har̃	har̃	ADV	_	_	4	mod	_	Gloss=even
 4	sukàn	kàn	AUX	_	Aspect=Hab|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Hab
 5	jingìnà	jingìnà	VERB	_	_	4	mod	_	Gloss=precipitate
@@ -505,7 +505,7 @@
 4	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	8	subj	_	Gloss=child.Plur.Cons
 5	boːkòn	boːkòː	NOUN	_	Definite=Cons|Gender=Masc	4	compound	_	Gloss=XX
 6	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	4	mod	_	Gloss=Nigeria
-7	maː	maː	PART	_	_	4	discourse@top	_	Gloss=XX
+7	maː	maː	PART	_	_	4	discourse@top	_	Gloss=even
 8	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
 9	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:aux	_	Gloss=seen.Vnoun.Masc.Cons
 10	cêːwaː	cêːwaː	SCONJ	_	_	9	comp:obj	_	Gloss=COMP
@@ -533,7 +533,7 @@
 32	ƙasâr̃	ƙasaː	SCONJ	_	Definite=Def|Gender=Fem	30	conj:appos	_	Gloss=country.Fem.Def
 33	dà	dà	SCONJ	_	_	32	mod@relcl	_	Gloss=COMP
 34	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	33	comp:obj	_	Gloss=3Fem.Perf.Rel
-35	fi	fi	VERB	_	_	34	comp:aux	_	Gloss=XX
+35	fi	fi	VERB	_	_	34	comp:aux	_	Gloss=exceed
 36	koːwàcceː	koːwànneː	PRON	_	_	35	comp:obj	_	Gloss=anyone
 37	yawàn	yawàn	NOUN	_	Definite=Cons|Gender=Masc	35	mod	_	Gloss=quantity.Masc.Cons
 38	mutàːneː	mùtûm	NOUN	_	Number=Plur	37	mod	_	Gloss=people.Plur
