@@ -43,7 +43,7 @@
 27	farkoː	farkoː	NOUN	_	Gender=Masc	26	comp:obj	_	Gloss=beginning.Masc
 28	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=COMP
 29	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	28	comp:obj	_	Gloss=3Fem.Rel
-30	nuːnà	nuːn-	VERB	_	_	29	comp:obj	_	Gloss=show
+30	nuːnà	nuːn-	VERB	_	_	29	comp:aux	_	Gloss=show
 31	cêːwaː	cêːwaː	SCONJ	_	_	30	comp:obj	_	Gloss=COMP
 32	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	36	subj	_	Gloss=child.Plur.Cons
 33	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	32	compound	_	Gloss=house.Masc.Cons
@@ -224,7 +224,7 @@
 20	à	à	ADP	_	_	0	root	_	Gloss=at
 21	boːkitì	boːkitì	NOUN	_	_	20	comp:obj	_	Gloss=bucket.Fem
 22	neː	neː	PART	_	PartType=Foc	20	discourse@foc	_	Gloss=Emph
-23	akà	akà	AUX	_	Aspect=Perf|Person=4	20	comp:cleft	_	Gloss=XX
+23	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	20	comp:cleft	_	Gloss=4.Perf.Rel
 24	riƙà	riƙ-	VERB	_	_	23	comp:aux	_	Gloss=keep_doing
 25	ɗeːboː	ɗeːb-	VERB	_	_	24	comp:obj	_	Gloss=fetch
 26	matà	matà	PRON	_	Case=Dat|Gender=Fem|Person=3|PronType=Prs	25	comp:obl	_	Gloss=3Fem.Dat

@@ -221,7 +221,7 @@
 1	Kàmar̃	kàmar̃	ADP	_	_	7	mod	_	Gloss=like|wordform=Kàmar
 2	yaddà	yaddà	ADV	_	PronType=Rel	1	comp:obj	_	Gloss=how
 3	Hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Cons|Gender=Fem	4	subj	_	Gloss=agency.Fem.Def
-4	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	2	mod@relcl	_	Gloss=XX
+4	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	2	mod@relcl	_	Gloss=3Fem.Perf.Rel
 5	cèː	cêː	VERB	_	Gender=Fem	4	comp:aux	_	Gloss=be.Fem|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
@@ -236,7 +236,7 @@
 16	dà	dà	SCONJ	_	_	14	mod@relcl	_	Gloss=COMP
 17	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	16	comp:obj	_	Gloss=4.Perf.Rel
 18	yi	yi	VERB	_	_	17	comp:aux	_	Gloss=do
-19	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	18	compound:prt	_	Gloss=XX
+19	ta	ta	PART	_	Aspect=Iter	18	compound:prt	_	Gloss=Iter
 20	yîː	yi	VERB	_	Gender=Masc	18	comp:pred	_	Gloss=do.Vnoun.Masc
 21	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	20	mod	_	Gloss=there_is.Neg
 22	jîː	ji	VERB	_	ExtPos=NOUN|Gender=Masc	21	subj	_	Gloss=hear.Vnoun.Masc
@@ -348,7 +348,7 @@
 6	nasar̃àr̃	nasar̃àː	NOUN	_	Gender=Fem	5	comp:pred	_	Gloss=success.Fem.Cons
 7	ficèːwaː	fit-	VERB	_	Gender=Fem	6	mod	_	Gloss=get_through.Vnoun.Fem|SpaceAfter=No
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-9	tòː	tòː	INTJ	_	_	10	discourse	_	Gloss=XX
+9	tòː	tòː	INTJ	_	_	10	discourse	_	Gloss=well
 10	sukàn	kàn	AUX	_	Aspect=Hab|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Hab
 11	iyà	iy-	VERB	_	_	10	comp:aux	_	Gloss=be_able_to
 12	kaːsayar̃	kaːsay-	VERB	_	_	11	comp:obj	_	Gloss=excrete.Cau
@@ -372,7 +372,7 @@
 # text = Sai dai àmmaː wani loːkàcîn, ita r̃oːbàr̃ tanàː tsaːgèːwaː à cikin cikìn waɗàndà kèː ɗàuke dà ƙwaːyoːyîn, wandà kuma hakàn yanàː jaːwoː muːgùwar̃ mutuwàː.
 1	Sai	sai	ADV	_	_	9	mod	_	Gloss=XX
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyhow
-3	àmmaː	àmmaː	CCONJ	_	_	9	discourse	_	Gloss=XX
+3	àmmaː	àmmaː	CCONJ	_	_	9	discourse	_	Gloss=but
 4	wani	wani	DET	_	Definite=Spec|Gender=Masc	5	det	_	Gloss=some.Masc.Spec
 5	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	9	mod	_	Gloss=time.Masc.Def|SpaceAfter=No|wordform=loːkacin
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -446,7 +446,7 @@
 # sent_id = 14_Miyagun_kwayoyi__13
 # text = Hùkuːmàr̃ ta cèː wannàn kaːmà mutàːnên na baːya-baːyan nàn, yaː ƙaːrà yawàn ƙungiyoːyîn dà kèː fataucìn miyàːgun ƙwaːyoːyiː waɗàndà akà tar̃wàtsaː har̃ yà zuwàː bìyar̃, tun loːkàcîn dà akà kafà Hùkuːmàr̃ à farkon bàːra.
 1	Hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Cons|Gender=Fem	2	subj	_	Gloss=agency.Fem.Def
-2	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=XX
+2	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	0	root	_	Gloss=3Fem.Perf.Rel
 3	cèː	cêː	VERB	_	Gender=Fem	2	comp:aux	_	Gloss=be.Fem
 4	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	5	det	_	Gloss=ProxS.Sing
 5	kaːmà	kaːm-	VERB	_	_	11	comp:aux	_	Gloss=catch
@@ -590,7 +590,7 @@
 22	dà	dà	SCONJ	_	_	21	mod@relcl	_	Gloss=COMP
 23	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	22	comp:obj	_	Gloss=4.Prog.Rel|wordform=akề
 24	yi	yi	VERB	_	_	23	comp:aux	_	Gloss=do
-25	wà	wà	ADP	_	Case=Dat	24	comp:obl	_	Gloss=XX
+25	wà	wà	ADP	_	Case=Dat	24	comp:obl	_	Gloss=Dat
 26	wani	wani	DET	_	Definite=Spec|Gender=Masc	28	det	_	Gloss=some.Masc.Spec
 27	bàbban	bàbba	ADJ	_	Definite=Cons|Gender=Masc	28	mod	_	Gloss=big.Masc
 28	dillaːlin	dillaːliː	NOUN	_	Definite=Cons	25	comp:obj	_	Gloss=broker.Masc.Cons
@@ -772,7 +772,7 @@
 10	Oyakhilome	Oyakhilome	PROPN	_	_	8	mod	_	Gloss=Oyakhilome|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	indà	indà	ADV	_	PronType=Rel	5	mod	_	Gloss=where
-13	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	12	mod@relcl	_	Gloss=XX
+13	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	12	mod@relcl	_	Gloss=3Fem.Perf.Rel
 14	yi	yi	VERB	_	_	13	comp:aux	_	Gloss=do
 15	tir̃	tir̃	IDEO	_	_	14	comp:pred	_	Gloss=reject
 16	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=with

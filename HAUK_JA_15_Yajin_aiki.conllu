@@ -44,7 +44,7 @@
 3	jàr̃iːdàː	jàr̃iːdàː	NOUN	_	Gender=Masc	2	compound	_	Gloss=newspaper.Masc
 4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 5	faɗàː	faɗ-	VERB	_	_	4	comp:aux	_	Gloss=XX
-6	wà	wà	ADP	_	Case=Dat	5	comp:obl	_	Gloss=XX
+6	wà	wà	ADP	_	Case=Dat	5	comp:obl	_	Gloss=Dat
 7	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	9	mod@desc	_	Gloss=house.Masc.Cons
 8	r̃eːdiyòn	r̃eːdiyòː	NOUN	_	Definite=Cons|Gender=Masc	7	mod	_	Gloss=radio.Masc.Cons
 9	BBC	BBC	PROPN	_	Definite=Cons|Number=Plur	6	comp:obj	_	Gloss=BBC
@@ -113,7 +113,7 @@
 18	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 19	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	0	root	_	Gloss=3Fem.Nom
 20	cèː	neː	PART	_	Gender=Fem	19	discourse@foc	_	Gloss=be.Fem
-21	ta	ta	AUX	_	Aspect=Iter	19	comp:cleft	_	Gloss=XX
+21	ta	yaː	AUX	_	_	19	comp:cleft	_	Gloss=3Fem.Perf.Rel
 22	yi	yi	VERB	_	_	21	comp:aux	_	Gloss=do
 23	kiràn	kir-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	22	comp:pred	_	Gloss=call.Vnoun.Masc.Cons
 24	à	yà	AUX	_	Mood=Sub|Person=4	23	comp:obj	_	Gloss=4.Sub
@@ -269,7 +269,7 @@
 16	gwamnatì	gwamnatì	NOUN	_	Gender=Fem	17	subj	_	Gloss=government.Fem
 17	takèː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Relative=Rel	15	mod@relcl	_	Gloss=3Fem.Prog.Rel
 18	kashèː	kas-	VERB	_	_	17	comp:aux	_	Gloss=kill
-19	wà	wà	ADP	_	Case=Dat	18	comp:obl	_	Gloss=XX
+19	wà	wà	ADP	_	Case=Dat	18	comp:obl	_	Gloss=Dat
 20	ilìmiː	ilìmiː	NOUN	_	Gender=Masc	19	comp:obj	_	Gloss=education.Masc
 21	à	à	ADP	_	_	18	mod	_	Gloss=at
 22	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	21	comp:obj	_	Gloss=country.Fem.Def|SpaceAfter=No
@@ -585,8 +585,8 @@
 3	naː	na	PART	_	Case=Gen|Gender=Masc	1	mod	_	Gloss=Gen.Masc
 4	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	3	comp:obj	_	Gloss=3Plur.Gen
 5	kùwa	kùwa	PART	_	_	1	discourse@top	_	Gloss=XX
-6	na	na	AUX	_	Aspect=Perf|Number=Plur|Person=1	10	comp:pred	_	Gloss=XX
-7	nuːnà	nuːn-	VERB	_	_	6	comp:aux	_	Gloss=show
+6	na	na	PART	_	Case=Gen|Gender=Masc	10	comp:pred	_	Gloss=Gen.Masc
+7	nuːnà	nuːn-	VERB	_	_	6	comp:obj	_	Gloss=show
 8	goːyon	goːy-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:obj	_	Gloss=support.Vnoun.Masc.Cons
 9	baːyaː	baːyaː	NOUN	_	Gender=Masc	8	compound	_	Gloss=back.Masc
 10	nèː	neː	AUX	_	PartType=Foc	0	root	_	Gloss=be
@@ -607,7 +607,7 @@
 25	dà	dà	SCONJ	_	_	24	comp:obj	_	Gloss=COMP
 26	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	28	subj	_	Gloss=government.Fem.Cons|wordform=gwamnatin
 27	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	26	mod	_	Gloss=country.Fem.Def|wordform=kasàːr
-28	ta	na	AUX	_	Aspect=Perf|Gender=Fem|Person=3	25	comp:obj	_	Gloss=XX
+28	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	25	comp:obj	_	Gloss=3Fem.Perf.Rel
 29	yankè	yank-	VERB	_	_	28	comp:aux	_	Gloss=cut
 30	shaːwar̃àr̃	shaːwar̃àː	NOUN	_	Definite=Cons|Gender=Fem	29	comp:obj	_	Gloss=decision.Fem.Cons
 31	rufè	ruf-	VERB	_	_	30	mod	_	Gloss=close
@@ -649,7 +649,7 @@
 9	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	8	comp:obj	_	Gloss=3Plur.Cons
 10	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	6	comp:obj	_	Gloss=3Fem.Prog
 11	bâi	bâː	VERB	_	_	10	comp:aux	_	Gloss=give
-12	wà	wà	ADP	_	Case=Dat	11	comp:obl	_	Gloss=XX
+12	wà	wà	ADP	_	Case=Dat	11	comp:obl	_	Gloss=Dat
 13	ma'àikàtaː	ma'àikàciː	NOUN	_	Number=Plur	12	comp:obj	_	Gloss=worker.Plur
 14	'yan	ɗaː	ADJ	_	Definite=Cons|Number=Plur	13	mod	_	Gloss=child.Plur.Cons
 15	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	14	compound	_	Gloss=country.Plur.Cons
