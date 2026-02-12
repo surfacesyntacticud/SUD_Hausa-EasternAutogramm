@@ -58,21 +58,21 @@
 # text = yâːraː ƙanaːnàː dà kèː kân gadoːjiː na bir̃nin Ìkko sunàː tàllàn tarkòn ɓeːr̃aː, dà kamfàːyeː, dà agoːgunàn " Rolex" na jàbu à tsàːkaːnin cùnkoːson moːtoːci, duk sun daːkatar̃ dà tàllàce-tàllàcensù dòːmin sù yi kallon hàdàː-hadâr̃ dà takèː àukuwaː à bàːkin tèːkûn.
 # text_ortho = Yâːraː ƙanaːnàː dà kèː kân gadoːjiː na bir̃nin Ìkko sunàː tàllàn tarkòn ɓeːr̃aː, da kamfàːyeː, dà agoːgunàn ‘Rolex’ na jàbu à tsàːkaːnin cùnkoːson moːtoːci, duk sun daːkatar̃ dà tàllàce-tàllàcensù dòːmin sù yi kallon hàdàː-hadâr̃ da takèː àukuwaː à bàːkin tèːkûn.
 1	yâːraː	yaːròː	NOUN	_	Number=Plur	10	subj	_	Gloss=child.Plur
-2	ƙanaːnàː	ƙanaːnàː	ADJ	_	Number=Plur	1	mod	_	Gloss=XX
+2	ƙanaːnàː	ƙàramiː	ADJ	_	Number=Plur	1	mod	_	Gloss=small.Plur
 3	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 4	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel2	3	comp:obj	_	Gloss=Prog.Rel
 5	kân	kân	ADP	_	_	4	comp:pred	_	Gloss=on
-6	gadoːjiː	gadoːjiː	NOUN	_	Number=Plur	5	comp:obj	_	Gloss=XX
+6	gadoːjiː	gadàː	NOUN	_	Number=Plur	5	comp:obj	_	Gloss=bridge.Plur
 7	na	na	PART	_	Case=Gen|PartType=Pred	6	mod	_	Gloss=Gen
 8	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=city.Masc.Cons
 9	Ìkko	Ìkko	PROPN	_	_	8	mod	_	Gloss=Lagos
 10	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
-11	tàllàn	tàllà	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	10	comp:aux	_	Gloss=XX
-12	tarkòn	tarkòː	NOUN	_	Definite=Cons|Gender=Masc	11	mod	_	Gloss=XX
-13	ɓeːr̃aː	ɓeːr̃aː	NOUN	_	Gender=Fem	12	mod	_	Gloss=XX|SpaceAfter=No
+11	tàllàn	tàllà	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	10	comp:aux	_	Gloss=hawking.Masc.Cons
+12	tarkòn	tarkòː	NOUN	_	Definite=Cons|Gender=Masc	11	mod	_	Gloss=trap.Masc.Cons
+13	ɓeːr̃aː	ɓeːr̃aː	NOUN	_	Gender=Masc	12	mod	_	Gloss=rat.Masc|SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 15	dà	da	CCONJ	_	_	16	cc	_	Gloss=and|wordform=da
-16	kamfàːyeː	kamfàːyeː	NOUN	_	Number=Plur	12	conj:coord	_	Gloss=XX|SpaceAfter=No
+16	kamfàːyeː	kamfai	NOUN	_	Number=Plur	12	conj:coord	_	Gloss=underpants|SpaceAfter=No
 17	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 18	dà	dà	CCONJ	_	_	21	cc	_	Gloss=and
 19	agoːgunàn	àgoːgo	NOUN	_	Definite=Cons|Number=Plur	21	mod@desc	_	Gloss=watch.Plur.Cons
@@ -80,41 +80,41 @@
 21	Rolex	Rolex	PROPN	_	_	16	conj:coord	_	Gloss=Rolex|SpaceAfter=No
 22	"	"	PUNCT	_	_	21	punct	_	Gloss=PUNCT|wordform=’
 23	na	na	PART	_	Case=Gen|PartType=Pred	21	mod	_	Gloss=Gen
-24	jàbu	jàbu	ADJ	_	Number=Plur	23	comp:obj	_	Gloss=XX
+24	jàbu	jàbu	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=counterfeit.Masc
 25	à	à	ADP	_	_	11	mod	_	Gloss=at
-26	tsàːkaːnin	tsàːkaːnin	ADP	_	_	25	comp:obj	_	Gloss=XX
-27	cùnkoːson	cùnkoːsoː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:obj	_	Gloss=XX
-28	moːtoːci	moːtoːci	NOUN	_	Gender=Masc	27	mod	_	Gloss=XX|SpaceAfter=No
-29	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
-30	duk	duk	DET	_	_	31	mod	_	Gloss=XX
-31	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	10	parataxis@conj	_	Gloss=3Plur.Perf
-32	daːkatar̃	daːkat-	VERB	_	Definite=Cons|Gender=Fem	31	comp:aux	_	Gloss=XX
+26	tsàːkaːnin	tsàːkaːnin	ADP	_	_	25	comp:obj	_	Gloss=middle
+27	cùnkoːson	cùnkoːsoː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:obj	_	Gloss=congestion.Masc.Cons
+28	moːtoːci	moːtàː	NOUN	_	Number=Plur	27	mod	_	Gloss=car.Plur|SpaceAfter=No
+29	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
+30	duk	duk	PRON	_	_	31	subj	_	Gloss=XX
+31	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
+32	daːkatar̃	daːkat-	VERB	_	_	31	comp:aux	_	Gloss=stop.Cau
 33	dà	dà	ADP	_	_	32	comp:obl	_	Gloss=with
-34	tàllàce-tàllàcen	tàllà	NOUN	_	Number=Plur	33	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=tàllàce-tàllàcensù
+34	tàllàce-tàllàcen	tàllà	NOUN	_	Number=Plur	33	comp:obj	_	Gloss=hawking.Plur.Cons|SpaceAfter=No|wordform=tàllàce-tàllàcensù
 35	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	34	mod	_	Gloss=3Plur.Gen
 36	dòːmin	dòːmin	SCONJ	_	_	32	mod	_	Gloss=XX
 37	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	36	comp:obj	_	Gloss=3Plur.Sub
 38	yi	yi	VERB	_	_	37	comp:aux	_	Gloss=do
 39	kallon	kalloː	NOUN	_	Definite=Cons|Gender=Masc	38	comp:pred	_	Gloss=watching.Masc.Cons
-40	hàdàː-hadâr̃	hàdàː-hadaː	NOUN	_	Definite=Def|Gender=Fem	39	mod	_	Gloss=confusion.Fem.Def
+40	hàdàː-hadâr̃	hàdàː-hadaː	NOUN	_	Definite=Def|Gender=Fem	39	comp:obj	_	Gloss=confusion.Fem.Def
 41	dà	dà	SCONJ	_	_	40	mod@relcl	_	Gloss=COMP
 42	takèː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Relative=Rel	41	comp:obj	_	Gloss=3Fem.Prog.Rel
-43	àukuwaː	àukuwaː	NOUN	_	ExtPos=NOUN|Gender=Fem	42	comp:aux	_	Gloss=XX
+43	àukuwaː	auk-	NOUN	_	ExtPos=NOUN|Gender=Fem	42	comp:aux	_	Gloss=take_place.Vnoun.Fem
 44	à	à	ADP	_	_	43	mod	_	Gloss=at
-45	bàːkin	bàːkin	ADP	_	_	44	comp:obj	_	Gloss=XX
-46	tèːkûn	tèːkuː	NOUN	_	Definite=Cons|Gender=Masc	45	comp:obj	_	Gloss=XX|SpaceAfter=No
-47	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
+45	bàːkin	bàːkiː	NOUN	_	_	44	comp:obj	_	Gloss=shore.Masc.Cons
+46	tèːkûn	tèːku	NOUN	_	Definite=Def|Gender=Masc	45	compound	_	Gloss=sea.Masc.Def|SpaceAfter=No
+47	.	.	PUNCT	_	_	31	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__4
-# text = bìsàː àlꞌaːdàː bàːƙin Gwamnatin Nàːjeːr̃iyàː sukàn sàuka nèː à tsoːhon gidan gwamnatì dà kèː Ìkko, wandà à dâː shiː nèː gidan gwamnà à loːkàcin mulkìn màllakàr̃ Bìrtaːniyàː.
+# text = bìsàː àlꞌaːdàː bàːƙin Gwamnatìn Nàːjeːr̃iyàː sukàn sàuka nèː à tsoːhon gidan gwamnatì dà kèː Ìkko, wandà à dâː shiː nèː gidan gwamnà à loːkàcin mulkìn màllakàr̃ Bìrtaːniyà.
 # text_ortho = Bìsàː àlꞌaːdàː bàːƙin Gwamnatin Nàːjeːr̃iyàː sukàn sàuka nèː à tsoːhon gidan Gwamnatì dà kèː l̀kko, wandà à dâː shiː nèː gidan Gwamnà à loːkàcin mulkìn màllakàr̃ Bìrtaːniyàː.
 1	bìsàː	bìsàː	ADP	_	_	6	mod	_	Gloss=according_to
-2	àlꞌaːdàː	àlꞌaːdàː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=XX
-3	bàːƙin	bàːƙin	NOUN	_	Definite=Cons|Number=Plur	6	subj	_	Gloss=XX
-4	Gwamnatin	Gwamnatin	PROPN	_	_	3	mod	_	Gloss=Gwamnatin
+2	àlꞌaːdàː	àlꞌaːdàː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=custom.Fem
+3	bàːƙin	bàːƙoː	NOUN	_	Definite=Cons|Number=Plur	6	subj	_	Gloss=guest.Plur.Cons
+4	Gwamnatìn	gwamnatì	NOUN	_	_	3	mod	_	Gloss=government.Fem.Cons
 5	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	Number=Plur	4	mod	_	Gloss=Nigeria
 6	sukàn	kàn	AUX	_	Aspect=Hab|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Hab
-7	sàuka	sauk-	VERB	_	_	6	comp:aux	_	Gloss=XX
+7	sàuka	sauk-	VERB	_	_	6	comp:aux	_	Gloss=get_down
 8	nèː	neː	PART	_	PartType=Foc	7	discourse@foc	_	Gloss=Emph
 9	à	à	ADP	_	_	7	comp:obl	_	Gloss=at
 10	tsoːhon	tsoːhoː	ADJ	_	Definite=Cons|Gender=Masc	11	mod	_	Gloss=old.Masc
@@ -130,12 +130,12 @@
 20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	21	comp:pred	_	Gloss=3Masc.Nom
 21	nèː	neː	AUX	_	_	17	comp:obj	_	Gloss=be
 22	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	21	dislocated@comp	_	Gloss=house.Masc.Cons
-23	gwamnà	gwamnà	NOUN	_	_	22	mod	_	Gloss=XX
-24	à	à	ADP	_	_	22	mod	_	Gloss=at
+23	gwamnà	gwamnà	NOUN	_	_	22	mod	_	Gloss=governor.Masc
+24	à	à	ADP	_	_	21	mod	_	Gloss=at
 25	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	24	comp:obj	_	Gloss=time.Masc.Cons
 26	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	25	mod	_	Gloss=rule.Masc.Cons
-27	màllakàr̃	màllakàː	NOUN	_	Definite=Cons|Gender=Fem	26	mod	_	Gloss=XX
-28	Bìrtaːniyàː	Bìrtaːniyàː	PROPN	_	_	27	mod	_	Gloss=Bìrtaːniyàː|SpaceAfter=No
+27	màllakàr̃	màllakàː	NOUN	_	Definite=Cons|Gender=Fem	26	mod	_	Gloss=rule.Fem.Cons
+28	Bìrtaːniyà	Bìrtaːniyà	PROPN	_	_	27	mod	_	Gloss=Great-Britain|SpaceAfter=No
 29	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__5
@@ -143,23 +143,23 @@
 # text_ortho = Gidân nàː gab dà bàːkin tèːku kuma har̃ yànzu yanàː dà ban shàꞌawàː da haskàkâːwaː duk dà gyàːre-gyàːren zaːmàniː dà akà yi masà loːkàcîn dà Nàːjeːr̃iyàː takèː cìke dà ar̃zìkin mân feːtùr̃.
 1	gidân	gidaː	NOUN	_	Definite=Def	2	subj	_	Gloss=house.Masc.Def
 2	nàː	neː	AUX	_	_	0	root	_	Gloss=XX
-3	gab	gab	ADP	_	ExtPos=ADP	2	comp:pred	_	Gloss=XX|Idiom=Yes
-4	dà	dà	ADP	_	_	3	comp:obj	_	Gloss=with|InIdiom=Yes
-5	bàːkin	bàːkin	ADP	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=XX
-6	tèːku	tèːku	NOUN	_	Gender=Fem	5	mod	_	Gloss=sea.Fem
+3	gab	gab	IDEO	_	ExtPos=ADP	2	comp:pred	_	Gloss=close|Idiom=Yes
+4	dà	dà	ADP	_	_	3	compound	_	Gloss=to|InIdiom=Yes
+5	bàːkin	bàːkiː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=shore.Masc.Cons
+6	tèːku	tèːku	NOUN	_	Gender=Fem	5	compound	_	Gloss=sea.Fem
 7	kuma	kuma	CCONJ	_	_	10	cc	_	Gloss=also
 8	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	10	mod	_	Gloss=XX
 9	yànzu	yànzu	ADV	_	_	8	comp:obj	_	Gloss=now
 10	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	2	conj:coord	_	Gloss=3Masc.Prog
 11	dà	dà	ADP	_	_	10	comp:pred	_	Gloss=with
 12	ban	baː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:obj	_	Gloss=give
-13	shàꞌawàː	shàꞌawàː	NOUN	_	Gender=Fem	12	compound	_	Gloss=XX
+13	shàꞌawàː	shàꞌawàː	NOUN	_	Gender=Fem	12	compound	_	Gloss=interest.Fem
 14	dà	da	CCONJ	_	_	15	cc	_	Gloss=and|wordform=da
-15	haskàkâːwaː	haskàk-	VERB	_	Number=Plur	13	conj:coord	_	Gloss=XX
-16	duk	dukà	DET	_	_	12	mod	_	Gloss=all
-17	dà	dà	CCONJ	_	_	16	compound	_	Gloss=and
+15	haskàkâːwaː	haskàk-	VERB	_	_	13	conj:coord	_	Gloss=brighten_up.Vnoun.Fem
+16	duk	dukà	PRON	_	ExtPos=ADP	10	mod	_	Gloss=all|Idiom=Yes
+17	dà	dà	ADP	_	_	16	compound	_	Gloss=with|InIdiom=Yes
 18	gyàːre-gyàːren	gyaːraː	NOUN	_	Definite=Cons|Number=Plur	16	comp:obj	_	Gloss=repair.Plur
-19	zaːmàniː	zaːmàniː	NOUN	_	Gender=Masc	18	mod	_	Gloss=period.Masc
+19	zaːmàniː	zaːmàniː	NOUN	_	Gender=Masc	18	mod	_	Gloss=modern_time.Masc
 20	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=COMP
 21	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	20	comp:obj	_	Gloss=4.Perf.Rel
 22	yi	yi	VERB	_	_	21	comp:aux	_	Gloss=do
@@ -168,11 +168,11 @@
 25	dà	dà	SCONJ	_	_	24	comp:obl	_	Gloss=COMP
 26	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	27	subj	_	Gloss=Nigeria
 27	takèː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Relative=Rel	25	comp:obj	_	Gloss=3Fem.Prog.Rel
-28	cìke	cik-	VERB	_	_	27	comp:aux	_	Gloss=XX
+28	cìke	cik-	VERB	_	_	27	comp:aux	_	Gloss=fill.Stat
 29	dà	dà	CCONJ	_	_	28	comp:obl	_	Gloss=and
 30	ar̃zìkin	ar̃zìkiː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=wealth.Masc.Cons
-31	mân	mâi	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=XX
-32	feːtùr̃	feːtùː	NOUN	_	Definite=Cons|Gender=Fem	31	mod	_	Gloss=XX|SpaceAfter=No
+31	mân	mâi	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=oil.Masc.Cons
+32	feːtùr̃	feːtùr̃	NOUN	_	Gender=Masc	31	mod	_	Gloss=petrol.Masc|SpaceAfter=No
 33	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__6
@@ -181,16 +181,16 @@
 1	tòː	tòː	INTJ	_	_	5	discourse	_	Gloss=well
 2	àmmaː	àmmaː	CCONJ	_	_	5	discourse	_	Gloss=but
 3	bàː	bàː	PART	_	PartType=Ill|Polarity=Neg	5	mod	_	Gloss=Neg
-4	dukkàn	dukkàn	DET	_	_	5	mod	_	Gloss=XX
-5	abuːbuwàn	àbù	NOUN	_	Definite=Cons|Number=Plur	0	root	_	Gloss=XX
+4	dukkàn	dukà	DET	_	_	5	mod	_	Gloss=all
+5	abuːbuwàn	àbù	NOUN	_	Definite=Cons|Number=Plur	0	root	_	Gloss=thing.Plur.Cons
 6	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	5	mod	_	Gloss=hear.Vnoun.Masc.Cons
-7	daːɗin	daːɗiː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	Gloss=XX
-8	ràːyuwaː	ràːyuwaː	NOUN	_	Gender=Fem	7	mod	_	Gloss=XX
-9	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
+7	daːɗin	daːɗiː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	Gloss=pleasure.Masc.Cons
+8	ràːyuwaː	ràːyuwaː	NOUN	_	Gender=Fem	7	mod	_	Gloss=life.Fem
+9	dà	dà	SCONJ	_	_	5	mod@relcl	_	Gloss=COMP
 10	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	9	comp:obj	_	Gloss=Prog.Rel
 11	cikin	cikin	ADP	_	_	10	comp:obl	_	Gloss=inside
 12	gidân	gidaː	NOUN	_	Definite=Def	11	comp:obj	_	Gloss=house.Masc.Def
-13	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	5	comp:cleft	_	Gloss=Prog.Rel
+13	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	5	conj:cleft	_	Gloss=Prog.Rel
 14	aikìː	aikìː	NOUN	_	Gender=Masc	13	comp:aux	_	Gloss=work.Masc
 15	kàmar̃	kàmar̃	ADP	_	_	14	mod	_	Gloss=like
 16	yaddà	yaddà	ADV	_	PronType=Rel	15	comp:obj	_	Gloss=how
@@ -202,21 +202,21 @@
 # sent_id = 02_Yarima_Charles__7
 # text = mìsaːlìː, loːkàcîn dà Fir̃aːyìm Ministàː " Margaret Thatcher" ta kai zìyaːr̃àː shèːkàruː biyu dà sukà wucèː, à boːkitì neː akà riƙà ɗeːboː matà ruwan zaːfiː.
 # text_ortho = Mìsaːlìː, loːkâcîn dà Fir̃aːyìm Ministàː ‘Margaret Thatcher’ ta kai zìyaːr̃àː shèːkàruː biyu da sukà wucèː, à boːkitì neː akà riƙà ɗeːboː matà ruwan zaːfiː.
-1	mìsaːlìː	mìsaːlìː	NOUN	_	_	20	mod	_	Gloss=XX|SpaceAfter=No
+1	mìsaːlìː	mìsaːlìː	NOUN	_	_	20	mod	_	Gloss=example.Masc|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 3	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	20	mod	_	Gloss=time.Masc.Def
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
-5	Fir̃aːyìm	Fir̃aːyìm	PROPN	_	_	11	subj	_	Gloss=Fir̃aːyìm
-6	Ministàː	Ministàː	PROPN	_	_	5	flat@name	_	Gloss=Ministàː
+5	Fir̃aːyìm	Fir̃aːyìm	PROPN	_	_	8	mod@desc	_	Gloss=Prime
+6	Ministàː	Ministàː	PROPN	_	_	5	flat@name	_	Gloss=Minister
 7	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT|wordform=‘
-8	Margaret	Margaret	PROPN	_	_	5	conj:appos	_	Gloss=Margaret
+8	Margaret	Margaret	PROPN	_	_	4	comp:obj	_	Gloss=Margaret
 9	Thatcher	Thatcher	PROPN	_	_	8	flat@name	_	Gloss=Thatcher|SpaceAfter=No
 10	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT|wordform=’
 11	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	4	mod@relcl	_	Gloss=3Fem.Perf.Rel
 12	kai	kai	VERB	_	_	11	comp:aux	_	Gloss=reach/carry_to
 13	zìyaːr̃àː	zìyaːr̃àː	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=visit.Fem
 14	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	13	mod	_	Gloss=year.Plur
-15	biyu	biyu	NUM	_	_	14	mod:num	_	Gloss=XX
+15	biyu	biyu	NUM	_	_	14	mod:num	_	Gloss=two
 16	dà	da	SCONJ	_	_	14	mod@relcl	_	Gloss=COMP|wordform=da
 17	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	16	comp:obj	_	Gloss=3Plur.Perf.Rel
 18	wucèː	wut-	VERB	_	_	17	comp:aux	_	Gloss=pass|SpaceAfter=No
@@ -558,4 +558,37 @@
 10	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	9	comp:obj	_	Gloss=feel.Vnoun.Masc.Cons
 11	daːɗiː	daːɗiː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=XX|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+
+# sent_id = 02_Yarima_Charles__3_split1
+# text = yâːraː ƙanaːnàː dà kèː kân gadoːjiː na bir̃nin Ìkko sunàː tàllàn tarkòn ɓeːr̃aː , dà kamfàːyeː , dà agoːgunàn " Rolex " na jàbu à tsàːkaːnin cùnkoːson moːtoːci ,
+# text_ortho = Yâːraː ƙanaːnàː dà kèː kân gadoːjiː na bir̃nin Ìkko sunàː tàllàn tarkòn ɓeːr̃aː, da kamfàːyeː, dà agoːgunàn ‘Rolex’ na jàbu à tsàːkaːnin cùnkoːson moːtoːci, duk sun daːkatar̃ dà tàllàce-tàllàcensù dòːmin sù yi kallon hàdàː-hadâr̃ da takèː àukuwaː à bàːkin tèːkûn.
+1	yâːraː	yaːròː	NOUN	_	Number=Plur	10	subj	_	Gloss=child.Plur
+2	ƙanaːnàː	ƙàramiː	ADJ	_	Number=Plur	1	mod	_	Gloss=small.Plur
+3	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
+4	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel2	3	comp:obj	_	Gloss=Prog.Rel
+5	kân	kân	ADP	_	_	4	comp:pred	_	Gloss=on
+6	gadoːjiː	gadàː	NOUN	_	Number=Plur	5	comp:obj	_	Gloss=bridge.Plur
+7	na	na	PART	_	Case=Gen|PartType=Pred	6	mod	_	Gloss=Gen
+8	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=city.Masc.Cons
+9	Ìkko	Ìkko	PROPN	_	_	8	mod	_	Gloss=Lagos
+10	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
+11	tàllàn	tàllà	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	10	comp:aux	_	Gloss=hawking.Masc.Cons
+12	tarkòn	tarkòː	NOUN	_	Definite=Cons|Gender=Masc	11	mod	_	Gloss=trap.Masc.Cons
+13	ɓeːr̃aː	ɓeːr̃aː	NOUN	_	Gender=Masc	12	mod	_	Gloss=rat.Masc|SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
+15	dà	da	CCONJ	_	_	16	cc	_	Gloss=and|wordform=da
+16	kamfàːyeː	kamfai	NOUN	_	Number=Plur	12	conj:coord	_	Gloss=underpants|SpaceAfter=No
+17	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
+18	dà	dà	CCONJ	_	_	21	cc	_	Gloss=and
+19	agoːgunàn	àgoːgo	NOUN	_	Definite=Cons|Number=Plur	21	mod@desc	_	Gloss=watch.Plur.Cons
+20	"	"	PUNCT	_	_	21	punct	_	Gloss=PUNCT|wordform=‘
+21	Rolex	Rolex	PROPN	_	_	16	conj:coord	_	Gloss=Rolex|SpaceAfter=No
+22	"	"	PUNCT	_	_	21	punct	_	Gloss=PUNCT|wordform=’
+23	na	na	PART	_	Case=Gen|PartType=Pred	21	mod	_	Gloss=Gen
+24	jàbu	jàbu	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=counterfeit.Masc
+25	à	à	ADP	_	_	11	mod	_	Gloss=at
+26	tsàːkaːnin	tsàːkaːnin	ADP	_	_	25	comp:obj	_	Gloss=middle
+27	cùnkoːson	cùnkoːsoː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:obj	_	Gloss=congestion.Masc.Cons
+28	moːtoːci	moːtàː	NOUN	_	Number=Plur	27	mod	_	Gloss=car.Plur|SpaceAfter=No
+29	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
