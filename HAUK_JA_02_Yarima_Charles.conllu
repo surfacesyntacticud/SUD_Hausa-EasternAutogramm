@@ -92,7 +92,7 @@
 33	dà	dà	ADP	_	_	32	comp:obl	_	Gloss=with
 34	tàllàce-tàllàcen	tàllà	NOUN	_	Number=Plur	33	comp:obj	_	Gloss=hawking.Plur.Cons|SpaceAfter=No|wordform=tàllàce-tàllàcensù
 35	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	34	mod	_	Gloss=3Plur.Gen
-36	dòːmin	dòːmin	SCONJ	_	_	32	mod	_	Gloss=XX
+36	dòːmin	dòːmin	SCONJ	_	_	32	mod	_	Gloss=in_order_to
 37	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	36	comp:obj	_	Gloss=3Plur.Sub
 38	yi	yi	VERB	_	_	37	comp:aux	_	Gloss=do
 39	kallon	kalloː	NOUN	_	Definite=Cons|Gender=Masc	38	comp:pred	_	Gloss=watching.Masc.Cons
@@ -126,7 +126,7 @@
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 17	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	11	mod@relcl	_	Gloss=REL.Masc
 18	à	à	ADP	_	_	21	mod	_	Gloss=at
-19	dâː	dâː	ADV	_	_	18	comp:obj	_	Gloss=XX
+19	dâː	dâː	ADV	_	_	18	comp:obj	_	Gloss=formerly
 20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	21	comp:pred	_	Gloss=3Masc.Nom
 21	nèː	neː	AUX	_	_	17	comp:obj	_	Gloss=be
 22	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	21	dislocated@comp	_	Gloss=house.Masc.Cons
@@ -142,13 +142,13 @@
 # text = gidân nàː gab dà bàːkin tèːku kuma har̃ yànzu yanàː dà ban shàꞌawàː dà haskàkâːwaː duk dà gyàːre-gyàːren zaːmàniː dà akà yi masà loːkàcîn dà Nàːjeːr̃iyàː takèː cìke dà ar̃zìkin mân feːtùr̃.
 # text_ortho = Gidân nàː gab dà bàːkin tèːku kuma har̃ yànzu yanàː dà ban shàꞌawàː da haskàkâːwaː duk dà gyàːre-gyàːren zaːmàniː dà akà yi masà loːkàcîn dà Nàːjeːr̃iyàː takèː cìke dà ar̃zìkin mân feːtùr̃.
 1	gidân	gidaː	NOUN	_	Definite=Def	2	subj	_	Gloss=house.Masc.Def
-2	nàː	neː	AUX	_	_	0	root	_	Gloss=XX
+2	nàː	nàː	AUX	_	_	0	root	_	Gloss=Prog
 3	gab	gab	IDEO	_	ExtPos=ADP	2	comp:pred	_	Gloss=close|Idiom=Yes
 4	dà	dà	ADP	_	_	3	compound	_	Gloss=to|InIdiom=Yes
 5	bàːkin	bàːkiː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=shore.Masc.Cons
 6	tèːku	tèːku	NOUN	_	Gender=Fem	5	compound	_	Gloss=sea.Fem
 7	kuma	kuma	CCONJ	_	_	10	cc	_	Gloss=also
-8	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	10	mod	_	Gloss=XX
+8	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	10	mod	_	Gloss=up_to
 9	yànzu	yànzu	ADV	_	_	8	comp:obj	_	Gloss=now
 10	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	2	conj:coord	_	Gloss=3Masc.Prog
 11	dà	dà	ADP	_	_	10	comp:pred	_	Gloss=with
@@ -420,7 +420,7 @@
 19	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
 20	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	19	comp:obj	_	Gloss=3Masc.Perf.Rel
 21	fi	fi	VERB	_	_	20	comp:aux	_	Gloss=exceed
-22	koːwànneː	koːwànneː	PRON	_	Gender=Masc|PronType=Int	21	comp:obj	_	Gloss=XX
+22	koːwànneː	koːwànneː	PRON	_	Gender=Masc|PronType=Ind	21	comp:obj	_	Gloss=whichever
 23	girmaː	girmaː	NOUN	_	Gender=Masc	21	mod	_	Gloss=size.Masc|SpaceAfter=No
 24	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 25	sànnan	sànnan	ADV	_	_	27	mod	_	Gloss=then
@@ -492,7 +492,7 @@
 32	gàdaː	gàdaː	NOUN	_	_	28	conj:coord	_	Gloss=duiker.Plur|SpaceAfter=No
 33	,	,	PUNCT	_	_	38	punct	_	Gloss=PUNCT
 34	kâi	kâi	INTJ	_	_	38	discourse	_	Gloss=well
-35	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	37	mod	_	Gloss=XX
+35	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	37	mod	_	Gloss=up_to
 36	maː	maː	PART	_	_	35	discourse@top	_	Gloss=even
 37	dà	dà	CCONJ	_	_	38	cc	_	Gloss=and
 38	giːwàːyē	giːwaː	NOUN	_	Gender=Masc	32	conj:coord	_	Gloss=elephant.Plur|SpaceAfter=No
@@ -556,5 +556,6 @@
 8	alꞌamur̃àn	àlꞌamàr̃iː	NOUN	_	Definite=Cons|Number=Plur	7	comp:obj	_	Gloss=sign.Plur.Cons
 9	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	8	mod	_	Gloss=lack.Vnoun.Masc.Cons
 10	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	9	comp:obj	_	Gloss=feel.Vnoun.Masc.Cons
-11	daːɗiː	daːɗiː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=XX|SpaceAfter=No
+11	daːɗiː	daːɗiː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=pleasure|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+
