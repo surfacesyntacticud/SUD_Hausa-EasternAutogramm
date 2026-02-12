@@ -123,7 +123,7 @@
 25	zuwàː	zuwàː	ADP	_	_	22	conj:coord	_	Gloss=towards
 26	Japananciː	Japananciː	PROPN	_	Gender=Masc	25	conj:obj	_	Gloss=Japanese|SpaceAfter=No
 27	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
-28	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	11	mod@relcl	_	Gloss=REL.Sing
+28	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	11	mod@relcl	_	Gloss=REL.Masc
 29	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	28	comp:obj	_	Gloss=4.Prog.Rel
 30	kiràː	kir-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	29	comp:aux	_	Gloss=XX
 31	"	"	PUNCT	_	_	32	punct	_	Gloss=PUNCT
@@ -155,7 +155,7 @@
 # text = Tòː dâː maː shiː wannàn mùtumìn shiː nèː ya ɗaukoː wani fàr̃feːsàː mài suːnaː " Hitoshi Igarashi", ya baː shì aikìn cêːwaː yà fassàr̃à wannàn littaːfìn.
 1	Tòː	tòː	INTJ	_	_	7	discourse	_	Gloss=XX
 2	dâː	dâː	ADV	_	_	7	mod	_	Gloss=XX
-3	maː	maː	PART	_	_	2	discourse@top	_	Gloss=XX
+3	maː	maː	PART	_	_	2	discourse@top	_	Gloss=even
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	dislocated@top	_	Gloss=3Masc.Nom
 5	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	6	det	_	Gloss=ProxS.Sing
 6	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	4	conj:appos	_	Gloss=person.Masc.Def
@@ -251,7 +251,7 @@
 21	wannan	wannan	DET	_	Definite=Spec|Gender=Masc	22	det	_	Gloss=XX
 22	sùkùddìr̃eːbàː	sùkùddìr̃eːbàː	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=screwdriver.Fem
 23	har̃	har̃	SCONJ	_	_	15	mod	_	Gloss=so_that
-24	maː	maː	PART	_	_	23	discourse@top	_	Gloss=XX
+24	maː	maː	PART	_	_	23	discourse@top	_	Gloss=even
 25	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	23	comp:obj	_	Gloss=3Fem.Perf.Rel
 26	ji	ji	VERB	_	_	25	comp:aux	_	Gloss=feel
 27	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	26	comp:obl	_	Gloss=3Masc.Dat
@@ -264,7 +264,7 @@
 1	À	à	ADP	_	_	8	mod	_	Gloss=XX
 2	yànzu	yànzu	ADV	_	_	1	comp:obj	_	Gloss=now
 3	hakà	hakà	ADV	_	_	8	mod	_	Gloss=thus
-4	maː	maː	PART	_	_	3	discourse@top	_	Gloss=XX
+4	maː	maː	PART	_	_	3	discourse@top	_	Gloss=even
 5	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	dislocated@subj	_	Gloss=3Masc.Nom
 6	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	7	det	_	Gloss=ProxS.Sing
 7	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	5	conj:appos	_	Gloss=person.Masc.Def
@@ -316,7 +316,7 @@
 # text = Àsheː suː maː ɗîn samsam baːsàː sôn à bugàː shi.
 1	Àsheː	àsheː	INTJ	_	_	6	discourse	_	Gloss=alas
 2	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	dislocated@subj	_	Gloss=3Plur.Nom
-3	maː	maː	PART	_	_	2	discourse@top	_	Gloss=XX
+3	maː	maː	PART	_	_	2	discourse@top	_	Gloss=even
 4	ɗîn	ɗin	DET	_	Definite=Def|Gender=Masc	2	det	_	Gloss=Def
 5	samsam	samsan	ADV	_	Voice=Cau	6	mod	_	Gloss=XX
 6	baːsàː	nàːs	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	0	root	_	Gloss=XX
@@ -492,7 +492,7 @@
 # text = Tòː dâː maː tun kwàːnàkin baːya anàː yîn wannàn hàyàːniyaː gàme dà littaːfìn na Aːyoːyin Shàiɗân, dòːmin kùwa à raːnar̃ Lahàdì dà ta wucèː maː, wasu Mùsùlmiː suː kìːmaːnìn ɗàːriː dà àshìr̃in à wata ùnguwar̃ Tokyo sun yi wata zaːngà-zangà baːyân dà sukà idar̃ dà sallàː.
 1	Tòː	tòː	INTJ	_	_	7	discourse	_	Gloss=XX
 2	dâː	dâː	ADV	_	_	7	mod	_	Gloss=XX
-3	maː	maː	PART	_	_	2	discourse@top	_	Gloss=XX
+3	maː	maː	PART	_	_	2	discourse@top	_	Gloss=even
 4	tun	tun	ADP	_	_	7	mod	_	Gloss=since
 5	kwàːnàkin	kwàːnàkiː	NOUN	_	Definite=Cons|Number=Plur	4	comp:obj	_	Gloss=XX
 6	baːya	baːya	ADV	_	_	5	mod	_	Gloss=back
@@ -507,7 +507,7 @@
 15	Aːyoːyin	ayàː	NOUN	_	Definite=Cons|Number=Plur	14	comp:obj	_	Gloss=verse.Plur.Cons
 16	Shàiɗân	Shàiɗân	PROPN	_	_	15	mod	_	Gloss=Shàiɗân|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-18	dòːmin	dòːmin	SCONJ	_	_	8	mod	_	Gloss=XX
+18	dòːmin	dòːmin	SCONJ	_	_	8	mod	_	Gloss=because
 19	kùwa	kùwa	PART	_	_	18	discourse@top	_	Gloss=XX
 20	à	à	ADP	_	_	39	mod	_	Gloss=at
 21	raːnar̃	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	20	comp:obj	_	Gloss=XX
@@ -515,7 +515,7 @@
 23	dà	dà	SCONJ	_	_	21	mod@relcl	_	Gloss=COMP
 24	ta	yaː	AUX	_	Aspect=Perf|Case=Gen|Gender=Fem|Person=3|Relative=Rel	23	comp:obj	_	Gloss=3Fem.Perf.Rel
 25	wucèː	wut-	VERB	_	_	24	comp:aux	_	Gloss=pass
-26	maː	maː	PART	_	_	23	discourse@top	_	Gloss=XX|SpaceAfter=No
+26	maː	maː	PART	_	_	23	discourse@top	_	Gloss=even|SpaceAfter=No
 27	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 28	wasu	wani	DET	_	Definite=Spec|Number=Plur	29	det	_	Gloss=some.Plur.Spec
 29	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	39	subj	_	Gloss=Muslim.Plur
@@ -591,7 +591,7 @@
 24	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	23	mod	_	Gloss=3Masc.Gen
 25	ba	ba	PART	_	PartType=Ill|Polarity=Neg	18	mod	_	Gloss=Neg|SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
-27	dòːmin	dòːmin	SCONJ	_	_	18	mod	_	Gloss=XX
+27	dòːmin	dòːmin	SCONJ	_	_	18	mod	_	Gloss=because
 28	kùwa	kùwa	PART	_	_	27	discourse@top	_	Gloss=XX
 29	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	27	comp:obj	_	Gloss=3Masc.Perf
 30	ƙàːlùːbàlànci	ƙaːluːbalant-	VERB	_	_	29	comp:aux	_	Gloss=XX
