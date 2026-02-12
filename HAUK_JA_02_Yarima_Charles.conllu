@@ -326,7 +326,7 @@
 23	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__11a
-# text = tòː an dai ci àbinci irìː-irìː, màsu sâː bàːkiː miyau .
+# text = tòː an dai ci àbinci irìː-irìː, màːsu sâː bàːkiː miyau .
 # text_ortho = Tòː an dai ci àbinci irìː-irìː, màsu sâː bàːkiː miyau - àkwai shìnkaːfaː, da waːkeː, dà sàlâk, da sauran kaːyan marmariː.
 1	tòː	tòː	INTJ	_	_	2	discourse	_	Gloss=well
 2	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
@@ -335,7 +335,7 @@
 5	àbinci	àbinci	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=food.Masc
 6	irìː-irìː	irìː-irìː	ADJ	_	Gender=Masc	5	mod	_	Gloss=various|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-8	màsu	màsu	PART	_	Number=Plur	5	mod	_	Gloss=XX
+8	màːsu	mài	PART	_	Number=Plur	5	mod	_	Gloss=owner/doer_of.Plur
 9	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc	8	comp:obj	_	Gloss=put
 10	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	9	comp:obj@R	_	Gloss=mouth.Masc
 11	miyau	miyau	NOUN	_	Gender=Masc	9	comp:obj@T	_	Gloss=saliva.Masc
@@ -345,18 +345,18 @@
 # text = àkwai shìnkaːfaː, dà waːkeː, dà sàlâk, dà sauran kaːyan marmariː.
 # text_ortho = Tòː an dai ci àbinci irìː-irìː, màsu sâː bàːkiː miyau - àkwai shìnkaːfaː, da waːkeː, dà sàlâk, da sauran kaːyan marmariː.
 1	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	Gloss=there_is
-2	shìnkaːfaː	shìnkaːfaː	NOUN	_	Gender=Fem	1	subj	_	Gloss=XX|SpaceAfter=No
+2	shìnkaːfaː	shìnkaːfaː	NOUN	_	Gender=Fem	1	subj	_	Gloss=rice.Fem|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=and
-5	waːkeː	waːkeː	NOUN	_	Gender=Masc	2	conj:coord	_	Gloss=XX|SpaceAfter=No
+5	waːkeː	waːkeː	NOUN	_	Gender=Masc	2	conj:coord	_	Gloss=beans.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 7	dà	dà	CCONJ	_	_	8	cc	_	Gloss=and
-8	sàlâk	sàlâk	NOUN	_	Definite=Cons|Gender=Fem	5	conj:coord	_	Gloss=XX|SpaceAfter=No
+8	sàlâk	sàlâk	NOUN	_	Gender=Masc	5	conj:coord	_	Gloss=salad.Masc|SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 10	dà	dà	CCONJ	_	_	11	cc	_	Gloss=and
 11	sauran	sauraː	NOUN	_	Definite=Cons|Gender=Masc	8	conj:coord	_	Gloss=rest.Masc.Cons
-12	kaːyan	kaːyaː	NOUN	_	Definite=Cons|Number=Plur	11	mod	_	Gloss=XX
-13	marmariː	marmariː	NOUN	_	Gender=Masc	12	mod	_	Gloss=XX|SpaceAfter=No
+12	kaːyan	kaːyaː	NOUN	_	Definite=Cons	11	mod	_	Gloss=stuff.Masc.Cons
+13	marmariː	marmariː	NOUN	_	Gender=Masc	12	compound	_	Gloss=desire.Masc|SpaceAfter=No
 14	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__12
@@ -366,7 +366,7 @@
 2	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	1	subj	_	Gloss=thing.Masc.Def
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 4	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	3	comp:obj	_	Gloss=3Masc.Perf.Rel
-5	fi	fi	VERB	_	_	4	comp:aux	_	Gloss=XX
+5	fi	fi	VERB	_	_	4	comp:aux	_	Gloss=exceed
 6	ban	baː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:obj	_	Gloss=give
 7	shàꞌawàː	shàꞌawàː	NOUN	_	Gender=Fem	6	compound	_	Gloss=liking.Fem
 8	kàmar̃	kàmar̃	ADP	_	_	5	mod	_	Gloss=like
@@ -382,11 +382,11 @@
 # text = tòː kàshèːgàriː sai Yàr̃iːmà dà uwar̃gidansà Gimbìyaː sukà taːshì zuwàː ƙasar̃ Kàmàr̃u.
 # text_ortho = To kàshèːgàriː sai Yàr̃iːmà dà uwar̃gidansà Gimbìyaː sukà taːshì zuwàː kasar ƙasar Kàmàr̃u.
 1	tòː	tòː	INTJ	_	_	9	discourse	_	Gloss=well
-2	kàshèːgàriː	kàshèːgàreː	ADV	_	Number=Plur	9	mod	_	Gloss=XX
+2	kàshèːgàriː	kàshèːgàriː	ADV	_	_	9	mod	_	Gloss=following_day
 3	sai	sai	ADV	_	_	9	mod	_	Gloss=then
 4	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	9	subj	_	Gloss=prince.Masc
 5	dà	dà	CCONJ	_	_	6	cc	_	Gloss=and
-6	uwar̃gidan	uwar̃gidaː	NOUN	_	Definite=Cons|Number=Plur	4	conj:coord	_	Gloss=XX|SpaceAfter=No|wordform=uwar̃gidansà
+6	uwar̃gidan	uwar̃gidaː	NOUN	_	Definite=Cons	4	conj:coord	_	Gloss=wife.Fem.Cons|SpaceAfter=No|wordform=uwar̃gidansà
 7	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	6	mod	_	Gloss=3Masc.Gen
 8	Gimbìyaː	gimbìyaː	NOUN	_	Gender=Fem	6	conj:appos	_	Gloss=princess.Fem
 9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
@@ -404,9 +404,9 @@
 3	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 4	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	5	subj	_	Gloss=prince.Masc
 5	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
-6	zìyàr̃ci	zìyàr̃caː	VERB	_	_	5	comp:aux	_	Gloss=XX
-7	gandun	ganduː	NOUN	_	Definite=Cons|Gender=Masc	6	mod	_	Gloss=XX
-8	daːjìː	daːjìː	NOUN	_	Gender=Masc	7	mod	_	Gloss=XX
+6	zìyàr̃ci	ziyar̃t-	VERB	_	_	5	comp:aux	_	Gloss=visit
+7	gandun	ganduː	NOUN	_	Definite=Cons|Gender=Masc	6	mod	_	Gloss=ranch.Masc.Cons
+8	daːjìː	daːjìː	NOUN	_	Gender=Masc	7	compound	_	Gloss=bush.Masc
 9	na	na	PART	_	Case=Gen|PartType=Pred	7	mod	_	Gloss=Gen
 10	Korup	Korup	PROPN	_	_	9	comp:obj	_	Gloss=Korup|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
@@ -419,14 +419,14 @@
 18	daːjìn	daːjìː	NOUN	_	Definite=Cons|Gender=Masc	17	mod	_	Gloss=XX
 19	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
 20	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	19	comp:obj	_	Gloss=3Masc.Perf.Rel
-21	fi	fi	VERB	_	_	20	comp:aux	_	Gloss=XX
+21	fi	fi	VERB	_	_	20	comp:aux	_	Gloss=exceed
 22	koːwànneː	koːwànneː	PRON	_	Gender=Masc|PronType=Int	21	comp:obj	_	Gloss=XX
 23	girmaː	girmaː	NOUN	_	Gender=Masc	21	mod	_	Gloss=XX|SpaceAfter=No
 24	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 25	sànnan	sànnan	ADV	_	_	27	mod	_	Gloss=then
 26	kuma	kuma	PART	_	_	25	discourse@top	_	Gloss=also
 27	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	20	conj:coord	_	Gloss=3Masc.Perf.Rel
-28	fi	fi	VERB	_	_	27	comp:aux	_	Gloss=XX
+28	fi	fi	VERB	_	_	27	comp:aux	_	Gloss=exceed
 29	koːwànneː	koːwànneː	VERB	_	PronType=Ind	28	comp:obj	_	Gloss=XX
 30	yawàn	yawàn	ADJ	_	Definite=Cons|Gender=Masc	28	mod	_	Gloss=quantity.Masc.Cons
 31	itaːtuwàː	itàːceː	NOUN	_	Number=Plur	30	mod	_	Gloss=tree.Plur

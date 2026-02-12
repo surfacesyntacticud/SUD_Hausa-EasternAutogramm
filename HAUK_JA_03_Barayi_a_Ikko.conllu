@@ -3,8 +3,8 @@
 1	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 2	gwabzàː	gwabz-	VERB	_	_	1	comp:aux	_	Gloss=XX
 3	tsàkaːnin	tsàkaːnin	ADP	_	Definite=Cons	2	comp:obl	_	Gloss=between
-4	ꞌyan	ɗan	ADJ	_	Definite=Cons|Number=Plur	3	comp:obj	_	Gloss=XX
-5	sàndaː	sàndaː	NOUN	_	_	4	compound	_	Gloss=XX
+4	ꞌyan	ɗaː	ADJ	_	Definite=Cons|Number=Plur	3	comp:obj	_	Gloss=child.Plur.Cons
+5	sàndaː	sàndaː	NOUN	_	_	4	compound	_	Gloss=baton.Masc
 6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=and
 7	ɓàràːyiː	ɓàraːròː	NOUN	_	Number=Plur	4	conj:coord	_	Gloss=XX
 8	à	à	ADP	_	_	2	mod	_	Gloss=at
@@ -19,8 +19,8 @@
 5	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	6	mod@desc	_	Gloss=city.Masc.Cons
 6	Ìkko	Ìkko	PROPN	_	_	4	comp:obj	_	Gloss=Lagos
 7	wasu	wani	DET	_	Definite=Spec|Number=Plur	8	det	_	Gloss=some.Plur.Spec
-8	ꞌyan	ɗan	NOUN	_	Definite=Cons|Number=Plur	14	subj	_	Gloss=XX
-9	sàndaː	sàndaː	NOUN	_	Gender=Masc	8	compound	_	Gloss=XX
+8	ꞌyan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	14	subj	_	Gloss=child.Plur.Cons
+9	sàndaː	sàndaː	NOUN	_	Gender=Masc	8	compound	_	Gloss=baton.Masc
 10	màːsu	mài	PART	_	Number=Plur|PartType=Der	8	mod	_	Gloss=owner/doer_of.Plur
 11	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Stat	10	compound	_	Gloss=take.Stat
 12	dà	dà	SCONJ	_	_	11	comp:obl	_	Gloss=COMP
@@ -68,8 +68,8 @@
 # text = tòː waɗànnân ꞌyan sàndaː dà kèː sintir̃iː à wurîn sai sukà tsayàː dòːmin ganin àbîn dà kèː fàːruwaː.
 1	tòː	tòː	INTJ	_	_	11	discourse	_	Gloss=well
 2	waɗànnân	wannàn	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	3	det	_	Gloss=ProxS.Plur
-3	ꞌyan	ɗan	NOUN	_	Definite=Cons|Number=Plur	11	subj	_	Gloss=XX
-4	sàndaː	sàndaː	NOUN	_	_	3	compound	_	Gloss=XX
+3	ꞌyan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	11	subj	_	Gloss=child.Plur.Cons
+4	sàndaː	sàndaː	NOUN	_	_	3	compound	_	Gloss=baton.Masc
 5	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
 6	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	5	comp:obj	_	Gloss=Prog.Rel
 7	sintir̃iː	sintir̃iː	NOUN	_	Gender=Masc	6	conj:coord	_	Gloss=patrolling.Masc
@@ -115,8 +115,8 @@
 # text = Suː kuma ꞌyan sàndân nan dà nan sukà shìga mùsaːyar̃ wutaː har̃ mintìː àshìr̃in.
 1	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	dislocated@subj	_	Gloss=3Plur.Nom
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
-3	ꞌyan	ɗan	NOUN	_	Definite=Cons|Number=Plur	1	conj:appos	_	Gloss=XX
-4	sàndân	sàndaː	NOUN	_	_	3	compound	_	Gloss=XX
+3	ꞌyan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	1	conj:appos	_	Gloss=child.Plur.Cons
+4	sàndân	sàndaː	NOUN	_	_	3	compound	_	Gloss=baton.Masc.Def
 5	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	8	mod	_	Gloss=ProxH
 6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=and
 7	nan	nan	ADV	_	Definite=Def|Deixis=ProxH|PronType=Dem	5	conj:coord	_	Gloss=ProxH
@@ -134,12 +134,12 @@
 1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	10	mod	_	Gloss=Masc.Def
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 3	ƙùːraː	ƙùːraː	NOUN	_	Gender=Fem	4	subj	_	Gloss=XX
-4	ta	ta	AUX	_	_	2	comp:obj	_	Gloss=XX
+4	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	2	comp:obj	_	Gloss=3Fem.Perf.Rel
 5	lafàː	lafàː	VERB	_	_	4	comp:aux	_	Gloss=XX|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	10	mod	_	Gloss=then
-8	ꞌyan	ɗan	NOUN	_	Definite=Cons|Number=Plur	10	subj	_	Gloss=XX
-9	sàndân	sàndaː	NOUN	_	_	8	compound	_	Gloss=XX
+8	ꞌyan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	10	subj	_	Gloss=child.Plur.Cons
+9	sàndân	sàndaː	NOUN	_	_	8	compound	_	Gloss=baton.Masc.Def
 10	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
 11	gaːnoː	gaːn-	VERB	_	_	10	comp:aux	_	Gloss=XX
 12	gàːwàwwakin	gàːwàwwakiː	NOUN	_	_	11	comp:obj	_	Gloss=XX
@@ -150,8 +150,8 @@
 # sent_id = 03_Barayi_a_Ikko__7
 # text = kàːkàːkin ꞌyan sàndaː ya cèː mutàːnên dà sukà yi ƙòːkarin yîn wannàn saːtàː sun kai à ƙallà suː goːmà shâː ukù neː, kuma yaː tabbàtaː sauraː gùdaː shidàn dà sukà gudù duk sun sàːmi raunukàː.
 1	kàːkàːkin	kàːkàːkiː	NOUN	_	_	4	subj	_	Gloss=XX
-2	ꞌyan	ɗan	NOUN	_	Definite=Cons|Number=Plur	1	mod	_	Gloss=XX
-3	sàndaː	sàndaː	NOUN	_	_	2	compound	_	Gloss=XX
+2	ꞌyan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	1	mod	_	Gloss=child.Plur.Cons
+3	sàndaː	sàndaː	NOUN	_	_	2	compound	_	Gloss=baton.Masc
 4	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
 5	cèː	cêː	VERB	_	Gender=Fem	4	comp:aux	_	Gloss=be.Fem
 6	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	14	subj	_	Gloss=people.Plur.Def
@@ -229,8 +229,8 @@
 5	fàːruwaː	faːr-	VERB	_	Gender=Fem	4	comp:obj	_	Gloss=happen.Vnoun.Fem|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	hêdkwatàr̃	hêdkwatàː	NOUN	_	Gender=Fem	13	subj	_	Gloss=XX
-8	ꞌyan	ɗan	NOUN	_	Definite=Cons|Number=Plur	7	mod	_	Gloss=XX
-9	sàndân	sàndaː	NOUN	_	Definite=Def	8	compound	_	Gloss=XX
+8	ꞌyan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	7	mod	_	Gloss=child.Plur.Cons
+9	sàndân	sàndaː	NOUN	_	Definite=Def	8	compound	_	Gloss=baton.Masc.Def
 10	à	à	ADP	_	_	7	mod	_	Gloss=at
 11	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	12	mod@desc	_	Gloss=city.Masc.Cons
 12	Ìkko	Ìkko	PROPN	_	_	10	comp:obj	_	Gloss=Lagos
@@ -248,7 +248,7 @@
 24	cikin	cikin	ADP	_	_	23	comp:obj	_	Gloss=inside
 25	Nàːjeːr̃iyàr̃	Nàːjeːr̃iyàr̃	PROPN	_	Definite=Def|Gender=Fem	24	comp:obj	_	Gloss=Nigeria.Def
 26	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	15	comp:obj	_	Gloss=3Masc.Perf
-27	fi	fi	VERB	_	_	26	comp:aux	_	Gloss=XX
+27	fi	fi	VERB	_	_	26	comp:aux	_	Gloss=exceed
 28	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:obj	_	Gloss=type.Masc.Cons
 29	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	28	mod	_	Gloss=REL.Plur
 30	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	29	mod@relcl	_	Gloss=4.Perf.Rel
@@ -264,7 +264,7 @@
 # sent_id = 03_Barayi_a_Ikko__10
 # text = sanâr̃wâr̃ ta cèː sàu dubuː ɗaya dà ɗàriː ukù dà tàlàːtin dà takwàs neː ɓàràːyiː sukà yi saːtàː à bir̃nîn à bàːra, koː dà yakè wannàn adàdiː bài kai yawàn sàːce-sàːcên dà akà yi à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà ba.
 1	sanâr̃wâr̃	sanâr̃wâː	NOUN	_	Gender=Fem	2	subj	_	Gloss=XX
-2	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=XX
+2	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	0	root	_	Gloss=3Fem.Perf.Rel
 3	cèː	cêː	VERB	_	Gender=Fem	2	comp:aux	_	Gloss=be.Fem
 4	sàu	sàu	NOUN	_	_	3	comp:obj	_	Gloss=XX
 5	dubuː	dubuː	NUM	_	_	4	mod:num	_	Gloss=thousand
@@ -313,8 +313,8 @@
 
 # sent_id = 03_Barayi_a_Ikko__11
 # text = ꞌyan sàndaː sukà cêː dàliːlìn dà ya sâː sàːce-sàːcên sukà ràgu shiː nèː don mutàːnensù sun ƙaːrà himmàː wajen yaːƙìː dà ɓàràːyiː, sun kuma wargàzà ƙungiỳar̃ bàbban ɓàraːwòn nan mài suːnaː " Lawrence Anini" wandà kèː dà yâraː ɓàràːyiː à sâssaː dàbam dàbam à Nàːjeːr̃iyàː.
-1	ꞌyan	ɗan	NOUN	_	Definite=Cons|Number=Plur	3	subj	_	Gloss=XX
-2	sàndaː	sàndaː	NOUN	_	_	1	compound	_	Gloss=XX
+1	ꞌyan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	3	subj	_	Gloss=child.Plur.Cons
+2	sàndaː	sàndaː	NOUN	_	_	1	compound	_	Gloss=baton.Masc
 3	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	Gloss=say
 5	dàliːlìn	dàliːlìː	NOUN	_	Definite=Cons|Gender=Masc	13	subj	_	Gloss=XX
@@ -365,8 +365,8 @@
 
 # sent_id = 03_Barayi_a_Ikko__12
 # text = ꞌyan sàndân sun ƙaːràː dà cêːwaː dòːkar̃ soːjì ta biyu - waddà ta baː dà iːkòː à kaːmà màːsu aikàtà lâifi à tsarèː - ita maː taː taimàkaː wajen ragè yawàn sàːce-sàːcên dà akèː yîː.
-1	ꞌyan	ɗan	NOUN	_	_	3	subj	_	Gloss=XX
-2	sàndân	sàndaː	NOUN	_	_	1	compound	_	Gloss=XX
+1	ꞌyan	ɗaː	NOUN	_	_	3	subj	_	Gloss=child.Plur.Cons
+2	sàndân	sàndaː	NOUN	_	_	1	compound	_	Gloss=baton.Masc.Def
 3	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
 4	ƙaːràː	ƙaːr-	VERB	_	_	3	comp:aux	_	Gloss=increase
 5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with

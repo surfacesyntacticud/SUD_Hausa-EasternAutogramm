@@ -198,7 +198,7 @@
 6	cùːtar̃	cùːtaː	NOUN	_	Gender=Fem	8	dislocated@subj	_	Gloss=XX
 7	AIDS	AIDS	PROPN	_	_	6	mod	_	Gloss=XX
 8	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
-9	ta	ta	PRON	_	Gender=Fem|Person=3	8	subj	_	Gloss=XX
+9	ta	ta	PRON	_	Case=Acc|Gender=Fem|Person=3|PronType=Prs	8	subj	_	Gloss=3Fem.Acc
 10	dà	dà	ADP	_	_	8	comp:pred	_	Gloss=with
 11	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=XX|SpaceAfter=No
 12	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
@@ -399,7 +399,7 @@
 1	kuma	kuma	PART	_	_	3	discourse	_	Gloss=also
 2	mazaː	mazaː	NOUN	_	Number=Plur	3	subj	_	Gloss=XX
 3	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
-4	fi	fi	VERB	_	_	3	comp:aux	_	Gloss=XX
+4	fi	fi	VERB	_	_	3	comp:aux	_	Gloss=exceed
 5	maːtaː	màːtaː	NOUN	_	Number=Plur	4	comp:obj	_	Gloss=woman.Plur
 6	yawàː	yawàː	NOUN	_	Gender=Masc	4	mod	_	Gloss=quantity.Masc
 7	à	à	ADP	_	_	4	mod	_	Gloss=at
@@ -535,7 +535,7 @@
 20	mutàːnen	mùtûm	NOUN	_	Definite=Cons|Number=Plur	19	mod	_	Gloss=people.Plur.Cons
 21	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	20	mod	_	Gloss=XX
 22	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	18	comp:obj	_	Gloss=3Masc.Perf
-23	fi	fi	VERB	_	_	22	comp:aux	_	Gloss=XX
+23	fi	fi	VERB	_	_	22	comp:aux	_	Gloss=exceed
 24	miliyàn	miliyàn	NOUN	_	Gender=Fem	23	comp:obj	_	Gloss=million.Fem
 25	ɗàriː	ɗàriː	NUM	_	_	24	mod:num	_	Gloss=hundred|SpaceAfter=No
 26	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT

@@ -118,7 +118,7 @@
 23	yâːraː	yaːròː	NOUN	_	Number=Plur	24	subj	_	Gloss=boy.Plur
 24	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	10	conj:coord	_	Gloss=3Plur.Perf
 25	moːrèː	moːr-	VERB	_	_	24	comp:aux	_	Gloss=enjoy
-26	wà	wà	ADP	_	Case=Dat	25	comp:obl	_	Gloss=XX
+26	wà	wà	ADP	_	Case=Dat	25	comp:obl	_	Gloss=Dat
 27	shirìn	shirìː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	26	comp:obj	_	Gloss=programme.Masc.Cons
 28	wasu	wani	DET	_	Definite=Spec|Number=Plur	29	det	_	Gloss=some.Plur.Spec
 29	ƙungiyoːyiː	ƙungìyaː	NOUN	_	Number=Plur	27	mod	_	Gloss=organisation.Plur
@@ -253,7 +253,7 @@
 22	sukè	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3|Relative=Rel2	21	comp:obj	_	Gloss=2Plur.Prog.Rel
 23	dà	dà	ADP	_	_	22	comp:pred	_	Gloss=with
 24	juːnaː	juːnaː	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=each_other.Masc
-25	biyu	biyu	NUM	_	_	24	compound	_	Gloss=XX|SpaceAfter=No
+25	biyu	biyu	NUM	_	_	24	compound	_	Gloss=two|SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 27	kàmar̃	kàmar̃	ADP	_	_	15	mod	_	Gloss=like
 28	kùmburin	kumbur-	VERB	_	Definite=Cons|Gender=Masc	27	comp:obj	_	Gloss=swell.Vnoun.Masc.Cons
@@ -302,7 +302,7 @@
 17	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	14	mod	_	Gloss=Masc.Def
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
 19	naːƙudàː	naːƙudàː	NOUN	_	Gender=Fem	20	subj	_	Gloss=labour_pains.Fem
-20	ta	ta	AUX	_	Case=Gen|Gender=Fem	18	comp:obj	_	Gloss=XX
+20	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	18	comp:obj	_	Gloss=3Fem.Perf.Rem
 21	kaːmàː	kaːm-	VERB	_	_	20	comp:aux	_	Gloss=catch
 22	su	su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	21	comp:obj	_	Gloss=3Plur.Acc|SpaceAfter=No
 23	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
@@ -361,7 +361,7 @@
 7	neː	neː	AUX	_	_	0	root	_	Gloss=be
 8	dà	dà	ADP	_	_	6	mod@relcl	_	Gloss=with
 9	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	10	subj	_	Gloss=XX
-10	ta	ta	AUX	_	_	8	comp:obj	_	Gloss=XX
+10	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	8	comp:obj	_	Gloss=3Fem.Perf.Rel
 11	har̃àmtaː	har̃amt-	VERB	_	_	10	comp:obj	_	Gloss=forbid
 12	à	à	ADP	_	_	11	mod	_	Gloss=at
 13	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	12	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
@@ -435,7 +435,7 @@
 12	jàma'àr̃	jàma'àː	NOUN	_	Definite=Cons|Gender=Fem	11	mod	_	Gloss=population.Fem.Cons|SpaceAfter=No|wordform=jàma'àr̃tà
 13	tà	sù	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	12	mod	_	Gloss=3Fem.Gen
 14	kashìː	kashìː	NUM	_	Gender=Masc	16	comp:pred	_	Gloss=XX
-15	biyu	biyu	NUM	_	_	14	mod:num	_	Gloss=XX
+15	biyu	biyu	NUM	_	_	14	mod:num	_	Gloss=two
 16	nèː	neː	AUX	_	_	10	comp:obj	_	Gloss=be
 17	dàgà	dàgà	ADP	_	_	14	mod	_	Gloss=from
 18	cikin	cikin	ADP	_	_	17	comp:obj	_	Gloss=inside
@@ -462,7 +462,7 @@
 3	àbù	àbù	NOUN	_	Gender=Masc	24	subj	_	Gloss=thing.Masc
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
 5	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	4	comp:obj	_	Gloss=4.Perf.Rel
-6	fi	fi	VERB	_	_	5	comp:aux	_	Gloss=XX
+6	fi	fi	VERB	_	_	5	comp:aux	_	Gloss=exceed
 7	dàːmuwaː	daːm-	VERB	_	Gender=Fem	6	comp:obj	_	Gloss=worry.Vnoun.Fem
 8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=with
 9	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	comp:obj	_	Gloss=3Masc.Nom
@@ -482,7 +482,7 @@
 23	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	24	comp:pred	_	Gloss=3Masc.Nom
 24	nèː	neː	AUX	_	_	0	root	_	Gloss=be
 25	yi	yi	VERB	_	_	24	dislocated@comp	_	Gloss=do
-26	wà	wà	ADP	_	Case=Dat	25	comp:obl	_	Gloss=XX
+26	wà	wà	ADP	_	Case=Dat	25	comp:obl	_	Gloss=Dat
 27	yâːraː	yaːròː	NOUN	_	Number=Plur	26	comp:obj	_	Gloss=child.Plur
 28	maːtaː	màːtaː	ADJ	_	Number=Plur	27	mod	_	Gloss=female.Plur
 29	aureː	aureː	NOUN	_	Gender=Masc	25	comp:pred	_	Gloss=marriage.Masc
@@ -555,7 +555,7 @@
 36	zaːtà	zâi	AUX	_	Gender=Fem|Person=3|Tense=Fut	35	comp:obj	_	Gloss=3Fem.Fut
 37	hanà	han-	VERB	_	_	36	comp:aux	_	Gloss=prevent
 38	yi	yi	VERB	_	_	37	comp:obj	_	Gloss=do
-39	wà	wà	ADP	_	Case=Dat	38	comp:obl	_	Gloss=XX
+39	wà	wà	ADP	_	Case=Dat	38	comp:obl	_	Gloss=Dat
 40	maːtaː	màːtaː	NOUN	_	Number=Plur	39	comp:obj	_	Gloss=woman.Plur
 41	ƙanaːnàː	ƙàramiː	ADJ	_	Number=Plur	40	mod	_	Gloss=small.Plur
 42	aureː	aureː	NOUN	_	Gender=Masc	38	comp:obj	_	Gloss=marriage.Masc|SpaceAfter=No
