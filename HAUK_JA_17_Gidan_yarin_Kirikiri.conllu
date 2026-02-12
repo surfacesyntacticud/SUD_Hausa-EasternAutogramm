@@ -11,7 +11,7 @@
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP|wordform=da
 4	Ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	15	subj	_	Gloss=organisation.Fem.Cons
 5	Neːmàː	neːm-	VERB	_	_	4	mod	_	Gloss=look_for
-6	wà	wà	ADP	_	_	5	comp:obl	_	Gloss=XX
+6	wà	wà	ADP	_	Case=Dat	5	comp:obl	_	Gloss=Dat
 7	Jàma'àː	jàma'àː	NOUN	_	Gender=Fem	6	comp:obj	_	Gloss=community.Fem
 8	Haƙƙìn	haƙƙìː	NOUN	_	Definite=Cons	5	comp:obj	_	Gloss=rights.Masc.Cons|SpaceAfter=No|wordform=Haƙƙinsù
 9	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	8	mod	_	Gloss=3Plur.Gen
@@ -134,7 +134,7 @@
 26	wasu	wani	PRON	_	Definite=Spec|Number=Plur|PronType=Ind	27	subj	_	Gloss=some.Plur.Spec
 27	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	20	parataxis:conj	_	Gloss=3Plur.Sub
 28	bâi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	27	comp:aux	_	Gloss=3Masc.Prog.Neg
-29	wà	wà	ADP	_	_	28	comp:obl	_	Gloss=XX
+29	wà	wà	ADP	_	Case=Dat	28	comp:obl	_	Gloss=Dat
 30	wasu	wani	DET	_	Definite=Spec|Number=Plur	29	comp:obj	_	Gloss=some.Plur.Spec|SpaceAfter=No
 31	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 32	baːyan	baːyan	ADP	_	_	28	mod	_	Gloss=after
@@ -269,7 +269,7 @@
 9	dá	dá	CCONJ	_	_	10	cc	_	Gloss=XX
 10	sàbà'in	sàbà'in	NUM	_	_	7	conj:coord	_	Gloss=seventy
 11	dà	dà	ADP	_	_	10	mod	_	Gloss=with|wordform=ɗà
-12	biyu	biyu	NUM	_	_	11	comp:obj	_	Gloss=XX
+12	biyu	biyu	NUM	_	_	11	comp:obj	_	Gloss=two
 13	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=COMP
 14	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	13	comp:obj	_	Gloss=Prog.Rel
 15	jiràn	jiraː	VERB	_	Definite=Cons|Gender=Masc	14	comp:aux	_	Gloss=wait.Vnoun.Masc.Cons
@@ -397,7 +397,7 @@
 18	haɗàr̃iː	haɗàr̃iː	NOUN	_	Gender=Masc	17	comp:obj	_	Gloss=danger.Masc|SpaceAfter=No
 19	;	;	PUNCT	_	_	36	punct	_	Gloss=PUNCT
 20	wàːtòː	wàːtòː	PART	_	_	36	discourse	_	Gloss=that_is
-21	zaːfiː	zaːfiː	NOUN	_	Gender=Masc	36	subj	_	Gloss=XX
+21	zaːfiː	zaːfiː	NOUN	_	Gender=Masc	36	subj	_	Gloss=heat.Masc
 22	dà	dà	CCONJ	_	_	23	cc	_	Gloss=and
 23	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	21	conj:coord	_	Gloss=lack.Vnoun.Masc.Cons
 24	ìsasshiyar̃	ìsassheː	ADJ	_	Definite=Cons|Gender=Fem	25	mod	_	Gloss=sufficient.fem
@@ -493,7 +493,7 @@
 11	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=COMP
 12	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	11	comp:obj	_	Gloss=4.Prog.Rel|wordform=akề
 13	bâi	baː	VERB	_	_	12	comp:aux	_	Gloss=give
-14	wà	wà	ADP	_	Case=Dat	13	comp:obl	_	Gloss=XX
+14	wà	wà	ADP	_	Case=Dat	13	comp:obl	_	Gloss=Dat
 15	tsàːràrrûn	tsàːràrreː	NOUN	_	Definite=Def	14	comp:obj	_	Gloss=prisoner.Plur.Def
 16	samsam	samsan	IDEO	_	_	17	mod	_	Gloss=at_all
 17	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	12	conj:coord	_	Gloss=3Masc.Perf.Neg
@@ -525,7 +525,7 @@
 10	waːrèːwaː	waːr-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	9	comp:aux	_	Gloss=set_aside.Vnoun.fem
 11	dòːmin	dòːmin	SCONJ	_	_	10	mod	_	Gloss=in_order_to
 12	sayàː	say-	VERB	_	_	11	comp:obj	_	Gloss=buy
-13	wà	wà	ADP	_	Case=Dat	12	comp:obl	_	Gloss=XX
+13	wà	wà	ADP	_	Case=Dat	12	comp:obl	_	Gloss=Dat
 14	ɗàuràrrûn	ɗàuràrraː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:obj	_	Gloss=XX
 15	àbinci	àbinci	NOUN	_	Gender=Masc	14	mod	_	Gloss=food.Masc
 16	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	5	dislocated@subj	_	Gloss=3Plur.Perf
@@ -548,7 +548,7 @@
 33	sàyaː	sàyaː	VERB	_	_	32	comp:aux	_	Gloss=XX
 34	don	don	SCONJ	_	_	27	mod	_	Gloss=so_that
 35	bâi	baː	VERB	_	_	34	comp:obj	_	Gloss=give
-36	wà	wà	ADP	_	Case=Dat	35	comp:obl	_	Gloss=XX
+36	wà	wà	ADP	_	Case=Dat	35	comp:obl	_	Gloss=Dat
 37	ɗàuràrrûn	ɗàurarreː	NOUN	_	Definite=Def|Gender=Masc	36	comp:obj	_	Gloss=prisoner.Plur.Def|SpaceAfter=No
 38	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
@@ -591,7 +591,7 @@
 14	Ànnabì	Ànnabì	PROPN	_	_	12	conj:coord	_	Gloss=Prophet
 15	ceː	neː	AUX	_	Gender=Fem	10	comp:obj	_	Gloss=be.Fem|SpaceAfter=No
 16	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-17	àmmaː	àmmaː	CCONJ	_	_	19	cc	_	Gloss=XX
+17	àmmaː	àmmaː	CCONJ	_	_	19	cc	_	Gloss=but
 18	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	19	subj	_	Gloss=report.Masc.Defː
 19	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	conj:coord	_	Gloss=3Masc.Perf
 20	cêː	cêː	VERB	_	_	19	comp:aux	_	Gloss=say|wordform=cê
@@ -600,7 +600,7 @@
 23	dàlìːlân	dàliːlìː	NOUN	_	Definite=Def	21	subj	_	Gloss=cause.Plur.Def|SpaceAfter=No
 24	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 25	tun	tun	ADP	_	_	21	mod	_	Gloss=since
-26	bàː	bàː	PART	_	Polarity=Neg	28	mod	_	Gloss=XX
+26	bàː	bàː	PART	_	PartType=Ill|Polarity=Neg	28	mod	_	Gloss=Neg
 27	maː	maː	PART	_	_	26	discourse@top	_	Gloss=XX
 28	kàmar̃	kàmar̃	ADP	_	_	25	comp:obj	_	Gloss=like|wordform=kaːrmar
 29	ciːwòn	ciːwòː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	Gloss=illness.Masc.Cons
@@ -662,7 +662,7 @@
 14	mutàːneː	mùtûm	NOUN	_	Number=Plur	12	comp:obl	_	Gloss=people.Plur|SpaceAfter=No|wordform=mutâne
 15	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 16	kuma	kuma	CCONJ	_	_	21	cc	_	Gloss=also
-17	bàː	bàː	PART	_	Polarity=Neg	18	mod	_	Gloss=XX
+17	bàː	bàː	PART	_	PartType=Ill|Polarity=Neg	18	mod	_	Gloss=Neg
 18	àbin	àbiː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:pred	_	Gloss=thing.Masc.Cons
 19	màːmaːkìː	màːmaːkìː	NOUN	_	Gender=Masc	18	mod	_	Gloss=wonder.Masc
 20	ba	ba	PART	_	PartType=Ill|Polarity=Neg	18	mod	_	Gloss=Neg

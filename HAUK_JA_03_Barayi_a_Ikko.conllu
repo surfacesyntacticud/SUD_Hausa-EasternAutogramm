@@ -56,7 +56,7 @@
 7	nèː	neː	AUX	_	_	0	root	_	Gloss=be
 8	kuma	kuma	PART	_	PartType=Disc	7	discourse@top	_	Gloss=also
 9	bankìː	bankìː	NOUN	_	Gender=Masc	7	dislocated@comp	_	Gloss=XX
-10	mafìː	mafìː	ADP	_	_	9	mod	_	Gloss=exceeding_in
+10	mafìː	mafìː	PART	_	PartType=Der	9	mod	_	Gloss=exceeding_in
 11	girmaː	girmaː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=XX
 12	à	à	ADP	_	_	10	mod	_	Gloss=at
 13	cikin	cikin	ADP	_	_	12	comp:obj	_	Gloss=inside
@@ -66,7 +66,7 @@
 
 # sent_id = 03_Barayi_a_Ikko__3
 # text = tòː waɗànnân ꞌyan sàndaː dà kèː sintir̃iː à wurîn sai sukà tsayàː dòːmin ganin àbîn dà kèː fàːruwaː.
-1	tòː	tòː	INTJ	_	_	11	discourse	_	Gloss=XX
+1	tòː	tòː	INTJ	_	_	11	discourse	_	Gloss=well
 2	waɗànnân	wannàn	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	3	det	_	Gloss=ProxS.Plur
 3	ꞌyan	ɗan	NOUN	_	Definite=Cons|Number=Plur	11	subj	_	Gloss=XX
 4	sàndaː	sàndaː	NOUN	_	_	3	compound	_	Gloss=XX
@@ -75,7 +75,7 @@
 7	sintir̃iː	sintir̃iː	NOUN	_	Gender=Masc	6	conj:coord	_	Gloss=patrolling.Masc
 8	à	à	ADP	_	_	7	mod	_	Gloss=at
 9	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	8	comp:obj	_	Gloss=place.Masc.Def
-10	sai	sai	ADV	_	_	11	mod	_	Gloss=XX
+10	sai	sai	ADV	_	_	11	mod	_	Gloss=then
 11	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
 12	tsayàː	tsay-	VERB	_	_	11	comp:aux	_	Gloss=stop
 13	dòːmin	dòːmin	SCONJ	_	_	12	mod	_	Gloss=XX
@@ -97,7 +97,7 @@
 7	moːtàr̃	moːtàː	NOUN	_	Definite=Cons|Gender=Fem	6	comp:obj	_	Gloss=car.Fem.Cons|SpaceAfter=No|wordform=moːtàr̃sù
 8	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	7	mod	_	Gloss=3Plur.Gen
 9	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-10	sai	sai	ADV	_	_	16	mod	_	Gloss=XX
+10	sai	sai	ADV	_	_	16	mod	_	Gloss=then
 11	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	16	subj	_	Gloss=people.Plur.Def
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 13	kèː	nàː	AUX	_	Aspect=Prog	12	comp:obj	_	Gloss=Prog.Rel
@@ -107,7 +107,7 @@
 17	faːrà	faːr-	VERB	_	_	16	comp:aux	_	Gloss=begin
 18	yi	yi	VERB	_	_	17	comp:obj	_	Gloss=do
 19	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	18	comp:obl	_	Gloss=3Plur.Dat
-20	ruwan	ruwaː	NOUN	_	Definite=Cons|Number=Plur	18	comp:pred	_	Gloss=XX
+20	ruwan	ruwaː	NOUN	_	Definite=Cons|Number=Plur	18	comp:pred	_	Gloss=water.Masc.Cons
 21	hàr̃saːshìː	hàr̃saːshìː	NOUN	_	Gender=Masc	20	mod	_	Gloss=XX|SpaceAfter=No
 22	.	.	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 
@@ -137,7 +137,7 @@
 4	ta	ta	AUX	_	_	2	comp:obj	_	Gloss=XX
 5	lafàː	lafàː	VERB	_	_	4	comp:aux	_	Gloss=XX|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-7	sai	sai	ADV	_	_	10	mod	_	Gloss=XX
+7	sai	sai	ADV	_	_	10	mod	_	Gloss=then
 8	ꞌyan	ɗan	NOUN	_	Definite=Cons|Number=Plur	10	subj	_	Gloss=XX
 9	sàndân	sàndaː	NOUN	_	_	8	compound	_	Gloss=XX
 10	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
@@ -374,7 +374,7 @@
 7	dòːkar̃	dòːkaː	NOUN	_	Definite=Cons|Gender=Fem	27	dislocated@subj	_	Gloss=XX
 8	soːjì	soːjì	NOUN	_	Gender=Masc	7	mod	_	Gloss=XX
 9	ta	na	PART	_	Case=Gen|Gender=Fem	7	mod:num	_	Gloss=Gen.Fem
-10	biyu	biyu	NUM	_	_	9	comp:obj	_	Gloss=XX
+10	biyu	biyu	NUM	_	_	9	comp:obj	_	Gloss=two
 11	-	-	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	7	mod@relcl	_	Gloss=that.Fem
 13	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	12	comp:obj	_	Gloss=3Fem.Perf.Rel
