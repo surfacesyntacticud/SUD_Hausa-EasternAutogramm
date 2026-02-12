@@ -57,7 +57,7 @@
 17	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 18	tòː	tòː	INTJ	_	_	25	discourse	_	Gloss=well
 19	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	25	subj	_	Gloss=3Masc.Nom
-20	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	19	mod@relcl	_	Gloss=REL.Sing
+20	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	19	mod@relcl	_	Gloss=REL.Masc
 21	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	20	comp:obj	_	Gloss=4.Perf.Rel
 22	ɗuːràː	ɗuːràː	VERB	_	ExtPos=NOUN|Gender=Fem	21	comp:aux	_	Gloss=XX
 23	wà	wà	ADP	_	Case=Dat|Gender=Masc|PronType=Dem	22	comp:obl	_	Gloss=Dat
@@ -177,7 +177,7 @@
 9	namijì	namijì	NOUN	_	Gender=Masc	7	conj:coord	_	Gloss=XX|SpaceAfter=No
 10	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 11	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	13	dislocated@subj	_	Gloss=3Masc.Nom
-12	maː	maː	PART	_	_	11	discourse@top	_	Gloss=XX
+12	maː	maː	PART	_	_	11	discourse@top	_	Gloss=even
 13	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Prog
 14	iyà	iy-	VERB	_	_	13	comp:aux	_	Gloss=be_able_to
 15	bazà	bazà	ADP	_	_	14	comp:obj	_	Gloss=XX
@@ -241,7 +241,7 @@
 49	dà	dà	CCONJ	_	_	50	cc	_	Gloss=and
 50	màniyyìn	màniyyìːsù	NOUN	_	Definite=Cons|Gender=Fem|Person=3	47	conj:coord	_	Gloss=XX|SpaceAfter=No|wordform=màniyyìnsà
 51	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	50	mod	_	Gloss=3Masc.Gen
-52	har̃	har̃	ADP	_	_	44	mod	_	Gloss=XX
+52	har̃	har̃	ADP	_	_	44	mod	_	Gloss=up_to
 53	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	52	comp:obj	_	Gloss=year.Fem
 54	takwàs	takwàs	NUM	_	_	53	mod:num	_	Gloss=eight
 55	koː	koː	CCONJ	_	_	56	cc	_	Gloss=XX
@@ -275,7 +275,7 @@
 9	Aːbir̃ù	Aːbir̃ù	PROPN	_	_	8	mod	_	Gloss=Ivory
 10	Kwâs	Kwâs	PROPN	_	_	9	flat@name	_	Gloss=Coast|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-12	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	3	mod@relcl	_	Gloss=REL.Sing
+12	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	3	mod@relcl	_	Gloss=REL.Masc
 13	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	12	comp:obj	_	Gloss=3Masc.Perf.Rel
 14	nuːnà	nuːn-	VERB	_	_	13	comp:aux	_	Gloss=show
 15	cêːwaː	cêːwaː	SCONJ	_	_	14	comp:obj	_	Gloss=COMP
@@ -416,7 +416,7 @@
 # text_ortho = Ministàn, wandà shiː nèː shùːgàban kwàmìtî kân cùːtar̃ AIDS, ya ƙaːràː dà cêːwaː kwàmìtînsà yanàː naːnàːtaː wà asibitoːciː sù tabbatar̃ dà kyâun jinîn dà zaː sù ɗuːràː wà maràsaː laːfiyàː, koː dà yakè yaː cêː bàbbar̃ màtsalàː ita cèː rashìn naːꞌur̃oːr̃in duːbà jiniː.
 1	ministàn	ministàː	NOUN	_	_	12	subj	_	Gloss=XX|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-3	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	1	mod@relcl	_	Gloss=REL.Sing
+3	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	1	mod@relcl	_	Gloss=REL.Masc
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	5	comp:pred	_	Gloss=3Masc.Nom
 5	nèː	neː	AUX	_	_	3	comp:obj	_	Gloss=be
 6	shùːgàban	shùːgàbaː	NOUN	_	_	5	dislocated@comp	_	Gloss=leader.Masc.Cons
@@ -585,7 +585,7 @@
 16	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=rather_than
 17	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	16	comp:obj	_	Gloss=3Plur.Sub
 18	gùji	gud-	VERB	_	_	17	comp:aux	_	Gloss=avoid
-19	dukkàn	dukkàː	DET	_	Definite=Cons|Gender=Masc	20	det	_	Gloss=XX
+19	dukkàn	dukà	DET	_	Definite=Cons|Gender=Masc	20	det	_	Gloss=all
 20	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	18	comp:obj	_	Gloss=thing.Masc.Def
 21	dà	dà	SCONJ	_	_	20	mod@relcl	_	Gloss=COMP
 22	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	21	comp:obj	_	Gloss=3Masc.Fut
