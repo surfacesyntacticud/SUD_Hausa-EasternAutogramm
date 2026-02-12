@@ -38,7 +38,7 @@
 24	dioxide	dioxide	X	_	Foreign=Yes|Gender=Masc	23	flat@foreign	_	Gloss=dioxide|Lang=en|SpaceAfter=No
 25	"	"	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 26	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-27	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=XX
+27	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	0	root	_	Gloss=3Fem.Perf.Rel
 28	riƙà	riƙ-	VERB	_	_	27	comp:aux	_	Gloss=keep_doing
 29	fìtaː	fìtaː	VERB	_	ExtPos=NOUN|Gender=Fem	28	comp:obj	_	Gloss=go_out.Vnoun.Fem
 30	dàgà	dàgà	ADP	_	_	29	comp:obl	_	Gloss=from
@@ -47,7 +47,7 @@
 33	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	34	mod@desc	_	Gloss=country.Fem.Cons
 34	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	31	mod	_	Gloss=Cameroon
 35	har̃	har̃	SCONJ	_	_	28	mod	_	Gloss=so_that
-36	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	35	comp:obj	_	Gloss=XX
+36	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	35	comp:obj	_	Gloss=3Fem.Perf.Rel
 37	yi	yi	VERB	_	_	36	comp:aux	_	Gloss=do
 38	sànàdiyyàr̃	sànàdiyyàː	NOUN	_	Definite=Cons|Gender=Fem	37	comp:pred	_	Gloss=cause.Fem.Cons
 39	mutuwàr̃	mutuwàː	NOUN	_	Definite=Cons|Gender=Fem	38	mod	_	Gloss=death.Fem.Cons|wordform=mutawar
@@ -140,7 +140,7 @@
 8	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	7	comp:obj	_	Gloss=river.Masc.Def
 9	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also|SpaceAfter=No
 10	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-11	sai	sai	ADV	_	_	16	mod	_	Gloss=XX
+11	sai	sai	ADV	_	_	16	mod	_	Gloss=then
 12	duk	dukà	DET	_	_	13	det	_	Gloss=all
 13	mutàːnen	mùtûm	NOUN	_	Definite=Cons|Number=Plur	16	subj	_	Gloss=people.Plur.Cons
 14	cikin	cikin	ADP	_	_	13	mod	_	Gloss=inside
@@ -186,7 +186,7 @@
 14	sassaːɓùːleː	sassaːɓuːl-	VERB	_	_	13	comp:aux	_	Gloss=blister
 15	ba	ba	PART	_	PartType=Ill|Polarity=Neg	5	mod	_	Gloss=Neg|SpaceAfter=No
 16	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-17	àmmaː	àmmaː	CCONJ	_	_	18	cc	_	Gloss=XX
+17	àmmaː	àmmaː	CCONJ	_	_	18	cc	_	Gloss=but
 18	gàː	gàː	PART	_	_	4	conj:coord	_	Gloss=XX
 19	fuskoːkin	fuskàː	NOUN	_	Number=Plur	18	subj	_	Gloss=face.Plur.Cons|SpaceAfter=No|wordform=fuskoːkinsù
 20	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	19	mod	_	Gloss=3Plur.Gen
@@ -306,13 +306,13 @@
 18	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	17	comp:obj	_	Gloss=Cameroon
 19	dà	dà	CCONJ	_	_	20	cc	_	Gloss=and
 20	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	18	conj:coord	_	Gloss=Nigeria|SpaceAfter=No
-21	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
-22	indà	indà	ADV	_	PronType=Rel	29	mod	_	Gloss=where
+21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
+22	indà	indà	SCONJ	_	PronType=Rel	20	mod@relcl	_	Gloss=where
 23	sabòːdà	sabòːdà	ADP	_	_	27	mod	_	Gloss=because_of
 24	yanàyin	yanàyiː	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=nature.Masc.Cons
 25	duwàːtsun	duːtsèː	VERB	_	Definite=Cons|Number=Plur	24	mod	_	Gloss=stone.Plur.Cons
 26	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	25	mod	_	Gloss=place.Masc.Def
-27	anàː	nàː	AUX	_	Aspect=Prog|Person=4	15	mod@relcl	_	Gloss=4.Prog
+27	anàː	nàː	AUX	_	Aspect=Prog|Person=4	22	comp:obj	_	Gloss=4.Prog
 28	iyà	iy-	VERB	_	_	27	comp:aux	_	Gloss=be_able_to
 29	saːmùn	saːmùː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	28	comp:obj	_	Gloss=get.Vnoun.Masc.Cons
 30	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=type.Masc.Cons

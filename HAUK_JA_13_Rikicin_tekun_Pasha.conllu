@@ -370,10 +370,10 @@
 6	à	à	ADP	_	_	2	mod	_	Gloss=at
 7	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	8	mod@desc	_	Gloss=city.Masc.Cons
 8	Kàtsinà	Kàtsinà	PROPN	_	_	6	comp:obj	_	Gloss=Kàtsinà
-9	indà	indà	ADV	_	PronType=Rel	13	mod	_	Gloss=where
+9	indà	indà	SCONJ	_	PronType=Rel	8	mod@relcl	_	Gloss=where
 10	ɗaruːruwàn	ɗàriː	NOUN	_	Definite=Cons|Number=Plur	12	subj	_	Gloss=hundred.Plur.Cons
 11	matàːsaː	matàːshiː	NOUN	_	Number=Plur	10	mod	_	Gloss=youth.Plur
-12	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	8	mod@relcl	_	Gloss=3Plur.Perf.Rel
+12	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	9	comp:obj	_	Gloss=3Plur.Perf.Rel
 13	yi	yi	VERB	_	_	12	comp:aux	_	Gloss=XX
 14	zàngà-zangàr̃	zàngà-zangà	NOUN	_	Definite=Cons|Gender=Masc	13	comp:pred	_	Gloss=demonstration.Fem.Cons
 15	nuːnà	nuːn-	VERB	_	_	14	mod	_	Gloss=show
@@ -401,12 +401,12 @@
 5	biyûn	biyû	NUM	_	Definite=Def	4	comp:obj	_	Gloss=two.Def
 6	à	à	ADP	_	_	2	mod	_	Gloss=at
 7	Kanòː	Kanòː	PROPN	_	_	6	comp:obj	_	Gloss=Kanòː
-8	indà	indà	ADV	_	PronType=Rel	14	mod	_	Gloss=XX
+8	indà	indà	SCONJ	_	PronType=Rel	7	mod@relcl	_	Gloss=XX
 9	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	13	subj	_	Gloss=child.Plur.Cons
 10	sàndan	sàndaː	NOUN	_	_	9	compound	_	Gloss=baton.Masc.Cons
 11	kashè	kas-	VERB	_	Gender=Masc	9	compound	_	Gloss=kill
 12	tàr̃zòːmaː	tàr̃zòːmaː	NOUN	_	ExtPos=NOUN|Gender=Fem	11	compound	_	Gloss=riot.Fem
-13	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	7	mod@relcl	_	Gloss=3Plur.Perf.Rel
+13	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	8	comp:obj	_	Gloss=3Plur.Perf.Rel
 14	yi	yi	VERB	_	_	13	comp:aux	_	Gloss=XX
 15	sàmmakoː	sàmmakoː	NOUN	_	Gender=Masc	14	comp:pred	_	Gloss=early_morning_start
 16	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc	14	comp:obl	_	Gloss=XX

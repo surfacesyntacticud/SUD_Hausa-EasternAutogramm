@@ -1,7 +1,7 @@
 # sent_id = 08_Maciji__1
 # text = An ci wani macìːjiː mài dafìː
 1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
-2	ci	ci	VERB	_	_	1	comp:aux	_	Gloss=XX
+2	ci	ci	VERB	_	_	1	comp:aux	_	Gloss=eat
 3	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	4	det	_	Gloss=some.Masc.Spec
 4	macìːjiː	macìːjiː	NOUN	_	Number=Plur	2	comp:obj	_	Gloss=XX
 5	mài	mài	PART	_	Number=Sing|PartType=Der	4	mod	_	Gloss=owner/doer_of.Sing
@@ -102,7 +102,7 @@
 10	kùmurciː	kùmurciː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=XX
 11	kàːfin	kàːfin	SCONJ	_	_	8	mod	_	Gloss=before
 12	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	11	comp:obj	_	Gloss=3Plur.Sub
-13	ci	ci	VERB	_	_	12	comp:aux	_	Gloss=XX
+13	ci	ci	VERB	_	_	12	comp:aux	_	Gloss=obtain
 14	nasar̃àr̃	nasar̃àː	NOUN	_	Gender=Fem	13	comp:obj	_	Gloss=success.Fem.Cons
 15	dafàː	dafàː	ADP	_	_	14	mod	_	Gloss=XX
 16	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	15	comp:obj	_	Gloss=3Masc.Acc
@@ -116,7 +116,7 @@
 1	Tòː	tòː	INTJ	_	_	8	discourse	_	Gloss=XX
 2	indà	indà	ADV	_	PronType=Rel	8	subj	_	Gloss=where
 3	màtsalàr̃	màtsalaː	NOUN	_	Definite=Def|Gender=Fem	4	subj	_	Gloss=problem.Fem.Def
-4	ta	ta	AUX	_	Aspect=Perf|Gender=Fem|Person=3	2	mod@relcl	_	Gloss=XX
+4	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	2	mod@relcl	_	Gloss=3Fem.Perf.Rel
 5	faːrà	faːràː	VERB	_	_	4	comp:aux	_	Gloss=begin
 6	taːshìː	taːs-	VERB	_	ExtPos=NOUN|Gender=Masc	5	comp:obj	_	Gloss=rise.Vnoun.Masc
 7	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	comp:pred	_	Gloss=3Masc.Nom
@@ -133,7 +133,7 @@
 18	nan	nan	ADV	_	Definite=Def|Deixis=ProxH|ExtPos=ADV|PronType=Dem	24	mod	_	Gloss=ProxH
 19	dà	dà	CCONJ	_	_	20	cc	_	Gloss=and
 20	nan	nan	ADV	_	Definite=Def|Deixis=ProxH|PronType=Dem	18	conj:coord	_	Gloss=ProxH
-21	sai	sai	ADV	_	_	24	mod	_	Gloss=XX
+21	sai	sai	ADV	_	_	24	mod	_	Gloss=then
 22	waɗànnân	wannàn	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	23	det	_	Gloss=ProxS.Plur
 23	mutàːneː	mùtûm	NOUN	_	Number=Plur	24	subj	_	Gloss=people.Plur
 24	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	8	parataxis@conj	_	Gloss=3Plur.Perf.Rel
@@ -154,7 +154,7 @@
 1	Dàgà	Dàgà	PROPN	_	_	5	mod	_	Gloss=Dàgà
 2	nan	nan	ADV	_	Definite=Def|Deixis=ProxH|PronType=Dem	1	comp:obj	_	Gloss=ProxH
 3	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
-4	sai	sai	ADV	_	_	5	mod	_	Gloss=XX
+4	sai	sai	ADV	_	_	5	mod	_	Gloss=then
 5	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
 6	shìga	shig-	VERB	_	ExtPos=NOUN|Gender=Fem	5	comp:aux	_	Gloss=enter
 7	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:obj@G	_	Gloss=do.Vnoun.Masc.Cons
@@ -166,7 +166,7 @@
 1	Nan	nan	ADV	_	_	6	mod	_	Gloss=XX
 2	dà	dà	CCONJ	_	_	3	cc	_	Gloss=and
 3	nan	nan	ADV	_	Definite=Def|Deixis=ProxH|PronType=Dem	1	conj:coord	_	Gloss=ProxH
-4	sai	sai	ADV	_	_	6	mod	_	Gloss=XX
+4	sai	sai	ADV	_	_	6	mod	_	Gloss=then
 5	maƙwàbtaː	maƙwàb	NOUN	_	Number=Plur	6	subj	_	Gloss=XX
 6	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel|wordform=suka
 7	kwàːshi	kwaːs-	VERB	_	_	6	comp:aux	_	Gloss=XX
@@ -181,10 +181,10 @@
 16	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc	7	comp:obl	_	Gloss=towards
 17	asìbitìn	asìbitìː	NOUN	_	Definite=Cons|Gender=Masc	16	comp:obj	_	Gloss=hospital.Masc.Cons
 18	Gboko	Gboko	PROPN	_	_	17	mod	_	Gloss=Gboko|SpaceAfter=No
-19	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
-20	indà	indà	ADV	_	PronType=Rel	22	mod	_	Gloss=where
+19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
+20	indà	indà	SCONJ	_	PronType=Rel	17	mod@relcl	_	Gloss=where
 21	likitoːciː	likitoːciː	NOUN	_	Number=Plur	22	subj	_	Gloss=doctor.Plur
-22	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	17	mod@relcl	_	Gloss=3Plur.Perf.Rel
+22	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	20	comp:obj	_	Gloss=3Plur.Perf.Rel
 23	tàːru	tàːru	VERB	_	_	22	comp:aux	_	Gloss=XX
 24	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	22	parataxis@conj	_	Gloss=3Plur.Perf.Rel
 25	yi	yi	VERB	_	_	24	comp:aux	_	Gloss=do

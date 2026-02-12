@@ -81,7 +81,7 @@
 21	Japananciː	Japananciː	PROPN	_	_	20	mod	_	Gloss=Japanese|SpaceAfter=No
 22	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 23	dà	dà	ADP	_	_	0	root	_	Gloss=with
-24	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	23	comp:obj	_	Gloss=XX
+24	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	23	comp:obj	_	Gloss=sign.Fem
 25	bà	bà	PART	_	Polarity=Neg	26	mod	_	Gloss=XX
 26	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	24	mod@relcl	_	Gloss=4.Fut
 27	sàːmi	saːm-	VERB	_	_	26	comp:aux	_	Gloss=get
@@ -204,11 +204,11 @@
 4	hawaː	hawaː	NOUN	_	Gender=Masc	3	comp:aux	_	Gloss=floor.Masc
 5	na	na	PART	_	Case=Gen|PartType=Pred	4	mod:num	_	Gloss=Gen
 6	ɗaya	ɗaya	NUM	_	_	5	comp:obj	_	Gloss=one
-7	sai	sai	ADV	_	_	12	mod	_	Gloss=XX
+7	sai	sai	ADV	_	_	12	mod	_	Gloss=then
 8	wasu	wani	DET	_	Definite=Spec|Number=Plur	9	det	_	Gloss=some.Plur.Spec
 9	mutàneː	ùtûm	NOUN	_	Number=Plur	12	subj	_	Gloss=XX
 10	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	conj:appos	_	Gloss=3Plur.Nom
-11	biyu	biyu	NUM	_	_	10	mod:num	_	Gloss=XX
+11	biyu	biyu	NUM	_	_	10	mod:num	_	Gloss=two
 12	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
 13	shìga	shig-	VERB	_	ExtPos=NOUN|Gender=Fem	12	comp:aux	_	Gloss=enter
 14	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:obj@G	_	Gloss=do.Vnoun.Masc.Cons
@@ -230,7 +230,7 @@
 1	Tòː	tòː	INTJ	_	_	7	discourse	_	Gloss=XX
 2	shiːkèːnan	shiːkèːnan	INTJ	_	_	7	discourse	_	Gloss=XX|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-4	sai	sai	ADV	_	_	7	mod	_	Gloss=XX
+4	sai	sai	ADV	_	_	7	mod	_	Gloss=then
 5	wani	wani	DET	_	Definite=Spec|Gender=Masc	6	det	_	Gloss=some.Masc.Spec
 6	mùtûm	mùtûm	NOUN	_	Gender=Masc	7	subj	_	Gloss=XX
 7	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
@@ -239,10 +239,10 @@
 10	harìː	harìː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=attack.Masc
 11	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with|wordform=da
 12	sùkùddìr̃eːbàː	sùkùddìr̃eːbàː	NOUN	_	Gender=Fem	11	comp:obj	_	Gloss=screwdriver.Fem
-13	indà	indà	ADV	_	PronType=Rel	15	mod	_	Gloss=where
-14	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	10	mod@relcl	_	Gloss=3Masc.Perf.Rel
+13	indà	indà	SCONJ	_	PronType=Rel	10	mod@relcl	_	Gloss=where
+14	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	13	comp:obj	_	Gloss=3Masc.Perf.Rel
 15	daɓàː	daɓ-	VERB	_	_	14	comp:aux	_	Gloss=XX
-16	wà	wà	ADP	_	_	15	comp:obl	_	Gloss=XX
+16	wà	wà	ADP	_	Case=Dat	15	comp:obl	_	Gloss=Dat
 17	ɗaya	ɗaya	NUM	_	_	16	comp:obj	_	Gloss=one
 18	dàgà	dàgà	ADP	_	_	17	mod	_	Gloss=from
 19-20	cikinsù	_	_	_	_	_	_	_	_
@@ -330,7 +330,7 @@
 # text = Shiːkèːnan, sai 'yan sànda sukà kaːmèː shi sukà yi gàba dà shiː .
 1	Shiːkèːnan	shiːkèːnan	INTJ	_	_	6	discourse	_	Gloss=OK|SpaceAfter=No|wordform=Shikenan
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-3	sai	sai	ADV	_	_	6	mod	_	Gloss=XX
+3	sai	sai	ADV	_	_	6	mod	_	Gloss=then
 4	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	6	subj	_	Gloss=child.Plur.Cons
 5	sànda	sànda	VERB	_	_	4	compound	_	Gloss=XX
 6	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
@@ -373,7 +373,7 @@
 2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	subj	_	Gloss=3Masc.Nom
 3	Gianni	Gianni	PROPN	_	_	2	conj:appos	_	Gloss=Gianni
 4	Palma	Palma	PROPN	_	_	3	mod	_	Gloss=Palma
-5	sai	sai	ADV	_	_	6	mod	_	Gloss=XX
+5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
 6	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
 7	zoː	zoː	VERB	_	_	6	comp:aux	_	Gloss=go
 8	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	6	parataxis@conj	_	Gloss=3Masc.Perf.Rel
@@ -387,7 +387,7 @@
 # sent_id = 09_Salman_Rushdie__17
 # text = Can sai wani mùtûm ya taːsoː ya jeː ya ɗàuki irìn 'yar̃ naː'uːr̃âr̃ nan dà akèː ɗaukàr̃ màganàː - wàːtòː maːkar̃ufôː ya jeː ya faːrà duːkàn Gianni Palma dà ita.
 1	Can	can	ADV	_	_	5	mod	_	Gloss=over_there
-2	sai	sai	ADV	_	_	5	mod	_	Gloss=XX
+2	sai	sai	ADV	_	_	5	mod	_	Gloss=then
 3	wani	wani	DET	_	Definite=Spec|Gender=Masc	4	det	_	Gloss=some.Masc.Spec
 4	mùtûm	mùtûm	NOUN	_	Gender=Masc	5	subj	_	Gloss=XX
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
@@ -421,7 +421,7 @@
 # sent_id = 09_Salman_Rushdie__18
 # text = Shiːkèːnan sai 'yan sàndan ciki tàːre dà wasu 'yan jàːr̃ìːduː sukà taimàkaː akà kaːmèː shi akà sakàː masà ankwàː à hannunsà akà yi wàje dà shiː.
 1	Shiːkèːnan	shiːkèːnan	INTJ	_	_	11	discourse	_	Gloss=OK|wordform=Shikenan
-2	sai	sai	ADV	_	_	11	mod	_	Gloss=XX
+2	sai	sai	ADV	_	_	11	mod	_	Gloss=then
 3	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	11	subj	_	Gloss=child.Plur.Cons
 4	sàndan	sàndaː	NOUN	_	Definite=Cons|Gender=Masc	3	compound	_	Gloss=baton.Masc.Cons
 5	ciki	ciki	ADV	_	_	3	compound	_	Gloss=inside
@@ -457,7 +457,7 @@
 4	tàfiyàː	tàfiyàː	VERB	_	ExtPos=NOUN|Gender=Fem	3	comp:aux	_	Gloss=XX
 5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
 6	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	5	comp:obj	_	Gloss=3Masc.Nom
-7	sai	sai	ADV	_	_	8	mod	_	Gloss=XX
+7	sai	sai	ADV	_	_	8	mod	_	Gloss=then
 8	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
 9	kaː	yaː	VERB	_	Aspect=Perf|Gender=Masc|Person=2	8	comp:aux	_	Gloss=2Masc.Perf
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with
@@ -623,7 +623,7 @@
 17	bàkan	bàkansà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	16	comp:obj	_	Gloss=XX|SpaceAfter=No|wordform=bàkansà
 18	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	17	mod	_	Gloss=3Masc.Gen
 19	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-20	bàː	bàː	PART	_	Polarity=Neg	21	mod	_	Gloss=XX
+20	bàː	bàː	PART	_	PartType=Ill|Polarity=Neg	21	mod	_	Gloss=Neg
 21	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	13	parataxis@conj	_	Gloss=3Masc.Fut
 22	jaː	jaː	VERB	_	_	21	comp:aux	_	Gloss=XX
 23	dà	dà	ADP	_	_	22	comp:obl	_	Gloss=with

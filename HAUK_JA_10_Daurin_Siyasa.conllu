@@ -109,7 +109,7 @@
 25	shì	shi	AUX	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	24	comp:obj	_	Gloss=XX
 26	dà	dà	ADP	_	_	24	comp:obl	_	Gloss=with|wordform=da
 27	yi	yi	VERB	_	_	26	comp:obj	_	Gloss=do
-28	wà	wà	ADP	_	Case=Dat	27	comp:obl	_	Gloss=XX
+28	wà	wà	ADP	_	Case=Dat	27	comp:obl	_	Gloss=Dat
 29	tattalin	tattaliː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:pred	_	Gloss=XX
 30	ar̃zìkin	ar̃zìkiː	NOUN	_	Definite=Cons|Gender=Masc	29	mod	_	Gloss=XX
 31	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	30	mod	_	Gloss=country.Fem|wordform=kasaː
@@ -118,7 +118,7 @@
 34	koː	koː	CCONJ	_	_	36	cc	_	Gloss=XX
 35	kuma	kuma	PART	_	_	34	discourse@top	_	Gloss=also
 36	yi	yi	VERB	_	_	27	conj:coord	_	Gloss=do
-37	wà	wà	ADP	_	Case=Dat	36	comp:obl	_	Gloss=XX
+37	wà	wà	ADP	_	Case=Dat	36	comp:obl	_	Gloss=Dat
 38	tsàron	tsàroː	NOUN	_	Definite=Cons|Gender=Masc	37	comp:obj	_	Gloss=XX
 39	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	38	mod	_	Gloss=country.Fem|wordform=kasaː
 40	bàràːzanaː	bàràːzanaː	NOUN	_	Gender=Fem	36	comp:pred	_	Gloss=XX|SpaceAfter=No
@@ -156,7 +156,7 @@
 9	ta	ta	ADP	_	_	8	mod	_	Gloss=XX
 10	Biyu	biyu	NUM	_	_	9	comp:obj	_	Gloss=two|SpaceAfter=No
 11	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-12	tòː	tòː	INTJ	_	_	13	discourse	_	Gloss=XX
+12	tòː	tòː	INTJ	_	_	13	discourse	_	Gloss=well
 13	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 14	wata	wani	DET	_	Definite=Spec|Gender=Masc	15	det	_	Gloss=some.Fem.Spec
 15	koːtù	koːtù	NUM	_	PronType=Ind	13	subj	_	Gloss=XX
@@ -177,7 +177,7 @@
 4	na	na	ADP	_	_	3	mod	_	Gloss=XX
 5	Ƙungìyar̃	Ƙungìyar̃	PROPN	_	Definite=Cons|Gender=Fem	4	comp:obj	_	Gloss=Ƙungìyar̃
 6	Neːmàː	Neːmàː	PROPN	_	_	5	flat@name	_	Gloss=Neːmàː
-7	wà	wà	ADP	_	_	6	comp:obl	_	Gloss=XX
+7	wà	wà	ADP	_	Case=Dat	6	comp:obl	_	Gloss=Dat
 8	Jàma'àː	jàma'àː	PROPN	_	_	7	comp:obj	_	Gloss=people
 9	Haƙƙìn	haƙƙìː	NOUN	_	_	6	comp:obj	_	Gloss=Haƙƙìnsù|SpaceAfter=No|wordform=Haƙƙìnsù
 10	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	9	mod	_	Gloss=3Plur.Gen
@@ -246,8 +246,8 @@
 9	Bàbbar̃	bàbbaː	ADJ	_	Definite=Cons|Gender=Fem	10	mod	_	Gloss=big.Fem.Cons
 10	Koːtùn	koːtù	NOUN	_	Gender=Fem	8	comp:obj	_	Gloss=court.Fem
 11	Ìkko	Ìkko	PROPN	_	_	10	mod	_	Gloss=Lagos
-12	indà	indà	ADV	_	PronType=Rel	14	mod	_	Gloss=where
-13	sukèː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3|Relative=Rel	10	mod@relcl	_	Gloss=3Plur.Prog.Rel
+12	indà	indà	SCONJ	_	PronType=Rel	7	mod@relcl	_	Gloss=where
+13	sukèː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3|Relative=Rel	12	comp:obj	_	Gloss=3Plur.Prog.Rel
 14	neːman	neːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:aux	_	Gloss=XX
 15	à	yà	AUX	_	Mood=Sub|Person=4	14	comp:obj	_	Gloss=4.Sub
 16	bayyànà	bayyan-	VERB	_	Case=Gen|Number=Sing|Person=1	15	comp:aux	_	Gloss=explain
@@ -289,7 +289,7 @@
 27	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	25	mod	_	Gloss=XX
 28	tsawon	tsawoː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:obj	_	Gloss=XX
 29	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	28	mod	_	Gloss=year.Fem
-30	biyu	biyu	NUM	_	_	29	mod:num	_	Gloss=XX|SpaceAfter=No
+30	biyu	biyu	NUM	_	_	29	mod:num	_	Gloss=two|SpaceAfter=No
 31	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 32	bìsàː	bìsàː	ADP	_	_	25	comp:obl	_	Gloss=according_to
 33	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	34	det	_	Gloss=ProxS.Sing

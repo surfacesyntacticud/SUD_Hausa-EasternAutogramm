@@ -76,7 +76,7 @@
 40	dambe	dambe	ADP	_	_	39	mod	_	Gloss=XX
 41	ta	na	PART	_	Case=Gen|Gender=Fem	39	mod	_	Gloss=Gen.Fem
 42	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	41	comp:obj	_	Gloss=world.Fem
-43	ta	na	AUX	_	Aspect=Perf|Gender=Fem|Person=3	38	comp:obj	_	Gloss=XX
+43	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	38	comp:obj	_	Gloss=3Fem.Perf.Rel
 44	shiryàː	shir-	VERB	_	_	43	comp:aux	_	Gloss=prepare
 45	don	don	SCONJ	_	_	44	mod	_	Gloss=so_that
 46	neːmoː	neːm-	VERB	_	Gender=Masc	45	comp:obj	_	Gloss=XX
@@ -163,11 +163,11 @@
 23	Afir̃kà	Afir̃kà	PROPN	_	_	21	comp:obj	_	Gloss=Africa
 24	ta	na	PART	_	Case=Gen|Gender=Fem	23	mod	_	Gloss=Gen.Fem
 25	Kudù	Kudù	PROPN	_	_	24	comp:obj	_	Gloss=Kudù|SpaceAfter=No
-26	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
-27	wàːtòː	wàːtòː	PART	_	_	30	discourse	_	Gloss=that_is
-28	indà	indà	ADV	_	PronType=Rel	31	mod	_	Gloss=where
+26	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
+27	wàːtòː	wàːtòː	PART	_	_	28	discourse	_	Gloss=that_is
+28	indà	indà	SCONJ	_	PronType=Rel	23	mod@relcl	_	Gloss=where
 29	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	30	subj	_	Gloss=government.Fem.Def
-30	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	23	mod@relcl	_	Gloss=Prog.Rel
+30	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	28	comp:obj	_	Gloss=Prog.Rel
 31	nuːnà	nuːn-	VERB	_	_	30	comp:aux	_	Gloss=show
 32	waːriyar̃	waːriyaː	NOUN	_	Definite=Cons|Gender=Fem	31	comp:obj	_	Gloss=XX
 33	launìn	launìː	NOUN	_	Definite=Cons|Gender=Masc	32	mod	_	Gloss=XX
@@ -242,7 +242,7 @@
 27	sanâr̃waː	sanâr̃ː	VERB	_	Gender=Fem	26	comp:obj	_	Gloss=XX
 28	cêːwaː	cêːwaː	SCONJ	_	_	27	comp:obj	_	Gloss=COMP
 29	Lasisi	Lasisi	PROPN	_	_	31	subj	_	Gloss=Lasisi
-30	bàː	bàː	PART	_	Polarity=Neg	31	mod	_	Gloss=XX
+30	bàː	bàː	PART	_	PartType=Ill|Polarity=Neg	31	mod	_	Gloss=Neg
 31	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	28	comp:obj	_	Gloss=3Masc.Fut
 32	jeː	jeː	VERB	_	_	31	comp:aux	_	Gloss=XX
 33	wàːsân	wàːsaː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	32	comp:obj@G	_	Gloss=XX
@@ -275,7 +275,7 @@
 9	neː	neː	PART	_	PartType=Foc	5	discourse@foc	_	Gloss=Emph
 10	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	4	comp:obj	_	Gloss=3Masc.Perf.Rel
 11	r̃ubùːtaː	r̃ubùː	VERB	_	_	10	comp:aux	_	Gloss=XX
-12	wà	wà	ADP	_	_	11	comp:obl	_	Gloss=XX
+12	wà	wà	ADP	_	Case=Dat	11	comp:obl	_	Gloss=Dat
 13	Lasisi	Lasisi	PROPN	_	_	12	comp:obj	_	Gloss=Lasisi
 14	wàsiːƙàː	wàsiːƙàː	NOUN	_	Gender=Masc	13	flat@name	_	Gloss=XX
 15	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	10	parataxis@conj	_	Gloss=3Masc.Perf.Rel
@@ -293,7 +293,7 @@
 # sent_id = 07_Wasanni_a_Afirka__9
 # text = àmmaː kuma sakatar̃èn hùkuːmàr̃ dambe ta Nàːjeːr̃iyàː, wani mài suːnaː " Emmanuel Adeleye ", yaː fitoː à talàbijìn à bir̃nin Ìkko yanàː ƙaryàtà shùːgàban hùkuːmàr̃, yanàː ròːƙon jàma'àː dà sù baː dà goːyon baːyaː gà Lasisi ìdan ya zoː yîn dambe.
 # text_ortho = Àmmaː kuma sakatar̃èn Hùkuːmàr̃ Dambe ta Nàːjeːr̃iyàː, wani mài suːnaː 'Emmanuel Adeleye', yaː fitoː à talàbijìn à bir̃nin ìkko yanàː karyàtà shùːgàban Hùkuːmàr̃, yanàː ròːƙon jàma'àː dà sù baː dà goːyon baːyaː gà Lasisi ìdan ya zoː yîn dambe.
-1	àmmaː	àmmaː	CCONJ	_	_	17	discourse	_	Gloss=XX
+1	àmmaː	àmmaː	CCONJ	_	_	17	discourse	_	Gloss=but
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 3	sakatar̃èn	sakatar̃èː	NOUN	_	Definite=Cons|Gender=Masc	17	subj	_	Gloss=XX
 4	hùkuːmàr̃	hùkuːmàː	NOUN	_	Number=Plur	3	mod	_	Gloss=XX
@@ -352,7 +352,7 @@
 8	dambe	dambe	SCONJ	_	_	6	mod	_	Gloss=XX
 9	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	5	mod@relcl	_	Gloss=3Masc.Perf.Neg
 10	saːɓàː	saːɓàː	VERB	_	_	9	comp:aux	_	Gloss=XX
-11	wà	wà	ADP	_	Case=Dat	10	comp:obl	_	Gloss=XX
+11	wà	wà	ADP	_	Case=Dat	10	comp:obl	_	Gloss=Dat
 12	manufoːfin	manufoːfiː	NOUN	_	Definite=Cons|Number=Plur	11	comp:obj	_	Gloss=XX
 13	gwamnatì	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	12	mod	_	Gloss=government.Fem
 14	ba	ba	PART	_	PartType=Ill|Polarity=Neg	10	mod	_	Gloss=Neg|SpaceAfter=No
@@ -363,7 +363,7 @@
 19	àboːkin	àboːkiː	NOUN	_	Definite=Cons|Gender=Masc	28	subj	_	Gloss=XX
 20	damben	dambeː	NOUN	_	Definite=Cons|Gender=Masc	19	mod	_	Gloss=XX
 21	Lasisi	Lasisi	PROPN	_	_	19	mod	_	Gloss=Lasisi
-22	bàː	bàː	PART	_	Polarity=Neg	23	mod	_	Gloss=XX
+22	bàː	bàː	PART	_	PartType=Ill|Polarity=Neg	23	mod	_	Gloss=Neg
 23	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	28	compound:pred	_	Gloss=child.Masc.Cons
 24	Afir̃kà	Afir̃kà	PROPN	_	_	23	compound	_	Gloss=Africa
 25	ta	na	PART	_	Case=Gen|Gender=Fem	24	mod	_	Gloss=Gen.Fem
@@ -372,7 +372,7 @@
 28	nèː	neː	AUX	_	_	16	comp:obj	_	Gloss=be|SpaceAfter=No
 29	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 30	kuma	kuma	CCONJ	_	_	32	cc	_	Gloss=also
-31	bàː	bàː	PART	_	Polarity=Neg	32	mod	_	Gloss=XX
+31	bàː	bàː	PART	_	PartType=Ill|Polarity=Neg	32	mod	_	Gloss=Neg
 32	à	à	ADP	_	_	28	conj:coord	_	Gloss=at
 33	Afir̃kà	Afir̃kà	PROPN	_	_	32	comp:obj	_	Gloss=Africa
 34	ta	na	PART	_	Case=Gen|Gender=Fem	33	mod	_	Gloss=Gen.Fem
@@ -455,7 +455,7 @@
 # sent_id = 07_Wasanni_a_Afirka__13
 # text = tòː yànzu kuma gàː wasu dàgà sàːkàmakon wàːsànnîn dà akà yi na gàːsar̃ ƙwallon ƙafàː don cîn koːfìn ƙasàːshen Afır̃kà.
 # text_ortho = Tòː yànzu kuma gàː wasu dàgà sàːkàmakon wàːsànnîn dà akà yi na gàːsar̃ ƙwallon ƙafàː don cîn Koːfìn Ƙasàːshen Afır̃kà.
-1	tòː	tòː	INTJ	_	_	4	discourse	_	Gloss=XX
+1	tòː	tòː	INTJ	_	_	4	discourse	_	Gloss=well
 2	yànzu	yànzu	ADV	_	_	4	mod	_	Gloss=now
 3	kuma	kuma	PART	_	_	2	discourse@top	_	Gloss=also
 4	gàː	gàː	PART	_	PartType=Pred	0	root	_	Gloss=XX

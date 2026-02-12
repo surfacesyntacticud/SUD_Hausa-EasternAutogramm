@@ -263,9 +263,9 @@
 26	indà	indà	SCONJ	_	PronType=Rel	19	mod@relcl	_	Gloss=where
 27	zaːsù	zâi	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Fut	26	comp:obj	_	Gloss=3Plur.Fut|wordform=sù
 28	iyà	iy-	VERB	_	_	27	comp:aux	_	Gloss=be_able_to
-29	raːmà	raːmàː	VERB	_	_	28	comp:obj	_	Gloss=XX
-30	irin	irin	ADP	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=XX
-31	kar̃imcìn	kar̃imcìː	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=XX
+29	raːmà	raːm-	VERB	_	_	28	comp:obj	_	Gloss=return
+30	irin	irin	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=type.Masc.Cons
+31	kar̃imcìn	kar̃imcìː	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=generosity.Masc.Cons
 32	dà	dà	SCONJ	_	_	31	mod@relcl	_	Gloss=COMP
 33	ꞌyan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	35	subj	_	Gloss=child.Plur.Cons
 34	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	33	compound	_	Gloss=Nigeria
@@ -279,14 +279,14 @@
 # text_ortho = Jiyà kuma Gwamnàn Jihàr̃ Ànambar̃à da uwar̃gidansà sukà tàrbi Yàr̃iːmà da Gimbìyaː à fiːlin jirgin samàn na Inugù.
 1	jiyà	jiyà	ADV	_	_	9	mod	_	Gloss=yesterday
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
-3	Gwamnàn	Gwamnàn	PROPN	_	Definite=Cons|Gender=Masc	9	subj	_	Gloss=Gwamnàn
-4	Jihàr̃	Jihàr̃	PROPN	_	Definite=Cons|Gender=Fem	5	mod	_	Gloss=Jihàr̃
-5	Ànambar̃à	Ànambar̃à	PROPN	_	_	3	mod	_	Gloss=Ànambar̃à
+3	Gwamnàn	gwamnàn	PROPN	_	Definite=Cons|Gender=Masc	9	subj	_	Gloss=governor.Masc.Cons
+4	Jihàr̃	jihàː	NOUN	_	Definite=Cons|Gender=Fem	5	mod@desc	_	Gloss=state.Fem.Cons
+5	Ànambar̃à	Ànambar̃à	PROPN	_	_	3	mod	_	Gloss=Anambra
 6	dà	da	CCONJ	_	_	7	cc	_	Gloss=and|wordform=da
-7	uwar̃gidan	uwar̃gidaː	NOUN	_	Gender=Fem	3	conj:coord	_	Gloss=XX|SpaceAfter=No|wordform=uwar̃gidansà
+7	uwar̃gidan	uwar̃gidaː	NOUN	_	Gender=Fem	3	conj:coord	_	Gloss=wife.Fem.Cons|SpaceAfter=No|wordform=uwar̃gidansà
 8	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	7	mod	_	Gloss=3Masc.Gen
 9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
-10	tàrbi	tarb-	VERB	_	_	9	comp:aux	_	Gloss=XX
+10	tàrbi	tarb-	VERB	_	_	9	comp:aux	_	Gloss=go_meet
 11	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=prince.Masc
 12	dà	da	CCONJ	_	_	13	cc	_	Gloss=and|wordform=da
 13	Gimbìyaː	gimbìyaː	NOUN	_	Gender=Fem	11	conj:coord	_	Gloss=princess.Fem
@@ -301,29 +301,29 @@
 # sent_id = 02_Yarima_Charles__10
 # text = baːyan wata yaːrinyàː taː miːƙàː wà Yàr̃iːmà fùrànnin mar̃àːba sai mânyan bàːƙiː sukà zar̃cèː zuwàː gidan Gwamnàn indà sukà ci àbincin raːna.
 # text_ortho = Baːyan wata yaːrinyàː taː miːƙàː wà Yàr̃iːmà fùrànnin mar̃àːba sai mânyan bàːƙiː sukà zar̃cèː zuwà̠ː gidan Gwamnàn indà sukà ci àbincin raːna.
-1	baːyan	baːyan	ADP	_	_	4	mod	_	Gloss=after
+1	baːyan	baːyan	SCONJ	_	_	13	mod	_	Gloss=after
 2	wata	wani	DET	_	Definite=Spec|Gender=Masc	3	det	_	Gloss=some.Fem.Spec
-3	yaːrinyàː	yaːrinyàː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=XX
-4	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
-5	miːƙàː	miːƙàː	VERB	_	_	4	comp:aux	_	Gloss=XX
+3	yaːrinyàː	yaːrinyàː	NOUN	_	Gender=Fem	4	subj	_	Gloss=girl.Fem
+4	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.Perf
+5	miːƙàː	miːƙ-	VERB	_	_	4	comp:aux	_	Gloss=proffer
 6	wà	wà	ADP	_	Case=Dat	5	comp:obl	_	Gloss=Dat
 7	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=prince.Masc
-8	fùrànnin	fùrànniː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:obj	_	Gloss=XX
-9	mar̃àːba	mar̃àːba	NOUN	_	Number=Plur	8	mod	_	Gloss=XX
+8	fùrànnin	fùreː	VERB	_	_	5	comp:obj	_	Gloss=flower.Plur.Cons
+9	mar̃àːba	mar̃àːba	NOUN	_	_	8	mod	_	Gloss=welcome.Fem
 10	sai	sai	ADV	_	_	13	mod	_	Gloss=then
-11	mânyan	mânyai	ADJ	_	Definite=Cons|Number=Plur	12	mod	_	Gloss=XX
-12	bàːƙiː	bàːƙiː	NOUN	_	Number=Plur	13	subj	_	Gloss=XX
-13	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	4	parataxis@conj	_	Gloss=3Plur.Perf.Rel
-14	zar̃cèː	zar̃-	VERB	_	_	13	comp:aux	_	Gloss=XX
+11	mânyan	bàbbaː	ADJ	_	Definite=Cons|Number=Plur	12	mod	_	Gloss=big.Plur.Cons
+12	bàːƙiː	bàːƙoː	NOUN	_	Number=Plur	13	subj	_	Gloss=guest.Plur
+13	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
+14	zar̃cèː	zar̃t-	VERB	_	_	13	comp:aux	_	Gloss=move_on
 15	zuwàː	zuwàː	ADP	_	_	14	comp:obl	_	Gloss=towards
 16	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	15	mod	_	Gloss=house.Masc.Cons
-17	Gwamnàn	Gwamnàn	PROPN	_	_	16	mod	_	Gloss=Gwamnàn
-18	indà	indà	ADV	_	PronType=Rel	20	mod	_	Gloss=where
-19	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	16	mod@relcl	_	Gloss=3Plur.Perf.Rel
-20	ci	ci	VERB	_	_	19	comp:aux	_	Gloss=XX
-21	àbincin	àbinciː	NOUN	_	Definite=Cons|Gender=Masc	20	comp:obj	_	Gloss=XX
-22	raːna	raːna	ADV	_	_	21	mod	_	Gloss=XX|SpaceAfter=No
-23	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+17	Gwamnàn	gwamnàː	PROPN	_	_	16	mod	_	Gloss=governor.Masc
+18	indà	indà	SCONJ	_	PronType=Rel	16	mod@relcl	_	Gloss=where
+19	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	18	comp:obj	_	Gloss=3Plur.Perf.Rel
+20	ci	ci	VERB	_	_	19	comp:aux	_	Gloss=eat
+21	àbincin	àbinciː	NOUN	_	Definite=Cons|Gender=Masc	20	comp:obj	_	Gloss=food.Masc.Cons
+22	raːna	raːna	ADV	_	_	21	mod	_	Gloss=day|SpaceAfter=No
+23	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__11a
 # text = tòː an dai ci àbinci irìː-irìː, màsu sâː bàːkiː miyau .
@@ -331,7 +331,7 @@
 1	tòː	tòː	INTJ	_	_	2	discourse	_	Gloss=well
 2	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 3	dai	dai	PART	_	PartType=Top	2	discourse@top	_	Gloss=anyhow
-4	ci	ci	VERB	_	_	2	comp:aux	_	Gloss=XX
+4	ci	ci	VERB	_	_	2	comp:aux	_	Gloss=eat
 5	àbinci	àbinci	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=food.Masc
 6	irìː-irìː	irìː-irìː	ADJ	_	Gender=Masc	5	mod	_	Gloss=various|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
@@ -368,14 +368,14 @@
 4	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	3	comp:obj	_	Gloss=3Masc.Perf.Rel
 5	fi	fi	VERB	_	_	4	comp:aux	_	Gloss=XX
 6	ban	baː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:obj	_	Gloss=give
-7	shàꞌawàː	shàꞌawàː	NOUN	_	Gender=Fem	6	compound	_	Gloss=XX
+7	shàꞌawàː	shàꞌawàː	NOUN	_	Gender=Fem	6	compound	_	Gloss=liking.Fem
 8	kàmar̃	kàmar̃	ADP	_	_	5	mod	_	Gloss=like
 9	wata	wani	DET	_	Definite=Spec|Gender=Masc	11	det	_	Gloss=some.Fem.Spec
-10	shirgeːgìyar̃	shirgeːgèː	ADJ	_	Definite=Cons|Gender=Fem	11	mod	_	Gloss=XX
-11	tar̃waɗaː	tar̃waɗaː	NUM	_	_	8	comp:obj	_	Gloss=XX
+10	shirgeːgìyar̃	shirgeːgèː	ADJ	_	Definite=Cons|Gender=Fem	11	mod	_	Gloss=huge.Fem.Cons
+11	tar̃waɗaː	tar̃waɗaː	NOUN	_	_	8	comp:obj	_	Gloss=mudfish.Fem
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 13	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	12	comp:obj	_	Gloss=4.Perf.Rel
-14	ci	ci	VERB	_	_	13	comp:aux	_	Gloss=XX|SpaceAfter=No
+14	ci	ci	VERB	_	_	13	comp:aux	_	Gloss=eat|SpaceAfter=No
 15	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__13
