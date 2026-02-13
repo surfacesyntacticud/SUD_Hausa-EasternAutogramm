@@ -276,7 +276,7 @@
 1	Jàːmì'ân	jaːmì'iː	PROPN	_	Definite=Def|Number=Plur	2	subj	_	Gloss=leader.Plur.Def
 2	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
-4	kiràː	kir-	VERB	_	Gender=Masc	3	comp:pred	_	Gloss=call.Vnoun.Masc
+4	kiràː	kiraː	VERB	_	Gender=Masc	3	comp:pred	_	Gloss=call.Vnoun.Masc
 5	gà	gà	ADP	_	_	4	comp:obl	_	Gloss=to
 6	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	5	comp:obj	_	Gloss=people.Plur.Def
 7	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=COMP
@@ -313,8 +313,8 @@
 6	yi	yi	VERB	_	_	5	comp:aux	_	Gloss=do
 7	wani	wani	DET	_	Definite=Spec|Gender=Masc	8	det	_	Gloss=some.Masc.Spec
 8	gàr̃gàɗiː	gàr̃gàɗiː	NOUN	_	_	6	comp:pred	_	Gloss=recommendation.Masc
-9	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	8	comp:obl	_	Gloss=join.Stat
-10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with
+9	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Stat	10	mod	_	Gloss=together
+10	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with
 11	maːgungunàn	maːgàniː	NOUN	_	Definite=Cons|ExtPos=NOUN|Number=Plur	10	comp:obj	_	Gloss=medicine.Plur.Cons|Idiom=Yes
 12	kashè	kas-	VERB	_	_	11	compound	_	Gloss=kill|InIdiom=Yes
 13	ƙwàːriː	ƙwàːroː	NOUN	_	Number=Plur	12	compound	_	Gloss=insect.Plur

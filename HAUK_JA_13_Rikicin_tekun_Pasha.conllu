@@ -6,8 +6,8 @@
 4	à	à	ADP	_	_	2	mod	_	Gloss=at
 5	areːwacin	areːwacin	ADP	_	_	4	comp:obj	_	Gloss=north_of
 6	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	Number=Plur	5	comp:obj	_	Gloss=Nigeria
-7	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	2	mod	_	Gloss=together.Stat
-8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=with
+7	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Stat	8	mod	_	Gloss=together
+8	dà	dà	ADP	_	_	2	comp:obl	_	Gloss=with
 9	rìkicin	rìkiciː	NOUN	_	Definite=Cons	8	comp:obj	_	Gloss=crisis.Masc.Cons
 10	Tèːkun	tèːku	NOUN	_	Definite=Cons|Gender=Fem	9	mod	_	Gloss=sea.Fem.Cons|wordform=tèːkun
 11	Paːshà	Paːshà	PROPN	_	_	10	mod	_	Gloss=Paːshà
@@ -25,7 +25,7 @@
 9	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 10	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
-12	kiràː	kir-	VERB	_	ExtPos=NOUN|Gender=Masc	11	comp:pred	_	Gloss=call.Vnoun.Masc
+12	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc	11	comp:pred	_	Gloss=call.Vnoun.Masc
 13	gà	gà	ADP	_	_	12	comp:obl	_	Gloss=to
 14-15	jàma'àr̃sà	_	_	_	_	_	_	_	_
 14	jàma'àr̃	jàma'àː	NOUN	_	Definite=Cons|Gender=Fem	13	comp:obj	_	Gloss=people.Fem.Cons
@@ -52,8 +52,8 @@
 35	ɗàuki	ɗauk-	VERB	_	_	34	comp:aux	_	Gloss=take
 36	wasu	wani	DET	_	Definite=Spec|Number=Plur	37	det	_	Gloss=some.Plur.Spec
 37	màtàːkai	mataːkiː	NOUN	_	Number=Plur	35	comp:obj	_	Gloss=step.Plur
-38	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	35	comp:obl	_	Gloss=join.Stat
-39	dà	dà	ADP	_	_	38	comp:obl	_	Gloss=with
+38	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Stat	39	mod	_	Gloss=together
+39	dà	dà	ADP	_	_	35	comp:obl	_	Gloss=with
 40	rìkicîn	rìkiciː	NOUN	_	Definite=Def|Gender=Masc	39	comp:obj	_	Gloss=crisis.Masc.Def
 41	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	40	det	_	Gloss=ProxH
 42	na	na	PART	_	Case=Gen|PartType=Pred	40	mod	_	Gloss=Gen
@@ -68,7 +68,7 @@
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 4	yi	yi	VERB	_	_	3	comp:aux	_	Gloss=do
 5	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	6	det	_	Gloss=ProxS.Sing
-6	kiràn	kir-	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:pred	_	Gloss=call.Vnoun.Masc.Def
+6	kiràn	kiraː	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:pred	_	Gloss=call.Vnoun.Masc.Def
 7	neː	neː	PART	_	PartType=Foc	6	discourse@foc	_	Gloss=Emph
 8	baːyan	baːyan	ADP	_	_	4	mod	_	Gloss=after
 9	zàngà-zangà	zàngà-zangà	NOUN	_	Definite=Def|Gender=Fem	8	comp:obj	_	Gloss=demonstration.Fem
@@ -201,7 +201,7 @@
 23	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 24	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 25	yi	yi	VERB	_	_	24	comp:aux	_	Gloss=XX
-26	kiràː	kir-	VERB	_	ExtPos=NOUN|Gender=Masc	25	comp:pred	_	Gloss=XX
+26	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc	25	comp:pred	_	Gloss=call.Vnoun.Masc
 27	gà	gà	ADP	_	_	26	comp:obl	_	Gloss=XX
 28	dukkàn	dukà	DET	_	PronType=Tot	29	det	_	Gloss=all
 29	mùsùlmiː	mùsùlmiː	NOUN	_	Number=Plur	27	comp:obj	_	Gloss=muslim.Plur
@@ -215,8 +215,8 @@
 36	r̃a'àyin	r̃a'àyin	NOUN	_	Gender=Masc	35	comp:obj	_	Gloss=viewpoint.Masc.Cons
 37	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	36	mod	_	Gloss=3Plur.Gen
 38	à	à	ADP	_	_	35	comp:obl	_	Gloss=at
-39	gàme	gam-	VERB	_	VerbForm=Stat	38	comp:obj	_	Gloss=gather.Stat
-40	dà	dà	ADP	_	_	39	comp:obl	_	Gloss=with
+39	gàme	gàme	ADV	_	VerbForm=Stat	40	mod	_	Gloss=together
+40	dà	dà	ADP	_	_	38	comp:obj	_	Gloss=with
 41	rìkicin	rìkiciː	NOUN	_	Definite=Cons|Gender=Masc	40	comp:obj	_	Gloss=crisis.Masc.Cons
 42	Tèːkun	tèːku	NOUN	_	Definite=Cons|Gender=Fem	41	mod	_	Gloss=sea.Fem.Cons
 43	Paːshà	Paːshà	PROPN	_	_	42	mod	_	Gloss=Persia
@@ -576,7 +576,7 @@
 19	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 20	tòː	tòː	INTJ	_	_	32	discourse	_	Gloss=well
 21	àmmaː	àmmaː	CCONJ	_	_	32	cc	_	Gloss=but
-22	kiràn	kir-	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	32	subj	_	Gloss=call.Vnoun.Masc.Def
+22	kiràn	kiraː	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	32	subj	_	Gloss=call.Vnoun.Masc.Def
 23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=COMP|wordform=da
 24	Sarkin	sarkiː	NOUN	_	_	26	subj	_	Gloss=leader.Masc.Cons
 25	Mùsùlmiː	mùsùlmiː	PROPN	_	Number=Plur	24	mod	_	Gloss=muslim.Plur

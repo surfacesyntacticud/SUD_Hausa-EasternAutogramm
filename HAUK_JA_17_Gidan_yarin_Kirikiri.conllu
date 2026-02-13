@@ -70,7 +70,7 @@
 8	kiːwòn	kiːwòː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=tending.Masc.Cons
 9	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	8	mod	_	Gloss=health.Fem
 10	duk	dukà	DET	_	PronType=Tot	4	det	_	Gloss=all
-11	à	à	ADP	_	_	3	comp:obj	_	Gloss=XX
+11	à	à	ADP	_	_	3	comp:obj	_	Gloss=at
 12	tàɓàrɓàre	taɓarɓar-	VERB	_	_	11	comp:obj	_	Gloss=get_out_of_control.Stat
 13	sukè	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3|Relative=Rel2	11	comp:cleft	_	Gloss=2Plur.Prog.Rel|SpaceAfter=No
 14	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
@@ -101,7 +101,7 @@
 39	nèː	neː	AUX	_	_	17	parataxis@conj	_	Gloss=be
 40	à	à	ADP	_	_	36	comp:obl	_	Gloss=at
 41	gàban	gàban	ADP	_	_	40	comp:obj	_	Gloss=front
-42	koːtù	koːtù	PRON	_	_	41	mod	_	Gloss=XX|SpaceAfter=No
+42	koːtù	koːtù	NOUN	_	_	41	mod	_	Gloss=court.Fem|SpaceAfter=No
 43	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 17_Gidan_yarin_Kirikiri__4
@@ -149,7 +149,7 @@
 41	wasu	wani	DET	_	Definite=Spec|Number=Plur	42	det	_	Gloss=some.Plur.Spec
 42	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	48	subj	_	Gloss=child.Plur.Cons|wordform=yan
 43	fur̃sunoːnîn	fur̃sùnà	NOUN	_	Definite=Def	42	compound	_	Gloss=prisoner.Plur.Def
-44	kùwa	kùwa	PART	_	_	42	discourse@top	_	Gloss=XX
+44	kùwa	kùwa	PART	_	PartType=Top	42	discourse@top	_	Gloss=in_fact
 45	sai	sai	ADV	_	_	48	mod	_	Gloss=only
 46	dai	dai	PART	_	PartType=Top	45	discourse@top	_	Gloss=anyhow
 47	kawài	kawài	ADV	_	_	48	mod	_	Gloss=merely
@@ -214,7 +214,7 @@
 13	kûr̃kukùn	kûr̃kukùː	NOUN	_	Definite=Cons|Gender=Masc	14	mod@desc	_	Gloss=prison.Masc.Cons
 14	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	12	comp:obj	_	Gloss=Kirikiri
 15	baːyan	baːyan	SCONJ	_	_	2	mod	_	Gloss=after
-16	kùwa	kùwa	PART	_	_	15	discourse@top	_	Gloss=XX
+16	kùwa	kùwa	PART	_	PartType=Top	15	discourse@top	_	Gloss=in_fact
 17	an	yaː	AUX	_	Aspect=Perf|Person=4	15	comp:obj	_	Gloss=4.Perf
 18	shiryà	shir-	VERB	_	_	17	comp:aux	_	Gloss=prepare
 19	kûr̃kukùn	kûr̃kukoː	NOUN	_	Definite=Cons|Gender=Masc	18	comp:obj	_	Gloss=XX
@@ -316,7 +316,7 @@
 24	ìsasshen	ìsassheː	NOUN	_	Definite=Cons|Gender=Masc	25	mod	_	Gloss=sufficient.Masc.Cons
 25	fiːliː	fiːliː	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=space.Masc
 26	sai	sai	ADP	_	_	15	mod	_	Gloss=except_for
-27	fa	fa	PART	_	_	26	discourse@top	_	Gloss=XX
+27	fa	fa	PART	_	PartType=Top	26	discourse@top	_	Gloss=certainly
 28	wasu	wani	DET	_	Definite=Spec|Number=Plur	26	comp:obj	_	Gloss=some.Plur.Spec
 29	kàɗan	kàɗan	ADV	_	_	28	mod	_	Gloss=few
 30	dàgà	dàgà	ADP	_	_	28	mod	_	Gloss=from
@@ -390,7 +390,7 @@
 11	dà	dà	CCONJ	_	_	12	cc	_	Gloss=and
 12	na	na	PART	_	Case=Gen|PartType=Pred	7	conj:coord	_	Gloss=Gen
 13	tsabtàː	tsabtàː	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=hygiene.Fem
-14	à	à	ADP	_	_	7	mod	_	Gloss=XX
+14	à	à	ADP	_	_	7	mod	_	Gloss=at
 15	kûr̃kukùn	kûr̃kukùː	NOUN	_	Definite=Def|Gender=Masc	14	comp:obj	_	Gloss=prison.Masc.Def
 16	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	6	comp:obj	_	Gloss=3Masc.Prog
 17	dà	dà	ADP	_	_	16	comp:pred	_	Gloss=with
@@ -506,7 +506,7 @@
 24	àbincîn	àbinciː	NOUN	_	Definite=Cons|Gender=Masc	26	dislocated@subj	_	Gloss=food.Masc.Def
 25	kuma	kuma	PART	_	_	24	discourse@top	_	Gloss=also
 26	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	17	conj:coord	_	Gloss=there_is.Neg
-27	shi	shi	PRON	_	Gender=Masc|Person=3	26	subj	_	Gloss=XX
+27	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	26	subj	_	Gloss=3Masc.Acc
 28	dà	dà	ADP	_	_	26	comp:pred	_	Gloss=with|wordform=ɗà
 29	daːɗiː	daːɗiː	NOUN	_	Gender=Masc	28	comp:obj	_	Gloss=XX|SpaceAfter=No
 30	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -546,7 +546,7 @@
 31	dà	dà	SCONJ	_	_	30	mod@relcl	_	Gloss=COMP
 32	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	31	comp:obj	_	Gloss=4.Perf.Rel
 33	sàyaː	sàyaː	VERB	_	_	32	comp:aux	_	Gloss=XX
-34	don	don	SCONJ	_	_	27	mod	_	Gloss=so_that
+34	don	don	SCONJ	_	_	27	mod	_	Gloss=in_order_to
 35	bâi	baː	VERB	_	_	34	comp:obj	_	Gloss=give
 36	wà	wà	ADP	_	Case=Dat	35	comp:obl	_	Gloss=Dat
 37	ɗàuràrrûn	ɗàurarreː	NOUN	_	Definite=Def|Gender=Masc	36	comp:obj	_	Gloss=prisoner.Plur.Def|SpaceAfter=No
@@ -569,7 +569,7 @@
 13	mutù	mutù	VERB	_	_	12	comp:aux	_	Gloss=die
 14	à	à	ADP	_	_	13	mod	_	Gloss=at
 15	kûr̃kukùn	kûr̃kukùː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:obj	_	Gloss=prison.Masc.Def
-16	à	à	ADP	_	Mood=Sub|Person=4	13	mod	_	Gloss=XX
+16	à	à	ADP	_	Mood=Sub|Person=4	13	mod	_	Gloss=at
 17	bàːra	bàːra	ADV	_	_	16	comp:obj	_	Gloss=last_year|SpaceAfter=No
 18	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
@@ -698,8 +698,8 @@
 6	cêː	cêː	VERB	_	_	5	comp:aux	_	Gloss=say
 7	koːmeː	koːmeː	PRON	_	PronType=Ind	6	comp:obj	_	Gloss=XX
 8	ba	ba	PART	_	PartType=Ill|Polarity=Neg	6	mod	_	Gloss=Neg
-9	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	6	comp:obl	_	Gloss=join.Stat
-10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with
+9	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Stat	10	mod	_	Gloss=together
+10	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=with
 11	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	Gloss=report.Masc.Defː|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 

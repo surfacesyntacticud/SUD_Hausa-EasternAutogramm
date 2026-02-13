@@ -8,7 +8,7 @@
 
 # sent_id = 11_Fela_Kuti__2
 # text = À gaskiyaː ìdan kaː ga Fela Kuti yanàː tìːƙar̃ rawar̃sà à gàban jàma'àː, dà ƙyar̃ zaːkà yàr̃da dà cêwaː shèːkàrunsà hàmsin nèː dà haihùwaː.
-1	À	à	ADP	_	_	18	mod	_	Gloss=XX
+1	À	à	ADP	_	_	18	mod	_	Gloss=at
 2	gaskiyaː	gaskiyaː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=truth.Fem
 3	ìdan	ìdan	SCONJ	_	_	18	mod	_	Gloss=if
 4	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	3	comp:obj	_	Gloss=2Masc.Perf
@@ -119,7 +119,7 @@
 
 # sent_id = 11_Fela_Kuti__5
 # text = À loːkàcîn dà yakèː yîn wannàn aikìː neː ya dingà ƙòːƙarin zamaː makàɗiː, yanàː wàːƙe-wàːƙensà à kùlâb-kùlâb na bir̃nin Ìkko.
-1	À	à	ADP	_	_	9	mod	_	Gloss=XX
+1	À	à	ADP	_	_	9	mod	_	Gloss=at
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	1	comp:obj	_	Gloss=time.Masc.Def
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 4	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Relative=Rel	3	comp:obj	_	Gloss=3Fem.Prog.Rel|wordform=yakề
@@ -175,7 +175,7 @@
 
 # sent_id = 11_Fela_Kuti__7
 # text = Tòː àmmaː irìn mabuːsâr̃ nan mài kàmaː dà algaitàː dà akèː kiràː "saxophone", ita cèː koːwaː ya fi dangàntà kàɗe-kàɗen Fela dà ita.
-1	Tòː	tòː	INTJ	_	_	17	discourse	_	Gloss=XX
+1	Tòː	tòː	INTJ	_	_	17	discourse	_	Gloss=well
 2	àmmaː	àmmaː	CCONJ	_	_	17	discourse	_	Gloss=but
 3	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	17	dislocated@top	_	Gloss=type.Masc.Cons
 4	mabuːsâr̃	mabuːsâː	NOUN	_	Gender=Fem	3	mod	_	Gloss=XX
@@ -186,7 +186,7 @@
 9	algaitàː	algaitàː	NOUN	_	Gender=Fem	8	comp:obj	_	Gloss=XX
 10	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=COMP
 11	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	10	comp:obj	_	Gloss=4.Prog.Rel
-12	kiràː	kir-	VERB	_	ExtPos=NOUN|Gender=Masc	11	comp:aux	_	Gloss=XX
+12	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc	11	comp:aux	_	Gloss=call.Vnoun.Masc
 13	"	"	PUNCT	_	_	14	punct	_	Gloss=PUNCT|SpaceAfter=No
 14	saxophone	saxophone	NOUN	_	Gender=Fem	12	comp:pred	_	Gloss=XX|SpaceAfter=No
 15	"	"	PUNCT	_	_	14	punct	_	Gloss=PUNCT|SpaceAfter=No
@@ -404,7 +404,7 @@
 
 # sent_id = 11_Fela_Kuti__14-5
 # text = Tòː àmmaː sai baːyan yaː yi wàtànniː goːmà à Amir̃kà neː, à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sìttin dà tar̃à, ya sauyà suːnan aːyàr̃in makàɗansà ya koːmàː " Africa 70", sànnan ya faːrà yîn fàyàːfàyai irìː-irìː waɗàndà sukà sâː shi cikin sahun makàɗan zaːmàniː na duːniyàː bàːkiː ɗaya.
-1	Tòː	tòː	INTJ	_	_	24	discourse	_	Gloss=XX
+1	Tòː	tòː	INTJ	_	_	24	discourse	_	Gloss=well
 2	àmmaː	àmmaː	CCONJ	_	_	24	discourse	_	Gloss=but
 3	sai	sai	ADV	_	_	24	mod	_	Gloss=then
 4	baːyan	baːyan	SCONJ	_	_	24	mod	_	Gloss=after
@@ -513,7 +513,7 @@
 1	Hakànan	hakànan	ADV	_	_	2	mod	_	Gloss=XX
 2	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
-4	àmfàniː	àmfàniː	NOUN	_	Gender=Fem	3	comp:pred	_	Gloss=XX
+4	àmfàniː	àmfàniː	NOUN	_	Gender=Fem	3	comp:pred	_	Gloss=using.Masc
 5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
 6	wàːƙe-wàːƙen	waːƙàː	PRON	_	Number=Plur	5	comp:obj	_	Gloss=song.Plur.Cons|SpaceAfter=No|wordform=wàːƙe-wàːƙensà
 7	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	6	mod	_	Gloss=3Masc.Gen
@@ -545,7 +545,7 @@
 
 # sent_id = 11_Fela_Kuti__19
 # text = À shèːkaràr̃ alìf dà ɗàriː tar̃à dà sàbà'in dà bakwài neː àbîn ya kai magaryar̃ tiƙềwaː, loːkàcîn dà soːjoːjin gwamnatìn Janàr̃ " Obasanjo " sukà yi fàr̃makìː kân gidan Fela dà kèː Ìkko.
-1	À	à	ADP	_	_	13	mod	_	Gloss=XX
+1	À	à	ADP	_	_	13	mod	_	Gloss=at
 2	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	3	mod@desc	_	Gloss=year.Fem.Cons
 3	alìf	alìf	NUM	_	_	1	comp:obj	_	Gloss=one_thousand
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=and
@@ -620,7 +620,7 @@
 
 # sent_id = 11_Fela_Kuti__21
 # text = Tòː àmmaː koː kàɗan wannàn bài karyà zuːcìyar̃ Fela ba.
-1	Tòː	tòː	INTJ	_	_	6	discourse	_	Gloss=XX
+1	Tòː	tòː	INTJ	_	_	6	discourse	_	Gloss=well
 2	àmmaː	àmmaː	CCONJ	_	_	6	discourse	_	Gloss=but
 3	koː	koː	ADV	_	_	4	mod	_	Gloss=even
 4	kàɗan	kàɗan	ADP	_	_	6	mod	_	Gloss=XX
@@ -682,7 +682,7 @@
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 27	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	22	mod@relcl	_	Gloss=REL.Fem
 28	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	27	comp:obj	_	Gloss=3Masc.Perf.Rel
-29	kiraː	kir-	VERB	_	_	28	comp:aux	_	Gloss=XX
+29	kiraː	kiraː	VERB	_	_	28	comp:aux	_	Gloss=XX
 30	"	"	PUNCT	_	_	31	punct	_	Gloss=PUNCT
 31	The	The	X	_	_	29	comp:pred	_	Gloss=The
 32	Movement	Movement	X	_	_	31	flat@foreign	_	Gloss=Movement
@@ -702,15 +702,15 @@
 2	reːrà	reːr-	VERB	_	_	1	comp:aux	_	Gloss=compose
 3	wata	wani	DET	_	Definite=Spec|Gender=Masc	4	det	_	Gloss=some.Fem.Spec
 4	waːƙàː	waːƙàː	PRON	_	Gender=Fem	2	comp:obj	_	Gloss=song.Fem
-5	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	4	mod	_	Gloss=join.Stat
-6	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=with
+5	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Stat	6	mod	_	Gloss=together
+6	dà	dà	ADP	_	_	2	comp:obl	_	Gloss=with
 7	manufoːfin	manufaː	NOUN	_	Definite=Cons|Number=Plur	6	comp:obj	_	Gloss=programme.Plur.Cons
 8	jàm'iyyàr̃	jàm'iyyàː	NOUN	_	Definite=Def|Gender=Fem	7	mod	_	Gloss=party.Fem.Def
 9-10	taːsà	_	_	_	_	_	_	_	_
 9	taː	na	PART	_	Case=Gen|Gender=Fem	8	mod	_	Gloss=Gen.Fem|SpaceAfter=No
 10	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	9	comp:obj	_	Gloss=3Masc.Gen|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-12	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	4	mod@relcl	_	Gloss=REL.Fem
+12	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	7	mod@relcl	_	Gloss=REL.Fem
 13	à	à	ADP	_	_	16	mod	_	Gloss=at
 14	cikin	cikin	ADP	_	_	13	comp:obj	_	Gloss=inside|SpaceAfter=No|wordform=cikintà
 15	tà	tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	14	comp:obj	_	Gloss=3Fem.Gen
@@ -836,14 +836,14 @@
 9	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	6	comp:obj	_	Gloss=3Fem.Perf.Rel
 10	shìga	shig-	VERB	_	_	9	comp:aux	_	Gloss=enter
 11	nuːnà	nuːn-	VERB	_	_	10	comp:obj@G	_	Gloss=show
-12	shàʼawàː	shàʼawàː	NOUN	_	ExtPos=NOUN|Gender=Fem	11	comp:obj	_	Gloss=XX
-13	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	11	mod	_	Gloss=join.Stat
-14	dà	dà	ADP	_	_	13	comp:obl	_	Gloss=with
+12	shàʼawàː	shàʼawàː	NOUN	_	ExtPos=NOUN|Gender=Fem	11	comp:obj	_	Gloss=interest.Fem
+13	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Stat	14	mod	_	Gloss=together
+14	dà	dà	ADP	_	_	12	mod	_	Gloss=with
 15	Fela	Fela	PROPN	_	_	14	comp:obj	_	Gloss=Fela|SpaceAfter=No
 16	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 17	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	18	comp:pred	_	Gloss=3Masc.Nom
 18	nèː	neː	AUX	_	_	0	root	_	Gloss=be
-19	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	18	dislocated@comp	_	Gloss=join.Stat
+19	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Stat	18	dislocated@comp	_	Gloss=together
 20	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=with
 21	maːtan	màːtaː	NOUN	_	Definite=Cons|Number=Plur	20	comp:obj	_	Gloss=wife.Plur.Cons|SpaceAfter=No|wordform=maːtansà
 22	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	21	mod	_	Gloss=3Masc.Gen

@@ -23,8 +23,8 @@
 12	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:aux	_	Gloss=do.Vnoun.Masc
 13	can	can	ADV	_	Deixis=Remt|PronType=Dem	12	mod	_	Gloss=Remt
 14	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	13	conj:appos	_	Gloss=Nigeria
-15	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	12	mod	_	Gloss=join.Stat
-16	dà	dà	ADP	_	_	15	comp:obl	_	Gloss=with
+15	gàme	gàme	ADV	_	_	16	mod	_	Gloss=together
+16	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=with
 17	gudaːnar̃	gudaːn-	VERB	_	Definite=Cons|Gender=Fem	16	comp:obj	_	Gloss=run.Cau
 18	dà	dà	ADP	_	_	17	comp:obl	_	Gloss=with
 19	wàːsan	wàːsan	NOUN	_	Gender=Masc|PronType=Dem	18	comp:obj	_	Gloss=game.Masc.Cons
@@ -38,8 +38,8 @@
 2	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 3	taːsoː	taːs-	VERB	_	_	2	comp:aux	_	Gloss=rise
 4	nèː	neː	PART	_	PartType=Foc	3	discourse@foc	_	Gloss=Emph
-5	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	3	mod	_	Gloss=join.Stat
-6	dà	dà	CCONJ	_	_	5	comp:obl	_	Gloss=and
+5	gàme	gàme	ADV	_	_	6	mod	_	Gloss=together
+6	dà	dà	CCONJ	_	_	3	comp:obl	_	Gloss=and
 7	koː	koː	SCONJ	_	_	6	comp:obj	_	Gloss=whether
 8	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	34	subj	_	Gloss=child.Masc.Cons
 9	dambên	dambe	NOUN	_	Definite=Cons|Gender=Masc	8	compound	_	Gloss=boxing.Masc.Def
@@ -213,7 +213,7 @@
 # sent_id = 07_Wasanni_a_Afirka__7
 # text = tôː, àbîn dà ya kaːwoː rùːɗaːnîn shiː nèː shùːgàban hùkuːmàr̃ dambe ta Nàːjeːr̃iyàː, " Chief Ralph Ogunbufunmi ", shiː nèː ya baː dà sanâr̃waː cêːwaː Lasisi bàː zâi jeː wàːsân ba, har̃ ya cèː sun tattàunà hakàn dà ministàn wàːsànniː na Nàːjeːr̃iyàː.
 # text_ortho = Tô, àbîn dà ya kaːwoː rùːɗaːnîn shiː nèː shùːgàban Hùkuːmàr̃ Dambe ta Nàːjeːr̃iyàː, 'Chief Ralph Ogunbufunmi', shiː nèː ya baː dà sanâr̃waː cêːwaː Lasisi bàː zâi jeː wàːsân ba, har̃ ya cèː sun tattàunà hakàn dà Ministàn Wàːsànniː na Nàːjeːr̃iyàː.
-1	tôː	tôː	INTJ	_	_	9	discourse	_	Gloss=well|SpaceAfter=No
+1	tôː	tòː	INTJ	_	_	9	discourse	_	Gloss=well|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 3	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	9	subj	_	Gloss=thing.Masc.Def
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
@@ -411,7 +411,7 @@
 23	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	22	comp:obj	_	Gloss=Nigeria
 24	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	21	mod@relcl	_	Gloss=REL.Fem
 25	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	24	comp:obj	_	Gloss=4.Prog.Rel
-26	kiràː	kir-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	25	comp:aux	_	Gloss=call.Vnoun.Masc
+26	kiràː	kiraː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	25	comp:aux	_	Gloss=call.Vnoun.Masc
 27	"	"	PUNCT	_	_	28	punct	_	Gloss=PUNCT
 28	Sunday	Sunday	PROPN	_	_	26	comp:pred	_	Gloss=Sunday
 29	Concord	Concord	PROPN	_	_	28	flat@name	_	Gloss=Concord
