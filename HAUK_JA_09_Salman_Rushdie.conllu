@@ -153,7 +153,7 @@
 
 # sent_id = 09_Salman_Rushdie__7-8
 # text = Tòː dâː maː shiː wannàn mùtumìn shiː nèː ya ɗaukoː wani fàr̃feːsàː mài suːnaː " Hitoshi Igarashi", ya baː shì aikìn cêːwaː yà fassàr̃à wannàn littaːfìn.
-1	Tòː	tòː	INTJ	_	_	7	discourse	_	Gloss=XX
+1	Tòː	tòː	INTJ	_	_	7	discourse	_	Gloss=well
 2	dâː	dâː	ADV	_	_	7	mod	_	Gloss=XX
 3	maː	maː	PART	_	_	2	discourse@top	_	Gloss=even
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	dislocated@top	_	Gloss=3Masc.Nom
@@ -185,7 +185,7 @@
 
 # sent_id = 09_Salman_Rushdie__9a
 # text = Tòː gidân dà akèː tàːrôn yanàː dà tsayìː sòːsai,
-1	Tòː	tòː	INTJ	_	_	6	discourse	_	Gloss=XX
+1	Tòː	tòː	INTJ	_	_	6	discourse	_	Gloss=well
 2	gidân	gidaː	NOUN	_	Definite=Def|Gender=Masc	6	subj	_	Gloss=house.Masc.Def
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 4	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	3	comp:obj	_	Gloss=4.Prog.Rel
@@ -206,7 +206,7 @@
 6	ɗaya	ɗaya	NUM	_	_	5	comp:obj	_	Gloss=one
 7	sai	sai	ADV	_	_	12	mod	_	Gloss=then
 8	wasu	wani	DET	_	Definite=Spec|Number=Plur	9	det	_	Gloss=some.Plur.Spec
-9	mutàneː	ùtûm	NOUN	_	Number=Plur	12	subj	_	Gloss=XX
+9	mutàneː	mùtûm	NOUN	_	Number=Plur	12	subj	_	Gloss=man.Plur
 10	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	conj:appos	_	Gloss=3Plur.Nom
 11	biyu	biyu	NUM	_	_	10	mod:num	_	Gloss=two
 12	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
@@ -227,7 +227,7 @@
 
 # sent_id = 09_Salman_Rushdie__10
 # text = Tòː shiːkèːnan, sai wani mùtûm ya kai musù harìː dà sùkùddìr̃eːbàː indà ya daɓàː wà ɗaya dàgà cikinsù wannan sùkùddìr̃eːbàː har̃ maː ta ji masà mùmmuːnan ràuniː.
-1	Tòː	tòː	INTJ	_	_	7	discourse	_	Gloss=XX
+1	Tòː	tòː	INTJ	_	_	7	discourse	_	Gloss=well
 2	shiːkèːnan	shiːkèːnan	INTJ	_	_	7	discourse	_	Gloss=XX|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 4	sai	sai	ADV	_	_	7	mod	_	Gloss=then
@@ -261,7 +261,7 @@
 
 # sent_id = 09_Salman_Rushdie__11
 # text = À yànzu hakà maː shiː wannàn mùtumìn yanàː can à asìbitì anàː yi masà maːgàniː.
-1	À	à	ADP	_	_	8	mod	_	Gloss=XX
+1	À	à	ADP	_	_	8	mod	_	Gloss=at
 2	yànzu	yànzu	ADV	_	_	1	comp:obj	_	Gloss=now
 3	hakà	hakà	ADV	_	_	8	mod	_	Gloss=thus
 4	maː	maː	PART	_	_	3	discourse@top	_	Gloss=even
@@ -280,7 +280,7 @@
 
 # sent_id = 09_Salman_Rushdie__12
 # text = Tòː shiː wannàn mùtumìn dà ya kai harìː yaː zàci cêːwaː waɗànnân mutàneː sunàː zàngà-zangà na nuːnà goːyon baːyaː nèː kân cêːwaː à bugà wannàn littaːfìn à cikin harshèn Japananciː.
-1	Tòː	tòː	INTJ	_	_	9	discourse	_	Gloss=XX
+1	Tòː	tòː	INTJ	_	_	9	discourse	_	Gloss=well
 2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	dislocated@subj	_	Gloss=3Masc.Nom
 3	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	4	det	_	Gloss=ProxS.Sing
 4	mùtumìn	mùtûm	NOUN	_	Definite=Cons|Gender=Masc	2	conj:appos	_	Gloss=person.Masc.Def
@@ -292,7 +292,7 @@
 10	zàci	zat-	VERB	_	_	9	comp:aux	_	Gloss=think
 11	cêːwaː	cêːwaː	SCONJ	_	_	10	comp:obj	_	Gloss=COMP
 12	waɗànnân	wannàn	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	13	det	_	Gloss=ProxS.Plur
-13	mutàneː	ùtûm	NOUN	_	Number=Plur	14	subj	_	Gloss=XX
+13	mutàneː	mùtûm	NOUN	_	Number=Plur	14	subj	_	Gloss=man.Plur
 14	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	11	comp:obj	_	Gloss=3Plur.Prog
 15	zàngà-zangà	zàngà-zangà	NOUN	_	ExtPos=NOUN|Gender=Fem	14	comp:aux	_	Gloss=demonstration.Fem
 16	na	na	PART	_	Case=Gen|PartType=Pred	15	mod	_	Gloss=Gen
@@ -345,7 +345,7 @@
 
 # sent_id = 09_Salman_Rushdie__15
 # text = Tòː à can hawaː na àshìr̃in nèː akèː yîn wannàn tàːroː na manèːmaː làːbàːr̃ai dà shiː Gianni Palma ya kiraːwoː.
-1	Tòː	tòː	INTJ	_	_	4	discourse	_	Gloss=XX
+1	Tòː	tòː	INTJ	_	_	4	discourse	_	Gloss=well
 2	à	à	ADP	_	_	4	mod	_	Gloss=at
 3	can	can	ADV	_	Deixis=Remt|PronType=Dem	2	comp:obj	_	Gloss=Remt
 4	hawaː	hawaː	NOUN	_	ExtPos=NOUN|Gender=Masc	0	root	_	Gloss=floor.Masc
@@ -369,7 +369,7 @@
 
 # sent_id = 09_Salman_Rushdie__16
 # text = Tòː shiː Gianni Palma sai ya zoː ya buːɗè tàːroː akà faːrà màganàː.
-1	Tòː	tòː	INTJ	_	_	6	discourse	_	Gloss=XX
+1	Tòː	tòː	INTJ	_	_	6	discourse	_	Gloss=well
 2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	subj	_	Gloss=3Masc.Nom
 3	Gianni	Gianni	PROPN	_	_	2	conj:appos	_	Gloss=Gianni
 4	Palma	Palma	PROPN	_	_	3	mod	_	Gloss=Palma
@@ -454,7 +454,7 @@
 1	Loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=XX
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 3	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	2	comp:obj	_	Gloss=4.Prog.Rel
-4	tàfiyàː	tàfiyàː	VERB	_	ExtPos=NOUN|Gender=Fem	3	comp:aux	_	Gloss=XX
+4	tàfiyàː	tàfiyàː	VERB	_	ExtPos=NOUN|Gender=Fem	3	comp:aux	_	Gloss=go.Vnoun.Fem
 5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
 6	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	5	comp:obj	_	Gloss=3Masc.Nom
 7	sai	sai	ADV	_	_	8	mod	_	Gloss=then
@@ -484,13 +484,13 @@
 31	tà	tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	30	mod	_	Gloss=3Fem.Gen
 32	cikin	cikin	ADP	_	_	29	comp:obl	_	Gloss=inside
 33	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	34	det	_	Gloss=ProxS.Sing
-34	àl'amàr̃iː	àl'amàr̃iː	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=XX
+34	àl'amàr̃iː	àl'amàr̃iː	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=day.Masc
 35	ba	ba	PART	_	PartType=Ill|Polarity=Neg	29	mod	_	Gloss=Neg|SpaceAfter=No
 36	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__20
 # text = Tòː dâː maː tun kwàːnàkin baːya anàː yîn wannàn hàyàːniyaː gàme dà littaːfìn na Aːyoːyin Shàiɗân, dòːmin kùwa à raːnar̃ Lahàdì dà ta wucèː maː, wasu Mùsùlmiː suː kìːmaːnìn ɗàːriː dà àshìr̃in à wata ùnguwar̃ Tokyo sun yi wata zaːngà-zangà baːyân dà sukà idar̃ dà sallàː.
-1	Tòː	tòː	INTJ	_	_	7	discourse	_	Gloss=XX
+1	Tòː	tòː	INTJ	_	_	7	discourse	_	Gloss=well
 2	dâː	dâː	ADV	_	_	7	mod	_	Gloss=XX
 3	maː	maː	PART	_	_	2	discourse@top	_	Gloss=even
 4	tun	tun	ADP	_	_	7	mod	_	Gloss=since
@@ -565,7 +565,7 @@
 
 # sent_id = 09_Salman_Rushdie__22
 # text = À yâu ɗîn kuma ɗaya dàgà cikin shùːgàbànnin wannàn ƙungìyaː ta Mùsùlmiː yaː cêː lalleː suː bà zaːsù ƙyaːlè Gianni Palma dà rânsà ba, dòːmin kùwa yaː ƙàːlùːbàlànci àl'ummàr̃ Mùsùlmiː bàːkiː ɗayansù .
-1	À	à	ADP	_	_	13	mod	_	Gloss=XX
+1	À	à	ADP	_	_	13	mod	_	Gloss=at
 2	yâu	yâu	ADV	_	_	1	comp:obj	_	Gloss=today
 3	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	2	det	_	Gloss=Def
 4	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also

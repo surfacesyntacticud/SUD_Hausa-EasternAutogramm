@@ -29,8 +29,8 @@
 9	tàr̃zòːmaː	tàr̃zòːmaː	NOUN	_	ExtPos=NOUN|Gender=Fem	25	subj	_	Gloss=riot.Fem
 10	dà	dà	CCONJ	_	_	12	cc	_	Gloss=and
 11	kuma	kuma	PART	_	_	10	discourse@top	_	Gloss=also
-12	kwaːnaː	kwaːnaː	NOUN	_	Gender=Masc	9	conj:coord	_	Gloss=XX
-13	ukùn	ukùn	NUM	_	Definite=Cons|Gender=Masc	12	mod:num	_	Gloss=XX
+12	kwaːnaː	kwaːnaː	NOUN	_	Gender=Masc	9	conj:coord	_	Gloss=day.Masc
+13	ukùn	ukù	NUM	_	Definite=Def	12	mod:num	_	Gloss=three.Def
 14	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
 15	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	14	comp:obj	_	Gloss=4.Perf.Rel
 16	yi	yi	VERB	_	_	15	comp:aux	_	Gloss=do
@@ -58,7 +58,7 @@
 3	nàn	nàn	ADV	_	Deixis=ProxS|PronType=Dem	1	det	_	Gloss=ProxS
 4	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 5	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	4	comp:obj	_	Gloss=4.Perf.Rel
-6	saːmùː	saːm-	VERB	_	_	5	comp:aux	_	Gloss=XX
+6	saːmùː	saːm-	VERB	_	_	5	comp:aux	_	Gloss=get
 7	dàgà	dàgà	ADP	_	_	6	comp:obl	_	Gloss=from
 8	Bauci	Bauci	PROPN	_	_	7	comp:obj	_	Gloss=Bauchi
 9	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
@@ -210,7 +210,7 @@
 33	duk	dukà	PRON	_	ExtPos=SCONJ	43	mod	_	Gloss=all|Idiom=Yes
 34	dà	dà	ADP	_	_	33	unk	_	Gloss=with|InIdiom=Yes
 35	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem	34	unk	_	Gloss=say.Vnoun.Fem|InIdiom=Yes
-36	à	à	ADP	_	Mood=Sub|Person=4	39	comp:pred	_	Gloss=XX
+36	à	à	ADP	_	Mood=Sub|Person=4	39	comp:pred	_	Gloss=at
 37	yankìn	yankìː	VERB	_	Definite=Cons|Gender=Masc	36	comp:obj	_	Gloss=area.Masc.Cons
 38	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	37	comp:obj	_	Gloss=Muslim.Plur
 39	nèː	neː	AUX	_	_	33	comp:obj	_	Gloss=be|SpaceAfter=No
@@ -385,7 +385,7 @@
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__11
 # text = À loːkàcin tàr̃zòːmâr̃ dai Kir̃istoːciː dà daːmaː dàgà kudancin ƙasâr sun yi zàrgin cêwaː Mùsùlmiː màːsu tsananin r̃a'àyin àddiːnìː suː nèː sukà janyoː waɗànnân tàːshe-tàːshen hankulàː.
-1	À	à	ADP	_	_	11	mod	_	Gloss=XX
+1	À	à	ADP	_	_	11	mod	_	Gloss=at
 2	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	Gloss=time.Masc.Cons
 3	tàr̃zòːmâr̃	tàr̃zòːmaː	NOUN	_	Definite=Def|Gender=Fem	2	mod	_	Gloss=riot.Fem.Def
 4	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyhow
