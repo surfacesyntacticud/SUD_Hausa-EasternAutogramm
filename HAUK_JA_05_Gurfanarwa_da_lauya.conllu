@@ -6,8 +6,8 @@
 4	wani	wani	DET	_	Definite=Spec|Gender=Masc	5	det	_	Gloss=some.Masc.Spec
 5	lauyàː	lauyàː	NOUN	_	_	3	comp:obj	_	Gloss=lawyer.Masc
 6	mài	mài	PART	_	Number=Sing|PartType=Der	5	mod	_	Gloss=owner/doer_of.Sing
-7	r̃aꞌàyin	r̃aꞌàyiː	NOUN	_	Definite=Cons|Number=Plur	6	compound	_	Gloss=XX
-8	canjìː	canjìː	NOUN	_	_	7	mod	_	Gloss=XX
+7	r̃aꞌàyin	r̃aꞌàyiː	NOUN	_	Definite=Cons	6	compound	_	Gloss=opinion.Masc.Cons
+8	canjìː	canjìː	NOUN	_	_	7	mod	_	Gloss=change.Masc
 9	à	à	ADP	_	_	2	mod	_	Gloss=at
 10	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	9	comp:obj	_	Gloss=Nigeria
 
@@ -258,8 +258,8 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya__10-12
 # text = Wannàn lâifîn dà akèː zàrgin Chief G.F. dà shiː, ìn ji lauyàn naːsà , yaː shàːfi wata takàr̃daː cèː waddà shiː Chief G.F. ya r̃ubùːtaː à cikin wata mùjallàː ta màːsu r̃aꞌàyin canjìː à cikin watàn Maːyù.
-1	Wannàn	wannàn	DET	_	Gender=Masc|PronType=Dem	2	det	_	Gloss=XX
-2	lâifîn	lâifiː	NOUN	_	Definite=Def|Gender=Masc	17	subj	_	Gloss=XX
+1	Wannàn	wannàn	DET	_	Gender=Masc	2	det	_	Gloss=ProxS.Masc
+2	lâifîn	lâifiː	NOUN	_	Definite=Def|Gender=Masc	17	subj	_	Gloss=crime.Masc.Def
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 4	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	3	comp:obj	_	Gloss=4.Prog.Rel
 5	zàrgin	zarg-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:aux	_	Gloss=accuse.Vnoun.Masc.Cons
@@ -276,24 +276,24 @@
 15	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	14	comp:obj	_	Gloss=3Masc.Gen|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 17	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
-18	shàːfi	shaf-	VERB	_	_	17	comp:aux	_	Gloss=XX
+18	shàːfi	shaf-	VERB	_	_	17	comp:aux	_	Gloss=concern
 19	wata	wani	DET	_	Definite=Spec|Gender=Masc	20	det	_	Gloss=some.Fem.Spec
-20	takàr̃daː	takàr̃daː	NOUN	_	Gender=Fem	18	comp:obj	_	Gloss=XX
+20	takàr̃daː	takàr̃daː	NOUN	_	Gender=Fem	18	comp:obj	_	Gloss=paper.Fem
 21	cèː	neː	AUX	_	Gender=Fem	20	discourse@foc	_	Gloss=be.Fem
 22	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	20	mod@relcl	_	Gloss=REL.Fem
 23	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	26	subj	_	Gloss=3Masc.Nom
 24	Chief	Chief	PROPN	_	_	25	mod@desc	_	Gloss=Chief
 25	G.F.	G.F.	PROPN	_	_	23	conj:appos	_	Gloss=G.F.
 26	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	22	comp:obj	_	Gloss=3Masc.Perf.Rel
-27	r̃ubùːtaː	r̃ubut-	VERB	_	ExtPos=NOUN|Gender=Fem	26	comp:aux	_	Gloss=XX
+27	r̃ubùːtaː	r̃ubuːt-	VERB	_	_	26	comp:aux	_	Gloss=write
 28	à	à	ADP	_	_	27	mod	_	Gloss=at
 29	cikin	cikin	ADP	_	_	28	comp:obj	_	Gloss=inside
 30	wata	wani	DET	_	Definite=Spec|Gender=Masc	31	det	_	Gloss=some.Fem.Spec
-31	mùjallàː	mùjallàː	NOUN	_	_	27	comp:obj	_	Gloss=XX
+31	mùjallàː	mùjallàː	NOUN	_	_	27	comp:obj	_	Gloss=journal.Fem
 32	ta	na	PART	_	Case=Gen|Gender=Fem	31	mod	_	Gloss=Gen.Fem
 33	màːsu	mài	PART	_	Number=Plur|PartType=Der	32	comp:obj	_	Gloss=owner/doer_of.Plur
-34	r̃aꞌàyin	r̃aꞌàyiː	NOUN	_	Definite=Cons|Number=Plur	33	compound	_	Gloss=XX
-35	canjìː	canjìː	NOUN	_	Gender=Masc	34	mod	_	Gloss=XX
+34	r̃aꞌàyin	r̃aꞌàyiː	NOUN	_	Definite=Cons	33	compound	_	Gloss=opinion.Masc.Cons
+35	canjìː	canjìː	NOUN	_	Gender=Masc	34	mod	_	Gloss=change.Masc
 36	à	à	ADP	_	_	27	mod	_	Gloss=at
 37	cikin	cikin	ADP	_	_	36	comp:obj	_	Gloss=inside
 38	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	39	mod@desc	_	Gloss=month.Masc.Cons
@@ -302,7 +302,7 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya__13
 # text = À cikintà kuma yaː sòːki manufar̃ tattalin ar̃zìkin Gwamnatì, yanàː cêːwaː tanàː ta laːlàːtà haːlin ràːyuwar̃ maꞌàikàtan Nàːjeːr̃iyàː.
-1	À	à	ADP	_	_	5	mod	_	Gloss=XX
+1	À	à	ADP	_	_	5	mod	_	Gloss=at
 2	cikin	cikin	ADP	_	_	1	comp:obj	_	Gloss=inside|SpaceAfter=No
 3	tà	tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	2	comp:obj	_	Gloss=3Fem.Gen
 4	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
@@ -319,8 +319,8 @@
 15	ta	ta	PART	_	Aspect=Iter	14	compound:prt	_	Gloss=Iter
 16	laːlàːtà	laːlat-	VERB	_	_	14	comp:aux	_	Gloss=spoil
 17	haːlin	haːliː	NOUN	_	Definite=Cons|Gender=Masc	16	comp:obj	_	Gloss=situation.Masc.Cons
-18	ràːyuwar̃	ràːyuwaː	VERB	_	Definite=Cons|Gender=Fem	17	mod	_	Gloss=XX
-19	maꞌàikàtan	maꞌàikàtaː	NOUN	_	Definite=Cons|Number=Plur	18	mod	_	Gloss=XX
+18	ràːyuwar̃	ràːyuwaː	VERB	_	Definite=Cons|Gender=Fem	17	mod	_	Gloss=life.Fem.Cons
+19	maꞌàikàtan	maꞌàikàciː	NOUN	_	Definite=Cons|Number=Plur	18	mod	_	Gloss=worker.Plur.Cons
 20	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	19	mod	_	Gloss=Nigeria|SpaceAfter=No
 21	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
