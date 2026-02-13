@@ -2,7 +2,7 @@
 # text = Zaː'à bugà littaːfìn nan na " Salman Rushdie " à ƙasar̃ Jàpân
 1	Zaː'à	zâi	AUX	_	Person=4|Tense=Fut	0	root	_	Gloss=4.Fut
 2	bugà	bug-	VERB	_	_	1	comp:aux	_	Gloss=beat
-3	littaːfìn	littaːfìː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj	_	Gloss=XX
+3	littaːfìn	littaːfìː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj	_	Gloss=book.Masc.Cons
 4	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	3	det	_	Gloss=ProxH
 5	na	na	PART	_	Case=Gen|PartType=Pred	3	mod	_	Gloss=Gen
 6	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -34,7 +34,7 @@
 17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 18	wà:tò:	wà:tò:	PART	_	_	19	discourse	_	Gloss=XX
 19	mar̃ùbùːcin	mar̃ùbùːciː	NOUN	_	Definite=Cons|Gender=Masc	15	conj:appos	_	Gloss=XX
-20	littaːfìn	littaːfìː	NOUN	_	Definite=Cons|Gender=Masc	19	mod	_	Gloss=XX
+20	littaːfìn	littaːfìː	NOUN	_	Definite=Cons|Gender=Masc	19	mod	_	Gloss=book.Masc.Cons
 21	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	20	det	_	Gloss=ProxH
 22	na	na	PART	_	Case=Gen|PartType=Pred	20	mod	_	Gloss=Gen
 23	"	"	PUNCT	_	_	24	punct	_	Gloss=PUNCT|SpaceAfter=No
@@ -50,17 +50,17 @@
 3	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 4	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	0	root	_	Gloss=4.Fut
 5	bugà	bug-	VERB	_	_	4	comp:aux	_	Gloss=beat
-6	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	5	comp:obj	_	Gloss=XX
+6	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	5	comp:obj	_	Gloss=book.Masc.Def
 7	à	à	ADP	_	ExtPos=ADP	5	mod	_	Gloss=at
 8	cikin	cikin	ADP	_	_	7	comp:obj	_	Gloss=inside
 9	Japananciː	Japananciː	PROPN	_	Number=Plur	8	comp:obj	_	Gloss=Japanese|SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__5
-# text = Àmmaː sabòːdà rìkicîn dà akà yi à bir̃nin " Tokyo " à kân wannàn littaːfìn dà akà fassàraː daː harshèn Japananciː, dà àlaːmàː bà zaː'à sàːmi daːmar̃ à bugàː shi gòːbe ɗîn ba.
+# text = Àmmaː sabòːdà rìkicîn dà akà yi à bir̃nin " Tokyo " à kân wannàn littaːfìn dà akà fassàraː dà harshèn Japananciː, dà àlaːmàː bà zaː'à sàːmi daːmar̃ à bugàː shi gòːbe ɗîn ba.
 1	Àmmaː	àmmaː	CCONJ	_	_	23	discourse	_	Gloss=but
 2	sabòːdà	sabòːdà	ADP	_	_	23	mod	_	Gloss=because_of
-3	rìkicîn	rìkicîː	NOUN	_	Definite=Def|Gender=Masc	2	comp:obj	_	Gloss=XX
+3	rìkicîn	rìkiciː	NOUN	_	Definite=Def|Gender=Masc	2	comp:obj	_	Gloss=dispute.Masc.Def
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
 5	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	4	comp:obj	_	Gloss=4.Perf.Rel
 6	yi	yi	VERB	_	_	5	comp:aux	_	Gloss=do
@@ -72,13 +72,13 @@
 12	à	à	ADP	_	_	6	comp:obl	_	Gloss=at
 13	kân	kân	ADP	_	_	12	comp:obj	_	Gloss=top
 14	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	15	det	_	Gloss=ProxS.Sing
-15	littaːfìn	littaːfìː	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	Gloss=XX
+15	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	13	comp:obj	_	Gloss=book.Masc.Def
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=COMP
 17	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	16	comp:obj	_	Gloss=4.Perf.Rel
 18	fassàraː	fassàraː	VERB	_	_	17	comp:aux	_	Gloss=XX
-19	daː	daː	ADP	_	_	18	comp:obl	_	Gloss=XX
-20	harshèn	harshèː	NOUN	_	Definite=Cons|Gender=Masc	19	comp:obj	_	Gloss=XX
-21	Japananciː	Japananciː	PROPN	_	_	20	mod	_	Gloss=Japanese|SpaceAfter=No
+19	dà	dà	ADP	_	_	18	comp:obl	_	Gloss=with
+20	harshèn	harshèː	NOUN	_	Definite=Cons|Gender=Masc	21	mod@desc	_	Gloss=tongue.Masc.Cons
+21	Japananciː	Japananciː	PROPN	_	_	19	comp:obj	_	Gloss=Japanese|SpaceAfter=No
 22	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 23	dà	dà	ADP	_	_	0	root	_	Gloss=with
 24	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	23	comp:obj	_	Gloss=sign.Fem
@@ -111,15 +111,15 @@
 13	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Relative=Rel	12	comp:obj	_	Gloss=3Fem.Prog.Rel
 14	sôn	soː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:aux	_	Gloss=want.Vnoun.Masc.Cons
 15	à	yà	AUX	_	Mood=Sub|Person=4	14	comp:obj	_	Gloss=4.Sub
-16	fassàr̃à	fassàr̃eː	VERB	_	_	15	comp:aux	_	Gloss=XX
-17	littaːfìn	littaːfìː	NOUN	_	Definite=Cons|Number=Plur	16	comp:obj	_	Gloss=XX
+16	fassàr̃à	fassar̃-	VERB	_	_	15	comp:aux	_	Gloss=translate
+17	littaːfìn	littaːfìː	NOUN	_	Definite=Cons|Number=Plur	16	comp:obj	_	Gloss=book.Masc.Cons
 18	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	17	det	_	Gloss=ProxH
 19	na	na	PART	_	Case=Gen|PartType=Pred	17	mod	_	Gloss=Gen
 20	Salman	Salman	PROPN	_	_	19	comp:obj	_	Gloss=Salman
 21	Rushdie	Rushdie	PROPN	_	_	20	flat@name	_	Gloss=Rushdie
 22	dàgà	dàgà	ADP	_	_	16	comp:obl	_	Gloss=from
-23	harshèn	harshèː	NOUN	_	Definite=Cons|Gender=Masc	22	comp:obj	_	Gloss=XX
-24	Tuːr̃anciː	Tuːr̃anciː	PROPN	_	_	23	mod	_	Gloss=Tuːr̃anciː
+23	harshèn	harshèː	NOUN	_	Definite=Cons|Gender=Masc	24	mod@desc	_	Gloss=tongue.Masc.Cons
+24	Tuːr̃anciː	Tuːr̃anciː	PROPN	_	_	22	comp:obj	_	Gloss=Tuːr̃anciː
 25	zuwàː	zuwàː	ADP	_	_	22	conj:coord	_	Gloss=towards
 26	Japananciː	Japananciː	PROPN	_	Gender=Masc	25	conj:obj	_	Gloss=Japanese|SpaceAfter=No
 27	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
@@ -154,7 +154,7 @@
 # sent_id = 09_Salman_Rushdie__7-8
 # text = Tòː dâː maː shiː wannàn mùtumìn shiː nèː ya ɗaukoː wani fàr̃feːsàː mài suːnaː " Hitoshi Igarashi", ya baː shì aikìn cêːwaː yà fassàr̃à wannàn littaːfìn.
 1	Tòː	tòː	INTJ	_	_	7	discourse	_	Gloss=well
-2	dâː	dâː	ADV	_	_	7	mod	_	Gloss=XX
+2	dâː	dâː	ADV	_	_	7	mod	_	Gloss=formerly
 3	maː	maː	PART	_	_	2	discourse@top	_	Gloss=even
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	dislocated@top	_	Gloss=3Masc.Nom
 5	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	6	det	_	Gloss=ProxS.Sing
@@ -164,7 +164,7 @@
 9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	7	comp:cleft	_	Gloss=3Masc.Perf.Rel
 10	ɗaukoː	ɗauk-	VERB	_	_	9	comp:aux	_	Gloss=take
 11	wani	wani	DET	_	Definite=Spec|Gender=Masc	12	det	_	Gloss=some.Masc.Spec
-12	fàr̃feːsàː	fàr̃feːsàː	NOUN	_	_	10	comp:obj	_	Gloss=XX
+12	fàr̃feːsàː	fàr̃feːsàː	NOUN	_	_	10	comp:obj	_	Gloss=professor.Masc
 13	mài	mài	PART	_	Number=Sing|PartType=Der	12	mod	_	Gloss=owner/doer_of.Sing
 14	suːnaː	suːnaː	NOUN	_	Gender=Masc	13	compound	_	Gloss=name.Masc
 15	"	"	PUNCT	_	_	16	punct	_	Gloss=PUNCT
@@ -178,9 +178,9 @@
 23	aikìn	aikìː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:obj@T	_	Gloss=work.Masc.Cons
 24	cêːwaː	cêːwaː	SCONJ	_	_	23	mod	_	Gloss=COMP
 25	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	24	comp:obj	_	Gloss=3Masc.Sub
-26	fassàr̃à	fassàr̃-	VERB	_	_	25	comp:aux	_	Gloss=XX
+26	fassàr̃à	fassàr̃-	VERB	_	_	25	comp:aux	_	Gloss=translate
 27	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	28	det	_	Gloss=ProxS.Sing
-28	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	26	comp:obj	_	Gloss=XX|SpaceAfter=No
+28	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	26	comp:obj	_	Gloss=book.Masc.Def|SpaceAfter=No
 29	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__9a
@@ -189,10 +189,10 @@
 2	gidân	gidaː	NOUN	_	Definite=Def|Gender=Masc	6	subj	_	Gloss=house.Masc.Def
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 4	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	3	comp:obj	_	Gloss=4.Prog.Rel
-5	tàːrôn	tàːroː	NOUN	_	Definite=Def|Gender=Masc	4	comp:pred	_	Gloss=XX
+5	tàːrôn	tàːroː	NOUN	_	Definite=Def|Gender=Masc	4	comp:pred	_	Gloss=meeting.Masc.Def
 6	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Prog
 7	dà	dà	ADP	_	_	6	comp:pred	_	Gloss=with
-8	tsayìː	tsayìː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=XX
+8	tsayìː	tsayìː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=height.Masc
 9	sòːsai	sòːsai	ADV	_	_	8	mod	_	Gloss=really|SpaceAfter=No
 10	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
@@ -221,8 +221,8 @@
 21	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	22	det	_	Gloss=ProxS.Sing
 22	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	20	comp:obj	_	Gloss=book.Masc.Prev.Ref
 23	dà	dà	ADP	_	_	20	mod	_	Gloss=with
-24	harshèn	harshèː	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=XX
-25	Tuːr̃anciː	Tuːr̃anciː	PROPN	_	_	24	mod	_	Gloss=English|SpaceAfter=No
+24	harshèn	harshèː	NOUN	_	Definite=Cons|Gender=Masc	25	mod@desc	_	Gloss=tongue.Masc.Cons
+25	Tuːr̃anciː	Tuːr̃anciː	PROPN	_	_	23	comp:obj	_	Gloss=English|SpaceAfter=No
 26	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__10
@@ -305,11 +305,11 @@
 23	à	yà	AUX	_	Mood=Sub|Person=4	22	comp:obj	_	Gloss=4.Sub
 24	bugà	bug-	VERB	_	_	23	comp:aux	_	Gloss=beat
 25	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	26	det	_	Gloss=ProxS.Sing
-26	littaːfìn	littaːfìː	NOUN	_	Definite=Cons|Gender=Masc	24	comp:obj	_	Gloss=XX
+26	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	24	comp:obj	_	Gloss=book.Masc.Def
 27	à	à	ADP	_	_	24	comp:obl	_	Gloss=at
 28	cikin	cikin	ADP	_	_	27	comp:obj	_	Gloss=inside
-29	harshèn	harshèː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	Gloss=XX
-30	Japananciː	Japananciː	PROPN	_	_	29	mod	_	Gloss=Japanese|SpaceAfter=No
+29	harshèn	harshèː	NOUN	_	Definite=Cons|Gender=Masc	30	mod@desc	_	Gloss=tongue.Masc.Cons
+30	Japananciː	Japananciː	PROPN	_	_	28	comp:obj	_	Gloss=Japanese|SpaceAfter=No
 31	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__13
@@ -491,7 +491,7 @@
 # sent_id = 09_Salman_Rushdie__20
 # text = Tòː dâː maː tun kwàːnàkin baːya anàː yîn wannàn hàyàːniyaː gàme dà littaːfìn na Aːyoːyin Shàiɗân, dòːmin kùwa à raːnar̃ Lahàdì dà ta wucèː maː, wasu Mùsùlmiː suː kìːmaːnìn ɗàːriː dà àshìr̃in à wata ùnguwar̃ Tokyo sun yi wata zaːngà-zangà baːyân dà sukà idar̃ dà sallàː.
 1	Tòː	tòː	INTJ	_	_	7	discourse	_	Gloss=well
-2	dâː	dâː	ADV	_	_	7	mod	_	Gloss=XX
+2	dâː	dâː	ADV	_	_	7	mod	_	Gloss=formerly
 3	maː	maː	PART	_	_	2	discourse@top	_	Gloss=even
 4	tun	tun	ADP	_	_	7	mod	_	Gloss=since
 5	kwàːnàkin	kwàːnàkiː	NOUN	_	Definite=Cons|Number=Plur	4	comp:obj	_	Gloss=XX
@@ -552,13 +552,13 @@
 8	ƙîn	ƙi	VERB	_	Definite=Cons|ExtPos=VERB|Gender=Masc|VerbForm=Vnoun	7	comp:obj	_	Gloss=hate.Vnoun.Masc.Cons|Idiom=Yes
 9	jinìn	jinìː	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=XX|InIdiom=Yes
 10	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	11	det	_	Gloss=ProxS.Sing
-11	littaːfìː	littaːfìː	NOUN	_	_	8	comp:obj	_	Gloss=XX
+11	littaːfìː	littaːfìː	NOUN	_	_	8	comp:obj	_	Gloss=book.Masc
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 13	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	12	comp:obj	_	Gloss=4.Prog.Rel
 14	sôn	soː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:aux	_	Gloss=want.Vnoun.Masc.Cons
 15	bugàːwaː	bug-	VERB	_	ExtPos=NOUN|Gender=Fem	14	comp:obj	_	Gloss=XX
 16	à	à	ADP	_	_	15	mod	_	Gloss=at
-17	harshèn	harshèː	NOUN	_	Definite=Cons|Gender=Masc	18	mod@desc	_	Gloss=XX
+17	harshèn	harshèː	NOUN	_	Definite=Cons|Gender=Masc	18	mod@desc	_	Gloss=tongue.Masc.Cons
 18	Japananciː	Japananciː	PROPN	_	_	16	comp:obj	_	Gloss=Japanese
 19	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	18	det	_	Gloss=Def|SpaceAfter=No
 20	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
