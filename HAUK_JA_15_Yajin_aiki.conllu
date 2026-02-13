@@ -380,7 +380,7 @@
 17	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 18	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
 19	cêː	cêː	VERB	_	_	18	comp:aux	_	Gloss=say
-20	zaːà	zâi	AUX	_	Mood=Sub|Person=4	19	comp:obj	_	Gloss=XX
+20	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	19	comp:obj	_	Gloss=4.Fut|wordform=zaːà
 21	kafà	kaf-	VERB	_	_	20	comp:aux	_	Gloss=set_up
 22	wani	wani	DET	_	Definite=Spec|Gender=Masc	23	det	_	Gloss=some.Masc.Spec
 23	kwàmìtîn	kwàmìtîː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:obj	_	Gloss=committee.Masc.Cons
@@ -452,7 +452,7 @@
 8	lòːkàtan	loːkàciː	NOUN	_	Definite=Cons|Number=Plur	7	mod	_	Gloss=time.Plur.Cons
 9	ƙaddamar̃	ƙaddamar̃	VERB	_	Gender=Fem	8	mod	_	Gloss=implement.Cau|wordform=kaddamar
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with|wordform=da
-11	shìrye-shìryên	shirìː	NOUN	_	Definite=Def|Number=Plur	10	comp:obj	_	Gloss=preparation.Plur.Def
+11	shìrye-shìryên	shirìː	NOUN	_	Definite=Def|Number=Plur	10	comp:obj	_	Gloss=programme.Plur.Def
 12-13	naːtà	_	_	_	_	_	_	_	_
 12	naː	na	PART	_	Case=Gen|Number=Plur	11	mod	_	Gloss=Gen.Plur|SpaceAfter=No
 13	tà	tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	12	comp:obj	_	Gloss=XX|SpaceAfter=No

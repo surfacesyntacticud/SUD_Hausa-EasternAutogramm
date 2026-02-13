@@ -1,7 +1,7 @@
 # sent_id = 09_Salman_Rushdie__1
 # text = Zaː'à bugà littaːfìn nan na " Salman Rushdie " à ƙasar̃ Jàpân
 1	Zaː'à	zâi	AUX	_	Person=4|Tense=Fut	0	root	_	Gloss=4.Fut
-2	bugà	bug-	VERB	_	_	1	comp:aux	_	Gloss=XX
+2	bugà	bug-	VERB	_	_	1	comp:aux	_	Gloss=beat
 3	littaːfìn	littaːfìː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj	_	Gloss=XX
 4	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	3	det	_	Gloss=ProxH
 5	na	na	PART	_	Case=Gen|PartType=Pred	3	mod	_	Gloss=Gen
@@ -49,7 +49,7 @@
 2	gòːbe	gòːbe	ADV	_	_	1	comp:obj	_	Gloss=XX
 3	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 4	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	0	root	_	Gloss=4.Fut
-5	bugà	bug-	VERB	_	_	4	comp:aux	_	Gloss=XX
+5	bugà	bug-	VERB	_	_	4	comp:aux	_	Gloss=beat
 6	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	5	comp:obj	_	Gloss=XX
 7	à	à	ADP	_	ExtPos=ADP	5	mod	_	Gloss=at
 8	cikin	cikin	ADP	_	_	7	comp:obj	_	Gloss=inside
@@ -82,7 +82,7 @@
 22	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 23	dà	dà	ADP	_	_	0	root	_	Gloss=with
 24	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	23	comp:obj	_	Gloss=sign.Fem
-25	bà	bà	PART	_	Polarity=Neg	26	mod	_	Gloss=XX
+25	bà	bà	PART	_	Polarity=Neg	26	mod	_	Gloss=Neg
 26	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	24	mod@relcl	_	Gloss=4.Fut
 27	sàːmi	saːm-	VERB	_	_	26	comp:aux	_	Gloss=get
 28	daːmar̃	daːmaː	NOUN	_	Gender=Fem	27	comp:obj	_	Gloss=opportunity.Fem.Cons
@@ -217,7 +217,7 @@
 17	ƙîn	ƙi	VERB	_	Definite=Cons|ExtPos=VERB|Gender=Masc|VerbForm=Vnoun	16	comp:obj	_	Gloss=hate.Vnoun.Masc.Cons|Idiom=Yes
 18	jinin	jiniː	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	Gloss=blood.Masc.Cons|InIdiom=Yes
 19	à	yà	AUX	_	Mood=Sub|Person=4	18	mod	_	Gloss=4.Sub
-20	bugà	bug-	VERB	_	_	19	comp:aux	_	Gloss=XX
+20	bugà	bug-	VERB	_	_	19	comp:aux	_	Gloss=beat
 21	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	22	det	_	Gloss=ProxS.Sing
 22	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	20	comp:obj	_	Gloss=book.Masc.Prev.Ref
 23	dà	dà	ADP	_	_	20	mod	_	Gloss=with
@@ -303,7 +303,7 @@
 21	kân	kân	ADP	_	_	17	comp:obl	_	Gloss=on
 22	cêːwaː	cêːwaː	SCONJ	_	_	21	comp:obj	_	Gloss=COMP
 23	à	yà	AUX	_	Mood=Sub|Person=4	22	comp:obj	_	Gloss=4.Sub
-24	bugà	bug-	VERB	_	_	23	comp:aux	_	Gloss=XX
+24	bugà	bug-	VERB	_	_	23	comp:aux	_	Gloss=beat
 25	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	26	det	_	Gloss=ProxS.Sing
 26	littaːfìn	littaːfìː	NOUN	_	Definite=Cons|Gender=Masc	24	comp:obj	_	Gloss=XX
 27	à	à	ADP	_	_	24	comp:obl	_	Gloss=at
@@ -381,7 +381,7 @@
 10	tàːroː	tàːroː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=meeting.Masc
 11	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	8	parataxis@conj	_	Gloss=4.Perf.Rel
 12	faːrà	faːr-	VERB	_	_	11	comp:aux	_	Gloss=begin
-13	màganàː	màganàː	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=XX|SpaceAfter=No
+13	màganàː	màganàː	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=speech.Fem|SpaceAfter=No
 14	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__17
@@ -403,7 +403,7 @@
 15	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=COMP
 16	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	15	comp:obj	_	Gloss=4.Prog.Rel
 17	ɗaukàr̃	ɗauk-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	16	comp:aux	_	Gloss=take.Vnoun.Fem.Cons
-18	màganàː	màganàː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=XX
+18	màganàː	màganàː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=speech.Fem
 19	-	-	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 20	wàːtòː	wàːtòː	PART	_	_	21	discourse	_	Gloss=that_is
 21	maːkar̃ufôː	maːkar̃ufôː	NOUN	_	Gender=Masc	13	conj:appos	_	Gloss=XX
@@ -581,7 +581,7 @@
 14	cêː	cêː	VERB	_	_	13	comp:aux	_	Gloss=say
 15	lalleː	lalleː	INTJ	_	_	18	discourse	_	Gloss=XX
 16	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	dislocated@subj	_	Gloss=3Plur.Nom
-17	bà	bà	PART	_	Polarity=Neg	18	mod	_	Gloss=XX
+17	bà	bà	PART	_	Polarity=Neg	18	mod	_	Gloss=Neg
 18	zaːsù	zâi	AUX	_	Number=Plur|Person=3|Tense=Fut	14	comp:obj	_	Gloss=3Plur.Fut
 19	ƙyaːlè	ƙyaːleː	VERB	_	_	18	comp:aux	_	Gloss=XX
 20	Gianni	Gianni	PROPN	_	_	19	comp:obj	_	Gloss=Gianni

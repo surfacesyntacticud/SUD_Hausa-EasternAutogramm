@@ -40,7 +40,7 @@
 4	nèː	neː	PART	_	PartType=Foc	3	discourse@foc	_	Gloss=Emph
 5	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Stat	3	mod	_	Gloss=join.Stat
 6	dà	dà	CCONJ	_	_	5	comp:obl	_	Gloss=and
-7	koː	koː	SCONJ	_	_	6	comp:obj	_	Gloss=XX
+7	koː	koː	SCONJ	_	_	6	comp:obj	_	Gloss=whether
 8	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	34	subj	_	Gloss=child.Masc.Cons
 9	dambên	dambêː	NOUN	_	Definite=Cons|Gender=Masc	8	compound	_	Gloss=XX
 10	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	8	det	_	Gloss=ProxH
@@ -247,9 +247,9 @@
 32	jeː	jeː	VERB	_	_	31	comp:aux	_	Gloss=XX
 33	wàːsân	wàːsaː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	32	comp:obj@G	_	Gloss=XX
 34	ba	ba	PART	_	PartType=Ill|Polarity=Neg	32	mod	_	Gloss=Neg|SpaceAfter=No
-35	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
-36	har̃	har̃	CCONJ	_	Definite=Cons|Gender=Fem	37	cc	_	Gloss=XX
-37	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	24	conj:coord	_	Gloss=3Masc.Perf.Rel
+35	,	,	PUNCT	_	_	36	punct	_	Gloss=PUNCT
+36	har̃	har̃	SCONJ	_	Definite=Cons|Gender=Fem	25	mod	_	Gloss=so_much_so_that
+37	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	36	comp:obj	_	Gloss=3Masc.Perf.Rel
 38	cèː	cêː	VERB	_	Gender=Fem	37	comp:aux	_	Gloss=be.Fem
 39	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	38	comp:obj	_	Gloss=3Plur.Perf
 40	tattàunà	tattaun-	VERB	_	_	39	comp:aux	_	Gloss=discuss
@@ -402,8 +402,8 @@
 14	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=mouth.Masc
 15	à	à	ADP	_	_	13	comp:obl	_	Gloss=at
 16	bàtûn	bàtuː	NOUN	_	Definite=Def|Gender=Masc	15	comp:obj	_	Gloss=XX|SpaceAfter=No
-17	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
-18	har̃	har̃	CCONJ	_	Definite=Cons|Gender=Fem	31	cc	_	Gloss=XX
+17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
+18	har̃	har̃	SCONJ	_	Definite=Cons|Gender=Fem	13	mod	_	Gloss=so_much_so_that
 19	maː	maː	PART	_	_	18	discourse@top	_	Gloss=even
 20	wata	wani	DET	_	Definite=Spec|Gender=Masc	21	det	_	Gloss=some.Fem.Spec
 21	jàr̃iːdàː	jàr̃iːdàː	NOUN	_	Gender=Fem	31	subj	_	Gloss=newspaper.Fem
@@ -416,7 +416,7 @@
 28	Sunday	Sunday	PROPN	_	_	26	comp:pred	_	Gloss=Sunday
 29	Concord	Concord	PROPN	_	_	28	flat@name	_	Gloss=Concord
 30	"	"	PUNCT	_	_	28	punct	_	Gloss=PUNCT
-31	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	12	conj:coord	_	Gloss=3Fem.Perf
+31	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	18	comp:obj	_	Gloss=3Fem.Perf
 32	r̃ubùːtà	r̃ubùːt-	VERB	_	ExtPos=NOUN|Gender=Fem	31	comp:aux	_	Gloss=XX
 33	shar̃hìː	shar̃hìː	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=XX
 34	à	à	ADP	_	ExtPos=ADP	32	comp:obl	_	Gloss=at|Idiom=Yes
@@ -499,7 +499,7 @@
 17	ɗaya	ɗaya	NUM	_	_	16	mod:num	_	Gloss=one
 18	dà	dà	CCONJ	_	_	19	cc	_	Gloss=and
 19	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	17	conj:coord	_	Gloss=there_is.Neg
-20	koː	koː	ADV	_	_	21	mod	_	Gloss=XX
+20	koː	koː	ADV	_	_	21	mod	_	Gloss=even
 21	ɗaya	ɗaya	NUM	_	_	19	subj	_	Gloss=one
 22	à	à	ADP	_	_	8	mod	_	Gloss=at
 23	Tùːniːsiyà	Tùːniːsiyà	PROPN	_	_	22	comp:obj	_	Gloss=Tunisia|SpaceAfter=No
@@ -559,7 +559,7 @@
 23	ɗaya	ɗaya	NUM	_	_	22	mod	_	Gloss=one
 24	dà	dà	CCONJ	_	_	25	cc	_	Gloss=and
 25	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	23	conj:coord	_	Gloss=there_is.Neg
-26	koː	koː	ADV	_	_	27	mod	_	Gloss=XX
+26	koː	koː	ADV	_	_	27	mod	_	Gloss=even
 27	ɗaya	ɗaya	NUM	_	_	25	subj	_	Gloss=one|SpaceAfter=No
 28	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 

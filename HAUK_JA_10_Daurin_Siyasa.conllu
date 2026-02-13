@@ -96,7 +96,7 @@
 12	tsawon	tsawoː	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	Gloss=length.Masc.Cons
 13	wàtànniː	watàː	NOUN	_	Number=Plur	12	mod	_	Gloss=month.Plur
 14	shidà	shidà	NUM	_	_	13	mod:num	_	Gloss=six
-15	bà	bà	PART	_	Polarity=Neg	17	mod	_	Gloss=XX
+15	bà	bà	PART	_	Polarity=Neg	17	mod	_	Gloss=Neg
 16	tàːre	tàːre	ADV	_	_	17	mod	_	Gloss=together
 17	dà	dà	ADP	_	_	9	mod	_	Gloss=with
 18	tùhumàr̃	tuhum-	VERB	_	Gender=Fem	17	comp:obj	_	Gloss=charge.Vnoun.Fem.Cons
@@ -106,7 +106,7 @@
 22	in	in	SCONJ	_	_	9	mod	_	Gloss=if
 23	an	yaː	AUX	_	Aspect=Perf|Person=4	22	comp:obj	_	Gloss=4.Perf
 24	zàrgeː	zàrgeː	VERB	_	_	23	comp:aux	_	Gloss=XX
-25	shì	shi	AUX	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	24	comp:obj	_	Gloss=XX
+25	shì	shi	AUX	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	24	comp:obj	_	Gloss=3Masc.Acc
 26	dà	dà	ADP	_	_	24	comp:obl	_	Gloss=with|wordform=da
 27	yi	yi	VERB	_	_	26	comp:obj	_	Gloss=do
 28	wà	wà	ADP	_	Case=Dat	27	comp:obl	_	Gloss=Dat
@@ -135,12 +135,12 @@
 7	dà	dà	SCONJ	_	_	5	comp:obl	_	Gloss=COMP
 8	tsarè	tsar-	VERB	_	_	7	comp:obj	_	Gloss=imprison
 9	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	8	comp:obj	_	Gloss=person.Masc.Def
-10	har̃	har̃	ADP	_	_	8	mod	_	Gloss=until
-11	sai	sai	ADP	_	_	10	comp:obj	_	Gloss=until
-12	illaː	illaː	X	_	_	11	comp:obj	_	Gloss=X
-13	maː	maː	X	_	_	12	flat@foreign	_	Gloss=X
-14	shaː	shaː	X	_	_	13	flat@foreign	_	Gloss=X
-15	Àllaːhù	Àllaːhù	PROPN	_	_	14	flat@foreign	_	Gloss=Allah|SpaceAfter=No
+10	har̃	har̃	ADP	_	ExtPos=ADV	8	mod	_	Gloss=up_to|Idiom=Yes
+11	sai	sai	ADP	_	_	10	comp:obj	_	Gloss=until|InIdiom=Yes
+12	illaː	illaː	X	_	_	11	comp:obj	_	Gloss=X|InIdiom=Yes
+13	maː	maː	X	_	_	12	flat@foreign	_	Gloss=X|InIdiom=Yes
+14	shaː	shaː	X	_	_	13	flat@foreign	_	Gloss=X|InIdiom=Yes
+15	Àllaːhù	Àllaːhù	PROPN	_	_	14	flat@foreign	_	Gloss=Allah|InIdiom=Yes|SpaceAfter=No
 16	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 10_Daurin_Siyasa__7
@@ -303,7 +303,7 @@
 41	kawài	kawài	ADV	_	_	40	mod	_	Gloss=merely
 42	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	40	comp:obj	_	Gloss=3Masc.Perf.Neg
 43	biyaː	biyaː	VERB	_	_	42	comp:aux	_	Gloss=XX
-44	shì	shi	AUX	_	Gender=Masc|Mood=Sub|Person=3	43	comp:obj@R	_	Gloss=XX
+44	shì	shi	AUX	_	Case=Acc|Gender=Masc|Mood=Sub|Person=3|PronType=Prs	43	comp:obj@R	_	Gloss=3Masc.Acc
 45	baːshìn	baːshìː	AUX	_	Definite=Cons|Gender=Masc	43	comp:obj@T	_	Gloss=XX
 46	dà	dà	SCONJ	_	_	45	mod@relcl	_	Gloss=COMP
 47	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Relative=Rel	46	comp:obj	_	Gloss=3Fem.Prog.Rel
