@@ -2,7 +2,7 @@
 # text = An ƙàːlùːbàlànci ɗaurìn sìyaːsàː
 1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 2	ƙàːlùːbàlànci	ƙaːluːbalant-	VERB	_	_	1	comp:aux	_	Gloss=XX
-3	ɗaurìn	ɗaurìː	NOUN	_	Definite=Cons	2	comp:obj	_	Gloss=XX
+3	ɗaurìn	ɗaurìː	NOUN	_	Definite=Cons	2	comp:obj	_	Gloss=detention.Masc.Cons
 4	sìyaːsàː	sìyaːsàː	NOUN	_	Gender=Fem	3	mod	_	Gloss=politics.Fem
 
 # sent_id = 10_Daurin_Siyasa__2
@@ -13,9 +13,9 @@
 4	ta	ta	ADP	_	_	1	mod	_	Gloss=XX
 5	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	4	comp:obj	_	Gloss=Nigeria
 6	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
-7	shaː	shaː	VERB	_	_	6	comp:aux	_	Gloss=XX
+7	shaː	shaː	VERB	_	_	6	comp:aux	_	Gloss=suffer
 8	bambam	bambam	ADV	_	_	7	comp:pred	_	Gloss=different
-9	dà	dà	ADP	_	_	8	mod	_	Gloss=with
+9	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=with
 10	sauran	sauraː	NOUN	_	Definite=Cons|Gender=Masc	9	comp:obj	_	Gloss=rest.Masc.Cons
 11	gwamnatoːcin	gwamnatì	NOUN	_	Definite=Cons|Number=Plur	10	mod	_	Gloss=government.Plur.Cons
 12	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	11	mod	_	Gloss=rule.Masc.Cons
@@ -46,18 +46,18 @@
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
 19	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	18	comp:obj	_	Gloss=3Fem.Perf.Rel
 20	yi	yi	VERB	_	_	19	comp:aux	_	Gloss=do
-21	danganèː	danganèː	SCONJ	_	_	20	mod	_	Gloss=in_relation
-22	dà	dà	SCONJ	_	_	21	comp:obj	_	Gloss=COMP
-23	kaːrè	kar-	VERB	_	_	22	comp:obj	_	Gloss=protect
+21	danganèː	danganèː	SCONJ	_	ExtPos=ADP	20	mod	_	Gloss=relation.Masc|Idiom=Yes
+22	dà	dà	ADP	_	_	21	compound	_	Gloss=with|InIdiom=Yes
+23	kaːrè	kar-	VERB	_	_	21	comp:obj	_	Gloss=protect
 24	haƙƙìn	haƙƙìː	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=rights.Masc.Cons
 25	bìl-Adamà	bìl-Adamà	NOUN	_	Number=Plur	24	mod	_	Gloss=human.Plur
 26	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 10_Daurin_Siyasa__4
 # text = Àmmaː gàː shi taː ci gàba dà aikìː dà wata dòːkaː dà akà kafàː cikin kwàːnàkin farkoː na kaːmà mulkìn soːjà à ƙasâr̃.
-1	Àmmaː	àmmaː	CCONJ	_	_	4	discourse	_	Gloss=XX
-2	gàː	gàː	PART	_	_	4	discourse	_	Gloss=XX
-3	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	2	subj	_	Gloss=XX
+1	Àmmaː	àmmaː	CCONJ	_	_	4	discourse	_	Gloss=but
+2	gàː	gàː	PART	_	PartType=Pred	4	discourse	_	Gloss=here_is
+3	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	2	subj	_	Gloss=3Masc.Acc
 4	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
 5	ci	ci	VERB	_	_	4	comp:aux	_	Gloss=proceed
 6	gàba	gàba	ADV	_	_	5	mod	_	Gloss=in_front
@@ -103,7 +103,7 @@
 19	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	18	comp:obj	_	Gloss=3Masc.Gen
 20	ba	ba	PART	_	PartType=Ill|Polarity=Neg	17	mod	_	Gloss=Neg|SpaceAfter=No
 21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
-22	in	in	SCONJ	_	_	9	mod	_	Gloss=XX
+22	in	in	SCONJ	_	_	9	mod	_	Gloss=if
 23	an	yaː	AUX	_	Aspect=Perf|Person=4	22	comp:obj	_	Gloss=4.Perf
 24	zàrgeː	zàrgeː	VERB	_	_	23	comp:aux	_	Gloss=XX
 25	shì	shi	AUX	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	24	comp:obj	_	Gloss=XX
@@ -113,15 +113,15 @@
 29	tattalin	tattaliː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:pred	_	Gloss=XX
 30	ar̃zìkin	ar̃zìkiː	NOUN	_	Definite=Cons|Gender=Masc	29	mod	_	Gloss=XX
 31	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	30	mod	_	Gloss=country.Fem|wordform=kasaː
-32	maƙar̃ƙashìyaː	maƙar̃ƙashìyaː	NOUN	_	Gender=Fem	27	comp:pred	_	Gloss=XX|SpaceAfter=No
+32	maƙar̃ƙashìyaː	maƙar̃ƙashìyaː	NOUN	_	Gender=Fem	27	comp:pred	_	Gloss=sabotage.Fem|SpaceAfter=No
 33	,	,	PUNCT	_	_	36	punct	_	Gloss=PUNCT
 34	koː	koː	CCONJ	_	_	36	cc	_	Gloss=or
 35	kuma	kuma	PART	_	_	34	discourse@top	_	Gloss=also
 36	yi	yi	VERB	_	_	27	conj:coord	_	Gloss=do
 37	wà	wà	ADP	_	Case=Dat	36	comp:obl	_	Gloss=Dat
-38	tsàron	tsàroː	NOUN	_	Definite=Cons|Gender=Masc	37	comp:obj	_	Gloss=XX
+38	tsàron	tsàroː	NOUN	_	Definite=Cons|Gender=Masc	37	comp:obj	_	Gloss=security.Masc.Cons
 39	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	38	mod	_	Gloss=country.Fem|wordform=kasaː
-40	bàràːzanaː	bàràːzanaː	NOUN	_	Gender=Fem	36	comp:pred	_	Gloss=XX|SpaceAfter=No
+40	bàràːzanaː	bàràːzanaː	NOUN	_	Gender=Fem	36	comp:pred	_	Gloss=threat.Fem|SpaceAfter=No
 41	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 10_Daurin_Siyasa__6
@@ -129,7 +129,7 @@
 1	Tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Prog
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 3	dà	dà	ADP	_	_	1	comp:pred	_	Gloss=with
-4	iːkòn	iːkòː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=XX
+4	iːkòn	iːkòː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=power.Masc.Cons
 5	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	mod	_	Gloss=proceed.Vnoun.Masc
 6	gàba	gàba	ADV	_	_	5	mod	_	Gloss=in_front
 7	dà	dà	SCONJ	_	_	5	comp:obl	_	Gloss=COMP
@@ -171,7 +171,7 @@
 
 # sent_id = 10_Daurin_Siyasa__8
 # text = Àmmaː suː lauyoːyiː na Ƙungìyar̃ Neːmàː wà Jàma'àː Haƙƙìnsù ta Nàːjeːr̃iyàː sun cêː sun haƙiːƙànceː anàː àmfàːniː dà wannàn Dòːkaː ta Biyu ta hanyàr̃ dà bàtà daːcèː ba - wàːtòː anàː tsarèː mutàneː sabòːdà laifuffukàː na yâu dà kullum kawài, waɗàndà al'amur̃ànsù bàsù shàːfi yîn wata maƙar̃ƙashìyaː gà laːfiyàr̃ ƙasaː koː kuma gà tattalin ar̃zìkin ƙasaː ba.
-1	Àmmaː	àmmaː	CCONJ	_	_	13	discourse	_	Gloss=XX
+1	Àmmaː	àmmaː	CCONJ	_	_	13	discourse	_	Gloss=but
 2	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	subj	_	Gloss=3Plur.Nom
 3	lauyoːyiː	lauyoːyiː	NOUN	_	Gender=Masc	2	conj:appos	_	Gloss=XX
 4	na	na	ADP	_	_	3	mod	_	Gloss=XX
@@ -220,7 +220,7 @@
 47	shàːfi	shàig-	VERB	_	_	46	comp:aux	_	Gloss=XX
 48	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	47	comp:obj	_	Gloss=do
 49	wata	wani	DET	_	Definite=Spec|Gender=Masc	50	det	_	Gloss=some.Fem.Spec
-50	maƙar̃ƙashìyaː	maƙar̃ƙashìyaː	NOUN	_	Gender=Fem	48	comp:pred	_	Gloss=XX
+50	maƙar̃ƙashìyaː	maƙar̃ƙashìyaː	NOUN	_	Gender=Fem	48	comp:pred	_	Gloss=sabotage.Fem
 51	gà	gà	ADP	_	_	48	comp:obl	_	Gloss=to
 52	laːfiyàr̃	laːfiyàː	NOUN	_	Gender=Fem	51	comp:obj	_	Gloss=XX
 53	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	52	mod	_	Gloss=country.Fem|wordform=kasaː
@@ -295,7 +295,7 @@
 33	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	34	det	_	Gloss=ProxS.Sing
 34	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	32	comp:obj	_	Gloss=law.Fem
 35	ta	ta	ADP	_	Case=Gen|Gender=Fem	34	mod	_	Gloss=XX
-36	tsàron	tsàroː	NOUN	_	Definite=Cons|Gender=Masc	35	comp:obj	_	Gloss=XX
+36	tsàron	tsàroː	NOUN	_	Definite=Cons|Gender=Masc	35	comp:obj	_	Gloss=security.Masc.Cons
 37	laːfiyàr̃	laːfiyàː	NOUN	_	Gender=Fem	36	mod	_	Gloss=XX
 38	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	37	mod	_	Gloss=country.Fem|SpaceAfter=No|wordform=kasaː
 39	,	,	PUNCT	_	_	40	punct	_	Gloss=PUNCT

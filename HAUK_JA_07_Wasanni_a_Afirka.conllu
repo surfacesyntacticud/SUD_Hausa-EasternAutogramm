@@ -277,7 +277,7 @@
 11	r̃ubùːtaː	r̃ubùː	VERB	_	_	10	comp:aux	_	Gloss=XX
 12	wà	wà	ADP	_	Case=Dat	11	comp:obl	_	Gloss=Dat
 13	Lasisi	Lasisi	PROPN	_	_	12	comp:obj	_	Gloss=Lasisi
-14	wàsiːƙàː	wàsiːƙàː	NOUN	_	Gender=Masc	13	flat@name	_	Gloss=XX
+14	wàsiːƙàː	wàsiːƙàː	NOUN	_	Gender=Fem	13	flat@name	_	Gloss=letter.Fem
 15	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	10	parataxis@conj	_	Gloss=3Masc.Perf.Rel
 16	gayàː	gay-	VERB	_	_	15	comp:aux	_	Gloss=XX
 17	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	16	comp:obl	_	Gloss=3Masc.Dat
@@ -295,7 +295,7 @@
 # text_ortho = Àmmaː kuma sakatar̃èn Hùkuːmàr̃ Dambe ta Nàːjeːr̃iyàː, wani mài suːnaː 'Emmanuel Adeleye', yaː fitoː à talàbijìn à bir̃nin ìkko yanàː karyàtà shùːgàban Hùkuːmàr̃, yanàː ròːƙon jàma'àː dà sù baː dà goːyon baːyaː gà Lasisi ìdan ya zoː yîn dambe.
 1	àmmaː	àmmaː	CCONJ	_	_	17	discourse	_	Gloss=but
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
-3	sakatar̃èn	sakatar̃èː	NOUN	_	Definite=Cons|Gender=Masc	17	subj	_	Gloss=XX
+3	sakatar̃èn	sakatar̃èː	NOUN	_	Definite=Cons|Gender=Masc	17	subj	_	Gloss=secretary.Masc.Cons
 4	hùkuːmàr̃	hùkuːmàː	NOUN	_	Number=Plur	3	mod	_	Gloss=XX
 5	dambe	dambe	NOUN	_	_	4	mod	_	Gloss=XX
 6	ta	na	PART	_	Case=Gen|Gender=Fem	4	mod	_	Gloss=Gen.Fem
@@ -342,7 +342,7 @@
 # sent_id = 07_Wasanni_a_Afirka__10
 # text = sakatar̃èn ya ƙaːràː dà cêːwaː yîn wannàn dambe bài saːɓàː wà manufoːfin gwamnatì ba, tun dà yakè àboːkin damben Lasisi bàː ɗan Afir̃kà ta Kudù ba nèː, kuma bàː à Afir̃kà ta Kudù zaː'à yi dambên ba.
 # text_ortho = Sakatar̃èn ya ƙaːràː dà cêːwaː yîn wannàn dambe bài saːɓàː wà manufoːfin Gwamnatì ba, tun dà yakè àboːkin damben Lasisi bàː ɗan Afir̃kà ta Kudù ba nèː, kuma bàː à Afir̃kà ta Kudù zaː à yi dambên ba.
-1	sakatar̃èn	sakatar̃èː	NOUN	_	Definite=Def|Gender=Masc	2	subj	_	Gloss=XX
+1	sakatar̃èn	sakatar̃èː	NOUN	_	Definite=Def|Gender=Masc	2	subj	_	Gloss=secretary.Masc.Cons
 2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
 3	ƙaːràː	ƙaːr-	VERB	_	_	2	comp:aux	_	Gloss=increase
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with
@@ -458,7 +458,7 @@
 1	tòː	tòː	INTJ	_	_	4	discourse	_	Gloss=well
 2	yànzu	yànzu	ADV	_	_	4	mod	_	Gloss=now
 3	kuma	kuma	PART	_	_	2	discourse@top	_	Gloss=also
-4	gàː	gàː	PART	_	PartType=Pred	0	root	_	Gloss=XX
+4	gàː	gàː	PART	_	PartType=Pred	0	root	_	Gloss=here_is
 5	wasu	wani	PRON	_	Definite=Spec|Number=Plur	4	subj	_	Gloss=some.Plur.Spec
 6	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=from
 7	sàːkàmakon	sàːkàmakoː	NOUN	_	Definite=Cons|Number=Plur	6	comp:obj	_	Gloss=XX

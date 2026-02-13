@@ -423,7 +423,7 @@
 17	ɗàriː	ɗàriː	NUM	_	Gender=Fem	15	conj:coord	_	Gloss=hundred
 18	tar̃à	tar̃à	NUM	_	_	17	mod:num	_	Gloss=nine
 19	dà	dà	CCONJ	_	_	20	cc	_	Gloss=and
-20	sìttin	sìttin	NUM	_	_	17	conj:coord	_	Gloss=XX
+20	sìttin	sìttin	NUM	_	_	17	conj:coord	_	Gloss=sixty
 21	dà	dà	CCONJ	_	_	22	cc	_	Gloss=and
 22	tar̃à	tar̃à	NUM	_	_	20	conj:coord	_	Gloss=nine|SpaceAfter=No
 23	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
@@ -777,7 +777,7 @@
 26	yankèː	yank-	VERB	_	_	25	comp:aux	_	Gloss=cut
 27	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	26	comp:obl	_	Gloss=3Masc.Dat
 28	hukuncìn	hukuncìː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:obj	_	Gloss=XX
-29	ɗaurìn	ɗaurìː	NOUN	_	Definite=Cons|Gender=Masc	28	mod	_	Gloss=XX
+29	ɗaurìn	ɗaurìː	NOUN	_	Definite=Cons|Gender=Masc	28	mod	_	Gloss=detention.Masc.Cons
 30	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	29	mod	_	Gloss=year.Plur
 31	bìyar̃	bìyar̃	NUM	_	_	30	mod:num	_	Gloss=five
 32	à	à	ADP	_	_	29	mod	_	Gloss=at
@@ -800,14 +800,14 @@
 
 # sent_id = 11_Fela_Kuti__26
 # text = Àmmaː baːyan shèːkaràː biyu kawài sai akà sàki goːgân naːkù , wàːtòː baːyan an sàːmi sauyìn gwamnatì à Nàːjeːr̃iyàː.
-1	Àmmaː	àmmaː	CCONJ	_	_	7	discourse	_	Gloss=XX
+1	Àmmaː	àmmaː	CCONJ	_	_	7	discourse	_	Gloss=but
 2	baːyan	baːyan	ADP	_	_	7	mod	_	Gloss=after
 3	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	2	comp:obj	_	Gloss=year.Fem
 4	biyu	biyu	NUM	_	_	3	mod:num	_	Gloss=two
 5	kawài	kawài	ADV	_	_	3	mod	_	Gloss=merely
 6	sai	sai	ADV	_	_	7	mod	_	Gloss=then
 7	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	0	root	_	Gloss=4.Perf.Rel
-8	sàki	sàkaː	VERB	_	_	7	comp:aux	_	Gloss=XX
+8	sàki	sak-	VERB	_	_	7	comp:aux	_	Gloss=release
 9	goːgân	goːgaː	NOUN	_	Definite=Def|Gender=Masc	8	comp:obj	_	Gloss=hero.Masc.Def
 10-11	naːkù	_	_	_	_	_	_	_	_
 10	naː	na	PART	_	Case=Gen|Gender=Masc	9	mod	_	Gloss=Gen.Masc|SpaceAfter=No

@@ -43,7 +43,7 @@
 23	dà	dà	CCONJ	_	_	24	cc	_	Gloss=and
 24	Kir̃istoːciː	Kir̃istàː	NOUN	_	Number=Plur	22	conj:coord	_	Gloss=Christian.Plur
 25	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
-26	jaːwoː	jaːy-	VERB	_	_	25	comp:aux	_	Gloss=XX
+26	jaːwoː	jaː	VERB	_	_	25	comp:aux	_	Gloss=draw
 27	sànàdiyyàr̃	sànàdiyyàː	NOUN	_	Definite=Cons|Gender=Fem	26	comp:obj	_	Gloss=result.Fem.Cons
 28	mutuwàr̃	mutuwàː	NOUN	_	Definite=Cons|Gender=Fem	27	mod	_	Gloss=death.Fem.Cons
 29	mutàːneː	mùtûm	NOUN	_	Number=Plur	28	mod	_	Gloss=people.Plur
@@ -72,7 +72,7 @@
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__4
 # text = Àmmaː koː dà yakè 'yan sàndan kashè tàr̃zòːmaː sun shaːwoː kân lamàr̃în, har̃ yànzu àkwai àlàːmun rashìn kwànciyar̃ hankàliː sabòːdà jiyà jàːmì'an kiːwòn laːfiyàː sai dà sukà kwaːshè majìnyàtaː dàgà bàbban asìbitìn gàrîn, loːkàcîn dà 'yan sàndaː sukà riƙà har̃bìː à hàr̃aːbàr̃ asìbitìn.
-1	Àmmaː	àmmaː	CCONJ	_	_	16	discourse	_	Gloss=XX
+1	Àmmaː	àmmaː	CCONJ	_	_	16	discourse	_	Gloss=but
 2	koː	koː	SCONJ	_	ExtPos=SCONJ	16	mod	_	Gloss=even_if|Idiom=Yes
 3	dà	dà	SCONJ	_	_	2	unk	_	Gloss=COMP|InIdiom=Yes
 4	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Relative=Rel2	3	comp:obj	_	Gloss=3Fem.Prog.Rel2|InIdiom=Yes
@@ -278,8 +278,8 @@
 24	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	21	mod@relcl	_	Gloss=REL.Masc
 25	dàgà	dàgà	ADP	_	_	30	mod	_	Gloss=from
 26	bìsaːniː	bìsaːniː	ADV	_	_	25	comp:obj	_	Gloss=later
-27	kìːmaːnìn	kìːmaːnìː	ADV	_	Definite=Cons|Gender=Masc	28	mod	_	Gloss=XX
-28	mutàːneː	mùtûm	NOUN	_	Number=Plur	30	subj	_	Gloss=people.Plur
+27	kìːmaːnìn	kìːmaːnìː	NOUN	_	Definite=Cons|Gender=Masc	30	subj	_	Gloss=total.Masc.Cons
+28	mutàːneː	mùtûm	NOUN	_	Number=Plur	27	mod	_	Gloss=people.Plur
 29	tàmàːnin	tàmàːnin	NUM	_	_	28	mod:num	_	Gloss=eighty
 30	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	24	comp:obj	_	Gloss=3Plur.Perf.Rel
 31	rasà	ras-	VERB	_	_	30	comp:aux	_	Gloss=lose
@@ -472,7 +472,7 @@
 14	ɗàriː	ɗàriː	NUM	_	Gender=Fem	12	conj:coord	_	Gloss=hundred
 15	tar̃à	tar̃à	NUM	_	_	14	mod:num	_	Gloss=nine
 16	dà	dà	CCONJ	_	_	17	cc	_	Gloss=and
-17	sìttin	sìttin	NUM	_	Definite=Cons|Gender=Masc	14	conj:coord	_	Gloss=XX
+17	sìttin	sìttin	NUM	_	Definite=Cons|Gender=Masc	14	conj:coord	_	Gloss=sixty
 18	dà	dà	CCONJ	_	_	19	cc	_	Gloss=and
 19	shidà	shidà	NUM	_	_	17	conj:coord	_	Gloss=six|SpaceAfter=No
 20	.	.	PUNCT	_	_	23	punct	_	Gloss=PUNCT

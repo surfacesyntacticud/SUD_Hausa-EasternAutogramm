@@ -90,7 +90,7 @@
 12	shi	shi	PRON	_	Gender=Masc|Person=3	11	subj	_	Gloss=XX
 13	dà	dà	ADP	_	_	11	comp:pred	_	Gloss=with
 14	kyâu	kyâu	AUX	_	Gender=Masc	13	comp:obj	_	Gloss=XX
-15	sòːsai	sòːsai	ADV	_	_	14	mod	_	Gloss=well|SpaceAfter=No
+15	sòːsai	sòːsai	ADV	_	_	14	mod	_	Gloss=really|SpaceAfter=No
 16	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 17	har̃	har̃	CCONJ	_	Definite=Cons|Gender=Fem	18	cc	_	Gloss=XX
 18	baːkàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=2|Polarity=Neg	11	conj:coord	_	Gloss=2Masc.Prog.Neg
@@ -164,8 +164,8 @@
 9	haɗàː	haɗàː	VERB	_	_	8	comp:aux	_	Gloss=XX
 10	ka	ka	PRON	_	Gender=Masc|Person=2	9	comp:obj	_	Gloss=XX|SpaceAfter=No
 11	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-12	koː	koː	CCONJ	_	_	14	cc	_	Gloss=XX
-13	kùwa	kùwa	PART	_	_	12	discourse@top	_	Gloss=XX
+12	koː	koː	CCONJ	_	_	14	cc	_	Gloss=or
+13	kùwa	kùwa	PART	_	PartType=Top	12	discourse@top	_	Gloss=in_fact
 14	kà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=2	8	conj:coord	_	Gloss=2Masc.Sub
 15	ji	ji	VERB	_	_	14	comp:aux	_	Gloss=hear
 16	wata	wani	DET	_	Definite=Spec|Gender=Masc	17	det	_	Gloss=some.Fem.Spec
@@ -242,7 +242,7 @@
 21	ta	ta	ADP	_	_	14	conj:coord	_	Gloss=via
 22	wasu	wani	DET	_	Definite=Spec|Number=Plur	23	det	_	Gloss=some.Plur.Spec
 23	wayoːyin	wayoːyiː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:obj	_	Gloss=XX
-24	ƙàr̃ƙashin	ƙàr̃ƙashin	ADP	_	Definite=Cons|Number=Plur	23	mod	_	Gloss=XX
+24	ƙàr̃ƙashin	ƙàr̃ƙashin	ADP	_	Definite=Cons|Number=Plur	23	mod	_	Gloss=under
 25	tèːku	tèːku	NOUN	_	Gender=Masc	24	comp:obj	_	Gloss=XX|SpaceAfter=No
 26	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
@@ -344,7 +344,7 @@
 3	dà	dà	CCONJ	_	_	4	cc	_	Gloss=and
 4	Mazàmbîk	Mazàmbîk	PROPN	_	_	2	conj:coord	_	Gloss=Mazàmbîk
 5	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
-6	hannun	hannuː	NOUN	_	_	5	comp:pred	_	Gloss=XX
+6	hannun	hannuː	NOUN	_	_	5	comp:pred	_	Gloss=hand.Masc.Cons
 7	rìːgaː	rìːgaː	NOUN	_	Gender=Fem	6	mod	_	Gloss=XX
 8	nèː	neː	PART	_	PartType=Foc	6	discourse@foc	_	Gloss=Emph
 9	dà	dà	CCONJ	_	_	6	mod	_	Gloss=and
@@ -383,7 +383,7 @@
 10	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 11	doːlè	doːlè	ADV	_	_	0	root	_	Gloss=necessary
 12	à	yà	AUX	_	Mood=Sub|Person=4	11	dislocated@subj	_	Gloss=4.Sub
-13	aikoː	aik-	VERB	_	_	12	comp:aux	_	Gloss=XX
+13	aikoː	aik-	VERB	_	_	12	comp:aux	_	Gloss=send
 14	dà	dà	ADP	_	_	13	comp:obl	_	Gloss=with
 15	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	14	comp:obj	_	Gloss=3Fem.Nom
 16	ta	ta	ADP	_	_	13	mod	_	Gloss=via
@@ -410,7 +410,7 @@
 15	baː'àː	nàː	AUX	_	Aspect=Prog|Person=4|Polarity=Neg	10	conj:coord	_	Gloss=XX
 16	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:aux	_	Gloss=hear.Vnoun.Masc.Cons
 17	màganàr̃	màganàː	NOUN	_	Definite=Def|Gender=Fem	16	comp:obj	_	Gloss=XX
-18	sòːsai	sòːsai	ADV	_	_	16	mod	_	Gloss=well|SpaceAfter=No
+18	sòːsai	sòːsai	ADV	_	_	16	mod	_	Gloss=really|SpaceAfter=No
 19	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = 06_01_Wayoyin_Tarho__18
@@ -430,7 +430,7 @@
 12	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	9	comp:obj	_	Gloss=3Plur.Perf.Rel
 13	yi	yi	VERB	_	_	12	comp:aux	_	Gloss=do
 14	à	à	ADP	_	ExtPos=ADP	13	comp:obl	_	Gloss=at|Idiom=Yes
-15	ƙàr̃ƙashin	ƙàr̃ƙashin	ADP	_	_	14	comp:obj	_	Gloss=XX|InIdiom=Yes
+15	ƙàr̃ƙashin	ƙàr̃ƙashin	ADP	_	_	14	comp:obj	_	Gloss=under|InIdiom=Yes
 16	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	15	comp:obj	_	Gloss=country.Plur.Cons
 17	Tuːr̃ai	Tuːr̃ai	PROPN	_	_	16	mod	_	Gloss=Tuːr̃ai|SpaceAfter=No
 18	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
