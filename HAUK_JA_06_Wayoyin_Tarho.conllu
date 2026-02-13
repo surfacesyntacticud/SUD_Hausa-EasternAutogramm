@@ -1,8 +1,8 @@
 # sent_id = 06_01_Wayoyin_Tarho__1
-# text = Waːyoːyin tàr̃hôː à Afìr̃kà - bàbban cîː gàba ?
+# text = wayoːyin tàr̃hôː à Afìr̃kà - bàbban cîː gàba ?
 # text_ortho = Waːyoːyin tàr̃hôː à Afìr̃kà - bàbban cîː gàba ?
-1	waːyoːyin	waːyoːyiː	NOUN	_	Number=Plur|PronType=Dem	0	root	_	Gloss=XX
-2	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	1	mod	_	Gloss=telephone.Masc
+1	wayoːyin	wayàː	NOUN	_	Number=Plur	0	root	_	Gloss=wire.Plur.Cons
+2	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	1	compound	_	Gloss=telephone.Masc
 3	à	à	ADP	_	_	1	mod	_	Gloss=at
 4	Afìr̃kà	Afìr̃kà	PROPN	_	_	3	comp:obj	_	Gloss=Africa
 5	-	-	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -14,7 +14,7 @@
 # sent_id = 06_01_Wayoyin_Tarho__2
 # text = kullum ìdan gidan r̃eːdiyòn " BBC " zâi gabaːtar̃ dà shìrye-shìryensà gà ƙasàːshen Afìr̃kà, doːlè yà yi àmfàːniː dà wayàr̃ tàr̃hôː.
 # text_ortho = Kullum ìdan gidan r̃eːdiyòn 'BBC' zâi gabaːtar̃ dà shìrye-shìryensà gà ƙasàːshen Afìr̃kà, doːlè yà yi àmfàːniː dà wayàr̃ tàr̃hôː.
-1	kullum	kullum	ADV	_	_	17	mod	_	Gloss=XX
+1	kullum	kullum	ADV	_	_	17	mod	_	Gloss=always
 2	ìdan	ìdan	SCONJ	_	_	17	mod	_	Gloss=if
 3	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	6	mod@desc	_	Gloss=house.Masc.Cons
 4	r̃eːdiyòn	r̃eːdiyòː	NOUN	_	Definite=Cons|Gender=Masc	3	mod	_	Gloss=radio.Masc.Cons
@@ -262,32 +262,32 @@
 11	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 06_01_Wayoyin_Tarho__11
-# text = Dàgà ƙàrsheː sai sàːƙôn yà ìsa bir̃nin Wàgadugù.
+# text = dàgà ƙàrsheː sai sàːƙôn yà ìsa bir̃nin Wàgadugù.
 # text_ortho = Dàgà ƙàrsheː sai sàːƙôn yà ìsa bir̃nin Wàgadugù.
 1	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=from
-2	ƙàrsheː	ƙàrsheː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=XX
+2	ƙàrsheː	ƙàrsheː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=end.Masc
 3	sai	sai	ADV	_	_	5	mod	_	Gloss=then
 4	sàːƙôn	sàːƙoː	NOUN	_	Definite=Def|Gender=Masc	5	subj	_	Gloss=message.Masc.Det
 5	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	0	root	_	Gloss=3Masc.Sub
-6	ìsa	is-	VERB	_	_	5	comp:aux	_	Gloss=XX
+6	ìsa	is-	VERB	_	_	5	comp:aux	_	Gloss=reach
 7	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj@L	_	Gloss=city.Masc.Cons
 8	Wàgadugù	Wàgadugù	PROPN	_	_	7	mod	_	Gloss=Wàgadugù|SpaceAfter=No
 9	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 06_01_Wayoyin_Tarho__12
-# text = kaː ga doːlè à sàːmi haɗìn kâi tsàkaːnin ƙasàːshen duːniyàː kafin à shiryà hakà.
+# text = kaː ga doːlè à sàːmi haɗìn kâi tsàkaːnin ƙasàːshen duːniyàː kàːfìn à shiryà hakà.
 # text_ortho = Kaː ga doːlè à sàːmi haɗìn kâi tsàkaːnin ƙasàːshen dūniyà kafin à shiryà hakà.
 1	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	3	parataxis@discourse	_	Gloss=2Masc.Perf
 2	ga	ganiː	VERB	_	_	1	comp:aux	_	Gloss=see
 3	doːlè	doːlè	ADV	_	_	0	root	_	Gloss=necessary
 4	à	yà	AUX	_	Mood=Sub|Person=4	3	dislocated@subj	_	Gloss=4.Sub
 5	sàːmi	saːm-	VERB	_	_	4	comp:aux	_	Gloss=get
-6	haɗìn	haɗìː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:obj	_	Gloss=XX
-7	kâi	kâi	NOUN	_	_	6	compound	_	Gloss=XX
+6	haɗìn	haɗìː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:obj	_	Gloss=mixing.Masc.Cons
+7	kâi	kâi	NOUN	_	_	6	compound	_	Gloss=head.Masc
 8	tsàkaːnin	tsàkaːnin	ADP	_	_	6	mod	_	Gloss=between
 9	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	8	comp:obj	_	Gloss=country.Plur.Cons
 10	duːniyàː	duːniyàː	NOUN	_	ExtPos=NOUN|Gender=Fem	9	mod	_	Gloss=world.Fem
-11	kafin	kafin	PART	_	_	5	mod	_	Gloss=XX
+11	kàːfìn	kàːfìn	PART	_	_	5	mod	_	Gloss=before
 12	à	yà	AUX	_	Mood=Sub|Person=4	11	comp:obj	_	Gloss=4.Sub
 13	shiryà	shir-	VERB	_	_	12	comp:aux	_	Gloss=prepare
 14	hakà	hakà	ADV	_	_	13	comp:obj	_	Gloss=thus|SpaceAfter=No
@@ -298,36 +298,36 @@
 # text_ortho = Doːlè neː koːwàcè kasaː tà amìnceː dà laːyukàn dà akèː bùkaːtàː, dà kuma kuɗîn dà zaː à biyaː à kân koːwànè sàːƙon wayàr̃ tàrhôː.
 1	doːlè	doːlè	ADV	_	_	0	root	_	Gloss=necessary
 2	neː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
-3	koːwàcè	koːwàcè	DET	_	_	4	det	_	Gloss=XX
+3	koːwàcè	koːwànè	DET	_	_	4	det	_	Gloss=each.Fem
 4	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	5	subj	_	Gloss=country.Fem|wordform=kasaː
-5	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	1	comp:cleft	_	Gloss=3Fem.Sub
-6	amìnceː	amìnceː	NOUN	_	_	5	comp:aux	_	Gloss=XX
+5	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	1	dislocated@agent	_	Gloss=3Fem.Sub
+6	amìnceː	amint-	NOUN	_	_	5	comp:aux	_	Gloss=agree
 7	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=with
 8	laːyukàn	laːyìː	NOUN	_	Definite=Def|Number=Plur	7	comp:obj	_	Gloss=line.Plur.Def
 9	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
 10	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	9	comp:obj	_	Gloss=4.Prog.Rel
-11	bùkaːtàː	bùkaːtàː	NOUN	_	ExtPos=NOUN|Gender=Fem	10	comp:aux	_	Gloss=XX|SpaceAfter=No
+11	bùkaːtàː	bukaːt-	VERB	_	ExtPos=NOUN|Gender=Fem	10	comp:aux	_	Gloss=need|SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 13	dà	dà	CCONJ	_	_	15	cc	_	Gloss=and
 14	kuma	kuma	PART	_	_	13	discourse@top	_	Gloss=also
-15	kuɗîn	kuɗiː	NOUN	_	Definite=Def|Gender=Masc	8	conj:coord	_	Gloss=XX
+15	kuɗîn	kuɗiː	NOUN	_	Definite=Def|Gender=Masc	8	conj:coord	_	Gloss=money.Masc.Def
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=COMP
 17	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	16	comp:obj	_	Gloss=4.Fut|wordform=à
-18	biyaː	biyaː	VERB	_	_	17	comp:aux	_	Gloss=XX
+18	biyaː	biyaː	VERB	_	_	17	comp:aux	_	Gloss=pay
 19	à	à	ADP	_	ExtPos=ADP	18	comp:obl	_	Gloss=at
 20	kân	kân	ADP	_	_	19	comp:obj	_	Gloss=top
-21	koːwànè	koːwànè	DET	_	_	22	det	_	Gloss=XX
+21	koːwànè	koːwànè	DET	_	_	22	det	_	Gloss=each.Masc
 22	sàːƙon	sàːƙoː	NOUN	_	Definite=Cons|Gender=Masc	20	comp:obj	_	Gloss=message.Masc.Cons
 23	wayàr̃	wayàː	NOUN	_	Definite=Cons|Gender=Fem	22	mod	_	Gloss=wire.Fem.Cons
 24	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	23	compound	_	Gloss=telephone.Masc|SpaceAfter=No
 25	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 06_01_Wayoyin_Tarho__14
-# text = àmmaː yàːya har̃kàr̃ wayàr̃ tàr̃hôː takè à ƙasàːshen Afìr̃kà?
+# text = àmmaː yàːyàː har̃kàr̃ wayàr̃ tàr̃hôː takè à ƙasàːshen Afìr̃kà?
 # text_ortho = Àmmaː yàːya har̃kàr̃ wayàr̃ tàr̃hôː takè à ƙasàːshen Afìr̃kà?
 1	àmmaː	àmmaː	CCONJ	_	_	2	discourse	_	Gloss=but
-2	yàːya	yàːya	ADV	_	_	0	root	_	Gloss=XX
-3	har̃kàr̃	har̃kàː	NOUN	_	Definite=Cons|Gender=Fem	6	subj	_	Gloss=XX
+2	yàːyàː	yàːyàː	ADV	_	PronType=Int	0	root	_	Gloss=how
+3	har̃kàr̃	har̃kàː	NOUN	_	Definite=Cons|Gender=Fem	6	subj	_	Gloss=matter.Fem.Cons
 4	wayàr̃	wayàː	NOUN	_	Definite=Cons|Gender=Fem	3	mod	_	Gloss=wire.Fem.Cons
 5	tàr̃hôː	tàr̃hôː	NOUN	_	_	4	compound	_	Gloss=telephone.Masc
 6	takè	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Relative=Rel2	2	comp:cleft	_	Gloss=3Fem.Prog.Rel2
@@ -345,10 +345,10 @@
 4	Mazàmbîk	Mazàmbîk	PROPN	_	_	2	conj:coord	_	Gloss=Mazàmbîk
 5	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
 6	hannun	hannuː	NOUN	_	_	5	comp:pred	_	Gloss=hand.Masc.Cons
-7	rìːgaː	rìːgaː	NOUN	_	Gender=Fem	6	mod	_	Gloss=XX
+7	rìːgaː	rìːgaː	NOUN	_	Gender=Fem	6	compound	_	Gloss=boubou.Fem
 8	nèː	neː	PART	_	PartType=Foc	6	discourse@foc	_	Gloss=Emph
-9	dà	dà	CCONJ	_	_	6	mod	_	Gloss=and
-10	juːnaː	juːnaː	PRON	_	PronType=Rcp	9	comp:obj	_	Gloss=XX|SpaceAfter=No
+9	dà	dà	CCONJ	_	_	6	comp:pred	_	Gloss=and
+10	juːnaː	juːnaː	NOUN	_	Gender=Masc|PronType=Rcp	9	comp:obj	_	Gloss=each_other.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	àmmaː	àmmaː	CCONJ	_	_	13	cc	_	Gloss=but
 13	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	5	parataxis@conj	_	Gloss=3Masc.Perf
@@ -369,13 +369,13 @@
 28	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 06_01_Wayoyin_Tarho__16
-# text = hakà kuma duk wayàr̃ tàr̃hô dàgà Màlaːwì zuwàː Àngoːlà, doːlè à aikoː dà ita ta Bìr̃taːniyà.
+# text = hakà kuma duk wayàr̃ tàr̃hôː dàgà Màlaːwì zuwàː Àngoːlà, doːlè à aikoː dà ita ta Bìr̃taːniyà.
 # text_ortho = Hakà kuma duk wayàr̃ tàr̃hô dàgà Màlaː wì zuwàː Àngoːlà, doːlè à aikoː dà ita ta Bìr̃taːniyà.
 1	hakà	hakà	ADV	_	_	11	mod	_	Gloss=thus
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 3	duk	dukà	DET	_	PronType=Tot	4	det	_	Gloss=all
 4	wayàr̃	wayàː	NOUN	_	Definite=Cons|Gender=Fem	11	dislocated@top	_	Gloss=wire.Fem.Cons
-5	tàr̃hô	tàr̃hô	NOUN	_	Gender=Masc	4	compound	_	Gloss=XX
+5	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	4	compound	_	Gloss=telephone.Masc
 6	dàgà	dàgà	ADP	_	_	4	comp:obl	_	Gloss=from
 7	Màlaːwì	Màlaːwì	PROPN	_	_	6	comp:obj	_	Gloss=Màlaːwì
 8	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:obl	_	Gloss=towards
@@ -407,9 +407,9 @@
 12	laːyìː	laːyìː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=line.Masc|SpaceAfter=No
 13	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 14	kuma	kuma	CCONJ	_	_	15	cc	_	Gloss=also
-15	baː'àː	nàː	AUX	_	Aspect=Prog|Person=4|Polarity=Neg	10	conj:coord	_	Gloss=XX
+15	baː'àː	nàː	AUX	_	Aspect=Prog|Person=4|Polarity=Neg	10	conj:coord	_	Gloss=4Prog.Neg
 16	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:aux	_	Gloss=hear.Vnoun.Masc.Cons
-17	màganàr̃	màganàː	NOUN	_	Definite=Def|Gender=Fem	16	comp:obj	_	Gloss=XX
+17	màganàr̃	màganàː	NOUN	_	Definite=Def|Gender=Fem	16	comp:obj	_	Gloss=speech.Fem.Cons
 18	sòːsai	sòːsai	ADV	_	_	16	mod	_	Gloss=really|SpaceAfter=No
 19	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
@@ -418,12 +418,12 @@
 # text_ortho = Wannàn yanàː fàːruwaː nèː sabòːdà zaman mulkìn màllakàr̃ dà ƙasàːshen Afir̃kà sukà yi à ƙàr̃ƙashin ƙasàːshen Tuːr̃ai, àmmaː yànzu ƙasàːshen Afir̃kà sun soːmà ƙaːrà dàngàntakàː tsàkaːninsù.
 1	wannàn	wannàn	PRON	_	Deixis=ProxS|Number=Sing|PronType=Dem	2	subj	_	Gloss=ProxS.Sing
 2	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Prog
-3	fàːruwaː	fàːru	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:aux	_	Gloss=XX
+3	fàːruwaː	fàːru	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:aux	_	Gloss=happen
 4	nèː	neː	PART	_	PartType=Foc	3	discourse@foc	_	Gloss=Emph
 5	sabòːdà	sabòːdà	ADP	_	_	3	mod	_	Gloss=because_of
 6	zaman	zama	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:obj	_	Gloss=stay.Vnoun.Masc.Cons
 7	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	6	mod	_	Gloss=rule.Masc.Cons
-8	màllakàr̃	màllakàː	NOUN	_	Gender=Fem	7	mod	_	Gloss=XX
+8	màllakàr̃	màllakàː	NOUN	_	Gender=Fem	7	mod	_	Gloss=possession.Fem.Def
 9	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=COMP
 10	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	12	subj	_	Gloss=country.Plur.Cons
 11	Afir̃kà	Afir̃kà	PROPN	_	_	10	mod	_	Gloss=Africa
@@ -439,22 +439,22 @@
 21	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	23	subj	_	Gloss=country.Plur.Cons
 22	Afir̃kà	Afir̃kà	PROPN	_	_	21	mod	_	Gloss=Africa
 23	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	2	parataxis@conj	_	Gloss=3Plur.Perf
-24	soːmà	soːm-	VERB	_	_	23	comp:aux	_	Gloss=XX
+24	soːmà	soːm-	VERB	_	_	23	comp:aux	_	Gloss=start
 25	ƙaːrà	ƙaːr-	VERB	_	_	24	comp:obj	_	Gloss=increase
-26	dàngàntakàː	dàngànta	NOUN	_	Case=Gen|Number=Sing|Person=1	25	comp:obj	_	Gloss=XX
+26	dàngàntakàː	dàngànta	NOUN	_	Case=Gen|Number=Sing|Person=1	25	comp:obj	_	Gloss=relationship.Fem
 27	tsàkaːnin	tsàkaːnin	ADP	_	_	26	mod	_	Gloss=between|SpaceAfter=No|wordform=tsàkaːninsù
 28	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	27	comp:obj	_	Gloss=3Plur.Gen
 29	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 06_01_Wayoyin_Tarho__19
-# text = Maːkòn jiyà akà shiryà wani laːyìn wayàr̃ tàr̃hôː tsàkaːnin Toːgò da Gaːnà.
+# text = maːkòn jiyà akà shiryà wani laːyìn wayàr̃ tàr̃hôː tsàkaːnin Toːgò dà Gaːnà.
 # text_ortho = Maːkòn jiyà akà shiryà wani laːyìn wayàr̃ tàr̃hôː tsàkaːnin Toːgò da Gaːnà.
-1	maːkòn	maːkòː	NOUN	_	Definite=Cons|Gender=Masc	3	mod	_	Gloss=XX
+1	maːkòn	maːkòː	NOUN	_	Definite=Cons|Gender=Masc	3	mod	_	Gloss=week.Masc.Cons
 2	jiyà	jiyà	ADV	_	_	1	compound	_	Gloss=yesterday
 3	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	0	root	_	Gloss=4.Perf.Rel
 4	shiryà	shir-	VERB	_	_	3	comp:aux	_	Gloss=prepare
 5	wani	wani	DET	_	Definite=Spec|Gender=Masc	6	det	_	Gloss=some.Masc.Spec
-6	laːyìn	laːyìː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	Gloss=XX
+6	laːyìn	laːyìː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	Gloss=line.Masc.Cons
 7	wayàr̃	wayàr̃	NOUN	_	Definite=Cons|Gender=Fem	6	mod	_	Gloss=wire.Fem.Cons
 8	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	7	compound	_	Gloss=telephone.Masc
 9	tsàkaːnin	tsàkaːnin	ADP	_	_	6	mod	_	Gloss=between
