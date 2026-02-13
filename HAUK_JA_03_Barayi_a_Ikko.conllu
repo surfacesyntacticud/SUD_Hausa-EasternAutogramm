@@ -39,7 +39,7 @@
 25	First	First	PROPN	_	_	22	mod	_	Gloss=First
 26	Bank	Bank	PROPN	_	_	25	flat@name	_	Gloss=Bank|SpaceAfter=No
 27	"	"	PUNCT	_	_	25	punct	_	Gloss=PUNCT|wordform=’
-28	don	don	SCONJ	_	_	21	mod	_	Gloss=so_that
+28	don	don	SCONJ	_	_	21	mod	_	Gloss=in_order_to
 29	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	28	comp:obj	_	Gloss=3Plur.Sub
 30	shìga	shig-	VERB	_	_	29	comp:aux	_	Gloss=enter
 31	ciki	ciki	ADV	_	_	30	comp:obl	_	Gloss=inside
@@ -387,7 +387,7 @@
 20	aikàtà	aikat-	VERB	_	_	19	compound	_	Gloss=perform
 21	lâifiː	lâifiː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=crime.Masc
 22	à	yà	AUX	_	Mood=Sub|Person=4	17	parataxis@conj	_	Gloss=4.Sub
-23	tsarèː	tsar-	NOUN	_	_	22	comp:aux	_	Gloss=arrest
+23	tsarèː	tsar-	NOUN	_	_	22	comp:aux	_	Gloss=imprison
 24	-	-	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 25	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	7	conj:appos	_	Gloss=3Fem.Nom
 26	maː	maː	PART	_	_	25	discourse@top	_	Gloss=even

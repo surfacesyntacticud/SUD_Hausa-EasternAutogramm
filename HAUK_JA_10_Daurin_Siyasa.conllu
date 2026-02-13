@@ -33,7 +33,7 @@
 5	shirìn	shiry-	VERB	_	Definite=Cons|Gender=Masc	4	comp:obj	_	Gloss=prepare.Vnoun.Masc.Cons
 6	baːyar̃	baː	VERB	_	Definite=Cons|Gender=Fem	5	comp:obj	_	Gloss=give.Cau
 7	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=with
-8	mulkìː	mulkìː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=XX
+8	mulkìː	mulkìː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=power.Masc
 9	gà	gà	ADP	_	_	6	comp:obl	_	Gloss=to
 10	farar̃-hùːlaː	farar̃-hùːlaː	NOUN	_	Number=Plur	9	comp:obj	_	Gloss=civilian.Plur|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
@@ -65,7 +65,7 @@
 8	aikìː	aikìː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=work.Masc
 9	dà	dà	CCONJ	_	_	8	comp:obl	_	Gloss=and
 10	wata	wani	DET	_	Definite=Spec|Gender=Masc	11	det	_	Gloss=some.Fem.Spec
-11	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=XX
+11	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=law.Fem
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 13	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	12	comp:obj	_	Gloss=4.Perf.Rel|wordform=aka
 14	kafàː	kaf-	VERB	_	_	13	comp:aux	_	Gloss=set_up
@@ -90,10 +90,10 @@
 6	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	5	conj:appos	_	Gloss=government.Fem.Def
 7	tâː	yâː	AUX	_	Gender=Fem|Mood=Pot|Person=3	4	comp:obj	_	Gloss=3Fem.Pot
 8	iyà	iy-	VERB	_	_	7	comp:aux	_	Gloss=be_able_to
-9	tsarèː	tsar-	VERB	_	_	8	comp:obj	_	Gloss=XX
-10	mùtûm	mùtûm	NOUN	_	_	9	comp:obj	_	Gloss=XX
-11	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	9	mod	_	Gloss=XX
-12	tsawon	tsawoː	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	Gloss=XX
+9	tsarèː	tsar-	VERB	_	_	8	comp:obj	_	Gloss=imprison
+10	mùtûm	mùtûm	NOUN	_	_	9	comp:obj	_	Gloss=man.Masc
+11	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	9	mod	_	Gloss=up_to
+12	tsawon	tsawoː	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	Gloss=length.Masc.Cons
 13	wàtànniː	watàː	NOUN	_	Number=Plur	12	mod	_	Gloss=month.Plur
 14	shidà	shidà	NUM	_	_	13	mod:num	_	Gloss=six
 15	bà	bà	PART	_	Polarity=Neg	17	mod	_	Gloss=XX
@@ -115,7 +115,7 @@
 31	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	30	mod	_	Gloss=country.Fem|wordform=kasaː
 32	maƙar̃ƙashìyaː	maƙar̃ƙashìyaː	NOUN	_	Gender=Fem	27	comp:pred	_	Gloss=XX|SpaceAfter=No
 33	,	,	PUNCT	_	_	36	punct	_	Gloss=PUNCT
-34	koː	koː	CCONJ	_	_	36	cc	_	Gloss=XX
+34	koː	koː	CCONJ	_	_	36	cc	_	Gloss=or
 35	kuma	kuma	PART	_	_	34	discourse@top	_	Gloss=also
 36	yi	yi	VERB	_	_	27	conj:coord	_	Gloss=do
 37	wà	wà	ADP	_	Case=Dat	36	comp:obl	_	Gloss=Dat
@@ -133,7 +133,7 @@
 5	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	mod	_	Gloss=proceed.Vnoun.Masc
 6	gàba	gàba	ADV	_	_	5	mod	_	Gloss=in_front
 7	dà	dà	SCONJ	_	_	5	comp:obl	_	Gloss=COMP
-8	tsarè	tsar-	VERB	_	_	7	comp:obj	_	Gloss=XX
+8	tsarè	tsar-	VERB	_	_	7	comp:obj	_	Gloss=imprison
 9	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	8	comp:obj	_	Gloss=person.Masc.Def
 10	har̃	har̃	ADP	_	_	8	mod	_	Gloss=until
 11	sai	sai	ADP	_	_	10	comp:obj	_	Gloss=until
@@ -148,8 +148,8 @@
 1	Ìdan	ìdan	SCONJ	_	_	13	mod	_	Gloss=XX
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 3	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	1	comp:obj	_	Gloss=4.Perf.Rel
-4	tsarè	tsar-	VERB	_	_	3	comp:aux	_	Gloss=XX
-5	mùtûm	mùtûm	NOUN	_	_	4	comp:obj	_	Gloss=XX
+4	tsarè	tsar-	VERB	_	_	3	comp:aux	_	Gloss=imprison
+5	mùtûm	mùtûm	NOUN	_	_	4	comp:obj	_	Gloss=man.Masc
 6	bisàː	bisàː	ADP	_	_	4	comp:obl	_	Gloss=XX
 7	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	8	det	_	Gloss=ProxS.Sing
 8	Dòːkaː	dòːkaː	PROPN	_	Gender=Fem	6	comp:obj	_	Gloss=law.Fem
@@ -159,7 +159,7 @@
 12	tòː	tòː	INTJ	_	_	13	discourse	_	Gloss=well
 13	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 14	wata	wani	DET	_	Definite=Spec|Gender=Masc	15	det	_	Gloss=some.Fem.Spec
-15	koːtù	koːtù	NUM	_	PronType=Ind	13	subj	_	Gloss=XX
+15	koːtù	koːtù	NOUN	_	PronType=Ind	13	subj	_	Gloss=court.Fem
 16	à	à	ADP	_	_	15	mod	_	Gloss=at
 17	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	16	comp:obj	_	Gloss=Nigeria
 18	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=COMP
@@ -203,7 +203,7 @@
 30	-	-	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 31	wàːtòː	wàːtòː	PART	_	_	32	discourse	_	Gloss=that_is
 32	anàː	nàː	AUX	_	Aspect=Prog|Person=4	17	conj:coord	_	Gloss=4.Prog
-33	tsarèː	tsar-	VERB	_	_	32	comp:aux	_	Gloss=XX
+33	tsarèː	tsar-	VERB	_	_	32	comp:aux	_	Gloss=imprison
 34	mutàneː	ùtûm	NOUN	_	Number=Plur	33	comp:obj	_	Gloss=XX
 35	sabòːdà	sabòːdà	ADP	_	_	33	mod	_	Gloss=because_of
 36	laifuffukàː	laifuffukàː	NOUN	_	Definite=Cons|Gender=Fem	35	comp:obj	_	Gloss=XX
@@ -224,7 +224,7 @@
 51	gà	gà	ADP	_	_	48	comp:obl	_	Gloss=to
 52	laːfiyàr̃	laːfiyàː	NOUN	_	Gender=Fem	51	comp:obj	_	Gloss=XX
 53	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	52	mod	_	Gloss=country.Fem|wordform=kasaː
-54	koː	koː	CCONJ	_	_	56	cc	_	Gloss=XX
+54	koː	koː	CCONJ	_	_	56	cc	_	Gloss=or
 55	kuma	kuma	PART	_	_	54	discourse@top	_	Gloss=also
 56	gà	gà	ADP	_	_	51	conj:coord	_	Gloss=to
 57	tattalin	tattaliː	NOUN	_	Definite=Cons|Gender=Masc	56	comp:obj	_	Gloss=XX
@@ -270,7 +270,7 @@
 8	làːbaːrìː	làːbaːrìː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=XX
 9	cêːwaː	cêːwaː	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
 10	wani	wani	DET	_	Definite=Spec|Gender=Masc	11	det	_	Gloss=some.Masc.Spec
-11	mùtûm	mùtûm	NOUN	_	Gender=Masc	16	subj	_	Gloss=XX
+11	mùtûm	mùtûm	NOUN	_	Gender=Masc	16	subj	_	Gloss=man.Masc
 12	mài	mài	PART	_	Number=Sing|PartType=Der	11	mod	_	Gloss=owner/doer_of.Sing
 13	àlaːƙàː	àlaːƙàː	NOUN	_	Gender=Fem	12	compound	_	Gloss=connection.Fem
 14	dà	dà	ADP	_	_	13	comp:obl	_	Gloss=with
@@ -284,16 +284,16 @@
 22	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	20	mod	_	Gloss=3Masc.Gen
 23	an	yaː	AUX	_	Aspect=Perf|Person=4	18	parataxis@conj	_	Gloss=4.Perf
 24	kuma	kuma	PART	_	_	23	discourse@top	_	Gloss=also
-25	tsarèː	tsar-	VERB	_	_	23	comp:aux	_	Gloss=XX
+25	tsarèː	tsar-	VERB	_	_	23	comp:aux	_	Gloss=imprison
 26	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	25	comp:obj	_	Gloss=3Masc.Acc
-27	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	25	mod	_	Gloss=XX
-28	tsawon	tsawoː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:obj	_	Gloss=XX
+27	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	25	mod	_	Gloss=up_to
+28	tsawon	tsawoː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:obj	_	Gloss=length.Masc.Cons
 29	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	28	mod	_	Gloss=year.Fem
 30	biyu	biyu	NUM	_	_	29	mod:num	_	Gloss=two|SpaceAfter=No
 31	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 32	bìsàː	bìsàː	ADP	_	_	25	comp:obl	_	Gloss=according_to
 33	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	34	det	_	Gloss=ProxS.Sing
-34	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	32	comp:obj	_	Gloss=XX
+34	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	32	comp:obj	_	Gloss=law.Fem
 35	ta	ta	ADP	_	Case=Gen|Gender=Fem	34	mod	_	Gloss=XX
 36	tsàron	tsàroː	NOUN	_	Definite=Cons|Gender=Masc	35	comp:obj	_	Gloss=XX
 37	laːfiyàr̃	laːfiyàː	NOUN	_	Gender=Fem	36	mod	_	Gloss=XX
@@ -341,7 +341,7 @@
 16	bìyar̃	bìyar̃	NUM	_	_	14	conj:coord	_	Gloss=five
 17	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 18	akè	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel2	17	comp:obj	_	Gloss=4.Prog.Rel2
-19	tsàre	tsar-	VERB	_	ExtPos=ADV|VerbForm=Stat	18	comp:pred	_	Gloss=detain.Stat
+19	tsàre	tsar-	VERB	_	ExtPos=ADV|VerbForm=Stat	18	comp:pred	_	Gloss=imprison
 20	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=with
 21	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	comp:obj	_	Gloss=3Plur.Nom
 22	à	à	ADP	_	_	19	mod	_	Gloss=at
@@ -369,7 +369,7 @@
 15	shigèː	shig-	VERB	_	_	14	comp:aux	_	Gloss=enter
 16	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	6	comp:obj	_	Gloss=3Plur.Perf
 17	wucè	wut-	VERB	_	_	16	comp:aux	_	Gloss=pass
-18	mùtûm	mùtûm	NOUN	_	Gender=Masc	17	comp:obj	_	Gloss=XX
+18	mùtûm	mùtûm	NOUN	_	Gender=Masc	17	comp:obj	_	Gloss=man.Masc
 19	dubuː	dubuː	NUM	_	_	18	mod:num	_	Gloss=thousand|SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 21	à	à	ADP	_	ExtPos=ADP	17	mod	_	Gloss=at
