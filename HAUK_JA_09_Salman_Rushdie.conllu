@@ -391,7 +391,7 @@
 3	wani	wani	DET	_	Definite=Spec|Gender=Masc	4	det	_	Gloss=some.Masc.Spec
 4	mùtûm	mùtûm	NOUN	_	Gender=Masc	5	subj	_	Gloss=man.Masc
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
-6	taːsoː	taːsoː	VERB	_	_	5	comp:aux	_	Gloss=XX
+6	taːsoː	taːs-	VERB	_	_	5	comp:aux	_	Gloss=rise
 7	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	5	parataxis@conj	_	Gloss=3Masc.Perf.Rel
 8	jeː	jeː	VERB	_	_	7	comp:aux	_	Gloss=go
 9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	7	parataxis@conj	_	Gloss=3Masc.Perf.Rel
@@ -510,9 +510,9 @@
 18	dòːmin	dòːmin	SCONJ	_	_	8	mod	_	Gloss=because
 19	kùwa	kùwa	PART	_	PartType=Top	18	discourse@top	_	Gloss=in_fact
 20	à	à	ADP	_	_	39	mod	_	Gloss=at
-21	raːnar̃	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	20	comp:obj	_	Gloss=XX
-22	Lahàdì	Lahàdì	PROPN	_	_	21	mod	_	Gloss=Lahàdì
-23	dà	dà	SCONJ	_	_	21	mod@relcl	_	Gloss=COMP
+21	raːnar̃	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	22	mod@desc	_	Gloss=day.Fem.Cons
+22	Lahàdì	Lahàdì	PROPN	_	_	20	comp:obj	_	Gloss=Lahàdì
+23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=COMP
 24	ta	yaː	AUX	_	Aspect=Perf|Case=Gen|Gender=Fem|Person=3|Relative=Rel	23	comp:obj	_	Gloss=3Fem.Perf.Rel
 25	wucèː	wut-	VERB	_	_	24	comp:aux	_	Gloss=pass
 26	maː	maː	PART	_	_	23	discourse@top	_	Gloss=even|SpaceAfter=No
@@ -583,7 +583,7 @@
 16	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	dislocated@subj	_	Gloss=3Plur.Nom
 17	bà	bà	PART	_	Polarity=Neg	18	mod	_	Gloss=Neg
 18	zaːsù	zâi	AUX	_	Number=Plur|Person=3|Tense=Fut	14	comp:obj	_	Gloss=3Plur.Fut
-19	ƙyaːlè	ƙyaːleː	VERB	_	_	18	comp:aux	_	Gloss=XX
+19	ƙyaːlè	ƙyaːl-	VERB	_	_	18	comp:aux	_	Gloss=allow
 20	Gianni	Gianni	PROPN	_	_	19	comp:obj	_	Gloss=Gianni
 21	Palma	Palma	PROPN	_	_	20	flat@name	_	Gloss=Palma
 22	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=with
