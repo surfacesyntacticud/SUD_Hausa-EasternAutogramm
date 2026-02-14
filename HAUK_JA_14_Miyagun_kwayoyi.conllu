@@ -56,7 +56,7 @@
 
 # sent_id = 14_Miyagun_kwayoyi__3
 # text = À 'yan shèːkàrun nàn Nàːjeːr̃iyàː taː zama wata bàbbar̃ hanyàr̃ fàsà-ƙwàurin miyàːgun ƙwaːyoːyiː dàgà ƙasàːshen yankìn Gabàs mài Niːsaː zuwàː ƙasàːshen Tuːr̃ai dà Amìr̃kà.
-1	À	à	ADP	_	_	6	mod	_	Gloss=XX
+1	À	à	ADP	_	_	6	mod	_	Gloss=at
 2	'yan	ɗan	ADJ	_	Definite=Cons|Number=Plur	3	mod	_	Gloss=little.Plur.Cons
 3	shèːkàrun	shèːkaraː	NOUN	_	Definite=Cons|Number=Plur	1	comp:obj	_	Gloss=XX
 4	nàn	nàn	ADV	_	Deixis=ProxS|PronType=Dem	3	det	_	Gloss=ProxS
@@ -340,7 +340,7 @@
 
 # sent_id = 14_Miyagun_kwayoyi__11
 # text = Ìdan dai har̃ sun yi nasar̃àr̃ ficèːwaː, tòː sukàn iyà kaːsayar̃ dà hoːdàr̃ kòːkên ɗîn dàgà cikin r̃oːbàr̃ baːyan sun gamà tàfiyàr̃ taːsù .
-1	Ìdan	ìdan	SCONJ	_	_	10	mod	_	Gloss=XX
+1	Ìdan	in	SCONJ	_	_	10	mod	_	Gloss=if
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyhow
 3	har̃	har̃	ADV	_	Definite=Cons|Gender=Fem	4	mod	_	Gloss=even
 4	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	1	comp:obj	_	Gloss=3Plur.Perf
@@ -370,7 +370,7 @@
 
 # sent_id = 14_Miyagun_kwayoyi__12a
 # text = Sai dai àmmaː wani loːkàcîn, ita r̃oːbàr̃ tanàː tsaːgèːwaː à cikin cikìn waɗàndà kèː ɗàuke dà ƙwaːyoːyîn, wandà kuma hakàn yanàː jaːwoː muːgùwar̃ mutuwàː.
-1	Sai	sai	ADV	_	_	9	mod	_	Gloss=XX
+1	Sai	sai	ADV	_	_	9	mod	_	Gloss=then
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyhow
 3	àmmaː	àmmaː	CCONJ	_	_	9	discourse	_	Gloss=but
 4	wani	wani	DET	_	Definite=Spec|Gender=Masc	5	det	_	Gloss=some.Masc.Spec
@@ -400,7 +400,7 @@
 
 # sent_id = 14_Miyagun_kwayoyi__12b
 # text = À wannàn karòn shiː mùtumìn dà akà kaːmàː yaː haɗìyeː kòːkên neː tàːre dà yîn àmfàːniː dà miyàr̃ kuɓèːwaː, wàccè ya yi àmfàːniː dà ita dòːmin saːmùn sauƙin hadìyêːwâr̃, waddà kuma dâː maː anàː cîntà sòːsai à Nàːjeːr̃iyàː.
-1	À	à	ADP	_	_	9	mod	_	Gloss=XX|wordform=A
+1	À	à	ADP	_	_	9	mod	_	Gloss=at|wordform=A
 2	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	3	det	_	Gloss=ProxS.Sing
 3	karòn	karòː	NOUN	_	Definite=Def|Gender=Masc	1	comp:obj	_	Gloss=occation.Masc.Def
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	dislocated@subj	_	Gloss=3Masc.Nom
@@ -433,7 +433,7 @@
 31	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 32	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	21	conj:coord	_	Gloss=REL.Fem
 33	kuma	kuma	PART	_	_	32	discourse@top	_	Gloss=also
-34	dâː	dâː	ADV	_	_	36	mod	_	Gloss=XX
+34	dâː	dâː	ADV	_	_	36	mod	_	Gloss=formerly
 35	maː	maː	PART	_	_	34	discourse@top	_	Gloss=even
 36	anàː	nàː	AUX	_	Aspect=Prog|Person=4	32	comp:obj	_	Gloss=4.Prog|wordform=and
 37	cîn	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	36	comp:aux	_	Gloss=consume.Vnoun.Masc.Cons|SpaceAfter=No|wordform=cîntà
@@ -521,7 +521,7 @@
 
 # sent_id = 14_Miyagun_kwayoyi__15
 # text = Shiː kânsà shùːgàban Hùkuːmàr̃ - " Fidelis Oyakhilome " - à haːlin yànzu yanàː nan tsùndum à cikin màganàr̃ shàr̃i'àr̃ wata màːtaː mài suːnaː " Jennifer Madike " waddà akà tsarèː sabòːdà lâifin cìnikin miyàːgun ƙwaːyoːyiː dà ɓaːtà suːnan ministoːcin gwamnatì .
-1	Shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	14	dislocated@subj	_	Gloss=XX
+1	Shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	14	dislocated@subj	_	Gloss=3Masc.Nom
 2	kânsà	kânsà	PRON	_	Gender=Masc|Person=3|PronType=Prs|Reflex=Yes	1	mod	_	Gloss=3Masc.Reflex
 3	shùːgàban	shùːgàbaː	NOUN	_	Definite=Cons|Number=Plur	1	conj:appos	_	Gloss=leader.Masc.Cons
 4	Hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Cons|Gender=Fem	3	mod	_	Gloss=agency.Fem.Def
@@ -610,7 +610,7 @@
 
 # sent_id = 14_Miyagun_kwayoyi__18a
 # text = Shiː Mr Oyakhilome dai yaː musàntà wannàn zàrgîn ,
-1	Shiː	shiː	PRON	_	_	5	dislocated@subj	_	Gloss=XX
+1	Shiː	shiː	PRON	_	_	5	dislocated@subj	_	Gloss=3Masc.Nom
 2	Mr	Mr	PROPN	_	_	3	mod@desc	_	Gloss=Mr
 3	Oyakhilome	Oyakhilome	PROPN	_	_	1	conj:appos	_	Gloss=Oyakhilome
 4	dai	dai	PART	_	PartType=Top	3	discourse@top	_	Gloss=anyhow
@@ -640,7 +640,7 @@
 
 # sent_id = 14_Miyagun_kwayoyi__19_20
 # text = Tòː sai dai Mr Oyakhilome yaː cêː baːbù shakkàː yanàː dà dàngàntakàr̃ ƙut dà ƙut dà ita màːtâr̃, wàːtòː Jennifer Madike, kuma wasu hoːtunàː dà ta ɗaukàː tàːre dà shiː à wani bìkiː, suː maː bâː shakkàː sun tabbatar̃ dà hakà.
-1	Tòː	tòː	INTJ	_	_	6	discourse	_	Gloss=XX
+1	Tòː	tòː	INTJ	_	_	6	discourse	_	Gloss=well
 2	sai	sai	SCONJ	_	_	6	discourse	_	Gloss=except_that
 3	dai	dai	PART	_	PartType=Top	2	discourse@top	_	Gloss=anyhow
 4	Mr	Mr	PROPN	_	_	5	mod@desc	_	Gloss=Mr

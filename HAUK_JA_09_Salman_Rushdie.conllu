@@ -23,7 +23,7 @@
 6	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 7	saːkè	saːk-	VERB	_	_	6	comp:aux	_	Gloss=repeat
 8	jaddàdà	jaddad-	VERB	_	_	7	comp:obj	_	Gloss=confirm
-9	hukuncìn	hukuncìː	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=XX
+9	hukuncìn	hukuncìː	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=sentence.Masc.Cons
 10	kisàn	kisàː	NOUN	_	Definite=Def|Gender=Masc	9	mod	_	Gloss=murder.Masc.Def
 11	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=COMP
 12	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	11	comp:obj	_	Gloss=4.Perf.Rel
@@ -32,8 +32,8 @@
 15	Salman	Salman	PROPN	_	_	14	comp:obj	_	Gloss=Salman
 16	Rushdie	Rushdie	PROPN	_	_	15	flat@name	_	Gloss=Rushdie|SpaceAfter=No
 17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-18	wà:tò:	wà:tò:	PART	_	_	19	discourse	_	Gloss=XX
-19	mar̃ùbùːcin	mar̃ùbùːciː	NOUN	_	Definite=Cons|Gender=Masc	15	conj:appos	_	Gloss=XX
+18	wà:tò:	wà:tò:	PART	_	_	19	discourse	_	Gloss=that_is
+19	mar̃ùbùːcin	mar̃ùbùːciː	NOUN	_	Definite=Cons|Gender=Masc	15	conj:appos	_	Gloss=writer.Masc.Cons
 20	littaːfìn	littaːfìː	NOUN	_	Definite=Cons|Gender=Masc	19	mod	_	Gloss=book.Masc.Cons
 21	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	20	det	_	Gloss=ProxH
 22	na	na	PART	_	Case=Gen|PartType=Pred	20	mod	_	Gloss=Gen
@@ -226,9 +226,9 @@
 26	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__10
-# text = Tòː shiːkèːnan, sai wani mùtûm ya kai musù harìː dà sùkùddìr̃eːbàː indà ya daɓàː wà ɗaya dàgà cikinsù wannan sùkùddìr̃eːbàː har̃ maː ta ji masà mùmmuːnan ràuniː.
+# text = Tòː shiːkèːnan, sai wani mùtûm ya kai musù harìː dà sùkùddìr̃eːbàː indà ya daɓàː wà ɗaya dàgà cikinsù wannàn sùkùddìr̃eːbàː har̃ maː ta ji masà mùmmuːnan ràuniː.
 1	Tòː	tòː	INTJ	_	_	7	discourse	_	Gloss=well
-2	shiːkèːnan	shiːkèːnan	INTJ	_	_	7	discourse	_	Gloss=XX|SpaceAfter=No
+2	shiːkèːnan	shiːkèːnan	INTJ	_	_	7	discourse	_	Gloss=OK|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 4	sai	sai	ADV	_	_	7	mod	_	Gloss=then
 5	wani	wani	DET	_	Definite=Spec|Gender=Masc	6	det	_	Gloss=some.Masc.Spec
@@ -241,22 +241,22 @@
 12	sùkùddìr̃eːbàː	sùkùddìr̃eːbàː	NOUN	_	Gender=Fem	11	comp:obj	_	Gloss=screwdriver.Fem
 13	indà	indà	SCONJ	_	PronType=Rel	10	mod@relcl	_	Gloss=where
 14	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	13	comp:obj	_	Gloss=3Masc.Perf.Rel
-15	daɓàː	daɓ-	VERB	_	_	14	comp:aux	_	Gloss=XX
+15	daɓàː	daɓ-	VERB	_	_	14	comp:aux	_	Gloss=stab
 16	wà	wà	ADP	_	Case=Dat	15	comp:obl	_	Gloss=Dat
 17	ɗaya	ɗaya	NUM	_	_	16	comp:obj	_	Gloss=one
 18	dàgà	dàgà	ADP	_	_	17	mod	_	Gloss=from
 19-20	cikinsù	_	_	_	_	_	_	_	_
 19	cikin	cikin	ADP	_	_	18	comp:obj	_	Gloss=inside
 20	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	19	comp:obj	_	Gloss=3Plur.Gen
-21	wannan	wannan	DET	_	Definite=Spec|Gender=Masc	22	det	_	Gloss=XX
+21	wannàn	wannàn	DET	_	Gender=Fem	22	det	_	Gloss=ProxS.Fem
 22	sùkùddìr̃eːbàː	sùkùddìr̃eːbàː	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=screwdriver.Fem
 23	har̃	har̃	SCONJ	_	_	15	mod	_	Gloss=so_that
 24	maː	maː	PART	_	_	23	discourse@top	_	Gloss=even
 25	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	23	comp:obj	_	Gloss=3Fem.Perf.Rel
 26	ji	ji	VERB	_	_	25	comp:aux	_	Gloss=feel
 27	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	26	comp:obl	_	Gloss=3Masc.Dat
-28	mùmmuːnan	mùmmuːnaː	ADJ	_	Definite=Cons|Number=Plur	29	mod	_	Gloss=XX
-29	ràuniː	ràuniː	NOUN	_	Gender=Masc	26	comp:obj	_	Gloss=XX|SpaceAfter=No
+28	mùmmuːnan	mùmmuːnaː	ADJ	_	Definite=Cons	29	mod	_	Gloss=ugly.Masc.Cons
+29	ràuniː	ràuniː	NOUN	_	Gender=Masc	26	comp:obj	_	Gloss=injury.Masc|SpaceAfter=No
 30	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__11
@@ -287,7 +287,7 @@
 5	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=COMP
 6	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	5	comp:obj	_	Gloss=3Masc.Perf.Rel
 7	kai	kai	VERB	_	_	6	comp:aux	_	Gloss=reach/carry_to
-8	harìː	harìː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=XX
+8	harìː	harìː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=attack.Masc
 9	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 10	zàci	zat-	VERB	_	_	9	comp:aux	_	Gloss=think
 11	cêːwaː	cêːwaː	SCONJ	_	_	10	comp:obj	_	Gloss=COMP
@@ -318,8 +318,8 @@
 2	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	dislocated@subj	_	Gloss=3Plur.Nom
 3	maː	maː	PART	_	_	2	discourse@top	_	Gloss=even
 4	ɗîn	ɗin	DET	_	Definite=Def|Gender=Masc	2	det	_	Gloss=Def
-5	samsam	samsan	ADV	_	Voice=Cau	6	mod	_	Gloss=XX
-6	baːsàː	nàːs	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	0	root	_	Gloss=XX
+5	samsam	samsan	IDEO	_	_	6	mod	_	Gloss=absolutely
+6	baːsàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3|Polarity=Neg	0	root	_	Gloss=3Plur.Prog.Neg
 7	sôn	soː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	Gloss=want.Vnoun.Masc.Cons
 8	à	yà	AUX	_	Mood=Sub|Person=4	7	comp:obj	_	Gloss=4.Sub
 9	bugàː	bug-	VERB	_	_	8	comp:aux	_	Gloss=print
@@ -327,12 +327,12 @@
 11	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__14
-# text = Shiːkèːnan, sai 'yan sànda sukà kaːmèː shi sukà yi gàba dà shiː .
+# text = Shiːkèːnan, sai 'yan sàndaː sukà kaːmèː shi sukà yi gàba dà shiː .
 1	Shiːkèːnan	shiːkèːnan	INTJ	_	_	6	discourse	_	Gloss=OK|SpaceAfter=No|wordform=Shikenan
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 3	sai	sai	ADV	_	_	6	mod	_	Gloss=then
 4	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	6	subj	_	Gloss=child.Plur.Cons
-5	sànda	sànda	VERB	_	_	4	compound	_	Gloss=XX
+5	sàndaː	sàndaː	NOUN	_	_	4	compound	_	Gloss=baton.Masc
 6	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
 7	kaːmèː	kaːm-	VERB	_	_	6	comp:aux	_	Gloss=catch
 8	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	7	comp:obj	_	Gloss=3Masc.Acc
@@ -357,14 +357,14 @@
 10	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	11	det	_	Gloss=ProxS.Sing
 11	tàːroː	tàːroː	NOUN	_	Gender=Masc	9	comp:pred	_	Gloss=meeting.Masc
 12	na	na	PART	_	Case=Gen|PartType=Pred	11	mod	_	Gloss=Gen
-13	manèːmaː	manèːmaː	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=XX
+13	manèːmaː	manèːmiː	NOUN	_	_	12	comp:obj	_	Gloss=seeker.Plur
 14	làːbàːr̃ai	làːbaːr̃ìː	NOUN	_	_	13	comp:obj	_	Gloss=news.Plur
 15	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 16	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	19	subj	_	Gloss=3Masc.Nom
 17	Gianni	Gianni	PROPN	_	_	16	conj:appos	_	Gloss=Gianni
 18	Palma	Palma	PROPN	_	_	17	flat@name	_	Gloss=Palma
 19	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	15	comp:obj	_	Gloss=3Masc.Perf.Rel
-20	kiraːwoː	kiraː	VERB	_	_	19	comp:aux	_	Gloss=XX|SpaceAfter=No
+20	kiraːwoː	kiraː	VERB	_	_	19	comp:aux	_	Gloss=call|SpaceAfter=No
 21	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__16
@@ -377,7 +377,7 @@
 6	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
 7	zoː	zoː	VERB	_	_	6	comp:aux	_	Gloss=go
 8	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	6	parataxis@conj	_	Gloss=3Masc.Perf.Rel
-9	buːɗè	buːɗ-	VERB	_	_	8	comp:aux	_	Gloss=XX
+9	buːɗè	buːɗ-	VERB	_	_	8	comp:aux	_	Gloss=open
 10	tàːroː	tàːroː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=meeting.Masc
 11	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	8	parataxis@conj	_	Gloss=4.Perf.Rel
 12	faːrà	faːr-	VERB	_	_	11	comp:aux	_	Gloss=begin
@@ -397,16 +397,16 @@
 9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	7	parataxis@conj	_	Gloss=3Masc.Perf.Rel
 10	ɗàuki	ɗauk-	VERB	_	_	9	comp:aux	_	Gloss=take
 11	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	Gloss=type.Masc.Cons
-12	'yar̃	ɗarn	ADJ	_	Definite=Cons|Gender=Fem	13	mod	_	Gloss=XX
-13	naː'uːr̃âr̃	naː'uːr̃âː	NOUN	_	Definite=Cons|Gender=Fem	11	mod	_	Gloss=XX
-14	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	13	det	_	Gloss=ProxH
+12	'yar̃	ɗan	ADJ	_	Gender=Fem	13	mod	_	Gloss=small.Fem
+13	naː'uːr̃âr̃	naː'uːr̃aː	NOUN	_	Definite=Def|Gender=Fem	11	mod	_	Gloss=machine.Fem.Def
+14	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	13	det	_	Gloss=ProxH
 15	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=COMP
 16	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	15	comp:obj	_	Gloss=4.Prog.Rel
 17	ɗaukàr̃	ɗauk-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	16	comp:aux	_	Gloss=take.Vnoun.Fem.Cons
 18	màganàː	màganàː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=speech.Fem
 19	-	-	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 20	wàːtòː	wàːtòː	PART	_	_	21	discourse	_	Gloss=that_is
-21	maːkar̃ufôː	maːkar̃ufôː	NOUN	_	Gender=Masc	13	conj:appos	_	Gloss=XX
+21	maːkar̃ufôː	maːkar̃ufôː	NOUN	_	Gender=Masc	13	conj:appos	_	Gloss=microphone.Masc
 22	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	9	parataxis@conj	_	Gloss=3Masc.Perf.Rel
 23	jeː	jeː	VERB	_	_	22	comp:aux	_	Gloss=go
 24	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	22	parataxis@conj	_	Gloss=3Masc.Perf.Rel
@@ -429,16 +429,16 @@
 7	dà	dà	CCONJ	_	_	9	cc	_	Gloss=and
 8	wasu	wani	DET	_	Definite=Spec|Number=Plur	9	det	_	Gloss=some.Plur.Spec
 9	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	3	conj:coord	_	Gloss=child.Plur.Cons
-10	jàːr̃ìːduː	jàːr̃ìːduː	NOUN	_	Number=Plur	9	compound	_	Gloss=XX
+10	jàːr̃ìːduː	jàːr̃iːdàː	NOUN	_	Number=Plur	9	compound	_	Gloss=newspaper.Plur
 11	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
-12	taimàkaː	taimàk-	VERB	_	_	11	comp:aux	_	Gloss=XX
+12	taimàkaː	taimak-	VERB	_	_	11	comp:aux	_	Gloss=help
 13	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	11	parataxis@conj	_	Gloss=4.Perf.Rel
 14	kaːmèː	kaːm-	VERB	_	_	13	comp:aux	_	Gloss=catch
 15	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	14	comp:obj	_	Gloss=3Masc.Acc
 16	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	13	parataxis@conj	_	Gloss=4.Perf.Rel
 17	sakàː	sak-	VERB	_	_	16	comp:aux	_	Gloss=release
 18	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	17	comp:obl	_	Gloss=3Masc.Dat
-19	ankwàː	ankwàː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=XX
+19	ankwàː	ankwàː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=handcuffs.Fem
 20	à	à	ADP	_	_	17	comp:obl	_	Gloss=at
 21	hannun	hannuː	NOUN	_	Case=Gen|Definite=Cons|Number=Plur|Person=3	20	comp:obj	_	Gloss=hand.Masc.Cons|SpaceAfter=No|wordform=hannunsà
 22	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	21	mod	_	Gloss=3Masc.Gen
@@ -451,7 +451,7 @@
 
 # sent_id = 09_Salman_Rushdie__19
 # text = Loːkàcîn dà akèː tàfiyàː dà shiː sai ya kaː dà bàːkiː ya cèː shiː kàm yanàː ƙàunar̃ ƙasar̃ Jàpân, kuma bài kàmaːtà ita ƙasar̃ Jàpân ɗîn tà tsoːmà bàːkintà cikin wannàn àl'amàr̃iː ba.
-1	Loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=XX
+1	Loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=time.Masc.Def
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 3	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	2	comp:obj	_	Gloss=4.Prog.Rel
 4	tàfiyàː	tàfiyàː	VERB	_	ExtPos=NOUN|Gender=Fem	3	comp:aux	_	Gloss=go.Vnoun.Fem
@@ -467,7 +467,7 @@
 14	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	16	dislocated@subj	_	Gloss=3Masc.Nom
 15	kàm	kàm	PART	_	PartType=Top	14	discourse@top	_	Gloss=for_sure
 16	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	13	comp:obj	_	Gloss=3Masc.Prog
-17	ƙàunar̃	ƙaun-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	16	comp:aux	_	Gloss=XX
+17	ƙàunar̃	ƙàunaː	VERB	_	Definite=Cons|Gender=Fem	16	comp:aux	_	Gloss=love.Fem.Cons
 18	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	19	mod@desc	_	Gloss=country.Fem.Cons|wordform=kasar̃
 19	Jàpân	Jàpân	PROPN	_	_	17	comp:obj	_	Gloss=Japan|SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
@@ -479,7 +479,7 @@
 26	Jàpân	Jàpân	PROPN	_	_	24	conj:appos	_	Gloss=Japan
 27	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	26	det	_	Gloss=Def
 28	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	23	comp:obj@agent	_	Gloss=3Fem.Sub
-29	tsoːmà	tsoːmàː	VERB	_	_	28	comp:aux	_	Gloss=XX
+29	tsoːmà	tsoːm-	VERB	_	_	28	comp:aux	_	Gloss=dip_into
 30	bàːkin	bàːkiː	NOUN	_	Definite=Cons|Gender=Masc|Person=3	29	comp:obj	_	Gloss=mouth|SpaceAfter=No|wordform=bàːkintà
 31	tà	tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	30	mod	_	Gloss=3Fem.Gen
 32	cikin	cikin	ADP	_	_	29	comp:obl	_	Gloss=inside
@@ -489,13 +489,13 @@
 36	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__20
-# text = Tòː dâː maː tun kwàːnàkin baːya anàː yîn wannàn hàyàːniyaː gàme dà littaːfìn na Aːyoːyin Shàiɗân, dòːmin kùwa à raːnar̃ Lahàdì dà ta wucèː maː, wasu Mùsùlmiː suː kìːmaːnìn ɗàːriː dà àshìr̃in à wata ùnguwar̃ Tokyo sun yi wata zaːngà-zangà baːyân dà sukà idar̃ dà sallàː.
+# text = Tòː dâː maː tun kwàːnàkin baːya anàː yîn wannàn hàyàːniyaː gàme dà littaːfìn na Aːyoːyin Shàiɗân, dòːmin kùwa à raːnar̃ Lahàdì dà ta wucèː maː, wasu Mùsùlmiː suː kìːmaːnìn ɗàːriː dà àshìr̃in à wata ùnguwar̃ Tokyo sun yi wata zàngà-zangà baːyân dà sukà idar̃ dà sallàː.
 1	Tòː	tòː	INTJ	_	_	7	discourse	_	Gloss=well
 2	dâː	dâː	ADV	_	_	7	mod	_	Gloss=formerly
 3	maː	maː	PART	_	_	2	discourse@top	_	Gloss=even
 4	tun	tun	ADP	_	_	7	mod	_	Gloss=since
-5	kwàːnàkin	kwàːnàkiː	NOUN	_	Definite=Cons|Number=Plur	4	comp:obj	_	Gloss=XX
-6	baːya	baːya	ADV	_	_	5	mod	_	Gloss=back
+5	kwàːnàkin	kwaːnaː	NOUN	_	Definite=Cons|Number=Plur	4	comp:obj	_	Gloss=day.Plur.Cons
+6	baːya	baːya	ADV	_	_	5	compound	_	Gloss=back
 7	anàː	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=4.Prog
 8	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:aux	_	Gloss=do.Vnoun.Masc.Cons
 9	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	10	det	_	Gloss=ProxS.Sing
@@ -526,18 +526,18 @@
 34	àshìr̃in	àshìr̃in	NUM	_	_	32	conj:coord	_	Gloss=twenty
 35	à	à	ADP	_	_	29	mod	_	Gloss=at
 36	wata	wani	DET	_	Definite=Spec|Gender=Masc	37	det	_	Gloss=some.Fem.Spec
-37	ùnguwar̃	ùnguwar̃	ADJ	_	Definite=Cons|Gender=Fem	35	comp:obj	_	Gloss=XX
+37	ùnguwar̃	ùnguwaː	NOUN	_	Definite=Cons|Gender=Fem	35	comp:obj	_	Gloss=ward.Fem.Cons
 38	Tokyo	Tokyo	PROPN	_	_	37	mod	_	Gloss=Tokyo
 39	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	18	comp:obj	_	Gloss=3Plur.Perf
 40	yi	yi	VERB	_	_	39	comp:aux	_	Gloss=do
 41	wata	wani	DET	_	Definite=Spec|Gender=Masc	42	det	_	Gloss=some.Fem.Spec
-42	zaːngà-zangà	zaːngà-zangà	NOUN	_	Gender=Fem	40	comp:pred	_	Gloss=XX
-43	baːyân	baːyân	SCONJ	_	ExtPos=SCONJ	40	mod	_	Gloss=after.Def|Idiom=Yes
+42	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	40	comp:pred	_	Gloss=demonstration.Fem
+43	baːyân	baːyân	SCONJ	_	ExtPos=SCONJ	40	mod	_	Gloss=after|Idiom=Yes
 44	dà	dà	SCONJ	_	_	43	comp:obj	_	Gloss=COMP|InIdiom=Yes
 45	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	44	comp:obj	_	Gloss=3Plur.Perf.Rel
-46	idar̃	iy-	VERB	_	Voice=Cau	45	comp:aux	_	Gloss=accomplish
+46	idar̃	iyar̃	VERB	_	Voice=Cau	45	comp:aux	_	Gloss=finish.Cau
 47	dà	dà	ADP	_	_	46	comp:obl	_	Gloss=with
-48	sallàː	sallàː	NOUN	_	Gender=Fem	47	comp:obj	_	Gloss=XX|SpaceAfter=No
+48	sallàː	sallàː	NOUN	_	Gender=Fem	47	comp:obj	_	Gloss=prayer.Fem|SpaceAfter=No
 49	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__21
