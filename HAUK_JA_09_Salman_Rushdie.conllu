@@ -155,7 +155,7 @@
 # text = Tòː dâː maː shiː wannàn mùtumìn shiː nèː ya ɗaukoː wani fàr̃feːsàː mài suːnaː " Hitoshi Igarashi", ya baː shì aikìn cêːwaː yà fassàr̃à wannàn littaːfìn.
 1	Tòː	tòː	INTJ	_	_	7	discourse	_	Gloss=well
 2	dâː	dâː	ADV	_	_	7	mod	_	Gloss=formerly
-3	maː	maː	PART	_	_	2	discourse@top	_	Gloss=even
+3	maː	maː	PART	_	PartType=Top	2	discourse@top	_	Gloss=even
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	dislocated@top	_	Gloss=3Masc.Nom
 5	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	6	det	_	Gloss=ProxS.Masc
 6	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	4	conj:appos	_	Gloss=person.Masc.Def
@@ -251,7 +251,7 @@
 21	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	22	det	_	Gloss=ProxS.Fem
 22	sùkùddìr̃eːbàː	sùkùddìr̃eːbàː	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=screwdriver.Fem
 23	har̃	har̃	SCONJ	_	_	15	mod	_	Gloss=so_that
-24	maː	maː	PART	_	_	23	discourse@top	_	Gloss=even
+24	maː	maː	PART	_	PartType=Top	23	discourse@top	_	Gloss=even
 25	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	23	comp:obj	_	Gloss=3Fem.Perf.Rel
 26	ji	ji	VERB	_	_	25	comp:aux	_	Gloss=feel
 27	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	26	comp:obl	_	Gloss=3Masc.Dat
@@ -264,7 +264,7 @@
 1	À	à	ADP	_	_	8	mod	_	Gloss=at
 2	yànzu	yànzu	ADV	_	_	1	comp:obj	_	Gloss=now
 3	hakà	hakà	ADV	_	_	8	mod	_	Gloss=thus
-4	maː	maː	PART	_	_	3	discourse@top	_	Gloss=even
+4	maː	maː	PART	_	PartType=Top	3	discourse@top	_	Gloss=even
 5	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	dislocated@subj	_	Gloss=3Masc.Nom
 6	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	7	det	_	Gloss=ProxS.Masc
 7	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	5	conj:appos	_	Gloss=person.Masc.Def
@@ -316,7 +316,7 @@
 # text = Àsheː suː maː ɗîn samsam baːsàː sôn à bugàː shi.
 1	Àsheː	àsheː	INTJ	_	_	6	discourse	_	Gloss=alas
 2	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	dislocated@subj	_	Gloss=3Plur.Nom
-3	maː	maː	PART	_	_	2	discourse@top	_	Gloss=even
+3	maː	maː	PART	_	PartType=Top	2	discourse@top	_	Gloss=even
 4	ɗîn	ɗin	DET	_	Definite=Def|Gender=Masc	2	det	_	Gloss=Def
 5	samsam	samsan	IDEO	_	_	6	mod	_	Gloss=absolutely
 6	baːsàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3|Polarity=Neg	0	root	_	Gloss=3Plur.Prog.Neg
@@ -492,7 +492,7 @@
 # text = Tòː dâː maː tun kwàːnàkin baːya anàː yîn wannàn hàyàːniyaː gàme dà littaːfìn na Aːyoːyin Shàiɗân, dòːmin kùwa à raːnar̃ Lahàdì dà ta wucèː maː, wasu Mùsùlmiː suː kìːmaːnìn ɗàːriː dà àshìr̃in à wata ùnguwar̃ Tokyo sun yi wata zàngà-zangà baːyân dà sukà idar̃ dà sallàː.
 1	Tòː	tòː	INTJ	_	_	7	discourse	_	Gloss=well
 2	dâː	dâː	ADV	_	_	7	mod	_	Gloss=formerly
-3	maː	maː	PART	_	_	2	discourse@top	_	Gloss=even
+3	maː	maː	PART	_	PartType=Top	2	discourse@top	_	Gloss=even
 4	tun	tun	ADP	_	_	7	mod	_	Gloss=since
 5	kwàːnàkin	kwaːnaː	NOUN	_	Definite=Cons|Number=Plur	4	comp:obj	_	Gloss=day.Plur.Cons
 6	baːya	baːya	ADV	_	_	5	compound	_	Gloss=back
@@ -515,7 +515,7 @@
 23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=COMP
 24	ta	yaː	AUX	_	Aspect=Perf|Case=Gen|Gender=Fem|Person=3|Relative=Rel	23	comp:obj	_	Gloss=3Fem.Perf.Rel
 25	wucèː	wut-	VERB	_	_	24	comp:aux	_	Gloss=pass
-26	maː	maː	PART	_	_	23	discourse@top	_	Gloss=even|SpaceAfter=No
+26	maː	maː	PART	_	PartType=Top	23	discourse@top	_	Gloss=even|SpaceAfter=No
 27	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 28	wasu	wani	DET	_	Definite=Spec|Number=Plur	29	det	_	Gloss=some.Plur.Spec
 29	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	39	subj	_	Gloss=Muslim.Plur
@@ -606,7 +606,7 @@
 # text = Sai dai kuma shiː Gianni Palma yaː kafèː kân cêːwaː lalleː kàm yanàː nan à kân bàkansà , bàː zâi jaː dà baːya ba.
 1	Sai	sai	ADV	_	_	7	mod	_	Gloss=then
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
-3	kuma	kuma	PART	_	_	7	discourse	_	Gloss=also
+3	kuma	kuma	CCONJ	_	_	7	discourse	_	Gloss=also
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	dislocated@subj	_	Gloss=3Masc.Nom
 5	Gianni	Gianni	PROPN	_	_	4	conj:appos	_	Gloss=Gianni
 6	Palma	Palma	PROPN	_	_	5	mod	_	Gloss=Palma
