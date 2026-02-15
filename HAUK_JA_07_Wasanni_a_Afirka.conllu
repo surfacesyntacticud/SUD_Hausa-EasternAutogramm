@@ -13,7 +13,7 @@
 2	yâu	yâu	ADV	_	_	1	comp:obj	_	Gloss=today
 3	zaːmù	zâi	AUX	_	Number=Plur|Person=1|Tense=Fut	0	root	_	Gloss=1Plur.Fut
 4	soːmà	soːm-	VERB	_	_	3	comp:aux	_	Gloss=start
-5	shirìn	shir-	VERB	_	_	4	comp:obj	_	Gloss=prepare.Vnoun.Masc.Cons|SpaceAfter=No
+5	shirìn	shir-	VERB	_	Definite=Cons	4	comp:obj	_	Gloss=prepare.Vnoun.Masc.Cons|SpaceAfter=No
 6	mù	mù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	mod	_	Gloss=1Plur.Gen
 7	dà	dà	CCONJ	_	_	4	comp:obl	_	Gloss=and
 8	làːbaːr̃ìn	làːbaːr̃ìː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=news.Masc.Cons
@@ -27,7 +27,7 @@
 16	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=with
 17	gudaːnar̃	gudaːn-	VERB	_	Definite=Cons|Gender=Fem	16	comp:obj	_	Gloss=run.Cau
 18	dà	dà	ADP	_	_	17	comp:obl	_	Gloss=with
-19	wàːsan	wàːsan	NOUN	_	Gender=Masc|PronType=Dem	18	comp:obj	_	Gloss=game.Masc.Cons
+19	wàːsan	wàːsan	NOUN	_	Definite=Cons|Gender=Masc|PronType=Dem	18	comp:obj	_	Gloss=game.Masc.Cons
 20	dambe	dambe	NOUN	_	Gender=Masc	19	mod	_	Gloss=boxing.Masc|SpaceAfter=No
 21	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
@@ -42,7 +42,7 @@
 6	dà	dà	CCONJ	_	_	3	comp:obl	_	Gloss=and
 7	koː	koː	SCONJ	_	_	6	comp:obj	_	Gloss=whether
 8	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	34	subj	_	Gloss=child.Masc.Cons
-9	dambên	dambe	NOUN	_	Definite=Cons|Gender=Masc	8	compound	_	Gloss=boxing.Masc.Def
+9	dambên	dambe	NOUN	_	Definite=Def|Gender=Masc	8	compound	_	Gloss=boxing.Masc.Def
 10	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	8	det	_	Gloss=ProxH
 11	mài	mài	PART	_	Number=Sing|PartType=Der	8	mod	_	Gloss=owner/doer_of.Sing
 12	suːnaː	suːnaː	NOUN	_	ExtPos=NOUN|Gender=Masc	11	comp:obj	_	Gloss=name.Masc
@@ -79,7 +79,7 @@
 43	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	38	comp:obj	_	Gloss=3Fem.Perf.Rel
 44	shiryàː	shir-	VERB	_	_	43	comp:aux	_	Gloss=prepare
 45	don	don	SCONJ	_	_	44	mod	_	Gloss=in_order_to
-46	neːmoː	neːm-	VERB	_	Gender=Masc	45	comp:obj	_	Gloss=look_for.Vnoun.Masc.Cons
+46	neːmoː	neːm-	VERB	_	Definite=Cons|Gender=Masc	45	comp:obj	_	Gloss=look_for.Vnoun.Masc.Cons
 47	wani	wani	PRON	_	Definite=Spec|Gender=Masc	46	comp:obj	_	Gloss=some.Masc.Spec
 48	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	47	mod@relcl	_	Gloss=REL.Masc
 49	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	48	comp:obj	_	Gloss=3Masc.Fut
@@ -152,7 +152,7 @@
 12	wàːsân	wàːsaː	NOUN	_	Definite=Def|Gender=Masc|PronType=Dem	11	comp:pred	_	Gloss=game.Masc.Def
 13	sabòːdà	sabòːdà	SCONJ	_	_	11	mod	_	Gloss=because
 14	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	19	subj	_	Gloss=3Fem.Nom
-15	ƙungìyar̃	ƙungìyaː	NOUN	_	Gender=Fem	14	conj:appos	_	Gloss=association.Fem.Cons
+15	ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	14	conj:appos	_	Gloss=association.Fem.Cons
 16	dambe	dambe	NOUN	_	Gender=Masc	15	mod	_	Gloss=boxing.Masc
 17	ta	na	PART	_	Case=Gen|Gender=Fem	15	mod	_	Gloss=Gen.Fem
 18	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=world.Fem
@@ -185,8 +185,8 @@
 # text_ortho = Manufoːfin sìyaːsàː irìn na Tàːrayyàr̃ Nàːjeːr̃iyàː kuma bà sù yàr̃da Nàːjeːr̃iyàː tà yi hulɗàː dà wata ƙasaː koː ƙungìyaː mài nasabàː dà Afir̃kà ta Kudù ba.
 1	manufoːfin	manufoːfiː	NOUN	_	Definite=Cons|Gender=Masc	8	dislocated@subj	_	Gloss=policy.Plur.Cons
 2	sìyaːsàː	sìyaːsàː	NOUN	_	Gender=Fem	1	mod	_	Gloss=politics.Fem
-3	irìn	irìː	NOUN	_	Definite=Def|Gender=Masc	1	mod	_	Gloss=type.Masc.Def
-4	na	na	PART	_	Case=Gen|PartType=Pred	3	mod	_	Gloss=Gen
+3	irìn	irìː	NOUN	_	Definite=Def|Gender=Masc	4	mod	_	Gloss=type.Masc.Def
+4	na	na	PART	_	Case=Gen|PartType=Pred	1	mod	_	Gloss=Gen
 5	tàːrayyàr̃	tàːrayyàː	NOUN	_	Definite=Cons|Gender=Fem	4	comp:obj	_	Gloss=federation.Fem.Cons
 6	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	5	conj:appos	_	Gloss=Nigeria
 7	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
@@ -197,7 +197,7 @@
 12	yi	yi	VERB	_	_	11	comp:aux	_	Gloss=do
 13	hulɗàː	hulɗàː	NOUN	_	Gender=Fem	12	comp:pred	_	Gloss=dealing.Fem
 14	dà	dà	ADP	_	_	13	comp:obl	_	Gloss=with
-15	wata	wani	DET	_	Definite=Spec|Gender=Masc	16	det	_	Gloss=some.Fem.Spec
+15	wata	wani	DET	_	Definite=Spec|Gender=Fem	16	det	_	Gloss=some.Fem.Spec
 16	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=country.Fem
 17	koː	koː	CCONJ	_	_	18	cc	_	Gloss=or
 18	ƙungìyaː	ƙungìyaː	NOUN	_	Gender=Fem	16	conj:coord	_	Gloss=organisation.Fem
@@ -223,7 +223,7 @@
 8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	Gloss=3Masc.Nom
 9	nèː	neː	AUX	_	_	0	root	_	Gloss=be
 10	shùːgàban	shùːgàbaː	NOUN	_	Definite=Cons	22	dislocated@top	_	Gloss=leader.Masc.Cons
-11	hùkuːmàr̃	hùkuːmàː	NOUN	_	Gender=Fem	10	mod	_	Gloss=authority.Fem.Cons
+11	hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Cons|Gender=Fem	10	mod	_	Gloss=authority.Fem.Cons
 12	dambe	dambe	NOUN	_	Gender=Masc	11	mod	_	Gloss=boxing.Masc
 13	ta	na	PART	_	Case=Gen|Gender=Fem	11	mod	_	Gloss=Gen.Fem
 14	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	13	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
@@ -296,7 +296,7 @@
 1	àmmaː	àmmaː	CCONJ	_	_	17	discourse	_	Gloss=but
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 3	sakatar̃èn	sakatar̃èː	NOUN	_	Definite=Cons|Gender=Masc	17	subj	_	Gloss=secretary.Masc.Cons
-4	hùkuːmàr̃	hùkuːmàː	NOUN	_	Gender=Fem	3	mod	_	Gloss=authority.Fem.Cons
+4	hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Cons|Gender=Fem	3	mod	_	Gloss=authority.Fem.Cons
 5	dambe	dambe	NOUN	_	Gender=Masc	4	mod	_	Gloss=boxing.Masc
 6	ta	na	PART	_	Case=Gen|Gender=Fem	4	mod	_	Gloss=Gen.Fem
 7	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	6	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
@@ -379,7 +379,7 @@
 35	Kudù	Kudù	PROPN	_	_	34	comp:obj	_	Gloss=Kudù
 36	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	32	parataxis@conj	_	Gloss=4.Fut
 37	yi	yi	VERB	_	_	36	comp:aux	_	Gloss=do
-38	dambên	dambe	ADV	_	_	37	comp:pred	_	Gloss=boxing.Masc.Def
+38	dambên	dambe	ADV	_	Definite=Def	37	comp:pred	_	Gloss=boxing.Masc.Def
 39	ba	ba	PART	_	PartType=Ill|Polarity=Neg	32	mod	_	Gloss=Neg|SpaceAfter=No
 40	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
@@ -393,7 +393,7 @@
 5	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 6	sâː	sâː	VERB	_	_	5	comp:aux	_	Gloss=cause
 7	màːsu	mài	PART	_	Number=Plur|PartType=Der	12	subj	_	Gloss=owner/doer_of.Plur
-8	shà'awàr̃	shà'awàr̃	NOUN	_	Gender=Fem	7	compound	_	Gloss=interest.Fem.Cons
+8	shà'awàr̃	shà'awàr̃	NOUN	_	Definite=Cons|Gender=Fem	7	compound	_	Gloss=interest.Fem.Cons
 9	wàːsànniː	wàːsaː	NOUN	_	Number=Plur	8	mod	_	Gloss=game.Plur
 10	dà	dà	ADP	_	ExtPos=ADJ	7	mod	_	Gloss=with|Idiom=Yes
 11	daːmaː	daːmaː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=opportunity.Fem|InIdiom=Yes
@@ -405,7 +405,7 @@
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	har̃	har̃	SCONJ	_	Definite=Cons|Gender=Fem	13	mod	_	Gloss=so_much_so_that
 19	maː	maː	PART	_	_	18	discourse@top	_	Gloss=even
-20	wata	wani	DET	_	Definite=Spec|Gender=Masc	21	det	_	Gloss=some.Fem.Spec
+20	wata	wani	DET	_	Definite=Spec|Gender=Fem	21	det	_	Gloss=some.Fem.Spec
 21	jàr̃iːdàː	jàr̃iːdàː	NOUN	_	Gender=Fem	31	subj	_	Gloss=newspaper.Fem
 22	à	à	ADP	_	_	21	mod	_	Gloss=at
 23	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	22	comp:obj	_	Gloss=Nigeria
@@ -461,14 +461,14 @@
 4	gàː	gàː	PART	_	PartType=Pred	0	root	_	Gloss=here_is
 5	wasu	wani	PRON	_	Definite=Spec|Number=Plur	4	subj	_	Gloss=some.Plur.Spec
 6	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=from
-7	sàːkàmakon	sàːkàmakoː	NOUN	_	_	6	comp:obj	_	Gloss=result.Masc.Cons
+7	sàːkàmakon	sàːkàmakoː	NOUN	_	Definite=Cons	6	comp:obj	_	Gloss=result.Masc.Cons
 8	wàːsànnîn	wàːsaː	NOUN	_	Definite=Def|Number=Plur|Person=3	7	mod	_	Gloss=game.Plur.Def
 9	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
 10	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	9	comp:obj	_	Gloss=4.Perf.Rel
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
 12	na	na	PART	_	Case=Gen|PartType=Pred	7	mod	_	Gloss=Gen
 13	gàːsar̃	gàːsaː	NOUN	_	Definite=Cons|Gender=Fem	12	comp:obj	_	Gloss=competion.Fem.Cons
-14	ƙwallon	ƙwallon	NOUN	_	_	13	mod	_	Gloss=ball.Masc.Cons
+14	ƙwallon	ƙwallon	NOUN	_	Definite=Cons	13	mod	_	Gloss=ball.Masc.Cons
 15	ƙafàː	ƙafàː	NOUN	_	Gender=Fem	14	compound	_	Gloss=foot.Fem
 16	don	don	SCONJ	_	_	13	mod	_	Gloss=in_order_to
 17	cîn	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	comp:obj	_	Gloss=win.Vnoun.Masc.Cons

@@ -3,7 +3,7 @@
 1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 2	ci	ci	VERB	_	_	1	comp:aux	_	Gloss=eat
 3	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	4	det	_	Gloss=some.Masc.Spec
-4	macìːjiː	macìːjiː	NOUN	_	Number=Plur	2	comp:obj	_	Gloss=snake.Masc
+4	macìːjiː	macìːjiː	NOUN	_	_	2	comp:obj	_	Gloss=snake.Masc
 5	mài	mài	PART	_	Number=Sing|PartType=Der	4	mod	_	Gloss=owner/doer_of.Sing
 6	dafìː	dafìː	NOUN	_	_	5	compound	_	Gloss=poison.Masc
 
@@ -32,7 +32,7 @@
 21	dà	dà	SCONJ	_	_	20	comp:obj	_	Gloss=COMP|InIdiom=Yes
 22	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	20	comp:obj	_	Gloss=3Plur.Perf.Rel
 23	cikà	cik-	VERB	_	_	22	comp:aux	_	Gloss=fill
-24	cikìn	cikìː	NOUN	_	_	23	comp:obj	_	Gloss=belly.Masc.Cons|SpaceAfter=No|wordform=cikìnsù
+24	cikìn	cikìː	NOUN	_	Definite=Cons	23	comp:obj	_	Gloss=belly.Masc.Cons|SpaceAfter=No|wordform=cikìnsù
 25	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	24	mod	_	Gloss=3Plur.Gen
 26	dà	dà	ADP	_	_	23	comp:obl	_	Gloss=with
 27	àbincîn	àbinciː	NOUN	_	Definite=Def|Gender=Masc	26	comp:obj	_	Gloss=food.Masc.Def
@@ -40,13 +40,13 @@
 29	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	28	comp:obj	_	Gloss=3Plur.Perf.Rel
 30	yi	yi	VERB	_	_	29	comp:aux	_	Gloss=do
 31-32	miyàr̃sà	_	_	_	_	_	_	_	_
-31	miyàr̃	miyàː	NOUN	_	Gender=Fem	30	comp:obj	_	Gloss=sauce.Fem.Cons
+31	miyàr̃	miyàː	NOUN	_	Definite=Cons|Gender=Fem	30	comp:obj	_	Gloss=sauce.Fem.Cons
 32	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	31	mod	_	Gloss=3Masc.Gen
 33	dà	dà	ADP	_	_	30	comp:obl	_	Gloss=with
 34	naːmàn	naːmàː	NOUN	_	Definite=Cons|Gender=Masc	33	comp:obj	_	Gloss=meat.Masc.Cons
 35	wani	wani	DET	_	Definite=Spec|Gender=Masc	37	det	_	Gloss=some.Masc.Spec
 36	shirgeːgèn	shirgeːgèː	NOUN	_	Definite=Cons|Gender=Masc	37	mod	_	Gloss=huge.Masc.Cons
-37	macìːjiː	macìːjiː	NOUN	_	Number=Plur	34	mod	_	Gloss=snake.Masc|SpaceAfter=No
+37	macìːjiː	macìːjiː	NOUN	_	_	34	mod	_	Gloss=snake.Masc|SpaceAfter=No
 38	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
 # sent_id = 08_Maciji__3a
@@ -64,11 +64,11 @@
 11	ɗaukoː	ɗauk-	VERB	_	_	10	comp:aux	_	Gloss=take
 12	gaːwar̃	gaːwaː	NOUN	_	Definite=Cons|Gender=Fem	11	comp:obj	_	Gloss=corpse.Fem.Cons
 13	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	14	det	_	Gloss=ProxS.Sing
-14	macìːjiː	macìːjiː	NOUN	_	Number=Plur	12	comp:obj	_	Gloss=snake.Masc
+14	macìːjiː	macìːjiː	NOUN	_	_	12	comp:obj	_	Gloss=snake.Masc
 15	nèː	neː	PART	_	PartType=Foc	12	discourse@foc	_	Gloss=Emph
 16	baːyân	baːyân	ADP	_	Definite=Def	11	mod	_	Gloss=after.Def
 17	dà	dà	SCONJ	_	_	16	comp:obj	_	Gloss=COMP
-18	wata	wani	DET	_	Definite=Spec|Gender=Masc	20	det	_	Gloss=some.Fem.Spec
+18	wata	wani	DET	_	Definite=Spec|Gender=Fem	20	det	_	Gloss=some.Fem.Spec
 19	bàbbar̃	bàbba	ADJ	_	Definite=Cons|Gender=Fem	20	mod	_	Gloss=big.Fem.Cons
 20	moːtàː	moːtàː	NOUN	_	_	21	subj	_	Gloss=car
 21	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	17	comp:obj	_	Gloss=3Fem.Perf.Rel
@@ -103,7 +103,7 @@
 11	kàːfin	kàːfin	SCONJ	_	_	8	mod	_	Gloss=before
 12	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	11	comp:obj	_	Gloss=3Plur.Sub
 13	ci	ci	VERB	_	_	12	comp:aux	_	Gloss=obtain
-14	nasar̃àr̃	nasar̃àː	NOUN	_	Gender=Fem	13	comp:obj	_	Gloss=success.Fem.Cons
+14	nasar̃àr̃	nasar̃àː	NOUN	_	Definite=Cons|Gender=Fem	13	comp:obj	_	Gloss=success.Fem.Cons
 15	dafàː	dafàː	ADP	_	_	14	mod	_	Gloss=cook
 16	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	15	comp:obj	_	Gloss=3Masc.Acc
 17	luɓus	luɓus	IDEO	_	Definite=Cons	15	mod	_	Gloss=soft
@@ -128,7 +128,7 @@
 13	macìːjîn	macìːjiː	NOUN	_	Definite=Def|Number=Plur	12	comp:obj	_	Gloss=snake.Plur.Def
 14	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=COMP
 15	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	14	comp:obj	_	Gloss=3Plur.Perf.Rel
-16	dafàn	daf-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:aux	_	Gloss=cook.Vnoun.Masc.Def|SpaceAfter=No
+16	dafàn	daf-	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:aux	_	Gloss=cook.Vnoun.Masc.Def|SpaceAfter=No
 17	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 18	nan	nan	ADV	_	Definite=Def|Deixis=ProxH|ExtPos=ADV|PronType=Dem	24	mod	_	Gloss=ProxH
 19	dà	dà	CCONJ	_	_	20	cc	_	Gloss=and
@@ -175,7 +175,7 @@
 10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=COMP
 11	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	10	comp:obj	_	Gloss=3Plur.Perf.Rel
 12	shaː	shaː	VERB	_	_	11	comp:aux	_	Gloss=drink
-13	gaːrar̃	gaːraː	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=food_sp.Fem.Cons
+13	gaːrar̃	gaːraː	NOUN	_	Definite=Cons|Gender=Fem	12	comp:obj	_	Gloss=food_sp.Fem.Cons
 14	dàfaffen	dàfaffeː	ADJ	_	_	15	mod	_	Gloss=cooked
 15	macìːjîn	macìːjiː	NOUN	_	Definite=Def|Number=Plur	13	mod	_	Gloss=snake.Masc.Def
 16	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc	7	comp:obl	_	Gloss=towards
@@ -192,7 +192,7 @@
 27	aikìː	aikìː	NOUN	_	Gender=Masc	25	comp:pred	_	Gloss=work.Masc
 28	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	27	mod	_	Gloss=up_to
 29	tsawon	tsawoː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	Gloss=length.Masc.Cons
-30	saː'oː'iː	saː'àː	NOUN	_	Gender=Masc	29	mod	_	Gloss=hour.Plur
+30	saː'oː'iː	saː'àː	NOUN	_	_	29	mod	_	Gloss=hour.Plur
 31	dòːmin	dòːmin	ADP	_	_	27	mod	_	Gloss=in_order_to
 32	neːman	neːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	31	comp:obj	_	Gloss=look_for.Vnoun.Masc.Cons
 33	cèːton	ceːt-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	32	comp:obj	_	Gloss=save.Vnoun.Masc.Cons
@@ -234,8 +234,8 @@
 30	ɗaya	ɗaya	NUM	_	_	29	comp:aux	_	Gloss=one
 31	dàgà	dàgà	ADP	_	_	30	mod	_	Gloss=from
 32	cikin	cikin	ADP	_	_	31	comp:obj	_	Gloss=inside
-33	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	32	comp:obj	_	Gloss=type.Masc.Cons
-34	màcìːzân	macìːjiː	NOUN	_	Definite=Cons|Number=Plur	33	mod	_	Gloss=snake.Plur.Def
+33	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	34	mod	_	Gloss=type.Masc.Cons
+34	màcìːzân	macìːjiː	NOUN	_	Definite=Def|Number=Plur	32	comp:obj	_	Gloss=snake.Plur.Def
 35	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	34	det	_	Gloss=ProxH
 36	nèː	neː	PART	_	PartType=Foc	34	discourse@foc	_	Gloss=Emph
 37	màːsu	mài	PART	_	Number=Plur|PartType=Der	34	mod	_	Gloss=owner/doer_of.Plur
@@ -252,10 +252,10 @@
 5	cêːwaː	cêː	VERB	_	Gender=Fem	4	comp:obj	_	Gloss=say.Vnoun.Fem
 6	baːàː	nàː	AUX	_	Aspect=Prog|Person=4|Polarity=Neg	5	comp:obj	_	Gloss=4.Prog.Neg
 7	cîn	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	Gloss=consume.Vnoun.Masc.Cons
-8	naːmàn	naːmàː	NOUN	_	_	7	comp:obj	_	Gloss=meat.Masc.Cons|SpaceAfter=No|wordform=naːmànsù
+8	naːmàn	naːmàː	NOUN	_	Definite=Cons	7	comp:obj	_	Gloss=meat.Masc.Cons|SpaceAfter=No|wordform=naːmànsù
 9	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	8	mod	_	Gloss=3Plur.Gen
 10	mùsammàn	mùsammàn	ADV	_	_	12	mod	_	Gloss=especially
-11	dai	dai	PART	_	PartType=Top	10	discourse@top	_	Gloss=anyhow
+11	dai	dai	PART	_	PartType=Top	10	discourse@top	_	Gloss=anyway
 12	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	mod	_	Gloss=seen.Vnoun.Masc.Cons
 13	yawàn	yawàn	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	Gloss=quantity.Masc.Cons
 14	kwàːnàkîn	kwaːnaː	NOUN	_	Definite=Def	13	mod	_	Gloss=day.Plur.Def

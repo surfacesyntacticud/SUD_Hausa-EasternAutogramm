@@ -4,7 +4,7 @@
 2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	1	comp:cleft	_	Gloss=3Masc.Perf.Rel
 3	kaːwoː	kai	VERB	_	_	2	comp:aux	_	Gloss=carry/take_to
 4	bàlaː'ìn	bàlaː'ìː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=disaster.Masc.Cons
-5	Tafkìn	tafkìː	NOUN	_	_	7	mod@desc	_	Gloss=river.Masc.Cons
+5	Tafkìn	tafkìː	NOUN	_	Definite=Cons	7	mod@desc	_	Gloss=river.Masc.Cons
 6	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT|SpaceAfter=No
 7	Nyos	Nyos	PROPN	_	_	4	mod	_	Gloss=Nyos|SpaceAfter=No
 8	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT|SpaceAfter=No
@@ -26,23 +26,23 @@
 12	dà	dà	CCONJ	_	_	13	cc	_	Gloss=and
 13	shidà	shidà	NUM	_	_	11	conj:coord	_	Gloss=six
 14	neː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
-15	wata	wani	DET	_	Definite=Spec|Gender=Masc	16	det	_	Gloss=some.Fem.Spec
-16	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	27	subj	_	Gloss=type.Masc.Cons
-17	iskàː	iskàː	NOUN	_	Gender=Fem	16	mod	_	Gloss=wind.Fem
+15	wata	wani	DET	_	Definite=Spec|Gender=Fem	17	det	_	Gloss=some.Fem.Spec
+16	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	17	mod	_	Gloss=type.Masc.Cons
+17	iskàː	iskàː	NOUN	_	Gender=Fem	27	subj	_	Gloss=wind.Fem
 18	mài	mài	PART	_	Number=Sing|PartType=Der	17	mod	_	Gloss=owner/doer_of.Sing
 19	gubàː	gubàː	NOUN	_	Gender=Fem	18	compound	_	Gloss=poison.Fem|SpaceAfter=No
 20	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 21	wàːtòː	wàːtòː	PART	_	_	23	discourse	_	Gloss=that_is
 22	"	"	PUNCT	_	_	23	punct	_	Gloss=PUNCT
-23	carbon	carbon	X	_	Definite=Cons|Foreign=Yes|Gender=Masc	16	conj:appos	_	Gloss=carbon|Lang=en
+23	carbon	carbon	X	_	Definite=Cons|Foreign=Yes|Gender=Masc	17	conj:appos	_	Gloss=carbon|Lang=en
 24	dioxide	dioxide	X	_	Foreign=Yes|Gender=Masc	23	flat@foreign	_	Gloss=dioxide|Lang=en|SpaceAfter=No
 25	"	"	PUNCT	_	_	23	punct	_	Gloss=PUNCT
-26	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
+26	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 27	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	0	root	_	Gloss=3Fem.Perf.Rel
 28	riƙà	riƙ-	VERB	_	_	27	comp:aux	_	Gloss=keep_doing
 29	fìtaː	fìtaː	VERB	_	ExtPos=NOUN|Gender=Fem	28	comp:obj	_	Gloss=go_out.Vnoun.Fem
 30	dàgà	dàgà	ADP	_	_	29	comp:obl	_	Gloss=from
-31	Tafkìn	tafkìː	NOUN	_	_	30	comp:obj	_	Gloss=river.Masc.Cons|wordform=Tar̃kin
+31	Tafkìn	tafkìː	NOUN	_	Definite=Cons	30	comp:obj	_	Gloss=river.Masc.Cons|wordform=Tar̃kin
 32	Nyos	Nyos	PROPN	_	_	31	mod	_	Gloss=Nyos
 33	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	34	mod@desc	_	Gloss=country.Fem.Cons
 34	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	31	mod	_	Gloss=Cameroon
@@ -157,7 +157,7 @@
 
 # sent_id = 12_Bala'in_tafkin_Nyos__6
 # text = Dùbban shaːnuː dà sauran dabboːbiː suː maː sun mutù .
-1	Dùbban	dubuː	NOUN	_	_	8	subj	_	Gloss=thousand.Plur.Cons
+1	Dùbban	dubuː	NOUN	_	Definite=Cons	8	subj	_	Gloss=thousand.Plur.Cons
 2	shaːnuː	sâː	NOUN	_	Number=Plur	1	mod	_	Gloss=cow.Plur
 3	dà	dà	CCONJ	_	_	4	cc	_	Gloss=and
 4	sauran	sauraː	NOUN	_	Definite=Cons|Gender=Masc	2	conj:coord	_	Gloss=rest.Masc.Cons
@@ -188,7 +188,7 @@
 16	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 17	àmmaː	àmmaː	CCONJ	_	_	18	cc	_	Gloss=but
 18	gàː	gàː	PART	_	PartType=Pred	4	conj:coord	_	Gloss=here_is
-19	fuskoːkin	fuskàː	NOUN	_	Number=Plur	18	subj	_	Gloss=face.Plur.Cons|SpaceAfter=No|wordform=fuskoːkinsù
+19	fuskoːkin	fuskàː	NOUN	_	Definite=Cons|Number=Plur	18	subj	_	Gloss=face.Plur.Cons|SpaceAfter=No|wordform=fuskoːkinsù
 20	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	19	mod	_	Gloss=3Plur.Gen
 21	dà	dà	CCONJ	_	_	22	cc	_	Gloss=and|wordform=da
 22	ƙiràːjan	ƙìrjiː	NOUN	_	Definite=Cons|Number=Plur	19	conj:coord	_	Gloss=chest.Plur.Cons|SpaceAfter=No|wordform=ƙiràːjansù
@@ -249,16 +249,16 @@
 12	cêːwaː	cêwaː	SCONJ	_	_	11	comp:obj	_	Gloss=COMP|wordform=cêwaː
 13	an	yaː	AUX	_	Aspect=Perf|Person=4	12	comp:obj	_	Gloss=4.Perf
 14	yi	yi	VERB	_	_	13	comp:aux	_	Gloss=do
-15	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:pred	_	Gloss=type.Masc.Cons
+15	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	17	mod	_	Gloss=type.Masc.Cons
 16	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	17	det	_	Gloss=ProxS.Sing
-17	aman	amai	ADJ	_	_	15	mod	_	Gloss=explosion.Masc.Cons
+17	aman	amai	ADJ	_	Definite=Cons	14	comp:obj	_	Gloss=explosion.Masc.Cons
 18	gâs	gâs	NOUN	_	Gender=Masc	17	mod	_	Gloss=gas.Masc
 19	mài	mài	PART	_	Number=Sing|PartType=Der	18	mod	_	Gloss=owner/doer_of.Sing
 20	gubàː	gubàː	NOUN	_	Gender=Fem	19	compound	_	Gloss=poison.Fem
-21	à	à	ADP	_	_	17	mod	_	Gloss=at
+21	à	à	ADP	_	_	14	mod	_	Gloss=at
 22	wani	wani	DET	_	Definite=Spec|Gender=Masc	23	det	_	Gloss=some.Masc.Spec
 23	tafkìn	tafkìː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:obj	_	Gloss=lake.Masc.Cons
-24	à	à	ADP	_	_	15	mod	_	Gloss=at
+24	à	à	ADP	_	_	14	mod	_	Gloss=at
 25	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	26	mod@desc	_	Gloss=year.Fem.Cons
 26	alìf	alìf	NUM	_	_	24	comp:obj	_	Gloss=one_thousand
 27	dà	dà	CCONJ	_	_	28	cc	_	Gloss=and|wordform=da
@@ -293,9 +293,9 @@
 5	gaːnoː	gaːn-	VERB	_	_	4	comp:aux	_	Gloss=see
 6	cêːwaː	cêːwaː	SCONJ	_	_	5	comp:obj	_	Gloss=COMP
 7	àkwai	àkwai	PART	_	PartType=Pred	6	comp:obj	_	Gloss=there_is
-8	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	7	subj	_	Gloss=type.Masc.Cons
+8	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	10	mod	_	Gloss=type.Masc.Cons
 9	waɗànnân	wannàn	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	10	det	_	Gloss=ProxS.Plur
-10	tafkunàː	tafkìː	NOUN	_	_	8	mod	_	Gloss=lake.Plur
+10	tafkunàː	tafkìː	NOUN	_	_	7	subj	_	Gloss=lake.Plur
 11	har̃	har̃	ADP	_	_	10	mod	_	Gloss=up_to
 12	sìttin	sìttin	NUM	_	_	11	comp:obj	_	Gloss=sixty
 13	à	à	ADP	_	_	7	comp:pred	_	Gloss=at
@@ -315,9 +315,9 @@
 27	anàː	nàː	AUX	_	Aspect=Prog|Person=4	22	comp:obj	_	Gloss=4.Prog
 28	iyà	iy-	VERB	_	_	27	comp:aux	_	Gloss=be_able_to
 29	saːmùn	saːmùː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	28	comp:obj	_	Gloss=get.Vnoun.Masc.Cons
-30	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=type.Masc.Cons
+30	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	32	mod	_	Gloss=type.Masc.Cons
 31	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	32	det	_	Gloss=ProxS.Sing
-32	aman	amai	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=explosion.Masc.Cons
+32	aman	amai	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=explosion.Masc.Cons
 33	gâs	gâs	NOUN	_	Definite=Cons|Gender=Masc	32	mod	_	Gloss=gas.Masc
 34	à	à	ADP	_	_	29	mod	_	Gloss=at
 35	koːwànè	koːwànè	DET	_	_	36	det	_	Gloss=each.Masc
@@ -375,7 +375,7 @@
 15	zaːrar̃	zaːrar̃	SCONJ	_	Definite=Cons|Gender=Fem	14	comp:obj	_	Gloss=slightly_more|wordform=zarar
 16	an	yaː	AUX	_	Aspect=Perf|Person=4	15	comp:obj	_	Gloss=4.Perf
 17	ragè	rag-	VERB	_	_	16	comp:aux	_	Gloss=reduce
-18	ruwan	ruwansà	NOUN	_	_	17	comp:obj	_	Gloss=water.Masc.Cons|SpaceAfter=No
+18	ruwan	ruwansà	NOUN	_	Definite=Cons	17	comp:obj	_	Gloss=water.Masc.Cons|SpaceAfter=No
 19	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	18	mod	_	Gloss=3Masc.Gen
 20	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
@@ -415,7 +415,7 @@
 4	kìːmiyyàː	kìːmiyyàː	NOUN	_	Gender=Fem	3	comp:obj	_	Gloss=science.Fem
 5	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
 6	kaːwoː	kai	VERB	_	_	5	comp:aux	_	Gloss=carry/take_to|wordform=kaːn
-7	shaːwar̃àr̃	shaːwar̃àː	NOUN	_	Gender=Fem	6	comp:obj	_	Gloss=advice.Fem.Cons
+7	shaːwar̃àr̃	shaːwar̃àː	NOUN	_	Definite=Cons|Gender=Fem	6	comp:obj	_	Gloss=advice.Fem.Cons
 8	cêːwaː	cêːwaː	SCONJ	_	_	7	mod	_	Gloss=COMP|wordform=cêwaː
 9	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	8	comp:obj	_	Gloss=3Masc.Perf.Neg
 10	kàmaːtà	kamaːt-	VERB	_	_	9	comp:aux	_	Gloss=be_appropriate
@@ -430,7 +430,7 @@
 19	wucè	wut-	VERB	_	_	18	comp:aux	_	Gloss=pass
 20	yawàn	yawàː	ADJ	_	Definite=Cons|Gender=Masc	19	comp:obj	_	Gloss=quantity.Masc.Cons
 21	ruwan	ruwaː	NOUN	_	Definite=Cons	20	mod	_	Gloss=water.Masc.Cons
-22	samàn	samà	ADV	_	_	21	mod	_	Gloss=above.Def
+22	samàn	samà	ADV	_	Definite=Def	21	mod	_	Gloss=above.Def
 23	dà	dà	SCONJ	_	_	21	mod@relcl	_	Gloss=COMP
 24	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	23	comp:obj	_	Gloss=Prog.Rel
 25	shìgaː	shig-	VERB	_	ExtPos=NOUN|Gender=Fem	24	comp:aux	_	Gloss=enter.Fem.Vnoun.
@@ -448,7 +448,7 @@
 5	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
 6	baː	baː	VERB	_	_	5	comp:aux	_	Gloss=give
 7	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=with
-8	shaːwar̃àr̃	shaːwar̃àː	NOUN	_	Gender=Fem	7	comp:obj	_	Gloss=advice.Fem.Cons|wordform=shawarar
+8	shaːwar̃àr̃	shaːwar̃àː	NOUN	_	Definite=Cons|Gender=Fem	7	comp:obj	_	Gloss=advice.Fem.Cons|wordform=shawarar
 9	cêːwaː	cêːwaː	SCONJ	_	_	8	mod	_	Gloss=COMP|wordform=cêwaː
 10	kàmaːtàː	kamaːt-	VERB	_	Gender=Fem	11	subj	_	Gloss=be_appropriate.Vnoun.Fem
 11	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	9	comp:obj	_	Gloss=3Masc.Perf
@@ -458,7 +458,7 @@
 15	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=with
 16	haːlin	haːliː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	Gloss=situation.Masc.Cons
 17	ruwan	ruwaː	NOUN	_	Definite=Cons|Number=Plur	16	mod	_	Gloss=water.Masc.Cons
-18	Tafkìn	tafkìː	NOUN	_	_	17	mod	_	Gloss=river.Masc.Cons
+18	Tafkìn	tafkìː	NOUN	_	Definite=Cons	17	mod	_	Gloss=river.Masc.Cons
 19	Nyos	Nyos	PROPN	_	_	18	mod	_	Gloss=Nyos
 20	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	18	det	_	Gloss=Def
 21	kàːfin	kàːfin	SCONJ	_	_	14	mod	_	Gloss=before
@@ -492,7 +492,7 @@
 
 # sent_id = 12_Bala'in_tafkin_Nyos__16
 # text = Bàbban dai rìgàːkafìn dà mazàunaː yankìn zaːsù iyà yî: shiː nèː sù taːshì sù koːmàː neːsà ƙwar̃ai dàgà indà tafkìn yakè.
-1	Bàbban	bàbba	ADJ	_	_	3	mod	_	Gloss=big.Masc.Cons
+1	Bàbban	bàbba	ADJ	_	Definite=Cons	3	mod	_	Gloss=big.Masc.Cons
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
 3	rìgàːkafìn	rìgàːkafìː	NOUN	_	Definite=Def|Gender=Masc	11	subj	_	Gloss=precaution.Masc.Def
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP

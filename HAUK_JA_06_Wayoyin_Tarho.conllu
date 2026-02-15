@@ -1,7 +1,7 @@
 # sent_id = 06_Wayoyin_Tarho__1
 # text = wayoːyin tàr̃hôː à Afìr̃kà - bàbban cîː gàba ?
 # text_ortho = Waːyoːyin tàr̃hôː à Afìr̃kà - bàbban cîː gàba ?
-1	wayoːyin	wayàː	NOUN	_	Number=Plur	0	root	_	Gloss=wire.Plur.Cons
+1	wayoːyin	wayàː	NOUN	_	Definite=Cons|Number=Plur	0	root	_	Gloss=wire.Plur.Cons
 2	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	1	compound	_	Gloss=telephone.Masc
 3	à	à	ADP	_	_	1	mod	_	Gloss=at
 4	Afìr̃kà	Afìr̃kà	PROPN	_	_	3	comp:obj	_	Gloss=Africa
@@ -51,8 +51,8 @@
 7	haushiː	haushiː	NOUN	_	Gender=Masc	6	compound	_	Gloss=anger.Masc|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 9	sabòːdà	sabòːdà	ADP	_	_	4	discourse	_	Gloss=because_of
-10	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	9	comp:obj	_	Gloss=type.Masc.Cons
-11	wàhalàr̃	wàhalàː	NOUN	_	Gender=Fem	10	mod	_	Gloss=trouble.Fem.Def
+10	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	11	mod	_	Gloss=type.Masc.Cons
+11	wàhalàr̃	wàhalàː	NOUN	_	Definite=Def|Gender=Fem	9	comp:obj	_	Gloss=trouble.Fem.Def
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 13	akàn	kàn	AUX	_	Aspect=Hab|Person=4	12	comp:obj	_	Gloss=4.Hab
 14	saːmùː	saːm-	VERB	_	_	13	comp:aux	_	Gloss=get
@@ -168,7 +168,7 @@
 13	kùwa	kùwa	PART	_	PartType=Top	12	discourse@top	_	Gloss=in_fact
 14	kà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=2	8	conj:coord	_	Gloss=2Masc.Sub
 15	ji	ji	VERB	_	_	14	comp:aux	_	Gloss=hear
-16	wata	wani	DET	_	Definite=Spec|Gender=Masc	17	det	_	Gloss=some.Fem.Spec
+16	wata	wani	DET	_	Definite=Spec|Gender=Fem	17	det	_	Gloss=some.Fem.Spec
 17	màganàː	màganàː	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=speech.Fem
 18	bàː	bàː	PART	_	PartType=Ill|Polarity=Neg	20	mod	_	Gloss=Neg
 19	tàːre	tàːre	ADV	_	_	20	mod	_	Gloss=together
@@ -185,9 +185,9 @@
 1	àmmaː	àmmaː	CCONJ	_	_	3	discourse	_	Gloss=but
 2	yànzu	yànzu	ADV	_	_	3	mod	_	Gloss=now
 3	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
-4	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	3	subj	_	Gloss=type.Masc.Cons
+4	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	6	mod	_	Gloss=type.Masc.Cons
 5	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	6	det	_	Gloss=ProxS.Sing
-6	wàhalàr̃	wàhalàː	NOUN	_	Definite=Def|Gender=Fem	4	mod	_	Gloss=trouble.Fem.Def|SpaceAfter=No
+6	wàhalàr̃	wàhalàː	NOUN	_	Definite=Def|Gender=Fem	3	subj	_	Gloss=trouble.Fem.Def|SpaceAfter=No
 7	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 06_Wayoyin_Tarho__8
@@ -198,7 +198,7 @@
 3	soːmàː	soːm-	VERB	_	_	2	comp:aux	_	Gloss=start
 4	neː	neː	PART	_	PartType=Foc	3	discourse@foc	_	Gloss=Emph
 5	dàgà	dàgà	ADP	_	_	3	comp:obl	_	Gloss=from
-6	wata	wani	DET	_	Definite=Spec|Gender=Masc	7	det	_	Gloss=some.Fem.Spec
+6	wata	wani	DET	_	Definite=Spec|Gender=Fem	7	det	_	Gloss=some.Fem.Spec
 7	wayàr̃	wayàː	NOUN	_	Definite=Cons|Gender=Fem	5	comp:obj	_	Gloss=wire.Fem.Cons
 8	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	7	compound	_	Gloss=telephone.Masc
 9	à	à	ADP	_	_	7	mod	_	Gloss=at
@@ -344,7 +344,7 @@
 3	dà	dà	CCONJ	_	_	4	cc	_	Gloss=and
 4	Mazàmbîk	Mazàmbîk	PROPN	_	_	2	conj:coord	_	Gloss=Mazàmbîk
 5	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
-6	hannun	hannuː	NOUN	_	_	5	comp:pred	_	Gloss=hand.Masc.Cons
+6	hannun	hannuː	NOUN	_	Definite=Cons	5	comp:pred	_	Gloss=hand.Masc.Cons
 7	rìːgaː	rìːgaː	NOUN	_	Gender=Fem	6	compound	_	Gloss=boubou.Fem
 8	nèː	neː	PART	_	PartType=Foc	6	discourse@foc	_	Gloss=Emph
 9	dà	dà	CCONJ	_	_	6	comp:pred	_	Gloss=and
@@ -393,14 +393,14 @@
 # sent_id = 06_Wayoyin_Tarho__17
 # text = irìn waɗànnân zàːgàːye-zàːgàːyên dà akèː yîː dà wayàr̃ tàr̃hôː yanàː ɓaːtà laːyìː, kuma baː'àː jîn màganàr̃ sòːsai.
 # text_ortho = Irìn waɗànnân zàːgàːye-zàːgàːyên dà akèː yîː dà wayàr̃ tàr̃hôː yanàː ɓaːtà laːyìː, kuma baː àː jîn màganàr̃ sòːsai.
-1	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	10	mod	_	Gloss=type.Masc.Cons
-2	waɗànnân	wannàn	PRON	_	Deixis=ProxS|Number=Plur|PronType=Dem	1	mod	_	Gloss=ProxS.Plur
-3	zàːgàːye-zàːgàːyên	zàːgàːye-zàːgàːye	NOUN	_	Definite=Def|Number=Plur	1	mod	_	Gloss=going_round.Plur.Def
+1	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	3	mod	_	Gloss=type.Masc.Cons
+2	waɗànnân	wannàn	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	3	det	_	Gloss=ProxS.Plur
+3	zàːgàːye-zàːgàːyên	zàːgàːye-zàːgàːye	NOUN	_	Definite=Def|Number=Plur	10	subj	_	Gloss=going_round.Plur.Def
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
 5	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	4	comp:obj	_	Gloss=4.Prog.Rel
 6	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:aux	_	Gloss=do.Vnoun.Masc
 7	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=with
-8	wayàr̃	wayàr̃	NOUN	_	Gender=Fem	7	comp:obj	_	Gloss=wire.Fem.Cons
+8	wayàr̃	wayàr̃	NOUN	_	Definite=Cons|Gender=Fem	7	comp:obj	_	Gloss=wire.Fem.Cons
 9	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	8	compound	_	Gloss=telephone.Masc
 10	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Prog
 11	ɓaːtà	ɓaːt-	VERB	_	_	10	comp:aux	_	Gloss=waste
@@ -423,7 +423,7 @@
 5	sabòːdà	sabòːdà	ADP	_	_	3	mod	_	Gloss=because_of
 6	zaman	zama	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:obj	_	Gloss=stay.Vnoun.Masc.Cons
 7	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	6	mod	_	Gloss=rule.Masc.Cons
-8	màllakàr̃	màllakàː	NOUN	_	Gender=Fem	7	mod	_	Gloss=possession.Fem.Def
+8	màllakàr̃	màllakàː	NOUN	_	Definite=Def|Gender=Fem	7	mod	_	Gloss=possession.Fem.Def
 9	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=COMP
 10	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	12	subj	_	Gloss=country.Plur.Cons
 11	Afir̃kà	Afir̃kà	PROPN	_	_	10	mod	_	Gloss=Africa
@@ -441,8 +441,8 @@
 23	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	2	parataxis@conj	_	Gloss=3Plur.Perf
 24	soːmà	soːm-	VERB	_	_	23	comp:aux	_	Gloss=start
 25	ƙaːrà	ƙaːr-	VERB	_	_	24	comp:obj	_	Gloss=increase
-26	dàngàntakàː	dàngànta	NOUN	_	Case=Gen|Number=Sing|Person=1	25	comp:obj	_	Gloss=relationship.Fem
-27	tsàkaːnin	tsàkaːnin	ADP	_	_	26	mod	_	Gloss=between|SpaceAfter=No|wordform=tsàkaːninsù
+26	dàngàntakàː	dàngànta	NOUN	_	_	25	comp:obj	_	Gloss=relationship.Fem
+27	tsàkaːnin	tsàkaːnin	ADP	_	_	25	comp:obl	_	Gloss=between|SpaceAfter=No|wordform=tsàkaːninsù
 28	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	27	comp:obj	_	Gloss=3Plur.Gen
 29	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
@@ -473,7 +473,7 @@
 5	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
 6	gyaːrà	gya	VERB	_	_	5	comp:aux	_	Gloss=repair
 7	hanyoːyin	hanyàː	NOUN	_	Definite=Cons|Number=Plur	6	comp:obj	_	Gloss=path.Plur.Cons
-8	saːdâr̃waː	saːd-	VERB	_	Number=Plur	7	mod	_	Gloss=linking_up.Vnoun.Fem
+8	saːdâr̃waː	saːd-	VERB	_	_	7	mod	_	Gloss=linking_up.Vnoun.Fem
 9	tsàkaːnin	tsàkaːnin	ADP	_	_	8	mod	_	Gloss=between|SpaceAfter=No|wordform=tsàkaːninsù
 10	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	9	comp:obj	_	Gloss=3Plur.Gen
 11	har̃	har̃	SCONJ	_	Definite=Cons|Gender=Fem	6	mod	_	Gloss=so_much_so_that
@@ -496,3 +496,4 @@
 28	yi	yi	VERB	_	_	27	comp:aux	_	Gloss=do
 29	sauƙiː	sauƙiː	NOUN	_	Gender=Masc	28	comp:pred	_	Gloss=easiness.Masc|SpaceAfter=No
 30	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+

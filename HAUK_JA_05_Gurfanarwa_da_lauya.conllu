@@ -47,8 +47,8 @@
 13	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	1	conj:coord	_	Gloss=3Fem.Prog
 14	tàːƙamaː	tàːƙamaː	NOUN	_	Gender=Fem	13	comp:aux	_	Gloss=boasting.Fem
 15	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=with
-16	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	Gloss=type.Masc.Cons
-17	abuːbuwàn	àbù	NOUN	_	Definite=Def|Number=Plur	16	mod	_	Gloss=thing.Plur.Det
+16	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	Gloss=type.Masc.Cons
+17	abuːbuwàn	àbù	NOUN	_	Definite=Def|Number=Plur	15	comp:obj	_	Gloss=thing.Plur.Det
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
 19	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	18	comp:obj	_	Gloss=3Fem.Perf.Rel
 20	yi	yi	VERB	_	_	19	comp:aux	_	Gloss=do
@@ -71,7 +71,7 @@
 7	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=with
 8	aikìː	aikìː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=work.Masc
 9	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with
-10	wata	wani	DET	_	Definite=Spec|Gender=Masc	11	det	_	Gloss=some.Fem.Spec
+10	wata	wani	DET	_	Definite=Spec|Gender=Fem	11	det	_	Gloss=some.Fem.Spec
 11	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=law.Fem
 12	-	-	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 13	wàːtòː	wàːtòː	PART	_	_	14	discourse	_	Gloss=that_is
@@ -81,7 +81,7 @@
 17	-	-	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 18	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	14	mod@relcl	_	Gloss=REL.Fem
 19	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	18	comp:obj	_	Gloss=3Fem.Perf.Rel
-20	sâː	sâː	VERB	_	_	19	comp:aux	_	Gloss=put
+20	sâː	sâː	VERB	_	_	19	comp:aux	_	Gloss=cause
 21	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	23	subj	_	Gloss=3Fem.Nom
 22	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	21	conj:appos	_	Gloss=government.Fem.Def
 23	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	20	comp:obj	_	Gloss=3Fem.Perf.Rel
@@ -90,7 +90,7 @@
 26	mùtûm	mùtûm	NOUN	_	_	25	comp:obj	_	Gloss=man.Masc
 27	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	25	mod	_	Gloss=up_to
 28	tsawon	tsawoː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:obj	_	Gloss=length.Masc.Cons
-29	wàtànniː	watàː	NOUN	_	Gender=Masc	28	mod	_	Gloss=month.Plur
+29	wàtànniː	watàː	NOUN	_	_	28	mod	_	Gloss=month.Plur
 30	shidà	shidà	NUM	_	_	29	mod:num	_	Gloss=six
 31	bàː	bàː	PART	_	PartType=Ill|Polarity=Neg	33	mod	_	Gloss=Neg
 32	tàːre	tàːre	ADV	_	_	33	mod	_	Gloss=together
@@ -155,7 +155,7 @@
 11	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 12	tòː	tòː	INTJ	_	_	13	discourse	_	Gloss=well
 13	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
-14	wata	wani	DET	_	Definite=Spec|Gender=Masc	15	det	_	Gloss=some.Fem.Spec
+14	wata	wani	DET	_	Definite=Spec|Gender=Fem	15	det	_	Gloss=some.Fem.Spec
 15	koːtù	koːtù	NOUN	_	PronType=Ind	13	subj	_	Gloss=court.Fem
 16	à	à	ADP	_	_	13	comp:pred	_	Gloss=at
 17	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	16	comp:obj	_	Gloss=Nigeria
@@ -167,7 +167,7 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya__7
 # text = Wani shàhàr̃ar̃r̃en lauyàː – " Chief Gani Fawehinmi" – an tsarèː shi à Nàːjeːr̃iyàː har̃ tsawon wàtànniː ukù ƙàr̃ƙashin wannàn dòːkaː ta tsàron laːfiyar̃ ƙasaː, kuma bàː tàːre dà wata àlaːmàː zaː'à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː ba.
-1	Wani	wani	DET	_	_	3	det	_	Gloss=some.Masc.Spec
+1	Wani	wani	DET	_	Definite=Spec	3	det	_	Gloss=some.Masc.Spec
 2	shàhàr̃ar̃r̃en	shàhàr̃ar̃r̃eː	ADJ	_	Definite=Cons	3	mod	_	Gloss=famous.Masc.Cons
 3	lauyàː	lauyàː	NOUN	_	Gender=Fem	11	dislocated@comp	_	Gloss=lawyer.Masc
 4	–	–	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -184,7 +184,7 @@
 15	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	14	comp:obj	_	Gloss=Nigeria
 16	har̃	har̃	ADP	_	_	12	mod	_	Gloss=up_to
 17	tsawon	tsawoː	NOUN	_	Definite=Cons|Gender=Masc	16	comp:obj	_	Gloss=length.Masc.Cons
-18	wàtànniː	watàː	NOUN	_	Gender=Masc	17	mod	_	Gloss=month.Plur
+18	wàtànniː	watàː	NOUN	_	_	17	mod	_	Gloss=month.Plur
 19	ukù	ukù	NUM	_	_	18	mod:num	_	Gloss=three
 20	ƙàr̃ƙashin	ƙàr̃ƙashin	ADP	_	_	12	mod	_	Gloss=under
 21	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	22	det	_	Gloss=ProxS.Sing
@@ -198,7 +198,7 @@
 29	bàː	bàː	PART	_	PartType=Ill|Polarity=Neg	31	mod	_	Gloss=Neg
 30	tàːre	tàːre	ADV	_	_	31	mod	_	Gloss=together
 31	dà	dà	ADP	_	_	12	mod	_	Gloss=with
-32	wata	wani	DET	_	Definite=Spec|Gender=Masc	33	det	_	Gloss=some.Fem.Spec
+32	wata	wani	DET	_	Definite=Spec|Gender=Fem	33	det	_	Gloss=some.Fem.Spec
 33	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	31	comp:obj	_	Gloss=sign.Fem
 34	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	33	mod@relcl	_	Gloss=4.Fut
 35	gur̃faːnar̃	gur̃faːn-	VERB	_	Definite=Cons|Gender=Fem	34	comp:aux	_	Gloss=take_to_court.Cau
@@ -232,13 +232,13 @@
 18	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	17	comp:obj	_	Gloss=3Masc.Ind
 19	à	à	ADP	_	_	16	comp:obl	_	Gloss=at
 20	gàban	gàban	ADP	_	_	19	comp:obj	_	Gloss=front
-21	wata	wani	DET	_	Definite=Spec|Gender=Masc	22	det	_	Gloss=some.Fem.Spec
+21	wata	wani	DET	_	Definite=Spec|Gender=Fem	22	det	_	Gloss=some.Fem.Spec
 22	koːtù	koːtù	NOUN	_	Gender=Fem	20	comp:obj	_	Gloss=court.Fem
 23	ta	na	PART	_	Case=Gen|Gender=Fem	22	mod	_	Gloss=Gen.Fem
 24	mùsammàn	mùsammàː	ADV	_	_	23	comp:obj	_	Gloss=especially
 25	tàːre	tàːre	ADV	_	_	26	mod	_	Gloss=together
 26	dà	dà	CCONJ	_	_	27	cc	_	Gloss=and
-27	zàrgin	zarg-	VERB	_	Gender=Masc	16	conj:coord	_	Gloss=accuse.Vnoun.Masc.Cons|SpaceAfter=No|wordform=zàrginsà
+27	zàrgin	zarg-	VERB	_	Definite=Cons|Gender=Masc	16	conj:coord	_	Gloss=accuse.Vnoun.Masc.Cons|SpaceAfter=No|wordform=zàrginsà
 28	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	27	comp:obj	_	Gloss=3Masc.Gen
 29	dà	dà	CCONJ	_	_	27	comp:obl	_	Gloss=and
 30	lâifin	lâifiː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=crime.Masc.Cons
@@ -253,7 +253,7 @@
 39	farar̃-hùːlaː	farar̃-hùːlaː	NOUN	_	Number=Plur	38	comp:obj	_	Gloss=civilian.Plur
 40	dàgà	dàgà	ADP	_	_	36	comp:obl	_	Gloss=from
 41	hannun	hannuː	NOUN	_	Definite=Cons	40	comp:obj	_	Gloss=hand.Masc.Cons
-42	soːjoːjiː	soːjà	NOUN	_	Gender=Masc	41	mod	_	Gloss=soldier.Plur|SpaceAfter=No
+42	soːjoːjiː	soːjà	NOUN	_	_	41	mod	_	Gloss=soldier.Plur|SpaceAfter=No
 43	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya__10-12
@@ -277,7 +277,7 @@
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 17	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 18	shàːfi	shaf-	VERB	_	_	17	comp:aux	_	Gloss=concern
-19	wata	wani	DET	_	Definite=Spec|Gender=Masc	20	det	_	Gloss=some.Fem.Spec
+19	wata	wani	DET	_	Definite=Spec|Gender=Fem	20	det	_	Gloss=some.Fem.Spec
 20	takàr̃daː	takàr̃daː	NOUN	_	Gender=Fem	18	comp:obj	_	Gloss=paper.Fem
 21	cèː	neː	AUX	_	Gender=Fem	20	discourse@foc	_	Gloss=be.Fem
 22	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	20	mod@relcl	_	Gloss=REL.Fem
@@ -288,7 +288,7 @@
 27	r̃ubùːtaː	r̃ubuːt-	VERB	_	_	26	comp:aux	_	Gloss=write
 28	à	à	ADP	_	_	27	mod	_	Gloss=at
 29	cikin	cikin	ADP	_	_	28	comp:obj	_	Gloss=inside
-30	wata	wani	DET	_	Definite=Spec|Gender=Masc	31	det	_	Gloss=some.Fem.Spec
+30	wata	wani	DET	_	Definite=Spec|Gender=Fem	31	det	_	Gloss=some.Fem.Spec
 31	mùjallàː	mùjallàː	NOUN	_	_	27	comp:obj	_	Gloss=journal.Fem
 32	ta	na	PART	_	Case=Gen|Gender=Fem	31	mod	_	Gloss=Gen.Fem
 33	màːsu	mài	PART	_	Number=Plur|PartType=Der	32	comp:obj	_	Gloss=owner/doer_of.Plur
@@ -308,7 +308,7 @@
 4	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 5	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 6	sòːki	sauk-	VERB	_	_	5	comp:aux	_	Gloss=criticize
-7	manufar̃	manufar̃	NOUN	_	Gender=Fem	6	comp:obl	_	Gloss=policy.Fem.Cons
+7	manufar̃	manufar̃	NOUN	_	Definite=Cons|Gender=Fem	6	comp:obl	_	Gloss=policy.Fem.Cons
 8	tattalin	tattaliː	NOUN	_	Definite=Cons|Gender=Masc	7	mod	_	Gloss=planning.Masc.Cons
 9	ar̃zìkin	ar̃zìkiː	NOUN	_	Definite=Cons|Gender=Masc	8	mod	_	Gloss=wealth.Masc.Cons
 10	Gwamnatì	Gwamnatì	PROPN	_	_	9	mod	_	Gloss=Gwamnatì|SpaceAfter=No
@@ -422,7 +422,7 @@
 6	cèː	cêː	VERB	_	Gender=Fem	5	comp:aux	_	Gloss=be.Fem
 7	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	6	comp:obj	_	Gloss=3Masc.Perf
 8	yi	yi	VERB	_	_	7	comp:aux	_	Gloss=do
-9	niyyàr̃	niyyàː	NOUN	_	Gender=Fem	8	comp:pred	_	Gloss=intention.Fem.Cons
+9	niyyàr̃	niyyàː	NOUN	_	Definite=Cons|Gender=Fem	8	comp:pred	_	Gloss=intention.Fem.Cons
 10	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	mod	_	Gloss=proceed.Vnoun.Masc
 11	gàba	gàba	ADV	_	_	10	mod	_	Gloss=in_front
 12	dà	dà	ADP	_	_	10	comp:obl	_	Gloss=with
@@ -451,7 +451,7 @@
 9	hukuːmoːmiː	hùkuːmàː	NOUN	_	Number=Plur	8	comp:obj	_	Gloss=authority.Plur
 10	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
-12	sànàdiyyàr̃	sànàdiyyàː	NOUN	_	Gender=Fem	11	comp:pred	_	Gloss=cause.Fem.Cons
+12	sànàdiyyàr̃	sànàdiyyàː	NOUN	_	Definite=Cons|Gender=Fem	11	comp:pred	_	Gloss=cause.Fem.Cons
 13	zuwàn	zoː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	12	mod	_	Gloss=go.Vnoun.Masc|SpaceAfter=No|wordform=zuwànsà
 14	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	13	mod	_	Gloss=3Masc.Gen
 15	koːtù	koːtù	NOUN	_	_	13	comp:obj@G	_	Gloss=court.Fem
@@ -465,9 +465,9 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya__21
 # text = Zuwànsà koːtùn dà ya fi koːwànneː muhimmancìː shiː nèː neːman yà ga an ɗaurè wasu jàːmìꞌan tsàron ƙasar̃ Nàːjeːr̃iyàː biyu waɗàndà akà zàrgaː dà lâifin kashè Dele Giwa, wàːtòː ɗan jàr̃iːdàr̃ nan dà ya rasà rânsà dàliːlìn wani bâm dà akà aikoː masà ta cikin wàsiːƙàː tun shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà.
-1	Zuwàn	zoː	VERB	_	_	10	subj	_	Gloss=go.Vnoun.Masc.Cons|SpaceAfter=No|wordform=Zuwànsà
+1	Zuwàn	zoː	VERB	_	Definite=Cons	10	subj	_	Gloss=go.Vnoun.Masc.Cons|SpaceAfter=No|wordform=Zuwànsà
 2	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	1	mod	_	Gloss=3Masc.Gen
-3	koːtùn	koːtù	NOUN	_	_	1	comp:obj@G	_	Gloss=court.Fem.Def
+3	koːtùn	koːtù	NOUN	_	Definite=Def	1	comp:obj@G	_	Gloss=court.Fem.Def
 4	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	4	comp:obj	_	Gloss=3Masc.Perf.Rel
 6	fi	fi	VERB	_	_	5	comp:aux	_	Gloss=exceed
@@ -497,12 +497,12 @@
 30	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 31	wàːtòː	wàːtòː	PART	_	_	32	discourse	_	Gloss=that_is
 32	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	28	conj:appos	_	Gloss=child.Masc.Cons|wordform=dan
-33	jàr̃iːdàr̃	jàr̃iːdàː	NOUN	_	Gender=Fem	32	compound	_	Gloss=newspaper.Fem.Cons
+33	jàr̃iːdàr̃	jàr̃iːdàː	NOUN	_	Definite=Cons|Gender=Fem	32	compound	_	Gloss=newspaper.Fem.Cons
 34	nan	nan	ADV	_	Definite=Def|Deixis=ProxH|PronType=Dem	32	det	_	Gloss=ProxH
 35	dà	dà	SCONJ	_	_	32	mod@relcl	_	Gloss=COMP
 36	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	35	comp:obj	_	Gloss=3Masc.Perf.Rel
 37	rasà	ras-	VERB	_	_	36	comp:aux	_	Gloss=lose
-38	rân	râi	NOUN	_	Gender=Masc	37	comp:obj	_	Gloss=life.Masc.Cons|SpaceAfter=No|wordform=rânsà
+38	rân	râi	NOUN	_	Definite=Cons|Gender=Masc	37	comp:obj	_	Gloss=life.Masc.Cons|SpaceAfter=No|wordform=rânsà
 39	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	38	mod	_	Gloss=3Masc.Gen
 40	dàliːlìn	dàliːlìn	ADP	_	_	37	mod	_	Gloss=because_of
 41	wani	wani	DET	_	Definite=Spec|Gender=Masc	42	det	_	Gloss=some.Masc.Spec
@@ -570,7 +570,7 @@
 9	kuma	kuma	CCONJ	_	_	10	cc	_	Gloss=also
 10	an	yaː	AUX	_	Aspect=Perf|Person=4	4	conj:coord	_	Gloss=4.Perf
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
-12	kiràː	kir-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:pred	_	Gloss=call.Vnoun.Masc
+12	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:pred	_	Gloss=call.Vnoun.Masc
 13	gà	gà	ADP	_	_	12	comp:obl	_	Gloss=to
 14	Gwamnatì	Gwamnatì	PROPN	_	_	13	comp:obj	_	Gloss=Gwamnatì
 15	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=with

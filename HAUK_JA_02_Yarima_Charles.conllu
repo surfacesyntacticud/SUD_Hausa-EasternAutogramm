@@ -233,7 +233,7 @@
 29	.	.	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__8
-# text = àmfàːnin jirgin ruwân nan wàːtòː " Britannia" shiː nèː don Yàr̃iːmà Charles dà Gimbìyaː sù sàːmu wani wurîn dà sukà saːbàː dà shiː, indà zaːsù iyà raːmà irin kar̃imcìn dà ꞌyan Nàːjeːr̃iyàː sukà yi musù.
+# text = àmfàːnin jirgin ruwân nan wàːtòː " Britannia" shiː nèː don Yàr̃iːmà Charles dà Gimbìyaː sù sàːmu wani wurîn dà sukà saːbàː dà shiː, indà zaːsù iyà raːmà irìn kar̃imcìn dà ꞌyan Nàːjeːr̃iyàː sukà yi musù.
 # text_ortho = Àmfàːnin jirgin ruwân nan wàːtòː ‘Britannia’ shiː nèː don Yàr̃iːmà Charles dà Gimbìyaː sù sàːmu wani wurîn dà sukà saːbàː dà shiː, indà zaː sù iyà raːmà irin kar̃imcìn dà ꞌyan Nàːjeːr̃iyàː sukà yi musù.
 1	àmfàːnin	àmfàːniː	NOUN	_	Definite=Cons|Gender=Masc	10	subj	_	Gloss=use.Masc.Cons
 2	jirgin	jirgiː	NOUN	_	Definite=Cons|Gender=Masc	1	mod	_	Gloss=vehicle.Masc.Cons
@@ -264,8 +264,8 @@
 27	zaːsù	zâi	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Fut	26	comp:obj	_	Gloss=3Plur.Fut|wordform=sù
 28	iyà	iy-	VERB	_	_	27	comp:aux	_	Gloss=be_able_to
 29	raːmà	raːm-	VERB	_	_	28	comp:obj	_	Gloss=return
-30	irin	irin	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=type.Masc.Cons
-31	kar̃imcìn	kar̃imcìː	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=generosity.Masc.Cons
+30	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	31	mod	_	Gloss=type.Masc.Cons
+31	kar̃imcìn	kar̃imcìː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=generosity.Masc.Cons
 32	dà	dà	SCONJ	_	_	31	mod@relcl	_	Gloss=COMP
 33	ꞌyan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	35	subj	_	Gloss=child.Plur.Cons
 34	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	33	compound	_	Gloss=Nigeria
@@ -302,7 +302,7 @@
 # text = baːyan wata yaːrinyàː taː miːƙàː wà Yàr̃iːmà fùrànnin mar̃àːba sai mânyan bàːƙiː sukà zar̃cèː zuwàː gidan Gwamnàn indà sukà ci àbincin raːna.
 # text_ortho = Baːyan wata yaːrinyàː taː miːƙàː wà Yàr̃iːmà fùrànnin mar̃àːba sai mânyan bàːƙiː sukà zar̃cèː zuwà̠ː gidan Gwamnàn indà sukà ci àbincin raːna.
 1	baːyan	baːyan	SCONJ	_	_	13	mod	_	Gloss=after
-2	wata	wani	DET	_	Definite=Spec|Gender=Masc	3	det	_	Gloss=some.Fem.Spec
+2	wata	wani	DET	_	Definite=Spec|Gender=Fem	3	det	_	Gloss=some.Fem.Spec
 3	yaːrinyàː	yaːrinyàː	NOUN	_	Gender=Fem	4	subj	_	Gloss=girl.Fem
 4	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.Perf
 5	miːƙàː	miːƙ-	VERB	_	_	4	comp:aux	_	Gloss=proffer
@@ -370,7 +370,7 @@
 6	ban	baː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:obj	_	Gloss=give
 7	shàꞌawàː	shàꞌawàː	NOUN	_	Gender=Fem	6	compound	_	Gloss=liking.Fem
 8	kàmar̃	kàmar̃	ADP	_	_	5	mod	_	Gloss=like
-9	wata	wani	DET	_	Definite=Spec|Gender=Masc	11	det	_	Gloss=some.Fem.Spec
+9	wata	wani	DET	_	Definite=Spec|Gender=Fem	11	det	_	Gloss=some.Fem.Spec
 10	shirgeːgìyar̃	shirgeːgèː	ADJ	_	Definite=Cons|Gender=Fem	11	mod	_	Gloss=huge.Fem.Cons
 11	tar̃waɗaː	tar̃waɗaː	NOUN	_	_	8	comp:obj	_	Gloss=mudfish.Fem
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
@@ -445,9 +445,9 @@
 3	daːjìn	daːjìː	NOUN	_	Definite=Def|Gender=Masc	2	comp:obj@G	_	Gloss=bush.Masc.Def
 4	neː	neː	PART	_	PartType=Foc	3	discourse@foc	_	Gloss=Emph
 5	ta	ta	ADP	_	_	2	comp:obl	_	Gloss=via
-6	wata	wani	DET	_	Definite=Spec|Gender=Masc	7	det	_	Gloss=some.Fem.Spec
-7	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:obj	_	Gloss=type.Masc.Cons
-8	gadàː	gadàː	NOUN	_	Gender=Fem	7	mod	_	Gloss=bridge.Fem
+6	wata	wani	DET	_	Definite=Spec|Gender=Fem	8	det	_	Gloss=some.Fem.Spec
+7	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	8	mod	_	Gloss=type.Masc.Cons
+8	gadàː	gadàː	NOUN	_	Gender=Fem	5	comp:obj	_	Gloss=bridge.Fem
 9	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	8	mod@relcl	_	Gloss=REL.Fem
 10	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	9	comp:obj	_	Gloss=Prog.Rel
 11	reːtòː	rētòː	NOUN	_	Gender=Masc	10	comp:pred	_	Gloss=hanging.Masc
@@ -495,7 +495,7 @@
 35	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	37	mod	_	Gloss=up_to
 36	maː	maː	PART	_	_	35	discourse@top	_	Gloss=even
 37	dà	dà	CCONJ	_	_	38	cc	_	Gloss=and
-38	giːwàːyē	giːwaː	NOUN	_	Gender=Masc	32	conj:coord	_	Gloss=elephant.Plur|SpaceAfter=No
+38	giːwàːyē	giːwaː	NOUN	_	_	32	conj:coord	_	Gloss=elephant.Plur|SpaceAfter=No
 39	.	.	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles__18

@@ -28,7 +28,7 @@
 14	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
 15	iskè	isk-	VERB	_	_	14	comp:aux	_	Gloss=find
 16	wasu	wani	DET	_	Definite=Spec|Number=Plur	17	det	_	Gloss=some.Plur.Spec
-17	ɓàràːyiː	ɓàraːwòː	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=thief.Plur
+17	ɓàràːyiː	ɓàraːwòː	NOUN	_	_	15	comp:obj	_	Gloss=thief.Plur
 18	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	17	mod@relcl	_	Gloss=3Plur.Prog
 19	ƙòːƙariː	ƙòːƙariː	NOUN	_	_	18	comp:aux	_	Gloss=effort.Masc
 20	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	19	comp:obj	_	Gloss=3Plur.Sub
@@ -212,9 +212,9 @@
 21	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=medicine.Masc
 22	danganèː	danganèː	NOUN	_	ExtPos=ADP|Gender=Masc	20	comp:obl	_	Gloss=relation.Masc|Idiom=Yes
 23	dà	dà	ADP	_	_	22	compound	_	Gloss=with|InIdiom=Yes
-24	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	22	comp:obj	_	Gloss=type.Masc.Cons
+24	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	26	mod	_	Gloss=type.Masc.Cons
 25	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	26	det	_	Gloss=ProxS.Sing
-26	rauniː	rauniː	NOUN	_	Gender=Masc	24	mod	_	Gloss=injury.Masc
+26	rauniː	rauniː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=injury.Masc
 27	na	na	PART	_	Case=Gen|PartType=Pred	26	mod	_	Gloss=Gen
 28	har̃bìn	har̃b-	VERB	_	Definite=Cons|Gender=Masc	27	comp:obj	_	Gloss=shoot.Vnoun.Masc.Cons
 29	bindigàː	bindigàː	NOUN	_	_	28	mod	_	Gloss=gun.Fem|SpaceAfter=No
@@ -249,8 +249,8 @@
 25	Nàːjeːr̃iyàr̃	Nàːjeːr̃iyàː	PROPN	_	Definite=Def|Gender=Fem	24	comp:obj	_	Gloss=Nigeria.Def
 26	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	15	comp:obj	_	Gloss=3Masc.Perf
 27	fi	fi	VERB	_	_	26	comp:aux	_	Gloss=exceed
-28	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:obj	_	Gloss=type.Masc.Cons
-29	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	28	mod	_	Gloss=REL.Plur
+28	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	29	mod	_	Gloss=type.Masc.Cons
+29	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	27	comp:obj	_	Gloss=REL.Plur
 30	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	29	mod@relcl	_	Gloss=4.Perf.Rel
 31	yi	yi	VERB	_	_	30	comp:aux	_	Gloss=do
 32	cikin	cikin	ADP	_	_	31	mod	_	Gloss=inside
@@ -277,7 +277,7 @@
 12	dà	dà	CCONJ	_	_	13	cc	_	Gloss=and
 13	takwàs	takwàs	NUM	_	_	11	conj:coord	_	Gloss=eight
 14	neː	neː	PART	_	PartType=Foc	4	discourse@foc	_	Gloss=Emph
-15	ɓàràːyiː	ɓàraːwòː	NOUN	_	Gender=Masc	16	subj	_	Gloss=thief.Plur
+15	ɓàràːyiː	ɓàraːwòː	NOUN	_	_	16	subj	_	Gloss=thief.Plur
 16	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	4	comp:cleft	_	Gloss=3Plur.Perf.Rel
 17	yi	yi	VERB	_	_	16	comp:aux	_	Gloss=do
 18	saːtàː	saːtàː	VERB	_	Gender=Fem	17	comp:pred	_	Gloss=theft.Fem
@@ -335,7 +335,7 @@
 20	wajen	wajen	ADP	_	_	19	comp:obl	_	Gloss=about
 21	yaːƙìː	yaːƙìː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=fight.Masc
 22	dà	dà	ADP	_	_	21	comp:obl	_	Gloss=with
-23	ɓàràːyiː	ɓàraːwòː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=thief.Plur|SpaceAfter=No
+23	ɓàràːyiː	ɓàraːwòː	NOUN	_	_	22	comp:obj	_	Gloss=thief.Plur|SpaceAfter=No
 24	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 25	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	17	conj:coord	_	Gloss=3Plur.Perf
 26	kuma	kuma	PART	_	_	25	discourse	_	Gloss=also
@@ -354,7 +354,7 @@
 39	kèː	keː	AUX	_	Aspect=Prog|Relative=Rel	38	comp:obj	_	Gloss=Prog.Rel
 40	dà	dà	ADP	_	_	39	comp:pred	_	Gloss=with
 41	yâraː	yaːròː	NOUN	_	Number=Plur	40	comp:obj	_	Gloss=boy.Plur
-42	ɓàràːyiː	ɓàraːwòː	NOUN	_	Gender=Masc	41	mod	_	Gloss=thief.Plur
+42	ɓàràːyiː	ɓàraːwòː	NOUN	_	_	41	mod	_	Gloss=thief.Plur
 43	à	à	ADP	_	_	39	mod	_	Gloss=at
 44	sâssaː	saːshèː	NOUN	_	_	43	comp:obj	_	Gloss=part.Plur
 45	dàbam	dàbam	ADJ	_	_	44	mod	_	Gloss=different

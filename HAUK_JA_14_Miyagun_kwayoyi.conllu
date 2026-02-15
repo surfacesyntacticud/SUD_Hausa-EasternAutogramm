@@ -20,7 +20,7 @@
 10	cêː	cêː	VERB	_	_	9	comp:aux	_	Gloss=say|wordform=cê
 11	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	10	comp:obj	_	Gloss=3Fem.Perf
 12	r̃agar̃gàzà	r̃agar̃gaz-	VERB	_	_	11	comp:aux	_	Gloss=dismantle
-13	wata	wani	DET	_	Definite=Spec|Gender=Masc	14	det	_	Gloss=some.Fem.Spec
+13	wata	wani	DET	_	Definite=Spec|Gender=Fem	14	det	_	Gloss=some.Fem.Spec
 14	ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	12	comp:obj	_	Gloss=gang.Fem.Cons|wordform=kungiyar
 15	màːsu	mài	PART	_	Number=Plur|PartType=Der	14	mod	_	Gloss=owner/doer_of.Plur
 16	fataucìn	fataucìː	NOUN	_	Definite=Cons|Number=Plur	15	compound	_	Gloss=trade.Masc.Cons
@@ -63,7 +63,7 @@
 5	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	6	subj	_	Gloss=Nigeria
 6	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
 7	zama	zama	VERB	_	_	6	comp:aux	_	Gloss=become
-8	wata	wani	DET	_	Definite=Spec|Gender=Masc	10	det	_	Gloss=some.Fem.Spec
+8	wata	wani	DET	_	Definite=Spec|Gender=Fem	10	det	_	Gloss=some.Fem.Spec
 9	bàbbar̃	bàbba	ADJ	_	Definite=Cons|Gender=Fem	10	mod	_	Gloss=big.Fem.Cons
 10	hanyàr̃	hanyàː	NOUN	_	Definite=Cons|Gender=Fem	7	comp:pred	_	Gloss=way.Fem.Cons
 11	fàsà-ƙwàurin	fàsà-ƙwàuriː	NOUN	_	Definite=Cons|Number=Plur	10	mod	_	Gloss=smuggling.Masc.Cons
@@ -89,7 +89,7 @@
 3	miyàːgun	muːgùː	ADJ	_	Definite=Cons|Number=Plur	4	mod	_	Gloss=bad.Plur
 4	ƙwaːyoːyiː	ƙwàːyaː	NOUN	_	Number=Plur	2	comp:obj	_	Gloss=drug.Plur
 5	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
-6	wata	wani	DET	_	Definite=Spec|Gender=Masc	8	det	_	Gloss=some.Fem.Spec
+6	wata	wani	DET	_	Definite=Spec|Gender=Fem	8	det	_	Gloss=some.Fem.Spec
 7	bàbbar̃	bàbba	ADJ	_	Definite=Cons|Gender=Fem	8	mod	_	Gloss=big.Fem.Cons
 8	màtsalàː	màtsalàː	NOUN	_	Gender=Fem	9	comp:pred	_	Gloss=problem.Fem
 9	ceː	neː	AUX	_	Gender=Fem	0	root	_	Gloss=be.Fem
@@ -133,7 +133,7 @@
 7	ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	6	conj:appos	_	Gloss=association.Fem.Cons|wordform=kungiyar
 8	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	7	mod	_	Gloss=child.Plur.Cons
 9	sùmoːgàː	sùmoːgàː	NOUN	_	Gender=Fem	8	compound	_	Gloss=smuggling.Fem
-10	ɗîn	ɗîn	DET	_	Definite=Def|Gender=Masc	7	det	_	Gloss=Def
+10	ɗîn	ɗîn	DET	_	Definite=Def	7	det	_	Gloss=Def
 11	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=COMP
 12	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	11	comp:obj	_	Gloss=3Fem.Perf.Rel
 13	kaːmàː	kaːm-	VERB	_	_	12	comp:aux	_	Gloss=catch|SpaceAfter=No
@@ -325,7 +325,7 @@
 1	Hakà	hakà	ADV	_	_	6	mod	_	Gloss=thus
 2	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	1	det	_	Gloss=Def|wordform=din
 3	kùwa	kùwa	PART	_	PartType=Top	1	discourse@top	_	Gloss=in_fact
-4	wata	wani	DET	_	Definite=Spec|Gender=Masc	5	det	_	Gloss=some.Fem.Spec
+4	wata	wani	DET	_	Definite=Spec|Gender=Fem	5	det	_	Gloss=some.Fem.Spec
 5	dàbaːr̃àː	dàbaːr̃àː	NOUN	_	Gender=Fem	6	comp:pred	_	Gloss=trick.Fem
 6	ceː	neː	AUX	_	Gender=Fem	0	root	_	Gloss=be.Fem
 7	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	5	mod@relcl	_	Gloss=REL.Fem
@@ -541,7 +541,7 @@
 18	cikin	cikin	ADP	_	_	17	comp:obj	_	Gloss=inside
 19	màganàr̃	màganàː	NOUN	_	Definite=Cons|Gender=Fem	18	comp:obj	_	Gloss=matter.Fem.Cons|wordform=maganar
 20	shàr̃i'àr̃	shàr̃i'àː	NOUN	_	Definite=Cons|Gender=Fem	19	mod	_	Gloss=case.Fem.Cons|wordform=shar̃i'aːr
-21	wata	wani	DET	_	Definite=Spec|Gender=Masc	22	det	_	Gloss=some.Fem.Spec
+21	wata	wani	DET	_	Definite=Spec|Gender=Fem	22	det	_	Gloss=some.Fem.Spec
 22	màːtaː	màːtaː	NOUN	_	Gender=Fem	20	mod	_	Gloss=woman.Fem
 23	mài	mài	PART	_	Number=Sing|PartType=Der	22	mod	_	Gloss=owner/doer_of.Sing
 24	suːnaː	suːnaː	NOUN	_	Gender=Masc	23	compound	_	Gloss=name.Masc
@@ -780,7 +780,7 @@
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
 19	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	18	comp:obj	_	Gloss=3Plur.Perf.Rel
 20	shàːfi	shaːf-	VERB	_	_	19	comp:aux	_	Gloss=concern
-21	wata	wani	DET	_	Definite=Spec|Gender=Masc	22	det	_	Gloss=some.Fem.Spec
+21	wata	wani	DET	_	Definite=Spec|Gender=Fem	22	det	_	Gloss=some.Fem.Spec
 22	dàngàntakàː	dàngànta	NOUN	_	Gender=Fem	20	comp:obj	_	Gloss=relationship.Fem
 23	tsàkaːnin	tsàkaːnin	ADP	_	_	22	mod	_	Gloss=between
 24	mijìn	mijìː	NOUN	_	Definite=Def	23	comp:obj	_	Gloss=husband.Masc.Def

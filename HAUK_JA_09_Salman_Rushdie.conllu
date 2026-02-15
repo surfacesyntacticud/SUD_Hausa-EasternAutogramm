@@ -15,7 +15,7 @@
 
 # sent_id = 09_Salman_Rushdie__2-3
 # text = Kwàːnàkin baːya à ƙasar̃ Ir̃àn an saːkè jaddàdà hukuncìn kisàn dà akà yankèː kân Salman Rushdie, wà:tò: mar̃ùbùːcin littaːfìn nan na "Aːyoːyin Shaiɗân".
-1	Kwàːnàkin	kwaːnaː	NOUN	_	_	6	mod	_	Gloss=day.Plur.Cons
+1	Kwàːnàkin	kwaːnaː	NOUN	_	Definite=Cons	6	mod	_	Gloss=day.Plur.Cons
 2	baːya	baːya	ADV	_	_	1	mod	_	Gloss=back
 3	à	à	ADP	_	_	6	mod	_	Gloss=at
 4	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	5	mod@desc	_	Gloss=country.Fem.Cons|wordform=kasar̃
@@ -85,7 +85,7 @@
 25	bà	bà	PART	_	Polarity=Neg	26	mod	_	Gloss=Neg
 26	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	24	mod@relcl	_	Gloss=4.Fut
 27	sàːmi	saːm-	VERB	_	_	26	comp:aux	_	Gloss=get
-28	daːmar̃	daːmaː	NOUN	_	Gender=Fem	27	comp:obj	_	Gloss=opportunity.Fem.Cons
+28	daːmar̃	daːmaː	NOUN	_	Definite=Cons|Gender=Fem	27	comp:obj	_	Gloss=opportunity.Fem.Cons
 29	à	yà	AUX	_	Mood=Sub|Person=4	28	mod	_	Gloss=4.Sub
 30	bugàː	bug-	VERB	_	_	29	comp:aux	_	Gloss=print
 31	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	30	comp:obj	_	Gloss=3Masc.Acc
@@ -96,7 +96,7 @@
 
 # sent_id = 09_Salman_Rushdie__6
 # text = Àbîn dà ya fàːru shiː nèː ɗàːzu dà raːna shiː mùtumìn dà yakèː sôn à fassàr̃à littaːfìn nan na Salman Rushdie dàgà harshèn Tuːr̃anciː zuwàː Japananciː, wandà akèː kiràː " Gianni Palma " ɗan ƙasar̃ Ìtaːliyà, yaː kiraːwoː tàːron manèːmaː làːbàːr̃ai à kùlâb ɗîn nan na 'Yan Jàr̃ìːduː na Ƙasàːshen Wàje.
-1	Àbîn	àbù	NOUN	_	Definite=Cons|Gender=Masc	6	subj	_	Gloss=thing.Masc.Def
+1	Àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	6	subj	_	Gloss=thing.Masc.Def
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 3	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	2	comp:obj	_	Gloss=3Masc.Perf.Rel
 4	fàːru	faːr-	VERB	_	_	3	comp:aux	_	Gloss=begin
@@ -106,7 +106,7 @@
 8	dà	dà	CCONJ	_	_	39	mod	_	Gloss=and
 9	raːna	raːna	ADV	_	_	8	comp:obj	_	Gloss=day_time
 10	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	39	dislocated@subj	_	Gloss=3Masc.Nom
-11	mùtumìn	mùtûm	NOUN	_	Definite=Cons|Gender=Masc	10	conj:appos	_	Gloss=person.Masc.Def
+11	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	10	conj:appos	_	Gloss=person.Masc.Def
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 13	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Relative=Rel	12	comp:obj	_	Gloss=3Fem.Prog.Rel
 14	sôn	soː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:aux	_	Gloss=want.Vnoun.Masc.Cons
@@ -147,7 +147,7 @@
 49	'Yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	48	comp:obj	_	Gloss=child.Plur.Cons
 50	Jàr̃ìːduː	jàr̃iːdàː	NOUN	_	Number=Plur	49	compound	_	Gloss=newspaper.Plur
 51	na	na	PART	_	Case=Gen|PartType=Pred	49	mod	_	Gloss=Gen
-52	Ƙasàːshen	ƙasaː	NOUN	_	_	51	comp:obj	_	Gloss=country.Plur.Cons
+52	Ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons	51	comp:obj	_	Gloss=country.Plur.Cons
 53	Wàje	wàje	ADV	_	_	52	flat@name	_	Gloss=abroad|SpaceAfter=No
 54	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
@@ -283,7 +283,7 @@
 1	Tòː	tòː	INTJ	_	_	9	discourse	_	Gloss=well
 2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	dislocated@subj	_	Gloss=3Masc.Nom
 3	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	4	det	_	Gloss=ProxS.Sing
-4	mùtumìn	mùtûm	NOUN	_	Definite=Cons|Gender=Masc	2	conj:appos	_	Gloss=person.Masc.Def
+4	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	2	conj:appos	_	Gloss=person.Masc.Def
 5	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=COMP
 6	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	5	comp:obj	_	Gloss=3Masc.Perf.Rel
 7	kai	kai	VERB	_	_	6	comp:aux	_	Gloss=reach/carry_to
@@ -396,9 +396,9 @@
 8	jeː	jeː	VERB	_	_	7	comp:aux	_	Gloss=go
 9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	7	parataxis@conj	_	Gloss=3Masc.Perf.Rel
 10	ɗàuki	ɗauk-	VERB	_	_	9	comp:aux	_	Gloss=take
-11	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	Gloss=type.Masc.Cons
+11	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	13	mod	_	Gloss=type.Masc.Cons
 12	'yar̃	ɗan	ADJ	_	Gender=Fem	13	mod	_	Gloss=small.Fem
-13	naː'uːr̃âr̃	naː'uːr̃aː	NOUN	_	Definite=Def|Gender=Fem	11	mod	_	Gloss=machine.Fem.Def
+13	naː'uːr̃âr̃	naː'uːr̃aː	NOUN	_	Definite=Def|Gender=Fem	10	comp:obj	_	Gloss=machine.Fem.Def
 14	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	13	det	_	Gloss=ProxH
 15	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=COMP
 16	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	15	comp:obj	_	Gloss=4.Prog.Rel
@@ -411,7 +411,7 @@
 23	jeː	jeː	VERB	_	_	22	comp:aux	_	Gloss=go
 24	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	22	parataxis@conj	_	Gloss=3Masc.Perf.Rel
 25	faːrà	faːr-	VERB	_	_	24	comp:aux	_	Gloss=begin
-26	duːkàn	dòːk-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	25	comp:obj	_	Gloss=beat.Vnoun.Masc.Cons
+26	duːkàn	dòːk-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	25	comp:obj	_	Gloss=beat.Vnoun.Masc.Cons
 27	Gianni	Gianni	PROPN	_	_	26	comp:obj	_	Gloss=Gianni
 28	Palma	Palma	PROPN	_	_	27	flat@name	_	Gloss=Palma
 29	dà	dà	ADP	_	_	26	comp:obl	_	Gloss=with
@@ -525,12 +525,12 @@
 33	dà	dà	CCONJ	_	_	34	cc	_	Gloss=and
 34	àshìr̃in	àshìr̃in	NUM	_	_	32	conj:coord	_	Gloss=twenty
 35	à	à	ADP	_	_	29	mod	_	Gloss=at
-36	wata	wani	DET	_	Definite=Spec|Gender=Masc	37	det	_	Gloss=some.Fem.Spec
+36	wata	wani	DET	_	Definite=Spec|Gender=Fem	37	det	_	Gloss=some.Fem.Spec
 37	ùnguwar̃	ùnguwaː	NOUN	_	Definite=Cons|Gender=Fem	35	comp:obj	_	Gloss=ward.Fem.Cons
 38	Tokyo	Tokyo	PROPN	_	_	37	mod	_	Gloss=Tokyo
 39	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	18	comp:obj	_	Gloss=3Plur.Perf
 40	yi	yi	VERB	_	_	39	comp:aux	_	Gloss=do
-41	wata	wani	DET	_	Definite=Spec|Gender=Masc	42	det	_	Gloss=some.Fem.Spec
+41	wata	wani	DET	_	Definite=Spec|Gender=Fem	42	det	_	Gloss=some.Fem.Spec
 42	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	40	comp:pred	_	Gloss=demonstration.Fem
 43	baːyân	baːyân	SCONJ	_	ExtPos=SCONJ	40	mod	_	Gloss=after|Idiom=Yes
 44	dà	dà	SCONJ	_	_	43	comp:obj	_	Gloss=COMP|InIdiom=Yes
@@ -587,7 +587,7 @@
 20	Gianni	Gianni	PROPN	_	_	19	comp:obj	_	Gloss=Gianni
 21	Palma	Palma	PROPN	_	_	20	flat@name	_	Gloss=Palma
 22	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=with
-23	rân	râi	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=life.Masc.Cons|SpaceAfter=No|wordform=rânsà
+23	rân	râi	NOUN	_	Definite=Cons|Gender=Masc	22	comp:obj	_	Gloss=life.Masc.Cons|SpaceAfter=No|wordform=rânsà
 24	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	23	mod	_	Gloss=3Masc.Gen
 25	ba	ba	PART	_	PartType=Ill|Polarity=Neg	18	mod	_	Gloss=Neg|SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
@@ -598,14 +598,14 @@
 31	àl'ummàr̃	àl'ummàː	NOUN	_	Definite=Cons|Gender=Fem	30	comp:obj	_	Gloss=community.Fem.Cons
 32	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	31	mod	_	Gloss=Muslim.Plur
 33	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	32	mod	_	Gloss=mouth.Masc
-34	ɗayan	ɗaya	NUM	_	_	33	mod:num	_	Gloss=one.Cons|SpaceAfter=No|wordform=ɗayansù
+34	ɗayan	ɗaya	NUM	_	Definite=Cons	33	mod:num	_	Gloss=one.Cons|SpaceAfter=No|wordform=ɗayansù
 35	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	34	mod	_	Gloss=3Plur.Gen
 36	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__23
 # text = Sai dai kuma shiː Gianni Palma yaː kafèː kân cêːwaː lalleː kàm yanàː nan à kân bàkansà , bàː zâi jaː dà baːya ba.
 1	Sai	sai	ADV	_	_	7	mod	_	Gloss=then
-2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyhow
+2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
 3	kuma	kuma	PART	_	_	7	discourse	_	Gloss=also
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	dislocated@subj	_	Gloss=3Masc.Nom
 5	Gianni	Gianni	PROPN	_	_	4	conj:appos	_	Gloss=Gianni

@@ -64,7 +64,7 @@
 11	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 12	wàːtòː	wàːtòː	PART	_	_	14	mod	_	Gloss=that_is
 13	saːbuwar̃	saːboː	ADJ	_	Definite=Cons|Gender=Fem	14	conj:appos	_	Gloss=new.Fem.Cons|wordform=sabuwar
-14	hêdkwatàr̃	hêdkwatàː	NOUN	_	Gender=Fem	10	conj:appos	_	Gloss=headquarter.Fem.Cons
+14	hêdkwatàr̃	hêdkwatàː	NOUN	_	Definite=Cons|Gender=Fem	10	conj:appos	_	Gloss=headquarter.Fem.Cons
 15	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	14	mod	_	Gloss=Nigeria|SpaceAfter=No
 16	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 17	dukàn	dukà	PRON	_	Definite=Cons	19	subj	_	Gloss=all|SpaceAfter=No|wordform=dukànsù
@@ -74,10 +74,10 @@
 21	cêːwaː	cêːwaː	SCONJ	_	_	20	comp:obj	_	Gloss=COMP|wordform=cêwaː
 22	àkwai	àkwai	PART	_	PartType=Pred	21	comp:obj	_	Gloss=there_is
 23	matuƙar̃	matuƙaː	ADJ	_	Definite=Cons|Gender=Fem	24	mod	_	Gloss=extreme.Fem.Cons
-24	bùkaːtàr̃	bùkaːtàː	NOUN	_	Gender=Fem	22	subj	_	Gloss=need.Fem.Cons
+24	bùkaːtàr̃	bùkaːtàː	NOUN	_	Definite=Cons|Gender=Fem	22	subj	_	Gloss=need.Fem.Cons
 25	ragè	rag-	VERB	_	_	24	mod	_	Gloss=reduce
-26	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	25	comp:obj	_	Gloss=type.Masc.Cons
-27	haɗur̃àn	haɗàr̃iː	NOUN	_	Definite=Cons	26	mod	_	Gloss=danger.Plur.Cons
+26	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	27	mod	_	Gloss=type.Masc.Cons
+27	haɗur̃àn	haɗàr̃iː	NOUN	_	Definite=Cons	25	comp:obj	_	Gloss=danger.Plur.Cons
 28	nan	nan	ADV	_	Definite=Def|Deixis=ProxH|PronType=Dem	27	det	_	Gloss=ProxH
 29	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	27	mod	_	Gloss=there_is.Neg
 30	gair̃à	gair̃à	NOUN	_	Gender=Fem	29	subj	_	Gloss=fault.Fem
@@ -126,12 +126,12 @@
 31	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	30	comp:obj	_	Gloss=world.Fem
 32	kàmar̃	kàmar̃	ADP	_	_	29	mod	_	Gloss=like
 33	na	na	PART	_	Case=Gen|Definite=Cons|PartType=Pred	32	comp:obj	_	Gloss=Gen
-34	Asuːsùn	asuːsùː	NOUN	_	_	33	comp:obj	_	Gloss=fund.Masc.Cons
-35	Tàimakon	taimak-	VERB	_	_	34	mod	_	Gloss=help.Vnoun.Masc.Cons
+34	Asuːsùn	asuːsùː	NOUN	_	Definite=Cons	33	comp:obj	_	Gloss=fund.Masc.Cons
+35	Tàimakon	taimak-	VERB	_	Definite=Cons	34	mod	_	Gloss=help.Vnoun.Masc.Cons
 36	Yâːraː	yaːròː	NOUN	_	Number=Plur	35	comp:obj	_	Gloss=child.Plur
 37	na	na	PART	_	Case=Gen|PartType=Pred	34	mod	_	Gloss=Gen
 38	Màjàlisàr̃	màjàlisàː	NOUN	_	Definite=Cons|Gender=Fem	37	comp:obj	_	Gloss=council.Fem.Cons
-39	Ɗinkìn	ɗink-	VERB	_	_	38	mod	_	Gloss=sew.Vnoun.Masc.Cons
+39	Ɗinkìn	ɗink-	VERB	_	Definite=Cons	38	mod	_	Gloss=sew.Vnoun.Masc.Cons
 40	Duːniyàː	duːniyàː	NOUN	_	Gender=Fem	39	comp:obj	_	Gloss=world.Fem
 
 # sent_id = 16_Aihuwar_Yara__5
@@ -192,7 +192,7 @@
 
 # sent_id = 16_Aihuwar_Yara__7a
 # text = Wasu dàgà cikin waɗànnân yâ:raː nèː ƙanaːnàː , waɗàndà bàsù kai minzàlin maːtaː ba , sunàː kuma mutuwàː neː sabòːdà kwàtangwalòn sù yaː fayè ƙanƙantàː ,
-1	Wasu	wani	PRON	_	_	0	subj	_	Gloss=some.Plur.Spec
+1	Wasu	wani	PRON	_	Definite=Spec	0	subj	_	Gloss=some.Plur.Spec
 2	dàgà	dàgà	ADP	_	_	1	mod	_	Gloss=from
 3	cikin	cikin	ADP	_	_	2	comp:obj	_	Gloss=inside
 4	waɗànnân	wannàn	DET	_	Number=Plur	5	det	_	Gloss=ProxS.Plur
@@ -239,7 +239,7 @@
 5	mutuwàː	mutù	VERB	_	Gender=Fem	4	comp:aux	_	Gloss=die.Vnoun.Fem
 6	neː	neː	PART	_	PartType=Foc	5	discourse@foc	_	Gloss=Emph
 7	sabòːdà	sabòːdà	ADP	_	_	5	mod	_	Gloss=because_of
-8	ràːzanàr̃	raːzan-	VERB	_	Gender=Fem	7	comp:obj	_	Gloss=be_terrified.Vnoun.Fem.Cons
+8	ràːzanàr̃	raːzan-	VERB	_	Definite=Cons|Gender=Fem	7	comp:obj	_	Gloss=be_terrified.Vnoun.Fem.Cons
 9	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
 10	sukèː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3|Relative=Rel	9	comp:obj	_	Gloss=3Plur.Prog.Rel
 11	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:aux	_	Gloss=do.Vnoun.Masc
@@ -261,13 +261,13 @@
 27	kàmar̃	kàmar̃	ADP	_	_	15	mod	_	Gloss=like
 28	kùmburin	kumbur-	VERB	_	Definite=Cons|Gender=Masc	27	comp:obj	_	Gloss=swell.Vnoun.Masc.Cons
 29-30	ƙafàːfunsů	_	_	_	_	_	_	_	_
-29	ƙafàːfun	ƙafàː	NOUN	_	_	28	mod	_	Gloss=leg.Plur.Cons
+29	ƙafàːfun	ƙafàː	NOUN	_	Definite=Cons	28	mod	_	Gloss=leg.Plur.Cons
 30	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	29	mod	_	Gloss=3Plur.Gen
 31	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	28	mod@relcl	_	Gloss=REL.Masc
 32	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	31	comp:obj	_	Gloss=4.Prog.Rel
 33	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	32	comp:aux	_	Gloss=seen.Vnoun.Masc.Cons
 34	cêːwaː	cêːwaː	SCONJ	_	_	33	comp:obj	_	Gloss=COMP
-35	wata	wani	DET	_	Definite=Spec|Gender=Masc	36	det	_	Gloss=some.Fem.Spec
+35	wata	wani	DET	_	Definite=Spec|Gender=Fem	36	det	_	Gloss=some.Fem.Spec
 36	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	37	comp:pred	_	Gloss=sign.Fem
 37	ceː	neː	AUX	_	Gender=Fem	34	comp:obj	_	Gloss=be.Fem
 38	dà	dà	SCONJ	_	_	36	mod@relcl	_	Gloss=COMP
@@ -290,13 +290,13 @@
 2	ìlaː	ìlaː	X	_	Foreign=Yes	1	unk	_	Gloss=X|InIdiom=Yes|Lang=ar
 3	yâu	yâu	ADV	_	_	2	unk	_	Gloss=today|InIdiom=Yes
 4	wasu	wani	DET	_	Definite=Spec|Number=Plur	5	det	_	Gloss=some.Plur.Spec
-5	maːtân	màːtaː	NOUN	_	Number=Plur	6	subj	_	Gloss=woman.Plur.Def
+5	maːtân	màːtaː	NOUN	_	Definite=Def|Number=Plur	6	subj	_	Gloss=woman.Plur.Def
 6	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
 7	mutuwàː	mutù	VERB	_	Gender=Fem	6	comp:aux	_	Gloss=die.Vnoun.Fem
 8	neː	neː	PART	_	PartType=Foc	7	discourse@foc	_	Gloss=Emph
 9	sabòːdà	sabòːdà	ADP	_	_	7	mod	_	Gloss=because_of
 10	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	9	comp:obj	_	Gloss=lack.Vnoun.Masc.Cons
-11	moːtàr̃	moːtàr̃	NOUN	_	Gender=Fem	10	comp:obj	_	Gloss=car.Fem.Def
+11	moːtàr̃	moːtàr̃	NOUN	_	Definite=Def|Gender=Fem	10	comp:obj	_	Gloss=car.Fem.Def
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 13	zaːtà	zâi	AUX	_	Gender=Fem|Person=3|Tense=Fut	12	comp:obj	_	Gloss=3Fem.Fut
 14	kai	kai	VERB	_	_	13	comp:aux	_	Gloss=reach/carry_to
@@ -336,8 +336,8 @@
 
 # sent_id = 16_Aihuwar_Yara__10
 # text = Wasu maːtân kuma sunàː mutuwàː neː à yàːyîn dà sukà yi ƙòːƙarin zubar̃ dà cikìː.
-1	Wasu	wani	DET	_	_	2	det	_	Gloss=some.Plur.Spec
-2	maːtân	màːtaː	NOUN	_	Number=Plur	4	subj	_	Gloss=woman.Plur.Def
+1	Wasu	wani	DET	_	Definite=Spec	2	det	_	Gloss=some.Plur.Spec
+2	maːtân	màːtaː	NOUN	_	Definite=Def|Number=Plur	4	subj	_	Gloss=woman.Plur.Def
 3	kuma	kuma	PART	_	_	2	discourse@top	_	Gloss=also
 4	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
 5	mutuwàː	mutù	VERB	_	Gender=Fem	4	comp:aux	_	Gloss=die.Vnoun.Fem
@@ -460,7 +460,7 @@
 
 # sent_id = 16_Aihuwar_Yara__14
 # text = Wani mùhimmìn àbù dà akà fi dàːmuwaː dà shiː à loːkàcin wannàn tàːroː na ganin cêːwaː maːtaː sun sàːmi haifùwaː laːfiyàː, shiː nèː yi wà yâːraː maːtaː aureː dà saurī.
-1	Wani	wani	DET	_	Number=Plur|PronType=Dem	3	det	_	Gloss=some.Masc.Spec
+1	Wani	wani	DET	_	Definite=Spec|Number=Plur|PronType=Dem	3	det	_	Gloss=some.Masc.Spec
 2	mùhimmìn	mùhimmìː	ADJ	_	Definite=Cons|Gender=Masc	3	mod	_	Gloss=important.Masc.Cons
 3	àbù	àbù	NOUN	_	Gender=Masc	24	subj	_	Gloss=thing.Masc
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
@@ -552,7 +552,7 @@
 30	ƙaːrà	ƙaːr-	VERB	_	_	29	comp:aux	_	Gloss=increase
 31	muhimmancìn	muhimmancìː	NOUN	_	Definite=Cons|Gender=Masc	30	comp:obj	_	Gloss=importance.Masc
 32	kafà	kaf-	VERB	_	_	31	mod	_	Gloss=set_up
-33	wata	wani	DET	_	Definite=Spec|Gender=Masc	34	det	_	Gloss=some.Fem.Spec
+33	wata	wani	DET	_	Definite=Spec|Gender=Fem	34	det	_	Gloss=some.Fem.Spec
 34	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	32	comp:obj	_	Gloss=law.Fem
 35	dà	dà	SCONJ	_	_	34	mod@relcl	_	Gloss=COMP
 36	zaːtà	zâi	AUX	_	Gender=Fem|Person=3|Tense=Fut	35	comp:obj	_	Gloss=3Fem.Fut
