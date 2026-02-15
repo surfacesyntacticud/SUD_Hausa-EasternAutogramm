@@ -393,7 +393,7 @@
 29	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha__12
-# text = An yi zàngà-zangà ta biyûn à Kanòː indà 'yan sàndan kashè tàr̃zòːmaː sukà yi sàmmakoː zuwàː hàr̃aːbàr̃ Jaːmi'àr̃ Bàyer̃ò ta Kanòː, don sù hanà ɗàːlìban jaːmi'àr̃ gudaːnar̃ dà zàngà-zangàr̃ lùmaːnàr̃ dà sukà shiryà yîː don nuːnà rashìn amìncêːwar̃sù dà harìn dà ƙasar̃Amìr̃kà dà àːbòːkan ƙàwàncentà sukà kai wà ƙasar̃ Ìr̃aːƙì.
+# text = An yi zàngà-zangà ta biyûn à Kanòː indà 'yan sàndan kashè tàr̃zòːmaː sukà yi sàmmakoː zuwàː hàr̃aːbàr̃ Jaːmi'àr̃ Bàyer̃ò ta Kanòː, don sù hanà ɗàːlìban jaːmi'àr̃ gudaːnar̃ dà zàngà-zangàr̃ lùmaːnàr̃ dà sukà shiryà yîː don nuːnà rashìn amìncêːwar̃sù dà harìn dà ƙasar̃ Amìr̃kà dà àːbòːkan ƙàwàncentà sukà kai wà ƙasar̃ Ìr̃aːƙì.
 1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 2	yi	yi	VERB	_	_	1	comp:aux	_	Gloss=do
 3	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	2	comp:pred	_	Gloss=demonstration.Fem
@@ -434,11 +434,11 @@
 38	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	37	comp:obj	_	Gloss=lack.Vnoun.Masc.Cons
 39-40	amìncêːwar̃sù	_	_	_	_	_	_	_	_
 39	amìncêːwar̃	amint-	VERB	_	Number=Plur	38	comp:obj	_	Gloss=agree.Vnoun.Fem.Cons
-40	sù	sù	PRON	_	Number=Plur	39	subj	_	Gloss=XX
+40	sù	sù	PRON	_	Number=Plur	39	subj	_	Gloss=3Plur.Gen
 41	dà	dà	ADP	_	_	39	comp:obl	_	Gloss=with|wordform=ɗà
 42	harìn	harìː	NOUN	_	Definite=Def|Gender=Masc	41	comp:obj	_	Gloss=attack.Masc.Def
 43	dà	dà	SCONJ	_	_	42	mod@relcl	_	Gloss=COMP
-44	ƙasar̃	ƙasaː	NOUN	_	_	45	mod@desc	_	Gloss=XX|SpaceAfter=No
+44	ƙasar̃	ƙasaː	NOUN	_	_	45	mod@desc	_	Gloss=country.Fem.Cons
 45	Amìr̃kà	Amìr̃kà	PROPN	_	_	50	subj	_	Gloss=America
 46	dà	dà	CCONJ	_	_	47	cc	_	Gloss=and
 47	àːbòːkan	àːboːkiː	NOUN	_	Definite=Cons|Number=Plur	45	conj:coord	_	Gloss=friend.Plur.Cons
@@ -448,7 +448,7 @@
 50	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	43	mod@relcl	_	Gloss=3Plur.Perf.Rel
 51	kai	kai	VERB	_	_	50	comp:aux	_	Gloss=reach/carry_to
 52	wà	wà	ADP	_	Case=Dat	51	comp:obl	_	Gloss=Dat
-53	ƙasar̃	ƙasaː	NOUN	_	_	54	mod@desc	_	Gloss=XX
+53	ƙasar̃	ƙasaː	NOUN	_	_	54	mod@desc	_	Gloss=country.Fem.Cons
 54	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	52	comp:obj	_	Gloss=Irak|SpaceAfter=No
 55	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 

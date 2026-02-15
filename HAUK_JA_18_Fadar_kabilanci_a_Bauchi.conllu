@@ -88,14 +88,14 @@
 14	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	16	mod	_	Gloss=up_to
 15	yànzu	yànzu	ADV	_	_	14	comp:obj	_	Gloss=now
 16	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	Gloss=there_is
-17	àlàːmun	àlàːmuː	NOUN	_	Definite=Cons|Gender=Masc	16	subj	_	Gloss=XX
+17	àlàːmun	àlaːmàː	NOUN	_	Definite=Cons	16	subj	_	Gloss=sign.Plur.Cons
 18	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	17	mod	_	Gloss=lack.Vnoun.Masc.Cons
 19	kwànciyar̃	kwant-	VERB	_	Gender=Fem	18	comp:obj	_	Gloss=lie.Vnoun.Fem.Cons
 20	hankàliː	hankàliː	NOUN	_	Gender=Masc	19	mod	_	Gloss=mind.Masc
 21	sabòːdà	sabòːdà	SCONJ	_	_	16	mod	_	Gloss=because
 22	jiyà	jiyà	ADV	_	_	28	parataxis	_	Gloss=yesterday
-23	jàːmì'an	jàːmì'aː	NOUN	_	Definite=Cons|Number=Plur	28	subj	_	Gloss=XX
-24	kiːwòn	kiːwòː	NOUN	_	Definite=Cons|Gender=Masc	23	mod	_	Gloss=XX
+23	jàːmì'an	jaːmì'iː	NOUN	_	Definite=Cons|Number=Plur	28	subj	_	Gloss=official.Plur.Cons
+24	kiːwòn	kiːwòː	NOUN	_	Definite=Cons|Gender=Masc	23	mod	_	Gloss=take_care.Masc.Cons
 25	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	24	mod	_	Gloss=health.Fem
 26	sai	sai	ADV	_	_	28	mod	_	Gloss=then
 27	dà	dà	SCONJ	_	_	26	compound	_	Gloss=COMP
@@ -138,7 +138,7 @@
 15	muːnìː	muːnìː	NOUN	_	Gender=Masc	14	comp:obj	_	Gloss=evil.Masc
 16	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=COMP
 17	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	16	comp:obj	_	Gloss=4.Perf.Rel
-18	taɓà	taɓ-	VERB	_	_	17	comp:aux	_	Gloss=XX
+18	taɓà	taɓ-	VERB	_	_	17	comp:aux	_	Gloss=have_already
 19	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp:obj	_	Gloss=do.Vnoun.Masc
 20	à	à	ADP	_	_	19	mod	_	Gloss=at
 21	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	20	comp:obj	_	Gloss=Nigeria
@@ -170,17 +170,17 @@
 47	shâː	shâː	NUM	_	_	46	flat@num	_	Gloss=plus
 48	huɗu	huɗu	NUM	_	_	47	flat@num	_	Gloss=four
 49	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	44	comp:obj	_	Gloss=3Plur.Perf.Rel
-50	hàlakà	hàlak-	VERB	_	_	49	comp:aux	_	Gloss=XX|SpaceAfter=No
+50	hàlakà	halak-	VERB	_	_	49	comp:aux	_	Gloss=perish|SpaceAfter=No
 51	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__6
 # text = Wannàn tàr̃zòːmaː dà akà yi dai, wata ƙwàƙƙwaːrar̃ àlaːmàː ceː mài nuːnà irìn rashìn jìtuwar̃ àddiːnìː à Nàjeːr̃iyàː wandà ya saːmoː asaliː nèː à gàrin Tafaːwà Ɓaleːwà, gàrîn dà yakè duk dà cêːwaː à yankìn Mùsùlmiː nèː, àmmaː Kir̃istoːciː sun fi yawàː à cikinsà .
-1	Wannàn	wannàn	DET	_	Gender=Masc|PronType=Dem	2	det	_	Gloss=XX
+1	Wannàn	wannàn	DET	_	Gender=Fem|PronType=Dem	2	det	_	Gloss=ProxS.Fem
 2	tàr̃zòːmaː	tàr̃zòːmaː	NOUN	_	ExtPos=NOUN|Gender=Fem	11	subj	_	Gloss=riot.Fem
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 4	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	3	comp:obj	_	Gloss=4.Perf.Rel
 5	yi	yi	VERB	_	_	4	comp:aux	_	Gloss=do
-6	dai	dai	PART	_	PartType=Top	4	discourse@top	_	Gloss=anyhow|SpaceAfter=No
+6	dai	dai	PART	_	PartType=Top	4	discourse@top	_	Gloss=anyway|SpaceAfter=No
 7	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 8	wata	wani	DET	_	Definite=Spec|Gender=Masc	10	det	_	Gloss=some.Fem.Spec
 9	ƙwàƙƙwaːrar̃	ƙwàƙƙwaːraː	ADJ	_	Definite=Cons|Number=Plur	10	mod	_	Gloss=strong.Fem.Cons
@@ -239,7 +239,7 @@
 10	yankìn	yankìː	NOUN	_	Definite=Def|Gender=Masc	9	mod	_	Gloss=area.Masc.Def
 11	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	8	comp:obj	_	Gloss=3Plur.Perf
 12	hanàː	han-	VERB	_	_	11	comp:aux	_	Gloss=prevent
-13	su	su	PRON	_	Person=3	12	comp:obj@R	_	Gloss=XX
+13	su	su	PRON	_	Person=3	12	comp:obj@R	_	Gloss=3Plur.Acc
 14	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	12	comp:obj@T	_	Gloss=do.Vnoun.Masc.Cons
 15	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	14	comp:pred	_	Gloss=use.Masc
 16	dà	dà	ADP	_	_	15	comp:obl	_	Gloss=with
@@ -388,7 +388,7 @@
 1	À	à	ADP	_	_	11	mod	_	Gloss=at
 2	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	Gloss=time.Masc.Cons
 3	tàr̃zòːmâr̃	tàr̃zòːmaː	NOUN	_	Definite=Def|Gender=Fem	2	mod	_	Gloss=riot.Fem.Def
-4	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyhow
+4	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
 5	Kir̃istoːciː	Kir̃istàː	NOUN	_	Number=Plur	11	subj	_	Gloss=Christian.Plur
 6	dà	dà	ADP	_	ExtPos=ADJ	5	cc@preconj	_	Gloss=with|Idiom=Yes
 7	daːmaː	daːmaː	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=opportunity.Fem|InIdiom=Yes
@@ -417,7 +417,7 @@
 # text = Dâː maː dai rashìn jìtuwar̃ àddiːnìː tsàkaːnin 'yan kudancin Nàjeːr̃iyàː, waɗàndà akasàr̃insù mabìyaː àddiːnìn Kir̃istàː neː, dà kuma 'yan areːwacin ƙasâr̃, waɗàndà mafìː yawànsù Mùsùlmiː nèː , bàː bàːƙon àbù ba nèː.
 1	Dâː	dâː	ADV	_	_	37	mod	_	Gloss=XX
 2	maː	maː	PART	_	_	1	discourse@top	_	Gloss=even
-3	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyhow
+3	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
 4	rashìn	ras-	VERB	_	Definite=Cons|Gender=Masc	37	subj	_	Gloss=lack.Vnoun.Masc.Cons
 5	jìtuwar̃	jit-	NOUN	_	_	4	comp:obj	_	Gloss=tolerate.Vnoun.Fem.Cons
 6	àddiːnìː	àddiːnìː	NOUN	_	Gender=Fem	5	mod	_	Gloss=religion.Masc
@@ -499,11 +499,11 @@
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi__14
 # text = Sànnan kuma wasu 'yan boːkòn Nàjeːr̃iyàː maː sunàː ganin cêːwaː ìdan bà'à yi wani àbù don shaːwoː kân wannàn lamàr̃iː ba, tòː àbîn yanàː iyà kaːwoː rìkiciː à Nàjeːr̃iyàː, ƙasâr̃ dà ta fi koːwàcceː yawàn mutàːneː à naːhiyàr̃ Afìr̃kà.
-1	Sànnan	sànnan	ADV	_	_	8	mod	_	Gloss=XX
+1	Sànnan	sànnan	ADV	_	_	8	mod	_	Gloss=then
 2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 3	wasu	wani	DET	_	Definite=Spec|Number=Plur	4	det	_	Gloss=some.Plur.Spec
 4	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	8	subj	_	Gloss=child.Plur.Cons
-5	boːkòn	boːkòː	NOUN	_	Definite=Cons|Gender=Masc	4	compound	_	Gloss=XX
+5	boːkòn	boːkòː	NOUN	_	Definite=Cons|Gender=Masc	4	compound	_	Gloss=education.Masc
 6	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	4	mod	_	Gloss=Nigeria
 7	maː	maː	PART	_	_	4	discourse@top	_	Gloss=even
 8	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
@@ -583,7 +583,7 @@
 1	Taːshìn	taːs-	VERB	_	Definite=Cons|Gender=Masc	3	subj	_	Gloss=rise.Vnoun.Masc.Cons
 2	hankàlîn	hankàliː	NOUN	_	_	1	mod	_	Gloss=mind.Masc.Def
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
-4	biyoː	bi	VERB	_	_	3	comp:aux	_	Gloss=XX
+4	biyoː	bi	VERB	_	_	3	comp:aux	_	Gloss=follow
 5	baːyan	baːyan	ADP	_	_	4	mod	_	Gloss=after
 6	zàngà-zangàr̃	zàngà-zangàː	NOUN	_	Gender=Fem	5	comp:obj	_	Gloss=demonstration.Fem.Def
 7	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=COMP
@@ -647,7 +647,7 @@
 4	dareː	dareː	NOUN	_	Gender=Masc	3	comp:obj	_	Gloss=night.Masc
 5	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
 6	wasu	wani	DET	_	Definite=Spec|Number=Plur	7	det	_	Gloss=some.Plur.Spec
-7	gìne-gìne	ginìː	NOUN	_	ExtPos=NOUN|Number=Plur	8	subj	_	Gloss=XX
+7	gìne-gìne	ginìː	NOUN	_	ExtPos=NOUN|Number=Plur	8	subj	_	Gloss=building.Plur
 8	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
 9	cîn	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:aux	_	Gloss=consume.Vnoun.Masc.Cons
 10	wutaː	wutaː	PRON	_	Gender=Masc	9	comp:obj	_	Gloss=fire.Masc|SpaceAfter=No

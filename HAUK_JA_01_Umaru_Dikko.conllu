@@ -222,7 +222,7 @@
 20	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 21	wàːtòː	wàːtòː	PART	_	_	22	discourse	_	Gloss=that_is
 22	indà	indà	SCONJ	_	PronType=Rel	10	mod@relcl	_	Gloss=where
-23	zaːà	zâi	AUX	_	Mood=Sub|Person=4	22	comp:obj	_	Gloss=4.Sub|wordform=à
+23	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	22	comp:obj	_	Gloss=4.Fut|wordform=à
 24	kai	kai	VERB	_	_	23	comp:aux	_	Gloss=reach/carry_to
 25	shì	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	24	comp:obj	_	Gloss=3Masc.Acc
 26	kèːnan	kèːnan	PART	_	_	22	discourse@foc	_	Gloss=Emph|SpaceAfter=No
@@ -273,7 +273,7 @@
 11	nèː	neː	AUX	_	PartType=Foc	0	root	_	Gloss=be
 12	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	13	det	_	Gloss=ProxS.Sing
 13	àkwàːtì	àkwàːtì	NOUN	_	Gender=Masc	15	subj	_	Gloss=box.Masc
-14	dai	dai	PART	_	PartType=Top	13	discourse@top	_	Gloss=anyhow
+14	dai	dai	PART	_	PartType=Top	13	discourse@top	_	Gloss=anyway
 15	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	11	dislocated@comp	_	Gloss=3Masc.Perf.Neg
 16	sàːmi	saːm-	VERB	_	_	15	comp:aux	_	Gloss=get
 17	taːshìː	taːs-	VERB	_	Gender=Masc	16	comp:obj	_	Gloss=rise.Vnoun.Masc
@@ -434,7 +434,7 @@
 7	à	à	ADP	_	_	5	mod	_	Gloss=at
 8	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	7	comp:obj	_	Gloss=ProxS
 9	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	8	conj:appos	_	Gloss=Great_Britain
-10	dai	dai	PART	_	PartType=Top	7	discourse@top	_	Gloss=anyhow|SpaceAfter=No
+10	dai	dai	PART	_	PartType=Top	7	discourse@top	_	Gloss=anyway|SpaceAfter=No
 11	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 12	Ùːmar̃ù	Ùːmar̃ù	PROPN	_	_	14	subj	_	Gloss=Umaru
 13	Dikkò	Dikkò	PROPN	_	_	12	flat@name	_	Gloss=Dikko
@@ -489,9 +489,9 @@
 17	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko__15b
-# text = yanà mài cêːwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː.
+# text = yanàː mài cêːwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː.
 # text_ortho = Ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà, yanà mài cêwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː.
-1	yanà	nà	AUX	_	Aspect=Prog|ExtPos=SCONJ|Gender=Masc|Person=3	0	root	_	Gloss=XX|Idiom=Yes
+1	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Prog|Idiom=Yes
 2	mài	mài	PART	_	Number=Sing|PartType=Der	1	comp:pred	_	Gloss=owner/doer_of.Sing|InIdiom=Yes
 3	cêːwaː	cê	VERB	_	ExtPos=NOUN|Gender=Fem	2	compound	_	Gloss=say.Vnoun.Fem|InIdiom=Yes|wordform=cêwaː
 4	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	3	comp:obj	_	Gloss=3Masc.Fut
@@ -548,7 +548,7 @@
 36	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	35	mod	_	Gloss=time.Masc.Def
 37	dà	dà	SCONJ	_	_	36	mod@relcl	_	Gloss=COMP
 38	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	37	comp:obj	_	Gloss=4.Fut
-39	sâː	sâː	VERB	_	_	38	comp:aux	_	Gloss=put
+39	sâː	sâː	VERB	_	_	38	comp:aux	_	Gloss=cause
 40	soːjà	soːjà	NOUN	_	Number=Plur	41	subj	_	Gloss=soldiers.Plur
 41	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	39	parataxis@mod	_	Gloss=3Plur.Sub
 42	bindìgeː	bindig-	VERB	_	_	41	comp:aux	_	Gloss=shoot
@@ -576,7 +576,7 @@
 14	dàliːlìː	dàliːlìː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=reason.Masc
 15	neː	neː	PART	_	PartType=Foc	14	discourse@foc	_	Gloss=Emph
 16	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	14	comp:cleft	_	Gloss=3Masc.Perf.Rel
-17	sâː	sâː	VERB	_	_	16	comp:aux	_	Gloss=put
+17	sâː	sâː	VERB	_	_	16	comp:aux	_	Gloss=cause
 18	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Relative=Rel	17	comp:obj	_	Gloss=3Fem.Prog.Rel
 19	sôn	soː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp:aux	_	Gloss=want.Vnoun.Masc.Cons
 20	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	19	comp:obj	_	Gloss=3Masc.Sub
@@ -653,7 +653,7 @@
 21	"	"	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 22	inàː	nàː	AUX	_	Aspect=Prog|Number=Sing|Person=1	19	comp:obj	_	Gloss=1Sing.Prog
 23	jîn	ji	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	22	comp:aux	_	Gloss=hear.Vnoun.Masc.Cons
-24	dai	dai	PART	_	PartType=Top	23	discourse@top	_	Gloss=anyhow
+24	dai	dai	PART	_	PartType=Top	23	discourse@top	_	Gloss=anyway
 25	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	23	comp:obj	_	Gloss=2Masc.Perf
 26	tseːroː	tseːr-	VERB	_	_	25	comp:aux	_	Gloss=flee
 27	dàgà	dàgà	ADP	_	_	26	comp:obl	_	Gloss=from
