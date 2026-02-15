@@ -88,7 +88,7 @@
 25	jeː	jeː	VERB	_	_	24	comp:aux	_	Gloss=go
 26	màkàr̃àntun	makar̃antaː	NOUN	_	Definite=Cons|Number=Plur	25	comp:obl	_	Gloss=school.Plur.Cons|SpaceAfter=No|wordform=màkàr̃àntunsù
 27	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	26	mod	_	Gloss=3Plur.Gen
-28	ba	ba	PART	_	PartType=Ill|Polarity=Neg	25	mod	_	Gloss=Neg|SpaceAfter=No
+28	ba	ba	PART	_	PartType=Neg|Polarity=Neg	25	mod	_	Gloss=Neg|SpaceAfter=No
 29	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki__5
@@ -112,7 +112,7 @@
 17	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	16	mod	_	Gloss=country.Fem.Def|SpaceAfter=No|wordform=kasár
 18	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 19	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	0	root	_	Gloss=3Fem.Nom
-20	cèː	neː	PART	_	Gender=Fem	19	discourse@foc	_	Gloss=Emph.Fem
+20	cèː	neː	PART	_	Gender=Fem|PartType=Foc	19	discourse@foc	_	Gloss=Emph.Fem
 21	ta	yaː	AUX	_	Person=3	19	comp:cleft	_	Gloss=3Fem.Perf.Rel
 22	yi	yi	VERB	_	_	21	comp:aux	_	Gloss=do
 23	kiràn	kiraː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	22	comp:pred	_	Gloss=call.Vnoun.Masc.Cons
@@ -180,7 +180,7 @@
 
 # sent_id = 15_Yajin_aiki__7
 # text = màːsu yîn yaːjìn aikìn sun bùkàːci gwamnatì tà yi wani tàːroː na 'yan ƙasâr̃ bàːkiː ɗaya, wandà zâi tattàunà tsaːrìn tattalin ar̃zìkiː dà kuma na sìyaːsàː.
-1	màːsu	mài	PROPN	_	Number=Plur	5	subj	_	Gloss=owner/doer_of.Plur
+1	màːsu	mài	PROPN	_	Number=Plur|PartType=Der	5	subj	_	Gloss=owner/doer_of.Plur
 2	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	compound	_	Gloss=do.Vnoun.Masc.Cons
 3	yaːjìn	yaːjìː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:pred	_	Gloss=hot_spice.Masc.Cons
 4	aikìn	aikìː	NOUN	_	Definite=Def|Gender=Masc	3	compound	_	Gloss=work.Masc.Def
@@ -399,7 +399,7 @@
 # text = Sai dai kuma har̃ yànzu, baːbù wani abîn dà akà saːkè jîː danganèː dà kafà wannàn kwàmìtîn.
 1	Sai	sai	SCONJ	_	_	7	mod	_	Gloss=except_that
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
-3	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
+3	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 4	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	7	mod	_	Gloss=up_to
 5	yànzu	yànzu	ADV	_	_	4	comp:obj	_	Gloss=now|SpaceAfter=No|wordform=yanzu
 6	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
@@ -656,7 +656,7 @@
 16	wàje	wàje	ADV	_	_	15	compound	_	Gloss=outside
 17	fiːfiːkòː	fiːfiːkòː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=preference.Masc|SpaceAfter=No
 18	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-19	wàːtòː	wàːtòː	PART	_	_	20	discourse	_	Gloss=that_is
+19	wàːtòː	wàːtòː	PART	_	PartType=Disc	20	discourse	_	Gloss=that_is
 20	ma'àikàtaː	ma'àikàciː	NOUN	_	Number=Plur	13	conj:appos	_	Gloss=worker.Plur
 21	dàgà	dàgà	ADP	_	_	20	mod	_	Gloss=from
 22	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	21	comp:obj	_	Gloss=Nigeria
@@ -696,6 +696,6 @@
 25	daɗèː	daɗ-	VERB	_	_	24	comp:aux	_	Gloss=last
 26	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	25	mod	_	Gloss=3Masc.Prog|wordform=yana
 27	kâi	kâi	NOUN	_	Gender=Masc	26	comp:aux	_	Gloss=top.Masc
-28	ba	ba	PART	_	PartType=Ill|Polarity=Neg	25	mod	_	Gloss=Neg
+28	ba	ba	PART	_	PartType=Neg|Polarity=Neg	25	mod	_	Gloss=Neg
 29	.	.	PUNCT	_	_	17	mod	_	Gloss=PUNCT
 

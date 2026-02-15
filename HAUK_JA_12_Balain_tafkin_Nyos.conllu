@@ -32,7 +32,7 @@
 18	mài	mài	PART	_	Number=Sing|PartType=Der	17	mod	_	Gloss=owner/doer_of.Sing
 19	gubàː	gubàː	NOUN	_	Gender=Fem	18	compound	_	Gloss=poison.Fem|SpaceAfter=No
 20	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
-21	wàːtòː	wàːtòː	PART	_	_	23	discourse	_	Gloss=that_is
+21	wàːtòː	wàːtòː	PART	_	PartType=Disc	23	discourse	_	Gloss=that_is
 22	"	"	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 23	carbon	carbon	X	_	Definite=Cons|Foreign=Yes|Gender=Masc	17	conj:appos	_	Gloss=carbon|Lang=en
 24	dioxide	dioxide	X	_	Foreign=Yes|Gender=Masc	23	flat@foreign	_	Gloss=dioxide|Lang=en|SpaceAfter=No
@@ -138,7 +138,7 @@
 6	kusa	kusa	ADV	_	_	5	comp:pred	_	Gloss=close
 7	dà	dà	ADP	_	_	6	mod	_	Gloss=with
 8	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	7	comp:obj	_	Gloss=river.Masc.Def
-9	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also|SpaceAfter=No
+9	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also|SpaceAfter=No
 10	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 11	sai	sai	ADV	_	_	16	mod	_	Gloss=then
 12	duk	dukà	DET	_	_	13	det	_	Gloss=all
@@ -184,7 +184,7 @@
 12	tsiːrân	tsiːr-	VERB	_	Definite=Def	11	comp:aux	_	Gloss=escape.PrefRef
 13	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	8	mod@relcl	_	Gloss=3Plur.Perf.Rel
 14	sassaːɓùːleː	sassaːɓuːl-	VERB	_	_	13	comp:aux	_	Gloss=blister
-15	ba	ba	PART	_	PartType=Ill|Polarity=Neg	5	mod	_	Gloss=Neg|SpaceAfter=No
+15	ba	ba	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	Gloss=Neg|SpaceAfter=No
 16	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 17	àmmaː	àmmaː	CCONJ	_	_	18	cc	_	Gloss=but
 18	gàː	gàː	PART	_	PartType=Pred	4	conj:coord	_	Gloss=here_is
@@ -226,7 +226,7 @@
 22	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	21	comp:obj	_	Gloss=3Fem.Perf.Rel
 23	yiwoː	yi	VERB	_	_	22	comp:aux	_	Gloss=do
 24	bùr̃tsîn	bùr̃tsiː	NOUN	_	Definite=Def|Gender=Masc	23	comp:obj	_	Gloss=expulsion.Masc.Def
-25	wai	wai	SCONJ	_	_	28	discourse	_	Gloss=allegedly
+25	wai	wai	PART	_	PartType=Disc	28	discourse	_	Gloss=alledgedly
 26	carbon	carbon	X	_	Definite=Cons|Foreign=Yes|Gender=Masc	28	comp:pred	_	Gloss=carbon|Lang=en
 27	dioxide	dioxide	X	_	Foreign=Yes	26	flat@foreign	_	Gloss=dioxide|Lang=en
 28	ceː	neː	AUX	_	Gender=Fem	19	comp:obj	_	Gloss=be.Fem
@@ -288,7 +288,7 @@
 # text = Hakà nan kuma yaː gaːnoː cêːwaː àkwai irìn waɗànnân tafkunàː har̃ sìttin à wannàn yankìː à cikin Kàmàr̃u dà Nàːjeːr̃iyàː, indà sabòːdà yanàyin duwàːtsun wurîn anàː iyà saːmùn irìn wannàn aman gâs à koːwànè loːkàciː .
 1	Hakà	hakà	ADV	_	_	4	mod	_	Gloss=thus
 2	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	1	det	_	Gloss=ProxH
-3	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
+3	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 5	gaːnoː	gaːn-	VERB	_	_	4	comp:aux	_	Gloss=see
 6	cêːwaː	cêːwaː	SCONJ	_	_	5	comp:obj	_	Gloss=COMP
@@ -360,7 +360,7 @@
 # text = Sai dai kuma anàː tsòːron ƙiːlà gâs ɗîn yà ƙaːrà ɓulɓulôːwaː cikin tafkìn dà zaːrar̃ an ragè ruwansà .
 1	Sai	sai	ADV	_	_	4	mod	_	Gloss=then
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
-3	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
+3	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 4	anàː	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=4.Prog|wordform=and
 5	tsòːron	tsòːroː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:aux	_	Gloss=fear.Masc.Cons
 6	ƙiːlà	ƙiːlà	ADV	_	_	9	mod	_	Gloss=maybe
@@ -399,7 +399,7 @@
 16	mài	mài	PART	_	Number=Sing|PartType=Der	20	mod	_	Gloss=owner/doer_of.Sing
 17	yìwuwaː	yi	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	16	compound	_	Gloss=do.Vnoun.Fem
 18	nèː	neː	PART	_	PartType=Foc	16	discourse@foc	_	Gloss=Emph
-19	kuma	kuma	PART	_	_	16	discourse@top	_	Gloss=also
+19	kuma	kuma	PART	_	PartType=Disc	16	discourse@top	_	Gloss=also
 20	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	0	root	_	Gloss=3Masc.Fut
 21	jaːwoː	jaː	VERB	_	_	20	comp:aux	_	Gloss=cause
 22	wani	wani	DET	_	Definite=Spec|Gender=Masc	24	det	_	Gloss=some.Masc.Spec
@@ -436,14 +436,14 @@
 25	shìgaː	shig-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	24	comp:aux	_	Gloss=enter.Fem.Vnoun.
 26	cikin	cikin	ADP	_	_	25	comp:obl	_	Gloss=inside
 27	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	26	comp:obj	_	Gloss=3Masc.Gen
-28	ba	ba	PART	_	PartType=Ill|Polarity=Neg	10	mod	_	Gloss=Neg|SpaceAfter=No
+28	ba	ba	PART	_	PartType=Neg|Polarity=Neg	10	mod	_	Gloss=Neg|SpaceAfter=No
 29	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos__14
 # text = Hakà nan kuma manàzàr̃taː sun baː dà shaːwar̃àr̃ cêːwaː kàmaːtàː yaː yi à lùːr̃a dà haːlin ruwan Tafkìn Nyos ɗîn kàːfin à kwaːshè gâs ɗîn, àbîn dà zâi zamoː àbù mài haɗàr̃iː ƙwar̃ai.
 1	Hakà	hakà	ADV	_	_	5	mod	_	Gloss=thus
 2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp:obj	_	Gloss=ProxH
-3	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
+3	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 4	manàzàr̃taː	manàzàr̃ciː	NOUN	_	Number=Plur	5	subj	_	Gloss=investigator.Plur
 5	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
 6	baː	baː	VERB	_	_	5	comp:aux	_	Gloss=give

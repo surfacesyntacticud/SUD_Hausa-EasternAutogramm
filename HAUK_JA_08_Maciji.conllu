@@ -3,9 +3,9 @@
 1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 2	ci	ci	VERB	_	_	1	comp:aux	_	Gloss=eat
 3	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	4	det	_	Gloss=some.Masc.Spec
-4	macìːjiː	macìːjiː	NOUN	_	_	2	comp:obj	_	Gloss=snake.Masc
+4	macìːjiː	macìːjiː	NOUN	_	Gender=Masc	2	comp:obj	_	Gloss=snake.Masc
 5	mài	mài	PART	_	Number=Sing|PartType=Der	4	mod	_	Gloss=owner/doer_of.Sing
-6	dafìː	dafìː	NOUN	_	_	5	compound	_	Gloss=poison.Masc
+6	dafìː	dafìː	NOUN	_	Gender=Masc	5	compound	_	Gloss=poison.Masc
 
 # sent_id = 08_Maciji__2
 # text = À gàrin " Gboko " dà kèː jihàr̃ Binuwài can areːwacin Nàːjeːr̃iyàː an kai wasu mutàneː gùdaː takwàs asìbitì baːyân dà sukà cikà cikìnsù dà àbincîn dà sukà yi miyàr̃sà dà naːmàn wani shirgeːgèn macìːjiː.
@@ -46,13 +46,13 @@
 34	naːmàn	naːmàː	NOUN	_	Definite=Cons|Gender=Masc	33	comp:obj	_	Gloss=meat.Masc.Cons
 35	wani	wani	DET	_	Definite=Spec|Gender=Masc	37	det	_	Gloss=some.Masc.Spec
 36	shirgeːgèn	shirgeːgèː	NOUN	_	Definite=Cons|Gender=Masc	37	mod	_	Gloss=huge.Masc.Cons
-37	macìːjiː	macìːjiː	NOUN	_	_	34	mod	_	Gloss=snake.Masc|SpaceAfter=No
+37	macìːjiː	macìːjiː	NOUN	_	Gender=Masc	34	mod	_	Gloss=snake.Masc|SpaceAfter=No
 38	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
 # sent_id = 08_Maciji__3a
 # text = Yaddà wannàn àl'amàr̃iː ya fàːru shiː nèː suː mutàːnên sun ɗaukoː gaːwar̃ wannàn macìːjiː nèː baːyân dà wata bàbbar̃ moːtàː ta laːtsèː shi à bisà hanyàː dà dàddare, sukà nùfi dà shiː zuwàː gidaː.
 1	Yaddà	yaddà	ADV	_	PronType=Rel	7	subj	_	Gloss=how
-2	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	3	det	_	Gloss=ProxS.Sing
+2	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	3	det	_	Gloss=ProxS.Masc
 3	àl'amàr̃iː	àl'amàr̃iː	NOUN	_	Gender=Masc	4	subj	_	Gloss=matter.Masc
 4	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	1	mod@relcl	_	Gloss=3Masc.Perf.Rel
 5	fàːru	faːr-	VERB	_	_	4	comp:aux	_	Gloss=begin
@@ -63,8 +63,8 @@
 10	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	7	dislocated@comp	_	Gloss=3Plur.Perf
 11	ɗaukoː	ɗauk-	VERB	_	_	10	comp:aux	_	Gloss=take
 12	gaːwar̃	gaːwaː	NOUN	_	Definite=Cons|Gender=Fem	11	comp:obj	_	Gloss=corpse.Fem.Cons
-13	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	14	det	_	Gloss=ProxS.Sing
-14	macìːjiː	macìːjiː	NOUN	_	_	12	comp:obj	_	Gloss=snake.Masc
+13	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	14	det	_	Gloss=ProxS.Masc
+14	macìːjiː	macìːjiː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=snake.Masc
 15	nèː	neː	PART	_	PartType=Foc	12	discourse@foc	_	Gloss=Emph
 16	baːyân	baːyân	ADP	_	Definite=Def	11	mod	_	Gloss=after.Def
 17	dà	dà	SCONJ	_	_	16	comp:obj	_	Gloss=COMP
@@ -98,7 +98,7 @@
 6	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	2	mod	_	Gloss=3Plur.Prog
 7	ta	ta	PART	_	Aspect=Iter	6	compound:prt	_	Gloss=Iter
 8	dafà	dafàː	VERB	_	_	6	comp:aux	_	Gloss=cook
-9	wannàn	wannàn	DET	_	Definite=Spec|Gender=Masc	10	det	_	Gloss=ProxS.Masc
+9	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	10	det	_	Gloss=ProxS.Masc
 10	kùmurciː	kùmurciː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=cobra.Masc
 11	kàːfin	kàːfin	SCONJ	_	_	8	mod	_	Gloss=before
 12	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	11	comp:obj	_	Gloss=3Plur.Sub
@@ -108,7 +108,7 @@
 16	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	15	comp:obj	_	Gloss=3Masc.Acc
 17	luɓus	luɓus	IDEO	_	Definite=Cons	15	mod	_	Gloss=soft
 18	dòːmin	dòːmin	SCONJ	_	_	15	mod	_	Gloss=in_order_to
-19	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc	18	comp:obj	_	Gloss=consume.Vnoun.Masc|SpaceAfter=No
+19	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp:obj	_	Gloss=consume.Vnoun.Masc|SpaceAfter=No
 20	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 08_Maciji__4
@@ -118,7 +118,7 @@
 3	màtsalàr̃	màtsalaː	NOUN	_	Definite=Def|Gender=Fem	4	subj	_	Gloss=problem.Fem.Def
 4	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	2	mod@relcl	_	Gloss=3Fem.Perf.Rel
 5	faːrà	faːràː	VERB	_	_	4	comp:aux	_	Gloss=begin
-6	taːshìː	taːs-	VERB	_	ExtPos=NOUN|Gender=Masc	5	comp:obj	_	Gloss=rise.Vnoun.Masc
+6	taːshìː	taːs-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:obj	_	Gloss=rise.Vnoun.Masc
 7	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	comp:pred	_	Gloss=3Masc.Nom
 8	nèː	neː	AUX	_	PartType=Foc	0	root	_	Gloss=be
 9	baːyân	baːyân	SCONJ	_	Definite=Def|ExtPos=SCONJ	8	comp	_	Gloss=after.Def|Idiom=Yes
@@ -130,9 +130,9 @@
 15	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	14	comp:obj	_	Gloss=3Plur.Perf.Rel
 16	dafàn	daf-	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:aux	_	Gloss=cook.Vnoun.Masc.Def|SpaceAfter=No
 17	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
-18	nan	nan	ADV	_	Definite=Def|Deixis=ProxH|ExtPos=ADV|PronType=Dem	24	mod	_	Gloss=ProxH
+18	nan	nan	ADV	_	Deixis=ProxH|ExtPos=ADV|PronType=Dem	24	mod	_	Gloss=ProxH
 19	dà	dà	CCONJ	_	_	20	cc	_	Gloss=and
-20	nan	nan	ADV	_	Definite=Def|Deixis=ProxH|PronType=Dem	18	conj:coord	_	Gloss=ProxH
+20	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	18	conj:coord	_	Gloss=ProxH
 21	sai	sai	ADV	_	_	24	mod	_	Gloss=then
 22	waɗànnân	wannàn	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	23	det	_	Gloss=ProxS.Plur
 23	mutàːneː	mùtûm	NOUN	_	Number=Plur	24	subj	_	Gloss=people.Plur
@@ -152,8 +152,8 @@
 # sent_id = 08_Maciji__5
 # text = Dàgà nan kuma sai sukà shìga yîn amai.
 1	Dàgà	Dàgà	PROPN	_	_	5	mod	_	Gloss=Dàgà
-2	nan	nan	ADV	_	Definite=Def|Deixis=ProxH|PronType=Dem	1	comp:obj	_	Gloss=ProxH
-3	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
+2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp:obj	_	Gloss=ProxH
+3	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 4	sai	sai	ADV	_	_	5	mod	_	Gloss=then
 5	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
 6	shìga	shig-	VERB	_	ExtPos=NOUN|Gender=Fem	5	comp:aux	_	Gloss=enter
@@ -163,9 +163,9 @@
 
 # sent_id = 08_Maciji__6
 # text = Nan dà nan sai maƙwàbtaː sukà kwàːshi waɗànnân mutàːnên dà sukà shaː gaːrar̃ dàfaffen macìːjîn zuwàː asìbitìn Gboko, indà likitoːciː sukà tàːru sukà yi ta aikìː har̃ tsawon saː'oː'iː dòːmin neːman cèːton raːyukànsù .
-1	Nan	nan	ADV	_	Definite=Def|Deixis=ProxH|PronType=Dem	6	mod	_	Gloss=ProxH
+1	Nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	6	mod	_	Gloss=ProxH
 2	dà	dà	CCONJ	_	_	3	cc	_	Gloss=and
-3	nan	nan	ADV	_	Definite=Def|Deixis=ProxH|PronType=Dem	1	conj:coord	_	Gloss=ProxH
+3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	conj:coord	_	Gloss=ProxH
 4	sai	sai	ADV	_	_	6	mod	_	Gloss=then
 5	maƙwàbtaː	maƙwàbciː	NOUN	_	Number=Plur	6	subj	_	Gloss=neighbour.Plur
 6	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel|wordform=suka
@@ -192,7 +192,7 @@
 27	aikìː	aikìː	NOUN	_	Gender=Masc	25	comp:pred	_	Gloss=work.Masc
 28	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	27	mod	_	Gloss=up_to
 29	tsawon	tsawoː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	Gloss=length.Masc.Cons
-30	saː'oː'iː	saː'àː	NOUN	_	_	29	mod	_	Gloss=hour.Plur
+30	saː'oː'iː	saː'àː	NOUN	_	Number=Plur	29	mod	_	Gloss=hour.Plur
 31	dòːmin	dòːmin	ADP	_	_	27	mod	_	Gloss=in_order_to
 32	neːman	neːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	31	comp:obj	_	Gloss=look_for.Vnoun.Masc.Cons
 33	cèːton	ceːt-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	32	comp:obj	_	Gloss=save.Vnoun.Masc.Cons
@@ -213,7 +213,7 @@
 9	asìbitìn	asìbitìː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=hospital.Masc.Def
 10	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
 11	cêː	cêː	VERB	_	_	10	comp:aux	_	Gloss=say
-12	wai	wai	SCONJ	_	_	11	comp:obj	_	Gloss=allegedly
+12	wai	wai	PART	_	PartType=Disc	29	discourse	_	Gloss=alledgedly
 13	naːmàn	naːmàː	NOUN	_	Definite=Cons|Gender=Masc	29	subj	_	Gloss=meat.Masc.Cons
 14	macijîn	macijiː	NOUN	_	Definite=Def|Gender=Masc	13	mod	_	Gloss=snake.Masc.Def
 15	dà	dà	SCONJ	_	_	14	mod@relcl	_	Gloss=COMP
@@ -222,21 +222,21 @@
 18	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	15	comp:obj	_	Gloss=3Plur.Perf.Rel
 19	cînyeː	cînyeː	VERB	_	_	18	comp:aux	_	Gloss=eat
 20	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	15	conj:coord	_	Gloss=REL.Masc
-21	kuma	kuma	PART	_	_	20	discourse@top	_	Gloss=also
+21	kuma	kuma	PART	_	PartType=Disc	20	discourse@top	_	Gloss=also
 22	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	20	comp:obj	_	Gloss=3Masc.Perf.Rel
 23	kusa	kusa	VERB	_	_	22	comp:obl	_	Gloss=be_almost
-24	zamaː	zama	VERB	_	ExtPos=NOUN|Gender=Masc	23	comp:obj	_	Gloss=become.Vnoun.Masc
+24	zamaː	zama	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	23	comp:obj	_	Gloss=become.Vnoun.Masc
 25	sanàdin	sanàdiː	NOUN	_	Definite=Cons	24	comp:pred	_	Gloss=cause.Masc.Cons
 26	ajàlin	ajàliː	NOUN	_	Definite=Cons	25	mod	_	Gloss=end.Masc.Cons|SpaceAfter=No|wordform=ajàlinsù
 27	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	26	mod	_	Gloss=3Plur.Gen
 28	-	-	PUNCT	_	_	29	punct	_	Gloss=PUNCT
-29	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	12	comp:obj	_	Gloss=3Masc.Prog
+29	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	11	comp:obj	_	Gloss=3Masc.Prog
 30	ɗaya	ɗaya	NUM	_	_	29	comp:aux	_	Gloss=one
 31	dàgà	dàgà	ADP	_	_	30	mod	_	Gloss=from
 32	cikin	cikin	ADP	_	_	31	comp:obj	_	Gloss=inside
-33	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	34	mod	_	Gloss=type.Masc.Cons
+33	irìn	irìː	NOUN	_	_	34	mod@desc	_	Gloss=type_of
 34	màcìːzân	macìːjiː	NOUN	_	Definite=Def|Number=Plur	32	comp:obj	_	Gloss=snake.Plur.Def
-35	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	34	det	_	Gloss=ProxH
+35	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	34	det	_	Gloss=ProxH
 36	nèː	neː	PART	_	PartType=Foc	34	discourse@foc	_	Gloss=Emph
 37	màːsu	mài	PART	_	Number=Plur|PartType=Der	34	mod	_	Gloss=owner/doer_of.Plur
 38	dafìn	dafìː	NOUN	_	Definite=Cons|Gender=Masc	37	compound	_	Gloss=poison.Masc.Cons
@@ -246,10 +246,10 @@
 # sent_id = 08_Maciji__8
 # text = Sun kuma ƙaːràː dà cêːwaː baːàː cîn naːmànsù mùsammàn dai ganin yawàn kwàːnàkîn dà akà ɗaukàː anàː dafà macìːjîn kàːfin yà dàfu luɓus.
 1	Sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
-2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
+2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 3	ƙaːràː	ƙaːr-	VERB	_	_	1	comp:aux	_	Gloss=increase
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with
-5	cêːwaː	cêː	VERB	_	Gender=Fem	4	comp:obj	_	Gloss=say.Vnoun.Fem
+5	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:obj	_	Gloss=say.Vnoun.Fem
 6	baːàː	nàː	AUX	_	Aspect=Prog|Person=4|Polarity=Neg	5	comp:obj	_	Gloss=4.Prog.Neg
 7	cîn	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	Gloss=consume.Vnoun.Masc.Cons
 8	naːmàn	naːmàː	NOUN	_	Definite=Cons	7	comp:obj	_	Gloss=meat.Masc.Cons|SpaceAfter=No|wordform=naːmànsù
@@ -276,7 +276,7 @@
 1	Jàːmì'ân	jaːmì'iː	PROPN	_	Definite=Def|Number=Plur	2	subj	_	Gloss=leader.Plur.Def
 2	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
-4	kiràː	kiraː	VERB	_	Gender=Masc	3	comp:pred	_	Gloss=call.Vnoun.Masc
+4	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	3	comp:pred	_	Gloss=call.Vnoun.Masc
 5	gà	gà	ADP	_	_	4	comp:obl	_	Gloss=to
 6	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	5	comp:obj	_	Gloss=people.Plur.Def
 7	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=COMP
@@ -287,11 +287,11 @@
 12	dà	dà	SCONJ	_	_	4	comp:obl	_	Gloss=COMP
 13	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	12	comp:obj	_	Gloss=3Plur.Sub
 14	kìyàːyi	kiyaːy-	VERB	_	_	13	comp:aux	_	Gloss=avoid
-15	ɗaukàr̃	ɗauk-	VERB	_	Definite=Cons|Gender=Fem	14	comp:obj	_	Gloss=take.Vnoun.Fem.Cons
+15	ɗaukàr̃	ɗauk-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	14	comp:obj	_	Gloss=take.Vnoun.Fem.Cons
 16	gaːwàwwakin	gaːwàː	NOUN	_	Definite=Cons|Number=Plur	15	comp:obj	_	Gloss=corpse.Plur.Cons
 17	dàbboːbiː	dabbàː	NOUN	_	Number=Plur	16	mod	_	Gloss=animal.Plur
 18	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	16	mod@relcl	_	Gloss=3Plur.Prog
-19	tàfiyàː	tàfiyàː	VERB	_	ExtPos=NOUN|Gender=Fem	18	comp:aux	_	Gloss=go.Vnoun.Fem
+19	tàfiyàː	tàfiyàː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	18	comp:aux	_	Gloss=go.Vnoun.Fem
 20	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=with
 21	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	comp:obj	_	Gloss=3Plur.Nom
 22	gidaː	gidaː	NOUN	_	Gender=Masc	19	comp:obj@G	_	Gloss=home.Masc
@@ -306,13 +306,13 @@
 # sent_id = 08_Maciji__10
 # text = Hakà kuma jàːmì'an asìbitìn sun yi wani gàr̃gàɗiː gàme dà maːgungunàn kashè ƙwàːriː irìː dàbam dàbam waɗàndà manòːmaː kèː àmfàniː dà suː don kadà wasu ƙwàːriː sù laːlàːtaː musù àmfàːnin goːnaː.
 1	Hakà	hakà	ADV	_	_	5	mod	_	Gloss=thus
-2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
+2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 3	jàːmì'an	jaːmì'iː	NOUN	_	Definite=Cons|Number=Plur	5	subj	_	Gloss=leader.Plur.Cons
 4	asìbitìn	asìbitìː	NOUN	_	Definite=Def|Gender=Masc	3	mod	_	Gloss=hospital.Masc.Def
 5	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
 6	yi	yi	VERB	_	_	5	comp:aux	_	Gloss=do
 7	wani	wani	DET	_	Definite=Spec|Gender=Masc	8	det	_	Gloss=some.Masc.Spec
-8	gàr̃gàɗiː	gàr̃gàɗiː	NOUN	_	_	6	comp:pred	_	Gloss=recommendation.Masc
+8	gàr̃gàɗiː	gàr̃gàɗiː	NOUN	_	Gender=Masc	6	comp:pred	_	Gloss=recommendation.Masc
 9	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Stat	10	mod	_	Gloss=together
 10	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with
 11	maːgungunàn	maːgàniː	NOUN	_	Definite=Cons|ExtPos=NOUN|Number=Plur	10	comp:obj	_	Gloss=medicine.Plur.Cons|Idiom=Yes
@@ -322,7 +322,7 @@
 15	dàbam	dàbam	ADJ	_	_	14	mod	_	Gloss=different
 16	dàbam	dàbam	ADJ	_	_	15	conj:redup	_	Gloss=different
 17	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	11	mod@relcl	_	Gloss=REL.Plur
-18	manòːmaː	manòːmiː	NOUN	_	_	19	subj	_	Gloss=farmer.Plur
+18	manòːmaː	manòːmiː	NOUN	_	Number=Plur	19	subj	_	Gloss=farmer.Plur
 19	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	17	comp:obj	_	Gloss=Prog.Rel
 20	àmfàniː	àmfàniː	NOUN	_	Gender=Masc	19	comp:aux	_	Gloss=using.Masc
 21	dà	dà	ADP	_	_	20	comp:obl	_	Gloss=with
@@ -330,11 +330,11 @@
 23	don	don	SCONJ	_	_	20	mod	_	Gloss=in_order_to
 24	kadà	kadà	PART	_	PartType=Neg|Polarity=Neg	27	mod	_	Gloss=Neg
 25	wasu	wani	DET	_	Definite=Spec|Number=Plur	26	det	_	Gloss=some.Plur.Spec
-26	ƙwàːriː	ƙwàːroː	NOUN	_	_	27	subj	_	Gloss=insect.Plur
+26	ƙwàːriː	ƙwàːroː	NOUN	_	Number=Plur	27	subj	_	Gloss=insect.Plur
 27	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	23	comp:obj	_	Gloss=3Plur.Sub
 28	laːlàːtaː	laːlaːt-	VERB	_	_	27	comp:aux	_	Gloss=spoil
 29	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	28	comp:obl	_	Gloss=3Plur.Dat
 30	àmfàːnin	àmfàːniː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	Gloss=use.Masc.Cons
-31	goːnaː	goːnaː	NOUN	_	_	30	compound	_	Gloss=field.Fem|SpaceAfter=No
+31	goːnaː	goːnaː	NOUN	_	Gender=Fem	30	compound	_	Gloss=field.Fem|SpaceAfter=No
 32	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 

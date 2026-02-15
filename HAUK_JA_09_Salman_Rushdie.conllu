@@ -32,7 +32,7 @@
 15	Salman	Salman	PROPN	_	_	14	comp:obj	_	Gloss=Salman
 16	Rushdie	Rushdie	PROPN	_	_	15	flat@name	_	Gloss=Rushdie|SpaceAfter=No
 17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-18	wàːtòː	wàːtòː	PART	_	_	19	discourse	_	Gloss=that_is
+18	wàːtòː	wàːtòː	PART	_	PartType=Disc	19	discourse	_	Gloss=that_is
 19	mar̃ùbùːcin	mar̃ùbùːciː	NOUN	_	Definite=Cons|Gender=Masc	15	conj:appos	_	Gloss=writer.Masc.Cons
 20	littaːfìn	littaːfìː	NOUN	_	Definite=Cons|Gender=Masc	19	mod	_	Gloss=book.Masc.Cons
 21	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	20	det	_	Gloss=ProxH
@@ -47,7 +47,7 @@
 # text = À gòːbe kuma zaː'à bugà littaːfìn à cikin Japananciː.
 1	À	à	ADP	_	_	4	mod	_	Gloss=at
 2	gòːbe	gòːbe	ADV	_	_	1	comp:obj	_	Gloss=tomorrow
-3	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
+3	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 4	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	0	root	_	Gloss=4.Fut
 5	bugà	bug-	VERB	_	_	4	comp:aux	_	Gloss=print
 6	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	5	comp:obj	_	Gloss=book.Masc.Def
@@ -82,7 +82,7 @@
 22	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 23	dà	dà	ADP	_	_	0	root	_	Gloss=with
 24	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	23	comp:obj	_	Gloss=sign.Fem
-25	bà	bà	PART	_	Polarity=Neg	26	mod	_	Gloss=Neg
+25	bà	bà	PART	_	PartType=Neg|Polarity=Neg	26	mod	_	Gloss=Neg
 26	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	24	mod@relcl	_	Gloss=4.Fut
 27	sàːmi	saːm-	VERB	_	_	26	comp:aux	_	Gloss=get
 28	daːmar̃	daːmaː	NOUN	_	Definite=Cons|Gender=Fem	27	comp:obj	_	Gloss=opportunity.Fem.Cons
@@ -91,7 +91,7 @@
 31	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	30	comp:obj	_	Gloss=3Masc.Acc
 32	gòːbe	gòːbe	ADV	_	_	30	mod	_	Gloss=tomorrow
 33	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	32	det	_	Gloss=Def
-34	ba	ba	PART	_	PartType=Ill|Polarity=Neg	27	mod	_	Gloss=Neg|SpaceAfter=No
+34	ba	ba	PART	_	PartType=Neg|Polarity=Neg	27	mod	_	Gloss=Neg|SpaceAfter=No
 35	.	.	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__6
@@ -317,7 +317,7 @@
 1	Àsheː	àsheː	INTJ	_	_	6	discourse	_	Gloss=alas
 2	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	dislocated@subj	_	Gloss=3Plur.Nom
 3	maː	maː	PART	_	PartType=Top	2	discourse@top	_	Gloss=even
-4	ɗîn	ɗin	DET	_	Definite=Def|Gender=Masc	2	det	_	Gloss=Def
+4	ɗîn	ɗin	DET	_	Definite=Def	2	det	_	Gloss=Def
 5	samsam	samsan	IDEO	_	_	6	mod	_	Gloss=absolutely
 6	baːsàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3|Polarity=Neg	0	root	_	Gloss=3Plur.Prog.Neg
 7	sôn	soː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	Gloss=want.Vnoun.Masc.Cons
@@ -405,7 +405,7 @@
 17	ɗaukàr̃	ɗauk-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	16	comp:aux	_	Gloss=take.Vnoun.Fem.Cons
 18	màganàː	màganàː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=speech.Fem
 19	-	-	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-20	wàːtòː	wàːtòː	PART	_	_	21	discourse	_	Gloss=that_is
+20	wàːtòː	wàːtòː	PART	_	PartType=Disc	21	discourse	_	Gloss=that_is
 21	maːkar̃ufôː	maːkar̃ufôː	NOUN	_	Gender=Masc	13	conj:appos	_	Gloss=microphone.Masc
 22	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	9	parataxis@conj	_	Gloss=3Masc.Perf.Rel
 23	jeː	jeː	VERB	_	_	22	comp:aux	_	Gloss=go
@@ -485,7 +485,7 @@
 32	cikin	cikin	ADP	_	_	29	comp:obl	_	Gloss=inside
 33	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	34	det	_	Gloss=ProxS.Masc
 34	àl'amàr̃iː	àl'amàr̃iː	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=day.Masc
-35	ba	ba	PART	_	PartType=Ill|Polarity=Neg	29	mod	_	Gloss=Neg|SpaceAfter=No
+35	ba	ba	PART	_	PartType=Neg|Polarity=Neg	29	mod	_	Gloss=Neg|SpaceAfter=No
 36	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie__20
@@ -568,7 +568,7 @@
 1	À	à	ADP	_	_	13	mod	_	Gloss=at
 2	yâu	yâu	ADV	_	_	1	comp:obj	_	Gloss=today
 3	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	2	det	_	Gloss=Def
-4	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
+4	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 5	ɗaya	ɗaya	NUM	_	_	13	subj	_	Gloss=one
 6	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=from
 7	cikin	cikin	ADP	_	_	6	comp:obj	_	Gloss=inside
@@ -581,7 +581,7 @@
 14	cêː	cêː	VERB	_	_	13	comp:aux	_	Gloss=say
 15	lalleː	lalleː	ADV	_	PartType=Top	18	mod	_	Gloss=certainly
 16	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	dislocated@subj	_	Gloss=3Plur.Nom
-17	bà	bà	PART	_	Polarity=Neg	18	mod	_	Gloss=Neg
+17	bà	bà	PART	_	PartType=Neg|Polarity=Neg	18	mod	_	Gloss=Neg
 18	zaːsù	zâi	AUX	_	Number=Plur|Person=3|Tense=Fut	14	comp:obj	_	Gloss=3Plur.Fut
 19	ƙyaːlè	ƙyaːl-	VERB	_	_	18	comp:aux	_	Gloss=allow
 20	Gianni	Gianni	PROPN	_	_	19	comp:obj	_	Gloss=Gianni
@@ -589,7 +589,7 @@
 22	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=with
 23	rân	râi	NOUN	_	Definite=Cons|Gender=Masc	22	comp:obj	_	Gloss=life.Masc.Cons|SpaceAfter=No|wordform=rânsà
 24	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	23	mod	_	Gloss=3Masc.Gen
-25	ba	ba	PART	_	PartType=Ill|Polarity=Neg	18	mod	_	Gloss=Neg|SpaceAfter=No
+25	ba	ba	PART	_	PartType=Neg|Polarity=Neg	18	mod	_	Gloss=Neg|SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 27	dòːmin	dòːmin	SCONJ	_	_	18	mod	_	Gloss=because
 28	kùwa	kùwa	PART	_	PartType=Top	27	discourse@top	_	Gloss=in_fact
@@ -623,11 +623,11 @@
 17	bàkan	bàkaː	NOUN	_	Definite=Cons|Gender=Masc	16	comp:obj	_	Gloss=bow.Masc.Cons|SpaceAfter=No
 18	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	17	mod	_	Gloss=3Masc.Gen
 19	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-20	bàː	bàː	PART	_	PartType=Ill|Polarity=Neg	21	mod	_	Gloss=Neg
+20	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	21	mod	_	Gloss=Neg
 21	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	13	parataxis@conj	_	Gloss=3Masc.Fut
 22	jaː	jaː	VERB	_	_	21	comp:aux	_	Gloss=pull
 23	dà	dà	ADP	_	_	22	comp:obl	_	Gloss=with
 24	baːya	baːya	ADV	_	_	23	comp:obj	_	Gloss=back
-25	ba	ba	PART	_	PartType=Ill|Polarity=Neg	21	mod	_	Gloss=Neg|SpaceAfter=No
+25	ba	ba	PART	_	PartType=Neg|Polarity=Neg	21	mod	_	Gloss=Neg|SpaceAfter=No
 26	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 

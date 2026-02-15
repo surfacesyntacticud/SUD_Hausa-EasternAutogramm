@@ -96,12 +96,12 @@
 12	tsawon	tsawoː	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	Gloss=length.Masc.Cons
 13	wàtànniː	watàː	NOUN	_	Number=Plur	12	mod	_	Gloss=month.Plur
 14	shidà	shidà	NUM	_	_	13	mod:num	_	Gloss=six
-15	bà	bà	PART	_	Polarity=Neg	17	mod	_	Gloss=Neg
+15	bà	bà	PART	_	PartType=Neg|Polarity=Neg	17	mod	_	Gloss=Neg
 16	tàːre	tàːre	ADV	_	_	17	mod	_	Gloss=together
 17	dà	dà	ADP	_	_	9	mod	_	Gloss=with
 18	tùhumàr̃	tuhum-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	17	comp:obj	_	Gloss=charge.Vnoun.Fem.Cons
 19	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	18	comp:obj	_	Gloss=3Masc.Gen
-20	ba	ba	PART	_	PartType=Ill|Polarity=Neg	17	mod	_	Gloss=Neg|SpaceAfter=No
+20	ba	ba	PART	_	PartType=Neg|Polarity=Neg	17	mod	_	Gloss=Neg|SpaceAfter=No
 21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 22	in	in	SCONJ	_	_	9	mod	_	Gloss=if
 23	an	yaː	AUX	_	Aspect=Perf|Person=4	22	comp:obj	_	Gloss=4.Perf
@@ -116,7 +116,7 @@
 32	maƙar̃ƙashìyaː	maƙar̃ƙashìyaː	NOUN	_	Gender=Fem	27	comp:pred	_	Gloss=sabotage.Fem|SpaceAfter=No
 33	,	,	PUNCT	_	_	36	punct	_	Gloss=PUNCT
 34	koː	koː	CCONJ	_	_	36	cc	_	Gloss=or
-35	kuma	kuma	PART	_	_	34	discourse@top	_	Gloss=also
+35	kuma	kuma	PART	_	PartType=Disc	34	discourse@top	_	Gloss=also
 36	yi	yi	VERB	_	_	27	conj:coord	_	Gloss=do
 37	wà	wà	ADP	_	Case=Dat	36	comp:obl	_	Gloss=Dat
 38	tsàron	tsàroː	NOUN	_	Definite=Cons|Gender=Masc	37	comp:obj	_	Gloss=security.Masc.Cons
@@ -127,7 +127,7 @@
 # sent_id = 10_Daurin_Siyasa__6
 # text = Tanàː kuma dà iːkòn cîː gàba dà tsarè mùtumìn har̃ sai illaː maː shaː Àllaːhù.
 1	Tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Prog
-2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
+2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 3	dà	dà	ADP	_	_	1	comp:pred	_	Gloss=with
 4	iːkòn	iːkòː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=power.Masc.Cons
 5	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	mod	_	Gloss=proceed.Vnoun.Masc
@@ -146,7 +146,7 @@
 # sent_id = 10_Daurin_Siyasa__7
 # text = Ìdan kuma akà tsarè mùtûm bìsàː wannàn Dòːkaː ta Biyu, tòː baːbù wata koːtù à Nàːjeːr̃iyàː dà zaːtà iyà sâː bàːkiː .
 1	Ìdan	in	SCONJ	_	_	13	mod	_	Gloss=if
-2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
+2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 3	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	1	comp:obj	_	Gloss=4.Perf.Rel
 4	tsarè	tsar-	VERB	_	_	3	comp:aux	_	Gloss=imprison
 5	mùtûm	mùtûm	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=man.Masc
@@ -156,7 +156,7 @@
 9	ta	ta	PART	_	Case=Gen|Gender=Fem|PartType=Case	8	mod	_	Gloss=Gen.Fem
 10	Biyu	biyu	NUM	_	_	9	comp:obj	_	Gloss=two|SpaceAfter=No
 11	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-12	tòː	tòː	INTJ	_	_	13	discourse	_	Gloss=well
+12	tòː	tòː	INTJ	_	PartType=Disc	13	discourse	_	Gloss=well
 13	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 14	wata	wani	DET	_	Definite=Spec|Gender=Fem	15	det	_	Gloss=some.Fem.Spec
 15	koːtù	koːtù	NOUN	_	Gender=Fem|PronType=Ind	13	subj	_	Gloss=court.Fem
@@ -199,9 +199,9 @@
 26	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=COMP
 27	bàtà	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Polarity=Neg	26	comp:obj	_	Gloss=3Fem.Perf.Neg
 28	daːcèː	daːt-	VERB	_	_	27	comp:aux	_	Gloss=be_appropriate
-29	ba	ba	PART	_	PartType=Ill|Polarity=Neg	28	mod	_	Gloss=Neg
+29	ba	ba	PART	_	PartType=Neg|Polarity=Neg	28	mod	_	Gloss=Neg
 30	-	-	PUNCT	_	_	32	punct	_	Gloss=PUNCT
-31	wàːtòː	wàːtòː	PART	_	_	32	discourse	_	Gloss=that_is
+31	wàːtòː	wàːtòː	PART	_	PartType=Disc	32	discourse	_	Gloss=that_is
 32	anàː	nàː	AUX	_	Aspect=Prog|Person=4	17	conj:coord	_	Gloss=4.Prog
 33	tsarèː	tsar-	VERB	_	_	32	comp:aux	_	Gloss=imprison
 34	mutàneː	mùtûm	NOUN	_	Number=Plur	33	comp:obj	_	Gloss=man.Plur
@@ -225,12 +225,12 @@
 52	laːfiyàr̃	laːfiyàː	NOUN	_	Definite=Cons|Gender=Fem	51	comp:obj	_	Gloss=health.Fem.Cons
 53	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	52	mod	_	Gloss=country.Fem|wordform=kasaː
 54	koː	koː	CCONJ	_	_	56	cc	_	Gloss=or
-55	kuma	kuma	PART	_	_	54	discourse@top	_	Gloss=also
+55	kuma	kuma	PART	_	PartType=Disc	54	discourse@top	_	Gloss=also
 56	gà	gà	ADP	_	_	51	conj:coord	_	Gloss=to
 57	tattalin	tattaliː	NOUN	_	Definite=Cons|Gender=Masc	56	comp:obj	_	Gloss=planning.Masc.Cons
 58	ar̃zìkin	ar̃zìkiː	NOUN	_	Definite=Cons|Gender=Masc	57	mod	_	Gloss=wealth.Masc.Cons
 59	ƙasaː	ƙasaː	VERB	_	Gender=Fem	58	mod	_	Gloss=country.Fem|wordform=kasaː
-60	ba	ba	PART	_	PartType=Ill|Polarity=Neg	46	mod	_	Gloss=Neg|SpaceAfter=No
+60	ba	ba	PART	_	PartType=Neg|Polarity=Neg	46	mod	_	Gloss=Neg|SpaceAfter=No
 61	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
 # sent_id = 10_Daurin_Siyasa__9
@@ -283,7 +283,7 @@
 21	kaːsuwancìn	kaːsuwancìː	NOUN	_	Definite=Cons|Gender=Masc	20	mod	_	Gloss=business.Masc.Cons|SpaceAfter=No
 22	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	20	mod	_	Gloss=3Masc.Gen
 23	an	yaː	AUX	_	Aspect=Perf|Person=4	18	parataxis@conj	_	Gloss=4.Perf
-24	kuma	kuma	PART	_	_	23	discourse@top	_	Gloss=also
+24	kuma	kuma	PART	_	PartType=Disc	23	discourse@top	_	Gloss=also
 25	tsarèː	tsar-	VERB	_	_	23	comp:aux	_	Gloss=imprison
 26	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	25	comp:obj	_	Gloss=3Masc.Acc
 27	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	25	mod	_	Gloss=up_to
@@ -309,16 +309,16 @@
 47	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Relative=Rel	46	comp:obj	_	Gloss=3Fem.Prog.Rel
 48	bîn	bi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	47	comp:aux	_	Gloss=owe.Vnoun.Masc.Cons|SpaceAfter=No
 49	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	48	mod	_	Gloss=3Masc.Gen
-50	ba	ba	PART	_	PartType=Ill|Polarity=Neg	43	mod	_	Gloss=Neg
+50	ba	ba	PART	_	PartType=Neg|Polarity=Neg	43	mod	_	Gloss=Neg
 51	-	-	PUNCT	_	_	53	punct	_	Gloss=PUNCT
-52	wàːtòː	wàːtòː	PART	_	_	53	discourse	_	Gloss=that_is
+52	wàːtòː	wàːtòː	PART	_	PartType=Disc	53	discourse	_	Gloss=that_is
 53	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	42	conj:dicto	_	Gloss=3Masc.Perf.Neg
 54	koː	koː	ADV	_	_	55	mod	_	Gloss=even
 55	saːtar̃	saːt-	VERB	_	Voice=Cau	53	comp:aux	_	Gloss=steal.Cau
 56	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	55	comp:obl	_	Gloss=3Masc.Dat
 57	wani	wani	DET	_	Definite=Spec|Gender=Masc	58	det	_	Gloss=some.Masc.Spec
 58	àbù	àbù	NOUN	_	Gender=Masc	55	comp:obj	_	Gloss=thing.Masc
-59	ba	ba	PART	_	PartType=Ill|Polarity=Neg	55	mod	_	Gloss=Neg|SpaceAfter=No
+59	ba	ba	PART	_	PartType=Neg|Polarity=Neg	55	mod	_	Gloss=Neg|SpaceAfter=No
 60	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 10_Daurin_Siyasa__11
@@ -354,10 +354,10 @@
 # text = baːyan hakà kuma yaː ji wai waɗàndà akà ɗaurèː cikin shèːkàruː ukùn dà sukà shigèː sun wucè mùtûm dubuː, à ƙàrƙashin wannàn Dòːkaː ta Biyu.
 1	baːyan	baːyan	ADP	_	_	4	mod	_	Gloss=after
 2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=thus
-3	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
+3	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 5	ji	ji	VERB	_	_	4	comp:aux	_	Gloss=hear
-6	wai	wai	SCONJ	_	_	5	comp:obj	_	Gloss=allegedly
+6	wai	wai	PART	_	PartType=Disc	16	discourse	_	Gloss=alledgedly
 7	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	16	subj	_	Gloss=REL.Plur
 8	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	7	mod@relcl	_	Gloss=4.Perf.Rel
 9	ɗaurèː	ɗaur-	VERB	_	_	8	comp:aux	_	Gloss=tie
@@ -367,7 +367,7 @@
 13	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 14	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	13	comp:obj	_	Gloss=3Plur.Perf.Rel
 15	shigèː	shig-	VERB	_	_	14	comp:aux	_	Gloss=enter
-16	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	6	comp:obj	_	Gloss=3Plur.Perf
+16	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	5	comp:obj	_	Gloss=3Plur.Perf
 17	wucè	wut-	VERB	_	_	16	comp:aux	_	Gloss=pass
 18	mùtûm	mùtûm	NOUN	_	Gender=Masc	17	comp:obj	_	Gloss=man.Masc
 19	dubuː	dubuː	NUM	_	_	18	mod:num	_	Gloss=thousand|SpaceAfter=No

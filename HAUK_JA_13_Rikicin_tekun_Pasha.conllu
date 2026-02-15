@@ -63,7 +63,7 @@
 
 # sent_id = 13_Rikicin_tekun_Pasha__3
 # text = Mài Mar̃tabàː yaː yi wannàn kiràn neː baːyan zàngà-zangà gùdaː biyu dà akà yi à areːwacin ƙasâr̃, indà akà cêː mutàːneː dà daːmaː sunàː goːyon baːyan shùːgàban ƙasar̃ Ìr̃aːƙì, wàːtòː " Saddam Hussein" .
-1	Mài	mài	PART	_	Number=Sing	3	subj	_	Gloss=owner_of.Sing
+1	Mài	mài	PART	_	Number=Sing|PartType=Der	3	subj	_	Gloss=owner_of.Sing
 2	Mar̃tabàː	mar̃tabàː	NOUN	_	Gender=Fem	1	compound	_	Gloss=highness.Fem
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 4	yi	yi	VERB	_	_	3	comp:aux	_	Gloss=do
@@ -94,7 +94,7 @@
 29	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	30	mod@desc	_	Gloss=country.Fem.Cons
 30	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	28	mod	_	Gloss=Irak|SpaceAfter=No
 31	,	,	PUNCT	_	_	34	punct	_	Gloss=PUNCT
-32	wàːtòː	wàːtòː	PART	_	_	34	discourse	_	Gloss=that_is
+32	wàːtòː	wàːtòː	PART	_	PartType=Disc	34	discourse	_	Gloss=that_is
 33	"	"	PUNCT	_	_	34	punct	_	Gloss=PUNCT
 34	Saddam	Saddam	PROPN	_	_	28	comp:appos	_	Gloss=Saddam
 35	Hussein	Hussein	PROPN	_	_	34	flat@name	_	Gloss=Hussein|SpaceAfter=No
@@ -123,9 +123,9 @@
 17	màganàː	màganàː	NOUN	_	Gender=Fem	16	comp:aux	_	Gloss=speech.Fem
 18	à	à	ADP	_	ExtPos=ADV	17	mod	_	Gloss=at|Idiom=Yes
 19	kâi	kâi	NOUN	_	Gender=Masc	18	comp:obj	_	Gloss=head.Masc|InIdiom=Yes
-20	ba	ba	PART	_	PartType=Ill|Polarity=Neg	9	mod	_	Gloss=Neg|SpaceAfter=No
+20	ba	ba	PART	_	PartType=Neg|Polarity=Neg	9	mod	_	Gloss=Neg|SpaceAfter=No
 21	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
-22	tòː	tòː	INTJ	_	_	30	discourse	_	Gloss=well
+22	tòː	tòː	INTJ	_	PartType=Disc	30	discourse	_	Gloss=well
 23	àmmaː	àmmaː	CCONJ	_	_	30	cc	_	Gloss=but
 24	à	à	ADP	_	ExtPos=ADP	30	mod	_	Gloss=at
 25	'yan	ɗan	ADJ	_	Definite=Cons|Number=Plur	26	mod	_	Gloss=little.Plur.Cons
@@ -226,7 +226,7 @@
 # sent_id = 13_Rikicin_tekun_Pasha__7a
 # text = Wani mài màganàː dà yaːwun Sarkin Mùsùlmiː yaː jaddàːdà cêːwaː nuːnà ƙîn jinin Amìr̃kà à Nàːjeːr̃iyàː r̃a'àyin wasu 'yan tsìràːruː nèː, kuma shùːgàbànnin mùsùlmiː sunàː hàƙuriː dà suː nèː kawài sabòːdà 'yancìn dà akèː dà shiː à ƙasâr̃ na fàɗar̃ r̃a'àyiː .
 1	Wani	waeː	PROPN	_	Definite=Spec|Number=Plur|PronType=Dem	8	subj	_	Gloss=some.Masc.Spec
-2	mài	mài	PART	_	Number=Sing	1	mod	_	Gloss=owner/doer_of.Sing
+2	mài	mài	PART	_	Number=Sing|PartType=Der	1	mod	_	Gloss=owner/doer_of.Sing
 3	màganàː	màganàː	NOUN	_	Gender=Fem	2	comp:obj	_	Gloss=speech.Fem
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with|wordform=da
 5	yaːwun	yaːwuː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	Gloss=saliva.Masc.Cons
@@ -320,7 +320,7 @@
 18	yi	yi	VERB	_	_	17	comp:aux	_	Gloss=do
 19	hanzarin	hanzariː	NOUN	_	Definite=Cons	18	comp:pred	_	Gloss=haste.Masc.Cons
 20	kâiwaː	kai	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	19	mod	_	Gloss=carry.Vnoun.Fem
-21	bàː	bàː	PART	_	PartType=Ill|Polarity=Neg	23	mod	_	Gloss=Neg
+21	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	23	mod	_	Gloss=Neg
 22	tàːre	tàːre	ADV	_	_	23	mod	_	Gloss=together
 23	dà	dà	ADP	_	_	18	mod	_	Gloss=with|wordform=ɗà
 24	barìn	barìː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	23	comp:obj	_	Gloss=leave.Vnoun.Masc.Cons
@@ -333,7 +333,7 @@
 31	daːmar̃	daːmaː	NOUN	_	Definite=Cons	24	comp:obj@T	_	Gloss=opportunity.Fem.Cons
 32	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	31	comp:obj	_	Gloss=do.Vnoun.Masc.Cons
 33	aikìː	aikìː	NOUN	_	Gender=Masc	32	comp:pred	_	Gloss=work.Masc
-34	ba	ba	PART	_	PartType=Ill|Polarity=Neg	23	mod	_	Gloss=Neg|SpaceAfter=No
+34	ba	ba	PART	_	PartType=Neg|Polarity=Neg	23	mod	_	Gloss=Neg|SpaceAfter=No
 35	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha__9
@@ -521,7 +521,7 @@
 1	Ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	0	root	_	Gloss=see.Vnoun.Masc.Cons
 2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=thus
 3	neː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
-4	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
+4	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	1	comp:cleft	_	Gloss=3Masc.Perf.Rel
 6	sâː	sâː	VERB	_	_	5	comp:aux	_	Gloss=cause
 7	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	subj	_	Gloss=3Plur.Nom
@@ -574,7 +574,7 @@
 17	kuma	kuma	PART	_	PartType=Disc	16	discourse@top	_	Gloss=also
 18	Kanòː	Kanòː	PROPN	_	_	15	conj:coord	_	Gloss=Kanòː|SpaceAfter=No
 19	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-20	tòː	tòː	INTJ	_	_	32	discourse	_	Gloss=well
+20	tòː	tòː	INTJ	_	PartType=Disc	32	discourse	_	Gloss=well
 21	àmmaː	àmmaː	CCONJ	_	_	32	cc	_	Gloss=but
 22	kiràn	kiraː	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	32	subj	_	Gloss=call.Vnoun.Masc.Def
 23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=COMP|wordform=da
@@ -588,8 +588,8 @@
 31	laːfiyàː	laːfiyàː	NOUN	_	Definite=Ind|Gender=Fem	30	comp:obj	_	Gloss=health.Fem
 32	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	conj:coord	_	Gloss=3Masc.Perf
 33	nuːnàː	nuːn-	VERB	_	_	32	comp:aux	_	Gloss=show
-34	kèːnan	kèːnan	PART	_	_	33	discourse@foc	_	Gloss=Emph
-35	àkwai	àkwai	PART	_	_	33	comp:obj	_	Gloss=there_is
+34	kèːnan	kèːnan	PART	_	PartType=Foc	33	discourse@foc	_	Gloss=Emph
+35	àkwai	àkwai	PART	_	PartType=Pred	33	comp:obj	_	Gloss=there_is
 36	yìːwuwar̃	yìːwuwaː	NOUN	_	Definite=Cons|Gender=Fem	35	subj	_	Gloss=possibility.Fem.Cons
 37	ɓarkèːwar̃	ɓark-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	36	mod	_	Gloss=break_out.Vnoun.Fem.Cons|wordform=barkeːwar
 38	taːshìn	taːs-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	37	mod	_	Gloss=rise.Vnoun.Masc.Cons
