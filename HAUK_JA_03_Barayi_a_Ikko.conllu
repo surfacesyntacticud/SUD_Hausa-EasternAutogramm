@@ -1,4 +1,6 @@
-# sent_id = 03_Barayi_a_Ikko__1
+# sent_id = 03_Barayi_a_Ikko_1
+# text_en = Policemen and robbers clashed in Lagos
+# text_ortho= An gwabzàː tsàkaːnin ꞌyan sàndaː dà ɓàràːyiː à Ìkko
 # text = an gwabzàː tsàkaːnin ꞌyan sàndaː dà ɓàràːyiː à Ìkko
 1	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 2	gwabzàː	gwabz-	VERB	_	_	1	comp:aux	_	Gloss=clash
@@ -10,7 +12,9 @@
 8	à	à	ADP	_	_	2	mod	_	Gloss=at
 9	Ìkko	Ìkko	PROPN	_	_	8	comp:obj	_	Gloss=Lagos
 
-# sent_id = 03_Barayi_a_Ikko__2a
+# sent_id = 03_Barayi_a_Ikko_2a
+# text_en = Yesterday night, in Lagos, armed policemen found some robbers trying to break the door of the "First Bank" in an attempt to penetrate inside. 
+# text_ortho= Jiyà dà dare à bir̃nin Ìkko wasu ꞌyan sàndaː màːsu ɗàuke dà màkàːmai sukà iskè wasu ɓàràːyiː sunàː ƙòːƙariː sù fasà ƙoːfàr̃ bankìn " First Bank" don sù shìga ciki .
 # text = jiyà dà dare à bir̃nin Ìkko wasu ꞌyan sàndaː màːsu ɗàuke dà màkàːmai sukà iskè wasu ɓàràːyiː sunàː ƙòːƙariː sù fasà ƙoːfàr̃ bankìn " First Bank" don sù shìga ciki .
 1	jiyà	jiyà	ADV	_	_	14	discourse	_	Gloss=yesterday
 2	dà	dà	ADP	_	_	1	mod	_	Gloss=with
@@ -45,7 +49,9 @@
 31	ciki	ciki	ADV	_	_	30	comp:obl	_	Gloss=inside
 32	.	.	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 
-# sent_id = 03_Barayi_a_Ikko__2b
+# sent_id = 03_Barayi_a_Ikko_2b
+# text_en = The "First Bank" is the largest bank in Nigeria. 
+# text_ortho= Bankìn " First Bank" shiː nèː kuma bankìː mafìː girmaː à cikin ƙasar̃ Nàːjeːr̃iyàː.
 # text = bankìn " First Bank" shiː nèː kuma bankìː mafìː girmaː à cikin ƙasar̃ Nàːjeːr̃iyàː.
 1	bankìn	bankìː	NOUN	_	Definite=Cons|Gender=Masc	3	mod@desc	_	Gloss=bank.Masc.Cons
 2	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT|wordform=‘
@@ -64,7 +70,9 @@
 15	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	13	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 16	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
-# sent_id = 03_Barayi_a_Ikko__3
+# sent_id = 03_Barayi_a_Ikko_3
+# text_en = Well, these policement who were patrolling the area stopped to see what was happening. 
+# text_ortho= Tòː waɗànnân ꞌyan sàndaː dà kèː sintir̃iː à wurîn sai sukà tsayàː dòːmin ganin àbîn dà kèː fàːruwaː.
 # text = tòː waɗànnân ꞌyan sàndaː dà kèː sintir̃iː à wurîn sai sukà tsayàː dòːmin ganin àbîn dà kèː fàːruwaː.
 1	tòː	tòː	INTJ	_	_	11	discourse	_	Gloss=well
 2	waɗànnân	wannàn	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	3	det	_	Gloss=ProxS.Plur
@@ -86,7 +94,9 @@
 18	fàːruwaː	faːr-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	17	comp:aux	_	Gloss=happen.Vnoun.Fem|SpaceAfter=No
 19	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
-# sent_id = 03_Barayi_a_Ikko__4
+# sent_id = 03_Barayi_a_Ikko_4
+# text_en = When they came out of their car, then the people who were in front of the bank started showering them with bullets. 
+# text_ortho= Loːkàcîn dà sukà fitoː dàgà cikin moːtàr̃sù , sai mutàːnên dà kèː gàban bankìn sukà faːrà yi musù ruwan hàr̃saːshìː.
 # text = loːkàcîn dà sukà fitoː dàgà cikin moːtàr̃sù , sai mutàːnên dà kèː gàban bankìn sukà faːrà yi musù ruwan hàr̃saːshìː.
 1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	16	mod	_	Gloss=time.Masc.Def
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
@@ -111,7 +121,9 @@
 21	hàr̃saːshìː	hàr̃saːshìː	NOUN	_	Gender=Masc	20	mod	_	Gloss=bullet.Masc|SpaceAfter=No
 22	.	.	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 
-# sent_id = 03_Barayi_a_Ikko__5
+# sent_id = 03_Barayi_a_Ikko_5
+# text_en = They, the policemen, suddenly started retaliating with shooting for twenty minutes. 
+# text_ortho= Suː kuma ꞌyan sàndân nan dà nan sukà shìga mùsaːyar̃ wutaː har̃ mintìː àshìr̃in.
 # text = suː kuma ꞌyan sàndân nan dà nan sukà shìga mùsaːyar̃ wutaː har̃ mintìː àshìr̃in.
 1	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	dislocated@subj	_	Gloss=3Plur.Nom
 2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
@@ -129,7 +141,9 @@
 14	àshìr̃in	àshìr̃in	NUM	_	_	13	mod:num	_	Gloss=twenty|SpaceAfter=No
 15	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
-# sent_id = 03_Barayi_a_Ikko__6
+# sent_id = 03_Barayi_a_Ikko_6
+# text_en = When the dust stettled down, then the policemen discoverd seven human corpses. 
+# text_ortho= Loːkàcîn dà ƙùːraː ta lafàː, sai ꞌyan sàndân sukà gaːnoː gàːwàwwakin mutàːneː bakwài.
 # text = loːkàcîn dà ƙùːraː ta lafàː, sai ꞌyan sàndân sukà gaːnoː gàːwàwwakin mutàːneː bakwài.
 1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	10	mod	_	Gloss=time.Masc.Def
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
@@ -147,7 +161,9 @@
 14	bakwài	bakwài	NUM	_	_	13	mod:num	_	Gloss=seven|SpaceAfter=No
 15	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
-# sent_id = 03_Barayi_a_Ikko__7
+# sent_id = 03_Barayi_a_Ikko_7
+# text_en = The soldiers' spokesman said that the men who tried to do this burglary were at least thirteen, and he was sure that the other six that escaped were wounded. 
+# text_ortho= Kàːkàːkin ꞌyan sàndaː ya cèː mutàːnên dà sukà yi ƙòːkarin yîn wannàn saːtàː sun kai à ƙallà suː goːmà shâː ukù neː, kuma yaː tabbàtaː sauraː gùdaː shidàn dà sukà gudù duk sun sàːmi raunukàː.
 # text = kàːkàːkin ꞌyan sàndaː ya cèː mutàːnên dà sukà yi ƙòːkarin yîn wannàn saːtàː sun kai à ƙallà suː goːmà shâː ukù neː, kuma yaː tabbàtaː sauraː gùdaː shidàn dà sukà gudù duk sun sàːmi raunukàː.
 1	kàːkàːkin	kàːkàːkiː	NOUN	_	Definite=Cons	4	subj	_	Gloss=spokesman.Masc.Cons
 2	ꞌyan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	1	mod	_	Gloss=child.Plur.Cons
@@ -187,7 +203,9 @@
 36	raunukàː	raunìː	NOUN	_	Number=Plur	35	comp:obj	_	Gloss=injury.Plur|SpaceAfter=No
 37	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
-# sent_id = 03_Barayi_a_Ikko__8
+# sent_id = 03_Barayi_a_Ikko_8
+# text_en = He also called on all the hospitals to report about anyone who went to their place to be treated for these injuries caused by firearms. 
+# text_ortho= Yaː kuma yi kiràː gà dukkàn asibitoːciː dà sù kai r̃àːhoːtòn duk mùtumìn dà ya jeː wurinsù dòːmin saːmùn maːgàniː danganèː dà irìn wannàn rauniː na har̃bìn bindigàː.
 # text = yaː kuma yi kiràː gà dukkàn asibitoːciː dà sù kai r̃àːhoːtòn duk mùtumìn dà ya jeː wurinsù dòːmin saːmùn maːgàniː danganèː dà irìn wannàn rauniː na har̃bìn bindigàː.
 1	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
@@ -220,7 +238,9 @@
 29	bindigàː	bindigàː	NOUN	_	Gender=Fem	28	mod	_	Gloss=gun.Fem|SpaceAfter=No
 30	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
-# sent_id = 03_Barayi_a_Ikko__9
+# sent_id = 03_Barayi_a_Ikko_9
+# text_en = While that was happening, the headquarters of Lagos police explained that the number of burglaries and thefts that were committed in Nigeria exceeds what was done in the last five years. 
+# text_ortho= Yàːyîn dà hakàn kèː fàːruwaː, hêdkwatàr̃ ꞌyan sàndân à bir̃nin Ìkko taː bayyànà cêːwaː yawàn fàshe-fàshe dà sàːce-sàːcên dà akèː yîː à cikin Nàːjeːr̃iyàr̃ yaː fi irìn waɗàndà akà yi cikin shèːkàruː biyûn dà sukà wucèː.
 # text = yàːyîn dà hakàn kèː fàːruwaː, hêdkwatàr̃ ꞌyan sàndân à bir̃nin Ìkko taː bayyànà cêːwaː yawàn fàshe-fàshe dà sàːce-sàːcên dà akèː yîː à cikin Nàːjeːr̃iyàr̃ yaː fi irìn waɗàndà akà yi cikin shèːkàruː biyûn dà sukà wucèː.
 1	yàːyîn	yàːyîː	SCONJ	_	PronType=Rel	13	mod	_	Gloss=when
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
@@ -261,7 +281,9 @@
 37	wucèː	wut-	VERB	_	_	36	comp:aux	_	Gloss=pass|SpaceAfter=No
 38	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
-# sent_id = 03_Barayi_a_Ikko__10
+# sent_id = 03_Barayi_a_Ikko_10
+# text_en = The declaration said that one thousand three hundred and thirty eight thefts were committed by robbers in the city last year, although this number does not reach the quantity of thefts that were committed in the year one thousand nine hundred and eighty six. 
+# text_ortho= Sanâr̃wâr̃ ta cèː sàu dubuː ɗaya dà ɗàriː ukù dà tàlàːtin dà takwàs neː ɓàràːyiː sukà yi saːtàː à bir̃nîn à bàːra, koː dà yakè wannàn adàdiː bài kai yawàn sàːce-sàːcên dà akà yi à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà ba.
 # text = sanâr̃wâr̃ ta cèː sàu dubuː ɗaya dà ɗàriː ukù dà tàlàːtin dà takwàs neː ɓàràːyiː sukà yi saːtàː à bir̃nîn à bàːra, koː dà yakè wannàn adàdiː bài kai yawàn sàːce-sàːcên dà akà yi à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà ba.
 1	sanâr̃wâr̃	sanâr̃wâː	NOUN	_	Definite=Def|Gender=Fem	2	subj	_	Gloss=announcement.Fem.Def
 2	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	0	root	_	Gloss=3Fem.Perf.Rel
@@ -311,7 +333,9 @@
 46	ba	ba	PART	_	PartType=Ill|Polarity=Neg	30	mod	_	Gloss=Neg|SpaceAfter=No
 47	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
-# sent_id = 03_Barayi_a_Ikko__11
+# sent_id = 03_Barayi_a_Ikko_11
+# text_en = The police said that the reason why thefs diminished is because their members increased their efforts to fight robbers, and they dismantled the gang of that big robber called 'Lawrence Anini' who had young robbers in various parts of Nigeria. 
+# text_ortho= ꞌYan sàndaː sukà cêː dàliːlìn dà ya sâː sàːce-sàːcên sukà ràgu shiː nèː don mutàːnensù sun ƙaːrà himmàː wajen yaːƙìː dà ɓàràːyiː, sun kuma wargàzà ƙungiỳar̃ bàbban ɓàraːwòn nan mài suːnaː " Lawrence Anini" wandà kèː dà yâraː ɓàràːyiː à sâssaː dàbam dàbam à Nàːjeːr̃iyàː.
 # text = ꞌyan sàndaː sukà cêː dàliːlìn dà ya sâː sàːce-sàːcên sukà ràgu shiː nèː don mutàːnensù sun ƙaːrà himmàː wajen yaːƙìː dà ɓàràːyiː, sun kuma wargàzà ƙungiỳar̃ bàbban ɓàraːwòn nan mài suːnaː " Lawrence Anini" wandà kèː dà yâraː ɓàràːyiː à sâssaː dàbam dàbam à Nàːjeːr̃iyàː.
 1	ꞌyan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	3	subj	_	Gloss=child.Plur.Cons
 2	sàndaː	sàndaː	NOUN	_	Gender=Masc	1	compound	_	Gloss=baton.Masc
@@ -363,7 +387,9 @@
 48	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	47	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 49	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
-# sent_id = 03_Barayi_a_Ikko__12
+# sent_id = 03_Barayi_a_Ikko_12
+# text_en = The police continued by saying that the second military law - which gives the power to catch and imprison criminals - has helped to reduce the number of thefts that were committed.
+# text_ortho= ꞌYan sàndân sun ƙaːràː dà cêːwaː dòːkar̃ soːjì ta biyu - waddà ta baː dà iːkòː à kaːmà màːsu aikàtà lâifiː à tsarèː - ita maː taː taimàkaː wajen ragè yawàn sàːce-sàːcên dà akèː yîː.
 # text = ꞌyan sàndân sun ƙaːràː dà cêːwaː dòːkar̃ soːjì ta biyu - waddà ta baː dà iːkòː à kaːmà màːsu aikàtà lâifiː à tsarèː - ita maː taː taimàkaː wajen ragè yawàn sàːce-sàːcên dà akèː yîː.
 1	ꞌyan	ɗaː	NOUN	_	Definite=Cons	3	subj	_	Gloss=child.Plur.Cons
 2	sàndân	sàndaː	NOUN	_	Definite=Def	1	compound	_	Gloss=baton.Masc.Def
