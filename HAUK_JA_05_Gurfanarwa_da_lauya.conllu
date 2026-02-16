@@ -1,8 +1,8 @@
 # sent_id = 05_Gurfanarwa_da_lauya_1
 # text_en = 
-# text_ortho = 
-# text = Zaː'à gur̃faːnar̃ dà wani lauyàː mài r̃aꞌàyin canjìː à Nàːjeːr̃iyàː
-1	Zaː'à	zâi	AUX	_	Person=4|Tense=Fut	0	root	_	Gloss=4.Fut
+# text_ortho = Zaː'à gur̃faːnar̃ dà wani lauyàː mài r̃aꞌàyin canjìː à Nàːjeːr̃iyàː
+# text = zaː'à gur̃faːnar̃ dà wani lauyàː mài r̃aꞌàyin canjìː à Nàːjeːr̃iyàː
+1	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	0	root	_	Gloss=4.Fut
 2	gur̃faːnar̃	gur̃faːn-	VERB	_	Voice=Cau	1	comp:aux	_	Gloss=take_to_court.Cau
 3	dà	dà	ADP	_	_	2	comp:obl	_	Gloss=with
 4	wani	wani	DET	_	Definite=Spec|Gender=Masc	5	det	_	Gloss=some.Masc.Spec
@@ -15,9 +15,9 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya_2
 # text_en = 
-# text_ortho = 
-# text = Gwamnatìn mulkìn soːjàn Nàːjeːr̃iyàː taː shaː bambam dà sauran gwamnatoːcin mulkìn soːjà dà kèː Afir̃kà.
-1	Gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	5	subj	_	Gloss=government.Fem
+# text_ortho = Gwamnatìn mulkìn soːjàn Nàːjeːr̃iyàː taː shaː bambam dà sauran gwamnatoːcin mulkìn soːjà dà kèː Afir̃kà.
+# text = gwamnatìn mulkìn soːjàn Nàːjeːr̃iyàː taː shaː bambam dà sauran gwamnatoːcin mulkìn soːjà dà kèː Afir̃kà.
+1	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	5	subj	_	Gloss=government.Fem
 2	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	1	mod	_	Gloss=rule.Masc.Cons
 3	soːjàn	soːjà	NOUN	_	Definite=Cons	2	mod	_	Gloss=soldiers.Masc.Cons
 4	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	1	mod	_	Gloss=Nigeria
@@ -36,9 +36,9 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya_3
 # text_en = 
-# text_ortho = 
-# text = Tanàː cîː gàba dà shirìn baːyar̃ dà mulkìː gà farar̃-hùːlaː, kuma tanàː tàːƙamaː dà irìn abuːbuwàn dà ta yi danganèː dà kaːrè haƙƙìn ꞌyan ƙasâr̃.
-1	Tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Prog
+# text_ortho = Tanàː cîː gàba dà shirìn baːyar̃ dà mulkìː gà farar̃-hùːlaː, kuma tanàː tàːƙamaː dà irìn abuːbuwàn dà ta yi danganèː dà kaːrè haƙƙìn ꞌyan ƙasâr̃.
+# text = tanàː cîː gàba dà shirìn baːyar̃ dà mulkìː gà farar̃-hùːlaː, kuma tanàː tàːƙamaː dà irìn abuːbuwàn dà ta yi danganèː dà kaːrè haƙƙìn ꞌyan ƙasâr̃.
+1	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Prog
 2	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	comp:aux	_	Gloss=proceed.Vnoun.Masc
 3	gàba	gàba	ADV	_	_	2	mod	_	Gloss=in_front
 4	dà	dà	ADP	_	_	2	comp:obl	_	Gloss=with
@@ -68,9 +68,9 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya_4
 # text_en = 
-# text_ortho = 
-# text = Àmmaː gàː shi taː ci gàba dà aikìː dà wata dòːkaː - wàːtòː Dòːkaː ta Biyu - waddà ta sâː ita gwamnatìn ta iyà tsarè mùtûm har̃ tsawon wàtànniː shidà bàː tàːre dà tùhumàr̃sà ba, in an zàrgeː shì dà yi wà tattalin ar̃zìkin ƙasaː maƙar̃ƙashìyaː, koː kuma yi wà tsàron ƙasaː bàràːzanaː.
-1	Àmmaː	àmmaː	CCONJ	_	_	4	discourse	_	Gloss=but
+# text_ortho = Àmmaː gàː shi taː ci gàba dà aikìː dà wata dòːkaː - wàːtòː Dòːkaː ta Biyu - waddà ta sâː ita gwamnatìn ta iyà tsarè mùtûm har̃ tsawon wàtànniː shidà bàː tàːre dà tùhumàr̃sà ba, in an zàrgeː shì dà yi wà tattalin ar̃zìkin ƙasaː maƙar̃ƙashìyaː, koː kuma yi wà tsàron ƙasaː bàràːzanaː.
+# text = àmmaː gàː shi taː ci gàba dà aikìː dà wata dòːkaː - wàːtòː Dòːkaː ta Biyu - waddà ta sâː ita gwamnatìn ta iyà tsarè mùtûm har̃ tsawon wàtànniː shidà bàː tàːre dà tùhumàr̃sà ba, in an zàrgeː shì dà yi wà tattalin ar̃zìkin ƙasaː maƙar̃ƙashìyaː, koː kuma yi wà tsàron ƙasaː bàràːzanaː.
+1	àmmaː	àmmaː	CCONJ	_	_	4	discourse	_	Gloss=but
 2	gàː	gàː	PART	_	PartType=Pred	4	discourse	_	Gloss=here_is
 3	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	2	subj	_	Gloss=3Masc.Acc
 4	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
@@ -131,9 +131,9 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya_5
 # text_en = 
-# text_ortho = 
-# text = Tanàː kuma dà iːkòn cîː gàba dà tsarè mùtumìn har̃ sai illaː maː shaː Àllaːhù.
-1	Tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Prog
+# text_ortho = Tanàː kuma dà iːkòn cîː gàba dà tsarè mùtumìn har̃ sai illaː maː shaː Àllaːhù.
+# text = tanàː kuma dà iːkòn cîː gàba dà tsarè mùtumìn har̃ sai illaː maː shaː Àllaːhù.
+1	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Prog
 2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 3	dà	dà	ADP	_	_	1	comp:pred	_	Gloss=with
 4	iːkòn	iːkòː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=power.Masc.Cons
@@ -152,9 +152,9 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya_6
 # text_en = 
-# text_ortho = 
-# text = Ìdan kuma akà tsarèː mùtûm bìsàː wannàn Dòːkaː ta Biyu, tòː baːbù wata koːtù à Nàːjeːr̃iyàː dà zaːtà sâː bàːkiː.
-1	Ìdan	ìdan	SCONJ	_	_	13	mod	_	Gloss=if
+# text_ortho = Ìdan kuma akà tsarèː mùtûm bìsàː wannàn Dòːkaː ta Biyu, tòː baːbù wata koːtù à Nàːjeːr̃iyàː dà zaːtà sâː bàːkiː.
+# text = ìdan kuma akà tsarèː mùtûm bìsàː wannàn Dòːkaː ta Biyu, tòː baːbù wata koːtù à Nàːjeːr̃iyàː dà zaːtà sâː bàːkiː.
+1	ìdan	ìdan	SCONJ	_	_	13	mod	_	Gloss=if
 2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 3	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	1	comp:obj	_	Gloss=4.Perf.Rel
 4	tsarèː	tsar-	VERB	_	_	3	comp:aux	_	Gloss=imprison
@@ -179,9 +179,9 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya_7
 # text_en = 
-# text_ortho = 
-# text = Wani shàhàr̃ar̃r̃en lauyàː – " Chief Gani Fawehinmi" – an tsarèː shi à Nàːjeːr̃iyàː har̃ tsawon wàtànniː ukù ƙàr̃ƙashin wannàn dòːkaː ta tsàron laːfiyar̃ ƙasaː, kuma bàː tàːre dà wata àlaːmàː zaː'à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː ba.
-1	Wani	wani	DET	_	Definite=Spec	3	det	_	Gloss=some.Masc.Spec
+# text_ortho = Wani shàhàr̃ar̃r̃en lauyàː – " Chief Gani Fawehinmi" – an tsarèː shi à Nàːjeːr̃iyàː har̃ tsawon wàtànniː ukù ƙàr̃ƙashin wannàn dòːkaː ta tsàron laːfiyar̃ ƙasaː, kuma bàː tàːre dà wata àlaːmàː zaː'à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː ba.
+# text = wani shàhàr̃ar̃r̃en lauyàː – " Chief Gani Fawehinmi" – an tsarèː shi à Nàːjeːr̃iyàː har̃ tsawon wàtànniː ukù ƙàr̃ƙashin wannàn dòːkaː ta tsàron laːfiyar̃ ƙasaː, kuma bàː tàːre dà wata àlaːmàː zaː'à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː ba.
+1	wani	wani	DET	_	Definite=Spec	3	det	_	Gloss=some.Masc.Spec
 2	shàhàr̃ar̃r̃en	shàhàr̃ar̃r̃eː	ADJ	_	Definite=Cons	3	mod	_	Gloss=famous.Masc.Cons
 3	lauyàː	lauyàː	NOUN	_	Gender=Fem	11	dislocated@comp	_	Gloss=lawyer.Masc
 4	–	–	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -226,10 +226,10 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya_8-9
 # text_en = 
-# text_ortho = 
+# text_ortho = Chief Gani Fawehinmi ( G.F. ) yaː faɗìː yâu cêːwaː yànzu hukuːmoːmin ƙasâr̃ sunàː shirìn gur̃faːnar̃ dà shiː à gàban wata koːtù ta mùsammàn tàːre dà zàrginsà dà lâifin yîn ƙafàr̃ àngùlu à shirìn miːƙà mulkìː gà farar̃-hùːlaː dàgà hannun soːjoːjiː.
 # text = Chief Gani Fawehinmi ( G.F. ) yaː faɗìː yâu cêːwaː yànzu hukuːmoːmin ƙasâr̃ sunàː shirìn gur̃faːnar̃ dà shiː à gàban wata koːtù ta mùsammàn tàːre dà zàrginsà dà lâifin yîn ƙafàr̃ àngùlu à shirìn miːƙà mulkìː gà farar̃-hùːlaː dàgà hannun soːjoːjiː.
 1	Chief	Chief	PROPN	_	_	2	mod@desc	_	Gloss=Chief
-2	Gani	Gani	VERB	_	_	7	subj	_	Gloss=Gani
+2	Gani	Gani	PROPN	_	_	7	subj	_	Gloss=Gani
 3	Fawehinmi	Fawehinmi	PROPN	_	_	2	flat@name	_	Gloss=Fawehinmi
 4	(	(	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	G.F.	G.F.	PROPN	_	_	2	conj:appos	_	Gloss=G.F.
@@ -274,9 +274,9 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya_10-12
 # text_en = 
-# text_ortho = 
-# text = Wannàn lâifîn dà akèː zàrgin Chief G.F. dà shiː, ìn ji lauyàn naːsà , yaː shàːfi wata takàr̃daː cèː waddà shiː Chief G.F. ya r̃ubùːtaː à cikin wata mùjallàː ta màːsu r̃aꞌàyin canjìː à cikin watàn Maːyù.
-1	Wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	2	det	_	Gloss=ProxS.Masc
+# text_ortho = Wannàn lâifîn dà akèː zàrgin Chief G.F. dà shiː, ìn ji lauyàn naːsà , yaː shàːfi wata takàr̃daː cèː waddà shiː Chief G.F. ya r̃ubùːtaː à cikin wata mùjallàː ta màːsu r̃aꞌàyin canjìː à cikin watàn Maːyù.
+# text = wannàn lâifîn dà akèː zàrgin Chief G.F. dà shiː, ìn ji lauyàn naːsà , yaː shàːfi wata takàr̃daː cèː waddà shiː Chief G.F. ya r̃ubùːtaː à cikin wata mùjallàː ta màːsu r̃aꞌàyin canjìː à cikin watàn Maːyù.
+1	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	2	det	_	Gloss=ProxS.Masc
 2	lâifîn	lâifiː	NOUN	_	Definite=Def|Gender=Masc	17	subj	_	Gloss=crime.Masc.Def
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 4	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	3	comp:obj	_	Gloss=4.Prog.Rel
@@ -320,9 +320,9 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya_13
 # text_en = 
-# text_ortho = 
-# text = À cikintà kuma yaː sòːki manufar̃ tattalin ar̃zìkin Gwamnatì, yanàː cêːwaː tanàː ta laːlàːtà haːlin ràːyuwar̃ maꞌàikàtan Nàːjeːr̃iyàː.
-1	À	à	ADP	_	_	5	mod	_	Gloss=at
+# text_ortho = À cikintà kuma yaː sòːki manufar̃ tattalin ar̃zìkin Gwamnatì, yanàː cêːwaː tanàː ta laːlàːtà haːlin ràːyuwar̃ maꞌàikàtan Nàːjeːr̃iyàː.
+# text = à cikintà kuma yaː sòːki manufar̃ tattalin ar̃zìkin Gwamnatì, yanàː cêːwaː tanàː ta laːlàːtà haːlin ràːyuwar̃ maꞌàikàtan Nàːjeːr̃iyàː.
+1	à	à	ADP	_	_	5	mod	_	Gloss=at
 2	cikin	cikin	ADP	_	_	1	comp:obj	_	Gloss=inside|SpaceAfter=No
 3	tà	tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	2	comp:obj	_	Gloss=3Fem.Gen
 4	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
@@ -346,9 +346,9 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya_14-5
 # text_en = 
-# text_ortho = 
-# text = Lauyànsà yaː ƙaːràː dà cêːwaː ìdan har̃ akà sàːmi Chief G.F. dà wannàn lâifiː, tòː zâi iyà saːmùn ɗaurìn har̃ shèːkaràː bìyar̃ à gidan yaːrìː.
-1	Lauyàn	Lauyànsà	PROPN	_	Number=Plur	3	subj	_	Gloss=Lauyànsà|SpaceAfter=No|wordform=Lauyànsà
+# text_ortho = Lauyànsà yaː ƙaːràː dà cêːwaː ìdan har̃ akà sàːmi Chief G.F. dà wannàn lâifiː, tòː zâi iyà saːmùn ɗaurìn har̃ shèːkaràː bìyar̃ à gidan yaːrìː.
+# text = lauyànsà yaː ƙaːràː dà cêːwaː ìdan har̃ akà sàːmi Chief G.F. dà wannàn lâifiː, tòː zâi iyà saːmùn ɗaurìn har̃ shèːkaràː bìyar̃ à gidan yaːrìː.
+1	lauyàn	Lauyànsà	PROPN	_	Number=Plur	3	subj	_	Gloss=Lauyànsà|SpaceAfter=No|wordform=Lauyànsà
 2	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	1	mod	_	Gloss=3Masc.Gen
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 4	ƙaːràː	ƙaːr-	VERB	_	_	3	comp:aux	_	Gloss=increase
@@ -379,9 +379,9 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya_16
 # text_en = 
-# text_ortho = 
-# text = Tun dà daɗèːwaː nèː Chief G.F. ya zama ƙayàː gà gwamnatoːcin Nàːjeːr̃iyàː.
-1	Tun	tun	SCONJ	_	_	7	mod	_	Gloss=since
+# text_ortho = Tun dà daɗèːwaː nèː Chief G.F. ya zama ƙayàː gà gwamnatoːcin Nàːjeːr̃iyàː.
+# text = tun dà daɗèːwaː nèː Chief G.F. ya zama ƙayàː gà gwamnatoːcin Nàːjeːr̃iyàː.
+1	tun	tun	SCONJ	_	_	7	mod	_	Gloss=since
 2	dà	dà	SCONJ	_	_	1	unk	_	Gloss=COMP
 3	daɗèːwaː	daɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:obj	_	Gloss=last.Vnoun.Fem
 4	nèː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
@@ -397,8 +397,8 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya_17
 # text_en = 
-# text_ortho = 
-# text = Yaː fitoː à kaːnun làːbàːr̃ai nèː à shèːkaràr̃ alìf dà ɗàːriː tar̃à dà sìttin dà tar̃à loːkàcîn dà ya kaːrè wani leːbùr̃à dà akèː yîn zàrgin cêːwa wani jaːmìꞌin gwamnatì yaː yi wà màːtar̃sà fyàːɗeː.
+# text_ortho = Yaː fitoː à kaːnun làːbàːr̃ai nèː à shèːkaràr̃ alìf dà ɗàːriː tar̃à dà sìttin dà tar̃à loːkàcîn dà ya kaːrè wani leːbùr̃à dà akèː yîn zàrgin cêːwa wani jaːmìꞌin gwamnatì yaː yi wà màːtar̃sà fyàːɗeː.
+# text = yaː fitoː à kaːnun làːbàːr̃ai nèː à shèːkaràr̃ alìf dà ɗàːriː tar̃à dà sìttin dà tar̃à loːkàcîn dà ya kaːrè wani leːbùr̃à dà akèː yîn zàrgin cêːwa wani jaːmìꞌin gwamnatì yaː yi wà màːtar̃sà fyàːɗeː.
 1	Yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 2	fitoː	fit-	VERB	_	_	1	comp:aux	_	Gloss=come_out
 3	à	à	ADP	_	_	2	comp:obl	_	Gloss=at
@@ -440,8 +440,8 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya_18
 # text_en = 
-# text_ortho = 
-# text = Dàgà wannàn loːkàciː kùwa ya cèː yaː yi niyyàr̃ cîː gàba dà tabbatar̃ dà ꞌyancìn ɗan Adàm gà jàmaꞌàr̃ Nàːjeːr̃iyàː maràsaː ƙarfiː.
+# text_ortho = dàgà wannàn loːkàciː kùwa ya cèː yaː yi niyyàr̃ cîː gàba dà tabbatar̃ dà ꞌyancìn ɗan Adàm gà jàmaꞌàr̃ Nàːjeːr̃iyàː maràsaː ƙarfiː.
+# text = dàgà wannàn loːkàciː kùwa ya cèː yaː yi niyyàr̃ cîː gàba dà tabbatar̃ dà ꞌyancìn ɗan Adàm gà jàmaꞌàr̃ Nàːjeːr̃iyàː maràsaː ƙarfiː.
 1	Dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=from
 2	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	3	det	_	Gloss=ProxS.Masc
 3	loːkàciː	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	Gloss=time.Masc
@@ -468,9 +468,9 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya_19-20
 # text_en = 
-# text_ortho = 
-# text = Wannàn yaːƙìn dà Chief G.F. kèː yîː dà hukuːmoːmiː yaː yi sànàdiyyàr̃ zuwànsà koːtù har̃ kìːmaːnìn sàu tàlàːtin dà bìyar̃.
-1	Wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	2	det	_	Gloss=ProxS.Sing
+# text_ortho = Wannàn yaːƙìn dà Chief G.F. kèː yîː dà hukuːmoːmiː yaː yi sànàdiyyàr̃ zuwànsà koːtù har̃ kìːmaːnìn sàu tàlàːtin dà bìyar̃.
+# text = wannàn yaːƙìn dà Chief G.F. kèː yîː dà hukuːmoːmiː yaː yi sànàdiyyàr̃ zuwànsà koːtù har̃ kìːmaːnìn sàu tàlàːtin dà bìyar̃.
+1	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	2	det	_	Gloss=ProxS.Sing
 2	yaːƙìn	yaːƙìː	NOUN	_	Definite=Def|Gender=Masc	10	subj	_	Gloss=fight.Masc.Def
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 4	Chief	Chief	PROPN	_	_	5	mod@desc	_	Gloss=Chief
@@ -495,9 +495,9 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya_21
 # text_en = 
-# text_ortho = 
-# text = Zuwànsà koːtùn dà ya fi koːwànneː muhimmancìː shiː nèː neːman yà ga an ɗaurè wasu jàːmìꞌan tsàron ƙasar̃ Nàːjeːr̃iyàː biyu waɗàndà akà zàrgaː dà lâifin kashè Dele Giwa, wàːtòː ɗan jàr̃iːdàr̃ nan dà ya rasà rânsà dàliːlìn wani bâm dà akà aikoː masà ta cikin wàsiːƙàː tun shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà.
-1	Zuwàn	zoː	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	10	subj	_	Gloss=go.Vnoun.Masc.Cons|SpaceAfter=No|wordform=Zuwànsà
+# text_ortho = Zuwànsà koːtùn dà ya fi koːwànneː muhimmancìː shiː nèː neːman yà ga an ɗaurè wasu jàːmìꞌan tsàron ƙasar̃ Nàːjeːr̃iyàː biyu waɗàndà akà zàrgaː dà lâifin kashè Dele Giwa, wàːtòː ɗan jàr̃iːdàr̃ nan dà ya rasà rânsà dàliːlìn wani bâm dà akà aikoː masà ta cikin wàsiːƙàː tun shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà.
+# text = zuwànsà koːtùn dà ya fi koːwànneː muhimmancìː shiː nèː neːman yà ga an ɗaurè wasu jàːmìꞌan tsàron ƙasar̃ Nàːjeːr̃iyàː biyu waɗàndà akà zàrgaː dà lâifin kashè Dele Giwa, wàːtòː ɗan jàr̃iːdàr̃ nan dà ya rasà rânsà dàliːlìn wani bâm dà akà aikoː masà ta cikin wàsiːƙàː tun shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà.
+1	zuwàn	zoː	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	10	subj	_	Gloss=go.Vnoun.Masc.Cons|SpaceAfter=No|wordform=Zuwànsà
 2	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	1	mod	_	Gloss=3Masc.Gen
 3	koːtùn	koːtù	NOUN	_	Definite=Def	1	comp:obj@G	_	Gloss=court.Fem.Def
 4	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
@@ -560,9 +560,9 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya_23
 # text_en = 
-# text_ortho = 
-# text = An kaːmè Chief G.F. neː à watàn Yuːnì, wàːtòː loːkàcîn dà yakèː cikin shirìn wani tàːroː indà ya yi wà tsaːrìn tattalin ar̃zìkin ƙasar̃ Nàːjeːr̃iyàː tatas.
-1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
+# text_ortho = An kaːmè Chief G.F. neː à watàn Yuːnì, wàːtòː loːkàcîn dà yakèː cikin shirìn wani tàːroː indà ya yi wà tsaːrìn tattalin ar̃zìkin ƙasar̃ Nàːjeːr̃iyàː tatas.
+# text = an kaːmè Chief G.F. neː à watàn Yuːnì, wàːtòː loːkàcîn dà yakèː cikin shirìn wani tàːroː indà ya yi wà tsaːrìn tattalin ar̃zìkin ƙasar̃ Nàːjeːr̃iyàː tatas.
+1	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 2	kaːmè	kaːm-	VERB	_	_	1	comp:aux	_	Gloss=catch
 3	Chief	Chief	PROPN	_	_	4	parataxis@desc	_	Gloss=Chief
 4	G.F.	G.F.	PROPN	_	_	2	comp:obj	_	Gloss=G.F.
@@ -593,8 +593,8 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya_24
 # text_en = 
-# text_ortho = 
-# text = Kaːmèː shîn kùwa yaː jaːwoː suːkàː sòːsai, kuma an yi kiràː gà Gwamnatì dà tà dainà àmfàːniː dà Dòːkâr̃ nan ta Biyu.
+# text_ortho = Kaːmèː shîn kùwa yaː jaːwoː suːkàː sòːsai, kuma an yi kiràː gà Gwamnatì dà tà dainà àmfàːniː dà Dòːkâr̃ nan ta Biyu.
+# text = kaːmèː shîn kùwa yaː jaːwoː suːkàː sòːsai, kuma an yi kiràː gà Gwamnatì dà tà dainà àmfàːniː dà Dòːkâr̃ nan ta Biyu.
 1	Kaːmèː	kaːm-	VERB	_	_	4	subj	_	Gloss=catch
 2	shîn	shiː	PRON	_	Case=Acc|Definite=Def|Gender=Masc|Person=3|PronType=Prs	1	comp:obj	_	Gloss=3Masc.Nom.Def
 3	kùwa	kùwa	PART	_	PartType=Top	1	discourse@top	_	Gloss=in_fact
@@ -622,7 +622,7 @@
 
 # sent_id = 05_Gurfanarwa_da_lauya_25-6
 # text_en = 
-# text_ortho = 
+# text_ortho = baːbù shakkàː Gwamnatìn Nàːjeːr̃iyàː tanàː shân suːkàː sòːsai, koː tà gur̃fanar̃ dà Chief G.F. à gàban shàr̃iꞌàː, koː kùwa tà sàkeː shì.
 # text = Baːbù shakkàː Gwamnatìn Nàːjeːr̃iyàː tanàː shân suːkàː sòːsai, koː tà gur̃fanar̃ dà Chief G.F. à gàban shàr̃iꞌàː, koː kùwa tà sàkeː shì.
 1	Baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	5	mod	_	Gloss=there_is.Neg
 2	shakkàː	shakkàː	NOUN	_	Gender=Fem	1	subj	_	Gloss=doubt.Fem
