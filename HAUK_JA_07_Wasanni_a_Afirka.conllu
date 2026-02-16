@@ -99,7 +99,7 @@
 2	farkoː	farkoː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=beginning.Masc
 3	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway|SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-5	wàːtòː	wàːtòː	PART	_	_	12	discourse	_	Gloss=that_is
+5	wàːtòː	wàːtòː	PART	_	PartType=Disc	12	discourse	_	Gloss=that_is
 6	kàːfin	kàːfin	SCONJ	_	_	12	mod	_	Gloss=before
 7	à	yà	AUX	_	Mood=Sub|Person=4	6	comp:obj	_	Gloss=4.Sub
 8	soːmà	soːm-	VERB	_	_	7	comp:aux	_	Gloss=start
@@ -164,7 +164,7 @@
 24	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	23	mod	_	Gloss=Gen.Fem
 25	Kudù	Kudù	PROPN	_	_	24	comp:obj	_	Gloss=Kudù|SpaceAfter=No
 26	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
-27	wàːtòː	wàːtòː	PART	_	_	28	discourse	_	Gloss=that_is
+27	wàːtòː	wàːtòː	PART	_	PartType=Disc	28	discourse	_	Gloss=that_is
 28	indà	indà	SCONJ	_	PronType=Rel	23	mod@relcl	_	Gloss=where
 29	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	30	subj	_	Gloss=government.Fem.Def
 30	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	28	comp:obj	_	Gloss=Prog.Rel
@@ -189,7 +189,7 @@
 4	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	1	mod	_	Gloss=Gen.Masc
 5	tàːrayyàr̃	tàːrayyàː	NOUN	_	Definite=Cons|Gender=Fem	4	comp:obj	_	Gloss=federation.Fem.Cons
 6	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	5	conj:appos	_	Gloss=Nigeria
-7	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also
+7	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 8	bàsù	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Polarity=Neg	0	root	_	Gloss=3Plur.Perf.Neg
 9	yàr̃da	yar̃d-	VERB	_	_	8	comp:aux	_	Gloss=agree
 10	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	11	subj	_	Gloss=Nigeria
@@ -207,7 +207,7 @@
 22	Afir̃kà	Afir̃kà	PROPN	_	_	21	comp:obj	_	Gloss=Africa
 23	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	22	mod	_	Gloss=Gen.Fem
 24	Kudù	Kudù	PROPN	_	_	23	comp:obj	_	Gloss=South
-25	ba	ba	PART	_	PartType=Ill|Polarity=Neg	9	mod	_	Gloss=Neg|SpaceAfter=No
+25	ba	ba	PART	_	PartType=Neg|Polarity=Neg	9	mod	_	Gloss=Neg|SpaceAfter=No
 26	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka__7
@@ -242,11 +242,11 @@
 27	sanâr̃waː	sanâr̃waː	VERB	_	Gender=Fem	26	comp:obj	_	Gloss=declaration.Fem
 28	cêːwaː	cêːwaː	SCONJ	_	_	27	comp:obj	_	Gloss=COMP
 29	Lasisi	Lasisi	PROPN	_	_	31	subj	_	Gloss=Lasisi
-30	bàː	bàː	PART	_	PartType=Ill|Polarity=Neg	31	mod	_	Gloss=Neg
+30	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	31	mod	_	Gloss=Neg
 31	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	28	comp:obj	_	Gloss=3Masc.Fut
 32	jeː	jeː	VERB	_	_	31	comp:aux	_	Gloss=go
 33	wàːsân	wàːsaː	NOUN	_	Definite=Def|ExtPos=NOUN|Gender=Masc	32	comp:obj@G	_	Gloss=game.Masc.Def
-34	ba	ba	PART	_	PartType=Ill|Polarity=Neg	32	mod	_	Gloss=Neg|SpaceAfter=No
+34	ba	ba	PART	_	PartType=Neg|Polarity=Neg	32	mod	_	Gloss=Neg|SpaceAfter=No
 35	,	,	PUNCT	_	_	36	punct	_	Gloss=PUNCT
 36	har̃	har̃	SCONJ	_	Definite=Cons|Gender=Fem	25	mod	_	Gloss=so_much_so_that
 37	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	36	comp:obj	_	Gloss=3Masc.Perf.Rel
@@ -355,7 +355,7 @@
 11	wà	wà	ADP	_	Case=Dat	10	comp:obl	_	Gloss=Dat
 12	manufoːfin	manufaː	NOUN	_	Definite=Cons|Number=Plur	11	comp:obj	_	Gloss=ploicy.Plur.Cons
 13	gwamnatì	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	12	mod	_	Gloss=government.Fem
-14	ba	ba	PART	_	PartType=Ill|Polarity=Neg	10	mod	_	Gloss=Neg|SpaceAfter=No
+14	ba	ba	PART	_	PartType=Neg|Polarity=Neg	10	mod	_	Gloss=Neg|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	tun	tun	SCONJ	_	ExtPos=SCONJ	10	mod	_	Gloss=since|Idiom=Yes
 17	dà	dà	SCONJ	_	_	16	compound	_	Gloss=COMP|InIdiom=Yes
@@ -363,16 +363,16 @@
 19	àboːkin	àboːkiː	NOUN	_	Definite=Cons|Gender=Masc	28	subj	_	Gloss=comrade.Masc.Cons
 20	damben	dambe	NOUN	_	Definite=Cons|Gender=Masc	19	mod	_	Gloss=boxing.Masc.Cons
 21	Lasisi	Lasisi	PROPN	_	_	19	mod	_	Gloss=Lasisi
-22	bàː	bàː	PART	_	PartType=Ill|Polarity=Neg	23	mod	_	Gloss=Neg
+22	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	23	mod	_	Gloss=Neg
 23	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	28	compound:pred	_	Gloss=child.Masc.Cons
 24	Afir̃kà	Afir̃kà	PROPN	_	_	23	compound	_	Gloss=Africa
 25	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	24	mod	_	Gloss=Gen.Fem
 26	Kudù	Kudù	PROPN	_	_	25	comp:obj	_	Gloss=Kudù
-27	ba	ba	PART	_	PartType=Ill|Polarity=Neg	23	mod	_	Gloss=Neg
+27	ba	ba	PART	_	PartType=Neg|Polarity=Neg	23	mod	_	Gloss=Neg
 28	nèː	neː	AUX	_	_	16	comp:obj	_	Gloss=be|SpaceAfter=No
 29	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 30	kuma	kuma	CCONJ	_	_	32	cc	_	Gloss=also
-31	bàː	bàː	PART	_	PartType=Ill|Polarity=Neg	32	mod	_	Gloss=Neg
+31	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	32	mod	_	Gloss=Neg
 32	à	à	ADP	_	_	28	conj:coord	_	Gloss=at
 33	Afir̃kà	Afir̃kà	PROPN	_	_	32	comp:obj	_	Gloss=Africa
 34	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	33	mod	_	Gloss=Gen.Fem
@@ -380,7 +380,7 @@
 36	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	32	parataxis@conj	_	Gloss=4.Fut
 37	yi	yi	VERB	_	_	36	comp:aux	_	Gloss=do
 38	dambên	dambe	ADV	_	Definite=Def	37	comp:pred	_	Gloss=boxing.Masc.Def
-39	ba	ba	PART	_	PartType=Ill|Polarity=Neg	32	mod	_	Gloss=Neg|SpaceAfter=No
+39	ba	ba	PART	_	PartType=Neg|Polarity=Neg	32	mod	_	Gloss=Neg|SpaceAfter=No
 40	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka__11
@@ -419,7 +419,7 @@
 31	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	18	comp:obj	_	Gloss=3Fem.Perf
 32	r̃ubùːtà	r̃ubuːt-	VERB	_	_	31	comp:aux	_	Gloss=write
 33	shar̃hìː	shar̃hìː	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=criticism.Masc
-34	à	à	ADP	_	ExtPos=ADP	32	comp:obl	_	Gloss=at|Idiom=Yes
+34	à	à	ADP	_	_	32	comp:obl	_	Gloss=at
 35	kân	kân	ADP	_	_	34	comp:obj	_	Gloss=on_top_of
 36	bàtûn	bàtuː	NOUN	_	Definite=Def|Gender=Masc	35	comp:obj	_	Gloss=discussion.Masc.Cons|SpaceAfter=No
 37	,	,	PUNCT	_	_	38	punct	_	Gloss=PUNCT
@@ -455,7 +455,7 @@
 # sent_id = 07_Wasanni_a_Afirka__13
 # text = tòː yànzu kuma gàː wasu dàgà sàːkàmakon wàːsànnîn dà akà yi na gàːsar̃ ƙwallon ƙafàː don cîn koːfìn ƙasàːshen Afır̃kà.
 # text_ortho = Tòː yànzu kuma gàː wasu dàgà sàːkàmakon wàːsànnîn dà akà yi na gàːsar̃ ƙwallon ƙafàː don cîn Koːfìn Ƙasàːshen Afır̃kà.
-1	tòː	tòː	INTJ	_	_	4	discourse	_	Gloss=well
+1	tòː	tòː	INTJ	_	PartType=Disc	4	discourse	_	Gloss=well
 2	yànzu	yànzu	ADV	_	_	4	mod	_	Gloss=now
 3	kuma	kuma	PART	_	PartType=Disc	2	discourse@top	_	Gloss=also
 4	gàː	gàː	PART	_	PartType=Pred	0	root	_	Gloss=here_is
@@ -536,7 +536,7 @@
 # text_ortho = À Bàmaːkò kuma, ƙungìyar̃ 'Stade Malien' ta ƙasar̃ Màːli taː laːshè ƙungìyar̃ 'USKA' ta Àljeːr̃iyà dà cîː ɗaya dà bâː koː ɗaya.
 1	à	à	ADP	_	_	13	mod	_	Gloss=at
 2	Bàmaːkò	Bàmaːkò	PROPN	_	_	1	comp:obj	_	Gloss=Bamako
-3	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also|SpaceAfter=No
+3	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also|SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	7	mod@desc	_	Gloss=association.Fem.Cons
 6	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
