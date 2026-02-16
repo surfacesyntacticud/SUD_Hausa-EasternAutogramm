@@ -21,7 +21,7 @@
 5	gàrkuwar̃	gàrkuwaː	NOUN	_	Definite=Cons|Gender=Fem	4	comp:obj	_	Gloss=shield.Fem.Cons
 6	jìkiː	jìkiː	NOUN	_	Gender=Masc	5	mod	_	Gloss=body.Masc
 7	–	–	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-8	wàːtòː	wàːtòː	PART	_	_	9	discourse	_	Gloss=that_is
+8	wàːtòː	wàːtòː	PART	_	PartType=Disc	9	discourse	_	Gloss=that_is
 9	AIDS	AIDS	PROPN	_	_	1	conj:dicto	_	Gloss=AIDS
 10	–	–	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 11	cùːtaː	cùːtaː	NOUN	_	Gender=Fem	12	comp:pred	_	Gloss=disease.Fem
@@ -38,7 +38,7 @@
 # sent_id = 04_AIDS__2b
 # text = wàːtòː ìdan akà ɗuːràː wà wani mài jinyàː jinin wani mài ɗàuke dà ƙwaːyoːyin cùːtar̃ AIDS, tòː shiː wandà akà ɗuːràː wà jiniː zâi kàːmu dà ƙwaːyoːyin cùːtâr̃.
 # text_ortho = watòː ìdan akà ɗuːràː wà wani mài jinyàː jinin wani mài ɗàuke dà ƙwaːyoːyin cùːtar̃ AIDS, tòː shiː wandà akà ɗuːràː wà jiniː zâi kamu dà ƙwaːyoːyin cùːtâr̃.
-1	wàːtòː	wàːtòː	PART	_	_	25	discourse	_	Gloss=that_is
+1	wàːtòː	wàːtòː	PART	_	PartType=Disc	25	discourse	_	Gloss=that_is
 2	ìdan	ìdan	SCONJ	_	_	25	mod	_	Gloss=if
 3	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	2	comp:obj	_	Gloss=4.Perf.Rel
 4	ɗuːràː	ɗuːr-	VERB	_	_	3	comp:aux	_	Gloss=inject
@@ -55,7 +55,7 @@
 15	cùːtar̃	cùːtaː	NOUN	_	Definite=Cons|Gender=Fem	16	mod@desc	_	Gloss=disease.Fem.Cons
 16	AIDS	AIDS	PROPN	_	_	14	mod	_	Gloss=AIDS|SpaceAfter=No
 17	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-18	tòː	tòː	INTJ	_	_	25	discourse	_	Gloss=well
+18	tòː	tòː	INTJ	_	PartType=Disc	25	discourse	_	Gloss=well
 19	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	25	subj	_	Gloss=3Masc.Nom
 20	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	19	mod@relcl	_	Gloss=REL.Masc
 21	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	20	comp:obj	_	Gloss=4.Perf.Rel
@@ -86,7 +86,7 @@
 12	àlluːràː	àlluːràː	NOUN	_	Gender=Fem	11	comp:obj	_	Gloss=needle.Fem
 13	gùdaː	gùdaː	NUM	_	Gender=Masc	12	mod:num	_	Gloss=unit/one.Masc|SpaceAfter=No
 14	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
-15	tòː	tòː	INTJ	_	_	34	discourse	_	Gloss=well
+15	tòː	tòː	INTJ	_	PartType=Disc	34	discourse	_	Gloss=well
 16	ìdan	ìdan	SCONJ	_	_	34	mod	_	Gloss=if
 17	wani	wani	DET	_	Definite=Spec|Gender=Masc	25	subj	_	Gloss=some.Masc.Spec
 18	dàgà	dàgà	ADP	_	_	17	mod	_	Gloss=from
@@ -129,7 +129,7 @@
 6	irìn	irìː	NOUN	_	_	7	mod@desc	_	Gloss=type_of
 7	taːràːwaː	taːr-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	22	subj	_	Gloss=have_intercourse.Vnoun.Fem
 8	–	–	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-9	wàːtòː	wàːtòː	PART	_	_	10	discourse	_	Gloss=that_is
+9	wàːtòː	wàːtòː	PART	_	PartType=Disc	10	discourse	_	Gloss=that_is
 10	jìmaːꞌì	jìmaːꞌì	NOUN	_	Gender=Masc	7	conj:dicto	_	Gloss=sexual_intercourse.Masc
 11	-	-	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 12	tsàkaːnin	tsàkaːnin	ADP	_	Definite=Cons|Gender=Masc	10	mod	_	Gloss=between
@@ -196,7 +196,7 @@
 4	sanìː	sanìː	VERB	_	_	3	comp:aux	_	Gloss=know|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	cùːtar̃	cùːtaː	NOUN	_	Definite=Cons|Gender=Fem	7	mod@desc	_	Gloss=disease.Fem.Cons
-7	AIDS	AIDS	PROPN	_	_	8	subj	_	Gloss=AIDS
+7	AIDS	AIDS	PROPN	_	_	8	dislocated@subj	_	Gloss=AIDS
 8	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 9	ta	ta	PRON	_	Case=Acc|Gender=Fem|Person=3|PronType=Prs	8	subj	_	Gloss=3Fem.Acc
 10	dà	dà	ADP	_	_	8	comp:pred	_	Gloss=with
@@ -212,7 +212,7 @@
 20	jinin	jiniː	NOUN	_	Definite=Cons|Gender=Masc	19	comp:obj	_	Gloss=blood.Masc.Cons|SpaceAfter=No|wordform=jininsà
 21	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	20	mod	_	Gloss=3Masc.Gen
 22	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-23	bàː	bàː	PART	_	PartType=Ill|Polarity=Neg	24	mod	_	Gloss=Neg
+23	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	24	mod	_	Gloss=Neg
 24	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	8	conj:coord	_	Gloss=4.Fut
 25	ga	ganiː	VERB	_	_	24	comp:aux	_	Gloss=see
 26	wata	wani	DET	_	Definite=Spec|Gender=Fem	27	det	_	Gloss=some.Fem.Spec
@@ -222,7 +222,7 @@
 30	à	à	ADP	_	_	25	comp:obl	_	Gloss=at
 31	jìkin	jìkiːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	30	comp:obj	_	Gloss=body.Masc.Cons|SpaceAfter=No|wordform=jìkinsà
 32	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	31	mod	_	Gloss=3Masc.Gen
-33	ba	ba	PART	_	PartType=Ill|Polarity=Neg	25	mod	_	Gloss=Neg|SpaceAfter=No
+33	ba	ba	PART	_	PartType=Neg|Polarity=Neg	25	mod	_	Gloss=Neg|SpaceAfter=No
 34	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
 35	sai	sai	CCONJ	_	_	37	cc	_	Gloss=except_that
 36	dai	dai	PART	_	PartType=Top	35	discourse@top	_	Gloss=anyway
@@ -300,7 +300,7 @@
 # sent_id = 04_AIDS__9
 # text_ortho = Tòː ꞌyàːꞌyàː àbîn yakè à ƙasar̃ Nàːjeːr̃iyàː ?
 # text = tòː ꞌyàːꞌyàː àbîn yakè à ƙasar̃ Nàːjeːr̃iyàː ?
-1	tòː	tòː	INTJ	_	_	2	discourse	_	Gloss=well
+1	tòː	tòː	INTJ	_	PartType=Disc	2	discourse	_	Gloss=well
 2	ꞌyàːꞌyàː	ꞌyàːꞌyàː	ADV	_	PronType=Int	0	root	_	Gloss=how
 3	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	4	subj	_	Gloss=thing.Masc.Def
 4	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Relative=Rel2	2	comp:cleft	_	Gloss=3Fem.Prog.Rel2
@@ -319,7 +319,7 @@
 5	yi	yi	VERB	_	_	4	comp:aux	_	Gloss=do
 6	wani	wani	DET	_	Definite=Spec|Gender=Masc	7	det	_	Gloss=some.Masc.Spec
 7	bìncìkeː	bìncìkeː	NOUN	_	Gender=Masc	5	comp:pred	_	Gloss=research.Masc
-8	ba	ba	PART	_	PartType=Ill|Polarity=Neg	5	mod	_	Gloss=Neg
+8	ba	ba	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	Gloss=Neg
 9	don	don	SCONJ	_	_	5	mod	_	Gloss=in_order_to
 10	tabbatar̃	tabbat-	VERB	_	Voice=Cau	9	comp:obj	_	Gloss=be_sure.Cau
 11	dà	dà	ADP	_	_	10	comp:obl	_	Gloss=with
@@ -539,7 +539,7 @@
 24	miliyàn	miliyàn	NOUN	_	Gender=Fem	23	comp:obj	_	Gloss=million.Fem
 25	ɗàriː	ɗàriː	NUM	_	_	24	mod:num	_	Gloss=hundred|SpaceAfter=No
 26	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
-27	tòː	tòː	INTJ	_	_	28	discourse	_	Gloss=well
+27	tòː	tòː	INTJ	_	PartType=Disc	28	discourse	_	Gloss=well
 28	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	12	comp:obj	_	Gloss=3Masc.Fut
 29	yìwu	yìwu	VERB	_	_	28	comp:aux	_	Gloss=be_possible
 30	à	yà	AUX	_	Mood=Sub|Person=4	29	comp:obj@agent	_	Gloss=4.Sub
@@ -561,7 +561,7 @@
 46	kai	kai	VERB	_	_	45	comp:aux	_	Gloss=reach/carry_to
 47	kânsù	kânsù	PRON	_	Gender=Masc|Person=2|PronType=Prs|Reflex=Yes	46	comp:obj@T	_	Gloss=3Plur.Reflex
 48	asìbitì	asìbitì	NOUN	_	Gender=Masc	46	comp:obj@G	_	Gloss=hospital.Masc
-49	ba	ba	PART	_	PartType=Ill|Polarity=Neg	46	mod	_	Gloss=Neg|SpaceAfter=No
+49	ba	ba	PART	_	PartType=Neg|Polarity=Neg	46	mod	_	Gloss=Neg|SpaceAfter=No
 50	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
 # sent_id = 04_AIDS__17
@@ -600,7 +600,7 @@
 # sent_id = 04_AIDS__18
 # text = tòː Allàh yà kiyàːyeː.
 # text_ortho = Tòː Allàh yà kiyàːyeː.
-1	tòː	tòː	INTJ	_	_	3	discourse	_	Gloss=well
+1	tòː	tòː	INTJ	_	PartType=Disc	3	discourse	_	Gloss=well
 2	Allàh	Allàh	PROPN	_	_	3	subj	_	Gloss=Allah
 3	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	0	root	_	Gloss=3Masc.Sub
 4	kiyàːyeː	kiyaːy-	VERB	_	_	3	comp:aux	_	Gloss=protect|SpaceAfter=No
