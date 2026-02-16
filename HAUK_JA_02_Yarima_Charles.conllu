@@ -57,7 +57,7 @@
 # sent_id = 02_Yarima_Charles__3
 # text = yâːraː ƙanaːnàː dà kèː kân gadoːjiː na bir̃nin Ìkko sunàː tàllàn tarkòn ɓeːr̃aː , dà kamfàːyeː , dà agoːgunàn " Rolex " na jàbu à tsàːkaːnin cùnkoːson moːtoːci , duk sun daːkatar̃ dà tàllàce-tàllàcen sù dòːmin sù yi kallon hàdàː-hadâr̃ dà takèː àukuwaː à bàːkin tèːkûn .
 # text_ortho = Yâːraː ƙanaːnàː dà kèː kân gadoːjiː na bir̃nin Ìkko sunàː tàllàn tarkòn ɓeːr̃aː, da kamfàːyeː, dà agoːgunàn ‘Rolex’ na jàbu à tsàːkaːnin cùnkoːson moːtoːci, duk sun daːkatar̃ dà tàllàce-tàllàcensù dòːmin sù yi kallon hàdàː-hadâr̃ da takèː àukuwaː à bàːkin tèːkûn.
-1	yâːraː	yaːròː	NOUN	_	Number=Plur	10	subj	_	Gloss=child.Plur
+1	yâːraː	yaːròː	NOUN	_	Number=Plur	31	dislocated@subj	_	Gloss=child.Plur
 2	ƙanaːnàː	ƙàramiː	ADJ	_	Number=Plur	1	mod	_	Gloss=small.Plur
 3	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 4	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel2	3	comp:obj	_	Gloss=Prog.Rel
@@ -66,7 +66,7 @@
 7	na	na	PART	_	Case=Gen|Number=Plur|PartType=Case	6	mod	_	Gloss=Gen.Plur
 8	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=city.Masc.Cons
 9	Ìkko	Ìkko	PROPN	_	_	8	mod	_	Gloss=Lagos
-10	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
+10	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	1	mod@relcl	_	Gloss=3Plur.Prog
 11	tàllàn	tàllà	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	10	comp:aux	_	Gloss=hawking.Masc.Cons
 12	tarkòn	tarkòː	NOUN	_	Definite=Cons|Gender=Masc	11	mod	_	Gloss=trap.Masc.Cons
 13	ɓeːr̃aː	ɓeːr̃aː	NOUN	_	Gender=Masc	12	mod	_	Gloss=rat.Masc|SpaceAfter=No
@@ -85,7 +85,7 @@
 26	tsàːkaːnin	tsàːkaːnin	ADP	_	_	25	comp:obj	_	Gloss=middle
 27	cùnkoːson	cùnkoːsoː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:obj	_	Gloss=congestion.Masc.Cons
 28	moːtoːci	moːtàː	NOUN	_	Number=Plur	27	mod	_	Gloss=car.Plur|SpaceAfter=No
-29	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
+29	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 30	duk	dukà	PRON	_	PronType=Tot	31	subj	_	Gloss=all
 31	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
 32	daːkatar̃	daːkat-	VERB	_	Voice=Cau	31	comp:aux	_	Gloss=stop.Cau
