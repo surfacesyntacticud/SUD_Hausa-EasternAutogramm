@@ -241,8 +241,8 @@
 # text_ortho = À wajen indà ya kàmaːtà à r̃ubùːtà wandà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà ꞌOːfishin Jàkaːdàn Nàjeːr̃iyàː, Landàn’.
 1	à	à	ADP	_	_	16	dislocated@top	_	Gloss=at
 2	wajen	wajeː	NOUN	_	Definite=Cons	1	comp:obj	_	Gloss=place.Masc.Cons
-3	indà	indà	ADV	_	PronType=Rel	2	mod@relcl	_	Gloss=where
-4	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	3	comp:obj	_	Gloss=3Masc.Perf.Rel
+3	indà	indà	ADV	_	PronType=Rel	2	mod	_	Gloss=where
+4	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	3	mod@relcl	_	Gloss=3Masc.Perf.Rel
 5	kàmaːtà	kamaːt-	VERB	_	_	4	comp:aux	_	Gloss=be_appropriate
 6	à	yà	AUX	_	Mood=Sub|Person=4	5	comp:obj@agent	_	Gloss=4.Sub
 7	r̃ubùːtà	r̃ubuːt-	NOUN	_	_	6	comp:aux	_	Gloss=write
