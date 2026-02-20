@@ -1,6 +1,4 @@
 # sent_id = 15_Yajin_aiki_1
-# text_en = 
-# text_ortho = 
 # text = An yi yaːjìn aikìː à Jàmhuːr̃iyàr̃ Nìːjâr̃ don neːman dìmùkùr̃àːɗiyyàː
 1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 2	yi	yi	VERB	_	_	1	comp:aux	_	Gloss=do
@@ -14,8 +12,6 @@
 10	dìmùkùr̃àːɗiyyàː	dìmùkùr̃àːɗiyyàː	NOUN	_	ExtPos=NOUN|Gender=Fem	9	comp:obj	_	Gloss=democracy.Fem
 
 # sent_id = 15_Yajin_aiki_2
-# text_en = 
-# text_ortho = 
 # text = Wasu r̃àhòːtànniː dàgà bàbban bir̃nin ƙasar̃Jàmhuːr̃iyàr̃ Nìːjâr̃ sun nuːnà saːmùn goːyon baːyaː dàgà sâssaː dà daːmaː gà kiràn yîn yaːjìn aikìː.
 1	Wasu	wani	DET	_	Definite=Spec|Number=Plur	2	det	_	Gloss=some.Plur
 2	r̃àhòːtànniː	r̃àhoːtòː	NOUN	_	Number=Plur	9	subj	_	Gloss=report.Plur
@@ -42,8 +38,6 @@
 23	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_3
-# text_en = 
-# text_ortho = 
 # text = Wani ɗan jàr̃iːdàː yaː faɗàː wà gidan r̃eːdiyòn BBC cê:waː har̃koːkin cìnikiː sun tsayàː cik à yawancin ƙasâr̃.
 1	Wani	wani	DET	_	Definite=Spec|Number=Plur|PronType=Dem	2	det	_	Gloss=some.Masc.Spec
 2	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	4	subj	_	Gloss=child.Masc.Cons|wordform=dan
@@ -66,8 +60,6 @@
 19	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_4
-# text_en = 
-# text_ortho = 
 # text = An tsai dà yawancin har̃koːkin cìnikiː an kuma rufèː shaːgunàː, yàːyîn dà har̃koːkin sufùr̃iː maː sukà tsayàː cik, kuma yâːraː maː bàsù jeː màkàr̃àntunsù ba.
 1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 2	tsai	tsay-	VERB	_	Voice=Cau	1	comp:aux	_	Gloss=stop.Cau
@@ -80,7 +72,7 @@
 9	rufèː	ruf-	VERB	_	_	7	comp:aux	_	Gloss=close
 10	shaːgunàː	shaːgunàː	NOUN	_	Number=Plur	9	comp:obj	_	Gloss=shop.Plur|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-12	yàːyîn	yàːyiː	SCONJ	_	PronType=Rel	9	mod	_	Gloss=when
+12	yàːyîn	yàːyiː	ADV	_	PronType=Rel	9	mod	_	Gloss=when
 13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
 14	har̃koːkin	har̃kàː	NOUN	_	Definite=Cons|Gender=Masc	17	subj	_	Gloss=business.Plur.Cons
 15	sufùr̃iː	sufùr̃iː	NOUN	_	Gender=Masc	14	mod	_	Gloss=transport.Masc
@@ -100,8 +92,6 @@
 29	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_5
-# text_en = 
-# text_ortho = 
 # text = Hàɗaɗɗiyar̃ Ƙungìyar̃ 'Yan Ƙoːdagon Ƙasâr̃, waddà ta haɗàː dà ƙungiyoːyiː àshìr̃in dà bakwài na ma'àikàtan ƙasâr̃, ita cèː ta yi kiràn à yi yaːjìn aikìn.
 1	Hàɗaɗɗiyar̃	hàɗaɗɗiyeː	ADJ	_	Definite=Cons|Gender=Fem	2	mod	_	Gloss=united.Fem.Cons|wordform=Hadaddiyar
 2	Ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	19	dislocated@top	_	Gloss=union.Fem.Cons|wordform=Kungiyar
@@ -133,8 +123,6 @@
 28	.	.	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_6
-# text_en = 
-# text_ortho = 
 # text = Ita kùwa Hàɗaɗɗiyar̃ Ƙungìyar̃ 'Yan Ƙoːdagôn tanàː dàgà kân gàban kàmfên ɗîn neːman à kafà tafarkìn sìyaːsàː mài jàm'ìyyuː dà daːmaː à ƙasâr̃, kuma taː yi àmfàniː dà daːmar̃ raːnar̃ bìkin 'yan ƙoːdagoː ta shèːkaràr̃ nân wajen yîn kiràn à kaːwoː ƙàrshen mulkìn jàm'iyyàr̃ sìyaːsàː ƙwàːyaː ɗaya tal à Jàmhuːr̃iyàr̃ Nìːjâr̃.
 1	Ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	7	subj	_	Gloss=3Fem.Nom
 2	kùwa	kùwa	PART	_	PartType=Top	1	discourse@top	_	Gloss=in_fact|wordform=kuwa
@@ -168,7 +156,7 @@
 30	daːmar̃	daːmaː	NOUN	_	Definite=Cons|Gender=Fem	29	comp:obj	_	Gloss=opportunity.Fem.Cons|wordform=daːmar
 31	raːnar̃	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	30	mod	_	Gloss=day.Fem.Cons|wordform=raːnar
 32	bìkin	bìkiː	NOUN	_	Definite=Cons	31	mod	_	Gloss=celebration.Masc.Cons
-33	'yan	ɗaː	ADJ	_	Definite=Cons|Number=Plur	32	mod	_	Gloss=child.Plur.Cons
+33	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	32	mod	_	Gloss=child.Plur.Cons
 34	ƙoːdagoː	ƙoːdagoː	NOUN	_	Gender=Masc	33	compound	_	Gloss=labour.Masc
 35	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	31	mod	_	Gloss=Gen.Fem
 36	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	35	comp:obj	_	Gloss=year.Fem.Cons
@@ -191,8 +179,6 @@
 53	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_7
-# text_en = 
-# text_ortho = 
 # text = màːsu yîn yaːjìn aikìn sun bùkàːci gwamnatì tà yi wani tàːroː na 'yan ƙasâr̃ bàːkiː ɗaya, wandà zâi tattàunà tsaːrìn tattalin ar̃zìkiː dà kuma na sìyaːsàː.
 1	màːsu	mài	PROPN	_	Number=Plur|PartType=Der	5	subj	_	Gloss=owner/doer_of.Plur
 2	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	compound	_	Gloss=do.Vnoun.Masc.Cons
@@ -224,8 +210,6 @@
 28	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_8
-# text_en = 
-# text_ortho = 
 # text = Hakà kuma sunàː sôn mahùkùntan ƙasâr̃ sù baːyar̃ dà cìkakken bàyaːnìː à kân aràngamàː dà zub dà jiniː dà akà yi tsàkaːnin ɗàːlìbai dà kuma 'yan sàndaː à bir̃nin Yàmài à watàn Fàbàr̃air̃ùn dà ya shigèː.
 1	Hakà	hakà	ADV	_	_	3	mod	_	Gloss=thus
 2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
@@ -266,8 +250,6 @@
 37	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_9
-# text_en = 
-# text_ortho = 
 # text = Suː ɗàlibân kùwa sunàː zàngà-zangàr̃ nuːnà rashìn amincêwar̃sù dà shaːwar̃àr̃ ragè yawàn kuɗàːɗên dà gwamnatì takèː kashèː wà ilìmiː à ƙasâr̃.
 1	Suː	suː	PRON	_	Number=Plur|Person=3|PronType=Prs	4	dislocated@subj	_	Gloss=3Plur.Nom
 2	ɗàlibân	ɗaːlìbiː	NOUN	_	Definite=Def|Number=Plur	1	conj:appos	_	Gloss=student.Plur.Def
@@ -285,7 +267,7 @@
 14	kuɗàːɗên	kuɗiː	NOUN	_	Definite=Def	13	mod	_	Gloss=money.Plur.Def
 15	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=COMP
 16	gwamnatì	gwamnatì	NOUN	_	Gender=Fem	17	subj	_	Gloss=government.Fem
-17	takèː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Relative=Rel	15	mod@relcl	_	Gloss=3Fem.Prog.Rel
+17	takèː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Relative=Rel	15	comp:obj	_	Gloss=3Fem.Prog.Rel
 18	kashèː	kas-	VERB	_	_	17	comp:aux	_	Gloss=kill
 19	wà	wà	ADP	_	Case=Dat	18	comp:obl	_	Gloss=Dat
 20	ilìmiː	ilìmiː	NOUN	_	Gender=Masc	19	comp:obj	_	Gloss=education.Masc
@@ -294,8 +276,6 @@
 23	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_10
-# text_en = 
-# text_ortho = 
 # text = Waɗàndà sukà ràsu à loːkàcin rìkicîn dai, kàmar̃ yaddà mahùkùntan ƙasâr̃ sukà cêː, suː ukù neː kaɗai, koː dà yakèː wasu kafoːfin ɗàːlìban ƙasâr̃dà ma'àikàtan asìbitì sun cêː fìye dà mutàneː goːmà neː sukà mutù.
 1	Waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	18	dislocated@subj	_	Gloss=who.Plur
 2	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	1	mod@relcl	_	Gloss=3Plur.Perf.Rel
@@ -339,8 +319,6 @@
 40	.	.	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_11
-# text_en = 
-# text_ortho = 
 # text = Wannàn yaːjìn aikìn dai yaː biyoː baːyan sanâr̃wâr̃ dà gwamnatìn ƙasâr̃ ta baːyar̃ nèː à watàn jiyà, cêːwaː tanàː shirìn sauyà tsaːrìn mulkìn Jàmhuːr̃iyàr̃ Nìːjâr̃ ɗîn don à sàːmu daːmar̃ kafà tsaːrìː mài jàm'ìyyuː dà daːmaː.
 1	Wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	2	det	_	Gloss=ProxS.Masc
 2	yaːjìn	yaːjìː	NOUN	_	Definite=Cons|Gender=Masc	5	subj	_	Gloss=hot_spice.Masc.Cons
@@ -382,8 +360,6 @@
 38	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_12
-# text_en = 
-# text_ortho = 
 # text = Jàm'iyyàr̃ MNSD, mài mulkìn ƙasâr̃ tun shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà takwàs, taː cêː zaː'à kafà wani kwàmìtîn dà zâi tsaːrà irìn sàuye-sàuyên dà sukà zama doːlè.
 1	Jàm'iyyàr̃	jàm'iyyàː	NOUN	_	Definite=Cons|Gender=Fem	2	mod@desc	_	Gloss=party.Fem.Cons
 2	MNSD	MNSD	PROPN	_	_	18	subj	_	Gloss=MNSD|SpaceAfter=No
@@ -420,8 +396,6 @@
 33	.	.	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_13
-# text_en = 
-# text_ortho = 
 # text = Sai dai kuma har̃ yànzu, baːbù wani abîn dà akà saːkè jîː danganèː dà kafà wannàn kwàmìtîn.
 1	Sai	sai	SCONJ	_	_	7	mod	_	Gloss=except_that
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
@@ -444,8 +418,6 @@
 19	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_14
-# text_en = 
-# text_ortho = 
 # text = Dà daːmaː dai 'yan ƙasar̃ Nìːjâr̃ sunàː jîn gwamnatìnsù baːtàː ƙaddamar̃ dà sàuye-sàuyên dà saurîn dà ya kàmaːtà.
 1	Dà	cà	ADP	_	ExtPos=ADV	7	mod	_	Gloss=with|Idiom=Yes
 2	daːmaː	daːmaː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=opportunity.Fem|InIdiom=Yes
@@ -469,8 +441,6 @@
 20	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_15
-# text_en = 
-# text_ortho = 
 # text = Sunàː sôn gwamnatìn tà baːyar̃ dà tsaːrìn lòːkàtan ƙaddamar̃ dà shìrye-shìryên naːtà , tàːre dà cìkakken bàyaːnìn yîn zàːɓeː.
 1	Sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
 2	sôn	soː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	comp:aux	_	Gloss=want.Vnoun.Masc.Cons
@@ -496,8 +466,6 @@
 21	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_16
-# text_en = 
-# text_ortho = 
 # text = Bandà kuma matsà lambàr̃ dà shùːgàbaː " Ali Saibou " yakèː fùskantàː à kân kaucèːwaː dàgà kân tafarkìn tsaːrìn mulkìː mài jàm'iyyàː ƙwàːyaː ɗaya tal, hakà kuma shùːgàbân yanàː faːmaː dà ƙaːrìn yawàn wànzuwar̃ rashìn amìncêwaː dà manufoːfin tattalin ar̃zìkiː dà gwamnatìnsà takèː aikìː dà suː.
 1	Bandà	bandà	ADP	_	_	30	mod	_	Gloss=apart_from
 2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
@@ -550,8 +518,6 @@
 49	.	.	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_17
-# text_en = 
-# text_ortho = 
 # text = Màːsu yîn zàngà-zangàr̃ sun yi zàrgin cêːwaː gwamnatìn taːsù taː kaːsà shaːwoː kân màtsalàr̃ cîn r̃ashawaː à ƙasâr̃, kuma shirìntà maː na tsuːkè bàːkin àljiːhuː yaː shàːfi talakaːwan ƙasâr̃ neː kawài.
 1	Màːsu	Màːsu	PROPN	_	Number=Plur	4	subj	_	Gloss=Màːsu
 2	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	comp:obj	_	Gloss=do.Vnoun.Masc.Cons
@@ -591,8 +557,6 @@
 35	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_18
-# text_en = 
-# text_ortho = 
 # text = Sheːkaranjiyà Àlhàmîs, an rufè bankunàː dà kamfanoːnin ìnshoːr̃àr̃ ƙasâr̃ sabòːdà ma'àikàtansù sun yi yaːjìn aikìː.
 1	Sheːkaranjiyà	sheːkaranjiyà	ADV	_	_	2	mod	_	Gloss=day_before_yesterday
 2	Àlhàmîs	àlhàmîs	NOUN	_	Gender=Fem	4	mod	_	Gloss=thursday.Fem|SpaceAfter=No
@@ -614,8 +578,6 @@
 18	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_19
-# text_en = 
-# text_ortho = 
 # text = Yaːjìn aikìn naːsù kùwa na nuːnà goːyon baːyaː nèː gà ma'àikàtan Bankìn Raːyà Ƙasâr̃ ta Nìːjâr̃, waɗàndà sukà rasà ayyukànsù baːyân dà gwamnatìn ƙasâr̃ ta yankè shaːwar̃àr̃ rufè bankìn.
 1	Yaːjìn	yaːjìː	PROPN	_	Definite=Cons|Gender=Masc	10	subj	_	Gloss=hot_spice.Masc.Cons
 2	aikìn	aikìː	NOUN	_	Definite=Def|Gender=Masc	1	compound	_	Gloss=work.Masc.Def
@@ -653,8 +615,6 @@
 33	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_20
-# text_en = 
-# text_ortho = 
 # text = À kuma raːnar̃ Àsabàr̃ dà ta wucèː, 'yan tàːsîn ƙasâr̃ suː maː sun ƙi yîn aikìː.
 1	À	à	ADP	_	_	14	mod	_	Gloss=at
 2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
@@ -676,8 +636,6 @@
 18	.	.	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_21
-# text_en = 
-# text_ortho = 
 # text = Suː kùwa sun yi kuːkan cêːwaː gwamnatìn taːsù tanàː bâi wà ma'àikàtaː 'yan ƙasàːshen wàje fiːfiːkòː, wàːtòː ma'àikàtaː dàgà Nàːjeːr̃iyàː dà To :gò dà Jàmhuːr̃iyàr̃ Bìːni.
 1	Suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	dislocated@subj	_	Gloss=3Plur.Nom
 2	kùwa	kùwa	PART	_	PartType=Top	1	discourse@top	_	Gloss=in_fact
@@ -693,7 +651,7 @@
 11	bâi	bâː	VERB	_	_	10	comp:aux	_	Gloss=give
 12	wà	wà	ADP	_	Case=Dat	11	comp:obl	_	Gloss=Dat
 13	ma'àikàtaː	ma'àikàciː	NOUN	_	Number=Plur	12	comp:obj	_	Gloss=worker.Plur
-14	'yan	ɗaː	ADJ	_	Definite=Cons|Number=Plur	13	mod	_	Gloss=child.Plur.Cons
+14	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	13	mod	_	Gloss=child.Plur.Cons
 15	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	14	compound	_	Gloss=country.Plur.Cons
 16	wàje	wàje	ADV	_	_	15	compound	_	Gloss=outside
 17	fiːfiːkòː	fiːfiːkòː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=preference.Masc|SpaceAfter=No
@@ -710,8 +668,6 @@
 28	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_22
-# text_en = 
-# text_ortho = 
 # text = Tòː lalleː dai kàm gwamnatìn shùːgàbaː Saibou tà yi wani àbù dòːmin shaːwoː kân wannàn zàngà-zangàr̃ ta nuːnà rashìn amìncêwaː dà mulkìn dà bài daɗèː yanàː kâi ba .
 1	Tòː	tòː	INTJ	_	_	17	discourse	_	Gloss=well
 2	lalleː	lalleː	ADV	_	_	17	mod	_	Gloss=certainly
