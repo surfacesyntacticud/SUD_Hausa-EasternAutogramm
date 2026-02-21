@@ -1,8 +1,8 @@
 # sent_id = 08_Maciji_1
 # text_en = 
-# text_ortho = 
-# text = An ci wani macìːjiː mài dafìː
-1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
+# text_ortho = An ci wani macìːjiː mài dafìː
+# text = an ci wani macìːjiː mài dafìː
+1	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 2	ci	ci	VERB	_	_	1	comp:aux	_	Gloss=eat
 3	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	4	det	_	Gloss=some.Masc.Spec
 4	macìːjiː	macìːjiː	NOUN	_	Gender=Masc	2	comp:obj	_	Gloss=snake.Masc
@@ -11,9 +11,9 @@
 
 # sent_id = 08_Maciji_2
 # text_en = 
-# text_ortho = 
-# text = À gàrin " Gboko " dà kèː jihàr̃ Binuwài can areːwacin Nàːjeːr̃iyàː an kai wasu mutàneː gùdaː takwàs asìbitì baːyân dà sukà cikà cikìnsù dà àbincîn dà sukà yi miyàr̃sà dà naːmàn wani shirgeːgèn macìːjiː.
-1	À	à	ADP	_	_	13	mod	_	Gloss=at
+# text_ortho = À gàrin " Gboko " dà kèː jihàr̃ Binuwài can areːwacin Nàːjeːr̃iyàː an kai wasu mutàneː gùdaː takwàs asìbitì baːyân dà sukà cikà cikìnsù dà àbincîn dà sukà yi miyàr̃sà dà naːmàn wani shirgeːgèn macìːjiː.
+# text = à gàrin " Gboko " dà kèː jihàr̃ Binuwài can areːwacin Nàːjeːr̃iyàː an kai wasu mutàneː gùdaː takwàs asìbitì baːyân dà sukà cikà cikìnsù dà àbincîn dà sukà yi miyàr̃sà dà naːmàn wani shirgeːgèn macìːjiː.
+1	à	à	ADP	_	_	13	mod	_	Gloss=at
 2	gàrin	gàriː	NOUN	_	Definite=Cons|Gender=Masc	4	mod@desc	_	Gloss=city.Masc.Cons
 3	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 4	Gboko	Gboko	PROPN	_	_	1	comp:obj	_	Gloss=Gboko
@@ -55,9 +55,9 @@
 
 # sent_id = 08_Maciji_3a
 # text_en = 
-# text_ortho = 
-# text = Yaddà wannàn àl'amàr̃iː ya fàːru shiː nèː suː mutàːnên sun ɗaukoː gaːwar̃ wannàn macìːjiː nèː baːyân dà wata bàbbar̃ moːtàː ta laːtsèː shi à bisà hanyàː dà dàddare, sukà nùfi dà shiː zuwàː gidaː.
-1	Yaddà	yaddà	ADV	_	PronType=Rel	7	subj	_	Gloss=how
+# text_ortho = Yaddà wannàn àl'amàr̃iː ya fàːru shiː nèː suː mutàːnên sun ɗaukoː gaːwar̃ wannàn macìːjiː nèː baːyân dà wata bàbbar̃ moːtàː ta laːtsèː shi à bisà hanyàː dà dàddare, sukà nùfi dà shiː zuwàː gidaː.
+# text = yaddà wannàn àl'amàr̃iː ya fàːru shiː nèː suː mutàːnên sun ɗaukoː gaːwar̃ wannàn macìːjiː nèː baːyân dà wata bàbbar̃ moːtàː ta laːtsèː shi à bisà hanyàː dà dàddare, sukà nùfi dà shiː zuwàː gidaː.
+1	yaddà	yaddà	ADV	_	PronType=Rel	7	subj	_	Gloss=how
 2	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	3	det	_	Gloss=ProxS.Masc
 3	àl'amàr̃iː	àl'amàr̃iː	NOUN	_	Gender=Masc	4	subj	_	Gloss=matter.Masc
 4	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	1	mod@relcl	_	Gloss=3Masc.Perf.Rel
@@ -96,9 +96,9 @@
 
 # sent_id = 08_Maciji_3b
 # text_en = 
-# text_ortho = 
-# text = Sun yi kusan kwaːnaː ukù sunàː ta dafà wannàn kùmurciː kàːfin sù ci nasar̃àr̃ dafàː shi luɓus dòːmin cîː.
-1	Sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
+# text_ortho = Sun yi kusan kwaːnaː ukù sunàː ta dafà wannàn kùmurciː kàːfin sù ci nasar̃àr̃ dafàː shi luɓus dòːmin cîː.
+# text = sun yi kusan kwaːnaː ukù sunàː ta dafà wannàn kùmurciː kàːfin sù ci nasar̃àr̃ dafàː shi luɓus dòːmin cîː.
+1	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
 2	yi	yi	VERB	_	_	1	comp:aux	_	Gloss=do
 3	kusan	kusan	ADV	_	_	2	mod	_	Gloss=almost
 4	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	2	comp:pred	_	Gloss=day.Masc
@@ -121,9 +121,9 @@
 
 # sent_id = 08_Maciji_4
 # text_en = 
-# text_ortho = 
-# text = Tòː indà màtsalàr̃ ta faːrà taːshìː shiː nèː baːyân dà sukà cînyeː macìːjîn dà sukà dafàn, nan dà nan sai waɗànnân mutàːneː sukà faːrà jîn wani àbù nàː mur̃ɗàː musù cikin cikkunànsù .
-1	Tòː	tòː	INTJ	_	_	8	discourse	_	Gloss=well
+# text_ortho = Tòː indà màtsalàr̃ ta faːrà taːshìː shiː nèː baːyân dà sukà cînyeː macìːjîn dà sukà dafàn, nan dà nan sai waɗànnân mutàːneː sukà faːrà jîn wani àbù nàː mur̃ɗàː musù cikin cikkunànsù .
+# text = tòː indà màtsalàr̃ ta faːrà taːshìː shiː nèː baːyân dà sukà cînyeː macìːjîn dà sukà dafàn, nan dà nan sai waɗànnân mutàːneː sukà faːrà jîn wani àbù nàː mur̃ɗàː musù cikin cikkunànsù .
+1	tòː	tòː	INTJ	_	_	8	discourse	_	Gloss=well
 2	indà	indà	ADV	_	PronType=Rel	8	subj	_	Gloss=where
 3	màtsalàr̃	màtsalaː	NOUN	_	Definite=Def|Gender=Fem	4	subj	_	Gloss=problem.Fem.Def
 4	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	2	mod@relcl	_	Gloss=3Fem.Perf.Rel
@@ -161,9 +161,9 @@
 
 # sent_id = 08_Maciji_5
 # text_en = 
-# text_ortho = 
-# text = Dàgà nan kuma sai sukà shìga yîn amai.
-1	Dàgà	Dàgà	PROPN	_	_	5	mod	_	Gloss=Dàgà
+# text_ortho = Dàgà nan kuma sai sukà shìga yîn amai.
+# text = dàgà nan kuma sai sukà shìga yîn amai.Dàgà nan kuma sai sukà shìga yîn amai.
+1	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=from
 2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp:obj	_	Gloss=ProxH
 3	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 4	sai	sai	ADV	_	_	5	mod	_	Gloss=then
@@ -175,9 +175,9 @@
 
 # sent_id = 08_Maciji_6
 # text_en = 
-# text_ortho = 
-# text = Nan dà nan sai maƙwàbtaː sukà kwàːshi waɗànnân mutàːnên dà sukà shaː gaːrar̃ dàfaffen macìːjîn zuwàː asìbitìn Gboko, indà likitoːciː sukà tàːru sukà yi ta aikìː har̃ tsawon saː'oː'iː dòːmin neːman cèːton raːyukànsù .
-1	Nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	6	mod	_	Gloss=ProxH
+# text_ortho = Nan dà nan sai maƙwàbtaː sukà kwàːshi waɗànnân mutàːnên dà sukà shaː gaːrar̃ dàfaffen macìːjîn zuwàː asìbitìn Gboko, indà likitoːciː sukà tàːru sukà yi ta aikìː har̃ tsawon saː'oː'iː dòːmin neːman cèːton raːyukànsù .
+# text = nan dà nan sai maƙwàbtaː sukà kwàːshi waɗànnân mutàːnên dà sukà shaː gaːrar̃ dàfaffen macìːjîn zuwàː asìbitìn Gboko, indà likitoːciː sukà tàːru sukà yi ta aikìː har̃ tsawon saː'oː'iː dòːmin neːman cèːton raːyukànsù .
+1	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	6	mod	_	Gloss=ProxH
 2	dà	dà	CCONJ	_	_	3	cc	_	Gloss=and
 3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	conj:coord	_	Gloss=ProxH
 4	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -216,9 +216,9 @@
 
 # sent_id = 08_Maciji_7
 # text_en = 
-# text_ortho = 
-# text = Loːkàcîn dà hakàn kèː fàːruwaː, wasu jàːmi'an asìbitìn sukà cêː wai naːmàn macijîn dà waɗànnân mutàːnên sukà cînyeː wandà kuma ya kusa zamaː sanàdin ajàlinsù - yanàː ɗaya dàgà cikin irìn màcìːzân nan nèː màːsu dafìn gàske.
-1	Loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	10	mod	_	Gloss=time.Masc.Def
+# text_ortho = Loːkàcîn dà hakàn kèː fàːruwaː, wasu jàːmi'an asìbitìn sukà cêː wai naːmàn macijîn dà waɗànnân mutàːnên sukà cînyeː wandà kuma ya kusa zamaː sanàdin ajàlinsù - yanàː ɗaya dàgà cikin irìn màcìːzân nan nèː màːsu dafìn gàske.
+# text = loːkàcîn dà hakàn kèː fàːruwaː, wasu jàːmi'an asìbitìn sukà cêː wai naːmàn macijîn dà waɗànnân mutàːnên sukà cînyeː wandà kuma ya kusa zamaː sanàdin ajàlinsù - yanàː ɗaya dàgà cikin irìn màcìːzân nan nèː màːsu dafìn gàske.
+1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	10	mod	_	Gloss=time.Masc.Def
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 3	hakàn	hakàn	PRON	_	_	4	subj	_	Gloss=this
 4	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	2	comp:obj	_	Gloss=Prog.Rel
@@ -261,9 +261,9 @@
 
 # sent_id = 08_Maciji_8
 # text_en = 
-# text_ortho = 
-# text = Sun kuma ƙaːràː dà cêːwaː baːàː cîn naːmànsù mùsammàn dai ganin yawàn kwàːnàkîn dà akà ɗaukàː anàː dafà macìːjîn kàːfin yà dàfu luɓus.
-1	Sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
+# text_ortho = Sun kuma ƙaːràː dà cêːwaː baːàː cîn naːmànsù mùsammàn dai ganin yawàn kwàːnàkîn dà akà ɗaukàː anàː dafà macìːjîn kàːfin yà dàfu luɓus.
+# text = sun kuma ƙaːràː dà cêːwaː baːàː cîn naːmànsù mùsammàn dai ganin yawàn kwàːnàkîn dà akà ɗaukàː anàː dafà macìːjîn kàːfin yà dàfu luɓus.
+1	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
 2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 3	ƙaːràː	ƙaːr-	VERB	_	_	1	comp:aux	_	Gloss=increase
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with
@@ -291,9 +291,9 @@
 
 # sent_id = 08_Maciji_9
 # text_en = 
-# text_ortho = 
-# text = Jàːmì'ân sun yi kiràː gà mutàːnên dà kèː zàune à yankìn dà sù kìyàːyi ɗaukàr̃ gaːwàwwakin dàbboːbiː sunàː tàfiyàː dà suː gidaː don sù dafàː sù sàːmu àbinci.
-1	Jàːmì'ân	jaːmì'iː	PROPN	_	Definite=Def|Number=Plur	2	subj	_	Gloss=leader.Plur.Def
+# text_ortho = Jàːmì'ân sun yi kiràː gà mutàːnên dà kèː zàune à yankìn dà sù kìyàːyi ɗaukàr̃ gaːwàwwakin dàbboːbiː sunàː tàfiyàː dà suː gidaː don sù dafàː sù sàːmu àbinci.
+# text = jàːmì'ân sun yi kiràː gà mutàːnên dà kèː zàune à yankìn dà sù kìyàːyi ɗaukàr̃ gaːwàwwakin dàbboːbiː sunàː tàfiyàː dà suː gidaː don sù dafàː sù sàːmu àbinci.
+1	jàːmì'ân	jaːmì'iː	PROPN	_	Definite=Def|Number=Plur	2	subj	_	Gloss=leader.Plur.Def
 2	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	3	comp:pred	_	Gloss=call.Vnoun.Masc
@@ -325,9 +325,9 @@
 
 # sent_id = 08_Maciji_10
 # text_en = 
-# text_ortho = 
-# text = Hakà kuma jàːmì'an asìbitìn sun yi wani gàr̃gàɗiː gàme dà maːgungunàn kashè ƙwàːriː irìː dàbam dàbam waɗàndà manòːmaː kèː àmfàniː dà suː don kadà wasu ƙwàːriː sù laːlàːtaː musù àmfàːnin goːnaː.
-1	Hakà	hakà	ADV	_	_	5	mod	_	Gloss=thus
+# text_ortho = Hakà kuma jàːmì'an asìbitìn sun yi wani gàr̃gàɗiː gàme dà maːgungunàn kashè ƙwàːriː irìː dàbam dàbam waɗàndà manòːmaː kèː àmfàniː dà suː don kadà wasu ƙwàːriː sù laːlàːtaː musù àmfàːnin goːnaː.
+# text = hakà kuma jàːmì'an asìbitìn sun yi wani gàr̃gàɗiː gàme dà maːgungunàn kashè ƙwàːriː irìː dàbam dàbam waɗàndà manòːmaː kèː àmfàniː dà suː don kadà wasu ƙwàːriː sù laːlàːtaː musù àmfàːnin goːnaː.
+1	hakà	hakà	ADV	_	_	5	mod	_	Gloss=thus
 2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 3	jàːmì'an	jaːmì'iː	NOUN	_	Definite=Cons|Number=Plur	5	subj	_	Gloss=leader.Plur.Cons
 4	asìbitìn	asìbitìː	NOUN	_	Definite=Def|Gender=Masc	3	mod	_	Gloss=hospital.Masc.Def
