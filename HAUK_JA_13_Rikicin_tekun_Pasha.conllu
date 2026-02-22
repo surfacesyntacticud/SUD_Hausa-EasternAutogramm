@@ -1,6 +1,8 @@
 # sent_id = 13_Rikicin_tekun_Pasha_1
-# text = An yi zàngà-zangà à areːwacin Nàːjeːr̃iyàː gàme dà rìkicin Tèːkun Paːshà
-1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
+# text_en = Demonstrations took place in the north of Nigeria concerning the Gulf War
+# text_ortho = An yi zàngà-zangà à areːwacin Nàːjeːr̃iyàː gàme dà rìkicin Tèːkun Paːshà
+# text = an yi zàngà-zangà à areːwacin Nàːjeːr̃iyàː gàme dà rìkicin Tèːkun Paːshà
+1	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 2	yi	yi	VERB	_	_	1	comp:aux	_	Gloss=do
 3	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	2	comp:pred	_	Gloss=demonstration.Fem
 4	à	à	ADP	_	_	2	mod	_	Gloss=at
@@ -13,8 +15,10 @@
 11	Paːshà	Paːshà	PROPN	_	_	10	mod	_	Gloss=Paːshà
 
 # sent_id = 13_Rikicin_tekun_Pasha_2
-# text = À Nàːjeːr̃iyàː Sarkin Mùsùlmiː, Àlhajì Ìbraːhìm Dàsuːƙi, yaː yi kiràː gà jàma'àr̃sà dà sù yi bìr̃is dà wasu tàkàr̃duː dà yànzu akèː rarràbâːwaː à ƙasâr̃ dà nufìn zugà àl'ummàr̃ Mùsùlmiː sù ɗàuki wasu màtàːkai gàme dà rìkicîn nan na Tèːkun Paːshà.
-1	À	à	ADP	_	_	10	mod	_	Gloss=at|wordform=A
+# text_en = In Nigeria, the Sultan of Sokoto, Alhaji Ibrahim Dasuki, appealed to his people to ignore some newspapers that are distributed in the country in order to incite the Muslim community to take some steps concerning the Gulf War.
+# text_ortho = À Nàːjeːr̃iyàː Sarkin Mùsùlmiː, Àlhajì Ìbraːhìm Dàsuːƙi, yaː yi kiràː gà jàma'àr̃sà dà sù yi bìr̃is dà wasu tàkàr̃duː dà yànzu akèː rarràbâːwaː à ƙasâr̃ dà nufìn zugà àl'ummàr̃ Mùsùlmiː sù ɗàuki wasu màtàːkai gàme dà rìkicîn nan na Tèːkun Paːshà.
+# text = à Nàːjeːr̃iyàː Sarkin Mùsùlmiː, Àlhajì Ìbraːhìm Dàsuːƙi, yaː yi kiràː gà jàma'àr̃sà dà sù yi bìr̃is dà wasu tàkàr̃duː dà yànzu akèː rarràbâːwaː à ƙasâr̃ dà nufìn zugà àl'ummàr̃ Mùsùlmiː sù ɗàuki wasu màtàːkai gàme dà rìkicîn nan na Tèːkun Paːshà.
+1	à	à	ADP	_	_	10	mod	_	Gloss=at|wordform=A
 2	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	1	comp:obj	_	Gloss=Nigeria
 3	Sarkin	sarkiː	NOUN	_	Definite=Cons	10	subj	_	Gloss=leader.Masc.Cons
 4	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	3	mod	_	Gloss=Muslim.Plur|SpaceAfter=No
@@ -62,9 +66,11 @@
 45	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha_3
-# text = Mài Mar̃tabàː yaː yi wannàn kiràn neː baːyan zàngà-zangà gùdaː biyu dà akà yi à areːwacin ƙasâr̃, indà akà cêː mutàːneː dà daːmaː sunàː goːyon baːyan shùːgàban ƙasar̃ Ìr̃aːƙì, wàːtòː " Saddam Hussein" .
-1	Mài	mài	PART	_	Number=Sing|PartType=Der	3	subj	_	Gloss=owner_of.Sing
-2	Mar̃tabàː	mar̃tabàː	NOUN	_	Gender=Fem	1	compound	_	Gloss=highness.Fem
+# text_en = His Highness made this appeal after two demonstrations that took place in the north of the country, where many people were said to be supporting the President of Irak, i.e. 'Saddam Hussein'. 
+# text_ortho = Mài Mar̃tabàː yaː yi wannàn kiràn neː baːyan zàngà-zangà gùdaː biyu dà akà yi à areːwacin ƙasâr̃, indà akà cêː mutàːneː dà daːmaː sunàː goːyon baːyan shùːgàban ƙasar̃ Ìr̃aːƙì, wàːtòː " Saddam Hussein" .
+# text = mài mar̃tabàː yaː yi wannàn kiràn neː baːyan zàngà-zangà gùdaː biyu dà akà yi à areːwacin ƙasâr̃, indà akà cêː mutàːneː dà daːmaː sunàː goːyon baːyan shùːgàban ƙasar̃ Ìr̃aːƙì, wàːtòː " Saddam Hussein" . wannàn kiràn neː baːyan zàngà-zangà gùdaː biyu dà akà yi à areːwacin ƙasâr̃, indà akà cêː mutàːneː dà daːmaː sunàː goːyon baːyan shùːgàban ƙasar̃ Ìr̃aːƙì, wàːtòː " Saddam Hussein" .
+1	mài	mài	PART	_	Number=Sing|PartType=Der	3	subj	_	Gloss=owner_of.Sing
+2	mar̃tabàː	mar̃tabàː	NOUN	_	Gender=Fem	1	compound	_	Gloss=highness.Fem
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 4	yi	yi	VERB	_	_	3	comp:aux	_	Gloss=do
 5	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	6	det	_	Gloss=ProxS.Masc
@@ -102,8 +108,10 @@
 37	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha_4
-# text = À sanâr̃wâr̃ taːsà dai, Sarkin Mùsùlmiː bài fitoː fiːliː yaː bayyànà tàkàr̃dûn dà yakèː màganàː à kâi ba, tòː àmmaː à 'yan kwàːnàkin nàn jàr̃ìːdun Nàːjeːr̃iyàː sun shaː bugà shar̃hìː dà kèː nuːnà ƙîn jinin Amìr̃kà.
-1	À	à	ADP	_	_	9	mod	_	Gloss=at|wordform=A
+# text_en = To his knowledge, the Sultan of Sokoto did not reveal which papers he was talking about, but a few days ago, Nigerian newspapers published critical articles that showed hostility to America. 
+# text_ortho = À sanâr̃wâr̃ taːsà dai, Sarkin Mùsùlmiː bài fitoː fiːliː yaː bayyànà tàkàr̃dûn dà yakèː màganàː à kâi ba, tòː àmmaː à 'yan kwàːnàkin nàn jàr̃ìːdun Nàːjeːr̃iyàː sun shaː bugà shar̃hìː dà kèː nuːnà ƙîn jinin Amìr̃kà.
+# text = à sanâr̃wâr̃ taːsà dai, Sarkin Mùsùlmiː bài fitoː fiːliː yaː bayyànà tàkàr̃dûn dà yakèː màganàː à kâi ba, tòː àmmaː à 'yan kwàːnàkin nàn jàr̃ìːdun Nàːjeːr̃iyàː sun shaː bugà shar̃hìː dà kèː nuːnà ƙîn jinin Amìr̃kà.
+1	à	à	ADP	_	_	9	mod	_	Gloss=at|wordform=A
 2	sanâr̃wâr̃	sanâr̃waː	NOUN	_	Definite=Def|Gender=Fem	1	comp:obj	_	Gloss=announcement.Fem.Def
 3-4	taːsà	_	_	_	_	_	_	_	_
 3	taː	na	PART	_	Case=Gen|Gender=Fem	2	mod	_	Gloss=Gen.Fem
@@ -146,8 +154,10 @@
 40	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha_5
-# text = Hakà kuma anàː zàton cêːwaː à haːlin yànzu anàː rarràbà wasu tàkàr̃duː à areːwacin Nàːjeːr̃iyàː waɗàndà sukà sòːki àbîn dà ƙasàːshen ƙàwànceː sukèː wà Ìr̃aːƙì .
-1	Hakà	hakà	ADV	_	_	3	mod	_	Gloss=thus
+# text_en = Likewise, it is thought that now, in the north of Nigeria, newspapers are distributed condemning what the coalition countries are doing to Irak.
+# text_ortho = Hakà kuma anàː zàton cêːwaː à haːlin yànzu anàː rarràbà wasu tàkàr̃duː à areːwacin Nàːjeːr̃iyàː waɗàndà sukà sòːki àbîn dà ƙasàːshen ƙàwànceː sukèː wà Ìr̃aːƙì .
+# text = hakà kuma anàː zàton cêːwaː à haːlin yànzu anàː rarràbà wasu tàkàr̃duː à areːwacin Nàːjeːr̃iyàː waɗàndà sukà sòːki àbîn dà ƙasàːshen ƙàwànceː sukèː wà Ìr̃aːƙì .
+1	hakà	hakà	ADV	_	_	3	mod	_	Gloss=thus
 2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 3	anàː	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=4.Prog|wordform=and
 4	zàton	zat-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	3	comp:aux	_	Gloss=think.Vnoun.Masc.Cons
@@ -175,8 +185,10 @@
 26	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha_6
-# text = Wani jàwaːbìː dà akà bugàː à wata jàr̃iːdàː, wandà akà cêː yanàː bayyànà r̃a'àyin wata bàbbar̃ ƙungìyar̃ mùsùlmin areːwacin Nàːjeːr̃iyàː neː, yaː yi kiràː gà dukkàn mùsùlmiː dà sù taːshì tsàye sù bayyànà r̃a'àyinsù à gàme dà rìkicin Tèːkun Paːshà ɗîn.
-1	Wani	wani	DET	_	Definite=Spec|Number=Plur|PronType=Dem	2	det	_	Gloss=some.Masc.Spec
+# text_en = A report published in a newspaper which is said to express the opinion of a big Muslim Congregation in the north of Nigeria, has called on all Muslims to rise and express their opinion concerning the Gulf War.
+# text_ortho = Wani jàwaːbìː dà akà bugàː à wata jàr̃iːdàː, wandà akà cêː yanàː bayyànà r̃a'àyin wata bàbbar̃ ƙungìyar̃ mùsùlmin areːwacin Nàːjeːr̃iyàː neː, yaː yi kiràː gà dukkàn mùsùlmiː dà sù taːshì tsàye sù bayyànà r̃a'àyinsù à gàme dà rìkicin Tèːkun Paːshà ɗîn.
+# text = wani jàwaːbìː dà akà bugàː à wata jàr̃iːdàː, wandà akà cêː yanàː bayyànà r̃a'àyin wata bàbbar̃ ƙungìyar̃ mùsùlmin areːwacin Nàːjeːr̃iyàː neː, yaː yi kiràː gà dukkàn mùsùlmiː dà sù taːshì tsàye sù bayyànà r̃a'àyinsù à gàme dà rìkicin Tèːkun Paːshà ɗîn.
+1	wani	wani	DET	_	Definite=Spec|Number=Plur|PronType=Dem	2	det	_	Gloss=some.Masc.Spec
 2	jàwaːbìː	jàwaːbìː	NOUN	_	Gender=Masc	24	subj	_	Gloss=article.Masc
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP|wordform=da
 4	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	3	comp:obj	_	Gloss=4.Perf.Rel|wordform=aka
@@ -224,14 +236,16 @@
 45	.	.	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha_7a
-# text = Wani mài màganàː dà yaːwun Sarkin Mùsùlmiː yaː jaddàːdà cêːwaː nuːnà ƙîn jinin Amìr̃kà à Nàːjeːr̃iyàː r̃a'àyin wasu 'yan tsìràːruː nèː, kuma shùːgàbànnin mùsùlmiː sunàː hàƙuriː dà suː nèː kawài sabòːdà 'yancìn dà akèː dà shiː à ƙasâr̃ na fàɗar̃ r̃a'àyiː .
-1	Wani	waeː	PROPN	_	Definite=Spec|Number=Plur|PronType=Dem	8	subj	_	Gloss=some.Masc.Spec
+# text_en = A spokesman for the Sultan of Sokoto has confirmed that in Nigeria, hostility to America is the opinion of a minority, and Muslim leaders are only tolerating them because of the freedom of expression that exists in the country. 
+# text_ortho = Wani mài màganàː dà yaːwun Sarkin Mùsùlmiː yaː jaddàːdà cêːwaː nuːnà ƙîn jinin Amìr̃kà à Nàːjeːr̃iyàː r̃a'àyin wasu 'yan tsìràːruː nèː, kuma shùːgàbànnin mùsùlmiː sunàː hàƙuriː dà suː nèː kawài sabòːdà 'yancìn dà akèː dà shiː à ƙasâr̃ na fàɗar̃ r̃a'àyiː .
+# text = wani mài màganàː dà yaːwun Sarkin Mùsùlmiː yaː jaddàːdà cêːwaː nuːnà ƙîn jinin Amìr̃kà à Nàːjeːr̃iyàː r̃a'àyin wasu 'yan tsìràːruː nèː, kuma shùːgàbànnin mùsùlmiː sunàː hàƙuriː dà suː nèː kawài sabòːdà 'yancìn dà akèː dà shiː à ƙasâr̃ na fàɗar̃ r̃a'àyiː .
+1	wani	wani	PRON	_	Definite=Spec|Number=Plur|PronType=Dem	8	subj	_	Gloss=some.Masc.Spec
 2	mài	mài	PART	_	Number=Sing|PartType=Der	1	mod	_	Gloss=owner/doer_of.Sing
 3	màganàː	màganàː	NOUN	_	Gender=Fem	2	comp:obj	_	Gloss=speech.Fem
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with|wordform=da
 5	yaːwun	yaːwuː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	Gloss=saliva.Masc.Cons
-6	Sarkin	sarkiː	NOUN	_	Definite=Cons|Gender=Masc	5	mod	_	Gloss=leader.Masc.Cons
-7	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	6	mod	_	Gloss=muslim.Plur
+6	sarkin	sarkiː	NOUN	_	Definite=Cons|Gender=Masc	5	mod	_	Gloss=leader.Masc.Cons
+7	mùsùlmiː	mùsùlmiː	NOUN	_	Number=Plur	6	mod	_	Gloss=muslim.Plur
 8	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 9	jaddàːdà	jaddaːd-	VERB	_	_	8	comp:aux	_	Gloss=confirm
 10	cêːwaː	cêːwaː	SCONJ	_	_	9	comp:obj	_	Gloss=COMP
@@ -270,8 +284,10 @@
 43	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha_7b
-# text = Kàːkàːkîn ya kuma cêː shùːgàbànnin mùsùlmiː à Nàːjeːr̃iyàː sunàː sôː sù nuːnà rashìn goːyon baːyansù gà maːmàyêːwâr̃ dà Ìr̃aːƙì ta yi wà Kùwât .
-1	Kàːkàːkîn	kàːkàːkiː	NOUN	_	Definite=Def	2	subj	_	Gloss=spokesman.Masc.Def
+# text_en = The spokesman said that Muslim leaders in Nigeria wanted to express their lack of support to the occupation that Irak did in Kuweit. 
+# text_ortho = Kàːkàːkîn ya kuma cêː shùːgàbànnin mùsùlmiː à Nàːjeːr̃iyàː sunàː sôː sù nuːnà rashìn goːyon baːyansù gà maːmàyêːwâr̃ dà Ìr̃aːƙì ta yi wà Kùwât .
+# text = kàːkàːkîn ya kuma cêː shùːgàbànnin mùsùlmiː à Nàːjeːr̃iyàː sunàː sôː sù nuːnà rashìn goːyon baːyansù gà maːmàyêːwâr̃ dà Ìr̃aːƙì ta yi wà Kùwât .
+1	kàːkàːkîn	kàːkàːkiː	NOUN	_	Definite=Def	2	subj	_	Gloss=spokesman.Masc.Def
 2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
 3	kuma	kuma	PART	_	PartType=Disc	2	discourse@top	_	Gloss=also
 4	cêː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
@@ -295,12 +311,14 @@
 21	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	19	comp:obj	_	Gloss=3Fem.Perf.Rel
 22	yi	yi	VERB	_	_	21	comp:aux	_	Gloss=do
 23	wà	wà	ADP	_	Case=Dat	22	comp:obl	_	Gloss=Dat
-24	Kùwât	Kùwât	PROPN	_	_	23	comp:obj	_	Gloss=Koweit
+24	Kùwât	Kùwât	PROPN	_	_	23	comp:obj	_	Gloss=Kuweit
 25	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha_8
-# text = Yanàː kuma dà rashìn goːyon baːyan harìn dà ƙasàːshen ƙàwànceː kèː kai wà Ìr̃aːƙì , wandà akà yi hanzarin kâiwaː bàː tàːre dà barìn tàːkunkùmîn dà akà sâː wà Ìr̃aːƙì daːmar̃ yîn aikìː ba.
-1	Yanàː	nàː	AUX	_	Aspect=Prog|Gender=Sing|Person=3	0	root	_	Gloss=3Sing.Prog
+# text_en = They are not supporting either the attack that the alliance countries did on Irak, which they hastened to do without allowing the sanctions that were inflicted on Irak to take effect.
+# text_ortho = Yanàː kuma dà rashìn goːyon baːyan harìn dà ƙasàːshen ƙàwànceː kèː kai wà Ìr̃aːƙì , wandà akà yi hanzarin kâiwaː bàː tàːre dà barìn tàːkunkùmîn dà akà sâː wà Ìr̃aːƙì daːmar̃ yîn aikìː ba.
+# text = yanàː kuma dà rashìn goːyon baːyan harìn dà ƙasàːshen ƙàwànceː kèː kai wà Ìr̃aːƙì , wandà akà yi hanzarin kâiwaː bàː tàːre dà barìn tàːkunkùmîn dà akà sâː wà Ìr̃aːƙì daːmar̃ yîn aikìː ba.
+1	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Sing|Person=3	0	root	_	Gloss=3Sing.Prog
 2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 3	dà	dà	ADP	_	_	1	comp:pred	_	Gloss=with
 4	rashìn	ras-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	3	comp:obj	_	Gloss=lack.Vnoun.Masc.Cons
@@ -337,8 +355,10 @@
 35	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha_9
-# text = Dàːmuwâr̃ dà shùgàbànnin mùsùlmiː kèː nuːnàːwaː taː biyoː baːyan zàngà-zangàr̃ dà akà yi nèː har̃ sàu biyu à areːwacin Nàːjeːr̃iyàr̃.
-1	Dàːmuwâr̃	dàːmuwaː	NOUN	_	Definite=Def	7	subj	_	Gloss=worry.Fem.Def
+# text_en = The concerns that Muslim leaders are expressing followed some demonstrations that took place twice in the north of Nigeria.
+# text_ortho = Dàːmuwâr̃ dà shùgàbànnin mùsùlmiː kèː nuːnàːwaː taː biyoː baːyan zàngà-zangàr̃ dà akà yi nèː har̃ sàu biyu à areːwacin Nàːjeːr̃iyàr̃.
+# text = dàːmuwâr̃ dà shùgàbànnin mùsùlmiː kèː nuːnàːwaː taː biyoː baːyan zàngà-zangàr̃ dà akà yi nèː har̃ sàu biyu à areːwacin Nàːjeːr̃iyàr̃.
+1	dàːmuwâr̃	dàːmuwaː	NOUN	_	Definite=Def	7	subj	_	Gloss=worry.Fem.Def
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 3	shùgàbànnin	shùgàbàː	NOUN	_	Definite=Cons|Number=Plur	5	conj:coord	_	Gloss=leader.Plur.Cons
 4	mùsùlmiː	mùsùlmiː	NOUN	_	Number=Plur	3	mod	_	Gloss=muslim.Plur
@@ -361,8 +381,10 @@
 21	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha_10-1
-# text = An yi zàngà-zangàr̃ farkoː nèː à bir̃nin Kàtsinà indà ɗaruːruwàn matàːsaː sukà yi zàngà-zangàr̃ nuːnà rashìn goːyon baːyan Shùːgàbaː " George Bush " dà kuma Shùːgàbaː Saddam Hussein.
-1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
+# text_en = The first demonstration took place in Katsina where hundreds of youths demonstrated against President 'George Bush' and President Saddam Hussein. 
+# text_ortho = An yi zàngà-zangàr̃ farkoː nèː à bir̃nin Kàtsinà indà ɗaruːruwàn matàːsaː sukà yi zàngà-zangàr̃ nuːnà rashìn goːyon baːyan Shùːgàbaː " George Bush " dà kuma Shùːgàbaː Saddam Hussein.
+# text = an yi zàngà-zangàr̃ farkoː nèː à bir̃nin Kàtsinà indà ɗaruːruwàn matàːsaː sukà yi zàngà-zangàr̃ nuːnà rashìn goːyon baːyan Shùːgàbaː " George Bush " dà kuma Shùːgàbaː Saddam Hussein.
+1	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 2	yi	yi	VERB	_	_	1	comp:aux	_	Gloss=do
 3	zàngà-zangàr̃	zàngà-zangà	NOUN	_	Definite=Cons|Gender=Fem	2	comp:pred	_	Gloss=demonstration.Fem.Cons
 4	farkoː	farkoː	NOUN	_	Gender=Masc	3	mod	_	Gloss=beginning.Masc
@@ -393,8 +415,10 @@
 29	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha_12
-# text = An yi zàngà-zangà ta biyûn à Kanòː indà 'yan sàndan kashè tàr̃zòːmaː sukà yi sàmmakoː zuwàː hàr̃aːbàr̃ Jaːmi'àr̃ Bàyer̃ò ta Kanòː, don sù hanà ɗàːlìban jaːmi'àr̃ gudaːnar̃ dà zàngà-zangàr̃ lùmaːnàr̃ dà sukà shiryà yîː don nuːnà rashìn amìncêːwar̃sù dà harìn dà ƙasar̃ Amìr̃kà dà àːbòːkan ƙàwàncentà sukà kai wà ƙasar̃ Ìr̃aːƙì.
-1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
+# text_en = The second demonstration took place in Kano where anti-riot policemen went early in the morning to the Bayero University campus in Kano to prevent the students of the university from organising a peaceful demonstration against the attack that America and its allies carried on Irak.
+# text_ortho = An yi zàngà-zangà ta biyûn à Kanòː indà 'yan sàndan kashè tàr̃zòːmaː sukà yi sàmmakoː zuwàː hàr̃aːbàr̃ Jaːmi'àr̃ Bàyer̃ò ta Kanòː, don sù hanà ɗàːlìban jaːmi'àr̃ gudaːnar̃ dà zàngà-zangàr̃ lùmaːnàr̃ dà sukà shiryà yîː don nuːnà rashìn amìncêːwar̃sù dà harìn dà ƙasar̃ Amìr̃kà dà àːbòːkan ƙàwàncentà sukà kai wà ƙasar̃ Ìr̃aːƙì.
+# text = an yi zàngà-zangà ta biyûn à Kanòː indà 'yan sàndan kashè tàr̃zòːmaː sukà yi sàmmakoː zuwàː hàr̃aːbàr̃ Jaːmi'àr̃ Bàyer̃ò ta Kanòː, don sù hanà ɗàːlìban jaːmi'àr̃ gudaːnar̃ dà zàngà-zangàr̃ lùmaːnàr̃ dà sukà shiryà yîː don nuːnà rashìn amìncêːwar̃sù dà harìn dà ƙasar̃ Amìr̃kà dà àːbòːkan ƙàwàncentà sukà kai wà ƙasar̃ Ìr̃aːƙì.
+1	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 2	yi	yi	VERB	_	_	1	comp:aux	_	Gloss=do
 3	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	2	comp:pred	_	Gloss=demonstration.Fem
 4	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	3	mod	_	Gloss=Gen.Fem
@@ -453,8 +477,10 @@
 55	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha_13
-# text = Tun dà duku-duku nèː 'yan sàndan kashè tàr̃zòːmâr̃ sukà jeː hàr̃aːbàr̃ jaːmi'àr̃ sukà yi wà wurîn ƙawanyàː, sànnan kuma sukà kullèː duk ƙoːfoːfîn dà mânyan kwaːɗunàː.
-1	Tun	tun	ADP	_	_	9	mod	_	Gloss=since
+# text_en = Early in the morning, anti-riot policemen went to the university campus, they surrounded the place, then they closed all the doors with large padlocks.
+# text_ortho = Tun dà duku-duku nèː 'yan sàndan kashè tàr̃zòːmâr̃ sukà jeː hàr̃aːbàr̃ jaːmi'àr̃ sukà yi wà wurîn ƙawanyàː, sànnan kuma sukà kullèː duk ƙoːfoːfîn dà mânyan kwaːɗunàː.
+# text = tun dà duku-duku nèː 'yan sàndan kashè tàr̃zòːmâr̃ sukà jeː hàr̃aːbàr̃ jaːmi'àr̃ sukà yi wà wurîn ƙawanyàː, sànnan kuma sukà kullèː duk ƙoːfoːfîn dà mânyan kwaːɗunàː.
+1	tun	tun	ADP	_	_	9	mod	_	Gloss=since
 2	dà	dà	ADP	_	_	1	comp:obj	_	Gloss=with
 3	duku-duku	duku-dukkà	ADV	_	_	2	comp:obj	_	Gloss=early_morning
 4	nèː	neː	PART	_	PartType=Foc	3	discourse@foc	_	Gloss=Emph
@@ -484,8 +510,10 @@
 28	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha_14
-# text = Tòː loːkàcîn dà ɗàːlìbân sukà fàhìmci cêːwaː 'yan sàndaː sun yi musù ƙoːfàr̃ ragoː, sai sukà faːrà huːcè haushinsù sukà rinƙà jiːfàn 'yan sàndân dà duwàːtsuː.
-1	Tòː	tòː	INTJ	_	_	17	discourse	_	Gloss=well
+# text_en = Well, when the students understood that the police had isolated them, then they started to voice their anger by throwing stones at the police. 
+# text_ortho = Tòː loːkàcîn dà ɗàːlìbân sukà fàhìmci cêːwaː 'yan sàndaː sun yi musù ƙoːfàr̃ ragoː, sai sukà faːrà huːcè haushinsù sukà rinƙà jiːfàn 'yan sàndân dà duwàːtsuː.
+# text = tòː loːkàcîn dà ɗàːlìbân sukà fàhìmci cêːwaː 'yan sàndaː sun yi musù ƙoːfàr̃ ragoː, sai sukà faːrà huːcè haushinsù sukà rinƙà jiːfàn 'yan sàndân dà duwàːtsuː.
+1	tòː	tòː	INTJ	_	_	17	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	17	mod	_	Gloss=time.Masc.Def
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 4	ɗàːlìbân	ɗaːlìbiː	NOUN	_	Definite=Def|Number=Plur	5	subj	_	Gloss=student.Plur.Def
@@ -517,8 +545,10 @@
 29	.	.	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha_15a
-# text = Ganin hakà neː kuma ya sâː suː 'yan sàndân sukà mai dà mar̃tàniː dà bàr̃kòːnon tsoːhuwaː,
-1	Ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	0	root	_	Gloss=see.Vnoun.Masc.Cons
+# text_en = Seeing this, the police retaliated with tear gas. 
+# text_ortho = Ganin hakà neː kuma ya sâː suː 'yan sàndân sukà mai dà mar̃tàniː dà bàr̃kòːnon tsoːhuwaː,
+# text = ganin hakà neː kuma ya sâː suː 'yan sàndân sukà mai dà mar̃tàniː dà bàr̃kòːnon tsoːhuwaː,
+1	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	0	root	_	Gloss=see.Vnoun.Masc.Cons
 2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=thus
 3	neː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
 4	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
@@ -537,6 +567,8 @@
 17	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha_15b
+# text_en = Finally, the students retreated and went back to the university campus. 
+# text_ortho = dàgà ƙàrsheː sai ɗàːlìbân sukà jaː dà baːya sukà koːmàː cikin hàr̃aːbàr̃ jaːmi'àr̃.
 # text = dàgà ƙàrsheː sai ɗàːlìbân sukà jaː dà baːya sukà koːmàː cikin hàr̃aːbàr̃ jaːmi'àr̃.
 1	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=from
 2	ƙàrsheː	ƙàrsheː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=end.Masc
@@ -554,8 +586,10 @@
 14	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha_16
-# text = Baːbù wani r̃àhoːtòn raunukàː dà akà saːmùː sànàdiyyàr̃ zàngà-zangàr̃ dà akà yi duk à Kàtsinà dà kuma Kanòː, tòː àmmaː kiràn dà Sarkin Mùsùlmiː ya yi na à zaunàː laːfiyàː yaː nuːnàː kèːnan àkwai yìːwuwar̃ ɓarkèːwar̃ taːshìn hankàliː
-1	Baːbù	baːbù	PART	_	PartType=Neg	0	root	_	Gloss=there_is_not
+# text_en = There is no report of injuries in relation with the demonstrations that took place in Katsina and Kano, but the call that the Sultan of Sokoto made for people to keep calm shows indeed that there is a possibility that unrest could develop.
+# text_ortho = Baːbù wani r̃àhoːtòn raunukàː dà akà saːmùː sànàdiyyàr̃ zàngà-zangàr̃ dà akà yi duk à Kàtsinà dà kuma Kanòː, tòː àmmaː kiràn dà Sarkin Mùsùlmiː ya yi na à zaunàː laːfiyàː yaː nuːnàː kèːnan àkwai yìːwuwar̃ ɓarkèːwar̃ taːshìn hankàliː
+# text = baːbù wani r̃àhoːtòn raunukàː dà akà saːmùː sànàdiyyàr̃ zàngà-zangàr̃ dà akà yi duk à Kàtsinà dà kuma Kanòː, tòː àmmaː kiràn dà Sarkin Mùsùlmiː ya yi na à zaunàː laːfiyàː yaː nuːnàː kèːnan àkwai yìːwuwar̃ ɓarkèːwar̃ taːshìn hankàliː
+1	baːbù	baːbù	PART	_	PartType=Neg	0	root	_	Gloss=there_is_not
 2	wani	wani	DET	_	Definite=Spec|Gender=Masc	3	det	_	Gloss=some.Masc.Spec
 3	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Cons|Number=Plur	1	subj	_	Gloss=report.Masc.Cons
 4	raunukàː	raunìː	NOUN	_	Number=Plur	3	mod	_	Gloss=injury.Plur
