@@ -1,6 +1,8 @@
 # sent_id = 12_Bala'in_tafkin_Nyos_1
-# text = Mèː ya kaːwoː bàlaː'ìn Tafkìn "Nyos"?
-1	Mèː	mèː	PRON	_	PronType=Int	0	root	_	Gloss=what
+# text_en = What caused the disaster of Lake 'Nyos'? 
+# text_ortho = Mèː ya kaːwoː bàlaː'ìn Tafkìn "Nyos"?
+# text = mèː ya kaːwoː bàlaː'ìn Tafkìn "Nyos"?
+1	mèː	mèː	PRON	_	PronType=Int	0	root	_	Gloss=what
 2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	1	comp:cleft	_	Gloss=3Masc.Perf.Rel
 3	kaːwoː	kai	VERB	_	_	2	comp:aux	_	Gloss=carry/take_to
 4	bàlaː'ìn	bàlaː'ìː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=disaster.Masc.Cons
@@ -11,8 +13,10 @@
 9	?	?	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_2
-# text = À watàn Àgustàː na shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà neː wata irìn iskàː mài gubàː, wàːtòː " carbon dioxide" , ta riƙà fìtaː dàgà Tafkìn Nyos ƙasar̃ Kàmàr̃u har̃ ta yi sànàdiyyàr̃ mutuwàr̃ mutàːneː kàmar̃ dubuː dà ɗàriː bakwài.
-1	À	à	ADP	_	_	27	mod	_	Gloss=at
+# text_en = In August nineteen eighty-six, a kind of poisonous gas, i.e. 'carbon dioxide', kept coming out of Lake Nyos in Cameroon and caused the death of about one thousand seven hundred people. 
+# text_ortho = À watàn Àgustàː na shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà neː wata irìn iskàː mài gubàː, wàːtòː " carbon dioxide" , ta riƙà fìtaː dàgà Tafkìn Nyos ƙasar̃ Kàmàr̃u har̃ ta yi sànàdiyyàr̃ mutuwàr̃ mutàːneː kàmar̃ dubuː dà ɗàriː bakwài.
+# text = à watàn Àgustàː na shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà neː wata irìn iskàː mài gubàː, wàːtòː " carbon dioxide" , ta riƙà fìtaː dàgà Tafkìn Nyos ƙasar̃ Kàmàr̃u har̃ ta yi sànàdiyyàr̃ mutuwàr̃ mutàːneː kàmar̃ dubuː dà ɗàriː bakwài.
+1	à	à	ADP	_	_	27	mod	_	Gloss=at
 2	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	3	mod@desc	_	Gloss=month.Masc.Cons
 3	Àgustàː	Àgustàː	PROPN	_	Gender=Masc	1	comp:obj	_	Gloss=august.Masc
 4	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	3	mod	_	Gloss=Gen.Masc
@@ -60,8 +64,10 @@
 46	.	.	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_3
-# text = Àbîn dà ya fàːru shiː nèː hakà kawài tafkìn ya bur̃tsoː dà wajen tân dubuː shidà na iskàr̃ ta carbon dioxide , har̃ ya jaːwoː ruwaː tân dubuː mèːtan ya yi àmbaːliyàː.
-1	Àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	6	subj	_	Gloss=thing.Masc.Def|wordform=Abin
+# text_en = What happened is that, just like that, the lake released about sixth thousand tons of carbon dioxide, so that it sent two hundred thousand tons of water to cause a flood. 
+# text_ortho = Àbîn dà ya fàːru shiː nèː hakà kawài tafkìn ya bur̃tsoː dà wajen tân dubuː shidà na iskàr̃ ta carbon dioxide , har̃ ya jaːwoː ruwaː tân dubuː mèːtan ya yi àmbaːliyàː.
+# text = àbîn dà ya fàːru shiː nèː hakà kawài tafkìn ya bur̃tsoː dà wajen tân dubuː shidà na iskàr̃ ta carbon dioxide , har̃ ya jaːwoː ruwaː tân dubuː mèːtan ya yi àmbaːliyàː.
+1	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	6	subj	_	Gloss=thing.Masc.Def|wordform=Abin
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 3	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	2	comp:obj	_	Gloss=3Masc.Perf.Rel
 4	fàːru	faːr-	VERB	_	_	3	comp:aux	_	Gloss=begin
@@ -71,7 +77,7 @@
 8	kawài	kawài	ADV	_	_	10	mod	_	Gloss=merely
 9	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	10	subj	_	Gloss=lake.Masc.Cons|wordform=tar̃kin
 10	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	6	dislocated@comp	_	Gloss=3Masc.Perf.Rel
-11	bur̃tsoː	bur̃ts-	VERB	_	_	10	comp:aux	_	Gloss=explode
+11	bur̃tsoː	bur̃ts-	VERB	_	_	10	comp:aux	_	Gloss=blow
 12	dà	dà	ADP	_	_	11	comp:obl	_	Gloss=with
 13	wajen	wajen	ADP	_	_	12	comp:obj	_	Gloss=about
 14	tân	tân	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=ton
@@ -96,8 +102,10 @@
 33	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_4
-# text = Sai ruwân ya zama kàmar̃ hazoː, hàɗe kuma dà iskàr̃, akà hankàɗaː su ta indà ruwan kòːgiː yakèː bîː zuwàː cikin kwarìː sukà shìga ƙauyukàː dà gòːnàkiː.
-1	Sai	sai	ADV	_	_	3	mod	_	Gloss=then
+# text_en = Then the water turned into mist, mixed with gas, it was pushed to where the river ran into a valley, and entered villages and fields. 
+# text_ortho = Sai ruwân ya zama kàmar̃ hazoː, hàɗe kuma dà iskàr̃, akà hankàɗaː su ta indà ruwan kòːgiː yakèː bîː zuwàː cikin kwarìː sukà shìga ƙauyukàː dà gòːnàkiː.
+# text = sai ruwân ya zama kàmar̃ hazoː, hàɗe kuma dà iskàr̃, akà hankàɗaː su ta indà ruwan kòːgiː yakèː bîː zuwàː cikin kwarìː sukà shìga ƙauyukàː dà gòːnàkiː.
+1	sai	sai	ADV	_	_	3	mod	_	Gloss=then
 2	ruwân	ruwaː	NOUN	_	Definite=Def|Gender=Masc	3	subj	_	Gloss=water.Masc.Def
 3	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
 4	zama	zama	VERB	_	_	3	comp:aux	_	Gloss=become
@@ -129,8 +137,10 @@
 30	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_5
-# text = À wani ƙauyèː dà kèː kusa dà tafkìn kuma, sai duk mutàːnen cikin sà sukà mutù, in bandà mùtûm bìyar̃ kawài.
-1	À	à	ADP	_	_	16	mod	_	Gloss=at|wordform=A
+# text_en = In a village close to the river, all the people inside it died, except for five persons. 
+# text_ortho = À wani ƙauyèː dà kèː kusa dà tafkìn kuma, sai duk mutàːnen cikinsà sukà mutù, in bandà mùtûm bìyar̃ kawài.
+# text = à wani ƙauyèː dà kèː kusa dà tafkìn kuma, sai duk mutàːnen cikinsà sukà mutù, in bandà mùtûm bìyar̃ kawài.
+1	à	à	ADP	_	_	16	mod	_	Gloss=at|wordform=A
 2	wani	wani	DET	_	Definite=Spec|Gender=Masc	3	det	_	Gloss=some.Masc.Spec
 3	ƙauyèː	ƙauyèː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=village.Masc
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
@@ -143,7 +153,7 @@
 11	sai	sai	ADV	_	_	16	mod	_	Gloss=then
 12	duk	dukà	DET	_	_	13	det	_	Gloss=all
 13	mutàːnen	mùtûm	NOUN	_	Definite=Cons|Number=Plur	16	subj	_	Gloss=people.Plur.Cons
-14	cikin	cikin	ADP	_	_	13	mod	_	Gloss=inside
+14	cikin	cikin	ADP	_	_	13	mod	_	Gloss=inside|SpaceAfter=No
 15	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	14	comp:obj	_	Gloss=3Masc.Gen
 16	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
 17	mutù	mutù	VERB	_	_	16	comp:aux	_	Gloss=die|SpaceAfter=No
@@ -156,8 +166,10 @@
 24	.	.	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_6
-# text = Dùbban shaːnuː dà sauran dabboːbiː suː maː sun mutù .
-1	Dùbban	dubuː	NOUN	_	Definite=Cons	8	subj	_	Gloss=thousand.Plur.Cons
+# text_en = Thousands of cows and other animals died too. 
+# text_ortho = Dùbban shaːnuː dà sauran dabboːbiː suː maː sun mutù .
+# text = dùbban shaːnuː dà sauran dabboːbiː suː maː sun mutù .
+1	dùbban	dubuː	NOUN	_	Definite=Cons	8	subj	_	Gloss=thousand.Plur.Cons
 2	shaːnuː	sâː	NOUN	_	Number=Plur	1	mod	_	Gloss=cow.Plur
 3	dà	dà	CCONJ	_	_	4	cc	_	Gloss=and
 4	sauran	sauraː	NOUN	_	Definite=Cons|Gender=Masc	2	conj:coord	_	Gloss=rest.Masc.Cons
@@ -169,8 +181,10 @@
 10	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_7
-# text = Manàzàr̃taː kìːmiyyàː dai bàsù baː dà bàyaːnìn yaddà jikunkunàn waɗàndà sukà tsiːrân sukà sassaːɓùːleː ba, àmmaː gàː fuskoːkinsù dà ƙiràːjansù nan duk à sàːle.
-1	Manàzàr̃taː	manàzàr̃ciː	NOUN	_	Number=Plur	4	subj	_	Gloss=investigator.Plur
+# text_en = The investigating chemists did not explain how the bodies of those who escaped were burnt, but their faces and torsoes were all covered in blisters. 
+# text_ortho = Manàzàr̃taː kìːmiyyàː dai bàsù baː dà bàyaːnìn yaddà jikunkunàn waɗàndà sukà tsiːrân sukà sassaːɓùːleː ba, àmmaː gàː fuskoːkinsù dà ƙiràːjansù nan duk à sàːle.
+# text = manàzàr̃taː kìːmiyyàː dai bàsù baː dà bàyaːnìn yaddà jikunkunàn waɗàndà sukà tsiːrân sukà sassaːɓùːleː ba, àmmaː gàː fuskoːkinsù dà ƙiràːjansù nan duk à sàːle.
+1	manàzàr̃taː	manàzàr̃ciː	NOUN	_	Number=Plur	4	subj	_	Gloss=researcher.Plur
 2	kìːmiyyàː	kìːmiyyàː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=science.Fem
 3	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
 4	bàsù	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Polarity=Neg	0	root	_	Gloss=3Plur.Perf.Neg
@@ -200,8 +214,10 @@
 28	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_8
-# text = Tòː wannàn yaː sâː anàː dà 'yar̃ shakkàː à kân àbîn dà bìncìkên naːsù ya gaːnoː, cêːwar̃ iskàr̃ dà ta yiwoː bùr̃tsîn wai carbon dioxide ceː kawài.
-1	Tòː	tòː	INTJ	_	_	3	discourse	_	Gloss=well
+# text_en = Well, this made people doubt about what their research discovered, i.e. the gas that caused the explosion was just carbon dioxide. 
+# text_ortho = Tòː wannàn yaː sâː anàː dà 'yar̃ shakkàː à kân àbîn dà bìncìkên naːsù ya gaːnoː, cêːwar̃ iskàr̃ dà ta yiwoː bùr̃tsîn wai carbon dioxide ceː kawài.
+# text = tòː wannàn yaː sâː anàː dà 'yar̃ shakkàː à kân àbîn dà bìncìkên naːsù ya gaːnoː, cêːwar̃ iskàr̃ dà ta yiwoː bùr̃tsîn wai carbon dioxide ceː kawài.
+1	tòː	tòː	INTJ	_	_	3	discourse	_	Gloss=well
 2	wannàn	wannàn	PRON	_	Deixis=ProxS|Number=Sing|PronType=Dem	3	subj	_	Gloss=ProxS.Sing
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 4	sâː	sâː	VERB	_	_	3	comp:aux	_	Gloss=cause
@@ -234,8 +250,10 @@
 30	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_9
-# text = Ɗaya dàgà cikin masànaː kìːmiyyàn yaː yi màːmaːkìː dà ya gaːnoː cêːwaː an yi irìn wannàn aman gâs mài gubàː à wani tafkìn à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà huɗu.
-1	Ɗaya	ɗaya	NUM	_	_	6	subj	_	Gloss=one
+# text_en = One of the chemistry experts was surprised when he discovered that this type of poisonous gas leakage had happened in nineteen eighty four. 
+# text_ortho = Ɗaya dàgà cikin masànaː kìːmiyyàn yaː yi màːmaːkìː dà ya gaːnoː cêːwaː an yi irìn wannàn aman gâs mài gubàː à wani tafkìn à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà huɗu.
+# text = ɗaya dàgà cikin masànaː kìːmiyyàn yaː yi màːmaːkìː dà ya gaːnoː cêːwaː an yi irìn wannàn aman gâs mài gubàː à wani tafkìn à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà huɗu.
+1	ɗaya	ɗaya	NUM	_	_	6	subj	_	Gloss=one
 2	dàgà	dàgà	ADP	_	_	1	mod	_	Gloss=from
 3	cikin	cikin	ADP	_	_	2	comp:obj	_	Gloss=inside
 4	masànaː	masàniː	NOUN	_	Number=Plur	3	comp:obj	_	Gloss=expert.Plur
@@ -271,8 +289,10 @@
 34	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_10a
-# text = À wànnan loːkàciː mutàːneː tàlàːtin dà bakwài neː sukà mutù .
-1	À	à	ADP	_	_	9	mod	_	Gloss=at|wordform=A
+# text_en = At that time, thirty-seven people died. 
+# text_ortho = À wànnan loːkàciː mutàːneː tàlàːtin dà bakwài neː sukà mutù .
+# text = à wànnan loːkàciː mutàːneː tàlàːtin dà bakwài neː sukà mutù .
+1	à	à	ADP	_	_	9	mod	_	Gloss=at|wordform=A
 2	wànnan	wànnan	DET	_	Deixis=ProxH|Gender=Masc|PronType=Dem	3	det	_	Gloss=ProxH.Masc
 3	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=time.Masc
 4	mutàːneː	mùtûm	NOUN	_	Number=Plur	9	subj	_	Gloss=people.Plur
@@ -285,8 +305,10 @@
 11	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_10b
-# text = Hakà nan kuma yaː gaːnoː cêːwaː àkwai irìn waɗànnân tafkunàː har̃ sìttin à wannàn yankìː à cikin Kàmàr̃u dà Nàːjeːr̃iyàː, indà sabòːdà yanàyin duwàːtsun wurîn anàː iyà saːmùn irìn wannàn aman gâs à koːwànè loːkàciː .
-1	Hakà	hakà	ADV	_	_	4	mod	_	Gloss=thus
+# text_en = He discovered too that there existed up to sixty lakes like this in an area between Cameroon and Nigeria, where, because of the nature of stones there, this type gas leaking could happen at any time.  
+# text_ortho = Hakà nan kuma yaː gaːnoː cêːwaː àkwai irìn waɗànnân tafkunàː har̃ sìttin à wannàn yankìː à cikin Kàmàr̃u dà Nàːjeːr̃iyàː, indà sabòːdà yanàyin duwàːtsun wurîn anàː iyà saːmùn irìn wannàn aman gâs à koːwànè loːkàciː .
+# text = hakà nan kuma yaː gaːnoː cêːwaː àkwai irìn waɗànnân tafkunàː har̃ sìttin à wannàn yankìː à cikin Kàmàr̃u dà Nàːjeːr̃iyàː, indà sabòːdà yanàyin duwàːtsun wurîn anàː iyà saːmùn irìn wannàn aman gâs à koːwànè loːkàciː .
+1	hakà	hakà	ADV	_	_	4	mod	_	Gloss=thus
 2	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	1	det	_	Gloss=ProxH
 3	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
@@ -325,8 +347,10 @@
 37	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_11
-# text = Yaddà zaː'à iyà cirèː gâs ɗîn shiː nèː à yi famfòn ruwân dà kèː dà carbon dioxide dàgà cikin tafkìn, à fid dà shiː gàbaː ɗayansà .
-1	Yaddà	yaddà	ADV	_	PronType=Rel	8	subj	_	Gloss=how
+# text_en = The way to remove the gas is to pump the water that has carbon dioxide out of the lake and remove it altogether. 
+# text_ortho = Yaddà zaː'à iyà cirèː gâs ɗîn shiː nèː à yi famfòn ruwân dà kèː dà carbon dioxide dàgà cikin tafkìn, à fid dà shiː gàbaː ɗayansà .
+# text = yaddà zaː'à iyà cirèː gâs ɗîn shiː nèː à yi famfòn ruwân dà kèː dà carbon dioxide dàgà cikin tafkìn, à fid dà shiː gàbaː ɗayansà .
+1	yaddà	yaddà	ADV	_	PronType=Rel	8	subj	_	Gloss=how
 2	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	1	comp:obj	_	Gloss=4.Fut
 3	iyà	iy-	VERB	_	_	2	comp:aux	_	Gloss=be_able_to
 4	cirèː	cir-	VERB	_	_	3	comp:obj	_	Gloss=pull
@@ -357,8 +381,10 @@
 29	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_12
-# text = Sai dai kuma anàː tsòːron ƙiːlà gâs ɗîn yà ƙaːrà ɓulɓulôːwaː cikin tafkìn dà zaːrar̃ an ragè ruwansà .
-1	Sai	sai	ADV	_	_	4	mod	_	Gloss=then
+# text_en = But it is feared that maybe there will be more gas coming out of the lake as soon as its water diminishes. 
+# text_ortho = Sai dai kuma anàː tsòːron ƙiːlà gâs ɗîn yà ƙaːrà ɓulɓulôːwaː cikin tafkìn dà zaːrar̃ an ragè ruwansà .
+# text = sai dai kuma anàː tsòːron ƙiːlà gâs ɗîn yà ƙaːrà ɓulɓulôːwaː cikin tafkìn dà zaːrar̃ an ragè ruwansà .
+1	sai	sai	ADV	_	_	4	mod	_	Gloss=then
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
 3	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 4	anàː	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=4.Prog|wordform=and
@@ -380,8 +406,10 @@
 20	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_13a
-# text = Ragè nauyin ruwân, wandà manàzàr̃tân sukèː ganin zâi tsai dà aman gâs ɗîn, mài yìwuwaː nèː kuma zâi jaːwoː wani mùmmuːnan haɗàr̃iː .
-1	Ragè	Ragè	VERB	_	_	20	subj	_	Gloss=Ragè
+# text_en = Reducing the weight of the water, which the researchers think will stop the gas leak, may cause another serious danger. 
+# text_ortho = Ragè nauyin ruwân, wandà manàzàr̃tân sukèː ganin zâi tsai dà aman gâs ɗîn, mài yìwuwaː nèː kuma zâi jaːwoː wani mùmmuːnan haɗàr̃iː .
+# text = ragè nauyin ruwân, wandà manàzàr̃tân sukèː ganin zâi tsai dà aman gâs ɗîn, mài yìwuwaː nèː kuma zâi jaːwoː wani mùmmuːnan haɗàr̃iː .
+1	ragè	Ragè	VERB	_	_	20	subj	_	Gloss=Ragè
 2	nauyin	nauyiː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	Gloss=weight.Masc.Cons
 3	ruwân	ruwaː	NOUN	_	Definite=Def|Gender=Masc	2	mod	_	Gloss=water.Masc.Def|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -408,8 +436,10 @@
 25	.	.	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_13b
-# text = Don hakà masànaː kìːmiyyàː sukà kaːwoː shaːwar̃àr̃ cêːwaː bài kàmaːtà yawàn ruwân dà zaː'à kwaːshèː dàgà tafkìn yà wucè yawàn ruwan samàn dà kèː shìgaː cikin sà ba.
-1	Don	don	SCONJ	_	_	5	discourse	_	Gloss=because
+# text_en = Because of this, the experts in chemistry recommended that the quantity of water removed from the lake should not exceed the quantity of rain that enters it. 
+# text_ortho = Don hakà masànaː kìːmiyyàː sukà kaːwoː shaːwar̃àr̃ cêːwaː bài kàmaːtà yawàn ruwân dà zaː'à kwaːshèː dàgà tafkìn yà wucè yawàn ruwan samàn dà kèː shìgaː cikinsà ba.
+# text = don hakà masànaː kìːmiyyàː sukà kaːwoː shaːwar̃àr̃ cêːwaː bài kàmaːtà yawàn ruwân dà zaː'à kwaːshèː dàgà tafkìn yà wucè yawàn ruwan samàn dà kèː shìgaː cikinsà ba.
+1	don	don	SCONJ	_	_	5	discourse	_	Gloss=because
 2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=thus
 3	masànaː	masàniː	VERB	_	ExtPos=NOUN|Number=Plur	5	subj	_	Gloss=expert.Plur
 4	kìːmiyyàː	kìːmiyyàː	NOUN	_	Gender=Fem	3	comp:obj	_	Gloss=science.Fem
@@ -434,14 +464,16 @@
 23	dà	dà	SCONJ	_	_	21	mod@relcl	_	Gloss=COMP
 24	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	23	comp:obj	_	Gloss=Prog.Rel
 25	shìgaː	shig-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	24	comp:aux	_	Gloss=enter.Fem.Vnoun.
-26	cikin	cikin	ADP	_	_	25	comp:obl	_	Gloss=inside
+26	cikin	cikin	ADP	_	_	25	comp:obl	_	Gloss=inside|SpaceAfter=No
 27	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	26	comp:obj	_	Gloss=3Masc.Gen
 28	ba	ba	PART	_	PartType=Neg|Polarity=Neg	10	mod	_	Gloss=Neg|SpaceAfter=No
 29	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_14
-# text = Hakà nan kuma manàzàr̃taː sun baː dà shaːwar̃àr̃ cêːwaː kàmaːtàː yaː yi à lùːr̃a dà haːlin ruwan Tafkìn Nyos ɗîn kàːfin à kwaːshè gâs ɗîn, àbîn dà zâi zamoː àbù mài haɗàr̃iː ƙwar̃ai.
-1	Hakà	hakà	ADV	_	_	5	mod	_	Gloss=thus
+# text_en = That's how the investigators too advised that one should pay attention to the quality of the water of Lake Nyos before the gas is removed, which could become very dangerous.
+# text_ortho = Hakà nan kuma manàzàr̃taː sun baː dà shaːwar̃àr̃ cêːwaː kàmaːtàː yaː yi à lùːr̃a dà haːlin ruwan Tafkìn Nyos ɗîn kàːfin à kwaːshè gâs ɗîn, àbîn dà zâi zamoː àbù mài haɗàr̃iː ƙwar̃ai.
+# text = hakà nan kuma manàzàr̃taː sun baː dà shaːwar̃àr̃ cêːwaː kàmaːtàː yaː yi à lùːr̃a dà haːlin ruwan Tafkìn Nyos ɗîn kàːfin à kwaːshè gâs ɗîn, àbîn dà zâi zamoː àbù mài haɗàr̃iː ƙwar̃ai.
+1	hakà	hakà	ADV	_	_	5	mod	_	Gloss=thus
 2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp:obj	_	Gloss=ProxH
 3	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 4	manàzàr̃taː	manàzàr̃ciː	NOUN	_	Number=Plur	5	subj	_	Gloss=investigator.Plur
@@ -478,8 +510,10 @@
 35	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_15
-# text = Bandà hakà maː zâi kasànceː àbù mài tsàːdar̃ gàske.
-1	Bandà	bandà	ADP	_	_	4	mod	_	Gloss=apart_from
+# text_en = If not, it will become very costly. 
+# text_ortho = Bandà hakà maː zâi kasànceː àbù mài tsàːdar̃ gàske.
+# text = bandà hakà maː zâi kasànceː àbù mài tsàːdar̃ gàske.
+1	bandà	bandà	ADP	_	_	4	mod	_	Gloss=apart_from
 2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=thus
 3	maː	maː	PART	_	PartType=Top	1	discourse@top	_	Gloss=even
 4	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	0	root	_	Gloss=3Masc.Fut
@@ -491,8 +525,10 @@
 10	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_16
-# text = Bàbban dai rìgàːkafìn dà mazàunaː yankìn zaːsù iyà yî: shiː nèː sù taːshì sù koːmàː neːsà ƙwar̃ai dàgà indà tafkìn yakè.
-1	Bàbban	bàbba	ADJ	_	Definite=Cons	3	mod	_	Gloss=big.Masc.Cons
+# text_en = The best precaution that the inhabitants of the area could take, would be to leave and go far from where the lake is. 
+# text_ortho = Bàbban dai rìgàːkafìn dà mazàunaː yankìn zaːsù iyà yî: shiː nèː sù taːshì sù koːmàː neːsà ƙwar̃ai dàgà indà tafkìn yakè.
+# text = bàbban dai rìgàːkafìn dà mazàunaː yankìn zaːsù iyà yî: shiː nèː sù taːshì sù koːmàː neːsà ƙwar̃ai dàgà indà tafkìn yakè.
+1	bàbban	bàbba	ADJ	_	Definite=Cons	3	mod	_	Gloss=big.Masc.Cons
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
 3	rìgàːkafìn	rìgàːkafìː	NOUN	_	Definite=Def|Gender=Masc	11	subj	_	Gloss=precaution.Masc.Def
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
@@ -516,8 +552,10 @@
 22	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_17
-# text = À shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà dai mutàneː fìye dà dubuː dà ɗàriː bakwài neː sukà mutù, kuma Allàh neː kawài ya san yawàn waɗàndà zaːsù mutù ìdan tafkìn ya saːkè yîn wani aman gâs ɗîn.
-1	À	à	ADP	_	_	20	mod	_	Gloss=at
+# text_en = In nineteen eighty-six indeed, more than one thousand seven hundred people died, and only God knows how many will die if the lake produces that kind of gas leak again. 
+# text_ortho = À shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà dai mutàneː fìye dà dubuː dà ɗàriː bakwài neː sukà mutù, kuma Allàh neː kawài ya san yawàn waɗàndà zaːsù mutù ìdan tafkìn ya saːkè yîn wani aman gâs ɗîn.
+# text = à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà dai mutàneː fìye dà dubuː dà ɗàriː bakwài neː sukà mutù, kuma Allàh neː kawài ya san yawàn waɗàndà zaːsù mutù ìdan tafkìn ya saːkè yîn wani aman gâs ɗîn.
+1	à	à	ADP	_	_	20	mod	_	Gloss=at
 2	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	3	mod@desc	_	Gloss=year.Fem.Cons
 3	alìf	alìf	NUM	_	_	1	comp:obj	_	Gloss=one_thousand
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=and
