@@ -191,7 +191,7 @@
 53	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_7
-# text_en = 
+# text_en = The people on strike called on the government to organise an assembly of all the citizens of the country, which will discuss the economic and political situation. 
 # text_ortho = Màːsu yîn yaːjìn aikìn sun bùkàːci gwamnatì tà yi wani tàːroː na 'yan ƙasâr̃ bàːkiː ɗaya, wandà zâi tattàunà tsaːrìn tattalin ar̃zìkiː dà kuma na sìyaːsàː.
 # text = màːsu yîn yaːjìn aikìn sun bùkàːci gwamnatì tà yi wani tàːroː na 'yan ƙasâr̃ bàːkiː ɗaya, wandà zâi tattàunà tsaːrìn tattalin ar̃zìkiː dà kuma na sìyaːsàː.
 1	màːsu	mài	PROPN	_	Number=Plur|PartType=Der	5	subj	_	Gloss=owner/doer_of.Plur
@@ -224,7 +224,7 @@
 28	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_8
-# text_en = 
+# text_en = Likewise, they want the leaders of the country to give full explanation on the clashes and bloodshed that took place between students and the police in Niamey last february. 
 # text_ortho = Hakà kuma sunàː sôn mahùkùntan ƙasâr̃ sù baːyar̃ dà cìkakken bàyaːnìː à kân aràngamàː dà zub dà jiniː dà akà yi tsàkaːnin ɗàːlìbai dà kuma 'yan sàndaː à bir̃nin Yàmài à watàn Fàbàr̃air̃ùn dà ya shigèː.
 # text = hakà kuma sunàː sôn mahùkùntan ƙasâr̃ sù baːyar̃ dà cìkakken bàyaːnìː à kân aràngamàː dà zub dà jiniː dà akà yi tsàkaːnin ɗàːlìbai dà kuma 'yan sàndaː à bir̃nin Yàmài à watàn Fàbàr̃air̃ùn dà ya shigèː.
 1	hakà	hakà	ADV	_	_	3	mod	_	Gloss=thus
@@ -266,7 +266,7 @@
 37	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_9
-# text_en = 
+# text_en = The students themselves are demonstrating against the decision to reduce the money that the goverment is spending on education in the country.
 # text_ortho = Suː ɗàlibân kùwa sunàː zàngà-zangàr̃ nuːnà rashìn amincêwar̃sù dà shaːwar̃àr̃ ragè yawàn kuɗàːɗên dà gwamnatì takèː kashèː wà ilìmiː à ƙasâr̃.
 # text = suː ɗàlibân kùwa sunàː zàngà-zangàr̃ nuːnà rashìn amincêwar̃sù dà shaːwar̃àr̃ ragè yawàn kuɗàːɗên dà gwamnatì takèː kashèː wà ilìmiː à ƙasâr̃.
 1	suː	suː	PRON	_	Number=Plur|Person=3|PronType=Prs	4	dislocated@subj	_	Gloss=3Plur.Nom
@@ -294,8 +294,8 @@
 23	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_10
-# text_en = 
-# text_ortho = Waɗàndà sukà ràsu à loːkàcin rìkicîn dai, kàmar̃ yaddà mahùkùntan ƙasâr̃ sukà cêː, suː ukù neː kaɗai, koː dà yakèː wasu kafoːfin ɗàːlìban ƙasâr̃dà ma'àikàtan asìbitì sun cêː fìye dà mutàneː goːmà neː sukà mutù.
+# text_en = Those who died during the crisis, according the country authorities, are just three, although some student sources and hospital workers said that more than ten people died. 
+# text_ortho = Waɗàndà sukà ràsu à loːkàcin rìkicîn dai, kàmar̃ yaddà mahùkùntan ƙasâr̃ sukà cêː, suː ukù neː kaɗai, koː dà yakèː wasu kafoːfin ɗàːlìban ƙasâr ̃dà ma'àikàtan asìbitì sun cêː fìye dà mutàneː goːmà neː sukà mutù.
 # text = waɗàndà sukà ràsu à loːkàcin rìkicîn dai, kàmar̃ yaddà mahùkùntan ƙasâr̃ sukà cêː, suː ukù neː kaɗai, koː dà yakèː wasu kafoːfin ɗàːlìban ƙasâr̃dà ma'àikàtan asìbitì sun cêː fìye dà mutàneː goːmà neː sukà mutù.
 1	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	18	dislocated@subj	_	Gloss=who.Plur
 2	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	1	mod@relcl	_	Gloss=3Plur.Perf.Rel
@@ -323,7 +323,7 @@
 24	wasu	wani	DET	_	Definite=Spec|Number=Plur	25	det	_	Gloss=some.Plur.Spec
 25	kafoːfin	kafaː	NOUN	_	Definite=Cons|Number=Plur	31	subj	_	Gloss=source.Plur.Cons
 26	ɗàːlìban	ɗaːlìbiː	NOUN	_	Definite=Cons|Number=Plur	25	mod	_	Gloss=student.Plur.Cons
-27	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	26	mod	_	Gloss=country.Fem.Def|SpaceAfter=No
+27	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	26	mod	_	Gloss=country.Fem.Def
 28	dà	dà	CCONJ	_	_	29	cc	_	Gloss=and
 29	ma'àikàtan	ma'àikàciː	NOUN	_	Definite=Cons|Number=Plur	25	conj:coord	_	Gloss=worker.Plur.Cons
 30	asìbitì	asìbitì	NOUN	_	Gender=Masc	29	mod	_	Gloss=hospital.Masc|wordform=asibiti
@@ -339,7 +339,7 @@
 40	.	.	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_11
-# text_en = 
+# text_en = This strike followed declaration made by the government of the country last month, saying that it is preparing a change in the constitution to get the opportunity to establish a multiparty political system. 
 # text_ortho = Wannàn yaːjìn aikìn dai yaː biyoː baːyan sanâr̃wâr̃ dà gwamnatìn ƙasâr̃ ta baːyar̃ nèː à watàn jiyà, cêːwaː tanàː shirìn sauyà tsaːrìn mulkìn Jàmhuːr̃iyàr̃ Nìːjâr̃ ɗîn don à sàːmu daːmar̃ kafà tsaːrìː mài jàm'ìyyuː dà daːmaː.
 # text = wannàn yaːjìn aikìn dai yaː biyoː baːyan sanâr̃wâr̃ dà gwamnatìn ƙasâr̃ ta baːyar̃ nèː à watàn jiyà, cêːwaː tanàː shirìn sauyà tsaːrìn mulkìn Jàmhuːr̃iyàr̃ Nìːjâr̃ ɗîn don à sàːmu daːmar̃ kafà tsaːrìː mài jàm'ìyyuː dà daːmaː.
 1	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	2	det	_	Gloss=ProxS.Masc
@@ -382,7 +382,7 @@
 38	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_12
-# text_en = 
+# text_en = The MNSD party, which has been in power in the country since nineteen eighty-eight has declared that it will install a committee that will prepare all the changes that have become necessary.
 # text_ortho = Jàm'iyyàr̃ MNSD, mài mulkìn ƙasâr̃ tun shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà takwàs, taː cêː zaː'à kafà wani kwàmìtîn dà zâi tsaːrà irìn sàuye-sàuyên dà sukà zama doːlè.
 # text = jàm'iyyàr̃ MNSD, mài mulkìn ƙasâr̃ tun shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà takwàs, taː cêː zaː'à kafà wani kwàmìtîn dà zâi tsaːrà irìn sàuye-sàuyên dà sukà zama doːlè.
 1	jàm'iyyàr̃	jàm'iyyàː	NOUN	_	Definite=Cons|Gender=Fem	2	mod@desc	_	Gloss=party.Fem.Cons
@@ -420,7 +420,7 @@
 33	.	.	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_13
-# text_en = 
+# text_en = But then, up till now, nothing has been heard concerning the installation of this committee. 
 # text_ortho = Sai dai kuma har̃ yànzu, baːbù wani abîn dà akà saːkè jîː danganèː dà kafà wannàn kwàmìtîn.
 # text = sai dai kuma har̃ yànzu, baːbù wani abîn dà akà saːkè jîː danganèː dà kafà wannàn kwàmìtîn.
 1	sai	sai	SCONJ	_	_	7	mod	_	Gloss=except_that
@@ -444,7 +444,7 @@
 19	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_14
-# text_en = 
+# text_en = Many people in Niger feel that their government is not implementing the changes with the necessary speed. 
 # text_ortho = Dà daːmaː dai 'yan ƙasar̃ Nìːjâr̃ sunàː jîn gwamnatìnsù baːtàː ƙaddamar̃ dà sàuye-sàuyên dà saurîn dà ya kàmaːtà.
 # text = dà daːmaː dai 'yan ƙasar̃ Nìːjâr̃ sunàː jîn gwamnatìnsù baːtàː ƙaddamar̃ dà sàuye-sàuyên dà saurîn dà ya kàmaːtà.
 1	dà	dà	ADP	_	ExtPos=ADV	7	mod	_	Gloss=with|Idiom=Yes
@@ -469,7 +469,7 @@
 20	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_15
-# text_en = 
+# text_en = They want the governement to give the time schedule of the implementation of its changes, with a full explanation concerning the elections. 
 # text_ortho = Sunàː sôn gwamnatìn tà baːyar̃ dà tsaːrìn lòːkàtan ƙaddamar̃ dà shìrye-shìryên naːtà , tàːre dà cìkakken bàyaːnìn yîn zàːɓeː.
 # text = sunàː sôn gwamnatìn tà baːyar̃ dà tsaːrìn lòːkàtan ƙaddamar̃ dà shìrye-shìryên naːtà , tàːre dà cìkakken bàyaːnìn yîn zàːɓeː.
 1	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
@@ -496,7 +496,7 @@
 21	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_16
-# text_en = 
+# text_en = Apart from the pressure to change from the single party regime that president 'Ali Saibou' is facing, the president is suffering from an increase in the number of cases of lack of support of the economic policy that his government is implementing. 
 # text_ortho = Bandà kuma matsà lambàr̃ dà shùːgàbaː " Ali Saibou " yakèː fùskantàː à kân kaucèːwaː dàgà kân tafarkìn tsaːrìn mulkìː mài jàm'iyyàː ƙwàːyaː ɗaya tal, hakà kuma shùːgàbân yanàː faːmaː dà ƙaːrìn yawàn wànzuwar̃ rashìn amìncêwaː dà manufoːfin tattalin ar̃zìkiː dà gwamnatìnsà takèː aikìː dà suː.
 # text = bandà kuma matsà lambàr̃ dà shùːgàbaː " Ali Saibou " yakèː fùskantàː à kân kaucèːwaː dàgà kân tafarkìn tsaːrìn mulkìː mài jàm'iyyàː ƙwàːyaː ɗaya tal, hakà kuma shùːgàbân yanàː faːmaː dà ƙaːrìn yawàn wànzuwar̃ rashìn amìncêwaː dà manufoːfin tattalin ar̃zìkiː dà gwamnatìnsà takèː aikìː dà suː.
 1	bandà	bandà	ADP	_	_	30	mod	_	Gloss=apart_from
@@ -550,7 +550,7 @@
 49	.	.	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_17
-# text_en = 
+# text_en = The demonstrators accused their government of failing to deal with the problem of corruption in the country, and of preparing an austerity plan that affects only the poor people of the country. 
 # text_ortho = Màːsu yîn zàngà-zangàr̃ sun yi zàrgin cêːwaː gwamnatìn taːsù taː kaːsà shaːwoː kân màtsalàr̃ cîn r̃ashawaː à ƙasâr̃, kuma shirìntà maː na tsuːkè bàːkin àljiːhuː yaː shàːfi talakaːwan ƙasâr̃ neː kawài.
 # text = màːsu yîn zàngà-zangàr̃ sun yi zàrgin cêːwaː gwamnatìn taːsù taː kaːsà shaːwoː kân màtsalàr̃ cîn r̃ashawaː à ƙasâr̃, kuma shirìntà maː na tsuːkè bàːkin àljiːhuː yaː shàːfi talakaːwan ƙasâr̃ neː kawài.
 1	màːsu	mài	PART	_	Number=Plur|PartType=Der	4	subj	_	Gloss=owner/doer_of.Plur
@@ -591,7 +591,7 @@
 35	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_18
-# text_en = 
+# text_en = On thursday, two days ago, banks and insurance companies were cloased becaus their workers were on strike. 
 # text_ortho = Sheːkaranjiyà Àlhàmîs, an rufè bankunàː dà kamfanoːnin ìnshoːr̃àr̃ ƙasâr̃ sabòːdà ma'àikàtansù sun yi yaːjìn aikìː.
 # text = sheːkaranjiyà àlhàmîs, an rufè bankunàː dà kamfanoːnin ìnshoːr̃àr̃ ƙasâr̃ sabòːdà ma'àikàtansù sun yi yaːjìn aikìː.
 1	sheːkaranjiyà	sheːkaranjiyà	ADV	_	_	2	mod	_	Gloss=day_before_yesterday
@@ -614,7 +614,7 @@
 18	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_19
-# text_en = 
+# text_en = Their strike showed their support to the workers of the Bank for Niger Development who were left jobless after the goverment of the country decided to close the bank. 
 # text_ortho = Yaːjìn aikìn naːsù kùwa na nuːnà goːyon baːyaː nèː gà ma'àikàtan Bankìn Raːyà Ƙasâr̃ ta Nìːjâr̃, waɗàndà sukà rasà ayyukànsù baːyân dà gwamnatìn ƙasâr̃ ta yankè shaːwar̃àr̃ rufè bankìn.
 # text = yaːjìn aikìn naːsù kùwa na nuːnà goːyon baːyaː nèː gà ma'àikàtan Bankìn Raːyà Ƙasâr̃ ta Nìːjâr̃, waɗàndà sukà rasà ayyukànsù baːyân dà gwamnatìn ƙasâr̃ ta yankè shaːwar̃àr̃ rufè bankìn.
 1	yaːjìn	yaːjìː	PROPN	_	Definite=Cons|Gender=Masc	10	subj	_	Gloss=hot_spice.Masc.Cons
@@ -653,7 +653,7 @@
 33	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_20
-# text_en = 
+# text_en = An last saturday, the taxi drivers of the country refused to work.
 # text_ortho = À kuma raːnar̃ Àsabàr̃ dà ta wucèː, 'yan tàːsîn ƙasâr̃ suː maː sun ƙi yîn aikìː.
 # text = à kuma raːnar̃ Àsabàr̃ dà ta wucèː, 'yan tàːsîn ƙasâr̃ suː maː sun ƙi yîn aikìː.
 1	à	à	ADP	_	_	14	mod	_	Gloss=at
@@ -676,7 +676,7 @@
 18	.	.	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_21
-# text_en = 
+# text_en = They were complaining that their government has given the preference to foreign workers, i.e. workers from Nigeria, Togo and Benin Republic. 
 # text_ortho = Suː kùwa sun yi kuːkan cêːwaː gwamnatìn taːsù tanàː bâi wà ma'àikàtaː 'yan ƙasàːshen wàje fiːfiːkòː, wàːtòː ma'àikàtaː dàgà Nàːjeːr̃iyàː dà To :gò dà Jàmhuːr̃iyàr̃ Bìːni.
 # text = suː kùwa sun yi kuːkan cêːwaː gwamnatìn taːsù tanàː bâi wà ma'àikàtaː 'yan ƙasàːshen wàje fiːfiːkòː, wàːtòː ma'àikàtaː dàgà Nàːjeːr̃iyàː dà To :gò dà Jàmhuːr̃iyàr̃ Bìːni.
 1	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	dislocated@subj	_	Gloss=3Plur.Nom
@@ -710,7 +710,7 @@
 28	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_22
-# text_en = 
+# text_en = Well, President Saibou's government must certainly do something concerning these demonstrations of opposition to the policy that it has recently been implementing. 
 # text_ortho = Tòː lalleː dai kàm gwamnatìn shùːgàbaː Saibou tà yi wani àbù dòːmin shaːwoː kân wannàn zàngà-zangàr̃ ta nuːnà rashìn amìncêwaː dà mulkìn dà bài daɗèː yanàː kâi ba .
 # text = tòː lalleː dai kàm gwamnatìn shùːgàbaː Saibou tà yi wani àbù dòːmin shaːwoː kân wannàn zàngà-zangàr̃ ta nuːnà rashìn amìncêwaː dà mulkìn dà bài daɗèː yanàː kâi ba .
 1	tòː	tòː	INTJ	_	_	17	discourse	_	Gloss=well
