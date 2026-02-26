@@ -1,8 +1,8 @@
 # sent_id = 18_Fadar_kabilanci_a_Bauchi_1
-# text_en = 
-# text_ortho = 
-# text = Rashìn jìtuwaː tsàkaːnin Mùsùlmiː dà Kir̃istoːciː à jihàr̃ Bauci yaː koːmàː faɗàn ƙabiːlanciː dà àddiːnìː
-1	Rashìn	ras-	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	10	subj	_	Gloss=lack.Vnoun.Masc.Cons
+# text_en = Intolerance between Muslims and Christians in Bauchi state has turned into a tribal and religious war. 
+# text_ortho = Rashìn jìtuwaː tsàkaːnin Mùsùlmiː dà Kir̃istoːciː à jihàr̃ Bauci yaː koːmàː faɗàn ƙabiːlanciː dà àddiːnìː
+# text = rashìn jìtuwaː tsàkaːnin Mùsùlmiː dà Kir̃istoːciː à jihàr̃ Bauci yaː koːmàː faɗàn ƙabiːlanciː dà àddiːnìː
+1	rashìn	ras-	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	10	subj	_	Gloss=lack.Vnoun.Masc.Cons
 2	jìtuwaː	jit-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	1	comp:obj	_	Gloss=tolerate.Vnoun.Fem
 3	tsàkaːnin	tsàkaːnin	ADP	_	Definite=Cons	1	mod	_	Gloss=between
 4	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	3	comp:obj	_	Gloss=Muslim.Plur
@@ -19,10 +19,10 @@
 15	àddiːnìː	àddiːnìː	NOUN	_	Gender=Masc	13	conj:coord	_	Gloss=religion.Masc
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi_2
-# text_en = 
-# text_ortho = 
-# text = Can à gàrin Bauci na areːwacin Nàjeːr̃iyàː, tàr̃zòːmaː dà kuma kwaːnaː ukùn dà akà yi anàː tàːshe-tàːshen hànkulàn àddiːnìː tsàkaːnin Mùsùlmiː dà Kir̃istoːciː sun jaːwoː sànàdiyyàr̃ mutuwàr̃ mutàːneː dà daːmaː.
-1	Can	can	ADV	_	_	9	mod	_	Gloss=over_there
+# text_en = In the town of Bauchi, in the north of Nigeria, the riots and three days of religious uprisings between Muslims and Christians have resulted  in the death of many people. 
+# text_ortho = Can à gàrin Bauci na areːwacin Nàjeːr̃iyàː, tàr̃zòːmaː dà kuma kwaːnaː ukùn dà akà yi anàː tàːshe-tàːshen hànkulàn àddiːnìː tsàkaːnin Mùsùlmiː dà Kir̃istoːciː sun jaːwoː sànàdiyyàr̃ mutuwàr̃ mutàːneː dà daːmaː.
+# text = can à gàrin Bauci na areːwacin Nàjeːr̃iyàː, tàr̃zòːmaː dà kuma kwaːnaː ukùn dà akà yi anàː tàːshe-tàːshen hànkulàn àddiːnìː tsàkaːnin Mùsùlmiː dà Kir̃istoːciː sun jaːwoː sànàdiyyàr̃ mutuwàr̃ mutàːneː dà daːmaː.
+1	can	can	ADV	_	_	9	mod	_	Gloss=over_there
 2	à	à	ADP	_	_	1	conj:appos	_	Gloss=at
 3	gàrin	gàriː	NOUN	_	Definite=Cons|Gender=Masc	4	mod@desc	_	Gloss=city.Masc.Cons
 4	Bauci	Bauci	PROPN	_	_	2	mod@desc	_	Gloss=Bauchi
@@ -56,8 +56,8 @@
 32	.	.	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi_3
-# text_en = 
-# text_ortho = 
+# text_en = The recent reports that have arrived from Bauchi have shown that now the dust has settled. 
+# text_ortho = R̃àhòːtannin baːya-baːyan nàn dà akà saːmùː dàgà Bauci sun nuːnà cêːwaː yànzu ƙùːraː taː lafàː.
 # text = r̃àhòːtannin baːya-baːyan nàn dà akà saːmùː dàgà Bauci sun nuːnà cêːwaː yànzu ƙùːraː taː lafàː.
 1	r̃àhòːtannin	r̃àhoːtòː	NOUN	_	Definite=Cons|Number=Plur	9	subj	_	Gloss=report.Plur.Cons
 2	baːya-baːyan	baːya-baːya	NOUN	_	Definite=Cons|Number=Plur	1	mod	_	Gloss=recently.Cons
@@ -77,10 +77,10 @@
 16	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi_4
-# text_en = 
-# text_ortho = 
-# text = Àmmaː koː dà yakè 'yan sàndan kashè tàr̃zòːmaː sun shaːwoː kân lamàr̃în, har̃ yànzu àkwai àlàːmun rashìn kwànciyar̃ hankàliː sabòːdà jiyà jàːmì'an kiːwòn laːfiyàː sai dà sukà kwaːshè majìnyàtaː dàgà bàbban asìbitìn gàrîn, loːkàcîn dà 'yan sàndaː sukà riƙà har̃bìː à hàr̃aːbàr̃ asìbitìn.
-1	Àmmaː	àmmaː	CCONJ	_	_	16	discourse	_	Gloss=but
+# text_en = But although the riot police have tackled the problem, up till now there are signs of disturbances because yesterday health officials had to rescue injured persons from the big hospital of the city when soldiers started to shoot inside the hospital. 
+# text_ortho = Àmmaː koː dà yakè 'yan sàndan kashè tàr̃zòːmaː sun shaːwoː kân lamàr̃în, har̃ yànzu àkwai àlàːmun rashìn kwànciyar̃ hankàliː sabòːdà jiyà jàːmì'an kiːwòn laːfiyàː sai dà sukà kwaːshè majìnyàtaː dàgà bàbban asìbitìn gàrîn, loːkàcîn dà 'yan sàndaː sukà riƙà har̃bìː à hàr̃aːbàr̃ asìbitìn.
+# text = àmmaː koː dà yakè 'yan sàndan kashè tàr̃zòːmaː sun shaːwoː kân lamàr̃în, har̃ yànzu àkwai àlàːmun rashìn kwànciyar̃ hankàliː sabòːdà jiyà jàːmì'an kiːwòn laːfiyàː sai dà sukà kwaːshè majìnyàtaː dàgà bàbban asìbitìn gàrîn, loːkàcîn dà 'yan sàndaː sukà riƙà har̃bìː à hàr̃aːbàr̃ asìbitìn.
+1	àmmaː	àmmaː	CCONJ	_	_	16	discourse	_	Gloss=but
 2	koː	koː	SCONJ	_	ExtPos=SCONJ	16	mod	_	Gloss=even_if|Idiom=Yes
 3	dà	dà	SCONJ	_	_	2	unk	_	Gloss=COMP|InIdiom=Yes
 4	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Relative=Rel2	3	comp:obj	_	Gloss=3Fem.Prog.Rel2|InIdiom=Yes
@@ -128,10 +128,10 @@
 46	.	.	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi_5
-# text_en = 
-# text_ortho = 
-# text = R̃àhòːtannîn sun ci gàba dà cêːwaː wannàn shiː nèː taːshìn hankàliː na àddiːnìː mafìː muːnìː dà akà taɓà yîː à Nàjeːr̃iyàː tun baːyan rìkicin Kàfàncàn dà akà yi à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà ukù tsàkaːnin Mùsùlmiː dà Kir̃istoːciː, indà mutàːneː goːmà shâː huɗu sukà hàlakà.
-1	R̃àhòːtannîn	r̃àhoːtòː	NOUN	_	Definite=Def|Number=Plur	2	subj	_	Gloss=report.Plur.Def
+# text_en = The reports went on to state that it is the worst religious uprising that took place in Nigeria since the Kafanchan riots that took place in nineteen eighty-three between Muslims and Christians, where fourteen people perished. 
+# text_ortho = R̃àhòːtannîn sun ci gàba dà cêːwaː wannàn shiː nèː taːshìn hankàliː na àddiːnìː mafìː muːnìː dà akà taɓà yîː à Nàjeːr̃iyàː tun baːyan rìkicin Kàfàncàn dà akà yi à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà ukù tsàkaːnin Mùsùlmiː dà Kir̃istoːciː, indà mutàːneː goːmà shâː huɗu sukà hàlakà.
+# text = r̃àhòːtannîn sun ci gàba dà cêːwaː wannàn shiː nèː taːshìn hankàliː na àddiːnìː mafìː muːnìː dà akà taɓà yîː à Nàjeːr̃iyàː tun baːyan rìkicin Kàfàncàn dà akà yi à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà ukù tsàkaːnin Mùsùlmiː dà Kir̃istoːciː, indà mutàːneː goːmà shâː huɗu sukà hàlakà.
+1	r̃àhòːtannîn	r̃àhoːtòː	NOUN	_	Definite=Def|Number=Plur	2	subj	_	Gloss=report.Plur.Def
 2	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
 3	ci	ci	VERB	_	_	2	comp:aux	_	Gloss=proceed
 4	gàba	gàba	ADV	_	_	3	mod	_	Gloss=in_front
@@ -184,10 +184,10 @@
 51	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi_6
-# text_en = 
-# text_ortho = 
-# text = Wannàn tàr̃zòːmaː dà akà yi dai, wata ƙwàƙƙwaːrar̃ àlaːmàː ceː mài nuːnà irìn rashìn jìtuwar̃ àddiːnìː à Nàjeːr̃iyàː wandà ya saːmoː asaliː nèː à gàrin Tafaːwà Ɓaleːwà, gàrîn dà yakè duk dà cêːwaː à yankìn Mùsùlmiː nèː, àmmaː Kir̃istoːciː sun fi yawàː à cikinsà .
-1	Wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	2	det	_	Gloss=ProxS.Fem
+# text_en = This riot that took place indeed, is a strong indication of the same lack of tolerance in Nigeria as the one that took place in the town of Tafawa Balewa, a town which, although it is in a Muslim area, has a majority of Christians. 
+# text_ortho = Wannàn tàr̃zòːmaː dà akà yi dai, wata ƙwàƙƙwaːrar̃ àlaːmàː ceː mài nuːnà irìn rashìn jìtuwar̃ àddiːnìː à Nàjeːr̃iyàː wandà ya saːmoː asaliː nèː à gàrin Tafaːwà Ɓaleːwà, gàrîn dà yakè duk dà cêːwaː à yankìn Mùsùlmiː nèː, àmmaː Kir̃istoːciː sun fi yawàː à cikinsà .
+# text = wannàn tàr̃zòːmaː dà akà yi dai, wata ƙwàƙƙwaːrar̃ àlaːmàː ceː mài nuːnà irìn rashìn jìtuwar̃ àddiːnìː à Nàjeːr̃iyàː wandà ya saːmoː asaliː nèː à gàrin Tafaːwà Ɓaleːwà, gàrîn dà yakè duk dà cêːwaː à yankìn Mùsùlmiː nèː, àmmaː Kir̃istoːciː sun fi yawàː à cikinsà .
+1	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	2	det	_	Gloss=ProxS.Fem
 2	tàr̃zòːmaː	tàr̃zòːmaː	NOUN	_	ExtPos=NOUN|Gender=Fem	11	subj	_	Gloss=riot.Fem
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 4	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	3	comp:obj	_	Gloss=4.Perf.Rel
@@ -238,10 +238,10 @@
 49	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi_7
-# text_en = 
-# text_ortho = 
-# text = An cêː suː Kir̃istoːcîn sun hàsalà neː sabòːdà Mùsùlmin yankìn sun hanàː su yîn àmfàːniː dà mayankar̃ gàrîn don yankà àlàduː.
-1	An	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
+# text_en = They said that Christians got angry because the Muslims of the area refused them access to the big slaughterhouse of the town to kill pigs. 
+# text_ortho = An cêː suː Kir̃istoːcîn sun hàsalà neː sabòːdà Mùsùlmin yankìn sun hanàː su yîn àmfàːniː dà mayankar̃ gàrîn don yankà àlàduː.
+# text = an cêː suː Kir̃istoːcîn sun hàsalà neː sabòːdà Mùsùlmin yankìn sun hanàː su yîn àmfàːniː dà mayankar̃ gàrîn don yankà àlàduː.
+1	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	Gloss=say
 3	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	dislocated@subj	_	Gloss=3Plur.Nom
 4	Kir̃istoːcîn	Kìr̃istàː	NOUN	_	Definite=Def	3	conj:appos	_	Gloss=Christian.Plur.Def
@@ -257,7 +257,7 @@
 14	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	12	comp:obj@T	_	Gloss=do.Vnoun.Masc.Cons
 15	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	14	comp:pred	_	Gloss=use.Masc
 16	dà	dà	ADP	_	_	15	comp:obl	_	Gloss=with
-17	mayankar̃	mayankaː	ADJ	_	Definite=Cons	16	comp:obj	_	Gloss=slaughter-house.Fem.Cons
+17	mayankar̃	mayankaː	ADJ	_	Definite=Cons	16	comp:obj	_	Gloss=slaughterhouse.Fem.Cons
 18	gàrîn	gàriː	NOUN	_	Definite=Def|Gender=Masc	17	mod	_	Gloss=city.Masc.Def
 19	don	don	SCONJ	_	_	14	mod	_	Gloss=in_order_to
 20	yankà	yank-	VERB	_	Case=Gen|Gender=Masc|Person=2|PronType=Prs	19	comp:obj	_	Gloss=cut
@@ -265,10 +265,10 @@
 22	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi_8
-# text_en = 
-# text_ortho = 
-# text = Dàgà nan nèː kuma sai taːshìn hankàlîn ya bàzu sauran sâssan jihàr̃ ta Bauci, har̃ ya kai gà bàbban bir̃nin jihàr̃, wandà dàgà bìsaːniː kìːmaːnìn mutàːneː tàmàːnin sukà rasà raːyukànsù , sànnan kuma akà cinnàː wà coːcì-coːcì dà gìne-gìne wutaː.
-1	Dàgà	dàgà	ADP	_	_	8	mod	_	Gloss=from
+# text_en = From there, the disturbances spread to other districts of Bauchi State, until it reached the capital of the state, where later eighty people died and then churches and buildings were set on fire. 
+# text_ortho = Dàgà nan nèː kuma sai taːshìn hankàlîn ya bàzu sauran sâssan jihàr̃ ta Bauci, har̃ ya kai gà bàbban bir̃nin jihàr̃, wandà dàgà bìsaːniː kìːmaːnìn mutàːneː tàmàːnin sukà rasà raːyukànsù , sànnan kuma akà cinnàː wà coːcì-coːcì dà gìne-gìne wutaː.
+# text = dàgà nan nèː kuma sai taːshìn hankàlîn ya bàzu sauran sâssan jihàr̃ ta Bauci, har̃ ya kai gà bàbban bir̃nin jihàr̃, wandà dàgà bìsaːniː kìːmaːnìn mutàːneː tàmàːnin sukà rasà raːyukànsù , sànnan kuma akà cinnàː wà coːcì-coːcì dà gìne-gìne wutaː.
+1	dàgà	dàgà	ADP	_	_	8	mod	_	Gloss=from
 2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp:obj	_	Gloss=ProxH
 3	nèː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
 4	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
@@ -314,10 +314,10 @@
 44	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi_9
-# text_en = 
-# text_ortho = 
-# text = 'Yan jàːr̃ìːdun Nàjeːr̃iyàː dà kèː Baucîn sun cêː sun ga jànaː'izàr̃ dà akà yi wà Mùsùlmiː suː fìye dà ɗàriː dà àshìr̃in, kuma matàfìyaː à kân hanyàr̃ Bauci zuwàː Jàs sun cêː sun ga gaːwàwwakiː dà daːmaː à yàr̃yàːshe à geːfèn hanyàː.
-1	'Yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	7	subj	_	Gloss=child.Plur.Cons
+# text_en = The Nigerian reporters who were in Bauchi declared that they saw more than one hundred and twenty burials that were given to Muslims, and travellers on the road from Bauchi to Jos said that they had seen many corpses alongside the road. 
+# text_ortho = 'Yan jàːr̃ìːdun Nàjeːr̃iyàː dà kèː Baucîn sun cêː sun ga jànaː'izàr̃ dà akà yi wà Mùsùlmiː suː fìye dà ɗàriː dà àshìr̃in, kuma matàfìyaː à kân hanyàr̃ Bauci zuwàː Jàs sun cêː sun ga gaːwàwwakiː dà daːmaː à yàr̃yàːshe à geːfèn hanyàː.
+# text = 'yan jàːr̃ìːdun Nàjeːr̃iyàː dà kèː Baucîn sun cêː sun ga jànaː'izàr̃ dà akà yi wà Mùsùlmiː suː fìye dà ɗàriː dà àshìr̃in, kuma matàfìyaː à kân hanyàr̃ Bauci zuwàː Jàs sun cêː sun ga gaːwàwwakiː dà daːmaː à yàr̃yàːshe à geːfèn hanyàː.
+1	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	7	subj	_	Gloss=child.Plur.Cons
 2	jàːr̃ìːdun	jàːr̃iːdàː	NOUN	_	Definite=Cons|Number=Plur	1	compound	_	Gloss=newspaper.Plur.Cons
 3	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	1	mod	_	Gloss=Nigeria
 4	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
@@ -363,10 +363,10 @@
 44	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi_10
-# text_en = 
-# text_ortho = 
-# text = Ƙungìyar̃ Kir̃istoːcin Nàjeːr̃iyàː taː ƙiyàstaː cêːwaː Kir̃istoːciː ɗàriː nèː akà kashèː, kuma dùbban 'yan gudùn hijir̃aː, mafìː yawàː Kir̃istoːciː, waɗàndà sukà bar̃ gidàːjensù sàːkàmakon hàrgitsîn, sunàː fùskantàr̃ màtsalàr̃ saːmùn àbinci.
-1	Ƙungìyar̃	ƙungìyaː	PROPN	_	Definite=Cons|Gender=Fem	4	subj	_	Gloss=association
+# text_en = The Nigerian Christian Association said that a hundred Christians had been killed, and that thousands of refugees, most of them Christians who had left their houses because of the crisis, had problems finding food. 
+# text_ortho = Ƙungìyar̃ Kir̃istoːcin Nàjeːr̃iyàː taː ƙiyàstaː cêːwaː Kir̃istoːciː ɗàriː nèː akà kashèː, kuma dùbban 'yan gudùn hijir̃aː, mafìː yawàː Kir̃istoːciː, waɗàndà sukà bar̃ gidàːjensù sàːkàmakon hàrgitsîn, sunàː fùskantàr̃ màtsalàr̃ saːmùn àbinci.
+# text = ƙungìyar̃ Kir̃istoːcin Nàjeːr̃iyàː taː ƙiyàstaː cêːwaː Kir̃istoːciː ɗàriː nèː akà kashèː, kuma dùbban 'yan gudùn hijir̃aː, mafìː yawàː Kir̃istoːciː, waɗàndà sukà bar̃ gidàːjensù sàːkàmakon hàrgitsîn, sunàː fùskantàr̃ màtsalàr̃ saːmùn àbinci.
+1	ƙungìyar̃	ƙungìyaː	PROPN	_	Definite=Cons|Gender=Fem	4	subj	_	Gloss=association
 2	Kir̃istoːcin	Kir̃istàː	PROPN	_	_	1	mod	_	Gloss=Christian
 3	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	1	mod	_	Gloss=Nigeria
 4	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
@@ -404,10 +404,10 @@
 36	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi_11
-# text_en = 
-# text_ortho = 
-# text = À loːkàcin tàr̃zòːmâr̃ dai Kir̃istoːciː dà daːmaː dàgà kudancin ƙasâr sun yi zàrgin cêwaː Mùsùlmiː màːsu tsananin r̃a'àyin àddiːnìː suː nèː sukà janyoː waɗànnân tàːshe-tàːshen hankulàː.
-1	À	à	ADP	_	_	11	mod	_	Gloss=at
+# text_en = At the time of the riot indeed, many Christians originating from the south of the country accused Muslims fanatics of having caused these disturbances. 
+# text_ortho = À loːkàcin tàr̃zòːmâr̃ dai Kir̃istoːciː dà daːmaː dàgà kudancin ƙasâr sun yi zàrgin cêwaː Mùsùlmiː màːsu tsananin r̃a'àyin àddiːnìː suː nèː sukà janyoː waɗànnân tàːshe-tàːshen hankulàː.
+# text = à loːkàcin tàr̃zòːmâr̃ dai Kir̃istoːciː dà daːmaː dàgà kudancin ƙasâr sun yi zàrgin cêwaː Mùsùlmiː màːsu tsananin r̃a'àyin àddiːnìː suː nèː sukà janyoː waɗànnân tàːshe-tàːshen hankulàː.
+1	à	à	ADP	_	_	11	mod	_	Gloss=at
 2	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	Gloss=time.Masc.Cons
 3	tàr̃zòːmâr̃	tàr̃zòːmaː	NOUN	_	Definite=Def|Gender=Fem	2	mod	_	Gloss=riot.Fem.Def
 4	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
@@ -436,10 +436,10 @@
 27	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi_12
-# text_en = 
-# text_ortho = 
-# text = Dâː maː dai rashìn jìtuwar̃ àddiːnìː tsàkaːnin 'yan kudancin Nàjeːr̃iyàː, waɗàndà akasàr̃insù mabìyaː àddiːnìn Kir̃istàː neː, dà kuma 'yan areːwacin ƙasâr̃, waɗàndà mafìː yawànsù Mùsùlmiː nèː , bàː bàːƙon àbù ba nèː.
-1	Dâː	dâː	ADV	_	_	37	mod	_	Gloss=formerly
+# text_en = Of all times, religious intolerance between Nigerian southerners, whose majority are Christians, and Nigerian northerners, whose majority are Muslims, has not been a new thing. 
+# text_ortho = Dâː maː dai rashìn jìtuwar̃ àddiːnìː tsàkaːnin 'yan kudancin Nàjeːr̃iyàː, waɗàndà akasàr̃insù mabìyaː àddiːnìn Kir̃istàː neː, dà kuma 'yan areːwacin ƙasâr̃, waɗàndà mafìː yawànsù Mùsùlmiː nèː , bàː bàːƙon àbù ba nèː.
+# text = dâː maː dai rashìn jìtuwar̃ àddiːnìː tsàkaːnin 'yan kudancin Nàjeːr̃iyàː, waɗàndà akasàr̃insù mabìyaː àddiːnìn Kir̃istàː neː, dà kuma 'yan areːwacin ƙasâr̃, waɗàndà mafìː yawànsù Mùsùlmiː nèː , bàː bàːƙon àbù ba nèː.
+1	dâː	dâː	ADV	_	_	37	mod	_	Gloss=formerly
 2	maː	maː	PART	_	PartType=Top	1	discourse@top	_	Gloss=even
 3	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
 4	rashìn	ras-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	37	subj	_	Gloss=lack.Vnoun.Masc.Cons
@@ -479,10 +479,10 @@
 38	.	.	PUNCT	_	_	37	punct	_	Gloss=PUNCT
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi_13
-# text_en = 
-# text_ortho = 
-# text = Wasu maː har̃ sukàn jingìnà ruːshèːwar̃ Jàmhuːr̃iyàː ta Farkoː à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sìttin dà shidà. dà kuma Jàmhuːr̃iyàː ta Biyu à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà ukù bìsàː rashìn jìtuwar̃ àddiːnìː.
-1	Wasu	wani	PRON	_	Definite=Spec	4	subj	_	Gloss=some.Plur.Spec
+# text_en = Some [disturbances] have even precipitated the fall of the First Republic in nineteen sixty-six, and of the Second Republic in nineteen eighty-three, because of religious intolerance.
+# text_ortho = Wasu maː har̃ sukàn jingìnà ruːshèːwar̃ Jàmhuːr̃iyàː ta Farkoː à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sìttin dà shidà,  dà kuma Jàmhuːr̃iyàː ta Biyu à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà ukù bìsàː rashìn jìtuwar̃ àddiːnìː.
+# text = wasu maː har̃ sukàn jingìnà ruːshèːwar̃ Jàmhuːr̃iyàː ta Farkoː à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sìttin dà shidà, dà kuma Jàmhuːr̃iyàː ta Biyu à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà ukù bìsàː rashìn jìtuwar̃ àddiːnìː.
+1	wasu	wani	PRON	_	Definite=Spec	4	subj	_	Gloss=some.Plur.Spec
 2	maː	maː	PART	_	PartType=Top	1	discourse@top	_	Gloss=even
 3	har̃	har̃	ADV	_	_	4	mod	_	Gloss=even
 4	sukàn	kàn	AUX	_	Aspect=Hab|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Hab
@@ -501,7 +501,7 @@
 17	sìttin	sìttin	NUM	_	Definite=Cons|Gender=Masc	14	conj:coord	_	Gloss=sixty
 18	dà	dà	CCONJ	_	_	19	cc	_	Gloss=and
 19	shidà	shidà	NUM	_	_	17	conj:coord	_	Gloss=six|SpaceAfter=No
-20	.	.	PUNCT	_	_	23	punct	_	Gloss=PUNCT
+20	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 21	dà	dà	CCONJ	_	_	23	cc	_	Gloss=and
 22	kuma	kuma	PART	_	PartType=Disc	21	discourse@top	_	Gloss=also
 23	Jàmhuːr̃iyàː	jàmhuːr̃iyàː	NOUN	_	Gender=Fem	7	conj:coord	_	Gloss=republic.Fem
@@ -525,9 +525,9 @@
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi_14
 # text_en = 
-# text_ortho = 
-# text = Sànnan kuma wasu 'yan boːkòn Nàjeːr̃iyàː maː sunàː ganin cêːwaː ìdan bà'à yi wani àbù don shaːwoː kân wannàn lamàr̃iː ba, tòː àbîn yanàː iyà kaːwoː rìkiciː à Nàjeːr̃iyàː, ƙasâr̃ dà ta fi koːwàcceː yawàn mutàːneː à naːhiyàr̃ Afìr̃kà.
-1	Sànnan	sànnan	ADV	_	_	8	mod	_	Gloss=then
+# text_ortho = Sànnan kuma wasu 'yan boːkòn Nàjeːr̃iyàː maː sunàː ganin cêːwaː ìdan bà'à yi wani àbù don shaːwoː kân wannàn lamàr̃iː ba, tòː àbîn yanàː iyà kaːwoː rìkiciː à Nàjeːr̃iyàː, ƙasâr̃ dà ta fi koːwàcceː yawàn mutàːneː à naːhiyàr̃ Afìr̃kà.
+# text = sànnan kuma wasu 'yan boːkòn Nàjeːr̃iyàː maː sunàː ganin cêːwaː ìdan bà'à yi wani àbù don shaːwoː kân wannàn lamàr̃iː ba, tòː àbîn yanàː iyà kaːwoː rìkiciː à Nàjeːr̃iyàː, ƙasâr̃ dà ta fi koːwàcceː yawàn mutàːneː à naːhiyàr̃ Afìr̃kà.
+1	sànnan	sànnan	ADV	_	_	8	mod	_	Gloss=then
 2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
 3	wasu	wani	DET	_	Definite=Spec|Number=Plur	4	det	_	Gloss=some.Plur.Spec
 4	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	8	subj	_	Gloss=child.Plur.Cons
@@ -572,9 +572,9 @@
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi_15
 # text_en = 
-# text_ortho = 
-# text = Wàtànniː kàmar̃ shidà baːyan wannàn hàrgitsiː kuma, an yi wasu tàːshe-tàːshen hankulàː à bir̃nin Kanòː, indà akà kashè à ƙallà mutàːneː goːmà shâː bìyar̃, ɗaruːruwàː kuma sukà sàːmi raunukàː.
-1	Wàtànniː	watàː	NOUN	_	Number=Plur	9	dislocated@comp	_	Gloss=month.Plur
+# text_ortho = Wàtànniː kàmar̃ shidà baːyan wannàn hàrgitsiː kuma, an yi wasu tàːshe-tàːshen hankulàː à bir̃nin Kanòː, indà akà kashè à ƙallà mutàːneː goːmà shâː bìyar̃, ɗaruːruwàː kuma sukà sàːmi raunukàː.
+# text = wàtànniː kàmar̃ shidà baːyan wannàn hàrgitsiː kuma, an yi wasu tàːshe-tàːshen hankulàː à bir̃nin Kanòː, indà akà kashè à ƙallà mutàːneː goːmà shâː bìyar̃, ɗaruːruwàː kuma sukà sàːmi raunukàː.
+1	wàtànniː	watàː	NOUN	_	Number=Plur	9	dislocated@comp	_	Gloss=month.Plur
 2	kàmar̃	kàmar̃	ADP	_	_	1	mod	_	Gloss=like
 3	shidà	shidà	PRON	_	_	2	comp:obj	_	Gloss=six
 4	baːyan	baːyan	ADP	_	_	3	mod	_	Gloss=after
@@ -610,9 +610,9 @@
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi_16
 # text_en = 
-# text_ortho = 
-# text = Taːshìn hankàlîn yaː biyoː baːyan zàngà-zangàr̃ dà dubbàn Mùsùlmiː sukà yi, don nuːnà rashìn amìncêːwaː dà zìyaːr̃àr̃ dà wani mài wa'àzin àddiːnìn Kir̃istàː, ɗan Jaːmùs mài suːnaː " Reinhard Bonnke " , ya kai Kanòː.
-1	Taːshìn	taːs-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	3	subj	_	Gloss=rise.Vnoun.Masc.Cons
+# text_ortho = Taːshìn hankàlîn yaː biyoː baːyan zàngà-zangàr̃ dà dubbàn Mùsùlmiː sukà yi, don nuːnà rashìn amìncêːwaː dà zìyaːr̃àr̃ dà wani mài wa'àzin àddiːnìn Kir̃istàː, ɗan Jaːmùs mài suːnaː " Reinhard Bonnke " , ya kai Kanòː.
+# text = taːshìn hankàlîn yaː biyoː baːyan zàngà-zangàr̃ dà dubbàn Mùsùlmiː sukà yi, don nuːnà rashìn amìncêːwaː dà zìyaːr̃àr̃ dà wani mài wa'àzin àddiːnìn Kir̃istàː, ɗan Jaːmùs mài suːnaː " Reinhard Bonnke " , ya kai Kanòː.
+1	taːshìn	taːs-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	3	subj	_	Gloss=rise.Vnoun.Masc.Cons
 2	hankàlîn	hankàliː	NOUN	_	Definite=Def	1	mod	_	Gloss=mind.Masc.Def
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 4	biyoː	bi	VERB	_	_	3	comp:aux	_	Gloss=follow
@@ -652,10 +652,10 @@
 38	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi_17
-# text_en = 
-# text_ortho = 
-# text = Màːsu zàngà-zangàr̃ sun yi maːcìː à tiːtunàn Kanòː, sunàː kunnà wutaː gà kantunàː dà moːtoːciː.
-1	Màːsu	mài	PART	_	Number=Plur|PartType=Der	3	subj	_	Gloss=doer
+# text_en = Some demonstrators marched in the streets of Kano, setting fire to shops and vehicles. 
+# text_ortho = Màːsu zàngà-zangàr̃ sun yi maːcìː à tiːtunàn Kanòː, sunàː kunnà wutaː gà kantunàː dà moːtoːciː.
+# text = màːsu zàngà-zangàr̃ sun yi maːcìː à tiːtunàn Kanòː, sunàː kunnà wutaː gà kantunàː dà moːtoːciː.
+1	màːsu	mài	PART	_	Number=Plur|PartType=Der	3	subj	_	Gloss=doer
 2	zàngà-zangàr̃	zàngà-zangàr̃	NOUN	_	Definite=Def|Number=Plur	1	compound	_	Gloss=demonstration.Fem.Def
 3	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
 4	yi	yi	VERB	_	_	3	comp:aux	_	Gloss=do
@@ -674,10 +674,10 @@
 17	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi_18
-# text_en = 
-# text_ortho = 
-# text = Har̃ yà zuwàː dareː kuma wasu gìne-gìne sunàː cîn wutaː.
-1	Har̃	har̃	ADP	_	_	8	mod	_	Gloss=up_to
+# text_en = Up to the night, some buildings were still burning. 
+# text_ortho = Har̃ yà zuwàː dareː kuma wasu gìne-gìne sunàː cîn wutaː.
+# text = har̃ yà zuwàː dareː kuma wasu gìne-gìne sunàː cîn wutaː.
+1	har̃	har̃	ADP	_	_	8	mod	_	Gloss=up_to
 2	yà	yà	ADP	_	_	1	comp:obj	_	Gloss=like
 3	zuwàː	zuwàː	ADP	_	_	2	comp:obj	_	Gloss=towards
 4	dareː	dareː	NOUN	_	Gender=Masc	3	comp:obj	_	Gloss=night.Masc
