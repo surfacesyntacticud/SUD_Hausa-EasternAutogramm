@@ -22,8 +22,8 @@
 
 # sent_id = 01_Umaru_Dikko_3
 # text_en = The former minister of transport of Nigeria has escaped the country after the coup that the soldiers did in December 1983 when the civilian government of President Shehu Shagari was overturned.
-# text = tsoːhon ministàn sufùr̃in na Nàjeːr̃iyàː yaː tseːrèː neː dàgà ƙasâr̃ baːyan juːyìn mulkìn dà soːjà sukà yi à watan disambàː na shèːkararàr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà ukù, indà akà hamɓarar̃ dà gwamnatìn farar̃-hùːlaː ta Shùːgàbaː Sheːhù Shàːgàːri.
-# text_ortho = Tsoːhon Ministàn Sufùr̃in na Nàjeːr̃iyàː yaː tseːrèː neː dàgà ƙasâr̃ baːyan juːyìn mulkìn dà soːjà sukà yi à watan Disambàː na shèːkararàr̃ alìf da ɗàriː tar̃à đà tàmàːnin dà ukù, indà akà hamɓarar̃ dà gwamnatìn farar̃-hùːlaː ta Shùːgàbaː Sheːhù Shàːgàːri.
+# text = tsoːhon ministàn sufùr̃in na Nàjeːr̃iyàː yaː tseːrèː neː dàgà ƙasâr̃ baːyan juːyìn mulkìn dà soːjà sukà yi à watan disambàː na shèːkararàr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà ukù, ìndà akà hamɓarar̃ dà gwamnatìn farar̃-hùːlaː ta Shùːgàbaː Sheːhù Shàːgàːri.
+# text_ortho = Tsoːhon Ministàn Sufùr̃in na Nàjeːr̃iyàː yaː tseːrèː neː dàgà ƙasâr̃ baːyan juːyìn mulkìn dà soːjà sukà yi à watan Disambàː na shèːkararàr̃ alìf da ɗàriː tar̃à đà tàmàːnin dà ukù, ìndà akà hamɓarar̃ dà gwamnatìn farar̃-hùːlaː ta Shùːgàbaː Sheːhù Shàːgàːri.
 1	tsoːhon	tsoːhoː	ADJ	_	Gender=Masc	2	mod	_	Gloss=old.Masc
 2	ministàn	ministàː	NOUN	_	Definite=Cons|Gender=Masc	6	subj	_	Gloss=minister.Masc.Cons
 3	sufùr̃in	sufùr̃iː	NOUN	_	Definite=Cons|Gender=Masc	2	mod	_	Gloss=transport.Masc.Cons
@@ -55,7 +55,7 @@
 29	dà	dà	CCONJ	_	_	30	cc	_	Gloss=and
 30	ukù	ukù	NUM	_	Number=Plur|Person=3	28	conj:coord	_	Gloss=three|SpaceAfter=No
 31	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
-32	indà	indà	SCONJ	_	PronType=Rel	20	mod@relcl	_	Gloss=where
+32	ìndà	indà	SCONJ	_	PronType=Rel	20	mod@relcl	_	Gloss=where
 33	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	32	comp:obj	_	Gloss=4.Perf.Rel
 34	hamɓarar̃	hamɓar-	VERB	_	Voice=Cau	33	comp:aux	_	Gloss=overthrow.Cau
 35	dà	dà	ADP	_	_	34	comp:obl	_	Gloss=with
@@ -151,10 +151,10 @@
 25	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko_7
-# text = waɗàndà sukà yi niyyàr̃ saːcèː shîn sun cafkèː shi à kân tiːtìn Landàn, sukà sâː masà ankwàː, sukà ɗuːràː masà ƙwàːyaː, sànnan sukà sâː shi à cikin wani kaːtòn àkwàːtì, sukà sâː ƙuːsàː sukà rufèː àkwàːtìn gam, sunàː shirin kai shì Nàːjeːr̃iyàː.
+# text = wàɗàndà sukà yi niyyàr̃ saːcèː shîn sun cafkèː shi à kân tiːtìn Landàn, sukà sâː masà ankwàː, sukà ɗuːràː masà ƙwàːyaː, sànnan sukà sâː shi à cikin wani kaːtòn àkwàːtì, sukà sâː ƙuːsàː sukà rufèː àkwàːtìn gam, sunàː shirin kai shì Nàːjeːr̃iyàː.
 # text_en = Those who tried to kidnap him seized him on the streets on London, handcuffed him, drugged him, then put him in a large box, nailed and closed tight the box, and prepared to send it to Nigeria.
-# text_ortho = Waɗàndà sukà yi niyyàr̃ saːcèː shîn sun cafkèː shi à kân tiːtìn Landàn, sukà sâː masà ankwàː, sukà ɗuːràː masà ƙwàːyaː, sànnan sukà sâː shi à cikin wani kaːtòn àkwàːtì, sukà sâː ƙuːsàː sukà rufèː àkwàːtìn gam, sunàː shirin kai shì Nàːjeːr̃iyàː.
-1	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	7	subj	_	Gloss=REL.Plur
+# text_ortho = Wàɗàndà sukà yi niyyàr̃ saːcèː shîn sun cafkèː shi à kân tiːtìn Landàn, sukà sâː masà ankwàː, sukà ɗuːràː masà ƙwàːyaː, sànnan sukà sâː shi à cikin wani kaːtòn àkwàːtì, sukà sâː ƙuːsàː sukà rufèː àkwàːtìn gam, sunàː shirin kai shì Nàːjeːr̃iyàː.
+1	wàɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	7	subj	_	Gloss=REL.Plur
 2	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	1	mod@relcl	_	Gloss=3Plur.Perf.Rel
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	niyyàr̃	niyyàː	NOUN	_	Definite=Cons|Gender=Fem	3	comp:pred	_	Gloss=attempt.Fem.Cons
@@ -237,8 +237,8 @@
 
 # sent_id = 01_Umaru_Dikko_9
 # text_en = Where one should write who was sending the box, they had written office of the Nigerian ambassador, "London".
-# text = à wajen indà ya kàmaːtà à r̃ubùːtà wandà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà oːfishin jàkaːdàn Nàjeːr̃iyàː, " Landàn".
-# text_ortho = À wajen indà ya kàmaːtà à r̃ubùːtà wandà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà ꞌOːfishin Jàkaːdàn Nàjeːr̃iyàː, Landàn’.
+# text = à wajen indà ya kàmaːtà à r̃ubùːtà wàndà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà oːfishin jàkaːdàn Nàjeːr̃iyàː, " Landàn".
+# text_ortho = À wajen indà ya kàmaːtà à r̃ubùːtà wàndà ya aikàː dà àkwàːtìn kuma, sai akà r̃ubùːtà ꞌOːfishin Jàkaːdàn Nàjeːr̃iyàː, Landàn’.
 1	à	à	ADP	_	_	16	dislocated@top	_	Gloss=at
 2	wajen	wajeː	NOUN	_	Definite=Cons	1	comp:obj	_	Gloss=place.Masc.Cons
 3	indà	indà	ADV	_	PronType=Rel	2	mod	_	Gloss=where
@@ -246,7 +246,7 @@
 5	kàmaːtà	kamaːt-	VERB	_	_	4	comp:aux	_	Gloss=be_appropriate
 6	à	yà	AUX	_	Mood=Sub|Person=4	5	comp:obj@agent	_	Gloss=4.Sub
 7	r̃ubùːtà	r̃ubuːt-	NOUN	_	_	6	comp:aux	_	Gloss=write
-8	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	7	comp:obj	_	Gloss=REL.Masc
+8	wàndà	wandà	PRON	_	Gender=Masc|PronType=Rel	7	comp:obj	_	Gloss=REL.Masc
 9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	8	mod@relcl	_	Gloss=3Masc.Perf.Rel
 10	aikàː	aik-	VERB	_	_	9	comp:aux	_	Gloss=send
 11	dà	dà	ADP	_	_	10	comp:obl	_	Gloss=with

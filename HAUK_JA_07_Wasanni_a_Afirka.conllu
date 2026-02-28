@@ -35,8 +35,8 @@
 
 # sent_id = 07_Wasanni_a_Afirka_3
 # text_en = The crisis arose when the boxer named 'Joe Lasisi' who is the lightweight champion of Nigeria and Africa will enter the competition that the world boxing association has organised to determine who will get the title of world champion of the lightweight category. 
-# text = rìkicîn yaː taːsoː nèː gàme dà koː ɗan dambên nan mài suːnaː " Joe Lasisi ", wandà kuma shiː nèː zàkaràn ajìn maràsaː nauyiː na Nàːjeːr̃iyàː dà kuma Afir̃kà bàːkiː ɗaya, zâi shìga gàːsâr̃ nan waddà ƙungìyar̃ dambe ta duːniyàː ta shiryàː don neːmoː wani wandà zâi ɗàuki kambin duːniyàː na ajìn maràsaː nauyiː.
-# text_ortho = Rìkicîn yaː taːsoː nèː gàme dà koː ɗan dambên nan mài suːnaː 'Joe Lasisi', wandà kuma shiː nèː zàkaràn ajìn maràsaː nauyiː na Nàːjeːr̃iyàː dà kuma Afir̃kà bàːkiː ɗaya, zâi shìga gàːsâr̃ nan waddà Ƙungìyar̃ Dambe ta Duːniyàː ta shiryàː don neːmoː wani wandà zâi ɗàuki kambin duːniyàː na ajìn maràsaː nauyiː.
+# text = rìkicîn yaː taːsoː nèː gàme dà koː ɗan dambên nan mài suːnaː " Joe Lasisi ", wàndà kuma shiː nèː zàkaràn ajìn maràsaː nauyiː na Nàːjeːr̃iyàː dà kuma Afir̃kà bàːkiː ɗaya, zâi shìga gàːsâr̃ nan waddà ƙungìyar̃ dambe ta duːniyàː ta shiryàː don neːmoː wani wàndà zâi ɗàuki kambin duːniyàː na ajìn maràsaː nauyiː.
+# text_ortho = Rìkicîn yaː taːsoː nèː gàme dà koː ɗan dambên nan mài suːnaː 'Joe Lasisi', wàndà kuma shiː nèː zàkaràn ajìn maràsaː nauyiː na Nàːjeːr̃iyàː dà kuma Afir̃kà bàːkiː ɗaya, zâi shìga gàːsâr̃ nan waddà Ƙungìyar̃ Dambe ta Duːniyàː ta shiryàː don neːmoː wani wàndà zâi ɗàuki kambin duːniyàː na ajìn maràsaː nauyiː.
 1	rìkicîn	rìkiciː	NOUN	_	Definite=Def|Gender=Masc	2	subj	_	Gloss=crisis.Masc.Def
 2	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 3	taːsoː	taːs-	VERB	_	_	2	comp:aux	_	Gloss=rise
@@ -54,7 +54,7 @@
 15	Lasisi	Lasisi	PROPN	_	_	14	flat@name	_	Gloss=Lasisi
 16	"	"	PUNCT	_	_	14	punct	_	Gloss=PUNCT|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-18	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	8	mod@relcl	_	Gloss=REL.Masc
+18	wàndà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	8	mod@relcl	_	Gloss=REL.Masc
 19	kuma	kuma	PART	_	PartType=Disc	18	discourse@top	_	Gloss=also
 20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	21	comp:pred	_	Gloss=3Masc.Nom
 21	nèː	neː	AUX	_	_	18	comp:obj	_	Gloss=be
@@ -84,7 +84,7 @@
 45	don	don	SCONJ	_	_	44	mod	_	Gloss=in_order_to
 46	neːmoː	neːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	45	comp:obj	_	Gloss=look_for.Vnoun.Masc.Cons
 47	wani	wani	PRON	_	Definite=Spec|Gender=Masc	46	comp:obj	_	Gloss=some.Masc.Spec
-48	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	47	mod@relcl	_	Gloss=REL.Masc
+48	wàndà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	47	mod@relcl	_	Gloss=REL.Masc
 49	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	48	comp:obj	_	Gloss=3Masc.Fut
 50	ɗàuki	ɗauk-	VERB	_	_	49	comp:aux	_	Gloss=take
 51	kambin	kambiː	NOUN	_	Definite=Cons|Gender=Masc	50	comp:obj	_	Gloss=crown.Masc.Cons

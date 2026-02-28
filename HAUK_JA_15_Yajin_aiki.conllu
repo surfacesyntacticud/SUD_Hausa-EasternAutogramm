@@ -101,15 +101,15 @@
 
 # sent_id = 15_Yajin_aiki_5
 # text_en = The federation of labour unions which gathers twenty-seven workers' unions, is the one who did the call for strike. 
-# text_ortho = Hàɗaɗɗiyar̃ Ƙungìyar̃ 'Yan Ƙoːdagon Ƙasâr̃, waddà ta haɗàː dà ƙungiyoːyiː àshìr̃in dà bakwài na ma'àikàtan ƙasâr̃, ita cèː ta yi kiràn à yi yaːjìn aikìn.
-# text = hàɗaɗɗiyar̃ Ƙungìyar̃ 'Yan Ƙoːdagon Ƙasâr̃, waddà ta haɗàː dà ƙungiyoːyiː àshìr̃in dà bakwài na ma'àikàtan ƙasâr̃, ita cèː ta yi kiràn à yi yaːjìn aikìn.
+# text_ortho = Hàɗaɗɗiyar̃ Ƙungìyar̃ 'Yan Ƙoːdagon Ƙasâr̃, wàddà ta haɗàː dà ƙungiyoːyiː àshìr̃in dà bakwài na ma'àikàtan ƙasâr̃, ita cèː ta yi kiràn à yi yaːjìn aikìn.
+# text = hàɗaɗɗiyar̃ Ƙungìyar̃ 'Yan Ƙoːdagon Ƙasâr̃, wàddà ta haɗàː dà ƙungiyoːyiː àshìr̃in dà bakwài na ma'àikàtan ƙasâr̃, ita cèː ta yi kiràn à yi yaːjìn aikìn.
 1	hàɗaɗɗiyar̃	hàɗaɗɗiyeː	ADJ	_	Definite=Cons|Gender=Fem	2	mod	_	Gloss=united.Fem.Cons|wordform=Hadaddiyar
 2	Ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	19	dislocated@top	_	Gloss=union.Fem.Cons|wordform=Kungiyar
 3	'Yan	ɗaː	NOUN	_	Definite=Cons	2	mod	_	Gloss=child.Plur.Cons
 4	Ƙoːdagon	ƙoːdagoː	NOUN	_	Gender=Masc	3	compound	_	Gloss=labour.Masc
 5	Ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	3	mod	_	Gloss=country.Fem.Def|SpaceAfter=No|wordform=Kasar
 6	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-7	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	2	mod@relcl	_	Gloss=REL.Fem|wordform=wadda
+7	wàddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	2	mod@relcl	_	Gloss=REL.Fem|wordform=wadda
 8	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	7	comp:obj	_	Gloss=3Fem.Perf.Rel
 9	haɗàː	haɗ-	VERB	_	_	8	comp:aux	_	Gloss=unite
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with
@@ -192,8 +192,8 @@
 
 # sent_id = 15_Yajin_aiki_7
 # text_en = The people on strike called on the government to organise an assembly of all the citizens of the country, which will discuss the economic and political situation. 
-# text_ortho = Màːsu yîn yaːjìn aikìn sun bùkàːci gwamnatì tà yi wani tàːroː na 'yan ƙasâr̃ bàːkiː ɗaya, wandà zâi tattàunà tsaːrìn tattalin ar̃zìkiː dà kuma na sìyaːsàː.
-# text = màːsu yîn yaːjìn aikìn sun bùkàːci gwamnatì tà yi wani tàːroː na 'yan ƙasâr̃ bàːkiː ɗaya, wandà zâi tattàunà tsaːrìn tattalin ar̃zìkiː dà kuma na sìyaːsàː.
+# text_ortho = Màːsu yîn yaːjìn aikìn sun bùkàːci gwamnatì tà yi wani tàːroː na 'yan ƙasâr̃ bàːkiː ɗaya, wàndà zâi tattàunà tsaːrìn tattalin ar̃zìkiː dà kuma na sìyaːsàː.
+# text = màːsu yîn yaːjìn aikìn sun bùkàːci gwamnatì tà yi wani tàːroː na 'yan ƙasâr̃ bàːkiː ɗaya, wàndà zâi tattàunà tsaːrìn tattalin ar̃zìkiː dà kuma na sìyaːsàː.
 1	màːsu	mài	PROPN	_	Number=Plur|PartType=Der	5	subj	_	Gloss=owner/doer_of.Plur
 2	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	compound	_	Gloss=do.Vnoun.Masc.Cons
 3	yaːjìn	yaːjìː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:pred	_	Gloss=hot_spice.Masc.Cons
@@ -211,7 +211,7 @@
 15	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	13	mod	_	Gloss=mouth.Masc
 16	ɗaya	ɗaya	NUM	_	_	15	mod:num	_	Gloss=one|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-18	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	11	mod@relcl	_	Gloss=REL.Masc
+18	wàndà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	11	mod@relcl	_	Gloss=REL.Masc
 19	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	18	comp:obj	_	Gloss=3Masc.Fut
 20	tattàunà	tattaun-	VERB	_	_	19	comp:aux	_	Gloss=discuss
 21	tsaːrìn	tsaːrìː	NOUN	_	Definite=Cons|Gender=Masc	20	comp:obj	_	Gloss=system.Masc
@@ -295,9 +295,9 @@
 
 # sent_id = 15_Yajin_aiki_10
 # text_en = Those who died during the crisis, according the country authorities, are just three, although some student sources and hospital workers said that more than ten people died. 
-# text_ortho = Waɗàndà sukà ràsu à loːkàcin rìkicîn dai, kàmar̃ yaddà mahùkùntan ƙasâr̃ sukà cêː, suː ukù neː kaɗai, koː dà yakèː wasu kafoːfin ɗàːlìban ƙasâr ̃dà ma'àikàtan asìbitì sun cêː fìye dà mutàneː goːmà neː sukà mutù.
-# text = waɗàndà sukà ràsu à loːkàcin rìkicîn dai, kàmar̃ yaddà mahùkùntan ƙasâr̃ sukà cêː, suː ukù neː kaɗai, koː dà yakèː wasu kafoːfin ɗàːlìban ƙasâr̃dà ma'àikàtan asìbitì sun cêː fìye dà mutàneː goːmà neː sukà mutù.
-1	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	18	dislocated@subj	_	Gloss=who.Plur
+# text_ortho = Wàɗàndà sukà ràsu à loːkàcin rìkicîn dai, kàmar̃ yaddà mahùkùntan ƙasâr̃ sukà cêː, suː ukù neː kaɗai, koː dà yakèː wasu kafoːfin ɗàːlìban ƙasâr ̃dà ma'àikàtan asìbitì sun cêː fìye dà mutàneː goːmà neː sukà mutù.
+# text = wàɗàndà sukà ràsu à loːkàcin rìkicîn dai, kàmar̃ yaddà mahùkùntan ƙasâr̃ sukà cêː, suː ukù neː kaɗai, koː dà yakèː wasu kafoːfin ɗàːlìban ƙasâr̃dà ma'àikàtan asìbitì sun cêː fìye dà mutàneː goːmà neː sukà mutù.
+1	wàɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	18	dislocated@subj	_	Gloss=who.Plur
 2	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	1	mod@relcl	_	Gloss=3Plur.Perf.Rel
 3	ràsu	ràsu	VERB	_	_	2	comp:aux	_	Gloss=die
 4	à	à	ADP	_	_	3	comp:obl	_	Gloss=at
@@ -615,8 +615,8 @@
 
 # sent_id = 15_Yajin_aiki_19
 # text_en = Their strike showed their support to the workers of the Bank for Niger Development who were left jobless after the goverment of the country decided to close the bank. 
-# text_ortho = Yaːjìn aikìn naːsù kùwa na nuːnà goːyon baːyaː nèː gà ma'àikàtan Bankìn Raːyà Ƙasâr̃ ta Nìːjâr̃, waɗàndà sukà rasà ayyukànsù baːyân dà gwamnatìn ƙasâr̃ ta yankè shaːwar̃àr̃ rufè bankìn.
-# text = yaːjìn aikìn naːsù kùwa na nuːnà goːyon baːyaː nèː gà ma'àikàtan Bankìn Raːyà Ƙasâr̃ ta Nìːjâr̃, waɗàndà sukà rasà ayyukànsù baːyân dà gwamnatìn ƙasâr̃ ta yankè shaːwar̃àr̃ rufè bankìn.
+# text_ortho = Yaːjìn aikìn naːsù kùwa na nuːnà goːyon baːyaː nèː gà ma'àikàtan Bankìn Raːyà Ƙasâr̃ ta Nìːjâr̃, wàɗàndà sukà rasà ayyukànsù baːyân dà gwamnatìn ƙasâr̃ ta yankè shaːwar̃àr̃ rufè bankìn.
+# text = yaːjìn aikìn naːsù kùwa na nuːnà goːyon baːyaː nèː gà ma'àikàtan Bankìn Raːyà Ƙasâr̃ ta Nìːjâr̃, wàɗàndà sukà rasà ayyukànsù baːyân dà gwamnatìn ƙasâr̃ ta yankè shaːwar̃àr̃ rufè bankìn.
 1	yaːjìn	yaːjìː	PROPN	_	Definite=Cons|Gender=Masc	10	subj	_	Gloss=hot_spice.Masc.Cons
 2	aikìn	aikìː	NOUN	_	Definite=Def|Gender=Masc	1	compound	_	Gloss=work.Masc.Def
 3-4	naːsù	_	_	_	_	_	_	_	_
@@ -636,7 +636,7 @@
 16	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	13	mod	_	Gloss=Gen.Fem
 17	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	16	comp:obj	_	Gloss=Nìːjâr̃|SpaceAfter=No|wordform=Nijaːr
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-19	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	12	mod@relcl	_	Gloss=REL.Plur|wordform=wadandal
+19	wàɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	12	mod@relcl	_	Gloss=REL.Plur|wordform=wadandal
 20	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	19	comp:obj	_	Gloss=3Plur.Perf.Rel
 21	rasà	ras-	VERB	_	_	20	comp:aux	_	Gloss=lose
 22	ayyukàn	aykìː	NOUN	_	Definite=Cons|Number=Plur	21	comp:obj	_	Gloss=job.Plur.Cons|SpaceAfter=No|wordform=ayyukànsù
