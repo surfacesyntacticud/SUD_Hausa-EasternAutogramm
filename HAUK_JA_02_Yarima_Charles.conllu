@@ -110,8 +110,8 @@
 
 # sent_id = 02_Yarima_Charles_4
 # text_en = Traditionally, the guests of Nigerian Government stay at the old Lagos government house, which used to be the house of the governor at the time of the British rule.
-# text = bìsàː àlꞌaːdàː bàːƙin Gwamnatìn Nàːjeːr̃iyàː sukàn sàuka nèː à tsoːhon gidan gwamnatì dà kèː Ìkko, wàndà à dâː shiː nèː gidan gwamnà à loːkàcin mulkìn màllakàr̃ Bìrtaːniyà.
-# text_ortho = Bìsàː àlꞌaːdàː bàːƙin Gwamnatin Nàːjeːr̃iyàː sukàn sàuka nèː à tsoːhon gidan Gwamnatì dà kèː l̀kko, wàndà à dâː shiː nèː gidan Gwamnà à loːkàcin mulkìn màllakàr̃ Bìrtaːniyàː.
+# text = bìsàː àlꞌaːdàː bàːƙin Gwamnatìn Nàːjeːr̃iyàː sukàn sàuka nèː à tsoːhon gidan gwamnatì dà kèː Ìkko, wandà à dâː shiː nèː gidan gwamnà à loːkàcin mulkìn màllakàr̃ Bìrtaːniyà.
+# text_ortho = Bìsàː àlꞌaːdàː bàːƙin Gwamnatin Nàːjeːr̃iyàː sukàn sàuka nèː à tsoːhon gidan Gwamnatì dà kèː l̀kko, wandà à dâː shiː nèː gidan Gwamnà à loːkàcin mulkìn màllakàr̃ Bìrtaːniyàː.
 1	bìsàː	bìsàː	ADP	_	_	6	mod	_	Gloss=according_to
 2	àlꞌaːdàː	àlꞌaːdàː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=custom.Fem
 3	bàːƙin	bàːƙoː	NOUN	_	Definite=Cons|Number=Plur	6	subj	_	Gloss=guest.Plur.Cons
@@ -128,7 +128,7 @@
 14	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	13	comp:obj	_	Gloss=Prog.Rel
 15	Ìkko	Ìkko	PROPN	_	_	14	comp:pred	_	Gloss=Lagos|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-17	wàndà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	11	mod@relcl	_	Gloss=REL.Masc
+17	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	11	mod@relcl	_	Gloss=REL.Masc
 18	à	à	ADP	_	_	21	mod	_	Gloss=at
 19	dâː	dâː	ADV	_	_	18	comp:obj	_	Gloss=formerly
 20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	21	comp:pred	_	Gloss=3Masc.Nom
@@ -241,8 +241,8 @@
 
 # sent_id = 02_Yarima_Charles_8
 # text_en = The use of that boat, that is to say the "Britannia", was for Prince Charles and the Princess to have a place that they are used to, where they will return the receptions they will get from Nigeria.
-# text = àmfàːnin jirgin ruwân nan wàːtòː " Britannia" shiː nèː don Yàr̃iːmà Charles dà Gimbìyaː sù sàːmu wani wurîn dà sukà saːbàː dà shiː, ìndà zaːsù iyà raːmà irìn kar̃imcìn dà ꞌyan Nàːjeːr̃iyàː sukà yi musù.
-# text_ortho = Àmfàːnin jirgin ruwân nan wàːtòː ‘Britannia’ shiː nèː don Yàr̃iːmà Charles dà Gimbìyaː sù sàːmu wani wurîn dà sukà saːbàː dà shiː, ìndà zaː sù iyà raːmà irin kar̃imcìn dà ꞌyan Nàːjeːr̃iyàː sukà yi musù.
+# text = àmfàːnin jirgin ruwân nan wàːtòː " Britannia" shiː nèː don Yàr̃iːmà Charles dà Gimbìyaː sù sàːmu wani wurîn dà sukà saːbàː dà shiː, indà zaːsù iyà raːmà irìn kar̃imcìn dà ꞌyan Nàːjeːr̃iyàː sukà yi musù.
+# text_ortho = Àmfàːnin jirgin ruwân nan wàːtòː ‘Britannia’ shiː nèː don Yàr̃iːmà Charles dà Gimbìyaː sù sàːmu wani wurîn dà sukà saːbàː dà shiː, indà zaː sù iyà raːmà irin kar̃imcìn dà ꞌyan Nàːjeːr̃iyàː sukà yi musù.
 1	àmfàːnin	àmfàːniː	NOUN	_	Definite=Cons|Gender=Masc	10	subj	_	Gloss=use.Masc.Cons
 2	jirgin	jirgiː	NOUN	_	Definite=Cons|Gender=Masc	1	mod	_	Gloss=vehicle.Masc.Cons
 3	ruwân	ruwaː	NOUN	_	Definite=Cons|Gender=Masc	2	compound	_	Gloss=water.Masc.Cons
@@ -268,8 +268,8 @@
 23	dà	dà	ADP	_	_	22	comp:obl	_	Gloss=with
 24	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	23	comp:obj	_	Gloss=3Masc.Nom|SpaceAfter=No
 25	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
-26	ìndà	indà	SCONJ	_	PronType=Rel	19	mod@relcl	_	Gloss=where
-27	zaːsù	zâi	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Fut	26	comp:obj	_	Gloss=3Plur.Fut|wordform=sù
+26	indà	indà	SCONJ	_	PronType=Rel	19	mod@relcl	_	Gloss=where
+27	zaːsù	zâi	AUX	_	Number=Plur|Person=3|Tense=Fut	26	comp:obj	_	Gloss=3Plur.Fut|wordform=sù
 28	iyà	iy-	VERB	_	_	27	comp:aux	_	Gloss=be_able_to
 29	raːmà	raːm-	VERB	_	_	28	comp:obj	_	Gloss=return
 30	irìn	irìː	NOUN	_	_	31	mod@desc	_	Gloss=type_of
@@ -411,9 +411,9 @@
 14	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles_14
-# text_en = There, the Prince visited the Wild life reserve Korup, which is probably the largest reserve, and contains the most diverse things in the world.
-# text = à can kuma Yàr̃iːmà yaː zìyàr̃ci gandun daːjìː na Korup, wàndà kuma wataƙiːlà shiː nèː gandun daːjìn dà ya fi koːwànneː girmaː, sànnan kuma ya fi koːwànneː yawàn itaːtuwàː irìː-irìː à duk faːɗin duːniyàː.
-# text_ortho = À can kuma Yàr̃iːmà yaː zìyàr̃ci gandun daːjìː na Korup, wàndà kuma wataƙiːlà shiː nèː gandun daːjìn dà ya fi koːwànneː girmaː, sànnan kuma ya fi koːwànneː yawàn itaːtuwàː irìː-irìː à duk faːɗin dūniyàː.
+# text_en = Theren the Price visited the Wild life reserve Korup, which is probably the largest reserve, and contains the most diverse things in the world.
+# text = à can kuma Yàr̃iːmà yaː zìyàr̃ci gandun daːjìː na Korup, wandà kuma wataƙiːlà shiː nèː gandun daːjìn dà ya fi koːwànneː girmaː, sànnan kuma ya fi koːwànneː yawàn itaːtuwàː irìː-irìː à duk faːɗin duːniyàː.
+# text_ortho = À can kuma Yàr̃iːmà yaː zìyàr̃ci gandun daːjìː na Korup, wandà kuma wataƙiːlà shiː nèː gandun daːjìn dà ya fi koːwànneː girmaː, sànnan kuma ya fi koːwànneː yawàn itaːtuwàː irìː-irìː à duk faːɗin dūniyàː.
 1	à	à	ADP	_	_	5	mod	_	Gloss=at
 2	can	can	ADV	_	Deixis=Remt|PronType=Dem	1	comp:obj	_	Gloss=Remt
 3	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
@@ -425,7 +425,7 @@
 9	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	7	mod	_	Gloss=Gen.Masc
 10	Korup	Korup	PROPN	_	_	9	comp:obj	_	Gloss=Korup|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-12	wàndà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	7	mod@relcl	_	Gloss=REL.Masc
+12	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	7	mod@relcl	_	Gloss=REL.Masc
 13	kuma	kuma	PART	_	PartType=Disc	12	discourse@top	_	Gloss=also
 14	wataƙiːlà	wataƙiːlà	ADV	_	_	16	mod	_	Gloss=maybe
 15	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	16	comp:pred	_	Gloss=3Masc.Nom
@@ -454,8 +454,8 @@
 
 # sent_id = 02_Yarima_Charles_15
 # text_en = He arrived in the reserve by a sort of bridge that hangs from above.
-# text = yaː ìsa daːjìn neː ta wata irìn gadàː wàddà kèː reːtòː dàgà samà.
-# text_ortho = Yaː ìsa daːjìn neː ta wata irìn gadàː wàddà kèː rētòː dàgà samà.
+# text = yaː ìsa daːjìn neː ta wata irìn gadàː waddà kèː reːtòː dàgà samà.
+# text_ortho = Yaː ìsa daːjìn neː ta wata irìn gadàː waddà kèː rētòː dàgà samà.
 1	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 2	ìsa	is-	VERB	_	_	1	comp:aux	_	Gloss=arrive
 3	daːjìn	daːjìː	NOUN	_	Definite=Def|Gender=Masc	2	comp:obj@G	_	Gloss=bush.Masc.Def
@@ -464,7 +464,7 @@
 6	wata	wani	DET	_	Definite=Spec|Gender=Fem	8	det	_	Gloss=some.Fem.Spec
 7	irìn	irìː	NOUN	_	_	8	mod@desc	_	Gloss=type_of
 8	gadàː	gadàː	NOUN	_	Gender=Fem	5	comp:obj	_	Gloss=bridge.Fem
-9	wàddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	8	mod@relcl	_	Gloss=REL.Fem
+9	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	8	mod@relcl	_	Gloss=REL.Fem
 10	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	9	comp:obj	_	Gloss=Prog.Rel
 11	reːtòː	rētòː	NOUN	_	Gender=Masc	10	comp:pred	_	Gloss=hanging.Masc
 12	dàgà	dàgà	ADP	_	_	11	comp:obl	_	Gloss=from
