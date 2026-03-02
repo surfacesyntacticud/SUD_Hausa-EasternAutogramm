@@ -205,7 +205,7 @@
 
 # sent_id = 01_Umaru_Dikko_8
 # text_en = On the box, they wrote "To the ministry of foreign affairs, government of the Nigerian Federation, Lagos", that is to say where they were going to send him.
-# text = à jìkin àkwàːtìn sai akà r̃ubùːtaː " Zuwàː gà maꞌaikatar̃ har̃koːkin wàje, gwamnatìn tàːr̃ayyàr̃ Nàjeːr̃iyàː, Ìkko", wàːtòː indà zaː'à kai shì kèːnan.
+# text = à jìkin àkwàːtìn sai akà r̃ubùːtaː " zuwàː gà maꞌaikatar̃ har̃koːkin wàje, gwamnatìn tàːr̃ayyàr̃ Nàjeːr̃iyàː, Ìkko", wàːtòː indà zaː'à kai shì kèːnan.
 # text_ortho = À jìkin àkwàːtìn sai akà r̃ubùːtaː ‘Zuwàː gà Maꞌaikatar̃ Har̃koːkin Wàje, Gwamnatìn Tàːr̃ayyàr̃ Nàjeːr̃iyàː, Ìkko’, wàːtòː indà zaː à kai shì kèːnan.
 1	à	à	ADP	_	_	5	mod	_	Gloss=at
 2	jìkin	jìkin	ADP	_	_	1	comp:obj	_	Gloss=on
@@ -227,12 +227,12 @@
 18	Ìkko	Ìkko	PROPN	_	_	14	mod	_	Gloss=Lagos|SpaceAfter=No
 19	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT|SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
-21	wàːtòː	wàːtòː	CCOMP	_	_	22	cc	_	Gloss=that_is
+21	wàːtòː	wàːtòː	CCONJ	_	_	22	cc	_	Gloss=i.e.
 22	indà	indà	ADV	_	PronType=Rel	10	conj:dicto	_	Gloss=where
 23	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	22	mod@relcl	_	Gloss=4.Fut|wordform=à
 24	kai	kai	VERB	_	_	23	comp:aux	_	Gloss=reach/carry_to
 25	shì	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	24	comp:obj	_	Gloss=3Masc.Acc
-26	kèːnan	kèːnan	PART	_	PartType=Foc	22	discourse@foc	_	Gloss=Emph|SpaceAfter=No
+26	kèːnan	neː	PART	_	PartType=Foc	22	discourse@foc	_	Gloss=Emph|SpaceAfter=No
 27	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko_9
@@ -680,7 +680,7 @@
 28	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	27	comp:obj	_	Gloss=Nigeria
 29	neː	neː	PART	_	PartType=Foc	26	discourse@foc	_	Gloss=Emph
 30	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	32	mod	_	Gloss=Neg
-31	wai	wai	PART	_	PartType=Disc	32	discourse	_	Gloss=alledgedly
+31	wai	wai	PART	_	Evident=Nfh|PartType=Assert	32	discourse	_	Gloss=alledgedly
 32	don	don	SCONJ	_	_	26	mod	_	Gloss=because
 33	kanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=2	32	comp:obj	_	Gloss=2Masc.Prog
 34	tsòːron	tsòːroː	NOUN	_	Definite=Cons|Gender=Masc	33	comp:aux	_	Gloss=fear.Masc.Cons
