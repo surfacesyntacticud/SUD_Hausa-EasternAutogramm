@@ -584,7 +584,7 @@
 # text_en = There is no report of injuries in relation with the demonstrations that took place in Katsina and Kano, but the call that the Sultan of Sokoto made for people to keep calm shows indeed that there is a possibility that unrest could develop.
 # text_ortho = Baːbù wani r̃àhoːtòn raunukàː dà akà saːmùː sànàdiyyàr̃ zàngà-zangàr̃ dà akà yi duk à Kàtsinà dà kuma Kanòː, tòː àmmaː kiràn dà Sarkin Mùsùlmiː ya yi na à zaunàː laːfiyàː yaː nuːnàː kèːnan àkwai yìːwuwar̃ ɓarkèːwar̃ taːshìn hankàliː
 # text = baːbù wani r̃àhoːtòn raunukàː dà akà saːmùː sànàdiyyàr̃ zàngà-zangàr̃ dà akà yi duk à Kàtsinà dà kuma Kanòː, tòː àmmaː kiràn dà Sarkin Mùsùlmiː ya yi na à zaunàː laːfiyàː yaː nuːnàː kèːnan àkwai yìːwuwar̃ ɓarkèːwar̃ taːshìn hankàliː
-1	baːbù	baːbù	PART	_	PartType=Neg	0	root	_	Gloss=there_is_not
+1	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is_not
 2	wani	wani	DET	_	Definite=Spec|Gender=Masc	3	det	_	Gloss=some.Masc.Spec
 3	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Cons|Number=Plur	1	subj	_	Gloss=report.Masc.Cons
 4	raunukàː	raunìː	NOUN	_	Number=Plur	3	mod	_	Gloss=injury.Plur
