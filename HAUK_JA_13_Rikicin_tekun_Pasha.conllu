@@ -100,9 +100,9 @@
 29	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	30	mod@desc	_	Gloss=country.Fem.Cons
 30	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	28	mod	_	Gloss=Irak|SpaceAfter=No
 31	,	,	PUNCT	_	_	34	punct	_	Gloss=PUNCT
-32	wàːtòː	wàːtòː	PART	_	PartType=Disc	34	discourse	_	Gloss=that_is
+32	wàːtòː	wàːtòː	CCOMP	_	_	34	cc	_	Gloss=that_is
 33	"	"	PUNCT	_	_	34	punct	_	Gloss=PUNCT
-34	Saddam	Saddam	PROPN	_	_	28	comp:appos	_	Gloss=Saddam
+34	Saddam	Saddam	PROPN	_	_	28	conj:dicto	_	Gloss=Saddam
 35	Hussein	Hussein	PROPN	_	_	34	flat@name	_	Gloss=Hussein|SpaceAfter=No
 36	"	"	PUNCT	_	_	34	punct	_	Gloss=PUNCT
 37	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -158,7 +158,7 @@
 # text_ortho = Hakà kuma anàː zàton cêːwaː à haːlin yànzu anàː rarràbà wasu tàkàr̃duː à areːwacin Nàːjeːr̃iyàː waɗàndà sukà sòːki àbîn dà ƙasàːshen ƙàwànceː sukèː wà Ìr̃aːƙì .
 # text = hakà kuma anàː zàton cêːwaː à haːlin yànzu anàː rarràbà wasu tàkàr̃duː à areːwacin Nàːjeːr̃iyàː waɗàndà sukà sòːki àbîn dà ƙasàːshen ƙàwànceː sukèː wà Ìr̃aːƙì .
 1	hakà	hakà	ADV	_	_	3	mod	_	Gloss=thus
-2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	anàː	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=4.Prog|wordform=and
 4	zàton	zat-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	3	comp:aux	_	Gloss=think.Vnoun.Masc.Cons
 5	cêːwaː	cêːwaː	SCONJ	_	_	4	comp:obj	_	Gloss=COMP
@@ -289,7 +289,7 @@
 # text = kàːkàːkîn ya kuma cêː shùːgàbànnin mùsùlmiː à Nàːjeːr̃iyàː sunàː sôː sù nuːnà rashìn goːyon baːyansù gà maːmàyêːwâr̃ dà Ìr̃aːƙì ta yi wà Kùwât . kaːnà kuma dà rashìn goːyon baːyan harìn dà ƙasàːshen ƙàwànceː kèː kai wà Ìr̃aːƙì , wandà akà yi hanzarin kâiwaː bàː tàːre dà barìn tàːkunkùmîn dà akà sâː wà Ìr̃aːƙì daːmar̃ yîn aikìː ba.
 1	kàːkàːkîn	kàːkàːkiː	NOUN	_	Definite=Def	2	subj	_	Gloss=spokesman.Masc.Def
 2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
-3	kuma	kuma	PART	_	PartType=Disc	2	discourse@top	_	Gloss=also
+3	kuma	kuma	PART	_	PartType=Top	2	discourse@top	_	Gloss=also
 4	cêː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 5	shùːgàbànnin	shùːgàbànniː	NOUN	_	Definite=Cons|Number=Plur	9	subj	_	Gloss=leader.Plur.Cons
 6	mùsùlmiː	mùsùlmiː	NOUN	_	Number=Plur	5	mod	_	Gloss=muslims.Plur
@@ -314,7 +314,7 @@
 24	Kùwât	Kùwât	PROPN	_	_	23	comp:obj	_	Gloss=Kuweit
 25	.	.	PUNCT	_	_	29	punct	_	Gloss=PUNCT
 26	kaːnà	kaːnà	ADV	_	_	29	mod	_	Gloss=then
-27	kuma	kuma	PART	_	PartType=Disc	26	discourse@top	_	Gloss=also
+27	kuma	kuma	PART	_	PartType=Top	26	discourse@top	_	Gloss=also
 28	dà	dà	CCONJ	_	_	29	cc	_	Gloss=and
 29	rashìn	ras-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	conj:coord	_	Gloss=lack.Vnoun.Masc.Cons
 30	goːyon	goːy-	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	29	comp:obj	_	Gloss=support.Vnoun.Masc.Cons
@@ -403,7 +403,7 @@
 22	Bush	Bush	PROPN	_	_	21	flat@name	_	Gloss=Bush
 23	"	"	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 24	dà	dà	CCONJ	_	_	27	cc	_	Gloss=and
-25	kuma	kuma	PART	_	PartType=Disc	24	discourse@top	_	Gloss=also
+25	kuma	kuma	PART	_	PartType=Top	24	discourse@top	_	Gloss=also
 26	Shùːgàbaː	shùːgàbaː	PROPN	_	Gender=Masc	27	mod@desc	_	Gloss=president.Masc
 27	Saddam	Saddam	PROPN	_	_	21	conj:coord	_	Gloss=Saddam
 28	Hussein	Hussein	PROPN	_	_	27	flat@name	_	Gloss=Hussein|SpaceAfter=No
@@ -494,7 +494,7 @@
 17	ƙawanyàː	ƙawanyàː	NOUN	_	ExtPos=NOUN|Gender=Fem	14	comp:pred	_	Gloss=circle.Fem|SpaceAfter=No
 18	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 19	sànnan	sànnan	ADV	_	_	21	mod	_	Gloss=then
-20	kuma	kuma	PART	_	PartType=Disc	19	discourse@top	_	Gloss=also
+20	kuma	kuma	PART	_	PartType=Top	19	discourse@top	_	Gloss=also
 21	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	13	parataxis@conj	_	Gloss=3Plur.Perf.Rel
 22	kullèː	kull-	VERB	_	_	21	comp:aux	_	Gloss=lock
 23	duk	dukà	DET	_	PronType=Tot	24	det	_	Gloss=all
@@ -546,7 +546,7 @@
 1	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	0	root	_	Gloss=see.Vnoun.Masc.Cons
 2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=thus
 3	neː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
-4	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+4	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	1	comp:cleft	_	Gloss=3Masc.Perf.Rel
 6	sâː	sâː	VERB	_	_	5	comp:aux	_	Gloss=cause
 7	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	subj	_	Gloss=3Plur.Nom
@@ -600,7 +600,7 @@
 14	à	à	ADP	_	_	12	mod	_	Gloss=at
 15	Kàtsinà	Kàtsinà	PROPN	_	_	14	comp:obj	_	Gloss=Kàtsinà
 16	dà	dà	CCONJ	_	_	18	cc	_	Gloss=and
-17	kuma	kuma	PART	_	PartType=Disc	16	discourse@top	_	Gloss=also
+17	kuma	kuma	PART	_	PartType=Top	16	discourse@top	_	Gloss=also
 18	Kanòː	Kanòː	PROPN	_	_	15	conj:coord	_	Gloss=Kanòː|SpaceAfter=No
 19	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 20	tòː	tòː	INTJ	_	PartType=Disc	32	discourse	_	Gloss=well

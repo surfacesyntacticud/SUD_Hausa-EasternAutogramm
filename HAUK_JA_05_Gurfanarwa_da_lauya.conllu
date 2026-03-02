@@ -82,8 +82,8 @@
 10	wata	wani	DET	_	Definite=Spec|Gender=Fem	11	det	_	Gloss=some.Fem.Spec
 11	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=law.Fem
 12	-	-	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-13	wàːtòː	wàːtòː	PART	_	PartType=Disc	14	discourse	_	Gloss=that_is
-14	Dòːkaː	Dòːkaː	PROPN	_	_	11	conj:appos	_	Gloss=Dòːkaː
+13	wàːtòː	wàːtòː	CCOMP	_	_	14	cc	_	Gloss=that_is
+14	Dòːkaː	Dòːkaː	PROPN	_	_	11	conj:dicto	_	Gloss=Dòːkaː
 15	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	14	mod	_	Gloss=Gen.Fem
 16	Biyu	Biyu	PROPN	_	_	15	comp:obj	_	Gloss=Biyu
 17	-	-	PUNCT	_	_	14	punct	_	Gloss=PUNCT
@@ -121,7 +121,7 @@
 48	maƙar̃ƙashìyaː	maƙar̃ƙashìyaː	NOUN	_	Gender=Fem	43	comp:pred	_	Gloss=sabotage.Fem|SpaceAfter=No
 49	,	,	PUNCT	_	_	52	punct	_	Gloss=PUNCT
 50	koː	koː	CCONJ	_	_	52	cc	_	Gloss=or
-51	kuma	kuma	PART	_	PartType=Disc	50	discourse@top	_	Gloss=also
+51	kuma	kuma	PART	_	PartType=Top	50	discourse@top	_	Gloss=also
 52	yi	yi	VERB	_	_	43	conj:coord	_	Gloss=do
 53	wà	wà	ADP	_	Case=Dat	52	comp:obl	_	Gloss=Dat
 54	tsàron	tsàroː	NOUN	_	Definite=Cons|Gender=Masc	53	comp:obj	_	Gloss=security.Masc.Cons
@@ -134,7 +134,7 @@
 # text_ortho = Tanàː kuma dà iːkòn cîː gàba dà tsarè mùtumìn har̃ sai illaː maː shaː Àllaːhù.
 # text = tanàː kuma dà iːkòn cîː gàba dà tsarè mùtumìn har̃ sai illaː maː shaː Àllaːhù.
 1	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Prog
-2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	dà	dà	ADP	_	_	1	comp:pred	_	Gloss=with
 4	iːkòn	iːkòː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=power.Masc.Cons
 5	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	mod	_	Gloss=proceed.Vnoun.Masc
@@ -155,7 +155,7 @@
 # text_ortho = Ìdan kuma akà tsarèː mùtûm bìsàː wannàn Dòːkaː ta Biyu, tòː baːbù wata koːtù à Nàːjeːr̃iyàː dà zaːtà sâː bàːkiː.
 # text = ìdan kuma akà tsarèː mùtûm bìsàː wannàn Dòːkaː ta Biyu, tòː baːbù wata koːtù à Nàːjeːr̃iyàː dà zaːtà sâː bàːkiː.
 1	ìdan	ìdan	SCONJ	_	_	13	mod	_	Gloss=if
-2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	1	comp:obj	_	Gloss=4.Perf.Rel
 4	tsarèː	tsar-	VERB	_	_	3	comp:aux	_	Gloss=imprison
 5	mùtûm	mùtûm	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=man.Masc
@@ -325,7 +325,7 @@
 1	à	à	ADP	_	_	5	mod	_	Gloss=at
 2	cikin	cikin	ADP	_	_	1	comp:obj	_	Gloss=inside|SpaceAfter=No
 3	tà	tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	2	comp:obj	_	Gloss=3Fem.Gen
-4	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+4	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 5	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 6	sòːki	sauk-	VERB	_	_	5	comp:aux	_	Gloss=criticize
 7	manufar̃	manufar̃	NOUN	_	Definite=Cons|Gender=Fem	6	comp:obl	_	Gloss=policy.Fem.Cons
@@ -527,8 +527,8 @@
 28	Dele	Dele	PROPN	_	_	27	comp:obj	_	Gloss=Dele
 29	Giwa	Giwa	PROPN	_	_	28	flat@name	_	Gloss=Giwa|SpaceAfter=No
 30	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
-31	wàːtòː	wàːtòː	PART	_	PartType=Disc	32	discourse	_	Gloss=that_is
-32	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	28	conj:appos	_	Gloss=child.Masc.Cons|wordform=dan
+31	wàːtòː	wàːtòː	CCOMP	_	_	32	cc	_	Gloss=that_is
+32	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	28	conj:dicto	_	Gloss=child.Masc.Cons|wordform=dan
 33	jàr̃iːdàr̃	jàr̃iːdàː	NOUN	_	Definite=Cons|Gender=Fem	32	compound	_	Gloss=newspaper.Fem.Cons
 34	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	32	det	_	Gloss=ProxH
 35	dà	dà	SCONJ	_	_	32	mod@relcl	_	Gloss=COMP
@@ -571,8 +571,8 @@
 7	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	8	mod@desc	_	Gloss=month.Masc.Cons
 8	Yuːnì	Yuːnì	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=June.Masc|SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-10	wàːtòː	wàːtòː	PART	_	PartType=Disc	11	discourse	_	Gloss=that_is
-11	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	2	mod	_	Gloss=time.Masc.Def
+10	wàːtòː	wàːtòː	CCOMP	_	_	11	cc	_	Gloss=that_is
+11	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	6	conj:dicto	_	Gloss=time.Masc.Def
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 13	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Relative=Rel	12	comp:obj	_	Gloss=3Fem.Prog.Rel
 14	cikin	cikin	ADP	_	_	13	comp:pred	_	Gloss=inside

@@ -34,9 +34,9 @@
 21	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_3
-# text_en = The crisis arose when the boxer named 'Joe Lasisi' who is the lightweight champion of Nigeria and Africa will enter the competition that the world boxing association has organised to determine who will get the title of world champion of the lightweight category. 
-# text = rìkicîn yaː taːsoː nèː gàme dà koː ɗan dambên nan mài suːnaː " Joe Lasisi ", wàndà kuma shiː nèː zàkaràn ajìn maràsaː nauyiː na Nàːjeːr̃iyàː dà kuma Afir̃kà bàːkiː ɗaya, zâi shìga gàːsâr̃ nan waddà ƙungìyar̃ dambe ta duːniyàː ta shiryàː don neːmoː wani wàndà zâi ɗàuki kambin duːniyàː na ajìn maràsaː nauyiː.
-# text_ortho = Rìkicîn yaː taːsoː nèː gàme dà koː ɗan dambên nan mài suːnaː 'Joe Lasisi', wàndà kuma shiː nèː zàkaràn ajìn maràsaː nauyiː na Nàːjeːr̃iyàː dà kuma Afir̃kà bàːkiː ɗaya, zâi shìga gàːsâr̃ nan waddà Ƙungìyar̃ Dambe ta Duːniyàː ta shiryàː don neːmoː wani wàndà zâi ɗàuki kambin duːniyàː na ajìn maràsaː nauyiː.
+# text_en = The crisis arose when the boxer named 'Joe Lasisi' who is the lightweight champion of Nigeria and Africa will enter the competition that the world boxing association has organised to determine who will get the title of world champion of the lightweight category.
+# text = rìkicîn yaː taːsoː nèː gàme dà koː ɗan dambên nan mài suːnaː " Joe Lasisi ", wandà kuma shiː nèː zàkaràn ajìn maràsaː nauyiː na Nàːjeːr̃iyàː dà kuma Afir̃kà bàːkiː ɗaya, zâi shìga gàːsâr̃ nan waddà ƙungìyar̃ dambe ta duːniyàː ta shiryàː don neːmoː wani wandà zâi ɗàuki kambin duːniyàː na ajìn maràsaː nauyiː.
+# text_ortho = Rìkicîn yaː taːsoː nèː gàme dà koː ɗan dambên nan mài suːnaː 'Joe Lasisi', wandà kuma shiː nèː zàkaràn ajìn maràsaː nauyiː na Nàːjeːr̃iyàː dà kuma Afir̃kà bàːkiː ɗaya, zâi shìga gàːsâr̃ nan waddà Ƙungìyar̃ Dambe ta Duːniyàː ta shiryàː don neːmoː wani wandà zâi ɗàuki kambin duːniyàː na ajìn maràsaː nauyiː.
 1	rìkicîn	rìkiciː	NOUN	_	Definite=Def|Gender=Masc	2	subj	_	Gloss=crisis.Masc.Def
 2	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 3	taːsoː	taːs-	VERB	_	_	2	comp:aux	_	Gloss=rise
@@ -54,18 +54,18 @@
 15	Lasisi	Lasisi	PROPN	_	_	14	flat@name	_	Gloss=Lasisi
 16	"	"	PUNCT	_	_	14	punct	_	Gloss=PUNCT|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-18	wàndà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	8	mod@relcl	_	Gloss=REL.Masc
-19	kuma	kuma	PART	_	PartType=Disc	18	discourse@top	_	Gloss=also
+18	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	8	mod@relcl	_	Gloss=REL.Masc
+19	kuma	kuma	PART	_	PartType=Top	18	discourse@top	_	Gloss=also
 20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	21	comp:pred	_	Gloss=3Masc.Nom
 21	nèː	neː	AUX	_	_	18	comp:obj	_	Gloss=be
 22	zàkaràn	zàkaràː	NOUN	_	Definite=Cons|Gender=Masc	21	dislocated@comp	_	Gloss=champion.Masc.Cons
 23	ajìn	ajìː	NOUN	_	Definite=Cons|Gender=Masc	22	mod	_	Gloss=category.Masc.Cons
-24	maràsaː	maràs	PART	_	Number=Plur|PartType=Der	23	mod	_	Gloss=lacking.Plur
+24	maràsaː	mài	PART	_	Number=Plur|PartType=Der|Polarity=Neg	23	mod	_	Gloss=lacking.Plur
 25	nauyiː	nauyiː	NOUN	_	Gender=Masc	24	comp:obj	_	Gloss=weight.Masc
 26	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	22	mod	_	Gloss=Gen.Masc
 27	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	26	comp:obj	_	Gloss=Nigeria
 28	dà	dà	CCONJ	_	_	30	cc	_	Gloss=and
-29	kuma	kuma	PART	_	PartType=Disc	28	discourse@top	_	Gloss=also
+29	kuma	kuma	PART	_	PartType=Top	28	discourse@top	_	Gloss=also
 30	Afir̃kà	Afir̃kà	PROPN	_	_	27	conj:coord	_	Gloss=Africa
 31	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	30	flat@name	_	Gloss=mouth.Masc
 32	ɗaya	ɗaya	NUM	_	_	31	mod:num	_	Gloss=one|SpaceAfter=No
@@ -84,7 +84,7 @@
 45	don	don	SCONJ	_	_	44	mod	_	Gloss=in_order_to
 46	neːmoː	neːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	45	comp:obj	_	Gloss=look_for.Vnoun.Masc.Cons
 47	wani	wani	PRON	_	Definite=Spec|Gender=Masc	46	comp:obj	_	Gloss=some.Masc.Spec
-48	wàndà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	47	mod@relcl	_	Gloss=REL.Masc
+48	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	47	mod@relcl	_	Gloss=REL.Masc
 49	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	48	comp:obj	_	Gloss=3Masc.Fut
 50	ɗàuki	ɗauk-	VERB	_	_	49	comp:aux	_	Gloss=take
 51	kambin	kambiː	NOUN	_	Definite=Cons|Gender=Masc	50	comp:obj	_	Gloss=crown.Masc.Cons
@@ -96,7 +96,7 @@
 57	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_4
-# text_en = Initially, that is before this crisis started, Lasisi was meant to fight an American named 'Virgil Hill' in 'North Dakota' on the 27th of this month. 
+# text_en = Initially, that is before this crisis started, Lasisi was meant to fight an American named 'Virgil Hill' in 'North Dakota' on the 27th of this month.
 # text = dà farkoː dai, wàːtòː kàːfin à soːmà wannàn gar̃damàː, an shiryà Lasisi zâi gwabzàː dà wani ɗan Amìr̃kà mài suːnaː " Virgil Hill " à " North Dakota " raːnar̃ àshìr̃in dà bakwài gà wannàn watàn.
 # text_ortho = Dà farkoː dai, wàːtòː kàːfin à soːmà wannàn gar̃damàː, an shiryà Lasisi zâi gwabzàː dà wani ɗan Amìr̃kà mài suːnaː 'Virgil Hill' à 'North Dakota' raːnar̃ àshìr̃in dà bakwài gà wannàn watàn.
 1	dà	dà	ADP	_	_	12	mod	_	Gloss=with
@@ -140,7 +140,7 @@
 39	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_5
-# text_en = The boxing association of Nigeria did not want to let Lasisi take part in the fight because the World Boxing Association befriends South Africa, whose government is practicing apartheid, and is collaborating with it. 
+# text_en = The boxing association of Nigeria did not want to let Lasisi take part in the fight because the World Boxing Association befriends South Africa, whose government is practicing apartheid, and is collaborating with it.
 # text = hùkuːmàr̃ dambe ta Nàːjeːr̃iyàː baːtàː sôː tà ƙyaːlè Lasisi yà yi wàːsân sabòːdà ita ƙungìyar̃ dambe ta duːniyàː taː amìnceː dà ƙasar̃ Afir̃kà ta Kudù, wàːtòː indà gwamnatìn kèː nuːnà waːriyar̃ launìn faːtàː, kuma tanàː hulɗàː dà ita.
 # text_ortho = Hùkuːmàr̃ Dambe ta Nàːjeːr̃iyàː baː tàː sôː tà ƙyaːlè Lasisi yà yi wàːsân sabòːdà ita Ƙungìyar̃ Dambe ta Duːniyàː taː amìnceː dà ƙasar̃ Afir̃kà ta Kudù, wàːtòː indà gwamnatìn kèː nũnà waːriyar̃ launìn faːtàː, kuma tanàː hulɗàː dà ita.
 1	hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Cons|Gender=Fem	5	mod	_	Gloss=authority.Fem.Cons
@@ -169,10 +169,10 @@
 24	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	23	mod	_	Gloss=Gen.Fem
 25	Kudù	Kudù	PROPN	_	_	24	comp:obj	_	Gloss=Kudù|SpaceAfter=No
 26	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
-27	wàːtòː	wàːtòː	PART	_	PartType=Disc	28	discourse	_	Gloss=that_is
-28	indà	indà	SCONJ	_	PronType=Rel	23	mod@relcl	_	Gloss=where
+27	wàːtòː	wàːtòː	CCOMP	_	_	28	cc	_	Gloss=that_is
+28	indà	indà	ADV	_	PronType=Rel	23	conj:dicto	_	Gloss=where
 29	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	30	subj	_	Gloss=government.Fem.Def
-30	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	28	comp:obj	_	Gloss=Prog.Rel
+30	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	28	mod@relcl	_	Gloss=Prog.Rel
 31	nuːnà	nuːn-	VERB	_	_	30	comp:aux	_	Gloss=show
 32	waːriyar̃	waːriyaː	NOUN	_	Definite=Cons|Gender=Fem	31	comp:obj	_	Gloss=separation.Fem.Cons
 33	launìn	launìː	NOUN	_	Definite=Cons|Gender=Masc	32	mod	_	Gloss=colour.Masc.Cons
@@ -186,7 +186,7 @@
 41	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_6
-# text_en = Some policies like that of the Nigerian Federation forbid Nigeria to collaborate with any country or association having relations with South Africa. 
+# text_en = Some policies like that of the Nigerian Federation forbid Nigeria to collaborate with any country or association having relations with South Africa.
 # text = manufoːfin sìyaːsàː irìn na tàːrayyàr̃ Nàːjeːr̃iyàː kuma bàsù yàr̃da Nàːjeːr̃iyàː tà yi hulɗàː dà wata ƙasaː koː ƙungìyaː mài nasabàː dà Afir̃kà ta Kudù ba.
 # text_ortho = Manufoːfin sìyaːsàː irìn na Tàːrayyàr̃ Nàːjeːr̃iyàː kuma bà sù yàr̃da Nàːjeːr̃iyàː tà yi hulɗàː dà wata ƙasaː koː ƙungìyaː mài nasabàː dà Afir̃kà ta Kudù ba.
 1	manufoːfin	manufoːfiː	NOUN	_	Definite=Cons|Gender=Masc	8	dislocated@subj	_	Gloss=policy.Plur.Cons
@@ -195,7 +195,7 @@
 4	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	1	mod	_	Gloss=Gen.Masc
 5	tàːrayyàr̃	tàːrayyàː	NOUN	_	Definite=Cons|Gender=Fem	4	comp:obj	_	Gloss=federation.Fem.Cons
 6	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	5	conj:appos	_	Gloss=Nigeria
-7	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+7	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 8	bàsù	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Polarity=Neg	0	root	_	Gloss=3Plur.Perf.Neg
 9	yàr̃da	yar̃d-	VERB	_	_	8	comp:aux	_	Gloss=agree
 10	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	11	subj	_	Gloss=Nigeria
@@ -269,7 +269,6 @@
 47	.	.	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_8
-# text_en = 
 # text = ya ƙaːràː dà cêːwaː tun cikin maːkòn jiyà neː ya r̃ubùːtaː wà Lasisi wàsiːƙàː ya gayàː masà kadà yà kùskurà yà shìga wannàn gàːsaː.
 # text_ortho = Ya ƙaːràː dà cêːwaː tun cikin maːkòn jiyà neː ya r̃ubùːtaː wà Lasisi wàsiːƙàː ya gayàː masà kadà yà kùskurà yà shìga wannàn gàːsaː.
 1	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
@@ -299,11 +298,11 @@
 25	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_9
-# text_en = But the secretary of the Nigerian boxing association, named 'Emmanuel Adeleye', went on television in Lagos, and contradicted the president of association, begging people to support Lasisi when he goes boxing. 
+# text_en = But the secretary of the Nigerian boxing association, named 'Emmanuel Adeleye', went on television in Lagos, and contradicted the president of association, begging people to support Lasisi when he goes boxing.
 # text = àmmaː kuma sakatar̃èn hùkuːmàr̃ dambe ta Nàːjeːr̃iyàː, wani mài suːnaː " Emmanuel Adeleye ", yaː fitoː à talàbijìn à bir̃nin Ìkko yanàː ƙaryàtà shùːgàban hùkuːmàr̃, yanàː ròːƙon jàma'àː dà sù baː dà goːyon baːyaː gà Lasisi ìdan ya zoː yîn dambe.
 # text_ortho = Àmmaː kuma sakatar̃èn Hùkuːmàr̃ Dambe ta Nàːjeːr̃iyàː, wani mài suːnaː 'Emmanuel Adeleye', yaː fitoː à talàbijìn à bir̃nin ìkko yanàː karyàtà shùːgàban Hùkuːmàr̃, yanàː ròːƙon jàma'àː dà sù baː dà goːyon baːyaː gà Lasisi ìdan ya zoː yîn dambe.
 1	àmmaː	àmmaː	CCONJ	_	_	17	discourse	_	Gloss=but
-2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	sakatar̃èn	sakatar̃èː	NOUN	_	Definite=Cons|Gender=Masc	17	subj	_	Gloss=secretary.Masc.Cons
 4	hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Cons|Gender=Fem	3	mod	_	Gloss=authority.Fem.Cons
 5	dambe	dambe	NOUN	_	Gender=Masc	4	mod	_	Gloss=boxing.Masc
@@ -349,7 +348,7 @@
 45	.	.	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_10
-# text_en = The secretary continued by saying that this match does not contravene the government policy since Lasisi's opponent is not South-African, and the fight will not take place in South-Africa. 
+# text_en = The secretary continued by saying that this match does not contravene the government policy since Lasisi's opponent is not South-African, and the fight will not take place in South-Africa.
 # text = sakatar̃èn ya ƙaːràː dà cêːwaː yîn wannàn dambe bài saːɓàː wà manufoːfin gwamnatì ba, tun dà yakè àboːkin damben Lasisi bàː ɗan Afir̃kà ta Kudù ba nèː, kuma bàː à Afir̃kà ta Kudù zaː'à yi dambên ba.
 # text_ortho = Sakatar̃èn ya ƙaːràː dà cêːwaː yîn wannàn dambe bài saːɓàː wà manufoːfin Gwamnatì ba, tun dà yakè àboːkin damben Lasisi bàː ɗan Afir̃kà ta Kudù ba nèː, kuma bàː à Afir̃kà ta Kudù zaː à yi dambên ba.
 1	sakatar̃èn	sakatar̃èː	NOUN	_	Definite=Def|Gender=Masc	2	subj	_	Gloss=secretary.Masc.Cons
@@ -374,7 +373,7 @@
 20	damben	dambe	NOUN	_	Definite=Cons|Gender=Masc	19	mod	_	Gloss=boxing.Masc.Cons
 21	Lasisi	Lasisi	PROPN	_	_	19	mod	_	Gloss=Lasisi
 22	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	23	mod	_	Gloss=Neg
-23	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	28	compound:pred	_	Gloss=child.Masc.Cons
+23	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:pred	_	Gloss=child.Masc.Cons
 24	Afir̃kà	Afir̃kà	PROPN	_	_	23	compound	_	Gloss=Africa
 25	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	24	mod	_	Gloss=Gen.Fem
 26	Kudù	Kudù	PROPN	_	_	25	comp:obj	_	Gloss=Kudù
@@ -394,7 +393,7 @@
 40	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_11
-# text_en = This crisis made many sports fans to take part in the discussion, so much so that a Nigerian newspaper called 'Sunday Concord' commented the discussin saying that Lasisi should be allowed to take part in the game. 
+# text_en = This crisis made many sports fans to take part in the discussion, so much so that a Nigerian newspaper called 'Sunday Concord' commented the discussin saying that Lasisi should be allowed to take part in the game.
 # text = yànzu dai wannàn rìkiciː yaː sâː màːsu shà'awàr̃ wàːsànniː dà daːmaː sunàː tsoːmà bàːkiː à bàtûn, har̃ maː wata jàr̃iːdàː à Nàːjeːr̃iyàː waddà akèː kiràː " Sunday Concord " taː r̃ubùːtà shar̃hìː à kân bàtûn, tanàː cêːwaː yaː kàmaːtà à bar̃ Lasisi yà shìga wàːsân.
 # text_ortho = Yànzu dai wannàn rìkiciː yaː sâː màːsu shà’awàr̃ wàːsànniː dà daːmaː sunàː tsoːmà bàːkiː à bàtûn, har̃ maː wata jàr̃iːdàː à Nàːjeːr̃iyàː waddà akèː kiràː 'Sunday Concord' taː r̃ubùːtà shar̃hìː à kân bàtûn, tanàː cêːwaː yaː kàmaːtà à bar̃ Lasisi yà shìga wàːsân.
 1	yànzu	yànzu	ADV	_	_	5	mod	_	Gloss=now
@@ -447,7 +446,7 @@
 48	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_12
-# text_en = Lasisi himself, wants to be allowed to box. 
+# text_en = Lasisi himself, wants to be allowed to box.
 # text = tòː shiː maː Lasisi kânsà yanàː sôn à barìː yà yi wàːsân.
 # text_ortho = Tòː shiː maː Lasisi kânsà yanàː sôn à barìː yà yi waːsân.
 1	 tòː	 tòː	INTJ	_	_	6	discourse	_	Gloss=well
@@ -465,12 +464,12 @@
 13	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_13
-# text_en = Well now here are some of the results of the football games of the African Cup. 
+# text_en = Well now here are some of the results of the football games of the African Cup.
 # text = tòː yànzu kuma gàː wasu dàgà sàːkàmakon wàːsànnîn dà akà yi na gàːsar̃ ƙwallon ƙafàː don cîn koːfìn ƙasàːshen Afır̃kà.
 # text_ortho = Tòː yànzu kuma gàː wasu dàgà sàːkàmakon wàːsànnîn dà akà yi na gàːsar̃ ƙwallon ƙafàː don cîn Koːfìn Ƙasàːshen Afır̃kà.
 1	tòː	tòː	INTJ	_	PartType=Disc	4	discourse	_	Gloss=well
 2	yànzu	yànzu	ADV	_	_	4	mod	_	Gloss=now
-3	kuma	kuma	PART	_	PartType=Disc	2	discourse@top	_	Gloss=also
+3	kuma	kuma	PART	_	PartType=Top	2	discourse@top	_	Gloss=also
 4	gàː	gàː	PART	_	PartType=Pred	0	root	_	Gloss=here_is
 5	wasu	wani	PRON	_	Definite=Spec|Number=Plur	4	subj	_	Gloss=some.Plur.Spec
 6	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=from
@@ -491,7 +490,7 @@
 21	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_14
-# text_en = The 'Bizerte' team of Tunisia beat the 'Al-Merreh' team of Sudan by the score of one-zero for Tunisia. 
+# text_en = The 'Bizerte' team of Tunisia beat the 'Al-Merreh' team of Sudan by the score of one-zero for Tunisia.
 # text = ƙungìyar̃ " Bizerte " ta Tùːniːsiyà taː laːshè ƙungìyar̃ " Al-Merrekh " ta Sudân dà cîː ɗaya dà bâː koː ɗaya à Tùːniːsiyà.
 # text_ortho = Ƙungìyar̃ 'Bizerte' ta Tùːniːsiyà taː laːshè ƙungìyar̃ Al-Merrekh' ta Sudân dà cîː ɗaya dà bâː koː ɗaya à Tùːniːsiyà.
 1	ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	3	mod@desc	_	Gloss=association.Fem.Cons
@@ -520,7 +519,7 @@
 24	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_15
-# text_en = The 'Asi Bengourou' team of Ivory Coast beat the 'Patronage' team of Liberia by the score of three to one. 
+# text_en = The 'Asi Bengourou' team of Ivory Coast beat the 'Patronage' team of Liberia by the score of three to one.
 # text = ƙungìyar̃ " Asi Abengourou " ta Aːbir̃u Kwâs taː laːshè ƙungìyar̃ " Patronage " ta Làːbeːr̃iyà dà cîː ukù dà ɗaya.
 # text_ortho = Ƙungìyar̃ 'Asi Abengourou' ta Aːbir̃u Kwâs taː laːshè ƙungìyar̃ 'Patronage' ta Làːbeːr̃iyà dà cîː ukù dà ɗaya.
 1	ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	3	mod@desc	_	Gloss=association.Fem.Cons
@@ -547,12 +546,12 @@
 22	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_16
-# text_en = In Bamako, the 'Stade Malien' team of Mali beat the 'USKA' team of Algeria by the score of one-zero. 
+# text_en = In Bamako, the 'Stade Malien' team of Mali beat the 'USKA' team of Algeria by the score of one-zero.
 # text = à Bàmaːkò kuma, ƙungìyar̃ " Stade Malien " ta ƙasar̃ Màːli taː laːshè ƙungìyar̃ " USKA " ta Àljeːr̃iyà dà cîː ɗaya dà bâː koː ɗaya.
 # text_ortho = À Bàmaːkò kuma, ƙungìyar̃ 'Stade Malien' ta ƙasar̃ Màːli taː laːshè ƙungìyar̃ 'USKA' ta Àljeːr̃iyà dà cîː ɗaya dà bâː koː ɗaya.
 1	à	à	ADP	_	_	13	mod	_	Gloss=at
 2	Bàmaːkò	Bàmaːkò	PROPN	_	_	1	comp:obj	_	Gloss=Bamako
-3	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also|SpaceAfter=No
+3	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also|SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	7	mod@desc	_	Gloss=association.Fem.Cons
 6	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT

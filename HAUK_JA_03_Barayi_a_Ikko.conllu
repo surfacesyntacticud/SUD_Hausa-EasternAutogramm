@@ -57,7 +57,7 @@
 5	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT|wordform=’
 6	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	comp:pred	_	Gloss=3Masc.Nom
 7	nèː	neː	AUX	_	_	0	root	_	Gloss=be
-8	kuma	kuma	PART	_	PartType=Disc	7	discourse@top	_	Gloss=also
+8	kuma	kuma	PART	_	PartType=Top	7	discourse@top	_	Gloss=also
 9	bankìː	bankìː	NOUN	_	Gender=Masc	7	dislocated@comp	_	Gloss=bank.Masc
 10	mafìː	mafìː	PART	_	PartType=Der	9	mod	_	Gloss=exceeding_in
 11	girmaː	girmaː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=size.Masc
@@ -120,7 +120,7 @@
 # text_en = They, the policemen, suddenly started retaliating with shooting for twenty minutes.
 # text = suː kuma ꞌyan sàndân nan dà nan sukà shìga mùsaːyar̃ wutaː har̃ mintìː àshìr̃in.
 1	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	dislocated@subj	_	Gloss=3Plur.Nom
-2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	ꞌyan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	1	conj:appos	_	Gloss=child.Plur.Cons
 4	sàndân	sàndaː	NOUN	_	Definite=Def	3	compound	_	Gloss=baton.Masc.Def
 5	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	8	mod	_	Gloss=ProxH
@@ -199,7 +199,7 @@
 # text_en = He also called on all the hospitals to report about anyone who went to their place to be treated for these injuries caused by firearms.
 # text = yaː kuma yi kiràː gà dukkàn asibitoːciː dà sù kai r̃àːhoːtòn duk mùtumìn dà ya jeː wurinsù dòːmin saːmùn maːgàniː danganèː dà irìn wannàn rauniː na har̃bìn bindigàː.
 1	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
-2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	yi	yi	VERB	_	_	1	comp:aux	_	Gloss=do
 4	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	3	comp:pred	_	Gloss=call.Vnoun.Masc
 5	gà	gà	ADP	_	_	4	comp:obl	_	Gloss=to
@@ -319,7 +319,7 @@
 43	tàmàːnin	tàmàːnin	NUM	_	_	40	conj:coord	_	Gloss=eighty
 44	dà	dà	CCONJ	_	_	45	cc	_	Gloss=and
 45	shidà	shidà	NUM	_	_	43	conj:coord	_	Gloss=six
-46	ba	ba	PART	_	PartType=Ill|Polarity=Neg	30	mod	_	Gloss=Neg|SpaceAfter=No
+46	ba	ba	PART	_	PartType=Neg|Polarity=Neg	30	mod	_	Gloss=Neg|SpaceAfter=No
 47	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 03_Barayi_a_Ikko_11
@@ -350,7 +350,7 @@
 23	ɓàràːyiː	ɓàraːwòː	NOUN	_	Number=Plur	22	comp:obj	_	Gloss=thief.Plur|SpaceAfter=No
 24	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 25	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	17	conj:coord	_	Gloss=3Plur.Perf
-26	kuma	kuma	PART	_	PartType=Disc	25	discourse@top	_	Gloss=also
+26	kuma	kuma	PART	_	PartType=Top	25	discourse@top	_	Gloss=also
 27	wargàzà	wargaz-	VERB	_	_	25	comp:aux	_	Gloss=rout
 28	ƙungiỳar̃	ƙungiỳaː	VERB	_	Definite=Cons|Gender=Fem	27	comp:obj	_	Gloss=gang.Fem.Cons
 29	bàbban	bàbba	ADJ	_	Definite=Cons|Number=Plur	30	mod	_	Gloss=big.Masc.Cons
@@ -414,3 +414,4 @@
 34	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	33	comp:obj	_	Gloss=4.Prog.Rel
 35	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	34	comp:aux	_	Gloss=do.Vnoun.Masc|SpaceAfter=No
 36	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
+

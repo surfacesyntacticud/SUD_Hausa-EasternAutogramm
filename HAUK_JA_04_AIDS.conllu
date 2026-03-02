@@ -1,15 +1,15 @@
 # sent_id = 04_AIDS_1
 # text_en = The disease that attacks the body's immune system, that is to say 'AIDS'
-# text = cùːtar̃ karyà gàrkuwar̃ jìkiː, wàːtoː " AIDS"
+# text = cùːtar̃ karyà gàrkuwar̃ jìkiː, wàːtòː " AIDS"
 # text_ortho = Cùːtar̃ karyà gàrkuwar̃ jìkiː, wato ‘AIDS’
 1	cùːtar̃	cùːtaː	NOUN	_	Definite=Cons|Gender=Fem	0	root	_	Gloss=disease.Fem.Cons
 2	karyà	kary-	VERB	_	_	1	mod	_	Gloss=break
 3	gàrkuwar̃	gàrkuwaː	NOUN	_	Definite=Cons|Gender=Fem	2	comp:obj	_	Gloss=shield.Fem.Cons
 4	jìkiː	jìkiː	NOUN	_	Gender=Masc	3	mod	_	Gloss=body.Masc|SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-6	wàːtoː	wàːtoː	PART	_	PartType=Disc	8	discourse	_	Gloss=that_is
+6	wàːtòː	wàːtòː	CCOMP	_	_	8	cc	_	Gloss=that_is
 7	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT|wordform=‘
-8	AIDS	AIDS	PROPN	_	_	1	conj:appos	_	Gloss=AIDS|SpaceAfter=No
+8	AIDS	AIDS	PROPN	_	_	1	conj:dicto	_	Gloss=AIDS|SpaceAfter=No
 9	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT|wordform=’
 
 # sent_id = 04_AIDS_2a
@@ -77,7 +77,7 @@
 # text = hakà kuma ìdan anàː yi wà mutàːneː dàbam dàbam àlluːràː dà àlluːràː gùdaː, tòː ìdan wani dàgà cikin waɗàndà akà yi wà àlluːr̃àr̃ yanàː dà ƙwaːyoːyin cùːtar̃ AIDS à jìkinsà , zâi bazà ƙwaːyoːyin cùːtâr̃ gà sauran waɗàndà akà yi wà àlluːr̃àr̃.
 # text_ortho = Hakà kuma ìdan anàː yi wà mutàːneː dàbam dàbam àlluːràː dà àlluːràː gùdaː, tòː ìdan wani dàgà cikin waɗàndà akà yi wà àlluːr̃àr̃ yanàː dà ƙwaːyoːyin cùːtar̃ AIDS à jìkinsà, zâi bazà ƙwaːyoːyin cùːtâr̃ gà sauran waɗàndà akà yi wà àlluːr̃àr̃.
 1	hakà	hakà	ADV	_	_	34	mod	_	Gloss=thus
-2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	ìdan	ìdan	SCONJ	_	_	34	mod	_	Gloss=if
 4	anàː	nàː	AUX	_	Aspect=Prog|Person=4	3	comp:obj	_	Gloss=4.Prog
 5	yi	yi	VERB	_	_	4	comp:aux	_	Gloss=do
@@ -174,7 +174,7 @@
 # text = hakà kuma namijì mài taːràːwaː dà màcè koː namijì, shiː maː yanàː iyà bazà cùːtâr̃ ta màniyyìnsà .
 # text_ortho = hakà kuma namijì mài taːràːwaː dà màcè koː namijì, shiː maː yanàː iyà bazà cùːtâr̃ ta màniyyìnsà.
 1	hakà	hakà	ADV	_	_	13	mod	_	Gloss=thus
-2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	namijì	namijì	NOUN	_	Gender=Masc	13	dislocated@subj	_	Gloss=man.Masc
 4	mài	mài	PART	_	Number=Sing|PartType=Der	3	mod	_	Gloss=owner/doer_of.Sing
 5	taːràːwaː	taːr-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	compound	_	Gloss=have_intercourse.Vnoun.Fem
@@ -481,7 +481,7 @@
 # text = yaː kuma cêː doːlè neː asibitoːcîn sù riƙà àmfàːniː dà àllùːr̃ân dà akà tafàsaː.
 # text_ortho = Yaː kuma cêː doːlè neː asibitoːcîn sù riƙà àmfàːniː dà àllùːr̃ân dà akà tafàsaː.
 1	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
-2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	cêː	cêː	VERB	_	_	1	comp:aux	_	Gloss=say
 4	doːlè	doːlè	ADV	_	_	3	comp:obj	_	Gloss=necessary
 5	neː	neː	PART	_	PartType=Foc	4	discourse@foc	_	Gloss=Emph

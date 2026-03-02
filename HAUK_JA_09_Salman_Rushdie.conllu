@@ -36,8 +36,8 @@
 15	Salman	Salman	PROPN	_	_	14	comp:obj	_	Gloss=Salman
 16	Rushdie	Rushdie	PROPN	_	_	15	flat@name	_	Gloss=Rushdie|SpaceAfter=No
 17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-18	wàːtòː	wàːtòː	PART	_	PartType=Disc	19	discourse	_	Gloss=that_is
-19	mar̃ùbùːcin	mar̃ùbùːciː	NOUN	_	Definite=Cons|Gender=Masc	15	conj:appos	_	Gloss=writer.Masc.Cons
+18	wàːtòː	wàːtòː	CCOMP	_	_	19	cc	_	Gloss=that_is
+19	mar̃ùbùːcin	mar̃ùbùːciː	NOUN	_	Definite=Cons|Gender=Masc	15	conj:dicto	_	Gloss=writer.Masc.Cons
 20	littaːfìn	littaːfìː	NOUN	_	Definite=Cons|Gender=Masc	19	mod	_	Gloss=book.Masc.Cons
 21	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	20	det	_	Gloss=ProxH
 22	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	20	mod	_	Gloss=Gen.Masc
@@ -53,7 +53,7 @@
 # text = à gòːbe kuma zaː'à bugà littaːfìn à cikin Japananciː.
 1	à	à	ADP	_	_	4	mod	_	Gloss=at
 2	gòːbe	gòːbe	ADV	_	_	1	comp:obj	_	Gloss=tomorrow
-3	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+3	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 4	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	0	root	_	Gloss=4.Fut
 5	bugà	bug-	VERB	_	_	4	comp:aux	_	Gloss=print
 6	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	5	comp:obj	_	Gloss=book.Masc.Def
@@ -417,7 +417,7 @@
 # sent_id = 09_Salman_Rushdie_17
 # text_en = There, a man stood up and went to take a sort of small instrument that they record speech with - that is to say, a microphone, went and started beating Gianni Palma with it.
 # text_ortho = Can sai wani mùtûm ya taːsoː ya jeː ya ɗàuki irìn 'yar̃ naː'uːr̃âr̃ nan dà akèː ɗaukàr̃ màganàː - wàːtòː maːkar̃ufôː ya jeː ya faːrà duːkàn Gianni Palma dà ita.
-# text = can sai wani mùtûm ya taːsoː ya jeː ya ɗàuki irìn 'yar̃ naː'uːr̃âr̃ nan dà akèː ɗaukàr̃ màganàː - wàːtòː maːkar̃ufôː ya jeː ya faːrà duːkàn Gianni Palma dà ita.
+# text = can sai wani mùtûm ya taːsoː ya jeː ya ɗàuki irìn 'yar̃ naː'uːr̃âr̃ nan dà akèː ɗaukàr̃ màganàː - wàːtòː maːkar̃ufôː - ya jeː ya faːrà duːkàn Gianni Palma dà ita.
 1	can	can	ADV	_	_	5	mod	_	Gloss=over_there
 2	sai	sai	ADV	_	_	5	mod	_	Gloss=then
 3	wani	wani	DET	_	Definite=Spec|Gender=Masc	4	det	_	Gloss=some.Masc.Spec
@@ -437,18 +437,19 @@
 17	ɗaukàr̃	ɗauk-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	16	comp:aux	_	Gloss=take.Vnoun.Fem.Cons
 18	màganàː	màganàː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=speech.Fem
 19	-	-	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-20	wàːtòː	wàːtòː	PART	_	PartType=Disc	21	discourse	_	Gloss=that_is
-21	maːkar̃ufôː	maːkar̃ufôː	NOUN	_	Gender=Masc	13	conj:appos	_	Gloss=microphone.Masc
-22	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	9	parataxis@conj	_	Gloss=3Masc.Perf.Rel
-23	jeː	jeː	VERB	_	_	22	comp:aux	_	Gloss=go
-24	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	22	parataxis@conj	_	Gloss=3Masc.Perf.Rel
-25	faːrà	faːr-	VERB	_	_	24	comp:aux	_	Gloss=begin
-26	duːkàn	dòːk-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	25	comp:obj	_	Gloss=beat.Vnoun.Masc.Cons
-27	Gianni	Gianni	PROPN	_	_	26	comp:obj	_	Gloss=Gianni
-28	Palma	Palma	PROPN	_	_	27	flat@name	_	Gloss=Palma
-29	dà	dà	ADP	_	_	26	comp:obl	_	Gloss=with
-30	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	29	comp:obj	_	Gloss=3Fem.Nom|SpaceAfter=No
-31	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+20	wàːtòː	wàːtòː	CCOMP	_	_	21	cc	_	Gloss=that_is
+21	maːkar̃ufôː	maːkar̃ufôː	NOUN	_	Gender=Masc	13	conj:dicto	_	Gloss=microphone.Masc
+22	-	-	PUNCT	_	_	21	punct	_	Gloss=PUNCT
+23	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	9	parataxis@conj	_	Gloss=3Masc.Perf.Rel
+24	jeː	jeː	VERB	_	_	23	comp:aux	_	Gloss=go
+25	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	23	parataxis@conj	_	Gloss=3Masc.Perf.Rel
+26	faːrà	faːr-	VERB	_	_	25	comp:aux	_	Gloss=begin
+27	duːkàn	dòːk-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	26	comp:obj	_	Gloss=beat.Vnoun.Masc.Cons
+28	Gianni	Gianni	PROPN	_	_	27	comp:obj	_	Gloss=Gianni
+29	Palma	Palma	PROPN	_	_	28	flat@name	_	Gloss=Palma
+30	dà	dà	ADP	_	_	27	comp:obl	_	Gloss=with
+31	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	30	comp:obj	_	Gloss=3Fem.Nom|SpaceAfter=No
+32	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie_18
 # text_en = Then, some secret policement and some journalists helped to catch him, handcuffed him and took him out.
@@ -610,7 +611,7 @@
 1	à	à	ADP	_	_	13	mod	_	Gloss=at
 2	yâu	yâu	ADV	_	_	1	comp:obj	_	Gloss=today
 3	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	2	det	_	Gloss=Def
-4	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+4	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 5	ɗaya	ɗaya	NUM	_	_	13	subj	_	Gloss=one
 6	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=from
 7	cikin	cikin	ADP	_	_	6	comp:obj	_	Gloss=inside
