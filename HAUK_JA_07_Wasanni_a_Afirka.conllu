@@ -1,239 +1,239 @@
 # sent_id = 07_Wasanni_a_Afirka_1
 # text_en = African sports news
-# text = l脿藧b脿藧r虄un w脿藧s脿nni藧 脿 Afir虄k脿
-# text_ortho = L脿藧b脿藧r虄un w脿藧s脿nni藧 脿 Afir虄k脿
-1	l脿藧b脿藧r虄un	l脿藧ba藧r虄矛藧	NOUN	_	Definite=Cons	0	root	_	Gloss=news.Plur.Cons
-2	w脿藧s脿nni藧	w脿藧sa藧	NOUN	_	Number=Plur	1	mod	_	Gloss=game.Plur
-3	脿	脿	ADP	_	_	2	mod	_	Gloss=at
-4	Afir虄k脿	Afir虄k脿	PROPN	_	_	3	comp:obj	_	Gloss=Africa
+# text = làːbàːr̃un wàːsànniː à Afir̃kà
+# text_ortho = Làːbàːr̃un wàːsànniː à Afir̃kà
+1	làːbàːr̃un	làːbaːr̃ìː	NOUN	_	Definite=Cons	0	root	_	Gloss=news.Plur.Cons
+2	wàːsànniː	wàːsaː	NOUN	_	Number=Plur	1	mod	_	Gloss=game.Plur
+3	à	à	ADP	_	_	2	mod	_	Gloss=at
+4	Afir̃kà	Afir̃kà	PROPN	_	_	3	comp:obj	_	Gloss=Africa
 
 # sent_id = 07_Wasanni_a_Afirka_2
 # text_en = Today we will start our programme with news about the crisis that is taking place there in Nigeria about the organisation of a boxing match.
-# text = 脿 y芒u za藧m霉 so藧m脿 shir矛nm霉 d脿 l脿藧ba藧r虄矛n r矛kic卯n d脿 ak猫藧 y卯藧 can N脿藧je藧r虄iy脿藧 g脿me d脿 guda藧nar虄 d脿 w脿藧san dambe.
-# text_ortho = 脌 y芒u za藧 m霉 so藧m脿 shir矛nm霉 d脿 l脿藧ba藧r虄矛n r矛kic卯n d脿 ak猫藧 y卯藧 can N脿藧je藧r虄iy脿藧 g脿me d脿 gud脿藧nar d脿 w脿藧san dambe.
-1	脿	脿	ADP	_	_	3	mod	_	Gloss=at
-2	y芒u	y芒u	ADV	_	_	1	comp:obj	_	Gloss=today
-3	za藧m霉	z芒i	AUX	_	Number=Plur|Person=1|Tense=Fut	0	root	_	Gloss=1Plur.Fut
-4	so藧m脿	so藧m-	VERB	_	_	3	comp:aux	_	Gloss=start
-5	shir矛n	shir-	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	4	comp:obj	_	Gloss=prepare.Vnoun.Masc.Cons|SpaceAfter=No
-6	m霉	m霉	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	mod	_	Gloss=1Plur.Gen
-7	d脿	d脿	CCONJ	_	_	4	comp:obl	_	Gloss=and
-8	l脿藧ba藧r虄矛n	l脿藧ba藧r虄矛藧	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=news.Masc.Cons
-9	r矛kic卯n	r矛kici藧	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=crisis.Masc.Def
-10	d脿	d脿	SCONJ	_	_	9	mod@relcl	_	Gloss=COMP
-11	ak猫藧	n脿藧	AUX	_	Aspect=Prog|Person=4|Relative=Rel	10	comp:obj	_	Gloss=4.Prog.Rel
-12	y卯藧	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:aux	_	Gloss=do.Vnoun.Masc
+# text = à yâu zaːmù soːmà shirìnmù dà làːbaːr̃ìn rìkicîn dà akèː yîː can Nàːjeːr̃iyàː gàme dà gudaːnar̃ dà wàːsan dambe.
+# text_ortho = À yâu zaː mù soːmà shirìnmù dà làːbaːr̃ìn rìkicîn dà akèː yîː can Nàːjeːr̃iyàː gàme dà gudàːnar dà wàːsan dambe.
+1	à	à	ADP	_	_	3	mod	_	Gloss=at
+2	yâu	yâu	ADV	_	_	1	comp:obj	_	Gloss=today
+3	zaːmù	zâi	AUX	_	Number=Plur|Person=1|Tense=Fut	0	root	_	Gloss=1Plur.Fut
+4	soːmà	soːm-	VERB	_	_	3	comp:aux	_	Gloss=start
+5	shirìn	shir-	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	4	comp:obj	_	Gloss=prepare.Vnoun.Masc.Cons|SpaceAfter=No
+6	mù	mù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	mod	_	Gloss=1Plur.Gen
+7	dà	dà	CCONJ	_	_	4	comp:obl	_	Gloss=and
+8	làːbaːr̃ìn	làːbaːr̃ìː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=news.Masc.Cons
+9	rìkicîn	rìkiciː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=crisis.Masc.Def
+10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=COMP
+11	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	10	comp:obj	_	Gloss=4.Prog.Rel
+12	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:aux	_	Gloss=do.Vnoun.Masc
 13	can	can	ADV	_	Deixis=Remt|PronType=Dem	12	mod	_	Gloss=Remt
-14	N脿藧je藧r虄iy脿藧	N脿藧je藧r虄iy脿藧	PROPN	_	_	13	conj:appos	_	Gloss=Nigeria
-15	g脿me	g脿me	ADV	_	_	16	mod	_	Gloss=together
-16	d脿	d脿	ADP	_	_	12	comp:obl	_	Gloss=with
-17	guda藧nar虄	guda藧n-	VERB	_	Voice=Cau	16	comp:obj	_	Gloss=run.Cau
-18	d脿	d脿	ADP	_	_	17	comp:obl	_	Gloss=with
-19	w脿藧san	w脿藧san	NOUN	_	Definite=Cons|Gender=Masc|PronType=Dem	18	comp:obj	_	Gloss=game.Masc.Cons
+14	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	13	conj:appos	_	Gloss=Nigeria
+15	gàme	gàme	ADV	_	_	16	mod	_	Gloss=together
+16	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=with
+17	gudaːnar̃	gudaːn-	VERB	_	Voice=Cau	16	comp:obj	_	Gloss=run.Cau
+18	dà	dà	ADP	_	_	17	comp:obl	_	Gloss=with
+19	wàːsan	wàːsan	NOUN	_	Definite=Cons|Gender=Masc|PronType=Dem	18	comp:obj	_	Gloss=game.Masc.Cons
 20	dambe	dambe	NOUN	_	Gender=Masc	19	mod	_	Gloss=boxing.Masc|SpaceAfter=No
 21	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_3
-# text_en = The crisis arose when the boxer named 'Joe Lasisi' who is the lightweight champion of Nigeria and Africa will enter the competition that the world boxing association has organised to determine who will get the title of world champion of the lightweight category.
-# text = r矛kic卯n ya藧 ta藧so藧 n猫藧 g脿me d脿 ko藧 蓷an damb锚n nan m脿i su藧na藧 " Joe Lasisi ", wand脿 kuma shi藧 n猫藧 z脿kar脿n aj矛n mar脿sa藧 nauyi藧 na N脿藧je藧r虄iy脿藧 d脿 kuma Afir虄k脿 b脿藧ki藧 蓷aya, z芒i sh矛ga g脿藧s芒r虄 nan wadd脿 茩ung矛yar虄 dambe ta du藧niy脿藧 ta shiry脿藧 don ne藧mo藧 wani wand脿 z芒i 蓷脿uki kambin du藧niy脿藧 na aj矛n mar脿sa藧 nauyi藧.
-# text_ortho = R矛kic卯n ya藧 ta藧so藧 n猫藧 g脿me d脿 ko藧 蓷an damb锚n nan m脿i su藧na藧 'Joe Lasisi', wand脿 kuma shi藧 n猫藧 z脿kar脿n aj矛n mar脿sa藧 nauyi藧 na N脿藧je藧r虄iy脿藧 d脿 kuma Afir虄k脿 b脿藧ki藧 蓷aya, z芒i sh矛ga g脿藧s芒r虄 nan wadd脿 茦ung矛yar虄 Dambe ta Du藧niy脿藧 ta shiry脿藧 don ne藧mo藧 wani wand脿 z芒i 蓷脿uki kambin du藧niy脿藧 na aj矛n mar脿sa藧 nauyi藧.
-1	r矛kic卯n	r矛kici藧	NOUN	_	Definite=Def|Gender=Masc	2	subj	_	Gloss=crisis.Masc.Def
-2	ya藧	ya藧	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
-3	ta藧so藧	ta藧s-	VERB	_	_	2	comp:aux	_	Gloss=rise
-4	n猫藧	ne藧	PART	_	PartType=Foc	3	discourse@foc	_	Gloss=Emph
-5	g脿me	g脿me	ADV	_	_	6	mod	_	Gloss=together
-6	d脿	d脿	CCONJ	_	_	3	comp:obl	_	Gloss=and
-7	ko藧	ko藧	SCONJ	_	_	6	comp:obj	_	Gloss=whether
-8	蓷an	蓷a藧	NOUN	_	Definite=Cons|Gender=Masc	34	subj	_	Gloss=child.Masc.Cons
-9	damb锚n	dambe	NOUN	_	Definite=Def|Gender=Masc	8	compound	_	Gloss=boxing.Masc.Def
+# text_en = The crisis arose when the boxer named 'Joe Lasisi' who is the lightweight champion of Nigeria and Africa will enter the competition that the world boxing association has organised to determine who will get the title of world champion of the lightweight category. 
+# text = rìkicîn yaː taːsoː nèː gàme dà koː ɗan dambên nan mài suːnaː " Joe Lasisi ", wàndà kuma shiː nèː zàkaràn ajìn maràsaː nauyiː na Nàːjeːr̃iyàː dà kuma Afir̃kà bàːkiː ɗaya, zâi shìga gàːsâr̃ nan waddà ƙungìyar̃ dambe ta duːniyàː ta shiryàː don neːmoː wani wàndà zâi ɗàuki kambin duːniyàː na ajìn maràsaː nauyiː.
+# text_ortho = Rìkicîn yaː taːsoː nèː gàme dà koː ɗan dambên nan mài suːnaː 'Joe Lasisi', wàndà kuma shiː nèː zàkaràn ajìn maràsaː nauyiː na Nàːjeːr̃iyàː dà kuma Afir̃kà bàːkiː ɗaya, zâi shìga gàːsâr̃ nan waddà Ƙungìyar̃ Dambe ta Duːniyàː ta shiryàː don neːmoː wani wàndà zâi ɗàuki kambin duːniyàː na ajìn maràsaː nauyiː.
+1	rìkicîn	rìkiciː	NOUN	_	Definite=Def|Gender=Masc	2	subj	_	Gloss=crisis.Masc.Def
+2	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
+3	taːsoː	taːs-	VERB	_	_	2	comp:aux	_	Gloss=rise
+4	nèː	neː	PART	_	PartType=Foc	3	discourse@foc	_	Gloss=Emph
+5	gàme	gàme	ADV	_	_	6	mod	_	Gloss=together
+6	dà	dà	CCONJ	_	_	3	comp:obl	_	Gloss=and
+7	koː	koː	SCONJ	_	_	6	comp:obj	_	Gloss=whether
+8	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	34	subj	_	Gloss=child.Masc.Cons
+9	dambên	dambe	NOUN	_	Definite=Def|Gender=Masc	8	compound	_	Gloss=boxing.Masc.Def
 10	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	8	det	_	Gloss=ProxH
-11	m脿i	m脿i	PART	_	Number=Sing|PartType=Der	8	mod	_	Gloss=owner/doer_of.Sing
-12	su藧na藧	su藧na藧	NOUN	_	ExtPos=NOUN|Gender=Masc	11	comp:obj	_	Gloss=name.Masc
+11	mài	mài	PART	_	Number=Sing|PartType=Der	8	mod	_	Gloss=owner/doer_of.Sing
+12	suːnaː	suːnaː	NOUN	_	ExtPos=NOUN|Gender=Masc	11	comp:obj	_	Gloss=name.Masc
 13	"	"	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 14	Joe	Joe	PROPN	_	_	12	conj:appos	_	Gloss=Joe
 15	Lasisi	Lasisi	PROPN	_	_	14	flat@name	_	Gloss=Lasisi
 16	"	"	PUNCT	_	_	14	punct	_	Gloss=PUNCT|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-18	wand脿	wand脿	SCONJ	_	Gender=Masc|PronType=Rel	8	mod@relcl	_	Gloss=REL.Masc
+18	wàndà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	8	mod@relcl	_	Gloss=REL.Masc
 19	kuma	kuma	PART	_	PartType=Disc	18	discourse@top	_	Gloss=also
-20	shi藧	shi藧	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	21	comp:pred	_	Gloss=3Masc.Nom
-21	n猫藧	ne藧	AUX	_	_	18	comp:obj	_	Gloss=be
-22	z脿kar脿n	z脿kar脿藧	NOUN	_	Definite=Cons|Gender=Masc	21	dislocated@comp	_	Gloss=champion.Masc.Cons
-23	aj矛n	aj矛藧	NOUN	_	Definite=Cons|Gender=Masc	22	mod	_	Gloss=category.Masc.Cons
-24	mar脿sa藧	m脿i	PART	_	Number=Plur|PartType=Der|Polarity=Neg	23	mod	_	Gloss=lacking.Plur
-25	nauyi藧	nauyi藧	NOUN	_	Gender=Masc	24	comp:obj	_	Gloss=weight.Masc
+20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	21	comp:pred	_	Gloss=3Masc.Nom
+21	nèː	neː	AUX	_	_	18	comp:obj	_	Gloss=be
+22	zàkaràn	zàkaràː	NOUN	_	Definite=Cons|Gender=Masc	21	dislocated@comp	_	Gloss=champion.Masc.Cons
+23	ajìn	ajìː	NOUN	_	Definite=Cons|Gender=Masc	22	mod	_	Gloss=category.Masc.Cons
+24	maràsaː	maràs	PART	_	Number=Plur|PartType=Der	23	mod	_	Gloss=lacking.Plur
+25	nauyiː	nauyiː	NOUN	_	Gender=Masc	24	comp:obj	_	Gloss=weight.Masc
 26	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	22	mod	_	Gloss=Gen.Masc
-27	N脿藧je藧r虄iy脿藧	N脿藧je藧r虄iy脿藧	PROPN	_	_	26	comp:obj	_	Gloss=Nigeria
-28	d脿	d脿	CCONJ	_	_	30	cc	_	Gloss=and
+27	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	26	comp:obj	_	Gloss=Nigeria
+28	dà	dà	CCONJ	_	_	30	cc	_	Gloss=and
 29	kuma	kuma	PART	_	PartType=Disc	28	discourse@top	_	Gloss=also
-30	Afir虄k脿	Afir虄k脿	PROPN	_	_	27	conj:coord	_	Gloss=Africa
-31	b脿藧ki藧	b脿藧ki藧	NOUN	_	Gender=Masc	30	flat@name	_	Gloss=mouth.Masc
-32	蓷aya	蓷aya	NUM	_	_	31	mod:num	_	Gloss=one|SpaceAfter=No
+30	Afir̃kà	Afir̃kà	PROPN	_	_	27	conj:coord	_	Gloss=Africa
+31	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	30	flat@name	_	Gloss=mouth.Masc
+32	ɗaya	ɗaya	NUM	_	_	31	mod:num	_	Gloss=one|SpaceAfter=No
 33	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-34	z芒i	z芒i	AUX	_	Gender=Masc|Person=3|Tense=Fut	7	comp:obj	_	Gloss=3Masc.Fut
-35	sh矛ga	shig-	VERB	_	_	34	comp:aux	_	Gloss=enter
-36	g脿藧s芒r虄	g脿藧s芒藧	NOUN	_	Definite=Def|Gender=Fem	35	comp:obj@G	_	Gloss=competition.Fem.Def
+34	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	7	comp:obj	_	Gloss=3Masc.Fut
+35	shìga	shig-	VERB	_	_	34	comp:aux	_	Gloss=enter
+36	gàːsâr̃	gàːsâː	NOUN	_	Definite=Def|Gender=Fem	35	comp:obj@G	_	Gloss=competition.Fem.Def
 37	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	36	det	_	Gloss=ProxH
-38	wadd脿	wand脿	SCONJ	_	Gender=Fem|PronType=Rel	36	mod@relcl	_	Gloss=REL.Fem
-39	茩ung矛yar虄	茩ung矛ya藧	NOUN	_	Definite=Cons|Gender=Fem	43	subj	_	Gloss=association.Fem.Cons
+38	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	36	mod@relcl	_	Gloss=REL.Fem
+39	ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	43	subj	_	Gloss=association.Fem.Cons
 40	dambe	dambe	NOUN	_	Gender=Masc	39	mod	_	Gloss=boxing.Masc
 41	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	39	mod	_	Gloss=Gen.Fem
-42	du藧niy脿藧	du藧niy脿藧	NOUN	_	Gender=Fem	41	comp:obj	_	Gloss=world.Fem
-43	ta	ya藧	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	38	comp:obj	_	Gloss=3Fem.Perf.Rel
-44	shiry脿藧	shir-	VERB	_	_	43	comp:aux	_	Gloss=prepare
+42	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	41	comp:obj	_	Gloss=world.Fem
+43	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	38	comp:obj	_	Gloss=3Fem.Perf.Rel
+44	shiryàː	shir-	VERB	_	_	43	comp:aux	_	Gloss=prepare
 45	don	don	SCONJ	_	_	44	mod	_	Gloss=in_order_to
-46	ne藧mo藧	ne藧m-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	45	comp:obj	_	Gloss=look_for.Vnoun.Masc.Cons
+46	neːmoː	neːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	45	comp:obj	_	Gloss=look_for.Vnoun.Masc.Cons
 47	wani	wani	PRON	_	Definite=Spec|Gender=Masc	46	comp:obj	_	Gloss=some.Masc.Spec
-48	wand脿	wand脿	SCONJ	_	Gender=Masc|PronType=Rel	47	mod@relcl	_	Gloss=REL.Masc
-49	z芒i	z芒i	AUX	_	Gender=Masc|Person=3|Tense=Fut	48	comp:obj	_	Gloss=3Masc.Fut
-50	蓷脿uki	蓷auk-	VERB	_	_	49	comp:aux	_	Gloss=take
-51	kambin	kambi藧	NOUN	_	Definite=Cons|Gender=Masc	50	comp:obj	_	Gloss=crown.Masc.Cons
-52	du藧niy脿藧	du藧niy脿藧	NOUN	_	Gender=Fem	51	compound	_	Gloss=world.Fem
+48	wàndà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	47	mod@relcl	_	Gloss=REL.Masc
+49	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	48	comp:obj	_	Gloss=3Masc.Fut
+50	ɗàuki	ɗauk-	VERB	_	_	49	comp:aux	_	Gloss=take
+51	kambin	kambiː	NOUN	_	Definite=Cons|Gender=Masc	50	comp:obj	_	Gloss=crown.Masc.Cons
+52	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	51	compound	_	Gloss=world.Fem
 53	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	51	mod	_	Gloss=Gen.Masc
-54	aj矛n	aj矛藧	NOUN	_	Definite=Cons|Gender=Masc	53	comp:obj	_	Gloss=category.Masc.Cons
-55	mar脿sa藧	m脿i	PART	_	Number=Plur|PartType=Der	54	mod	_	Gloss=lacking.Plur
-56	nauyi藧	nauyi藧	NOUN	_	Gender=Masc	55	compound	_	Gloss=weight.Masc|SpaceAfter=No
+54	ajìn	ajìː	NOUN	_	Definite=Cons|Gender=Masc	53	comp:obj	_	Gloss=category.Masc.Cons
+55	maràsaː	mài	PART	_	Number=Plur|PartType=Der	54	mod	_	Gloss=lacking.Plur
+56	nauyiː	nauyiː	NOUN	_	Gender=Masc	55	compound	_	Gloss=weight.Masc|SpaceAfter=No
 57	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_4
-# text_en = Initially, that is before this crisis started, Lasisi was meant to fight an American named 'Virgil Hill' in 'North Dakota' on the 27th of this month.
-# text = d脿 farko藧 dai, w脿藧t貌藧 k脿藧fin 脿 so藧m脿 wann脿n gar虄dam脿藧, an shiry脿 Lasisi z芒i gwabz脿藧 d脿 wani 蓷an Am矛r虄k脿 m脿i su藧na藧 " Virgil Hill " 脿 " North Dakota " ra藧nar虄 脿sh矛r虄in d脿 bakw脿i g脿 wann脿n wat脿n.
-# text_ortho = D脿 farko藧 dai, w脿藧t貌藧 k脿藧fin 脿 so藧m脿 wann脿n gar虄dam脿藧, an shiry脿 Lasisi z芒i gwabz脿藧 d脿 wani 蓷an Am矛r虄k脿 m脿i su藧na藧 'Virgil Hill' 脿 'North Dakota' ra藧nar虄 脿sh矛r虄in d脿 bakw脿i g脿 wann脿n wat脿n.
-1	d脿	d脿	ADP	_	_	12	mod	_	Gloss=with
-2	farko藧	farko藧	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=beginning.Masc
+# text_en = Initially, that is before this crisis started, Lasisi was meant to fight an American named 'Virgil Hill' in 'North Dakota' on the 27th of this month. 
+# text = dà farkoː dai, wàːtòː kàːfin à soːmà wannàn gar̃damàː, an shiryà Lasisi zâi gwabzàː dà wani ɗan Amìr̃kà mài suːnaː " Virgil Hill " à " North Dakota " raːnar̃ àshìr̃in dà bakwài gà wannàn watàn.
+# text_ortho = Dà farkoː dai, wàːtòː kàːfin à soːmà wannàn gar̃damàː, an shiryà Lasisi zâi gwabzàː dà wani ɗan Amìr̃kà mài suːnaː 'Virgil Hill' à 'North Dakota' raːnar̃ àshìr̃in dà bakwài gà wannàn watàn.
+1	dà	dà	ADP	_	_	12	mod	_	Gloss=with
+2	farkoː	farkoː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=beginning.Masc
 3	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway|SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-5	w脿藧t貌藧	w脿藧t貌藧	PART	_	PartType=Disc	12	discourse	_	Gloss=that_is
-6	k脿藧fin	k脿藧fin	SCONJ	_	_	12	mod	_	Gloss=before
-7	脿	y脿	AUX	_	Mood=Sub|Person=4	6	comp:obj	_	Gloss=4.Sub
-8	so藧m脿	so藧m-	VERB	_	_	7	comp:aux	_	Gloss=start
-9	wann脿n	wann脿n	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	10	det	_	Gloss=ProxS.Fem
-10	gar虄dam脿藧	gar虄dam脿藧	NOUN	_	Gender=Fem	8	comp:obj	_	Gloss=dispute.Fem|SpaceAfter=No
+5	wàːtòː	wàːtòː	PART	_	PartType=Disc	12	discourse	_	Gloss=that_is
+6	kàːfin	kàːfin	SCONJ	_	_	12	mod	_	Gloss=before
+7	à	yà	AUX	_	Mood=Sub|Person=4	6	comp:obj	_	Gloss=4.Sub
+8	soːmà	soːm-	VERB	_	_	7	comp:aux	_	Gloss=start
+9	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	10	det	_	Gloss=ProxS.Fem
+10	gar̃damàː	gar̃damàː	NOUN	_	Gender=Fem	8	comp:obj	_	Gloss=dispute.Fem|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-12	an	ya藧	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
-13	shiry脿	shir-	VERB	_	_	12	comp:aux	_	Gloss=prepare
+12	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
+13	shiryà	shir-	VERB	_	_	12	comp:aux	_	Gloss=prepare
 14	Lasisi	Lasisi	PROPN	_	_	15	subj	_	Gloss=Lasisi
-15	z芒i	z芒i	AUX	_	Gender=Masc|Person=3|Tense=Fut	13	comp:obj	_	Gloss=3Masc.Fut
-16	gwabz脿藧	gwabz-	VERB	_	_	15	comp:aux	_	Gloss=fight
-17	d脿	d脿	ADP	_	_	16	comp:obl	_	Gloss=with
+15	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	13	comp:obj	_	Gloss=3Masc.Fut
+16	gwabzàː	gwabz-	VERB	_	_	15	comp:aux	_	Gloss=fight
+17	dà	dà	ADP	_	_	16	comp:obl	_	Gloss=with
 18	wani	wani	DET	_	Definite=Spec|Gender=Masc	19	det	_	Gloss=some.Masc.Spec
-19	蓷an	蓷a藧	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	Gloss=child.Masc.Cons
-20	Am矛r虄k脿	Am矛r虄k脿	PROPN	_	_	19	compound	_	Gloss=Am矛r虄k脿
-21	m脿i	m脿i	PART	_	Number=Sing|PartType=Der	19	mod	_	Gloss=owner/doer_of.Sing
-22	su藧na藧	su藧na藧	NOUN	_	Gender=Masc	21	compound	_	Gloss=name.Masc
+19	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	Gloss=child.Masc.Cons
+20	Amìr̃kà	Amìr̃kà	PROPN	_	_	19	compound	_	Gloss=Amìr̃kà
+21	mài	mài	PART	_	Number=Sing|PartType=Der	19	mod	_	Gloss=owner/doer_of.Sing
+22	suːnaː	suːnaː	NOUN	_	Gender=Masc	21	compound	_	Gloss=name.Masc
 23	"	"	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 24	Virgil	Virgil	PROPN	_	_	22	conj:appos	_	Gloss=Virgil
 25	Hill	Hill	PROPN	_	_	24	flat@name	_	Gloss=Hill
 26	"	"	PUNCT	_	_	24	punct	_	Gloss=PUNCT
-27	脿	脿	ADP	_	_	16	mod	_	Gloss=at
+27	à	à	ADP	_	_	16	mod	_	Gloss=at
 28	"	"	PROPN	_	_	29	comp:obj	_	Gloss="
 29	North	North	PROPN	_	_	27	comp:obj	_	Gloss=North
 30	Dakota	Dakota	PROPN	_	_	29	flat@name	_	Gloss=Dakota
 31	"	"	PUNCT	_	_	29	punct	_	Gloss=PUNCT
-32	ra藧nar虄	ra藧na藧	NOUN	_	Definite=Cons|Gender=Fem	16	mod	_	Gloss=day.Fem.Cons
-33	脿sh矛r虄in	脿sh矛r虄in	NUM	_	_	32	mod:num	_	Gloss=twenty
-34	d脿	d脿	CCONJ	_	_	35	cc	_	Gloss=and
-35	bakw脿i	bakw脿i	NUM	_	_	33	conj:coord	_	Gloss=seven
-36	g脿	g脿	ADP	_	_	33	mod	_	Gloss=to
-37	wann脿n	wann脿n	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	38	det	_	Gloss=ProxS.Masc
-38	wat脿n	wat脿藧	NOUN	_	Definite=Def|Gender=Masc	36	comp:obj	_	Gloss=month.Masc.Def|SpaceAfter=No
+32	raːnar̃	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	16	mod	_	Gloss=day.Fem.Cons
+33	àshìr̃in	àshìr̃in	NUM	_	_	32	mod:num	_	Gloss=twenty
+34	dà	dà	CCONJ	_	_	35	cc	_	Gloss=and
+35	bakwài	bakwài	NUM	_	_	33	conj:coord	_	Gloss=seven
+36	gà	gà	ADP	_	_	33	mod	_	Gloss=to
+37	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	38	det	_	Gloss=ProxS.Masc
+38	watàn	watàː	NOUN	_	Definite=Def|Gender=Masc	36	comp:obj	_	Gloss=month.Masc.Def|SpaceAfter=No
 39	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_5
-# text_en = The boxing association of Nigeria did not want to let Lasisi take part in the fight because the World Boxing Association befriends South Africa, whose government is practicing apartheid, and is collaborating with it.
-# text = h霉ku藧m脿r虄 dambe ta N脿藧je藧r虄iy脿藧 ba藧t脿藧 s么藧 t脿 茩ya藧l猫 Lasisi y脿 yi w脿藧s芒n sab貌藧d脿 ita 茩ung矛yar虄 dambe ta du藧niy脿藧 ta藧 am矛nce藧 d脿 茩asar虄 Afir虄k脿 ta Kud霉, w脿藧t貌藧 ind脿 gwamnat矛n k猫藧 nu藧n脿 wa藧riyar虄 laun矛n fa藧t脿藧, kuma tan脿藧 hul蓷脿藧 d脿 ita.
-# text_ortho = H霉ku藧m脿r虄 Dambe ta N脿藧je藧r虄iy脿藧 ba藧 t脿藧 s么藧 t脿 茩ya藧l猫 Lasisi y脿 yi w脿藧s芒n sab貌藧d脿 ita 茦ung矛yar虄 Dambe ta Du藧niy脿藧 ta藧 am矛nce藧 d脿 茩asar虄 Afir虄k脿 ta Kud霉, w脿藧t貌藧 ind脿 gwamnat矛n k猫藧 n农n脿 wa藧riyar虄 laun矛n fa藧t脿藧, kuma tan脿藧 hul蓷脿藧 d脿 ita.
-1	h霉ku藧m脿r虄	h霉ku藧m脿藧	NOUN	_	Definite=Cons|Gender=Fem	5	mod	_	Gloss=authority.Fem.Cons
+# text_en = The boxing association of Nigeria did not want to let Lasisi take part in the fight because the World Boxing Association befriends South Africa, whose government is practicing apartheid, and is collaborating with it. 
+# text = hùkuːmàr̃ dambe ta Nàːjeːr̃iyàː baːtàː sôː tà ƙyaːlè Lasisi yà yi wàːsân sabòːdà ita ƙungìyar̃ dambe ta duːniyàː taː amìnceː dà ƙasar̃ Afir̃kà ta Kudù, wàːtòː indà gwamnatìn kèː nuːnà waːriyar̃ launìn faːtàː, kuma tanàː hulɗàː dà ita.
+# text_ortho = Hùkuːmàr̃ Dambe ta Nàːjeːr̃iyàː baː tàː sôː tà ƙyaːlè Lasisi yà yi wàːsân sabòːdà ita Ƙungìyar̃ Dambe ta Duːniyàː taː amìnceː dà ƙasar̃ Afir̃kà ta Kudù, wàːtòː indà gwamnatìn kèː nũnà waːriyar̃ launìn faːtàː, kuma tanàː hulɗàː dà ita.
+1	hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Cons|Gender=Fem	5	mod	_	Gloss=authority.Fem.Cons
 2	dambe	dambe	NOUN	_	Gender=Masc	1	mod	_	Gloss=boxing.Masc
 3	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	1	mod	_	Gloss=Gen.Fem
-4	N脿藧je藧r虄iy脿藧	N脿藧je藧r虄iy脿藧	PROPN	_	_	3	comp:obj	_	Gloss=Nigeria
-5	ba藧t脿藧	n脿藧	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	0	root	_	Gloss=3Fem.Prog.Neg
-6	s么藧	so藧	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:aux	_	Gloss=want.Vnoun.Masc
-7	t脿	y脿	AUX	_	Gender=Fem|Mood=Sub|Person=3	6	comp:obj	_	Gloss=3Fem.Sub
-8	茩ya藧l猫	茩ya藧l-	VERB	_	_	7	comp:aux	_	Gloss=allow
+4	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	3	comp:obj	_	Gloss=Nigeria
+5	baːtàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	0	root	_	Gloss=3Fem.Prog.Neg
+6	sôː	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:aux	_	Gloss=want.Vnoun.Masc
+7	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	6	comp:obj	_	Gloss=3Fem.Sub
+8	ƙyaːlè	ƙyaːl-	VERB	_	_	7	comp:aux	_	Gloss=allow
 9	Lasisi	Lasisi	PROPN	_	_	10	subj	_	Gloss=Lasisi
-10	y脿	y脿	AUX	_	Gender=Masc|Mood=Sub|Person=3	8	comp:obj	_	Gloss=3Masc.Sub
+10	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	8	comp:obj	_	Gloss=3Masc.Sub
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
-12	w脿藧s芒n	w脿藧sa藧	NOUN	_	Definite=Def|Gender=Masc|PronType=Dem	11	comp:pred	_	Gloss=game.Masc.Def
-13	sab貌藧d脿	sab貌藧d脿	SCONJ	_	_	11	mod	_	Gloss=because
+12	wàːsân	wàːsaː	NOUN	_	Definite=Def|Gender=Masc|PronType=Dem	11	comp:pred	_	Gloss=game.Masc.Def
+13	sabòːdà	sabòːdà	SCONJ	_	_	11	mod	_	Gloss=because
 14	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	19	subj	_	Gloss=3Fem.Nom
-15	茩ung矛yar虄	茩ung矛ya藧	NOUN	_	Definite=Cons|Gender=Fem	14	conj:appos	_	Gloss=association.Fem.Cons
+15	ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	14	conj:appos	_	Gloss=association.Fem.Cons
 16	dambe	dambe	NOUN	_	Gender=Masc	15	mod	_	Gloss=boxing.Masc
 17	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	15	mod	_	Gloss=Gen.Fem
-18	du藧niy脿藧	du藧niy脿藧	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=world.Fem
-19	ta藧	ya藧	AUX	_	Aspect=Perf|Gender=Fem|Person=3	13	comp:obj	_	Gloss=3Fem.Perf
-20	am矛nce藧	amint-	VERB	_	_	19	comp:aux	_	Gloss=agree
-21	d脿	d脿	ADP	_	_	20	comp:obl	_	Gloss=with
-22	茩asar虄	茩asa藧	NOUN	_	Definite=Cons|Gender=Fem	23	mod@desc	_	Gloss=country.Fem.Cons
-23	Afir虄k脿	Afir虄k脿	PROPN	_	_	21	comp:obj	_	Gloss=Africa
+18	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=world.Fem
+19	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	13	comp:obj	_	Gloss=3Fem.Perf
+20	amìnceː	amint-	VERB	_	_	19	comp:aux	_	Gloss=agree
+21	dà	dà	ADP	_	_	20	comp:obl	_	Gloss=with
+22	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	23	mod@desc	_	Gloss=country.Fem.Cons
+23	Afir̃kà	Afir̃kà	PROPN	_	_	21	comp:obj	_	Gloss=Africa
 24	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	23	mod	_	Gloss=Gen.Fem
-25	Kud霉	Kud霉	PROPN	_	_	24	comp:obj	_	Gloss=Kud霉|SpaceAfter=No
+25	Kudù	Kudù	PROPN	_	_	24	comp:obj	_	Gloss=Kudù|SpaceAfter=No
 26	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
-27	w脿藧t貌藧	w脿藧t貌藧	PART	_	PartType=Disc	28	discourse	_	Gloss=that_is
-28	ind脿	ind脿	SCONJ	_	PronType=Rel	23	mod@relcl	_	Gloss=where
-29	gwamnat矛n	gwamnat矛	NOUN	_	Definite=Def|Gender=Fem	30	subj	_	Gloss=government.Fem.Def
-30	k猫藧	n脿藧	AUX	_	Aspect=Prog|Relative=Rel	28	comp:obj	_	Gloss=Prog.Rel
-31	nu藧n脿	nu藧n-	VERB	_	_	30	comp:aux	_	Gloss=show
-32	wa藧riyar虄	wa藧riya藧	NOUN	_	Definite=Cons|Gender=Fem	31	comp:obj	_	Gloss=separation.Fem.Cons
-33	laun矛n	laun矛藧	NOUN	_	Definite=Cons|Gender=Masc	32	mod	_	Gloss=colour.Masc.Cons
-34	fa藧t脿藧	fa藧t脿藧	NOUN	_	Gender=Fem	33	mod	_	Gloss=skin.Fem|SpaceAfter=No
+27	wàːtòː	wàːtòː	PART	_	PartType=Disc	28	discourse	_	Gloss=that_is
+28	indà	indà	SCONJ	_	PronType=Rel	23	mod@relcl	_	Gloss=where
+29	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	30	subj	_	Gloss=government.Fem.Def
+30	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	28	comp:obj	_	Gloss=Prog.Rel
+31	nuːnà	nuːn-	VERB	_	_	30	comp:aux	_	Gloss=show
+32	waːriyar̃	waːriyaː	NOUN	_	Definite=Cons|Gender=Fem	31	comp:obj	_	Gloss=separation.Fem.Cons
+33	launìn	launìː	NOUN	_	Definite=Cons|Gender=Masc	32	mod	_	Gloss=colour.Masc.Cons
+34	faːtàː	faːtàː	NOUN	_	Gender=Fem	33	mod	_	Gloss=skin.Fem|SpaceAfter=No
 35	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
 36	kuma	kuma	CCONJ	_	_	37	cc	_	Gloss=also
-37	tan脿藧	n脿藧	AUX	_	Aspect=Prog|Gender=Fem|Person=3	19	conj:coord	_	Gloss=3Fem.Prog
-38	hul蓷脿藧	hul蓷脿藧	VERB	_	Gender=Fem	37	comp:aux	_	Gloss=dealing.Fem
-39	d脿	d脿	ADP	_	_	38	comp:obl	_	Gloss=with
+37	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	19	conj:coord	_	Gloss=3Fem.Prog
+38	hulɗàː	hulɗàː	VERB	_	Gender=Fem	37	comp:aux	_	Gloss=dealing.Fem
+39	dà	dà	ADP	_	_	38	comp:obl	_	Gloss=with
 40	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	39	comp:obj	_	Gloss=3Fem.Nom|SpaceAfter=No
 41	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_6
-# text_en = Some policies like that of the Nigerian Federation forbid Nigeria to collaborate with any country or association having relations with South Africa.
-# text = manufo藧fin s矛ya藧s脿藧 ir矛n na t脿藧rayy脿r虄 N脿藧je藧r虄iy脿藧 kuma b脿s霉 y脿r虄da N脿藧je藧r虄iy脿藧 t脿 yi hul蓷脿藧 d脿 wata 茩asa藧 ko藧 茩ung矛ya藧 m脿i nasab脿藧 d脿 Afir虄k脿 ta Kud霉 ba.
-# text_ortho = Manufo藧fin s矛ya藧s脿藧 ir矛n na T脿藧rayy脿r虄 N脿藧je藧r虄iy脿藧 kuma b脿 s霉 y脿r虄da N脿藧je藧r虄iy脿藧 t脿 yi hul蓷脿藧 d脿 wata 茩asa藧 ko藧 茩ung矛ya藧 m脿i nasab脿藧 d脿 Afir虄k脿 ta Kud霉 ba.
-1	manufo藧fin	manufo藧fi藧	NOUN	_	Definite=Cons|Gender=Masc	8	dislocated@subj	_	Gloss=policy.Plur.Cons
-2	s矛ya藧s脿藧	s矛ya藧s脿藧	NOUN	_	Gender=Fem	1	mod	_	Gloss=politics.Fem
-3	ir矛n	ir矛藧	NOUN	_	_	4	mod@desc	_	Gloss=type_of
+# text_en = Some policies like that of the Nigerian Federation forbid Nigeria to collaborate with any country or association having relations with South Africa. 
+# text = manufoːfin sìyaːsàː irìn na tàːrayyàr̃ Nàːjeːr̃iyàː kuma bàsù yàr̃da Nàːjeːr̃iyàː tà yi hulɗàː dà wata ƙasaː koː ƙungìyaː mài nasabàː dà Afir̃kà ta Kudù ba.
+# text_ortho = Manufoːfin sìyaːsàː irìn na Tàːrayyàr̃ Nàːjeːr̃iyàː kuma bà sù yàr̃da Nàːjeːr̃iyàː tà yi hulɗàː dà wata ƙasaː koː ƙungìyaː mài nasabàː dà Afir̃kà ta Kudù ba.
+1	manufoːfin	manufoːfiː	NOUN	_	Definite=Cons|Gender=Masc	8	dislocated@subj	_	Gloss=policy.Plur.Cons
+2	sìyaːsàː	sìyaːsàː	NOUN	_	Gender=Fem	1	mod	_	Gloss=politics.Fem
+3	irìn	irìː	NOUN	_	_	4	mod@desc	_	Gloss=type_of
 4	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	1	mod	_	Gloss=Gen.Masc
-5	t脿藧rayy脿r虄	t脿藧rayy脿藧	NOUN	_	Definite=Cons|Gender=Fem	4	comp:obj	_	Gloss=federation.Fem.Cons
-6	N脿藧je藧r虄iy脿藧	N脿藧je藧r虄iy脿藧	PROPN	_	_	5	conj:appos	_	Gloss=Nigeria
+5	tàːrayyàr̃	tàːrayyàː	NOUN	_	Definite=Cons|Gender=Fem	4	comp:obj	_	Gloss=federation.Fem.Cons
+6	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	5	conj:appos	_	Gloss=Nigeria
 7	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
-8	b脿s霉	ya藧	AUX	_	Aspect=Perf|Number=Plur|Person=3|Polarity=Neg	0	root	_	Gloss=3Plur.Perf.Neg
-9	y脿r虄da	yar虄d-	VERB	_	_	8	comp:aux	_	Gloss=agree
-10	N脿藧je藧r虄iy脿藧	N脿藧je藧r虄iy脿藧	PROPN	_	_	11	subj	_	Gloss=Nigeria
-11	t脿	y脿	AUX	_	Gender=Fem|Mood=Sub|Person=3	9	comp:obj	_	Gloss=3Fem.Sub
+8	bàsù	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Polarity=Neg	0	root	_	Gloss=3Plur.Perf.Neg
+9	yàr̃da	yar̃d-	VERB	_	_	8	comp:aux	_	Gloss=agree
+10	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	11	subj	_	Gloss=Nigeria
+11	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	9	comp:obj	_	Gloss=3Fem.Sub
 12	yi	yi	VERB	_	_	11	comp:aux	_	Gloss=do
-13	hul蓷脿藧	hul蓷脿藧	NOUN	_	Gender=Fem	12	comp:pred	_	Gloss=dealing.Fem
-14	d脿	d脿	ADP	_	_	13	comp:obl	_	Gloss=with
+13	hulɗàː	hulɗàː	NOUN	_	Gender=Fem	12	comp:pred	_	Gloss=dealing.Fem
+14	dà	dà	ADP	_	_	13	comp:obl	_	Gloss=with
 15	wata	wani	DET	_	Definite=Spec|Gender=Fem	16	det	_	Gloss=some.Fem.Spec
-16	茩asa藧	茩asa藧	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=country.Fem
-17	ko藧	ko藧	CCONJ	_	_	18	cc	_	Gloss=or
-18	茩ung矛ya藧	茩ung矛ya藧	NOUN	_	Gender=Fem	16	conj:coord	_	Gloss=organisation.Fem
-19	m脿i	m脿i	PART	_	Number=Sing|PartType=Der	18	mod	_	Gloss=owner/doer_of.Sing
-20	nasab脿藧	nasab脿藧	NOUN	_	Gender=Fem	19	compound	_	Gloss=relationship.Fem
-21	d脿	d脿	ADP	_	_	20	comp:obl	_	Gloss=with
-22	Afir虄k脿	Afir虄k脿	PROPN	_	_	21	comp:obj	_	Gloss=Africa
+16	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=country.Fem
+17	koː	koː	CCONJ	_	_	18	cc	_	Gloss=or
+18	ƙungìyaː	ƙungìyaː	NOUN	_	Gender=Fem	16	conj:coord	_	Gloss=organisation.Fem
+19	mài	mài	PART	_	Number=Sing|PartType=Der	18	mod	_	Gloss=owner/doer_of.Sing
+20	nasabàː	nasabàː	NOUN	_	Gender=Fem	19	compound	_	Gloss=relationship.Fem
+21	dà	dà	ADP	_	_	20	comp:obl	_	Gloss=with
+22	Afir̃kà	Afir̃kà	PROPN	_	_	21	comp:obj	_	Gloss=Africa
 23	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	22	mod	_	Gloss=Gen.Fem
-24	Kud霉	Kud霉	PROPN	_	_	23	comp:obj	_	Gloss=South
+24	Kudù	Kudù	PROPN	_	_	23	comp:obj	_	Gloss=South
 25	ba	ba	PART	_	PartType=Neg|Polarity=Neg	9	mod	_	Gloss=Neg|SpaceAfter=No
 26	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_7
 # text_en = Well, what caused the problem is the president of the Nigerian boxing association, 'Chief Ralph Ogunbufunmi' who declared that Lasisi would not take part in the match, and went on to say that they had discussed the matter with the Nigerian Minister of Sports.
-# text = t么藧, 脿b卯n d脿 ya ka藧wo藧 r霉藧蓷a藧n卯n shi藧 n猫藧 sh霉藧g脿ban h霉ku藧m脿r虄 dambe ta N脿藧je藧r虄iy脿藧, " Chief Ralph Ogunbufunmi ", shi藧 n猫藧 ya ba藧 d脿 san芒r虄wa藧 c锚藧wa藧 Lasisi b脿藧 z芒i je藧 w脿藧s芒n ba, har虄 ya c猫藧 sun tatt脿un脿 hak脿n d脿 minist脿n w脿藧s脿nni藧 na N脿藧je藧r虄iy脿藧.
-# text_ortho = T么, 脿b卯n d脿 ya ka藧wo藧 r霉藧蓷a藧n卯n shi藧 n猫藧 sh霉藧g脿ban H霉ku藧m脿r虄 Dambe ta N脿藧je藧r虄iy脿藧, 'Chief Ralph Ogunbufunmi', shi藧 n猫藧 ya ba藧 d脿 san芒r虄wa藧 c锚藧wa藧 Lasisi b脿藧 z芒i je藧 w脿藧s芒n ba, har虄 ya c猫藧 sun tatt脿un脿 hak脿n d脿 Minist脿n W脿藧s脿nni藧 na N脿藧je藧r虄iy脿藧.
-1	t么藧	t貌藧	INTJ	_	_	9	discourse	_	Gloss=well|SpaceAfter=No
+# text = tôː, àbîn dà ya kaːwoː rùːɗaːnîn shiː nèː shùːgàban hùkuːmàr̃ dambe ta Nàːjeːr̃iyàː, " Chief Ralph Ogunbufunmi ", shiː nèː ya baː dà sanâr̃waː cêːwaː Lasisi bàː zâi jeː wàːsân ba, har̃ ya cèː sun tattàunà hakàn dà ministàn wàːsànniː na Nàːjeːr̃iyàː.
+# text_ortho = Tô, àbîn dà ya kaːwoː rùːɗaːnîn shiː nèː shùːgàban Hùkuːmàr̃ Dambe ta Nàːjeːr̃iyàː, 'Chief Ralph Ogunbufunmi', shiː nèː ya baː dà sanâr̃waː cêːwaː Lasisi bàː zâi jeː wàːsân ba, har̃ ya cèː sun tattàunà hakàn dà Ministàn Wàːsànniː na Nàːjeːr̃iyàː.
+1	tôː	tòː	INTJ	_	_	9	discourse	_	Gloss=well|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-3	脿b卯n	脿b霉	NOUN	_	Definite=Def|Gender=Masc	9	subj	_	Gloss=thing.Masc.Def
-4	d脿	d脿	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
-5	ya	ya藧	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	4	comp:obj	_	Gloss=3Masc.Perf.Rel
-6	ka藧wo藧	kai	VERB	_	_	5	comp:aux	_	Gloss=carry/take_to
-7	r霉藧蓷a藧n卯n	r霉藧蓷a藧ni藧	NOUN	_	Definite=Def|Number=Plur	6	comp:obj	_	Gloss=problem.Masc.Def
-8	shi藧	shi藧	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	Gloss=3Masc.Nom
-9	n猫藧	ne藧	AUX	_	_	0	root	_	Gloss=be
-10	sh霉藧g脿ban	sh霉藧g脿ba藧	NOUN	_	Definite=Cons	22	dislocated@top	_	Gloss=leader.Masc.Cons
-11	h霉ku藧m脿r虄	h霉ku藧m脿藧	NOUN	_	Definite=Cons|Gender=Fem	10	mod	_	Gloss=authority.Fem.Cons
+3	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	9	subj	_	Gloss=thing.Masc.Def
+4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
+5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	4	comp:obj	_	Gloss=3Masc.Perf.Rel
+6	kaːwoː	kai	VERB	_	_	5	comp:aux	_	Gloss=carry/take_to
+7	rùːɗaːnîn	rùːɗaːniː	NOUN	_	Definite=Def|Number=Plur	6	comp:obj	_	Gloss=problem.Masc.Def
+8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	Gloss=3Masc.Nom
+9	nèː	neː	AUX	_	_	0	root	_	Gloss=be
+10	shùːgàban	shùːgàbaː	NOUN	_	Definite=Cons	22	dislocated@top	_	Gloss=leader.Masc.Cons
+11	hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Cons|Gender=Fem	10	mod	_	Gloss=authority.Fem.Cons
 12	dambe	dambe	NOUN	_	Gender=Masc	11	mod	_	Gloss=boxing.Masc
 13	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	11	mod	_	Gloss=Gen.Fem
-14	N脿藧je藧r虄iy脿藧	N脿藧je藧r虄iy脿藧	PROPN	_	_	13	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
+14	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	13	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 15	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 16	"	"	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 17	Chief	Chief	PROPN	_	_	18	mod@desc	_	Gloss=Chief
@@ -241,340 +241,341 @@
 19	Ogunbufunmi	Ogunbufunmi	PROPN	_	Definite=Cons|Number=Plur	18	flat@name	_	Gloss=Ogunbufunmi
 20	"	"	PUNCT	_	_	18	punct	_	Gloss=PUNCT|SpaceAfter=No
 21	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-22	shi藧	shi藧	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	dislocated@comp	_	Gloss=3Masc.Nom
-23	n猫藧	ne藧	PART	_	PartType=Foc	22	discourse@foc	_	Gloss=Emph
-24	ya	ya藧	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	22	comp:cleft	_	Gloss=3Masc.Perf.Rel
-25	ba藧	ba藧	VERB	_	_	24	comp:aux	_	Gloss=give
-26	d脿	d脿	ADP	_	_	25	comp:obl	_	Gloss=with
-27	san芒r虄wa藧	san芒r虄wa藧	VERB	_	Gender=Fem	26	comp:obj	_	Gloss=declaration.Fem
-28	c锚藧wa藧	c锚藧wa藧	SCONJ	_	_	27	comp:obj	_	Gloss=COMP
+22	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	dislocated@comp	_	Gloss=3Masc.Nom
+23	nèː	neː	PART	_	PartType=Foc	22	discourse@foc	_	Gloss=Emph
+24	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	22	comp:cleft	_	Gloss=3Masc.Perf.Rel
+25	baː	baː	VERB	_	_	24	comp:aux	_	Gloss=give
+26	dà	dà	ADP	_	_	25	comp:obl	_	Gloss=with
+27	sanâr̃waː	sanâr̃waː	VERB	_	Gender=Fem	26	comp:obj	_	Gloss=declaration.Fem
+28	cêːwaː	cêːwaː	SCONJ	_	_	27	comp:obj	_	Gloss=COMP
 29	Lasisi	Lasisi	PROPN	_	_	31	subj	_	Gloss=Lasisi
-30	b脿藧	b脿藧	PART	_	PartType=Neg|Polarity=Neg	31	mod	_	Gloss=Neg
-31	z芒i	z芒i	AUX	_	Gender=Masc|Person=3|Tense=Fut	28	comp:obj	_	Gloss=3Masc.Fut
-32	je藧	je藧	VERB	_	_	31	comp:aux	_	Gloss=go
-33	w脿藧s芒n	w脿藧sa藧	NOUN	_	Definite=Def|ExtPos=NOUN|Gender=Masc	32	comp:obj@G	_	Gloss=game.Masc.Def
+30	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	31	mod	_	Gloss=Neg
+31	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	28	comp:obj	_	Gloss=3Masc.Fut
+32	jeː	jeː	VERB	_	_	31	comp:aux	_	Gloss=go
+33	wàːsân	wàːsaː	NOUN	_	Definite=Def|ExtPos=NOUN|Gender=Masc	32	comp:obj@G	_	Gloss=game.Masc.Def
 34	ba	ba	PART	_	PartType=Neg|Polarity=Neg	32	mod	_	Gloss=Neg|SpaceAfter=No
 35	,	,	PUNCT	_	_	36	punct	_	Gloss=PUNCT
-36	har虄	har虄	SCONJ	_	Definite=Cons|Gender=Fem	25	mod	_	Gloss=so_much_so_that
-37	ya	ya藧	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	36	comp:obj	_	Gloss=3Masc.Perf.Rel
-38	c猫藧	c锚藧	VERB	_	Gender=Fem	37	comp:aux	_	Gloss=be.Fem
-39	sun	ya藧	AUX	_	Aspect=Perf|Number=Plur|Person=3	38	comp:obj	_	Gloss=3Plur.Perf
-40	tatt脿un脿	tattaun-	VERB	_	_	39	comp:aux	_	Gloss=discuss
-41	hak脿n	hak脿n	PRON	_	_	40	mod	_	Gloss=this
-42	d脿	d脿	ADP	_	_	40	comp:obl	_	Gloss=with
-43	minist脿n	minist脿藧	NOUN	_	Definite=Cons|Gender=Masc	42	comp:obj	_	Gloss=minister.Masc.Cons
-44	w脿藧s脿nni藧	w脿藧sa藧	NOUN	_	Number=Plur	43	mod	_	Gloss=game.Plur
+36	har̃	har̃	SCONJ	_	Definite=Cons|Gender=Fem	25	mod	_	Gloss=so_much_so_that
+37	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	36	comp:obj	_	Gloss=3Masc.Perf.Rel
+38	cèː	cêː	VERB	_	Gender=Fem	37	comp:aux	_	Gloss=be.Fem
+39	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	38	comp:obj	_	Gloss=3Plur.Perf
+40	tattàunà	tattaun-	VERB	_	_	39	comp:aux	_	Gloss=discuss
+41	hakàn	hakàn	PRON	_	_	40	mod	_	Gloss=this
+42	dà	dà	ADP	_	_	40	comp:obl	_	Gloss=with
+43	ministàn	ministàː	NOUN	_	Definite=Cons|Gender=Masc	42	comp:obj	_	Gloss=minister.Masc.Cons
+44	wàːsànniː	wàːsaː	NOUN	_	Number=Plur	43	mod	_	Gloss=game.Plur
 45	na	na	PART	_	Case=Gen|Number=Plur|PartType=Case	44	mod	_	Gloss=Gen.Plur
-46	N脿藧je藧r虄iy脿藧	N脿藧je藧r虄iy脿藧	PROPN	_	_	45	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
+46	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	45	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 47	.	.	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_8
-# text = ya 茩a藧r脿藧 d脿 c锚藧wa藧 tun cikin ma藧k貌n jiy脿 ne藧 ya r虄ub霉藧ta藧 w脿 Lasisi w脿si藧茩脿藧 ya gay脿藧 mas脿 kad脿 y脿 k霉skur脿 y脿 sh矛ga wann脿n g脿藧sa藧.
-# text_ortho = Ya 茩a藧r脿藧 d脿 c锚藧wa藧 tun cikin ma藧k貌n jiy脿 ne藧 ya r虄ub霉藧ta藧 w脿 Lasisi w脿si藧茩脿藧 ya gay脿藧 mas脿 kad脿 y脿 k霉skur脿 y脿 sh矛ga wann脿n g脿藧sa藧.
-1	ya	ya藧	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
-2	茩a藧r脿藧	茩a藧r-	VERB	_	_	1	comp:aux	_	Gloss=increase
-3	d脿	d脿	ADP	_	_	2	comp:obl	_	Gloss=with
-4	c锚藧wa藧	c锚藧	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	comp:obj	_	Gloss=say.Vnoun.Fem
+# text_en = 
+# text = ya ƙaːràː dà cêːwaː tun cikin maːkòn jiyà neː ya r̃ubùːtaː wà Lasisi wàsiːƙàː ya gayàː masà kadà yà kùskurà yà shìga wannàn gàːsaː.
+# text_ortho = Ya ƙaːràː dà cêːwaː tun cikin maːkòn jiyà neː ya r̃ubùːtaː wà Lasisi wàsiːƙàː ya gayàː masà kadà yà kùskurà yà shìga wannàn gàːsaː.
+1	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
+2	ƙaːràː	ƙaːr-	VERB	_	_	1	comp:aux	_	Gloss=increase
+3	dà	dà	ADP	_	_	2	comp:obl	_	Gloss=with
+4	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	comp:obj	_	Gloss=say.Vnoun.Fem
 5	tun	tun	SCONJ	_	_	10	mod	_	Gloss=since
 6	cikin	cikin	ADP	_	_	5	comp:obj	_	Gloss=inside
-7	ma藧k貌n	ma藧k貌藧	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	Gloss=week.Masc.Cons
-8	jiy脿	jiy脿	ADV	_	_	7	compound	_	Gloss=yesterday
-9	ne藧	ne藧	PART	_	PartType=Foc	5	discourse@foc	_	Gloss=Emph
-10	ya	ya藧	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	4	comp:obj	_	Gloss=3Masc.Perf.Rel
-11	r虄ub霉藧ta藧	r虄ubu藧t-	VERB	_	_	10	comp:aux	_	Gloss=write
-12	w脿	w脿	ADP	_	Case=Dat	11	comp:obl	_	Gloss=Dat
+7	maːkòn	maːkòː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	Gloss=week.Masc.Cons
+8	jiyà	jiyà	ADV	_	_	7	compound	_	Gloss=yesterday
+9	neː	neː	PART	_	PartType=Foc	5	discourse@foc	_	Gloss=Emph
+10	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	4	comp:obj	_	Gloss=3Masc.Perf.Rel
+11	r̃ubùːtaː	r̃ubuːt-	VERB	_	_	10	comp:aux	_	Gloss=write
+12	wà	wà	ADP	_	Case=Dat	11	comp:obl	_	Gloss=Dat
 13	Lasisi	Lasisi	PROPN	_	_	12	comp:obj	_	Gloss=Lasisi
-14	w脿si藧茩脿藧	w脿si藧茩脿藧	NOUN	_	Gender=Fem	13	flat@name	_	Gloss=letter.Fem
-15	ya	ya藧	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	10	parataxis@conj	_	Gloss=3Masc.Perf.Rel
-16	gay脿藧	gay-	VERB	_	_	15	comp:aux	_	Gloss=tell
-17	mas脿	mas脿	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	16	comp:obl	_	Gloss=3Masc.Dat
-18	kad脿	kad脿	PART	_	PartType=Neg	19	mod	_	Gloss=Neg
-19	y脿	y脿	AUX	_	Gender=Masc|Mood=Sub|Person=3	16	comp:obj	_	Gloss=3Masc.Sub
-20	k霉skur脿	k霉skur脿	NOUN	_	_	19	comp:aux	_	Gloss=make_mistake
-21	y脿	y脿	AUX	_	Gender=Masc|Mood=Sub|Person=3	19	parataxis@conj	_	Gloss=3Masc.Sub
-22	sh矛ga	shig-	VERB	_	_	21	comp:aux	_	Gloss=enter
-23	wann脿n	wann脿n	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	24	det	_	Gloss=ProxS.Fem
-24	g脿藧sa藧	g脿藧sa藧	NOUN	_	Gender=Fem	22	comp:obj@G	_	Gloss=competition.Fem|SpaceAfter=No
+14	wàsiːƙàː	wàsiːƙàː	NOUN	_	Gender=Fem	13	flat@name	_	Gloss=letter.Fem
+15	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	10	parataxis@conj	_	Gloss=3Masc.Perf.Rel
+16	gayàː	gay-	VERB	_	_	15	comp:aux	_	Gloss=tell
+17	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	16	comp:obl	_	Gloss=3Masc.Dat
+18	kadà	kadà	PART	_	PartType=Neg	19	mod	_	Gloss=Neg
+19	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	16	comp:obj	_	Gloss=3Masc.Sub
+20	kùskurà	kùskurà	NOUN	_	_	19	comp:aux	_	Gloss=make_mistake
+21	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	19	parataxis@conj	_	Gloss=3Masc.Sub
+22	shìga	shig-	VERB	_	_	21	comp:aux	_	Gloss=enter
+23	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	24	det	_	Gloss=ProxS.Fem
+24	gàːsaː	gàːsaː	NOUN	_	Gender=Fem	22	comp:obj@G	_	Gloss=competition.Fem|SpaceAfter=No
 25	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_9
-# text_en = But the secretary of the Nigerian boxing association, named 'Emmanuel Adeleye', went on television in Lagos, and contradicted the president of association, begging people to support Lasisi when he goes boxing.
-# text = 脿mma藧 kuma sakatar虄猫n h霉ku藧m脿r虄 dambe ta N脿藧je藧r虄iy脿藧, wani m脿i su藧na藧 " Emmanuel Adeleye ", ya藧 fito藧 脿 tal脿bij矛n 脿 bir虄nin 脤kko yan脿藧 茩ary脿t脿 sh霉藧g脿ban h霉ku藧m脿r虄, yan脿藧 r貌藧茩on j脿ma'脿藧 d脿 s霉 ba藧 d脿 go藧yon ba藧ya藧 g脿 Lasisi 矛dan ya zo藧 y卯n dambe.
-# text_ortho = 脌mma藧 kuma sakatar虄猫n H霉ku藧m脿r虄 Dambe ta N脿藧je藧r虄iy脿藧, wani m脿i su藧na藧 'Emmanuel Adeleye', ya藧 fito藧 脿 tal脿bij矛n 脿 bir虄nin 矛kko yan脿藧 kary脿t脿 sh霉藧g脿ban H霉ku藧m脿r虄, yan脿藧 r貌藧茩on j脿ma'脿藧 d脿 s霉 ba藧 d脿 go藧yon ba藧ya藧 g脿 Lasisi 矛dan ya zo藧 y卯n dambe.
-1	脿mma藧	脿mma藧	CCONJ	_	_	17	discourse	_	Gloss=but
+# text_en = But the secretary of the Nigerian boxing association, named 'Emmanuel Adeleye', went on television in Lagos, and contradicted the president of association, begging people to support Lasisi when he goes boxing. 
+# text = àmmaː kuma sakatar̃èn hùkuːmàr̃ dambe ta Nàːjeːr̃iyàː, wani mài suːnaː " Emmanuel Adeleye ", yaː fitoː à talàbijìn à bir̃nin Ìkko yanàː ƙaryàtà shùːgàban hùkuːmàr̃, yanàː ròːƙon jàma'àː dà sù baː dà goːyon baːyaː gà Lasisi ìdan ya zoː yîn dambe.
+# text_ortho = Àmmaː kuma sakatar̃èn Hùkuːmàr̃ Dambe ta Nàːjeːr̃iyàː, wani mài suːnaː 'Emmanuel Adeleye', yaː fitoː à talàbijìn à bir̃nin ìkko yanàː karyàtà shùːgàban Hùkuːmàr̃, yanàː ròːƙon jàma'àː dà sù baː dà goːyon baːyaː gà Lasisi ìdan ya zoː yîn dambe.
+1	àmmaː	àmmaː	CCONJ	_	_	17	discourse	_	Gloss=but
 2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
-3	sakatar虄猫n	sakatar虄猫藧	NOUN	_	Definite=Cons|Gender=Masc	17	subj	_	Gloss=secretary.Masc.Cons
-4	h霉ku藧m脿r虄	h霉ku藧m脿藧	NOUN	_	Definite=Cons|Gender=Fem	3	mod	_	Gloss=authority.Fem.Cons
+3	sakatar̃èn	sakatar̃èː	NOUN	_	Definite=Cons|Gender=Masc	17	subj	_	Gloss=secretary.Masc.Cons
+4	hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Cons|Gender=Fem	3	mod	_	Gloss=authority.Fem.Cons
 5	dambe	dambe	NOUN	_	Gender=Masc	4	mod	_	Gloss=boxing.Masc
 6	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	4	mod	_	Gloss=Gen.Fem
-7	N脿藧je藧r虄iy脿藧	N脿藧je藧r虄iy脿藧	PROPN	_	_	6	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
+7	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	6	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 9	wani	wani	PRON	_	Definite=Spec|Gender=Masc	3	conj:appos	_	Gloss=some.Masc.Spec
-10	m脿i	m脿i	PART	_	Number=Sing|PartType=Der	9	mod	_	Gloss=owner/doer_of.Sing
-11	su藧na藧	su藧na藧	NOUN	_	Gender=Masc	10	compound	_	Gloss=name.Masc
+10	mài	mài	PART	_	Number=Sing|PartType=Der	9	mod	_	Gloss=owner/doer_of.Sing
+11	suːnaː	suːnaː	NOUN	_	Gender=Masc	10	compound	_	Gloss=name.Masc
 12	"	"	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	Emmanuel	Emmanuel	PROPN	_	_	11	conj:appos	_	Gloss=Emmanuel
 14	Adeleye	Adeleye	PROPN	_	_	13	flat@name	_	Gloss=Adeleye
 15	"	"	PUNCT	_	_	13	punct	_	Gloss=PUNCT|SpaceAfter=No
 16	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
-17	ya藧	ya藧	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
-18	fito藧	fit-	VERB	_	_	17	comp:aux	_	Gloss=come_out
-19	脿	脿	ADP	_	_	18	comp:obl	_	Gloss=at
-20	tal脿bij矛n	tal脿bij矛藧	NOUN	_	Definite=Def|Gender=Masc	19	comp:obj	_	Gloss=television.Masc
-21	脿	脿	ADP	_	_	18	mod	_	Gloss=at
-22	bir虄nin	bir虄ni藧	NOUN	_	Definite=Cons|Gender=Masc	23	mod@desc	_	Gloss=city.Masc.Cons
-23	脤kko	脤kko	PROPN	_	_	21	comp:obj	_	Gloss=Lagos
-24	yan脿藧	n脿藧	AUX	_	Aspect=Prog|Gender=Masc|Person=3	17	parataxis@conj	_	Gloss=3Masc.Prog
-25	茩ary脿t脿	茩aryat-	VERB	_	_	24	comp:aux	_	Gloss=contradict
-26	sh霉藧g脿ban	sh霉藧g脿ba藧	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	25	comp:obj	_	Gloss=leader.Masc.Cons
-27	h霉ku藧m脿r虄	h霉ku藧m脿藧	NOUN	_	Definite=Cons|Gender=Fem	26	mod	_	Gloss=authority.Fem.Cons|SpaceAfter=No
+17	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
+18	fitoː	fit-	VERB	_	_	17	comp:aux	_	Gloss=come_out
+19	à	à	ADP	_	_	18	comp:obl	_	Gloss=at
+20	talàbijìn	talàbijìː	NOUN	_	Definite=Def|Gender=Masc	19	comp:obj	_	Gloss=television.Masc
+21	à	à	ADP	_	_	18	mod	_	Gloss=at
+22	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	23	mod@desc	_	Gloss=city.Masc.Cons
+23	Ìkko	Ìkko	PROPN	_	_	21	comp:obj	_	Gloss=Lagos
+24	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	17	parataxis@conj	_	Gloss=3Masc.Prog
+25	ƙaryàtà	ƙaryat-	VERB	_	_	24	comp:aux	_	Gloss=contradict
+26	shùːgàban	shùːgàbaː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	25	comp:obj	_	Gloss=leader.Masc.Cons
+27	hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Cons|Gender=Fem	26	mod	_	Gloss=authority.Fem.Cons|SpaceAfter=No
 28	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
-29	yan脿藧	n脿藧	AUX	_	Aspect=Prog|Gender=Masc|Person=3	24	parataxis@conj	_	Gloss=3Masc.Prog
-30	r貌藧茩on	ro藧茩-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	29	comp:aux	_	Gloss=request.Vnoun.Masc.Cons
-31	j脿ma'脿藧	j脿ma'脿藧	NOUN	_	Gender=Fem	30	comp:obj	_	Gloss=people.Fem
-32	d脿	d脿	SCONJ	_	_	30	comp:obl	_	Gloss=COMP
-33	s霉	y脿	AUX	_	Mood=Sub|Number=Plur|Person=3	32	comp:obj	_	Gloss=3Plur.Sub
-34	ba藧	ba藧	VERB	_	_	33	comp:aux	_	Gloss=give
-35	d脿	d脿	ADP	_	_	34	comp:obl	_	Gloss=with
-36	go藧yon	go藧y-	VERB	_	Definite=Cons|Gender=Masc|VerbForm=Vnoun	35	comp:obj	_	Gloss=support.Vnoun.Masc.Cons
-37	ba藧ya藧	ba藧ya藧	NOUN	_	Gender=Masc	36	comp:obj	_	Gloss=back.Masc
-38	g脿	g脿	ADP	_	_	34	comp:obl	_	Gloss=to
+29	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	24	parataxis@conj	_	Gloss=3Masc.Prog
+30	ròːƙon	roːƙ-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	29	comp:aux	_	Gloss=request.Vnoun.Masc.Cons
+31	jàma'àː	jàma'àː	NOUN	_	Gender=Fem	30	comp:obj	_	Gloss=people.Fem
+32	dà	dà	SCONJ	_	_	30	comp:obl	_	Gloss=COMP
+33	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	32	comp:obj	_	Gloss=3Plur.Sub
+34	baː	baː	VERB	_	_	33	comp:aux	_	Gloss=give
+35	dà	dà	ADP	_	_	34	comp:obl	_	Gloss=with
+36	goːyon	goːy-	VERB	_	Definite=Cons|Gender=Masc|VerbForm=Vnoun	35	comp:obj	_	Gloss=support.Vnoun.Masc.Cons
+37	baːyaː	baːyaː	NOUN	_	Gender=Masc	36	comp:obj	_	Gloss=back.Masc
+38	gà	gà	ADP	_	_	34	comp:obl	_	Gloss=to
 39	Lasisi	Lasisi	PROPN	_	_	38	comp:obj	_	Gloss=Lasisi
-40	矛dan	矛dan	SCONJ	_	_	34	mod	_	Gloss=if
-41	ya	ya藧	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	40	comp:obj	_	Gloss=3Masc.Perf.Rel
-42	zo藧	zo藧	VERB	_	_	41	comp:aux	_	Gloss=go
-43	y卯n	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	42	comp:obj@G	_	Gloss=do.Vnoun.Masc.Cons
+40	ìdan	ìdan	SCONJ	_	_	34	mod	_	Gloss=if
+41	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	40	comp:obj	_	Gloss=3Masc.Perf.Rel
+42	zoː	zoː	VERB	_	_	41	comp:aux	_	Gloss=go
+43	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	42	comp:obj@G	_	Gloss=do.Vnoun.Masc.Cons
 44	dambe	dambe	NOUN	_	Gender=Masc	43	comp:pred	_	Gloss=boxing.Masc|SpaceAfter=No
 45	.	.	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_10
-# text_en = The secretary continued by saying that this match does not contravene the government policy since Lasisi's opponent is not South-African, and the fight will not take place in South-Africa.
-# text = sakatar虄猫n ya 茩a藧r脿藧 d脿 c锚藧wa藧 y卯n wann脿n dambe b脿i sa藧蓳脿藧 w脿 manufo藧fin gwamnat矛 ba, tun d脿 yak猫 脿bo藧kin damben Lasisi b脿藧 蓷an Afir虄k脿 ta Kud霉 ba n猫藧, kuma b脿藧 脿 Afir虄k脿 ta Kud霉 za藧'脿 yi damb锚n ba.
-# text_ortho = Sakatar虄猫n ya 茩a藧r脿藧 d脿 c锚藧wa藧 y卯n wann脿n dambe b脿i sa藧蓳脿藧 w脿 manufo藧fin Gwamnat矛 ba, tun d脿 yak猫 脿bo藧kin damben Lasisi b脿藧 蓷an Afir虄k脿 ta Kud霉 ba n猫藧, kuma b脿藧 脿 Afir虄k脿 ta Kud霉 za藧 脿 yi damb锚n ba.
-1	sakatar虄猫n	sakatar虄猫藧	NOUN	_	Definite=Def|Gender=Masc	2	subj	_	Gloss=secretary.Masc.Cons
-2	ya	ya藧	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
-3	茩a藧r脿藧	茩a藧r-	VERB	_	_	2	comp:aux	_	Gloss=increase
-4	d脿	d脿	ADP	_	_	3	comp:obl	_	Gloss=with
-5	c锚藧wa藧	c锚藧	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:obj	_	Gloss=say.Vnoun.Fem
-6	y卯n	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	subj	_	Gloss=do.Vnoun.Masc.Cons
-7	wann脿n	wann脿n	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	8	det	_	Gloss=ProxS.Masc
+# text_en = The secretary continued by saying that this match does not contravene the government policy since Lasisi's opponent is not South-African, and the fight will not take place in South-Africa. 
+# text = sakatar̃èn ya ƙaːràː dà cêːwaː yîn wannàn dambe bài saːɓàː wà manufoːfin gwamnatì ba, tun dà yakè àboːkin damben Lasisi bàː ɗan Afir̃kà ta Kudù ba nèː, kuma bàː à Afir̃kà ta Kudù zaː'à yi dambên ba.
+# text_ortho = Sakatar̃èn ya ƙaːràː dà cêːwaː yîn wannàn dambe bài saːɓàː wà manufoːfin Gwamnatì ba, tun dà yakè àboːkin damben Lasisi bàː ɗan Afir̃kà ta Kudù ba nèː, kuma bàː à Afir̃kà ta Kudù zaː à yi dambên ba.
+1	sakatar̃èn	sakatar̃èː	NOUN	_	Definite=Def|Gender=Masc	2	subj	_	Gloss=secretary.Masc.Cons
+2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
+3	ƙaːràː	ƙaːr-	VERB	_	_	2	comp:aux	_	Gloss=increase
+4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with
+5	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:obj	_	Gloss=say.Vnoun.Fem
+6	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	subj	_	Gloss=do.Vnoun.Masc.Cons
+7	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	8	det	_	Gloss=ProxS.Masc
 8	dambe	dambe	NOUN	_	Gender=Masc	6	mod	_	Gloss=boxing.Masc
-9	b脿i	ya藧	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	5	comp:obj	_	Gloss=3Masc.Perf.Neg
-10	sa藧蓳脿藧	sa藧蓳-	VERB	_	_	9	comp:aux	_	Gloss=deviate
-11	w脿	w脿	ADP	_	Case=Dat	10	comp:obl	_	Gloss=Dat
-12	manufo藧fin	manufa藧	NOUN	_	Definite=Cons|Number=Plur	11	comp:obj	_	Gloss=ploicy.Plur.Cons
-13	gwamnat矛	gwamnat矛	NOUN	_	Definite=Def|Gender=Fem	12	mod	_	Gloss=government.Fem
+9	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	5	comp:obj	_	Gloss=3Masc.Perf.Neg
+10	saːɓàː	saːɓ-	VERB	_	_	9	comp:aux	_	Gloss=deviate
+11	wà	wà	ADP	_	Case=Dat	10	comp:obl	_	Gloss=Dat
+12	manufoːfin	manufaː	NOUN	_	Definite=Cons|Number=Plur	11	comp:obj	_	Gloss=ploicy.Plur.Cons
+13	gwamnatì	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	12	mod	_	Gloss=government.Fem
 14	ba	ba	PART	_	PartType=Neg|Polarity=Neg	10	mod	_	Gloss=Neg|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	tun	tun	SCONJ	_	ExtPos=SCONJ	10	mod	_	Gloss=since|Idiom=Yes
-17	d脿	d脿	SCONJ	_	_	16	compound	_	Gloss=COMP|InIdiom=Yes
-18	yak猫	n脿藧	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Relative=Rel2	17	compound	_	Gloss=3Fem.Prog.Rel2|InIdiom=Yes
-19	脿bo藧kin	脿bo藧ki藧	NOUN	_	Definite=Cons|Gender=Masc	28	subj	_	Gloss=comrade.Masc.Cons
+17	dà	dà	SCONJ	_	_	16	compound	_	Gloss=COMP|InIdiom=Yes
+18	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Relative=Rel2	17	compound	_	Gloss=3Fem.Prog.Rel2|InIdiom=Yes
+19	àboːkin	àboːkiː	NOUN	_	Definite=Cons|Gender=Masc	28	subj	_	Gloss=comrade.Masc.Cons
 20	damben	dambe	NOUN	_	Definite=Cons|Gender=Masc	19	mod	_	Gloss=boxing.Masc.Cons
 21	Lasisi	Lasisi	PROPN	_	_	19	mod	_	Gloss=Lasisi
-22	b脿藧	b脿藧	PART	_	PartType=Neg|Polarity=Neg	23	mod	_	Gloss=Neg
-23	蓷an	蓷a藧	NOUN	_	Definite=Cons|Gender=Masc	28	comp:pred	_	Gloss=child.Masc.Cons
-24	Afir虄k脿	Afir虄k脿	PROPN	_	_	23	compound	_	Gloss=Africa
+22	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	23	mod	_	Gloss=Neg
+23	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	28	compound:pred	_	Gloss=child.Masc.Cons
+24	Afir̃kà	Afir̃kà	PROPN	_	_	23	compound	_	Gloss=Africa
 25	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	24	mod	_	Gloss=Gen.Fem
-26	Kud霉	Kud霉	PROPN	_	_	25	comp:obj	_	Gloss=Kud霉
+26	Kudù	Kudù	PROPN	_	_	25	comp:obj	_	Gloss=Kudù
 27	ba	ba	PART	_	PartType=Neg|Polarity=Neg	23	mod	_	Gloss=Neg
-28	n猫藧	ne藧	AUX	_	_	16	comp:obj	_	Gloss=be|SpaceAfter=No
+28	nèː	neː	AUX	_	_	16	comp:obj	_	Gloss=be|SpaceAfter=No
 29	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 30	kuma	kuma	CCONJ	_	_	32	cc	_	Gloss=also
-31	b脿藧	b脿藧	PART	_	PartType=Neg|Polarity=Neg	32	mod	_	Gloss=Neg
-32	脿	脿	ADP	_	_	28	conj:coord	_	Gloss=at
-33	Afir虄k脿	Afir虄k脿	PROPN	_	_	32	comp:obj	_	Gloss=Africa
+31	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	32	mod	_	Gloss=Neg
+32	à	à	ADP	_	_	28	conj:coord	_	Gloss=at
+33	Afir̃kà	Afir̃kà	PROPN	_	_	32	comp:obj	_	Gloss=Africa
 34	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	33	mod	_	Gloss=Gen.Fem
-35	Kud霉	Kud霉	PROPN	_	_	34	comp:obj	_	Gloss=Kud霉
-36	za藧'脿	z芒i	AUX	_	Person=4|Tense=Fut	32	parataxis@conj	_	Gloss=4.Fut
+35	Kudù	Kudù	PROPN	_	_	34	comp:obj	_	Gloss=Kudù
+36	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	32	parataxis@conj	_	Gloss=4.Fut
 37	yi	yi	VERB	_	_	36	comp:aux	_	Gloss=do
-38	damb锚n	dambe	ADV	_	Definite=Def	37	comp:pred	_	Gloss=boxing.Masc.Def
+38	dambên	dambe	ADV	_	Definite=Def	37	comp:pred	_	Gloss=boxing.Masc.Def
 39	ba	ba	PART	_	PartType=Neg|Polarity=Neg	32	mod	_	Gloss=Neg|SpaceAfter=No
 40	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_11
-# text_en = This crisis made many sports fans to take part in the discussion, so much so that a Nigerian newspaper called 'Sunday Concord' commented the discussin saying that Lasisi should be allowed to take part in the game.
-# text = y脿nzu dai wann脿n r矛kici藧 ya藧 s芒藧 m脿藧su sh脿'aw脿r虄 w脿藧s脿nni藧 d脿 da藧ma藧 sun脿藧 tso藧m脿 b脿藧ki藧 脿 b脿t没n, har虄 ma藧 wata j脿r虄i藧d脿藧 脿 N脿藧je藧r虄iy脿藧 wadd脿 ak猫藧 kir脿藧 " Sunday Concord " ta藧 r虄ub霉藧t脿 shar虄h矛藧 脿 k芒n b脿t没n, tan脿藧 c锚藧wa藧 ya藧 k脿ma藧t脿 脿 bar虄 Lasisi y脿 sh矛ga w脿藧s芒n.
-# text_ortho = Y脿nzu dai wann脿n r矛kici藧 ya藧 s芒藧 m脿藧su sh脿鈥檃w脿r虄 w脿藧s脿nni藧 d脿 da藧ma藧 sun脿藧 tso藧m脿 b脿藧ki藧 脿 b脿t没n, har虄 ma藧 wata j脿r虄i藧d脿藧 脿 N脿藧je藧r虄iy脿藧 wadd脿 ak猫藧 kir脿藧 'Sunday Concord' ta藧 r虄ub霉藧t脿 shar虄h矛藧 脿 k芒n b脿t没n, tan脿藧 c锚藧wa藧 ya藧 k脿ma藧t脿 脿 bar虄 Lasisi y脿 sh矛ga w脿藧s芒n.
-1	y脿nzu	y脿nzu	ADV	_	_	5	mod	_	Gloss=now
+# text_en = This crisis made many sports fans to take part in the discussion, so much so that a Nigerian newspaper called 'Sunday Concord' commented the discussin saying that Lasisi should be allowed to take part in the game. 
+# text = yànzu dai wannàn rìkiciː yaː sâː màːsu shà'awàr̃ wàːsànniː dà daːmaː sunàː tsoːmà bàːkiː à bàtûn, har̃ maː wata jàr̃iːdàː à Nàːjeːr̃iyàː waddà akèː kiràː " Sunday Concord " taː r̃ubùːtà shar̃hìː à kân bàtûn, tanàː cêːwaː yaː kàmaːtà à bar̃ Lasisi yà shìga wàːsân.
+# text_ortho = Yànzu dai wannàn rìkiciː yaː sâː màːsu shà’awàr̃ wàːsànniː dà daːmaː sunàː tsoːmà bàːkiː à bàtûn, har̃ maː wata jàr̃iːdàː à Nàːjeːr̃iyàː waddà akèː kiràː 'Sunday Concord' taː r̃ubùːtà shar̃hìː à kân bàtûn, tanàː cêːwaː yaː kàmaːtà à bar̃ Lasisi yà shìga wàːsân.
+1	yànzu	yànzu	ADV	_	_	5	mod	_	Gloss=now
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
-3	wann脿n	wann脿n	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	4	det	_	Gloss=ProxS.Masc
-4	r矛kici藧	r矛kici藧	NOUN	_	Gender=Masc	5	subj	_	Gloss=crisis.Masc
-5	ya藧	ya藧	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
-6	s芒藧	s芒藧	VERB	_	_	5	comp:aux	_	Gloss=cause
-7	m脿藧su	m脿i	PART	_	Number=Plur|PartType=Der	12	subj	_	Gloss=owner/doer_of.Plur
-8	sh脿'aw脿r虄	sh脿'aw脿r虄	NOUN	_	Definite=Cons|Gender=Fem	7	compound	_	Gloss=interest.Fem.Cons
-9	w脿藧s脿nni藧	w脿藧sa藧	NOUN	_	Number=Plur	8	mod	_	Gloss=game.Plur
-10	d脿	d脿	ADP	_	ExtPos=ADJ	7	mod	_	Gloss=with|Idiom=Yes
-11	da藧ma藧	da藧ma藧	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=opportunity.Fem|InIdiom=Yes
-12	sun脿藧	n脿藧	AUX	_	Aspect=Prog|Number=Plur|Person=3	6	comp:obj	_	Gloss=3Plur.Prog
-13	tso藧m脿	tso藧m-	VERB	_	_	12	comp:aux	_	Gloss=soak
-14	b脿藧ki藧	b脿藧ki藧	NOUN	_	Gender=Masc	13	compound	_	Gloss=mouth.Masc
-15	脿	脿	ADP	_	_	13	comp:obl	_	Gloss=at
-16	b脿t没n	b脿tu藧	NOUN	_	Definite=Def|Gender=Masc	15	comp:obj	_	Gloss=discussion.Masc.Def|SpaceAfter=No
+3	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	4	det	_	Gloss=ProxS.Masc
+4	rìkiciː	rìkiciː	NOUN	_	Gender=Masc	5	subj	_	Gloss=crisis.Masc
+5	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
+6	sâː	sâː	VERB	_	_	5	comp:aux	_	Gloss=cause
+7	màːsu	mài	PART	_	Number=Plur|PartType=Der	12	subj	_	Gloss=owner/doer_of.Plur
+8	shà'awàr̃	shà'awàr̃	NOUN	_	Definite=Cons|Gender=Fem	7	compound	_	Gloss=interest.Fem.Cons
+9	wàːsànniː	wàːsaː	NOUN	_	Number=Plur	8	mod	_	Gloss=game.Plur
+10	dà	dà	ADP	_	ExtPos=ADJ	7	mod	_	Gloss=with|Idiom=Yes
+11	daːmaː	daːmaː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=opportunity.Fem|InIdiom=Yes
+12	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	6	comp:obj	_	Gloss=3Plur.Prog
+13	tsoːmà	tsoːm-	VERB	_	_	12	comp:aux	_	Gloss=soak
+14	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	13	compound	_	Gloss=mouth.Masc
+15	à	à	ADP	_	_	13	comp:obl	_	Gloss=at
+16	bàtûn	bàtuː	NOUN	_	Definite=Def|Gender=Masc	15	comp:obj	_	Gloss=discussion.Masc.Def|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-18	har虄	har虄	SCONJ	_	Definite=Cons|Gender=Fem	13	mod	_	Gloss=so_much_so_that
-19	ma藧	ma藧	PART	_	PartType=Top	18	discourse@top	_	Gloss=even
+18	har̃	har̃	SCONJ	_	Definite=Cons|Gender=Fem	13	mod	_	Gloss=so_much_so_that
+19	maː	maː	PART	_	PartType=Top	18	discourse@top	_	Gloss=even
 20	wata	wani	DET	_	Definite=Spec|Gender=Fem	21	det	_	Gloss=some.Fem.Spec
-21	j脿r虄i藧d脿藧	j脿r虄i藧d脿藧	NOUN	_	Gender=Fem	31	subj	_	Gloss=newspaper.Fem
-22	脿	脿	ADP	_	_	21	mod	_	Gloss=at
-23	N脿藧je藧r虄iy脿藧	N脿藧je藧r虄iy脿藧	PROPN	_	_	22	comp:obj	_	Gloss=Nigeria
-24	wadd脿	wand脿	SCONJ	_	Gender=Fem|PronType=Rel	21	mod@relcl	_	Gloss=REL.Fem
-25	ak猫藧	n脿藧	AUX	_	Aspect=Prog|Person=4|Relative=Rel	24	comp:obj	_	Gloss=4.Prog.Rel
-26	kir脿藧	kira藧	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	25	comp:aux	_	Gloss=call.Vnoun.Masc
+21	jàr̃iːdàː	jàr̃iːdàː	NOUN	_	Gender=Fem	31	subj	_	Gloss=newspaper.Fem
+22	à	à	ADP	_	_	21	mod	_	Gloss=at
+23	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	22	comp:obj	_	Gloss=Nigeria
+24	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	21	mod@relcl	_	Gloss=REL.Fem
+25	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	24	comp:obj	_	Gloss=4.Prog.Rel
+26	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	25	comp:aux	_	Gloss=call.Vnoun.Masc
 27	"	"	PUNCT	_	_	28	punct	_	Gloss=PUNCT
 28	Sunday	Sunday	PROPN	_	_	26	comp:pred	_	Gloss=Sunday
 29	Concord	Concord	PROPN	_	_	28	flat@name	_	Gloss=Concord
 30	"	"	PUNCT	_	_	28	punct	_	Gloss=PUNCT
-31	ta藧	ya藧	AUX	_	Aspect=Perf|Gender=Fem|Person=3	18	comp:obj	_	Gloss=3Fem.Perf
-32	r虄ub霉藧t脿	r虄ubu藧t-	VERB	_	_	31	comp:aux	_	Gloss=write
-33	shar虄h矛藧	shar虄h矛藧	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=criticism.Masc
-34	脿	脿	ADP	_	_	32	comp:obl	_	Gloss=at
-35	k芒n	k芒n	ADP	_	_	34	comp:obj	_	Gloss=on_top_of
-36	b脿t没n	b脿tu藧	NOUN	_	Definite=Def|Gender=Masc	35	comp:obj	_	Gloss=discussion.Masc.Cons|SpaceAfter=No
+31	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	18	comp:obj	_	Gloss=3Fem.Perf
+32	r̃ubùːtà	r̃ubuːt-	VERB	_	_	31	comp:aux	_	Gloss=write
+33	shar̃hìː	shar̃hìː	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=criticism.Masc
+34	à	à	ADP	_	_	32	comp:obl	_	Gloss=at
+35	kân	kân	ADP	_	_	34	comp:obj	_	Gloss=on_top_of
+36	bàtûn	bàtuː	NOUN	_	Definite=Def|Gender=Masc	35	comp:obj	_	Gloss=discussion.Masc.Cons|SpaceAfter=No
 37	,	,	PUNCT	_	_	38	punct	_	Gloss=PUNCT
-38	tan脿藧	n脿藧	AUX	_	Aspect=Prog|Gender=Fem|Person=3	31	parataxis@conj	_	Gloss=3Fem.Prog
-39	c锚藧wa藧	c锚藧	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	38	comp:aux	_	Gloss=say.Vnoun.Fem
-40	ya藧	ya藧	AUX	_	Aspect=Perf|Gender=Masc|Person=3	39	comp:obj	_	Gloss=3Masc.Perf
-41	k脿ma藧t脿	kama藧t-	VERB	_	_	40	comp:aux	_	Gloss=be_appropriate
-42	脿	y脿	AUX	_	Mood=Sub|Person=4	41	comp:obj@agent	_	Gloss=4.Sub
-43	bar虄	bari藧	VERB	_	Definite=Cons|Gender=Fem	42	comp:aux	_	Gloss=leave
+38	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	31	parataxis@conj	_	Gloss=3Fem.Prog
+39	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	38	comp:aux	_	Gloss=say.Vnoun.Fem
+40	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	39	comp:obj	_	Gloss=3Masc.Perf
+41	kàmaːtà	kamaːt-	VERB	_	_	40	comp:aux	_	Gloss=be_appropriate
+42	à	yà	AUX	_	Mood=Sub|Person=4	41	comp:obj@agent	_	Gloss=4.Sub
+43	bar̃	bariː	VERB	_	Definite=Cons|Gender=Fem	42	comp:aux	_	Gloss=leave
 44	Lasisi	Lasisi	PROPN	_	_	45	subj	_	Gloss=Lasisi
-45	y脿	y脿	AUX	_	Gender=Masc|Mood=Sub|Person=3	43	comp:obj	_	Gloss=3Masc.Sub
-46	sh矛ga	shig-	VERB	_	_	45	comp:aux	_	Gloss=enter
-47	w脿藧s芒n	w脿藧sa藧	NOUN	_	Definite=Def|Number=Plur	46	comp:obj@G	_	Gloss=game.Masc.Def|SpaceAfter=No
+45	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	43	comp:obj	_	Gloss=3Masc.Sub
+46	shìga	shig-	VERB	_	_	45	comp:aux	_	Gloss=enter
+47	wàːsân	wàːsaː	NOUN	_	Definite=Def|Number=Plur	46	comp:obj@G	_	Gloss=game.Masc.Def|SpaceAfter=No
 48	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_12
-# text_en = Lasisi himself, wants to be allowed to box.
-# text = t貌藧 shi藧 ma藧 Lasisi k芒ns脿 yan脿藧 s么n 脿 bar矛藧 y脿 yi w脿藧s芒n.
-# text_ortho = T貌藧 shi藧 ma藧 Lasisi k芒ns脿 yan脿藧 s么n 脿 bar矛藧 y脿 yi wa藧s芒n.
-1	 t貌藧	 t貌藧	INTJ	_	_	6	discourse	_	Gloss=well
-2	shi藧	shi藧	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	dislocated@subj	_	Gloss=3Masc.Nom
-3	ma藧	ma藧	PART	_	PartType=Top	2	discourse@top	_	Gloss=even
+# text_en = Lasisi himself, wants to be allowed to box. 
+# text = tòː shiː maː Lasisi kânsà yanàː sôn à barìː yà yi wàːsân.
+# text_ortho = Tòː shiː maː Lasisi kânsà yanàː sôn à barìː yà yi waːsân.
+1	 tòː	 tòː	INTJ	_	_	6	discourse	_	Gloss=well
+2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	dislocated@subj	_	Gloss=3Masc.Nom
+3	maː	maː	PART	_	PartType=Top	2	discourse@top	_	Gloss=even
 4	Lasisi	Lasisi	PROPN	_	_	2	conj:appos	_	Gloss=Lasisi
-5	k芒ns脿	k芒ns脿	PRON	_	Gender=Masc|Person=3|PronType=Prs|Reflex=Yes	4	mod	_	Gloss=3Masc.Reflex
-6	yan脿藧	n脿藧	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Prog
-7	s么n	so藧	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	Gloss=want.Vnoun.Masc.Cons
-8	脿	y脿	AUX	_	Mood=Sub|Person=4	7	comp:obj	_	Gloss=4.Sub
-9	bar矛藧	bar矛藧	VERB	_	_	8	comp:aux	_	Gloss=leave
-10	y脿	y脿	AUX	_	Gender=Masc|Mood=Sub|Person=3	8	parataxis@mod	_	Gloss=3Masc.Sub
+5	kânsà	kânsà	PRON	_	Gender=Masc|Person=3|PronType=Prs|Reflex=Yes	4	mod	_	Gloss=3Masc.Reflex
+6	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Prog
+7	sôn	soː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	Gloss=want.Vnoun.Masc.Cons
+8	à	yà	AUX	_	Mood=Sub|Person=4	7	comp:obj	_	Gloss=4.Sub
+9	barìː	barìː	VERB	_	_	8	comp:aux	_	Gloss=leave
+10	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	8	parataxis@mod	_	Gloss=3Masc.Sub
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
-12	w脿藧s芒n	w脿藧sa藧	NOUN	_	Definite=Def	11	comp:pred	_	Gloss=game.Masc.Def|SpaceAfter=No
+12	wàːsân	wàːsaː	NOUN	_	Definite=Def	11	comp:pred	_	Gloss=game.Masc.Def|SpaceAfter=No
 13	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_13
-# text_en = Well now here are some of the results of the football games of the African Cup.
-# text = t貌藧 y脿nzu kuma g脿藧 wasu d脿g脿 s脿藧k脿makon w脿藧s脿nn卯n d脿 ak脿 yi na g脿藧sar虄 茩wallon 茩af脿藧 don c卯n ko藧f矛n 茩as脿藧shen Af谋r虄k脿.
-# text_ortho = T貌藧 y脿nzu kuma g脿藧 wasu d脿g脿 s脿藧k脿makon w脿藧s脿nn卯n d脿 ak脿 yi na g脿藧sar虄 茩wallon 茩af脿藧 don c卯n Ko藧f矛n 茦as脿藧shen Af谋r虄k脿.
-1	t貌藧	t貌藧	INTJ	_	PartType=Disc	4	discourse	_	Gloss=well
-2	y脿nzu	y脿nzu	ADV	_	_	4	mod	_	Gloss=now
+# text_en = Well now here are some of the results of the football games of the African Cup. 
+# text = tòː yànzu kuma gàː wasu dàgà sàːkàmakon wàːsànnîn dà akà yi na gàːsar̃ ƙwallon ƙafàː don cîn koːfìn ƙasàːshen Afır̃kà.
+# text_ortho = Tòː yànzu kuma gàː wasu dàgà sàːkàmakon wàːsànnîn dà akà yi na gàːsar̃ ƙwallon ƙafàː don cîn Koːfìn Ƙasàːshen Afır̃kà.
+1	tòː	tòː	INTJ	_	PartType=Disc	4	discourse	_	Gloss=well
+2	yànzu	yànzu	ADV	_	_	4	mod	_	Gloss=now
 3	kuma	kuma	PART	_	PartType=Disc	2	discourse@top	_	Gloss=also
-4	g脿藧	g脿藧	PART	_	PartType=Pred	0	root	_	Gloss=here_is
+4	gàː	gàː	PART	_	PartType=Pred	0	root	_	Gloss=here_is
 5	wasu	wani	PRON	_	Definite=Spec|Number=Plur	4	subj	_	Gloss=some.Plur.Spec
-6	d脿g脿	d脿g脿	ADP	_	_	5	mod	_	Gloss=from
-7	s脿藧k脿makon	s脿藧k脿mako藧	NOUN	_	Definite=Cons	6	comp:obj	_	Gloss=result.Masc.Cons
-8	w脿藧s脿nn卯n	w脿藧sa藧	NOUN	_	Definite=Def|Number=Plur|Person=3	7	mod	_	Gloss=game.Plur.Def
-9	d脿	d脿	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
-10	ak脿	ya藧	AUX	_	Aspect=Perf|Person=4|Relative=Rel	9	comp:obj	_	Gloss=4.Perf.Rel
+6	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=from
+7	sàːkàmakon	sàːkàmakoː	NOUN	_	Definite=Cons	6	comp:obj	_	Gloss=result.Masc.Cons
+8	wàːsànnîn	wàːsaː	NOUN	_	Definite=Def|Number=Plur|Person=3	7	mod	_	Gloss=game.Plur.Def
+9	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
+10	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	9	comp:obj	_	Gloss=4.Perf.Rel
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
 12	na	na	PART	_	Case=Gen|PartType=Case	7	mod	_	Gloss=Gen
-13	g脿藧sar虄	g脿藧sa藧	NOUN	_	Definite=Cons|Gender=Fem	12	comp:obj	_	Gloss=competion.Fem.Cons
-14	茩wallon	茩wallon	NOUN	_	Definite=Cons	13	mod	_	Gloss=ball.Masc.Cons
-15	茩af脿藧	茩af脿藧	NOUN	_	Gender=Fem	14	compound	_	Gloss=foot.Fem
+13	gàːsar̃	gàːsaː	NOUN	_	Definite=Cons|Gender=Fem	12	comp:obj	_	Gloss=competion.Fem.Cons
+14	ƙwallon	ƙwallon	NOUN	_	Definite=Cons	13	mod	_	Gloss=ball.Masc.Cons
+15	ƙafàː	ƙafàː	NOUN	_	Gender=Fem	14	compound	_	Gloss=foot.Fem
 16	don	don	SCONJ	_	_	13	mod	_	Gloss=in_order_to
-17	c卯n	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	comp:obj	_	Gloss=win.Vnoun.Masc.Cons
-18	ko藧f矛n	ko藧f矛藧	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	Gloss=cup.Masc.Cons
-19	茩as脿藧shen	茩asa藧	NOUN	_	Definite=Cons|Number=Plur	18	comp:obj	_	Gloss=country.Plur.Cons
-20	Af谋r虄k脿	Af谋r虄k脿	PROPN	_	_	19	mod	_	Gloss=Africa|SpaceAfter=No
+17	cîn	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	comp:obj	_	Gloss=win.Vnoun.Masc.Cons
+18	koːfìn	koːfìː	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	Gloss=cup.Masc.Cons
+19	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	18	comp:obj	_	Gloss=country.Plur.Cons
+20	Afır̃kà	Afır̃kà	PROPN	_	_	19	mod	_	Gloss=Africa|SpaceAfter=No
 21	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_14
-# text_en = The 'Bizerte' team of Tunisia beat the 'Al-Merreh' team of Sudan by the score of one-zero for Tunisia.
-# text = 茩ung矛yar虄 " Bizerte " ta T霉藧ni藧siy脿 ta藧 la藧sh猫 茩ung矛yar虄 " Al-Merrekh " ta Sud芒n d脿 c卯藧 蓷aya d脿 b芒藧 ko藧 蓷aya 脿 T霉藧ni藧siy脿.
-# text_ortho = 茦ung矛yar虄 'Bizerte' ta T霉藧ni藧siy脿 ta藧 la藧sh猫 茩ung矛yar虄 Al-Merrekh' ta Sud芒n d脿 c卯藧 蓷aya d脿 b芒藧 ko藧 蓷aya 脿 T霉藧ni藧siy脿.
-1	茩ung矛yar虄	茩ung矛ya藧	NOUN	_	Definite=Cons|Gender=Fem	3	mod@desc	_	Gloss=association.Fem.Cons
+# text_en = The 'Bizerte' team of Tunisia beat the 'Al-Merreh' team of Sudan by the score of one-zero for Tunisia. 
+# text = ƙungìyar̃ " Bizerte " ta Tùːniːsiyà taː laːshè ƙungìyar̃ " Al-Merrekh " ta Sudân dà cîː ɗaya dà bâː koː ɗaya à Tùːniːsiyà.
+# text_ortho = Ƙungìyar̃ 'Bizerte' ta Tùːniːsiyà taː laːshè ƙungìyar̃ Al-Merrekh' ta Sudân dà cîː ɗaya dà bâː koː ɗaya à Tùːniːsiyà.
+1	ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	3	mod@desc	_	Gloss=association.Fem.Cons
 2	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 3	Bizerte	Bizerte	PROPN	_	_	7	subj	_	Gloss=Bizerte|wordform='Bizerte
 4	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT|wordform='
 5	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	3	mod	_	Gloss=Gen.Fem
-6	T霉藧ni藧siy脿	T霉藧ni藧siy脿	PROPN	_	_	5	comp:obj	_	Gloss=Tunisia
-7	ta藧	ya藧	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
-8	la藧sh猫	la藧s-	VERB	_	_	7	comp:aux	_	Gloss=beat
-9	茩ung矛yar虄	茩ung矛ya藧	NOUN	_	Definite=Cons|Gender=Fem	11	mod@desc	_	Gloss=association.Fem.Cons
+6	Tùːniːsiyà	Tùːniːsiyà	PROPN	_	_	5	comp:obj	_	Gloss=Tunisia
+7	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
+8	laːshè	laːs-	VERB	_	_	7	comp:aux	_	Gloss=beat
+9	ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	11	mod@desc	_	Gloss=association.Fem.Cons
 10	"	"	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 11	Al-Merrekh	Al-Merrekh	PROPN	_	_	8	comp:obj	_	Gloss=Al-Merrekh
 12	"	"	PUNCT	_	_	11	punct	_	Gloss=PUNCT|wordform='
 13	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	11	mod	_	Gloss=Gen.Fem
-14	Sud芒n	Sud芒n	PROPN	_	Definite=Cons|Number=Plur	13	comp:obj	_	Gloss=Sudan
-15	d脿	d脿	CCONJ	_	_	8	mod	_	Gloss=and
-16	c卯藧	c卯藧	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=score.Masc
-17	蓷aya	蓷aya	NUM	_	_	16	mod:num	_	Gloss=one
-18	d脿	d脿	CCONJ	_	_	19	cc	_	Gloss=and
-19	b芒藧	ba藧b霉	PART	_	PartType=Pred|Polarity=Neg	17	conj:coord	_	Gloss=there_is.Neg
-20	ko藧	ko藧	ADV	_	_	21	mod	_	Gloss=even
-21	蓷aya	蓷aya	NUM	_	_	19	subj	_	Gloss=one
-22	脿	脿	ADP	_	_	8	mod	_	Gloss=at
-23	T霉藧ni藧siy脿	T霉藧ni藧siy脿	PROPN	_	_	22	comp:obj	_	Gloss=Tunisia|SpaceAfter=No
+14	Sudân	Sudân	PROPN	_	Definite=Cons|Number=Plur	13	comp:obj	_	Gloss=Sudan
+15	dà	dà	CCONJ	_	_	8	mod	_	Gloss=and
+16	cîː	cîː	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=score.Masc
+17	ɗaya	ɗaya	NUM	_	_	16	mod:num	_	Gloss=one
+18	dà	dà	CCONJ	_	_	19	cc	_	Gloss=and
+19	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	17	conj:coord	_	Gloss=there_is.Neg
+20	koː	koː	ADV	_	_	21	mod	_	Gloss=even
+21	ɗaya	ɗaya	NUM	_	_	19	subj	_	Gloss=one
+22	à	à	ADP	_	_	8	mod	_	Gloss=at
+23	Tùːniːsiyà	Tùːniːsiyà	PROPN	_	_	22	comp:obj	_	Gloss=Tunisia|SpaceAfter=No
 24	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_15
-# text_en = The 'Asi Bengourou' team of Ivory Coast beat the 'Patronage' team of Liberia by the score of three to one.
-# text = 茩ung矛yar虄 " Asi Abengourou " ta A藧bir虄u Kw芒s ta藧 la藧sh猫 茩ung矛yar虄 " Patronage " ta L脿藧be藧r虄iy脿 d脿 c卯藧 uk霉 d脿 蓷aya.
-# text_ortho = 茦ung矛yar虄 'Asi Abengourou' ta A藧bir虄u Kw芒s ta藧 la藧sh猫 茩ung矛yar虄 'Patronage' ta L脿藧be藧r虄iy脿 d脿 c卯藧 uk霉 d脿 蓷aya.
-1	茩ung矛yar虄	茩ung矛ya藧	NOUN	_	Definite=Cons|Gender=Fem	3	mod@desc	_	Gloss=association.Fem.Cons
+# text_en = The 'Asi Bengourou' team of Ivory Coast beat the 'Patronage' team of Liberia by the score of three to one. 
+# text = ƙungìyar̃ " Asi Abengourou " ta Aːbir̃u Kwâs taː laːshè ƙungìyar̃ " Patronage " ta Làːbeːr̃iyà dà cîː ukù dà ɗaya.
+# text_ortho = Ƙungìyar̃ 'Asi Abengourou' ta Aːbir̃u Kwâs taː laːshè ƙungìyar̃ 'Patronage' ta Làːbeːr̃iyà dà cîː ukù dà ɗaya.
+1	ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	3	mod@desc	_	Gloss=association.Fem.Cons
 2	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 3	Asi	Asi	PROPN	_	_	9	subj	_	Gloss=Asi
 4	Abengourou	Abengourou	PROPN	_	Gender=Masc	3	flat@name	_	Gloss=Abengourou
 5	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT|wordform='
 6	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	3	mod	_	Gloss=Gen.Fem
-7	A藧bir虄u	A藧bir虄u	PROPN	_	_	6	comp:obj	_	Gloss=Ivory
-8	Kw芒s	Kw芒s	PROPN	_	_	7	flat@name	_	Gloss=Coast
-9	ta藧	ya藧	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
-10	la藧sh猫	la藧s-	VERB	_	_	9	comp:aux	_	Gloss=beat
-11	茩ung矛yar虄	茩ung矛ya藧	NOUN	_	Definite=Cons|Gender=Masc	13	mod@desc	_	Gloss=association.Fem.Cons
+7	Aːbir̃u	Aːbir̃u	PROPN	_	_	6	comp:obj	_	Gloss=Ivory
+8	Kwâs	Kwâs	PROPN	_	_	7	flat@name	_	Gloss=Coast
+9	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
+10	laːshè	laːs-	VERB	_	_	9	comp:aux	_	Gloss=beat
+11	ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Masc	13	mod@desc	_	Gloss=association.Fem.Cons
 12	"	"	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	Patronage	Patronage	PROPN	_	_	10	comp:obj	_	Gloss=Patronage|wordform='Patronage
 14	"	"	PUNCT	_	_	13	punct	_	Gloss=PUNCT|wordform='
 15	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	13	mod	_	Gloss=Gen.Fem
-16	L脿藧be藧r虄iy脿	L脿藧be藧r虄iy脿	PROPN	_	_	15	comp:obj	_	Gloss=Liberia
-17	d脿	d脿	CCONJ	_	_	10	comp:obl	_	Gloss=and
-18	c卯藧	c卯藧	NOUN	_	Gender=Masc	17	comp:obj	_	Gloss=score.Masc
-19	uk霉	uk霉	NUM	_	_	18	mod:num	_	Gloss=three
-20	d脿	d脿	CCONJ	_	_	21	cc	_	Gloss=and
-21	蓷aya	蓷aya	NUM	_	_	19	conj:coord	_	Gloss=one|SpaceAfter=No
+16	Làːbeːr̃iyà	Làːbeːr̃iyà	PROPN	_	_	15	comp:obj	_	Gloss=Liberia
+17	dà	dà	CCONJ	_	_	10	comp:obl	_	Gloss=and
+18	cîː	cîː	NOUN	_	Gender=Masc	17	comp:obj	_	Gloss=score.Masc
+19	ukù	ukù	NUM	_	_	18	mod:num	_	Gloss=three
+20	dà	dà	CCONJ	_	_	21	cc	_	Gloss=and
+21	ɗaya	ɗaya	NUM	_	_	19	conj:coord	_	Gloss=one|SpaceAfter=No
 22	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_16
-# text_en = In Bamako, the 'Stade Malien' team of Mali beat the 'USKA' team of Algeria by the score of one-zero.
-# text = 脿 B脿ma藧k貌 kuma, 茩ung矛yar虄 " Stade Malien " ta 茩asar虄 M脿藧li ta藧 la藧sh猫 茩ung矛yar虄 " USKA " ta 脌lje藧r虄iy脿 d脿 c卯藧 蓷aya d脿 b芒藧 ko藧 蓷aya.
-# text_ortho = 脌 B脿ma藧k貌 kuma, 茩ung矛yar虄 'Stade Malien' ta 茩asar虄 M脿藧li ta藧 la藧sh猫 茩ung矛yar虄 'USKA' ta 脌lje藧r虄iy脿 d脿 c卯藧 蓷aya d脿 b芒藧 ko藧 蓷aya.
-1	脿	脿	ADP	_	_	13	mod	_	Gloss=at
-2	B脿ma藧k貌	B脿ma藧k貌	PROPN	_	_	1	comp:obj	_	Gloss=Bamako
+# text_en = In Bamako, the 'Stade Malien' team of Mali beat the 'USKA' team of Algeria by the score of one-zero. 
+# text = à Bàmaːkò kuma, ƙungìyar̃ " Stade Malien " ta ƙasar̃ Màːli taː laːshè ƙungìyar̃ " USKA " ta Àljeːr̃iyà dà cîː ɗaya dà bâː koː ɗaya.
+# text_ortho = À Bàmaːkò kuma, ƙungìyar̃ 'Stade Malien' ta ƙasar̃ Màːli taː laːshè ƙungìyar̃ 'USKA' ta Àljeːr̃iyà dà cîː ɗaya dà bâː koː ɗaya.
+1	à	à	ADP	_	_	13	mod	_	Gloss=at
+2	Bàmaːkò	Bàmaːkò	PROPN	_	_	1	comp:obj	_	Gloss=Bamako
 3	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also|SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-5	茩ung矛yar虄	茩ung矛ya藧	NOUN	_	Definite=Cons|Gender=Fem	7	mod@desc	_	Gloss=association.Fem.Cons
+5	ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	7	mod@desc	_	Gloss=association.Fem.Cons
 6	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 7	Stade	Stade	PROPN	_	_	13	subj	_	Gloss=Stade
 8	Malien	Malien	PROPN	_	_	7	flat@name	_	Gloss=Malien
 9	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT|wordform='
 10	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	7	mod	_	Gloss=Gen.Fem
-11	茩asar虄	茩asa藧	NOUN	_	Definite=Cons|Gender=Fem	12	mod@desc	_	Gloss=country.Fem.Cons
-12	M脿藧li	M脿藧li	PROPN	_	_	10	comp:obj	_	Gloss=Mali
-13	ta藧	ya藧	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
-14	la藧sh猫	la藧s-	VERB	_	_	13	comp:aux	_	Gloss=beat
-15	茩ung矛yar虄	茩ung矛ya藧	NOUN	_	Definite=Cons|Gender=Fem	17	mod@desc	_	Gloss=association.Fem.Cons
+11	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	12	mod@desc	_	Gloss=country.Fem.Cons
+12	Màːli	Màːli	PROPN	_	_	10	comp:obj	_	Gloss=Mali
+13	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
+14	laːshè	laːs-	VERB	_	_	13	comp:aux	_	Gloss=beat
+15	ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	17	mod@desc	_	Gloss=association.Fem.Cons
 16	"	"	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 17	USKA	USKA	PROPN	_	_	14	comp:obj	_	Gloss=USKA
 18	"	"	PUNCT	_	_	17	punct	_	Gloss=PUNCT|wordform='
 19	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	17	mod	_	Gloss=Gen.Fem
-20	脌lje藧r虄iy脿	脌lje藧r虄iy脿	PROPN	_	_	19	comp:obj	_	Gloss=Algeria
-21	d脿	d脿	CCONJ	_	_	14	comp:obl	_	Gloss=and
-22	c卯藧	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	comp:obj	_	Gloss=consume.Vnoun.Masc
-23	蓷aya	蓷aya	NUM	_	_	22	mod	_	Gloss=one
-24	d脿	d脿	CCONJ	_	_	25	cc	_	Gloss=and
-25	b芒藧	ba藧b霉	PART	_	PartType=Pred|Polarity=Neg	23	conj:coord	_	Gloss=there_is.Neg
-26	ko藧	ko藧	ADV	_	_	27	mod	_	Gloss=even
-27	蓷aya	蓷aya	NUM	_	_	25	subj	_	Gloss=one|SpaceAfter=No
+20	Àljeːr̃iyà	Àljeːr̃iyà	PROPN	_	_	19	comp:obj	_	Gloss=Algeria
+21	dà	dà	CCONJ	_	_	14	comp:obl	_	Gloss=and
+22	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	comp:obj	_	Gloss=consume.Vnoun.Masc
+23	ɗaya	ɗaya	NUM	_	_	22	mod	_	Gloss=one
+24	dà	dà	CCONJ	_	_	25	cc	_	Gloss=and
+25	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	23	conj:coord	_	Gloss=there_is.Neg
+26	koː	koː	ADV	_	_	27	mod	_	Gloss=even
+27	ɗaya	ɗaya	NUM	_	_	25	subj	_	Gloss=one|SpaceAfter=No
 28	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
