@@ -515,7 +515,7 @@
 # text_en = This agency has been successful in catching drug dealers despite the fact that it is experiencing trouble in catching the chiefs of the drug dealers and taking them to court.
 # text_ortho = Ita dai wannàn hùkuːmàr̃ taː ci nasar̃àr̃ kaːmà màːsu ɗaukàr̃ miyàːgun ƙwaːyoːyiː, koː dà yakè tanàː saːmùn wàhalàː sòːsai wajen kaːmà mânyan màːsu cìnikin ƙwaːyoːyîn, dà kuma yi musù shàr̃i'àː.
 # text = ita dai wannàn hùkuːmàr̃ taː ci nasar̃àr̃ kaːmà màːsu ɗaukàr̃ miyàːgun ƙwaːyoːyiː, koː dà yakè tanàː saːmùn wàhalàː sòːsai wajen kaːmà mânyan màːsu cìnikin ƙwaːyoːyîn, dà kuma yi musù shàr̃i'àː.
-1	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3	5	dislocated@subj	_	Gloss=3Fem.Nom
+1	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	5	dislocated@subj	_	Gloss=3Fem.Nom
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
 3	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	4	det	_	Gloss=ProxS.Sing
 4	hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Def|Gender=Fem	1	conj:appos	_	Gloss=authority.Fem.Def|wordform=huːkuːmaːr
@@ -645,8 +645,8 @@
 # sent_id = 14_Miyagun_kwayoyi_18a
 # text_en = Mr. Oyakhilome, as for him, denied this accusation.
 # text_ortho = Shiː Mr Oyakhilome dai yaː musàntà wannàn zàrgîn ,
-# text = shiː Mr Oyakhilome dai yaː musàntà wannàn zàrgîn ,
-1	shiː	shiː	PRON	_	Gender=Masc	5	dislocated@subj	_	Gloss=3Masc.Nom
+# text = shiː Mr Oyakhilome dai yaː musàntà wannàn zàrgîn,
+1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3	5	dislocated@subj	_	Gloss=3Masc.Nom
 2	Mr	Mr	PROPN	_	_	3	mod@desc	_	Gloss=Mr
 3	Oyakhilome	Oyakhilome	PROPN	_	_	1	conj:appos	_	Gloss=Oyakhilome
 4	dai	dai	PART	_	PartType=Top	3	discourse@top	_	Gloss=anyway
