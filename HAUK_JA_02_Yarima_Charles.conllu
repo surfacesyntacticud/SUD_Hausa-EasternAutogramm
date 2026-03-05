@@ -41,7 +41,7 @@
 23	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	24	comp:pred	_	Gloss=3Fem.Nom
 24	cèː	neː	AUX	_	Gender=Fem	0	root	_	Gloss=be.Fem
 25	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	24	dislocated@comp	_	Gloss=sign.Fem
-26	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case|Person=3	25	mod	_	Gloss=Gen.Fem
+26	ta	na	PART	_	Case=Gen|Gender=Fem	25	mod	_	Gloss=Gen.Fem
 27	farkoː	farkoː	NOUN	_	Gender=Masc	26	comp:obj	_	Gloss=beginning.Masc
 28	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=COMP
 29	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	28	comp:obj	_	Gloss=3Fem.Rel
@@ -168,7 +168,7 @@
 20	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=COMP
 21	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	20	comp:obj	_	Gloss=4.Perf.Rel
 22	yi	yi	VERB	_	_	21	comp:aux	_	Gloss=do
-23	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	22	comp:obl	_	Gloss=3Masc.Dat
+23	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	22	comp:obl	_	Gloss=3Masc.Dat
 24	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	22	mod	_	Gloss=time.Masc.Def
 25	dà	dà	SCONJ	_	_	24	comp:obl	_	Gloss=COMP
 26	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	27	subj	_	Gloss=Nigeria

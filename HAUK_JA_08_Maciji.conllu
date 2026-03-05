@@ -10,7 +10,7 @@
 6	dafìː	dafìː	NOUN	_	Gender=Masc	5	compound	_	Gloss=poison.Masc
 
 # sent_id = 08_Maciji_2
-# text_en = In the town of 'Gboko' in the state of Benue, there in the north of Nigeria, some seven people were taken to hospital after they filled their belly with food whose sauce they made with the meat of a huge snake. 
+# text_en = In the town of 'Gboko' in the state of Benue, there in the north of Nigeria, some seven people were taken to hospital after they filled their belly with food whose sauce they made with the meat of a huge snake.
 # text_ortho = À gàrin " Gboko " dà kèː jihàr̃ Binuwài can areːwacin Nàːjeːr̃iyàː an kai wasu mutàneː gùdaː takwàs asìbitì baːyân dà sukà cikà cikìnsù dà àbincîn dà sukà yi miyàr̃sà dà naːmàn wani shirgeːgèn macìːjiː.
 # text = à gàrin " Gboko " dà kèː jihàr̃ Binuwài can areːwacin Nàːjeːr̃iyàː an kai wasu mutàneː gùdaː takwàs asìbitì baːyân dà sukà cikà cikìnsù dà àbincîn dà sukà yi miyàr̃sà dà naːmàn wani shirgeːgèn macìːjiː.
 1	à	à	ADP	_	_	13	mod	_	Gloss=at
@@ -19,7 +19,7 @@
 4	Gboko	Gboko	PROPN	_	_	1	comp:obj	_	Gloss=Gboko
 5	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 6	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=COMP
-7	kèː	nàː	AUX	_	Aspect=Prog	6	comp:obj	_	Gloss=Prog.Rel
+7	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	6	comp:obj	_	Gloss=Prog.Rel
 8	jihàr̃	jihàr̃	ADP	_	Definite=Cons|Gender=Fem	9	mod@desc	_	Gloss=state.Fem.Cons
 9	Binuwài	Binuwài	PROPN	_	_	7	comp:pred	_	Gloss=Benue
 10	can	can	ADV	_	Deixis=Remt|PronType=Dem	9	conj:appos	_	Gloss=Remt
@@ -36,7 +36,7 @@
 21	dà	dà	SCONJ	_	_	20	comp:obj	_	Gloss=COMP|InIdiom=Yes
 22	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	20	comp:obj	_	Gloss=3Plur.Perf.Rel
 23	cikà	cik-	VERB	_	_	22	comp:aux	_	Gloss=fill
-24	cikìn	cikìː	NOUN	_	Definite=Cons	23	comp:obj	_	Gloss=belly.Masc.Cons|SpaceAfter=No|wordform=cikìnsù
+24	cikìn	cikìː	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=belly.Masc.Cons|SpaceAfter=No|wordform=cikìnsù
 25	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	24	mod	_	Gloss=3Plur.Gen
 26	dà	dà	ADP	_	_	23	comp:obl	_	Gloss=with
 27	àbincîn	àbinciː	NOUN	_	Definite=Def|Gender=Masc	26	comp:obj	_	Gloss=food.Masc.Def
@@ -101,7 +101,7 @@
 1	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
 2	yi	yi	VERB	_	_	1	comp:aux	_	Gloss=do
 3	kusan	kusan	ADV	_	_	2	mod	_	Gloss=almost
-4	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	2	comp:pred	_	Gloss=day.Masc
+4	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	comp:pred	_	Gloss=day.Masc
 5	ukù	ukù	NUM	_	_	4	mod:num	_	Gloss=three
 6	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	2	mod	_	Gloss=3Plur.Prog
 7	ta	ta	PART	_	Aspect=Iter	6	compound:prt	_	Gloss=Iter
@@ -120,7 +120,7 @@
 20	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 08_Maciji_4
-# text_en = Well, where the problem arose is after they had eaten the snake that they had cooked, suddenly, these people started feeling that something was stirring inside their stomach. 
+# text_en = Well, where the problem arose is after they had eaten the snake that they had cooked, suddenly, these people started feeling that something was stirring inside their stomach.
 # text_ortho = Tòː indà màtsalàr̃ ta faːrà taːshìː shiː nèː baːyân dà sukà cînyeː macìːjîn dà sukà dafàn, nan dà nan sai waɗànnân mutàːneː sukà faːrà jîn wani àbù nàː mur̃ɗàː musù cikin cikkunànsù .
 # text = tòː indà màtsalàr̃ ta faːrà taːshìː shiː nèː baːyân dà sukà cînyeː macìːjîn dà sukà dafàn, nan dà nan sai waɗànnân mutàːneː sukà faːrà jîn wani àbù nàː mur̃ɗàː musù cikin cikkunànsù .
 1	tòː	tòː	INTJ	_	_	8	discourse	_	Gloss=well
@@ -165,16 +165,16 @@
 # text = dàgà nan kuma sai sukà shìga yîn amai.Dàgà nan kuma sai sukà shìga yîn amai.
 1	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=from
 2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp:obj	_	Gloss=ProxH
-3	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+3	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 4	sai	sai	ADV	_	_	5	mod	_	Gloss=then
 5	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
-6	shìga	shig-	VERB	_	ExtPos=NOUN|Gender=Fem	5	comp:aux	_	Gloss=enter
+6	shìga	shig-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	5	comp:aux	_	Gloss=enter
 7	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:obj@G	_	Gloss=do.Vnoun.Masc.Cons
 8	amai	amai	NOUN	_	Gender=Masc	7	comp:pred	_	Gloss=vomiting.Masc|SpaceAfter=No
 9	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 08_Maciji_6
-# text_en = Then, some neighbours took those who had eaten the boiled snake to the hospital of Gboko, where doctors gathered and work for hours to save their lives. 
+# text_en = Then, some neighbours took those who had eaten the boiled snake to the hospital of Gboko, where doctors gathered and work for hours to save their lives.
 # text_ortho = Nan dà nan sai maƙwàbtaː sukà kwàːshi waɗànnân mutàːnên dà sukà shaː gaːrar̃ dàfaffen macìːjîn zuwàː asìbitìn Gboko, indà likitoːciː sukà tàːru sukà yi ta aikìː har̃ tsawon saː'oː'iː dòːmin neːman cèːton raːyukànsù .
 # text = nan dà nan sai maƙwàbtaː sukà kwàːshi waɗànnân mutàːnên dà sukà shaː gaːrar̃ dàfaffen macìːjîn zuwàː asìbitìn Gboko, indà likitoːciː sukà tàːru sukà yi ta aikìː har̃ tsawon saː'oː'iː dòːmin neːman cèːton raːyukànsù .
 1	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	6	mod	_	Gloss=ProxH
@@ -191,7 +191,7 @@
 12	shaː	shaː	VERB	_	_	11	comp:aux	_	Gloss=drink
 13	gaːrar̃	gaːraː	NOUN	_	Definite=Cons|Gender=Fem	12	comp:obj	_	Gloss=food_sp.Fem.Cons
 14	dàfaffen	dàfaffeː	ADJ	_	_	15	mod	_	Gloss=cooked
-15	macìːjîn	macìːjiː	NOUN	_	Definite=Def|Number=Plur	13	mod	_	Gloss=snake.Masc.Def
+15	macìːjîn	macìːjiː	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	13	mod	_	Gloss=snake.Masc.Def
 16	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc	7	comp:obl	_	Gloss=towards
 17	asìbitìn	asìbitìː	NOUN	_	Definite=Cons|Gender=Masc	16	comp:obj	_	Gloss=hospital.Masc.Cons
 18	Gboko	Gboko	PROPN	_	_	17	mod	_	Gloss=Gboko|SpaceAfter=No
@@ -210,14 +210,14 @@
 31	dòːmin	dòːmin	ADP	_	_	27	mod	_	Gloss=in_order_to
 32	neːman	neːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	31	comp:obj	_	Gloss=look_for.Vnoun.Masc.Cons
 33	cèːton	ceːt-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	32	comp:obj	_	Gloss=save.Vnoun.Masc.Cons
-34	raːyukàn	râi	NOUN	_	Definite=Cons|Number=Plur|Person=3	33	comp:obj	_	Gloss=life.Plur.Cons|SpaceAfter=No|wordform=raːyukànsù
+34	raːyukàn	râi	NOUN	_	Definite=Cons|Number=Plur	33	comp:obj	_	Gloss=life.Plur.Cons|SpaceAfter=No|wordform=raːyukànsù
 35	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	34	mod	_	Gloss=3Plur.Gen
 36	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 08_Maciji_7
-# text_en = When that happened, some hospital officials said that the snake meat that these people had eaten, and wich almost cost them their lifes, is one among the snakes that are really poisonous. 
-# text_ortho = Loːkàcîn dà hakàn kèː fàːruwaː, wasu jàːmi'an asìbitìn sukà cêː wai naːmàn macijîn dà waɗànnân mutàːnên sukà cînyeː wàndà kuma ya kusa zamaː sanàdin ajàlinsù - yanàː ɗaya dàgà cikin irìn màcìːzân nan nèː màːsu dafìn gàske.
-# text = loːkàcîn dà hakàn kèː fàːruwaː, wasu jàːmi'an asìbitìn sukà cêː wai naːmàn macijîn dà waɗànnân mutàːnên sukà cînyeː wàndà kuma ya kusa zamaː sanàdin ajàlinsù - yanàː ɗaya dàgà cikin irìn màcìːzân nan nèː màːsu dafìn gàske.
+# text_en = When that happened, some hospital officials said that the snake meat that these people had eaten, and wich almost cost them their lifes, is one among the snakes that are really poisonous.
+# text_ortho = Loːkàcîn dà hakàn kèː fàːruwaː, wasu jàːmi'an asìbitìn sukà cêː wai naːmàn macijîn dà waɗànnân mutàːnên sukà cînyeː wandà kuma ya kusa zamaː sanàdin ajàlinsù - yanàː ɗaya dàgà cikin irìn màcìːzân nan nèː màːsu dafìn gàske.
+# text = loːkàcîn dà hakàn kèː fàːruwaː, wasu jàːmi'an asìbitìn sukà cêː wai naːmàn macijîn dà waɗànnân mutàːnên sukà cînyeː wandà kuma ya kusa zamaː sanàdin ajàlinsù - yanàː ɗaya dàgà cikin irìn màcìːzân nan nèː màːsu dafìn gàske.
 1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	10	mod	_	Gloss=time.Masc.Def
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 3	hakàn	hakàn	PRON	_	_	4	subj	_	Gloss=this
@@ -229,7 +229,7 @@
 9	asìbitìn	asìbitìː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=hospital.Masc.Def
 10	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
 11	cêː	cêː	VERB	_	_	10	comp:aux	_	Gloss=say
-12	wai	wai	PART	_	PartType=Disc	29	discourse	_	Gloss=alledgedly
+12	wai	wai	PART	_	Evident=Nfh|PartType=Assert	29	discourse	_	Gloss=alledgedly
 13	naːmàn	naːmàː	NOUN	_	Definite=Cons|Gender=Masc	29	subj	_	Gloss=meat.Masc.Cons
 14	macijîn	macijiː	NOUN	_	Definite=Def|Gender=Masc	13	mod	_	Gloss=snake.Masc.Def
 15	dà	dà	SCONJ	_	_	14	mod@relcl	_	Gloss=COMP
@@ -237,13 +237,13 @@
 17	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	18	subj	_	Gloss=people.Plur.Def
 18	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	15	comp:obj	_	Gloss=3Plur.Perf.Rel
 19	cînyeː	cînyeː	VERB	_	_	18	comp:aux	_	Gloss=eat
-20	wàndà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	15	conj:coord	_	Gloss=REL.Masc
-21	kuma	kuma	PART	_	PartType=Disc	20	discourse@top	_	Gloss=also
+20	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	15	conj:coord	_	Gloss=REL.Masc
+21	kuma	kuma	PART	_	PartType=Top	20	discourse@top	_	Gloss=also
 22	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	20	comp:obj	_	Gloss=3Masc.Perf.Rel
 23	kusa	kusa	VERB	_	_	22	comp:obl	_	Gloss=be_almost
 24	zamaː	zama	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	23	comp:obj	_	Gloss=become.Vnoun.Masc
-25	sanàdin	sanàdiː	NOUN	_	Definite=Cons	24	comp:pred	_	Gloss=cause.Masc.Cons
-26	ajàlin	ajàliː	NOUN	_	Definite=Cons	25	mod	_	Gloss=end.Masc.Cons|SpaceAfter=No|wordform=ajàlinsù
+25	sanàdin	sanàdiː	NOUN	_	Definite=Cons|Gender=Masc	24	comp:pred	_	Gloss=cause.Masc.Cons
+26	ajàlin	ajàliː	NOUN	_	Definite=Cons|Gender=Masc	25	mod	_	Gloss=end.Masc.Cons|SpaceAfter=No|wordform=ajàlinsù
 27	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	26	mod	_	Gloss=3Plur.Gen
 28	-	-	PUNCT	_	_	29	punct	_	Gloss=PUNCT
 29	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	11	comp:obj	_	Gloss=3Masc.Prog
@@ -260,26 +260,26 @@
 40	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = 08_Maciji_8
-# text_en = They continued by saying that you should not eat their meat, especially seeing the number of days that it had cooked before it became soft. 
+# text_en = They continued by saying that you should not eat their meat, especially seeing the number of days that it had cooked before it became soft.
 # text_ortho = Sun kuma ƙaːràː dà cêːwaː baːàː cîn naːmànsù mùsammàn dai ganin yawàn kwàːnàkîn dà akà ɗaukàː anàː dafà macìːjîn kàːfin yà dàfu luɓus.
 # text = sun kuma ƙaːràː dà cêːwaː baːàː cîn naːmànsù mùsammàn dai ganin yawàn kwàːnàkîn dà akà ɗaukàː anàː dafà macìːjîn kàːfin yà dàfu luɓus.
 1	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
-2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	ƙaːràː	ƙaːr-	VERB	_	_	1	comp:aux	_	Gloss=increase
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with
 5	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:obj	_	Gloss=say.Vnoun.Fem
 6	baːàː	nàː	AUX	_	Aspect=Prog|Person=4|Polarity=Neg	5	comp:obj	_	Gloss=4.Prog.Neg
 7	cîn	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	Gloss=consume.Vnoun.Masc.Cons
-8	naːmàn	naːmàː	NOUN	_	Definite=Cons	7	comp:obj	_	Gloss=meat.Masc.Cons|SpaceAfter=No|wordform=naːmànsù
+8	naːmàn	naːmàː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=meat.Masc.Cons|SpaceAfter=No|wordform=naːmànsù
 9	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	8	mod	_	Gloss=3Plur.Gen
 10	mùsammàn	mùsammàn	ADV	_	_	12	mod	_	Gloss=especially
 11	dai	dai	PART	_	PartType=Top	10	discourse@top	_	Gloss=anyway
 12	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	mod	_	Gloss=seen.Vnoun.Masc.Cons
 13	yawàn	yawàn	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	Gloss=quantity.Masc.Cons
-14	kwàːnàkîn	kwaːnaː	NOUN	_	Definite=Def	13	mod	_	Gloss=day.Plur.Def
+14	kwàːnàkîn	kwaːnaː	NOUN	_	Definite=Def|Number=Plur	13	mod	_	Gloss=day.Plur.Def
 15	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=COMP
 16	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	15	comp:obj	_	Gloss=4.Perf.Rel
-17	ɗaukàː	ɗauk-	VERB	_	ExtPos=NOUN|Gender=Fem	16	comp:aux	_	Gloss=take
+17	ɗaukàː	ɗauk-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	16	comp:aux	_	Gloss=take
 18	anàː	nàː	AUX	_	Aspect=Prog|Person=4	17	mod	_	Gloss=4.Prog
 19	dafà	dafàː	VERB	_	_	18	comp:aux	_	Gloss=cook
 20	macìːjîn	macìːjiː	NOUN	_	Definite=Def|Number=Plur	19	comp:obj	_	Gloss=snake.Plur.Def
@@ -290,7 +290,7 @@
 25	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 08_Maciji_9
-# text_en = The officials appealed to the people who lived in the areal for them to stop taking dead animals home and cook them for food. 
+# text_en = The officials appealed to the people who lived in the areal for them to stop taking dead animals home and cook them for food.
 # text_ortho = Jàːmì'ân sun yi kiràː gà mutàːnên dà kèː zàune à yankìn dà sù kìyàːyi ɗaukàr̃ gaːwàwwakin dàbboːbiː sunàː tàfiyàː dà suː gidaː don sù dafàː sù sàːmu àbinci.
 # text = jàːmì'ân sun yi kiràː gà mutàːnên dà kèː zàune à yankìn dà sù kìyàːyi ɗaukàr̃ gaːwàwwakin dàbboːbiː sunàː tàfiyàː dà suː gidaː don sù dafàː sù sàːmu àbinci.
 1	jàːmì'ân	jaːmì'iː	PROPN	_	Definite=Def|Number=Plur	2	subj	_	Gloss=official.Plur.Def
@@ -324,11 +324,11 @@
 29	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 08_Maciji_10
-# text_en = Likewise, the hospital officials gave a warning concerning all sort of insecticides that farmers were using to prevent insects from damaging their crops. 
-# text_ortho = Hakà kuma jàːmì'an asìbitìn sun yi wani gàr̃gàɗiː gàme dà maːgungunàn kashè ƙwàːriː irìː dàbam dàbam wàɗàndà manòːmaː kèː àmfàniː dà suː don kadà wasu ƙwàːriː sù laːlàːtaː musù àmfàːnin goːnaː.
-# text = hakà kuma jàːmì'an asìbitìn sun yi wani gàr̃gàɗiː gàme dà maːgungunàn kashè ƙwàːriː irìː dàbam dàbam wàɗàndà manòːmaː kèː àmfàniː dà suː don kadà wasu ƙwàːriː sù laːlàːtaː musù àmfàːnin goːnaː.
+# text_en = Likewise, the hospital officials gave a warning concerning all sort of insecticides that farmers were using to prevent insects from damaging their crops.
+# text_ortho = Hakà kuma jàːmì'an asìbitìn sun yi wani gàr̃gàɗiː gàme dà maːgungunàn kashè ƙwàːriː irìː dàbam dàbam waɗàndà manòːmaː kèː àmfàniː dà suː don kadà wasu ƙwàːriː sù laːlàːtaː musù àmfàːnin goːnaː.
+# text = hakà kuma jàːmì'an asìbitìn sun yi wani gàr̃gàɗiː gàme dà maːgungunàn kashè ƙwàːriː irìː dàbam dàbam waɗàndà manòːmaː kèː àmfàniː dà suː don kadà wasu ƙwàːriː sù laːlàːtaː musù àmfàːnin goːnaː.
 1	hakà	hakà	ADV	_	_	5	mod	_	Gloss=thus
-2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	jàːmì'an	jaːmì'iː	NOUN	_	Definite=Cons|Number=Plur	5	subj	_	Gloss=leader.Plur.Cons
 4	asìbitìn	asìbitìː	NOUN	_	Definite=Def|Gender=Masc	3	mod	_	Gloss=hospital.Masc.Def
 5	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
@@ -343,7 +343,7 @@
 14	irìː	irìː	NOUN	_	Gender=Masc	11	mod	_	Gloss=type.Masc
 15	dàbam	dàbam	ADJ	_	_	14	mod	_	Gloss=different
 16	dàbam	dàbam	ADJ	_	_	15	conj:redup	_	Gloss=different
-17	wàɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	11	mod@relcl	_	Gloss=REL.Plur
+17	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	11	mod@relcl	_	Gloss=REL.Plur
 18	manòːmaː	manòːmiː	NOUN	_	Number=Plur	19	subj	_	Gloss=farmer.Plur
 19	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	17	comp:obj	_	Gloss=Prog.Rel
 20	àmfàniː	àmfàniː	NOUN	_	Gender=Masc	19	comp:aux	_	Gloss=using.Masc

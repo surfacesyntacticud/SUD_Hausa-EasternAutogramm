@@ -319,7 +319,7 @@
 4	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	5	det	_	Gloss=ProxS.Masc
 5	loːkàciː	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=time.Masc
 6	nèː	neː	PART	_	PartType=Foc	3	discourse@foc	_	Gloss=Emph
-7	na	yaː	AUX	_	Aspect=Perf|Number=Sing|Person=1	3	comp:cleft	_	Gloss=1Sing.Perf.Rel
+7	na	yaː	AUX	_	Aspect=Perf|Number=Sing|Person=1|Relative=Rel	3	comp:cleft	_	Gloss=1Sing.Perf.Rel
 8	faːrà	faːr-	ADP	_	_	7	comp:obj	_	Gloss=begin
 9	kòːyon	koːy-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:obj	_	Gloss=learn.Vnoun.Masc.Cons
 10	yaddà	yaddà	ADV	_	PronType=Rel	9	comp:obj	_	Gloss=how
@@ -526,7 +526,7 @@
 10	Surulere	Surulere	PROPN	_	_	7	comp:obj	_	Gloss=Surulere
 11	"	"	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 12	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=COMP
-13	kèː	nàː	AUX	_	Aspect=Prog	12	comp:obj	_	Gloss=Prog.Rel
+13	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	12	comp:obj	_	Gloss=Prog.Rel
 14	baːyan	baːyan	ADP	_	_	13	comp:pred	_	Gloss=after
 15	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	16	mod@desc	_	Gloss=city.Masc.Cons
 16	Ìkko	Ìkko	PROPN	_	_	14	comp:obj	_	Gloss=Lagos|SpaceAfter=No
@@ -615,7 +615,7 @@
 30	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	29	mod	_	Gloss=house.Masc.Cons
 31	Fela	Fela	PROPN	_	_	30	mod	_	Gloss=Fela
 32	dà	dà	SCONJ	_	_	30	mod@relcl	_	Gloss=COMP
-33	kèː	nàː	AUX	_	Aspect=Prog	32	comp:obj	_	Gloss=Prog.Rel
+33	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	32	comp:obj	_	Gloss=Prog.Rel
 34	Ìkko	Ìkko	PROPN	_	_	33	comp:pred	_	Gloss=Lagos|SpaceAfter=No|wordform=Ikko
 35	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
@@ -825,7 +825,7 @@
 24	indà	indà	SCONJ	_	PronType=Rel	22	mod@relcl	_	Gloss=where
 25	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	24	comp:obj	_	Gloss=4.Perf.Rel
 26	yankèː	yank-	VERB	_	_	25	comp:aux	_	Gloss=cut
-27	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	26	comp:obl	_	Gloss=3Masc.Dat
+27	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	26	comp:obl	_	Gloss=3Masc.Dat
 28	hukuncìn	hukuncìː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:obj	_	Gloss=sentence.Masc.Cons
 29	ɗaurìn	ɗaurìː	NOUN	_	Definite=Cons|Gender=Masc	28	mod	_	Gloss=detention.Masc.Cons
 30	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	29	mod	_	Gloss=year.Plur

@@ -2,7 +2,7 @@
 # text_en = African sports news
 # text = làːbàːr̃un wàːsànniː à Afir̃kà
 # text_ortho = Làːbàːr̃un wàːsànniː à Afir̃kà
-1	làːbàːr̃un	làːbaːr̃ìː	NOUN	_	Definite=Cons	0	root	_	Gloss=news.Plur.Cons
+1	làːbàːr̃un	làːbaːr̃ìː	NOUN	_	Definite=Cons|Number=Plur	0	root	_	Gloss=news.Plur.Cons
 2	wàːsànniː	wàːsaː	NOUN	_	Number=Plur	1	mod	_	Gloss=game.Plur
 3	à	à	ADP	_	_	2	mod	_	Gloss=at
 4	Afir̃kà	Afir̃kà	PROPN	_	_	3	comp:obj	_	Gloss=Africa
@@ -15,7 +15,7 @@
 2	yâu	yâu	ADV	_	_	1	comp:obj	_	Gloss=today
 3	zaːmù	zâi	AUX	_	Number=Plur|Person=1|Tense=Fut	0	root	_	Gloss=1Plur.Fut
 4	soːmà	soːm-	VERB	_	_	3	comp:aux	_	Gloss=start
-5	shirìn	shir-	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	4	comp:obj	_	Gloss=prepare.Vnoun.Masc.Cons|SpaceAfter=No
+5	shirìn	shir-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:obj	_	Gloss=prepare.Vnoun.Masc.Cons|SpaceAfter=No
 6	mù	mù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	mod	_	Gloss=1Plur.Gen
 7	dà	dà	CCONJ	_	_	4	comp:obl	_	Gloss=and
 8	làːbaːr̃ìn	làːbaːr̃ìː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=news.Masc.Cons
@@ -189,7 +189,7 @@
 # text_en = Some policies like that of the Nigerian Federation forbid Nigeria to collaborate with any country or association having relations with South Africa.
 # text = manufoːfin sìyaːsàː irìn na tàːrayyàr̃ Nàːjeːr̃iyàː kuma bàsù yàr̃da Nàːjeːr̃iyàː tà yi hulɗàː dà wata ƙasaː koː ƙungìyaː mài nasabàː dà Afir̃kà ta Kudù ba.
 # text_ortho = Manufoːfin sìyaːsàː irìn na Tàːrayyàr̃ Nàːjeːr̃iyàː kuma bà sù yàr̃da Nàːjeːr̃iyàː tà yi hulɗàː dà wata ƙasaː koː ƙungìyaː mài nasabàː dà Afir̃kà ta Kudù ba.
-1	manufoːfin	manufoːfiː	NOUN	_	Definite=Cons|Gender=Masc	8	dislocated@subj	_	Gloss=policy.Plur.Cons
+1	manufoːfin	manufoːfiː	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	8	dislocated@subj	_	Gloss=policy.Plur.Cons
 2	sìyaːsàː	sìyaːsàː	NOUN	_	Gender=Fem	1	mod	_	Gloss=politics.Fem
 3	irìn	irìː	NOUN	_	_	4	mod@desc	_	Gloss=type_of
 4	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	1	mod	_	Gloss=Gen.Masc
@@ -226,10 +226,10 @@
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	4	comp:obj	_	Gloss=3Masc.Perf.Rel
 6	kaːwoː	kai	VERB	_	_	5	comp:aux	_	Gloss=carry/take_to
-7	rùːɗaːnîn	rùːɗaːniː	NOUN	_	Definite=Def|Number=Plur	6	comp:obj	_	Gloss=problem.Masc.Def
+7	rùːɗaːnîn	rùːɗaːniː	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	6	comp:obj	_	Gloss=problem.Masc.Def
 8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	Gloss=3Masc.Nom
 9	nèː	neː	AUX	_	_	0	root	_	Gloss=be
-10	shùːgàban	shùːgàbaː	NOUN	_	Definite=Cons	22	dislocated@top	_	Gloss=leader.Masc.Cons
+10	shùːgàban	shùːgàbaː	NOUN	_	Definite=Cons|Gender=Masc	22	dislocated@top	_	Gloss=leader.Masc.Cons
 11	hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Cons|Gender=Fem	10	mod	_	Gloss=authority.Fem.Cons
 12	dambe	dambe	NOUN	_	Gender=Masc	11	mod	_	Gloss=boxing.Masc
 13	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	11	mod	_	Gloss=Gen.Fem
@@ -287,7 +287,7 @@
 14	wàsiːƙàː	wàsiːƙàː	NOUN	_	Gender=Fem	13	flat@name	_	Gloss=letter.Fem
 15	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	10	parataxis@conj	_	Gloss=3Masc.Perf.Rel
 16	gayàː	gay-	VERB	_	_	15	comp:aux	_	Gloss=tell
-17	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	16	comp:obl	_	Gloss=3Masc.Dat
+17	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	16	comp:obl	_	Gloss=3Masc.Dat
 18	kadà	kadà	PART	_	PartType=Neg	19	mod	_	Gloss=Neg
 19	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	16	comp:obj	_	Gloss=3Masc.Sub
 20	kùskurà	kùskurà	NOUN	_	_	19	comp:aux	_	Gloss=make_mistake
@@ -336,7 +336,7 @@
 33	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	32	comp:obj	_	Gloss=3Plur.Sub
 34	baː	baː	VERB	_	_	33	comp:aux	_	Gloss=give
 35	dà	dà	ADP	_	_	34	comp:obl	_	Gloss=with
-36	goːyon	goːy-	VERB	_	Definite=Cons|Gender=Masc|VerbForm=Vnoun	35	comp:obj	_	Gloss=support.Vnoun.Masc.Cons
+36	goːyon	goːy-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	35	comp:obj	_	Gloss=support.Vnoun.Masc.Cons
 37	baːyaː	baːyaː	NOUN	_	Gender=Masc	36	comp:obj	_	Gloss=back.Masc
 38	gà	gà	ADP	_	_	34	comp:obl	_	Gloss=to
 39	Lasisi	Lasisi	PROPN	_	_	38	comp:obj	_	Gloss=Lasisi
@@ -388,7 +388,7 @@
 35	Kudù	Kudù	PROPN	_	_	34	comp:obj	_	Gloss=Kudù
 36	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	32	parataxis@conj	_	Gloss=4.Fut
 37	yi	yi	VERB	_	_	36	comp:aux	_	Gloss=do
-38	dambên	dambe	ADV	_	Definite=Def	37	comp:pred	_	Gloss=boxing.Masc.Def
+38	dambên	dambe	ADV	_	Definite=Def|Gender=Masc	37	comp:pred	_	Gloss=boxing.Masc.Def
 39	ba	ba	PART	_	PartType=Neg|Polarity=Neg	32	mod	_	Gloss=Neg|SpaceAfter=No
 40	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
@@ -442,7 +442,7 @@
 44	Lasisi	Lasisi	PROPN	_	_	45	subj	_	Gloss=Lasisi
 45	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	43	comp:obj	_	Gloss=3Masc.Sub
 46	shìga	shig-	VERB	_	_	45	comp:aux	_	Gloss=enter
-47	wàːsân	wàːsaː	NOUN	_	Definite=Def|Number=Plur	46	comp:obj@G	_	Gloss=game.Masc.Def|SpaceAfter=No
+47	wàːsân	wàːsaː	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	46	comp:obj@G	_	Gloss=game.Masc.Def|SpaceAfter=No
 48	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_12
@@ -460,7 +460,7 @@
 9	barìː	barìː	VERB	_	_	8	comp:aux	_	Gloss=leave
 10	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	8	parataxis@mod	_	Gloss=3Masc.Sub
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
-12	wàːsân	wàːsaː	NOUN	_	Definite=Def	11	comp:pred	_	Gloss=game.Masc.Def|SpaceAfter=No
+12	wàːsân	wàːsaː	NOUN	_	Definite=Def|Gender=Masc	11	comp:pred	_	Gloss=game.Masc.Def|SpaceAfter=No
 13	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = 07_Wasanni_a_Afirka_13
@@ -473,14 +473,14 @@
 4	gàː	gàː	PART	_	PartType=Pred	0	root	_	Gloss=here_is
 5	wasu	wani	PRON	_	Definite=Spec|Number=Plur	4	subj	_	Gloss=some.Plur.Spec
 6	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=from
-7	sàːkàmakon	sàːkàmakoː	NOUN	_	Definite=Cons	6	comp:obj	_	Gloss=result.Masc.Cons
-8	wàːsànnîn	wàːsaː	NOUN	_	Definite=Def|Number=Plur|Person=3	7	mod	_	Gloss=game.Plur.Def
+7	sàːkàmakon	sàːkàmakoː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	Gloss=result.Masc.Cons
+8	wàːsànnîn	wàːsaː	NOUN	_	Definite=Def|Number=Plur	7	mod	_	Gloss=game.Plur.Def
 9	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
 10	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	9	comp:obj	_	Gloss=4.Perf.Rel
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
 12	na	na	PART	_	Case=Gen|PartType=Case	7	mod	_	Gloss=Gen
 13	gàːsar̃	gàːsaː	NOUN	_	Definite=Cons|Gender=Fem	12	comp:obj	_	Gloss=competion.Fem.Cons
-14	ƙwallon	ƙwallon	NOUN	_	Definite=Cons	13	mod	_	Gloss=ball.Masc.Cons
+14	ƙwallon	ƙwallon	NOUN	_	Definite=Cons|Gender=Masc	13	mod	_	Gloss=ball.Masc.Cons
 15	ƙafàː	ƙafàː	NOUN	_	Gender=Fem	14	compound	_	Gloss=foot.Fem
 16	don	don	SCONJ	_	_	13	mod	_	Gloss=in_order_to
 17	cîn	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	comp:obj	_	Gloss=win.Vnoun.Masc.Cons

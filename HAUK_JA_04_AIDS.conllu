@@ -106,7 +106,7 @@
 28	cùːtar̃	cùːtaː	NOUN	_	Definite=Cons|Gender=Fem	29	mod@desc	_	Gloss=disease.Fem.Cons
 29	AIDS	AIDS	PROPN	_	_	27	mod	_	Gloss=AIDS
 30	à	à	ADP	_	_	25	mod	_	Gloss=at
-31	jìkin	jìkiː	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	30	comp:obj	_	Gloss=body.Masc.Cons|SpaceAfter=No|wordform=jìkinsà
+31	jìkin	jìkiː	NOUN	_	Definite=Cons|Gender=Masc	30	comp:obj	_	Gloss=body.Masc.Cons|SpaceAfter=No|wordform=jìkinsà
 32	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	31	mod	_	Gloss=3Masc.Gen
 33	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 34	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	0	root	_	Gloss=3Masc.Fut
@@ -228,7 +228,7 @@
 28	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	27	mod	_	Gloss=Gen.Fem
 29	cùːtâr̃	cùːtaː	NOUN	_	Definite=Def|Gender=Fem	28	comp:obj	_	Gloss=disease.Fem.Def
 30	à	à	ADP	_	_	25	comp:obl	_	Gloss=at
-31	jìkin	jìkiːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	30	comp:obj	_	Gloss=body.Masc.Cons|SpaceAfter=No|wordform=jìkinsà
+31	jìkin	jìkiː	NOUN	_	Definite=Cons|Gender=Masc	30	comp:obj	_	Gloss=body.Masc.Cons|SpaceAfter=No|wordform=jìkinsà
 32	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	31	mod	_	Gloss=3Masc.Gen
 33	ba	ba	PART	_	PartType=Neg|Polarity=Neg	25	mod	_	Gloss=Neg|SpaceAfter=No
 34	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
@@ -570,13 +570,13 @@
 38	kùwa	kùwa	PART	_	PartType=Top	37	discourse@top	_	Gloss=in_fact
 39	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	35	conj:coord	_	Gloss=REL.Plur
 40	cùːtâr̃	cùːtaː	NOUN	_	Definite=Def|Gender=Fem	41	subj	_	Gloss=disease.Fem.Def
-41	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	39	comp:obj	_	Gloss=3Fem.Perf.Rel
+41	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	39	comp:obj	_	Gloss=3Fem.Perf.Rel
 42	kashèː	kas-	VERB	_	_	41	comp:aux	_	Gloss=kill|SpaceAfter=No
 43	,	,	PUNCT	_	_	44	punct	_	Gloss=PUNCT
 44	dà	dà	SCONJ	_	_	39	conj:coord	_	Gloss=COMP
 45	bàsù	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Polarity=Neg	44	comp:obj	_	Gloss=3Plur.Perf.Neg
 46	kai	kai	VERB	_	_	45	comp:aux	_	Gloss=reach/carry_to
-47	kânsù	kânsù	PRON	_	Gender=Masc|Number=Plur|Person=2|PronType=Prs|Reflex=Yes	46	comp:obj@T	_	Gloss=3Plur.Reflex
+47	kânsù	kânsù	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	46	comp:obj@T	_	Gloss=3Plur.Reflex
 48	asìbitì	asìbitì	NOUN	_	Gender=Masc	46	comp:obj@G	_	Gloss=hospital.Masc
 49	ba	ba	PART	_	PartType=Neg|Polarity=Neg	46	mod	_	Gloss=Neg|SpaceAfter=No
 50	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT

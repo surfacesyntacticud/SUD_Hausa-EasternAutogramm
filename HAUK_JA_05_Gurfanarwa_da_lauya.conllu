@@ -30,7 +30,7 @@
 11	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	10	mod	_	Gloss=rule.Masc.Cons
 12	soːjà	soːjà	NOUN	_	Number=Plur	11	mod	_	Gloss=soldiers.Plur
 13	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=COMP
-14	kèː	nàː	AUX	_	Aspect=Prog	13	comp:obj	_	Gloss=Prog.Rel
+14	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	13	comp:obj	_	Gloss=Prog.Rel
 15	Afir̃kà	Afir̃kà	PROPN	_	_	14	comp:pred	_	Gloss=Africa|SpaceAfter=No
 16	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
@@ -542,7 +542,7 @@
 43	dà	dà	SCONJ	_	_	42	mod@relcl	_	Gloss=COMP
 44	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	43	comp:obj	_	Gloss=4.Perf.Rel
 45	aikoː	aik-	VERB	_	_	44	comp:aux	_	Gloss=send
-46	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	45	comp:obl	_	Gloss=3Masc.Dat
+46	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	45	comp:obl	_	Gloss=3Masc.Dat
 47	ta	ta	ADP	_	_	45	mod	_	Gloss=via
 48	cikin	cikin	ADP	_	_	47	comp:obj	_	Gloss=inside
 49	wàsiːƙàː	wàsiːƙàː	NOUN	_	Gender=Fem	48	comp:obj	_	Gloss=letter.Fem
