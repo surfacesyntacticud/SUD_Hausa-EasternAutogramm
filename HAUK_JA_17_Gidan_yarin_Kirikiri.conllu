@@ -2,8 +2,8 @@
 # text_en = The Kirikiri prison
 # text_ortho = Gidan Yaːrìn Ƙìr̃iƙìr̃i
 # text = gidan yaːrìn Ƙìr̃iƙìr̃i
-1	gidan	gidaː	NOUN	_	Definite=Cons	3	mod@desc	_	Gloss=house.Masc.Cons
-2	yaːrìn	yaːrìː	NOUN	_	Definite=Cons	1	compound	_	Gloss=warder.Masc.Cons
+1	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	3	mod@desc	_	Gloss=house.Masc.Cons
+2	yaːrìn	yaːrìː	NOUN	_	Definite=Cons|Gender=Masc	1	compound	_	Gloss=warder.Masc.Cons
 3	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	0	root	_	Gloss=Kirikiri
 
 # sent_id = 17_Gidan_yarin_Kirikiri_2
@@ -17,7 +17,7 @@
 5	Neːmàː	neːm-	VERB	_	_	4	mod	_	Gloss=look_for
 6	wà	wà	ADP	_	Case=Dat	5	comp:obl	_	Gloss=Dat
 7	Jàma'àː	jàma'àː	NOUN	_	Gender=Fem	6	comp:obj	_	Gloss=community.Fem
-8	Haƙƙìn	haƙƙìː	NOUN	_	Definite=Cons	5	comp:obj	_	Gloss=rights.Masc.Cons|SpaceAfter=No|wordform=Haƙƙinsù
+8	Haƙƙìn	haƙƙìː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:obj	_	Gloss=rights.Masc.Cons|SpaceAfter=No|wordform=Haƙƙinsù
 9	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	8	mod	_	Gloss=3Plur.Gen
 10	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	4	mod	_	Gloss=Gen.Fem
 11	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	10	comp:obj	_	Gloss=Nigeria
@@ -32,12 +32,12 @@
 20	kûr̃kukùn	kûr̃kukùː	NOUN	_	Definite=Cons|Gender=Masc	19	compound	_	Gloss=prison.Masc.Cons
 21	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	34	subj	_	Gloss=Kirikiri
 22	mài	mài	PART	_	Number=Sing|PartType=Der	21	mod	_	Gloss=owner/doer_of.Sing
-23	tsauràːran	tsauraːr-	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	22	comp:obj	_	Gloss=tighten.Vnoun.Masc.Cons
+23	tsauràːran	tsauraːr-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	22	comp:obj	_	Gloss=tighten.Vnoun.Masc.Cons
 24	màtàːkan	mataːkiː	NOUN	_	Definite=Cons|Number=Plur	23	comp:obj	_	Gloss=step.Plur.Cons
 25	tsàr̃oː	tsàr̃oː	NOUN	_	Gender=Masc	24	mod	_	Gloss=security.Masc|SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 27	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	21	mod@relcl	_	Gloss=REL.Masc
-28	kuma	kuma	PART	_	PartType=Disc	27	discourse@top	_	Gloss=also
+28	kuma	kuma	PART	_	PartType=Top	27	discourse@top	_	Gloss=also
 29	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	27	comp:obj	_	Gloss=Prog.Rel
 30	can	can	ADV	_	Deixis=Remt|PronType=Dem	29	comp:pred	_	Gloss=Remt
 31	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	32	mod@desc	_	Gloss=city.Masc.Cons
@@ -59,14 +59,14 @@
 47	kasànceː	kasant-	VERB	_	_	46	comp:aux	_	Gloss=be
 48	à	à	ADP	_	_	47	mod	_	Gloss=at
 49	cikin	cikin	ADP	_	Gender=Fem	48	comp:obj	_	Gloss=inside|SpaceAfter=No|wordform=cikinsà
-50	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	49	comp:obj	_	Gloss=3Masc.Gen
+50	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	49	comp:obj	_	Gloss=3Masc.Gen
 51	.	.	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 
 # sent_id = 17_Gidan_yarin_Kirikiri_3
 # text_en = The report stated that the hygiene and health condition are out of control; and almost forty nine people died in Kirikiri last year only, most of them while waiting to be taken to court.
 # text_ortho = R̃àhoːtòn ya cèː sha'ànin tsabtàː dà na kiːwòn laːfiyàː duk à tàɓàrɓàre sukè, kuma kusan mutàːneː àr̃bà'in dà tar̃à neː sukà ràsu à Ƙìr̃iƙìr̃i à bàːra kaɗai, yawancinsù maː màːsu jiràn à gabaːtar̃ dà suː nèː à gàban koːtù.
 # text = r̃àhoːtòn ya cèː sha'ànin tsabtàː dà na kiːwòn laːfiyàː duk à tàɓàrɓàre sukè, kuma kusan mutàːneː àr̃bà'in dà tar̃à neː sukà ràsu à Ƙìr̃iƙìr̃i à bàːra kaɗai, yawancinsù maː màːsu jiràn à gabaːtar̃ dà suː nèː à gàban koːtù.
-1	r̃àhoːtòn	r̃àhoːtòː	PROPN	_	Definite=Def	2	subj	_	Gloss=report.Masc.Def
+1	r̃àhoːtòn	r̃àhoːtòː	PROPN	_	Definite=Def|Gender=Masc	2	subj	_	Gloss=report.Masc.Def
 2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
 3	cèː	cêː	VERB	_	Gender=Fem	2	comp:aux	_	Gloss=be.Fem
 4	sha'ànin	sha'àniː	NOUN	_	Definite=Cons|Gender=Masc	11	dislocated@top	_	Gloss=matter.Masc.Cons
@@ -114,7 +114,7 @@
 # text_en = The report stated that the congestion of people in the Kirikiri prison has got so bad that the prisoners are sleeping in shifts, some leaving [their place] to others after like three of four hours while other prisoners are just standing on their feet.
 # text_ortho = R̃àhoːtòn ya cèː cùnkoːson mutàːnên dà kèː cikin gidan fur̃sùnàn Ƙìr̃iƙìr̃i ya ɓaːcì, ta yaddà har̃ 'yan fur̃sùnàn sukàn yi barciː nèː kaːmùː-kaːmùː, wasu sù bâi wà wasu, baːyan saː'oː'iː mìsaːlìn ukù koː huɗu, yàːyîn dà wasu 'yan fur̃sunoːnîn kùwa sai dai kawài sù tsayàː dà ƙafàr̃sù kurùm.
 # text = r̃àhoːtòn ya cèː cùnkoːson mutàːnên dà kèː cikin gidan fur̃sùnàn Ƙìr̃iƙìr̃i ya ɓaːcì, ta yaddà har̃ 'yan fur̃sùnàn sukàn yi barciː nèː kaːmùː-kaːmùː, wasu sù bâi wà wasu, baːyan saː'oː'iː mìsaːlìn ukù koː huɗu, yàːyîn dà wasu 'yan fur̃sunoːnîn kùwa sai dai kawài sù tsayàː dà ƙafàr̃sù kurùm.
-1	r̃àhoːtòn	r̃àhoːtòː	PROPN	_	Definite=Def	2	subj	_	Gloss=report.Masc.Def
+1	r̃àhoːtòn	r̃àhoːtòː	PROPN	_	Definite=Def|Gender=Masc	2	subj	_	Gloss=report.Masc.Def
 2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
 3	cèː	cêː	VERB	_	Gender=Fem	2	comp:aux	_	Gloss=be.Fem
 4	cùnkoːson	cùnkoːsoː	NOUN	_	Definite=Cons|Gender=Masc	12	subj	_	Gloss=congestion.Masc.Cons
@@ -123,7 +123,7 @@
 7	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	6	comp:obj	_	Gloss=Prog.Rel
 8	cikin	cikin	ADP	_	_	7	comp:pred	_	Gloss=inside
 9	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	11	mod@desc	_	Gloss=house.Masc.Cons
-10	fur̃sùnàn	fur̃sùnàː	NOUN	_	Definite=Cons|Number=Plur	9	mod	_	Gloss=warder.Masc.Cons
+10	fur̃sùnàn	fur̃sùnàː	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	9	mod	_	Gloss=warder.Masc.Cons
 11	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	8	comp:obj	_	Gloss=Kirikiri
 12	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	3	comp:obj	_	Gloss=3Masc.Perf.Rel
 13	ɓaːcì	ɓaːt-	VERB	_	_	12	comp:aux	_	Gloss=spoil|SpaceAfter=No
@@ -156,7 +156,7 @@
 40	dà	dà	SCONJ	_	_	39	mod@relcl	_	Gloss=COMP
 41	wasu	wani	DET	_	Definite=Spec|Number=Plur	42	det	_	Gloss=some.Plur.Spec
 42	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	48	subj	_	Gloss=child.Plur.Cons|wordform=yan
-43	fur̃sunoːnîn	fur̃sùnà	NOUN	_	Definite=Def	42	compound	_	Gloss=prisoner.Plur.Def
+43	fur̃sunoːnîn	fur̃sùnà	NOUN	_	Definite=Def|Number=Plur	42	compound	_	Gloss=prisoner.Plur.Def
 44	kùwa	kùwa	PART	_	PartType=Top	42	discourse@top	_	Gloss=in_fact
 45	sai	sai	ADV	_	_	48	mod	_	Gloss=only
 46	dai	dai	PART	_	PartType=Top	45	discourse@top	_	Gloss=anyway
@@ -164,7 +164,7 @@
 48	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	40	comp:obj	_	Gloss=3Plur.Sub
 49	tsayàː	tsay-	VERB	_	_	48	comp:aux	_	Gloss=stand
 50	dà	dà	ADP	_	_	49	mod	_	Gloss=with|wordform=da
-51	ƙafàr̃	ƙafàː	NOUN	_	Definite=Cons	50	comp:obj	_	Gloss=leg.Fem.Cons|SpaceAfter=No|wordform=ƙafàr̃sù
+51	ƙafàr̃	ƙafàː	NOUN	_	Definite=Cons|Gender=Fem	50	comp:obj	_	Gloss=leg.Fem.Cons|SpaceAfter=No|wordform=ƙafàr̃sù
 52	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	51	mod	_	Gloss=3Plur.Gen
 53	kurùm	kurùm	ADV	_	_	49	mod	_	Gloss=just|SpaceAfter=No
 54	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -183,7 +183,7 @@
 8	rabìn	rabìː	NOUN	_	Definite=Cons|Gender=Masc	23	subj	_	Gloss=half.Masc.Cons
 9	dukkàn	dukà	DET	_	_	10	det	_	Gloss=all
 10	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	8	mod	_	Gloss=child.Plur.Cons|wordform=yan
-11	fur̃sunoːnîn	fur̃sùnà	NOUN	_	Definite=Def	10	compound	_	Gloss=prison.Plur.Def
+11	fur̃sunoːnîn	fur̃sùnà	NOUN	_	Definite=Def|Number=Plur	10	compound	_	Gloss=prison.Plur.Def
 12	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=COMP
 13	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	12	comp:obj	_	Gloss=Prog.Rel
 14	jiràn	jiraː	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:aux	_	Gloss=wait.Vnoun.Masc.Cons
@@ -257,7 +257,7 @@
 7	tar̃à	tar̃à	NUM	_	_	5	conj:coord	_	Gloss=nine
 8	dàgà	dàgà	ADP	_	_	1	mod	_	Gloss=from
 9	cikin	cikin	ADP	_	_	8	comp:obj	_	Gloss=inside
-10	tsàràrrûn	tsàràrreː	NOUN	_	Definite=Def|Gender=Masc	9	comp:obj	_	Gloss=prisoner.Plur.Def
+10	tsàràrrûn	tsàràrreː	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	9	comp:obj	_	Gloss=prisoner.Plur.Def
 11	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog|wordform=sunaː
 12	jiràn	jiraː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:aux	_	Gloss=wait.Vnoun.Masc.Cons
 13	à	à	ADP	_	_	12	comp:obl	_	Gloss=at
@@ -275,9 +275,9 @@
 # text_ortho = Àkwai kuma wasu tsàràrrûn suː kìːmaːnìn ɗàriː ɗaya dà sàbà'in dà biyu dà kèː jiràn hauniː yà kawar̃ dà suː tun shèːkàruː goːmà shâː bìyar̃ dà sukà shigèː.
 # text = àkwai kuma wasu tsàràrrûn suː kìːmaːnìn ɗàriː ɗaya dà sàbà'in dà biyu dà kèː jiràn hauniː yà kawar̃ dà suː tun shèːkàruː goːmà shâː bìyar̃ dà sukà shigèː.
 1	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	Gloss=there_is
-2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	wasu	wani	DET	_	Definite=Spec|Number=Plur	4	det	_	Gloss=some.Plur.Spec
-4	tsàràrrûn	tsàràrreː	NOUN	_	Definite=Def	1	subj	_	Gloss=prisoner.Plur.Def
+4	tsàràrrûn	tsàràrreː	NOUN	_	Definite=Def|Number=Plur	1	subj	_	Gloss=prisoner.Plur.Def
 5	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	conj:appos	_	Gloss=3Plur.Nom
 6	kìːmaːnìn	kìːmaːnìn	ADP	_	_	5	mod	_	Gloss=about
 7	ɗàriː	ɗàriː	NUM	_	Number=Plur	6	comp:obj	_	Gloss=hundred
@@ -308,7 +308,7 @@
 # text_en = The report said too that the congestion that prevails in the Kirikiri prison prevents the use of beds in it because of lack of space, except for only a few of the prisoners who have that privilege.
 # text_ortho = R̃àhoːtòn hakà maː yaː cêː irìn cùnkoːsôn dà kèː àkwai à kûr̃kukùn Ƙìr̃iƙìr̃i yaː har̃àmtà àmfàːniː dà gadàːjeː à cikinsà dòːmin rashìn ìsasshen fiːliː sai fa wasu kàɗan dàgà cikin tsàràrrûn dà kèː dà gaːliːhù.
 # text = r̃àhoːtòn hakà maː yaː cêː irìn cùnkoːsôn dà kèː àkwai à kûr̃kukùn Ƙìr̃iƙìr̃i yaː har̃àmtà àmfàːniː dà gadàːjeː à cikinsà dòːmin rashìn ìsasshen fiːliː sai fa wasu kàɗan dàgà cikin tsàràrrûn dà kèː dà gaːliːhù.
-1	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def	4	subj	_	Gloss=report.Masc.Def
+1	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	4	subj	_	Gloss=report.Masc.Def
 2	hakà	hakà	ADV	_	_	4	mod	_	Gloss=thus
 3	maː	maː	PART	_	PartType=Top	2	discourse@top	_	Gloss=even
 4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
@@ -328,7 +328,7 @@
 18	gadàːjeː	gadòː	NOUN	_	Number=Plur	17	comp:obj	_	Gloss=bed.Plur
 19	à	à	ADP	_	_	16	mod	_	Gloss=at
 20	cikin	cikin	ADP	_	Gender=Fem	19	comp:obj	_	Gloss=inside|SpaceAfter=No|wordform=cikinsà
-21	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	20	comp:obj	_	Gloss=3Masc.Gen
+21	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	20	comp:obj	_	Gloss=3Masc.Gen
 22	dòːmin	dòːmin	ADP	_	_	16	mod	_	Gloss=because
 23	rashìn	ras-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	22	comp:obj	_	Gloss=lack.Vnoun.Masc.Cons
 24	ìsasshen	ìsassheː	NOUN	_	Definite=Cons|Gender=Masc	25	mod	_	Gloss=sufficient.Masc.Cons
@@ -339,9 +339,9 @@
 29	kàɗan	kàɗan	ADV	_	_	28	mod	_	Gloss=few
 30	dàgà	dàgà	ADP	_	_	28	mod	_	Gloss=from
 31	cikin	cikin	ADP	_	_	30	comp:obj	_	Gloss=inside
-32	tsàràrrûn	tsàrarreː	NOUN	_	Definite=Def	31	comp:obj	_	Gloss=prisoner.Plur.Def
+32	tsàràrrûn	tsàrarreː	NOUN	_	Definite=Def|Number=Plur	31	comp:obj	_	Gloss=prisoner.Plur.Def
 33	dà	dà	SCONJ	_	_	32	mod@relcl	_	Gloss=COMP
-34	kèː	nàː	AUX	_	Aspect=Prog|Person=2|Relative=Rel2	33	comp:obj	_	Gloss=Prog.Rel2
+34	kèː	nàː	AUX	_	Aspect=Prog|Person=2|Relative=Rel2	33	comp:obj	_	Gloss=Prog.Rel
 35	dà	dà	ADP	_	_	34	comp:pred	_	Gloss=with
 36	gaːliːhù	gaːliːhù	NOUN	_	Gender=Masc	35	comp:obj	_	Gloss=privilege.Masc|SpaceAfter=No
 37	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
@@ -353,7 +353,7 @@
 1	sabòːdà	sabòːdà	ADP	_	_	9	discourse	_	Gloss=because_of
 2	tsananin	tsananiː	ADJ	_	Definite=Cons|Gender=Masc	3	mod	_	Gloss=serious.Masc
 3	rashìn	ras-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	comp:obj	_	Gloss=lack.Vnoun.Masc.Cons
-4	ìsasshen	ìsassheː	ADJ	_	Definite=Cons	5	mod	_	Gloss=sufficient.Masc.Cons
+4	ìsasshen	ìsassheː	ADJ	_	Definite=Cons|Gender=Masc	5	mod	_	Gloss=sufficient.Masc.Cons
 5	fiːliː	fiːliː	NOUN	_	Gender=Masc	3	comp:obj	_	Gloss=space.Masc
 6	à	à	ADP	_	_	3	mod	_	Gloss=at
 7	kûr̃kukùn	kûr̃kukuː	NOUN	_	Definite=Def|Gender=Masc	6	comp:obj	_	Gloss=prison.Masc.Def|SpaceAfter=No
@@ -377,7 +377,7 @@
 4	barcîn	barciː	NOUN	_	Definite=Def|Gender=Masc	3	comp:aux	_	Gloss=sleep.Masc.Def
 5	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog|wordform=sunaː
 6	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Person=3|VerbForm=Vnoun	5	comp:aux	_	Gloss=do.Vnoun.Masc.Cons|SpaceAfter=No|wordform=yînsà
-7	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	6	mod	_	Gloss=3Masc.Gen
+7	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	6	mod	_	Gloss=3Masc.Gen
 8	neː	neː	PART	_	PartType=Foc	6	discourse@foc	_	Gloss=Emph
 9	à	à	ADP	_	_	6	comp:obl	_	Gloss=at
 10	bisà	bisà	ADP	_	_	9	comp:obj	_	Gloss=on_top
@@ -389,7 +389,7 @@
 16	bar̃gunàː	bar̃gò̩	NOUN	_	Number=Plur	14	comp:obj@T	_	Gloss=blanket.Plur|SpaceAfter=No
 17	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 18	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	dislocated@subj	_	Gloss=3Plur.Nom
-19	kuma	kuma	PART	_	PartType=Disc	18	discourse@top	_	Gloss=also
+19	kuma	kuma	PART	_	PartType=Top	18	discourse@top	_	Gloss=also
 20	baːsàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3|Polarity=Neg	13	conj:coord	_	Gloss=3Plur.Prog.Neg
 21	iyà	iy-	VERB	_	_	20	comp:aux	_	Gloss=be_able_to
 22	sàyeː	say-	VERB	_	_	21	comp:obj	_	Gloss=buy
@@ -401,7 +401,7 @@
 # text_en = The report continued and stated that the health and hygiene situation in the prison is dangerous; i.e. heat and lack of sufficient ventilation in the rooms, joined with lack of sufficient lighting is causing the proliferation of diseases and insects.
 # text_ortho = R̃àhoːtòn ya ci gàba dà cêːwaː irìn haːlin kiwòn laːfiyàː dà na tsabtàː à kûr̃kukùn yanàː dà haɗàr̃iː; wàːtòː zaːfiː dà rashìn ìsasshiyar̃ iskàː à cikin ɗaːkunàː, tàːre dà rashìn ìsasshen hasken làntar̃kìː yanàː sànàdiyyàr̃ bàːzuwar̃ wasu ƙwaːyoːyin cùːtaː dà kuma ƙwàːriː.
 # text = r̃àhoːtòn ya ci gàba dà cêːwaː irìn haːlin kiwòn laːfiyàː dà na tsabtàː à kûr̃kukùn yanàː dà haɗàr̃iː; wàːtòː zaːfiː dà rashìn ìsasshiyar̃ iskàː à cikin ɗaːkunàː, tàːre dà rashìn ìsasshen hasken làntar̃kìː yanàː sànàdiyyàr̃ bàːzuwar̃ wasu ƙwaːyoːyin cùːtaː dà kuma ƙwàːriː.
-1	r̃àhoːtòn	r̃àhoːtòː	PROPN	_	Definite=Def	2	subj	_	Gloss=report.Masc.Def
+1	r̃àhoːtòn	r̃àhoːtòː	PROPN	_	Definite=Def|Gender=Masc	2	subj	_	Gloss=report.Masc.Def
 2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
 3	ci	ci	VERB	_	_	2	comp:aux	_	Gloss=proceed
 4	gàba	gàba	ADV	_	_	3	mod	_	Gloss=in_front
@@ -420,7 +420,7 @@
 17	dà	dà	ADP	_	_	16	comp:pred	_	Gloss=with
 18	haɗàr̃iː	haɗàr̃iː	NOUN	_	Gender=Masc	17	comp:obj	_	Gloss=danger.Masc|SpaceAfter=No
 19	;	;	PUNCT	_	_	36	punct	_	Gloss=PUNCT
-20	wàːtòː	wàːtòː	PART	_	PartType=Disc	36	discourse	_	Gloss=that_is
+20	wàːtòː	wàːtòː	CCONJ	_	_	36	cc	_	Gloss=i.e.
 21	zaːfiː	zaːfiː	NOUN	_	Gender=Masc	36	subj	_	Gloss=heat.Masc
 22	dà	dà	CCONJ	_	_	23	cc	_	Gloss=and
 23	rashìn	ras-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	conj:coord	_	Gloss=lack.Vnoun.Masc.Cons
@@ -436,14 +436,14 @@
 33	ìsasshen	ìsassheː	ADJ	_	Definite=Cons|Gender=Masc	34	mod	_	Gloss=sufficient.Masc
 34	hasken	haskeː	NOUN	_	Definite=Cons|Gender=Masc	32	comp:obj	_	Gloss=light.Masc
 35	làntar̃kìː	làntar̃kìː	NOUN	_	Definite=Cons|Gender=Masc	34	mod	_	Gloss=lamp.Masc
-36	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	16	parataxis@conj	_	Gloss=3Masc.Prog|wordform=yanaː
-37	sànàdiyyàr̃	sànàdiyyàː	NOUN	_	Definite=Cons	36	comp:pred	_	Gloss=cause.Fem.Cons
+36	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	16	conj:dicto	_	Gloss=3Masc.Prog|wordform=yanaː
+37	sànàdiyyàr̃	sànàdiyyàː	NOUN	_	Definite=Cons|Gender=Fem	36	comp:pred	_	Gloss=cause.Fem.Cons
 38	bàːzuwar̃	baːz-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	37	mod	_	Gloss=spread.Vnoun.Fem.Cons|wordform=baːzuwar
 39	wasu	wani	DET	_	Definite=Spec|Number=Plur	40	det	_	Gloss=some.Plur.Spec
 40	ƙwaːyoːyin	ƙwàːya:	NOUN	_	Definite=Cons|Number=Plur	38	comp:obj	_	Gloss=grain.Plur.Cons
 41	cùːtaː	cùːtaː	NOUN	_	Gender=Fem	40	compound	_	Gloss=disease.Fem
 42	dà	dà	CCONJ	_	_	44	cc	_	Gloss=and
-43	kuma	kuma	PART	_	PartType=Disc	42	discourse@top	_	Gloss=also
+43	kuma	kuma	PART	_	PartType=Top	42	discourse@top	_	Gloss=also
 44	ƙwàːriː	ƙwàːroː	NOUN	_	Number=Plur	40	conj:coord	_	Gloss=insect.Plur|SpaceAfter=No
 45	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
@@ -471,7 +471,7 @@
 18	kyànkyàsai	kyànkyasòː	NOUN	_	Number=Plur	13	conj:coord	_	Gloss=cockroach.Plur
 19	har̃	har̃	ADV	_	_	20	mod	_	Gloss=even
 20	dà	dà	CCONJ	_	_	22	cc	_	Gloss=and
-21	kuma	kuma	PART	_	PartType=Disc	20	discourse@top	_	Gloss=also
+21	kuma	kuma	PART	_	PartType=Top	20	discourse@top	_	Gloss=also
 22	ɓeːràːyeː	ɓeːraː	NOUN	_	Number=Plur	18	conj:coord	_	Gloss=rat.Plur
 23	à	à	ADP	_	_	22	mod	_	Gloss=at
 24	cikin	cikin	ADP	_	_	23	comp:obj	_	Gloss=inside
@@ -479,8 +479,8 @@
 26	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
 27	sabòːdà	sabòːdà	SCONJ	_	_	31	mod	_	Gloss=because
 28	hakà	hakà	ADV	_	_	27	comp:obj	_	Gloss=thus
-29	kuma	kuma	PART	_	PartType=Disc	27	discourse@top	_	Gloss=also
-30	tsàràrrûn	tsàrarreː	NOUN	_	Definite=Def	31	subj	_	Gloss=prisoner.Plur.Def
+29	kuma	kuma	PART	_	PartType=Top	27	discourse@top	_	Gloss=also
+30	tsàràrrûn	tsàrarreː	NOUN	_	Definite=Def|Number=Plur	31	subj	_	Gloss=prisoner.Plur.Def
 31	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	10	conj:coord	_	Gloss=3Plur.Prog
 32	kàːmuwaː	kaːm-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	31	comp:aux	_	Gloss=catch.Vnoun.Fem
 33	dà	dà	ADP	_	_	32	comp:obl	_	Gloss=with
@@ -508,7 +508,7 @@
 # text = r̃àhoːtòn KNJH yaː dai ci gàba dà cêːwaː yawàn àbincîn dà akèː bâi wà tsàːràrrûn samsam bài ìsa ba ta koːwànè haːliː, àbincîn kuma bâː shi dà daːɗiː.
 # text_en = The report of the KNJH went on to state that most of the quantity of food that the prisonners were given was not sufficient by any standard, and the food itself was not good either.
 # text_ortho = R̃àhoːtòn KNJH yaː dai ci gàba dà cêːwaː yawàn àbincîn dà akèː bâi wà tsàːràrrûn samsam bài ìsa ba ta koːwànè haːliː, àbincîn kuma bâː shi dà daːɗiː.
-1	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Number=Plur	3	subj	_	Gloss=report.Masc.Def
+1	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	3	subj	_	Gloss=report.Masc.Def
 2	KNJH	KNJH	PROPN	_	_	1	mod	_	Gloss=KNJH
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 4	dai	dai	PART	_	PartType=Top	3	discourse@top	_	Gloss=anyway
@@ -522,7 +522,7 @@
 12	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	11	comp:obj	_	Gloss=4.Prog.Rel|wordform=akề
 13	bâi	baː	VERB	_	_	12	comp:aux	_	Gloss=give
 14	wà	wà	ADP	_	Case=Dat	13	comp:obl	_	Gloss=Dat
-15	tsàːràrrûn	tsàːràrreː	NOUN	_	Definite=Def	14	comp:obj	_	Gloss=prisoner.Plur.Def
+15	tsàːràrrûn	tsàːràrreː	NOUN	_	Definite=Def|Number=Plur	14	comp:obj	_	Gloss=prisoner.Plur.Def
 16	samsam	samsan	IDEO	_	_	17	mod	_	Gloss=at_all
 17	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	12	conj:coord	_	Gloss=3Masc.Perf.Neg
 18	ìsa	is-	VERB	_	_	17	comp:aux	_	Gloss=be_sufficient
@@ -532,7 +532,7 @@
 22	haːliː	haːliː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=circumstance.Masc|SpaceAfter=No
 23	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 24	àbincîn	àbinciː	NOUN	_	Definite=Def|Gender=Masc	26	dislocated@subj	_	Gloss=food.Masc.Def
-25	kuma	kuma	PART	_	PartType=Disc	24	discourse@top	_	Gloss=also
+25	kuma	kuma	PART	_	PartType=Top	24	discourse@top	_	Gloss=also
 26	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	17	conj:coord	_	Gloss=there_is.Neg
 27	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	26	subj	_	Gloss=3Masc.Acc
 28	dà	dà	ADP	_	_	26	comp:pred	_	Gloss=with|wordform=ɗà
@@ -543,20 +543,20 @@
 # text_en = The reason is that the money that the government was attributing for the purchase of food for the prisoners was really insufficient, and some people working in the prison were helping themselves to the food that was bought for the prisoners.
 # text_ortho = Dàliːlìn hakà kuma shiː nèː kuɗàːɗên dà gwamnatìn kèː waːrèːwaː dòːmin sayàː wà ɗàuràrrûn àbinci sun yi ƙaranciː ƙwar̃ai, kuma wasu ma'àikàtan gidan yaːrìn sunàː tàimakon kânsù dà àbincîn dà akà sàyaː don bâi wà ɗàuràrrûn.
 # text = dàliːlìn hakà kuma shiː nèː kuɗàːɗên dà gwamnatìn kèː waːrèːwaː dòːmin sayàː wà ɗàuràrrûn àbinci sun yi ƙaranciː ƙwar̃ai, kuma wasu ma'àikàtan gidan yaːrìn sunàː tàimakon kânsù dà àbincîn dà akà sàyaː don bâi wà ɗàuràrrûn.
-1	dàliːlìn	dàliːlìː	PROPN	_	Definite=Cons	5	subj	_	Gloss=reason.Masc.Cons
+1	dàliːlìn	dàliːlìː	PROPN	_	Definite=Cons|Gender=Masc	5	subj	_	Gloss=reason.Masc.Cons
 2	hakà	hakà	ADV	_	_	1	mod	_	Gloss=thus
-3	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+3	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	5	comp:pred	_	Gloss=3Masc.Nom
 5	nèː	neː	AUX	_	PartType=Foc	0	root	_	Gloss=be
-6	kuɗàːɗên	kuɗiː	NOUN	_	Definite=Def	16	subj	_	Gloss=money.Plur.Def
+6	kuɗàːɗên	kuɗiː	NOUN	_	Definite=Def|Number=Plur	16	subj	_	Gloss=money.Plur.Def
 7	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=COMP
 8	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	7	comp:obj	_	Gloss=government.Fem.Def|wordform=gwamnatin
-9	kèː	nàː	AUX	_	Aspect=Prog	8	mod	_	Gloss=Prog.Rel
+9	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	8	mod	_	Gloss=Prog.Rel
 10	waːrèːwaː	waːr-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	9	comp:aux	_	Gloss=set_aside.Vnoun.fem
 11	dòːmin	dòːmin	SCONJ	_	_	10	mod	_	Gloss=in_order_to
 12	sayàː	say-	VERB	_	_	11	comp:obj	_	Gloss=buy
 13	wà	wà	ADP	_	Case=Dat	12	comp:obl	_	Gloss=Dat
-14	ɗàuràrrûn	ɗàurarreː	NOUN	_	Definite=Def	13	comp:obj	_	Gloss=prisoner.Plur.Def
+14	ɗàuràrrûn	ɗàurarreː	NOUN	_	Definite=Def|Number=Plur	13	comp:obj	_	Gloss=prisoner.Plur.Def
 15	àbinci	àbinci	NOUN	_	Gender=Masc	14	mod	_	Gloss=food.Masc
 16	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	5	dislocated@subj	_	Gloss=3Plur.Perf
 17	yi	yi	VERB	_	_	16	comp:aux	_	Gloss=do
@@ -579,15 +579,15 @@
 34	don	don	SCONJ	_	_	27	mod	_	Gloss=in_order_to
 35	bâi	baː	VERB	_	_	34	comp:obj	_	Gloss=give
 36	wà	wà	ADP	_	Case=Dat	35	comp:obl	_	Gloss=Dat
-37	ɗàuràrrûn	ɗàurarreː	NOUN	_	Definite=Def|Gender=Masc	36	comp:obj	_	Gloss=prisoner.Plur.Def|SpaceAfter=No
+37	ɗàuràrrûn	ɗàurarreː	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	36	comp:obj	_	Gloss=prisoner.Plur.Def|SpaceAfter=No
 38	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 17_Gidan_yarin_Kirikiri_14
 # text_en = The report revealed too the name of some forty-nine people who had died in the prison last year.
 # text_ortho = R̃àhoːtòn kuma yaː bayyànà suːnàːyen wasu mutàːneː àr̃bà'in dà tar̃à dà sukà mutù à kûr̃kukùn à bàːra.
 # text = r̃àhoːtòn kuma yaː bayyànà suːnàːyen wasu mutàːneː àr̃bà'in dà tar̃à dà sukà mutù à kûr̃kukùn à bàːra.
-1	r̃àhoːtòn	r̃àhoːtòː	PROPN	_	Definite=Def	3	subj	_	Gloss=report.Masc.Def
-2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+1	r̃àhoːtòn	r̃àhoːtòː	PROPN	_	Definite=Def|Gender=Masc	3	subj	_	Gloss=report.Masc.Def
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 4	bayyànà	bayyan-	VERB	_	_	3	comp:aux	_	Gloss=reveal
 5	suːnàːyen	suːnaː	NOUN	_	Definite=Cons|Number=Plur	4	comp:obj	_	Gloss=name.Plur
@@ -615,7 +615,7 @@
 4	baːyar̃	baː	VERB	_	Voice=Cau	3	comp:aux	_	Gloss=give.Cau|wordform=bayar
 5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
 6	dàliːlìn	dàliːlìː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:obj	_	Gloss=reason.Masc.Cons
-7	mutuwàr̃	mutuwàː	NOUN	_	Definite=Cons	6	mod	_	Gloss=death.Fem.Cons|SpaceAfter=No|wordform=mutuwàr̃sù
+7	mutuwàr̃	mutuwàː	NOUN	_	Definite=Cons|Gender=Fem	6	mod	_	Gloss=death.Fem.Cons|SpaceAfter=No|wordform=mutuwàr̃sù
 8	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	7	mod	_	Gloss=3Plur.Gen
 9	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
 10	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	9	comp:obj	_	Gloss=say.Vnoun.Fem|wordform=cêwaː
@@ -631,7 +631,7 @@
 20	cêː	cêː	VERB	_	_	19	comp:aux	_	Gloss=say|wordform=cê
 21	àkwai	àkwai	PART	_	PartType=Pred	20	comp:obj	_	Gloss=there_is
 22	wasu	wani	DET	_	Definite=Spec|Number=Plur	23	det	_	Gloss=some.Plur.Spec
-23	dàlìːlân	dàliːlìː	NOUN	_	Definite=Def	21	subj	_	Gloss=cause.Plur.Def|SpaceAfter=No
+23	dàlìːlân	dàliːlìː	NOUN	_	Definite=Def|Number=Plur	21	subj	_	Gloss=cause.Plur.Def|SpaceAfter=No
 24	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 25	tun	tun	ADP	_	_	21	mod	_	Gloss=since
 26	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	28	mod	_	Gloss=Neg
@@ -653,12 +653,12 @@
 5	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:obj	_	Gloss=say.Vnoun.Fem|wordform=cêwaː
 6	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	5	comp:obj	_	Gloss=3Fem.Prog
 7	shakkàr̃	shakkàː	NOUN	_	Definite=Cons|Gender=Fem	6	comp:aux	_	Gloss=fear.Fem.Cons
-8	ìkìr̃aːrìn	ìkìr̃aːrìː	NOUN	_	Definite=Cons	7	mod	_	Gloss=claim.Masc.Cons
-9	hukuːmoːmin	hùkuːmàː	NOUN	_	Definite=Cons|Gender=Masc	8	mod	_	Gloss=authority.Plur.Cons
+8	ìkìr̃aːrìn	ìkìr̃aːrìː	NOUN	_	Definite=Cons|Gender=Masc	7	mod	_	Gloss=claim.Masc.Cons
+9	hukuːmoːmin	hùkuːmàː	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	8	mod	_	Gloss=authority.Plur.Cons
 10	gidàːjen	gidaː	NOUN	_	Definite=Cons|Number=Plur	9	mod	_	Gloss=house.Plur.Cons
 11	yaːrìn	yaːrìː	NOUN	_	Definite=Def|Gender=Masc	10	compound	_	Gloss=prison.Masc.Cons
 12	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=COMP
-13	kè:	nàː	AUX	_	Aspect=Prog	12	comp:obj	_	Gloss=Prog.Rel
+13	kè:	nàː	AUX	_	Aspect=Prog|Relative=Rel	12	comp:obj	_	Gloss=Prog.Rel
 14	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	13	comp:aux	_	Gloss=say.Vnoun.Fem
 15	anàː	nàː	AUX	_	Aspect=Prog|Person=4	14	comp:obj	_	Gloss=4.Prog
 16	tsarè	tsar-	VERB	_	_	15	comp:aux	_	Gloss=imprison
@@ -707,12 +707,12 @@
 21	nèː	neː	AUX	_	_	10	conj:coord	_	Gloss=be
 22	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	dislocated@subj	_	Gloss=seen.Vnoun.Masc.Cons
 23	yaddà	yaddà	ADV	_	PronType=Rel	22	comp:obj	_	Gloss=how
-24	mutànên	mùtûm	NOUN	_	Definite=Def|Gender=Masc	28	subj	_	Gloss=people.Plur.Def
+24	mutànên	mùtûm	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	28	subj	_	Gloss=people.Plur.Def
 25	dà	dà	SCONJ	_	_	24	mod@relcl	_	Gloss=COMP
 26	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	25	comp:obj	_	Gloss=4.Perf.Rel
 27	sakoː	sak-	VERB	_	_	26	comp:aux	_	Gloss=release
 28	nàː	nàː	AUX	_	Aspect=Prog	23	mod@relcl	_	Gloss=Prog
-29	fitôːwaː	fit-	VERB	_	ExtPos=NOUN|Gender=Fem	28	comp:aux	_	Gloss=come_out
+29	fitôːwaː	fit-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	28	comp:aux	_	Gloss=come_out
 30	dà	dà	ADP	_	_	29	comp:obl	_	Gloss=with
 31	wani	wani	DET	_	Definite=Spec|Gender=Masc	32	det	_	Gloss=some.Masc.Spec
 32	haːliː	haːliː	NOUN	_	Gender=Masc	30	comp:obj	_	Gloss=character.Masc
@@ -720,7 +720,7 @@
 34	nuːnà	nuːn-	VERB	_	_	33	comp:obj	_	Gloss=show
 35	ƙìyayyàː	ƙìyayyàː	NOUN	_	ExtPos=NOUN|Gender=Fem	34	comp:obj	_	Gloss=hate.Fem
 36	dà	dà	CCONJ	_	_	38	cc	_	Gloss=and|wordform=da
-37	kuma	kuma	PART	_	PartType=Disc	36	discourse@top	_	Gloss=also
+37	kuma	kuma	PART	_	PartType=Top	36	discourse@top	_	Gloss=also
 38	sôn	soː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	34	conj:coord	_	Gloss=want.Vnoun.Masc.Cons
 39	ɗaukàr̃	ɗauk-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	38	mod	_	Gloss=take.Vnoun.Fem.Cons
 40	fansaː	fansaː	NOUN	_	Gender=Fem	39	mod	_	Gloss=revenge.Fem|SpaceAfter=No

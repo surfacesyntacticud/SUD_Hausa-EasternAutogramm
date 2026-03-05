@@ -19,10 +19,10 @@
 1	gà	gà	ADP	_	_	24	mod	_	Gloss=to
 2	mafìː	mafìː	PART	_	PartType=Der	1	comp:obj	_	Gloss=exceeding_in
 3	yawancin	yawanciː	NOUN	_	Definite=Cons|Gender=Masc	2	compound	_	Gloss=majority.Masc.Cons
-4	ꞌyan	ɗaː	ADJ	_	Definite=Cons	3	mod	_	Gloss=child.Plur.Cons
+4	ꞌyan	ɗaː	ADJ	_	Definite=Cons|Number=Plur	3	mod	_	Gloss=child.Plur.Cons
 5	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	4	compound	_	Gloss=Nigeria|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-7	ɓullôːwar̃	ɓull-	NOUN	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	24	subj	_	Gloss=appear.Vnoun.Fem.Cons|wordform=ɓullôːwar
+7	ɓullôːwar̃	ɓull-	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	24	subj	_	Gloss=appear.Vnoun.Fem.Cons|wordform=ɓullôːwar
 8	jirgin	jirgiː	NOUN	_	Definite=Cons|Gender=Masc	7	mod	_	Gloss=vehicle.Masc.Cons
 9	ruwân	ruwaː	NOUN	_	Definite=Cons|Gender=Masc	8	compound	_	Gloss=water.Masc.Cons
 10	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	8	det	_	Gloss=ProxH
@@ -58,12 +58,12 @@
 
 # sent_id = 02_Yarima_Charles_3
 # text_en = The children that are on the bridges of Lagos selling mouse traps, underpants and fake "Rolex" watches in the traffic jams, they all stopped peddling to watche the confusion that was taking place on the sea side.
-# text = yâːraː ƙanaːnàː dà kèː kân gadoːjiː na bir̃nin Ìkko sunàː tàllàn tarkòn ɓeːr̃aː , dà kamfàːyeː , dà agoːgunàn " Rolex " na jàbu à tsàːkaːnin cùnkoːson moːtoːci , duk sun daːkatar̃ dà tàllàce-tàllàcen sù dòːmin sù yi kallon hàdàː-hadâr̃ dà takèː àukuwaː à bàːkin tèːkûn .
+# text = yâːraː ƙanaːnàː dà kèː kân gadoːjiː na bir̃nin Ìkko sunàː tàllàn tarkòn ɓeːr̃aː, dà kamfàːyeː, dà agoːgunàn " Rolex" na jàbu à tsàːkaːnin cùnkoːson moːtoːci, duk sun daːkatar̃ dà tàllàce-tàllàcensù dòːmin sù yi kallon hàdàː-hadâr̃ dà takèː àukuwaː à bàːkin tèːkûn.
 # text_ortho = Yâːraː ƙanaːnàː dà kèː kân gadoːjiː na bir̃nin Ìkko sunàː tàllàn tarkòn ɓeːr̃aː, da kamfàːyeː, dà agoːgunàn ‘Rolex’ na jàbu à tsàːkaːnin cùnkoːson moːtoːci, duk sun daːkatar̃ dà tàllàce-tàllàcensù dòːmin sù yi kallon hàdàː-hadâr̃ da takèː àukuwaː à bàːkin tèːkûn.
 1	yâːraː	yaːròː	NOUN	_	Number=Plur	31	dislocated@subj	_	Gloss=child.Plur
 2	ƙanaːnàː	ƙàramiː	ADJ	_	Number=Plur	1	mod	_	Gloss=small.Plur
 3	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
-4	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel2	3	comp:obj	_	Gloss=Prog.Rel
+4	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	3	comp:obj	_	Gloss=Prog.Rel
 5	kân	kân	ADP	_	_	4	comp:pred	_	Gloss=on
 6	gadoːjiː	gadàː	NOUN	_	Number=Plur	5	comp:obj	_	Gloss=bridge.Plur
 7	na	na	PART	_	Case=Gen|Number=Plur|PartType=Case	6	mod	_	Gloss=Gen.Plur
@@ -104,7 +104,7 @@
 42	takèː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Relative=Rel	41	comp:obj	_	Gloss=3Fem.Prog.Rel
 43	àukuwaː	auk-	NOUN	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	42	comp:aux	_	Gloss=take_place.Vnoun.Fem
 44	à	à	ADP	_	_	43	mod	_	Gloss=at
-45	bàːkin	bàːkiː	NOUN	_	Definite=Cons	44	comp:obj	_	Gloss=shore.Masc.Cons
+45	bàːkin	bàːkiː	NOUN	_	Definite=Cons|Gender=Masc	44	comp:obj	_	Gloss=shore.Masc.Cons
 46	tèːkûn	tèːku	NOUN	_	Definite=Def|Gender=Masc	45	compound	_	Gloss=sea.Masc.Def|SpaceAfter=No
 47	.	.	PUNCT	_	_	31	punct	_	Gloss=PUNCT
 
@@ -115,7 +115,7 @@
 1	bìsàː	bìsàː	ADP	_	_	6	mod	_	Gloss=according_to
 2	àlꞌaːdàː	àlꞌaːdàː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=custom.Fem
 3	bàːƙin	bàːƙoː	NOUN	_	Definite=Cons|Number=Plur	6	subj	_	Gloss=guest.Plur.Cons
-4	Gwamnatìn	gwamnatì	NOUN	_	Definite=Cons	3	mod	_	Gloss=government.Fem.Cons
+4	Gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	3	mod	_	Gloss=government.Fem.Cons
 5	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	Number=Plur	4	mod	_	Gloss=Nigeria
 6	sukàn	kàn	AUX	_	Aspect=Hab|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Hab
 7	sàuka	sauk-	VERB	_	_	6	comp:aux	_	Gloss=get_down
@@ -146,7 +146,7 @@
 # text_en = The house is right by the sea, and up till now it is interesting and nice-looking despite the modern improvements that were doen when Nigeria was full of petrol money.
 # text = gidân nàː gab dà bàːkin tèːku kuma har̃ yànzu yanàː dà ban shàꞌawàː dà haskàkâːwaː duk dà gyàːre-gyàːren zaːmàniː dà akà yi masà loːkàcîn dà Nàːjeːr̃iyàː takèː cìke dà ar̃zìkin mân feːtùr̃.
 # text_ortho = Gidân nàː gab dà bàːkin tèːku kuma har̃ yànzu yanàː dà ban shàꞌawàː da haskàkâːwaː duk dà gyàːre-gyàːren zaːmàniː dà akà yi masà loːkàcîn dà Nàːjeːr̃iyàː takèː cìke dà ar̃zìkin mân feːtùr̃.
-1	gidân	gidaː	NOUN	_	Definite=Def	2	subj	_	Gloss=house.Masc.Def
+1	gidân	gidaː	NOUN	_	Definite=Def|Gender=Masc	2	subj	_	Gloss=house.Masc.Def
 2	nàː	nàː	AUX	_	_	0	root	_	Gloss=Prog
 3	gab	gab	IDEO	_	ExtPos=ADP	2	comp:pred	_	Gloss=close|Idiom=Yes
 4	dà	dà	ADP	_	_	3	compound	_	Gloss=with|InIdiom=Yes
@@ -189,13 +189,13 @@
 3	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	Gloss=Neg
 4	dukkàn	dukà	DET	_	_	5	mod	_	Gloss=all
 5	abuːbuwàn	àbù	NOUN	_	Definite=Cons|Number=Plur	0	root	_	Gloss=thing.Plur.Cons
-6	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	5	mod	_	Gloss=hear.Vnoun.Masc.Cons
+6	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	mod	_	Gloss=hear.Vnoun.Masc.Cons
 7	daːɗin	daːɗiː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	Gloss=pleasure.Masc.Cons
 8	ràːyuwaː	ràːyuwaː	NOUN	_	Gender=Fem	7	mod	_	Gloss=life.Fem
 9	dà	dà	SCONJ	_	_	5	mod@relcl	_	Gloss=COMP
 10	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	9	comp:obj	_	Gloss=Prog.Rel
 11	cikin	cikin	ADP	_	_	10	comp:obl	_	Gloss=inside
-12	gidân	gidaː	NOUN	_	Definite=Def	11	comp:obj	_	Gloss=house.Masc.Def
+12	gidân	gidaː	NOUN	_	Definite=Def|Gender=Masc	11	comp:obj	_	Gloss=house.Masc.Def
 13	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	5	conj:cleft	_	Gloss=Prog.Rel
 14	aikìː	aikìː	NOUN	_	Gender=Masc	13	comp:aux	_	Gloss=work.Masc
 15	kàmar̃	kàmar̃	ADP	_	_	14	mod	_	Gloss=like
@@ -235,7 +235,7 @@
 24	riƙà	riƙ-	VERB	_	_	23	comp:aux	_	Gloss=keep_doing
 25	ɗeːboː	ɗeːb-	VERB	_	_	24	comp:obj	_	Gloss=fetch
 26	matà	matà	PRON	_	Case=Dat|Gender=Fem|Person=3|PronType=Prs	25	comp:obl	_	Gloss=3Fem.Dat
-27	ruwan	ruwaː	NOUN	_	Definite=Cons	25	comp:obj	_	Gloss=water.Masc.Cons
+27	ruwan	ruwaː	NOUN	_	Definite=Cons|Gender=Masc	25	comp:obj	_	Gloss=water.Masc.Cons
 28	zaːfiː	zaːfiː	NOUN	_	Gender=Masc	27	mod	_	Gloss=heat.Masc|SpaceAfter=No
 29	.	.	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 
@@ -247,9 +247,9 @@
 2	jirgin	jirgiː	NOUN	_	Definite=Cons|Gender=Masc	1	mod	_	Gloss=vehicle.Masc.Cons
 3	ruwân	ruwaː	NOUN	_	Definite=Cons|Gender=Masc	2	compound	_	Gloss=water.Masc.Cons
 4	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=ProxH
-5	wàːtòː	wàːtòː	PART	_	PartType=Disc	7	discourse	_	Gloss=that_is
+5	wàːtòː	wàːtòː	CCONJ	_	_	7	cc	_	Gloss=i.e.
 6	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT|wordform=‘
-7	Britannia	Britannia	PROPN	_	_	2	conj:appos	_	Gloss=Britannia|SpaceAfter=No
+7	Britannia	Britannia	PROPN	_	_	2	conj:dicto	_	Gloss=Britannia|SpaceAfter=No
 8	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT|wordform=’
 9	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	10	comp:pred	_	Gloss=3Masc.Nom
 10	nèː	neː	AUX	_	PartType=Foc	0	root	_	Gloss=be
@@ -287,13 +287,13 @@
 # text = jiyà kuma Gwamnàn Jihàr̃ Ànambar̃à dà uwar̃gidansà sukà tàrbi Yàr̃iːmà dà Gimbìyaː à fiːlin jirgin samàn na Inugù.
 # text_ortho = Jiyà kuma Gwamnàn Jihàr̃ Ànambar̃à da uwar̃gidansà sukà tàrbi Yàr̃iːmà da Gimbìyaː à fiːlin jirgin samàn na Inugù.
 1	jiyà	jiyà	ADV	_	_	9	mod	_	Gloss=yesterday
-2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	Gwamnàn	gwamnàn	PROPN	_	Definite=Cons|Gender=Masc	9	subj	_	Gloss=governor.Masc.Cons
 4	Jihàr̃	jihàː	NOUN	_	Definite=Cons|Gender=Fem	5	mod@desc	_	Gloss=state.Fem.Cons
 5	Ànambar̃à	Ànambar̃à	PROPN	_	_	3	mod	_	Gloss=Anambra
 6	dà	da	CCONJ	_	_	7	cc	_	Gloss=and|wordform=da
 7	uwar̃gidan	uwar̃gidaː	NOUN	_	Definite=Cons|Gender=Fem	3	conj:coord	_	Gloss=wife.Fem.Cons|SpaceAfter=No|wordform=uwar̃gidansà
-8	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	7	mod	_	Gloss=3Masc.Gen
+8	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	7	mod	_	Gloss=3Masc.Gen
 9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
 10	tàrbi	tarb-	VERB	_	_	9	comp:aux	_	Gloss=go_meet
 11	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=prince.Masc
@@ -318,7 +318,7 @@
 5	miːƙàː	miːƙ-	VERB	_	_	4	comp:aux	_	Gloss=proffer
 6	wà	wà	ADP	_	Case=Dat	5	comp:obl	_	Gloss=Dat
 7	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=prince.Masc
-8	fùrànnin	fùreː	VERB	_	Definite=Cons	5	comp:obj	_	Gloss=flower.Plur.Cons
+8	fùrànnin	fùreː	VERB	_	Definite=Cons|Number=Plur	5	comp:obj	_	Gloss=flower.Plur.Cons
 9	mar̃àːba	mar̃àːba	NOUN	_	Gender=Fem	8	mod	_	Gloss=welcome.Fem
 10	sai	sai	ADV	_	_	13	mod	_	Gloss=then
 11	mânyan	bàbbaː	ADJ	_	Definite=Cons|Number=Plur	12	mod	_	Gloss=big.Plur.Cons
@@ -347,7 +347,7 @@
 6	irìː-irìː	irìː-irìː	ADJ	_	Gender=Masc	5	mod	_	Gloss=various|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 8	màːsu	mài	PART	_	Number=Plur|PartType=Der	5	mod	_	Gloss=owner/doer_of.Plur
-9	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc	8	comp:obj	_	Gloss=put
+9	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:obj	_	Gloss=put
 10	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	9	comp:obj@R	_	Gloss=mouth.Masc
 11	miyau	miyau	NOUN	_	Gender=Masc	9	comp:obj@T	_	Gloss=saliva.Masc
 12	-	-	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -367,7 +367,7 @@
 9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 10	dà	dà	CCONJ	_	_	11	cc	_	Gloss=and
 11	sauran	sauraː	NOUN	_	Definite=Cons|Gender=Masc	8	conj:coord	_	Gloss=rest.Masc.Cons
-12	kaːyan	kaːyaː	NOUN	_	Definite=Cons	11	mod	_	Gloss=stuff.Masc.Cons
+12	kaːyan	kaːyaː	NOUN	_	Definite=Cons|Gender=Masc	11	mod	_	Gloss=stuff.Masc.Cons
 13	marmariː	marmariː	NOUN	_	Gender=Masc	12	compound	_	Gloss=desire.Masc|SpaceAfter=No
 14	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
@@ -400,8 +400,8 @@
 3	sai	sai	ADV	_	_	9	mod	_	Gloss=then
 4	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	9	subj	_	Gloss=prince.Masc
 5	dà	dà	CCONJ	_	_	6	cc	_	Gloss=and
-6	uwar̃gidan	uwar̃gidaː	NOUN	_	Definite=Cons	4	conj:coord	_	Gloss=wife.Fem.Cons|SpaceAfter=No|wordform=uwar̃gidansà
-7	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	6	mod	_	Gloss=3Masc.Gen
+6	uwar̃gidan	uwar̃gidaː	NOUN	_	Definite=Cons|Gender=Fem	4	conj:coord	_	Gloss=wife.Fem.Cons|SpaceAfter=No|wordform=uwar̃gidansà
+7	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	6	mod	_	Gloss=3Masc.Gen
 8	Gimbìyaː	gimbìyaː	NOUN	_	Gender=Fem	6	conj:appos	_	Gloss=princess.Fem
 9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
 10	taːshì	taːs-	VERB	_	_	9	comp:aux	_	Gloss=set_off
@@ -416,7 +416,7 @@
 # text_ortho = À can kuma Yàr̃iːmà yaː zìyàr̃ci gandun daːjìː na Korup, wandà kuma wataƙiːlà shiː nèː gandun daːjìn dà ya fi koːwànneː girmaː, sànnan kuma ya fi koːwànneː yawàn itaːtuwàː irìː-irìː à duk faːɗin dūniyàː.
 1	à	à	ADP	_	_	5	mod	_	Gloss=at
 2	can	can	ADV	_	Deixis=Remt|PronType=Dem	1	comp:obj	_	Gloss=Remt
-3	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+3	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 4	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	5	subj	_	Gloss=prince.Masc
 5	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 6	zìyàr̃ci	ziyar̃t-	VERB	_	_	5	comp:aux	_	Gloss=visit
@@ -426,7 +426,7 @@
 10	Korup	Korup	PROPN	_	_	9	comp:obj	_	Gloss=Korup|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	7	mod@relcl	_	Gloss=REL.Masc
-13	kuma	kuma	PART	_	PartType=Disc	12	discourse@top	_	Gloss=also
+13	kuma	kuma	PART	_	PartType=Top	12	discourse@top	_	Gloss=also
 14	wataƙiːlà	wataƙiːlà	ADV	_	_	16	mod	_	Gloss=maybe
 15	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	16	comp:pred	_	Gloss=3Masc.Nom
 16	nèː	neː	AUX	_	_	12	comp:obj	_	Gloss=be
@@ -439,7 +439,7 @@
 23	girmaː	girmaː	NOUN	_	Gender=Masc	21	mod	_	Gloss=size.Masc|SpaceAfter=No
 24	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 25	sànnan	sànnan	ADV	_	_	27	mod	_	Gloss=then
-26	kuma	kuma	PART	_	PartType=Disc	25	discourse@top	_	Gloss=also
+26	kuma	kuma	PART	_	PartType=Top	25	discourse@top	_	Gloss=also
 27	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	20	conj:coord	_	Gloss=3Masc.Perf.Rel
 28	fi	fi	VERB	_	_	27	comp:aux	_	Gloss=exceed
 29	koːwànneː	koːwànneː	PRON	_	Gender=Masc|PronType=Ind	28	comp:obj	_	Gloss=each_one.Masc
@@ -483,7 +483,7 @@
 6	ɗàriː	ɗàriː	NUM	_	Gender=Fem	5	comp:obj	_	Gloss=hundred
 7	na	na	PART	_	Case=Gen|Definite=Cons|Gender=Masc|PartType=Case	1	mod	_	Gloss=Gen.Masc
 8	duk	dukà	DET	_	_	9	det	_	Gloss=all
-9	yawàn	yawàn	ADJ	_	Definite=Cons	7	mod	_	Gloss=quantity.Masc.Cons
+9	yawàn	yawàn	ADJ	_	Definite=Cons|Gender=Masc	7	mod	_	Gloss=quantity.Masc.Cons
 10	jinsunàn	jinsìː	NOUN	_	Definite=Def|Number=Plur	9	mod	_	Gloss=species.Plur.Def
 11	birân	birìː	NOUN	_	Definite=Def|Number=Plur	10	mod	_	Gloss=monkey.Plur.Def
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
@@ -496,8 +496,8 @@
 19	iskèː	isk-	VERB	_	_	18	comp:aux	_	Gloss=find
 20	su	su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	19	comp:obj	_	Gloss=3Plur.Acc
 21	à	à	ADP	_	Mood=Sub|Person=4	19	comp:obl	_	Gloss=at
-22	gandun	ganduː	NOUN	_	Definite=Cons	24	mod@desc	_	Gloss=ranch.Masc.Cons
-23	daːjìn	daːjìː	NOUN	_	Definite=Cons	22	comp:obj	_	Gloss=bush.Masc.Cons
+22	gandun	ganduː	NOUN	_	Definite=Cons|Gender=Masc	24	mod@desc	_	Gloss=ranch.Masc.Cons
+23	daːjìn	daːjìː	NOUN	_	Definite=Cons|Gender=Masc	22	comp:obj	_	Gloss=bush.Masc.Cons
 24	Korup	Korup	PROPN	_	_	21	comp:obj	_	Gloss=Korup|SpaceAfter=No
 25	;	;	PUNCT	_	_	28	punct	_	Gloss=PUNCT
 26	hakà	hakà	ADV	_	_	28	mod	_	Gloss=thus
@@ -521,7 +521,7 @@
 # text_ortho = Sai dai kuma kash! – Yàr̃iːmà bài ga koː dàː gùdaː dàgà cikin waɗànnân hàlìttuː ba, sabòːdà zùmūɗìn dà jàːmìꞌan gwamnatìn Kàmàr̃u sukà nuːnàː wajen aikàːwaː dà rùndunaː ɗàuke dà màkàːmai zuwàː daːjìn don kaːrè laːfiyàr̃sà.
 1	sai	sai	SCONJ	_	_	8	discourse	_	Gloss=except_that
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
-3	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+3	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 4	kash	kash	INTJ	_	_	8	discourse	_	Gloss=alas|SpaceAfter=No
 5	!	!	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 6	–	–	PUNCT	_	_	4	punct	_	Gloss=PUNCT
@@ -568,7 +568,7 @@
 1	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=from
 2	bìsaːniː	bìsaːniː	ADV	_	_	1	comp:obj	_	Gloss=later
 3	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
-4	Yàr̃iːmàn	yàr̃iːmà	PROPN	_	Definite=Def	5	subj	_	Gloss=prince.Masc.Def
+4	Yàr̃iːmàn	yàr̃iːmà	PROPN	_	Definite=Def|Gender=Masc	5	subj	_	Gloss=prince.Masc.Def
 5	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 6	fitoː	fit-	VERB	_	_	5	comp:aux	_	Gloss=come_out
 7	cikin	cikin	ADP	_	_	6	comp:obl	_	Gloss=inside
