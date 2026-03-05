@@ -8,7 +8,7 @@
 4	wani	wani	DET	_	Definite=Spec|Gender=Masc	5	det	_	Gloss=some.Masc.Spec
 5	lauyàː	lauyàː	NOUN	_	Gender=Masc	3	comp:obj	_	Gloss=lawyer.Masc
 6	mài	mài	PART	_	Number=Sing|PartType=Der	5	mod	_	Gloss=owner/doer_of.Sing
-7	r̃aꞌàyin	r̃aꞌàyiː	NOUN	_	Definite=Cons	6	compound	_	Gloss=opinion.Masc.Cons
+7	r̃aꞌàyin	r̃aꞌàyiː	NOUN	_	Definite=Cons|Gender=Masc	6	compound	_	Gloss=opinion.Masc.Cons
 8	canjìː	canjìː	NOUN	_	Gender=Masc	7	mod	_	Gloss=change.Masc
 9	à	à	ADP	_	_	2	mod	_	Gloss=at
 10	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	9	comp:obj	_	Gloss=Nigeria
@@ -19,14 +19,14 @@
 # text = gwamnatìn mulkìn soːjàn Nàːjeːr̃iyàː taː shaː bambam dà sauran gwamnatoːcin mulkìn soːjà dà kèː Afir̃kà.
 1	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	5	subj	_	Gloss=government.Fem
 2	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	1	mod	_	Gloss=rule.Masc.Cons
-3	soːjàn	soːjà	NOUN	_	Definite=Cons	2	mod	_	Gloss=soldiers.Masc.Cons
+3	soːjàn	soːjà	NOUN	_	Definite=Cons|Gender=Masc	2	mod	_	Gloss=soldiers.Masc.Cons
 4	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	1	mod	_	Gloss=Nigeria
 5	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
 6	shaː	shaː	VERB	_	_	5	comp:aux	_	Gloss=suffer
 7	bambam	bambam	ADV	_	_	6	comp:pred	_	Gloss=different
 8	dà	dà	CCONJ	_	_	6	comp:obl	_	Gloss=and
 9	sauran	sauraː	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=rest.Masc.Cons
-10	gwamnatoːcin	gwamnatì	NOUN	_	Definite=Cons	9	mod	_	Gloss=government.Plur.Cons
+10	gwamnatoːcin	gwamnatì	NOUN	_	Definite=Cons|Number=Plur	9	mod	_	Gloss=government.Plur.Cons
 11	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	10	mod	_	Gloss=rule.Masc.Cons
 12	soːjà	soːjà	NOUN	_	Number=Plur	11	mod	_	Gloss=soldiers.Plur
 13	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=COMP
@@ -82,7 +82,7 @@
 10	wata	wani	DET	_	Definite=Spec|Gender=Fem	11	det	_	Gloss=some.Fem.Spec
 11	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=law.Fem
 12	-	-	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-13	wàːtòː	wàːtòː	CCOMP	_	_	14	cc	_	Gloss=that_is
+13	wàːtòː	wàːtòː	CCONJ	_	_	14	cc	_	Gloss=i.e.
 14	Dòːkaː	Dòːkaː	PROPN	_	_	11	conj:dicto	_	Gloss=Dòːkaː
 15	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	14	mod	_	Gloss=Gen.Fem
 16	Biyu	Biyu	PROPN	_	_	15	comp:obj	_	Gloss=Biyu
@@ -104,8 +104,8 @@
 32	tàːre	tàːre	ADV	_	_	33	mod	_	Gloss=together
 33	dà	dà	ADP	_	_	25	mod	_	Gloss=with
 34-35	tùhumàr̃sà	_	_	_	_	_	_	_	_
-34	tùhumàr̃	tuhum-	VERB	_	Definite=Cons|Gender=Fem|VerbForm=Vnoun	33	comp:obj	_	Gloss=charge.Vnoun.Fem.Cons
-35	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	34	comp:obj	_	Gloss=3Masc.Gen
+34	tùhumàr̃	tuhum-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	33	comp:obj	_	Gloss=charge.Vnoun.Fem.Cons
+35	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	34	comp:obj	_	Gloss=3Masc.Gen
 36	ba	ba	PART	_	PartType=Neg|Polarity=Neg	33	mod	_	Gloss=Neg|SpaceAfter=No
 37	,	,	PUNCT	_	_	38	punct	_	Gloss=PUNCT
 38	in	in	SCONJ	_	_	24	mod	_	Gloss=if
@@ -173,7 +173,7 @@
 17	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	16	comp:obj	_	Gloss=Nigeria
 18	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=COMP
 19	zaːtà	zâi	AUX	_	Gender=Fem|Person=3|Tense=Fut	18	comp:obj	_	Gloss=3Fem.Fut
-20	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc	19	comp:aux	_	Gloss=put
+20	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:aux	_	Gloss=put
 21	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=mouth.Masc|SpaceAfter=No
 22	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
@@ -181,8 +181,8 @@
 # text_en = A famous lawyer, "Chief Gani Fawehinmi", has been imprisoned in Nigeira for three months under that national security law, and without any sign that he will brought to court.
 # text_ortho = Wani shàhàr̃ar̃r̃en lauyàː – " Chief Gani Fawehinmi" – an tsarèː shi à Nàːjeːr̃iyàː har̃ tsawon wàtànniː ukù ƙàr̃ƙashin wannàn dòːkaː ta tsàron laːfiyar̃ ƙasaː, kuma bàː tàːre dà wata àlaːmàː zaː'à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː ba.
 # text = wani shàhàr̃ar̃r̃en lauyàː – " Chief Gani Fawehinmi" – an tsarèː shi à Nàːjeːr̃iyàː har̃ tsawon wàtànniː ukù ƙàr̃ƙashin wannàn dòːkaː ta tsàron laːfiyar̃ ƙasaː, kuma bàː tàːre dà wata àlaːmàː zaː'à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː ba.
-1	wani	wani	DET	_	Definite=Spec	3	det	_	Gloss=some.Masc.Spec
-2	shàhàr̃ar̃r̃en	shàhàr̃ar̃r̃eː	ADJ	_	Definite=Cons	3	mod	_	Gloss=famous.Masc.Cons
+1	wani	wani	DET	_	Definite=Spec|Gender=Masc	3	det	_	Gloss=some.Masc.Spec
+2	shàhàr̃ar̃r̃en	shàhàr̃ar̃r̃eː	ADJ	_	Definite=Cons|Gender=Masc	3	mod	_	Gloss=famous.Masc.Cons
 3	lauyàː	lauyàː	NOUN	_	Gender=Fem	11	dislocated@comp	_	Gloss=lawyer.Masc
 4	–	–	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 5	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -239,7 +239,7 @@
 9	yâu	yâu	ADV	_	_	8	mod	_	Gloss=today
 10	cêːwaː	cêːwaː	SCONJ	_	_	8	comp:obj	_	Gloss=COMP
 11	yànzu	yànzu	ADV	_	_	14	mod	_	Gloss=now
-12	hukuːmoːmin	hùkuːmàː	NOUN	_	Definite=Cons	14	subj	_	Gloss=authority.Plur.Cons
+12	hukuːmoːmin	hùkuːmàː	NOUN	_	Definite=Cons|Number=Plur	14	subj	_	Gloss=authority.Plur.Cons
 13	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	12	mod	_	Gloss=country.Fem.Def
 14	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	10	comp:obj	_	Gloss=3Plur.Prog
 15	shirìn	shiry-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:aux	_	Gloss=prepare.Vnoun.Masc.Cons
@@ -255,7 +255,7 @@
 25	tàːre	tàːre	ADV	_	_	26	mod	_	Gloss=together
 26	dà	dà	CCONJ	_	_	27	cc	_	Gloss=and
 27	zàrgin	zarg-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	conj:coord	_	Gloss=accuse.Vnoun.Masc.Cons|SpaceAfter=No|wordform=zàrginsà
-28	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	27	comp:obj	_	Gloss=3Masc.Gen
+28	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	27	comp:obj	_	Gloss=3Masc.Gen
 29	dà	dà	CCONJ	_	_	27	comp:obl	_	Gloss=and
 30	lâifin	lâifiː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=crime.Masc.Cons
 31	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	30	mod	_	Gloss=do.Vnoun.Masc.Cons
@@ -268,7 +268,7 @@
 38	gà	gà	ADP	_	_	36	comp:obl	_	Gloss=to
 39	farar̃-hùːlaː	farar̃-hùːlaː	NOUN	_	Number=Plur	38	comp:obj	_	Gloss=civilian.Plur
 40	dàgà	dàgà	ADP	_	_	36	comp:obl	_	Gloss=from
-41	hannun	hannuː	NOUN	_	Definite=Cons	40	comp:obj	_	Gloss=hand.Masc.Cons
+41	hannun	hannuː	NOUN	_	Definite=Cons|Gender=Masc	40	comp:obj	_	Gloss=hand.Masc.Cons
 42	soːjoːjiː	soːjà	NOUN	_	Number=Plur	41	mod	_	Gloss=soldier.Plur|SpaceAfter=No
 43	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
@@ -310,7 +310,7 @@
 31	mùjallàː	mùjallàː	NOUN	_	Gender=Fem	27	comp:obj	_	Gloss=journal.Fem
 32	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	31	mod	_	Gloss=Gen.Fem
 33	màːsu	mài	PART	_	Number=Plur|PartType=Der	32	comp:obj	_	Gloss=owner/doer_of.Plur
-34	r̃aꞌàyin	r̃aꞌàyiː	NOUN	_	Definite=Cons	33	compound	_	Gloss=opinion.Masc.Cons
+34	r̃aꞌàyin	r̃aꞌàyiː	NOUN	_	Definite=Cons|Gender=Masc	33	compound	_	Gloss=opinion.Masc.Cons
 35	canjìː	canjìː	NOUN	_	Gender=Masc	34	mod	_	Gloss=change.Masc
 36	à	à	ADP	_	_	27	mod	_	Gloss=at
 37	cikin	cikin	ADP	_	_	36	comp:obj	_	Gloss=inside
@@ -348,8 +348,8 @@
 # text_en = His lawyer went on to say that if Chief G.F. os convicted of this crime, he can receive up to five year's imprisonment.
 # text_ortho = Lauyànsà yaː ƙaːràː dà cêːwaː ìdan har̃ akà sàːmi Chief G.F. dà wannàn lâifiː, tòː zâi iyà saːmùn ɗaurìn har̃ shèːkaràː bìyar̃ à gidan yaːrìː.
 # text = lauyànsà yaː ƙaːràː dà cêːwaː ìdan har̃ akà sàːmi Chief G.F. dà wannàn lâifiː, tòː zâi iyà saːmùn ɗaurìn har̃ shèːkaràː bìyar̃ à gidan yaːrìː.
-1	lauyàn	Lauyànsà	PROPN	_	Number=Plur	3	subj	_	Gloss=Lauyànsà|SpaceAfter=No|wordform=Lauyànsà
-2	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	1	mod	_	Gloss=3Masc.Gen
+1	lauyàn	lauyàː	PROPN	_	Definite=Cons|Gender=Masc	3	subj	_	Gloss=Lauyànsà|SpaceAfter=No|wordform=Lauyànsà
+2	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	1	mod	_	Gloss=3Masc.Gen
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 4	ƙaːràː	ƙaːr-	VERB	_	_	3	comp:aux	_	Gloss=increase
 5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
@@ -391,7 +391,7 @@
 8	zama	zama	VERB	_	_	7	comp:aux	_	Gloss=become
 9	ƙayàː	ƙayàː	NOUN	_	Gender=Fem	8	comp:pred	_	Gloss=thorn.Fem
 10	gà	gà	ADP	_	_	8	comp:obl	_	Gloss=to
-11	gwamnatoːcin	gwamnatì	NOUN	_	Definite=Cons	10	comp:obj	_	Gloss=goverment.Plur.Cons
+11	gwamnatoːcin	gwamnatì	NOUN	_	Definite=Cons|Number=Plur	10	comp:obj	_	Gloss=goverment.Plur.Cons
 12	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	11	mod	_	Gloss=Nigeria|SpaceAfter=No
 13	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
@@ -456,11 +456,11 @@
 12	dà	dà	ADP	_	_	10	comp:obl	_	Gloss=with
 13	tabbatar̃	tabbataː	VERB	_	Voice=Cau	12	comp:obj	_	Gloss=be_sure.Cau
 14	dà	dà	ADP	_	_	13	comp:obl	_	Gloss=with
-15	ꞌyancìn	ꞌyancìː	NOUN	_	Definite=Cons|Number=Plur	14	comp:obj	_	Gloss=freedom.Masc.Cons
+15	ꞌyancìn	ꞌyancìː	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	14	comp:obj	_	Gloss=freedom.Masc.Cons
 16	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	15	mod	_	Gloss=child.Masc.Cons
 17	Adàm	Adàm	PROPN	_	_	16	compound	_	Gloss=Adàm
 18	gà	gà	ADP	_	_	13	comp:obl	_	Gloss=to
-19	jàmaꞌàr̃	jàmaꞌàː	NOUN	_	Definite=Cons|Number=Plur	18	comp:obj	_	Gloss=community.Fem.Cons
+19	jàmaꞌàr̃	jàmaꞌàː	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	18	comp:obj	_	Gloss=community.Fem.Cons
 20	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	19	mod	_	Gloss=Nigeria
 21	maràsaː	mài	PART	_	Number=Plur|PartType=Der|Polarity=Neg	19	mod	_	Gloss=lacking.Plur
 22	ƙarfiː	ƙarfiː	NOUN	_	Gender=Masc	21	compound	_	Gloss=strength.Masc|SpaceAfter=No
@@ -482,8 +482,8 @@
 10	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
 12	sànàdiyyàr̃	sànàdiyyàː	NOUN	_	Definite=Cons|Gender=Fem	11	comp:pred	_	Gloss=cause.Fem.Cons
-13	zuwàn	zoː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	12	mod	_	Gloss=go.Vnoun.Masc|SpaceAfter=No|wordform=zuwànsà
-14	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	13	mod	_	Gloss=3Masc.Gen
+13	zuwàn	zoː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	12	mod	_	Gloss=go.Vnoun.Masc|SpaceAfter=No|wordform=zuwànsà
+14	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	13	mod	_	Gloss=3Masc.Gen
 15	koːtù	koːtù	NOUN	_	Gender=Fem	13	comp:obj@G	_	Gloss=court.Fem
 16	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	13	mod	_	Gloss=up_to
 17	kìːmaːnìn	kìːmaːnìː	NOUN	_	Definite=Cons|Gender=Masc	16	comp:obj	_	Gloss=total.Masc.Cons
@@ -497,9 +497,9 @@
 # text_en = His most important case is the one about trying to ensure that two agents of the national Nigerian security be imprisoned for the murder of Dele Giwa, i.e. the journalist who lost his life because of a bomb that he received in a letter in nineteen eighty-six.
 # text_ortho = Zuwànsà koːtùn dà ya fi koːwànneː muhimmancìː shiː nèː neːman yà ga an ɗaurè wasu jàːmìꞌan tsàron ƙasar̃ Nàːjeːr̃iyàː biyu waɗàndà akà zàrgaː dà lâifin kashè Dele Giwa, wàːtòː ɗan jàr̃iːdàr̃ nan dà ya rasà rânsà dàliːlìn wani bâm dà akà aikoː masà ta cikin wàsiːƙàː tun shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà.
 # text = zuwànsà koːtùn dà ya fi koːwànneː muhimmancìː shiː nèː neːman yà ga an ɗaurè wasu jàːmìꞌan tsàron ƙasar̃ Nàːjeːr̃iyàː biyu waɗàndà akà zàrgaː dà lâifin kashè Dele Giwa, wàːtòː ɗan jàr̃iːdàr̃ nan dà ya rasà rânsà dàliːlìn wani bâm dà akà aikoː masà ta cikin wàsiːƙàː tun shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà.
-1	zuwàn	zoː	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	10	subj	_	Gloss=go.Vnoun.Masc.Cons|SpaceAfter=No|wordform=Zuwànsà
-2	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	1	mod	_	Gloss=3Masc.Gen
-3	koːtùn	koːtù	NOUN	_	Definite=Def	1	comp:obj@G	_	Gloss=court.Fem.Def
+1	zuwàn	zoː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	subj	_	Gloss=go.Vnoun.Masc.Cons|SpaceAfter=No|wordform=Zuwànsà
+2	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	1	mod	_	Gloss=3Masc.Gen
+3	koːtùn	koːtù	NOUN	_	Definite=Def|Gender=Fem	1	comp:obj@G	_	Gloss=court.Fem.Def
 4	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	4	comp:obj	_	Gloss=3Masc.Perf.Rel
 6	fi	fi	VERB	_	_	5	comp:aux	_	Gloss=exceed
@@ -527,7 +527,7 @@
 28	Dele	Dele	PROPN	_	_	27	comp:obj	_	Gloss=Dele
 29	Giwa	Giwa	PROPN	_	_	28	flat@name	_	Gloss=Giwa|SpaceAfter=No
 30	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
-31	wàːtòː	wàːtòː	CCOMP	_	_	32	cc	_	Gloss=that_is
+31	wàːtòː	wàːtòː	CCONJ	_	_	32	cc	_	Gloss=i.e.
 32	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	28	conj:dicto	_	Gloss=child.Masc.Cons|wordform=dan
 33	jàr̃iːdàr̃	jàr̃iːdàː	NOUN	_	Definite=Cons|Gender=Fem	32	compound	_	Gloss=newspaper.Fem.Cons
 34	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	32	det	_	Gloss=ProxH
@@ -535,7 +535,7 @@
 36	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	35	comp:obj	_	Gloss=3Masc.Perf.Rel
 37	rasà	ras-	VERB	_	_	36	comp:aux	_	Gloss=lose
 38	rân	râi	NOUN	_	Definite=Cons|Gender=Masc	37	comp:obj	_	Gloss=life.Masc.Cons|SpaceAfter=No|wordform=rânsà
-39	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	38	mod	_	Gloss=3Masc.Gen
+39	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	38	mod	_	Gloss=3Masc.Gen
 40	dàliːlìn	dàliːlìn	ADP	_	_	37	mod	_	Gloss=because_of
 41	wani	wani	DET	_	Definite=Spec|Gender=Masc	42	det	_	Gloss=some.Masc.Spec
 42	bâm	bâm	NOUN	_	Gender=Masc	40	comp:obj	_	Gloss=bomb.Masc
@@ -571,7 +571,7 @@
 7	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	8	mod@desc	_	Gloss=month.Masc.Cons
 8	Yuːnì	Yuːnì	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=June.Masc|SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-10	wàːtòː	wàːtòː	CCOMP	_	_	11	cc	_	Gloss=that_is
+10	wàːtòː	wàːtòː	CCONJ	_	_	11	cc	_	Gloss=i.e.
 11	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	6	conj:dicto	_	Gloss=time.Masc.Def
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 13	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Relative=Rel	12	comp:obj	_	Gloss=3Fem.Prog.Rel
