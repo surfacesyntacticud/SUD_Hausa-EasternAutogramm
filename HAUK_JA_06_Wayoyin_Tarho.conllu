@@ -7,7 +7,7 @@
 3	à	à	ADP	_	_	1	mod	_	Gloss=at
 4	Afìr̃kà	Afìr̃kà	PROPN	_	_	3	comp:obj	_	Gloss=Africa
 5	-	-	PUNCT	_	_	7	punct	_	Gloss=PUNCT
-6	bàbban	bàbba	ADJ	_	Definite=Cons	7	mod	_	Gloss=big.Masc.Cons
+6	bàbban	bàbba	ADJ	_	Definite=Cons|Gender=Masc	7	mod	_	Gloss=big.Masc.Cons
 7	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	mod	_	Gloss=proceed.Vnoun.Masc
 8	gàba	gàba	ADV	_	_	7	mod	_	Gloss=in_front
 9	?	?	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -27,7 +27,7 @@
 9	gabaːtar̃	gabaːt-	VERB	_	_	8	comp:aux	_	Gloss=present
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with
 11	shìrye-shìryen	shirìː	NOUN	_	Definite=Cons|Number=Plur	10	comp:obj	_	Gloss=programme.Plur.Cons|SpaceAfter=No|wordform=shìrye-shìryensà
-12	sà	sà	PRON	_	Case=Gen|Person=3|PronType=Prs	11	mod	_	Gloss=3Masc.Gen
+12	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	11	mod	_	Gloss=3Masc.Gen
 13	gà	gà	ADP	_	_	9	comp:obl	_	Gloss=to
 14	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	13	comp:obj	_	Gloss=country.Plur.Cons
 15	Afìr̃kà	Afìr̃kà	PROPN	_	_	14	flat@name	_	Gloss=Africa|SpaceAfter=No
@@ -82,7 +82,7 @@
 # text_ortho = Wani loːkàciː kuma koː kaː sàːmi laːyìː sai kà ga bâː shi dà kyâu sòːsai, har̃ baː kàː iyà jîn àbîn dà akèː fàɗaː.
 1	wani	wani	DET	_	Definite=Spec|Gender=Masc	2	det	_	Gloss=some.Masc.Spec
 2	loːkàciː	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	9	mod	_	Gloss=time.Masc
-3	kuma	kuma	PART	_	PartType=Disc	2	discourse@top	_	Gloss=also
+3	kuma	kuma	PART	_	PartType=Top	2	discourse@top	_	Gloss=also
 4	koː	koː	SCONJ	_	_	9	mod	_	Gloss=even_if
 5	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	4	comp:obj	_	Gloss=2Masc.Perf
 6	sàːmi	saːm-	VERB	_	_	5	comp:aux	_	Gloss=get
@@ -152,7 +152,7 @@
 27	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	29	dislocated@subj	_	Gloss=thing.Masc.Def
 28	bà	bà	PART	_	PartType=Neg|Polarity=Neg	29	mod	_	Gloss=Neg
 29	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	0	root	_	Gloss=3Masc.Fut
-30	yìwu	yìi	VERB	_	ExtPos=NOUN	29	comp:aux	_	Gloss=be_possible
+30	yìwu	yìi	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	29	comp:aux	_	Gloss=be_possible
 31	ba	ba	PART	_	PartType=Neg|Polarity=Neg	30	mod	_	Gloss=Neg
 32	-	-	PUNCT	_	_	29	punct	_	Gloss=PUNCT
 
@@ -251,7 +251,7 @@
 20	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	18	comp:obj	_	Gloss=Great-Britain
 21	ta	ta	ADP	_	_	14	conj:coord	_	Gloss=via
 22	wasu	wani	DET	_	Definite=Spec|Number=Plur	23	det	_	Gloss=some.Plur.Spec
-23	wayoːyin	wayàː	NOUN	_	Definite=Cons	21	comp:obj	_	Gloss=wire.Plur.Cons
+23	wayoːyin	wayàː	NOUN	_	Definite=Cons|Number=Plur	21	comp:obj	_	Gloss=wire.Plur.Cons
 24	ƙàr̃ƙashin	ƙàr̃ƙashin	ADP	_	Definite=Cons|Number=Plur	23	mod	_	Gloss=under
 25	tèːku	tèːku	NOUN	_	Gender=Fem	24	comp:obj	_	Gloss=sea.Fem|SpaceAfter=No
 26	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -262,7 +262,7 @@
 # text_ortho = Dàgà Bìr̃taːniyà kuma sai sàːƙôn yà tàfi zuwàː kudancin Fàr̃ansà.
 1	dàgà	dàgà	ADP	_	_	6	mod	_	Gloss=from
 2	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	1	comp:obj	_	Gloss=Great_Britain
-3	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+3	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 4	sai	sai	ADV	_	_	6	mod	_	Gloss=then
 5	sàːƙôn	sàːƙoː	NOUN	_	Definite=Def|Gender=Masc	6	subj	_	Gloss=message.Masc.Det
 6	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	0	root	_	Gloss=3Masc.Sub
@@ -320,10 +320,10 @@
 8	laːyukàn	laːyìː	NOUN	_	Definite=Def|Number=Plur	7	comp:obj	_	Gloss=line.Plur.Def
 9	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
 10	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	9	comp:obj	_	Gloss=4.Prog.Rel
-11	bùkaːtàː	bukaːt-	VERB	_	ExtPos=NOUN|Gender=Fem	10	comp:aux	_	Gloss=need|SpaceAfter=No
+11	bùkaːtàː	bukaːt-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	10	comp:aux	_	Gloss=need|SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 13	dà	dà	CCONJ	_	_	15	cc	_	Gloss=and
-14	kuma	kuma	PART	_	PartType=Disc	13	discourse@top	_	Gloss=also
+14	kuma	kuma	PART	_	PartType=Top	13	discourse@top	_	Gloss=also
 15	kuɗîn	kuɗiː	NOUN	_	Definite=Def|Gender=Masc	8	conj:coord	_	Gloss=money.Masc.Def
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=COMP
 17	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	16	comp:obj	_	Gloss=4.Fut|wordform=à
@@ -360,7 +360,7 @@
 3	dà	dà	CCONJ	_	_	4	cc	_	Gloss=and
 4	Mazàmbîk	Mazàmbîk	PROPN	_	_	2	conj:coord	_	Gloss=Mazàmbîk
 5	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
-6	hannun	hannuː	NOUN	_	Definite=Cons	5	comp:pred	_	Gloss=hand.Masc.Cons
+6	hannun	hannuː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:pred	_	Gloss=hand.Masc.Cons
 7	rìːgaː	rìːgaː	NOUN	_	Gender=Fem	6	compound	_	Gloss=boubou.Fem
 8	nèː	neː	PART	_	PartType=Foc	6	discourse@foc	_	Gloss=Emph
 9	dà	dà	CCONJ	_	_	6	comp:pred	_	Gloss=and
@@ -370,7 +370,7 @@
 13	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	5	parataxis@conj	_	Gloss=3Masc.Perf
 14	fi	fi	VERB	_	_	13	comp:aux	_	Gloss=exceed
 15	sauƙiː	sauƙiː	NOUN	_	Gender=Masc	14	comp:pred	_	Gloss=easiness.Masc
-16	kà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=2	13	comp:obj@agent	_	Gloss=2Masc.Sub
+16	kà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=2	15	comp:obj@agent	_	Gloss=2Masc.Sub
 17	yi	yi	VERB	_	_	16	comp:aux	_	Gloss=do
 18	wayàː	wayàː	NOUN	_	Gender=Masc	17	comp:pred	_	Gloss=wire.Fem
 19	zuwàː	zuwàː	ADP	_	_	18	comp:obl	_	Gloss=towards
@@ -389,7 +389,7 @@
 # text = hakà kuma duk wayàr̃ tàr̃hôː dàgà Màlaːwì zuwàː Àngoːlà, doːlè à aikoː dà ita ta Bìr̃taːniyà.
 # text_ortho = Hakà kuma duk wayàr̃ tàr̃hô dàgà Màlaː wì zuwàː Àngoːlà, doːlè à aikoː dà ita ta Bìr̃taːniyà.
 1	hakà	hakà	ADV	_	_	11	mod	_	Gloss=thus
-2	kuma	kuma	PART	_	PartType=Disc	1	discourse@top	_	Gloss=also
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	duk	dukà	DET	_	PronType=Tot	4	det	_	Gloss=all
 4	wayàr̃	wayàː	NOUN	_	Definite=Cons|Gender=Fem	11	dislocated@top	_	Gloss=wire.Fem.Cons
 5	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	4	compound	_	Gloss=telephone.Masc
