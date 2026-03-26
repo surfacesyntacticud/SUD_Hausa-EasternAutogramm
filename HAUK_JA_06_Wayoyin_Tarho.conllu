@@ -290,7 +290,7 @@
 # text_en = You see that it is necessary to get an agreement between the countries of the world before you can do this.
 # text = kaː ga doːlè à sàːmi haɗìn kâi tsàkaːnin ƙasàːshen duːniyàː kàːfìn à shiryà hakà.
 # text_ortho = Kaː ga doːlè à sàːmi haɗìn kâi tsàkaːnin ƙasàːshen dūniyà kafin à shiryà hakà.
-1	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	3	parataxis@discourse	_	Gloss=2Masc.Perf
+1	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	3	discourse	_	Gloss=2Masc.Perf
 2	ga	ganiː	VERB	_	_	1	comp:aux	_	Gloss=see
 3	doːlè	doːlè	ADV	_	_	0	root	_	Gloss=necessary
 4	à	yà	AUX	_	Mood=Sub|Person=4	3	dislocated@subj	_	Gloss=4.Sub
@@ -314,7 +314,7 @@
 2	neː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
 3	koːwàcè	koːwànè	DET	_	Gender=Fem	4	det	_	Gloss=each.Fem
 4	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	5	subj	_	Gloss=country.Fem|wordform=kasaː
-5	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	1	dislocated@agent	_	Gloss=3Fem.Sub
+5	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	1	comp:cleft	_	Gloss=3Fem.Sub
 6	amìnceː	amint-	NOUN	_	_	5	comp:aux	_	Gloss=agree
 7	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=with
 8	laːyukàn	laːyìː	NOUN	_	Definite=Def|Number=Plur	7	comp:obj	_	Gloss=line.Plur.Def

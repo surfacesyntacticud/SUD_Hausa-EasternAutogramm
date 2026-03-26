@@ -196,7 +196,7 @@
 40	àkwàːtìn	àkwàːtì	NOUN	_	Definite=Def|Gender=Masc	39	comp:obj	_	Gloss=box.Masc.Def
 41	gam	gam	IDEO	_	_	39	mod	_	Gloss=tight|SpaceAfter=No
 42	,	,	PUNCT	_	_	43	punct	_	Gloss=PUNCT
-43	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	38	parataxis:conj	_	Gloss=3Plur.Prog
+43	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	38	parataxis@conj	_	Gloss=3Plur.Prog
 44	shirin	shiry-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	43	comp:aux	_	Gloss=prepare.Vnoun.Masc.Cons
 45	kai	kai	VERB	_	_	44	comp:obj	_	Gloss=reach/carry_to
 46	shì	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	45	comp:obj@T	_	Gloss=3Masc.Acc
@@ -567,7 +567,7 @@
 38	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	37	comp:obj	_	Gloss=4.Fut
 39	sâː	sâː	VERB	_	_	38	comp:aux	_	Gloss=cause
 40	soːjà	soːjà	NOUN	_	Number=Plur	41	subj	_	Gloss=soldiers.Plur
-41	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	39	parataxis@mod	_	Gloss=3Plur.Sub
+41	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	39	comp:obj	_	Gloss=3Plur.Sub
 42	bindìgeː	bindig-	VERB	_	_	41	comp:aux	_	Gloss=shoot
 43	ni	ni	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	42	comp:obj	_	Gloss=1Sing.Acc|SpaceAfter=No
 44	.	.	PUNCT	_	_	30	punct	_	Gloss=PUNCT

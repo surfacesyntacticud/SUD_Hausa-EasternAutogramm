@@ -210,7 +210,7 @@
 19	koːwaː	koːwaː	PRON	_	Gender=Masc|PronType=Ind	20	subj	_	Gloss=everyone.Masc
 20	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	17	comp:cleft	_	Gloss=3Masc.Perf.Rel
 21	fi	fi	VERB	_	_	20	comp:aux	_	Gloss=exceed
-22	dangàntà	dangant-	VERB	_	_	21	compound:svc	_	Gloss=differentiate
+22	dangàntà	dangant-	VERB	_	_	21	comp:obj	_	Gloss=differentiate
 23	kàɗe-kàɗen	kiɗìː	NOUN	_	Definite=Cons|Number=Plur	22	comp:obj	_	Gloss=music.Plur.Cons
 24	Fela	Fela	PROPN	_	_	23	comp:obj	_	Gloss=Fela
 25	dà	dà	ADP	_	_	22	comp:obl	_	Gloss=with
@@ -276,11 +276,11 @@
 5	na	yaː	AUX	_	Aspect=Perf|Number=Sing|Person=1|Relative=Rel	0	root	_	Gloss=1Sing.Perf.Relative
 6	ɗàukeː	ɗauk-	VERB	_	_	5	comp:aux	_	Gloss=take
 7	tà	ta	PRON	_	Case=Acc|Gender=Fem|Person=3|PronType=Prs	6	comp:obj	_	Gloss=3Fem.Acc
-8	na	yaː	AUX	_	Aspect=Perf|Number=Sing|Person=1|Relative=Rel	5	parataxis:conj	_	Gloss=1Sing.Perf.Relative
+8	na	yaː	AUX	_	Aspect=Perf|Number=Sing|Person=1|Relative=Rel	5	parataxis@conj	_	Gloss=1Sing.Perf.Relative
 9	sâː	sâː	VERB	_	_	8	comp:aux	_	Gloss=put
 10	à	à	ADP	_	_	9	comp:obl	_	Gloss=at
 11	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=mouth.Masc
-12	na	yaː	AUX	_	Aspect=Perf|Number=Sing|Person=1|Relative=Rel	8	parataxis:conj	_	Gloss=1Sing.Perf.Relative
+12	na	yaː	AUX	_	Aspect=Perf|Number=Sing|Person=1|Relative=Rel	8	parataxis@conj	_	Gloss=1Sing.Perf.Relative
 13	faːrà	faːr-	VERB	_	_	12	comp:aux	_	Gloss=begin
 14	buːsàːwaː	buːs-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	13	comp:obj	_	Gloss=blow.Vnoun.Fem|SpaceAfter=No
 15	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -815,7 +815,7 @@
 14	kaːmà	kaːm-	VERB	_	_	13	comp:aux	_	Gloss=catch
 15	Fela	Fela	PROPN	_	_	14	comp:obj	_	Gloss=Fela|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-17	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	13	parataxis:conj	_	Gloss=4.Perf.Rel
+17	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	13	parataxis@conj	_	Gloss=4.Perf.Rel
 18	gurfaːnar̃	gurfaːn-	VERB	_	Voice=Cau	17	comp:aux	_	Gloss=take_to_court.Cau
 19	dà	dà	ADP	_	_	18	comp:obl	_	Gloss=with
 20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	19	comp:obj	_	Gloss=3Masc.Nom
