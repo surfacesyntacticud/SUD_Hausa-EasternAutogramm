@@ -410,9 +410,9 @@
 7	irìn	irìː	NOUN	_	_	8	mod@desc	_	Gloss=type_of
 8	haːlin	haːliː	NOUN	_	Definite=Cons|Gender=Masc	16	subj	_	Gloss=situation.Masc.Cons
 9	kiwòn	kiy-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	mod	_	Gloss=protect.Vnoun.Masc.Cons
-10	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	9	mod	_	Gloss=health.Fem
+10	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=health.Fem
 11	dà	dà	CCONJ	_	_	12	cc	_	Gloss=and
-12	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	8	conj:coord	_	Gloss=Gen.Masc
+12	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	9	conj:coord	_	Gloss=Gen.Masc
 13	tsabtàː	tsabtàː	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=hygiene.Fem
 14	à	à	ADP	_	_	8	mod	_	Gloss=at
 15	kûr̃kukùn	kûr̃kukùː	NOUN	_	Definite=Def|Gender=Masc	14	comp:obj	_	Gloss=prison.Masc.Def
@@ -723,7 +723,7 @@
 37	kuma	kuma	PART	_	PartType=Top	36	discourse@top	_	Gloss=also
 38	sôn	soː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	34	conj:coord	_	Gloss=want.Vnoun.Masc.Cons
 39	ɗaukàr̃	ɗauk-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	38	mod	_	Gloss=take.Vnoun.Fem.Cons
-40	fansaː	fansaː	NOUN	_	Gender=Fem	39	mod	_	Gloss=revenge.Fem|SpaceAfter=No
+40	fansaː	fansaː	NOUN	_	Gender=Fem	39	comp:obj	_	Gloss=revenge.Fem|SpaceAfter=No
 41	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 17_Gidan_yarin_Kirikiri_18

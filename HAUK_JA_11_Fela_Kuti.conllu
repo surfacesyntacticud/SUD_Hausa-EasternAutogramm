@@ -178,7 +178,7 @@
 19	kuma	kuma	PART	_	PartType=Top	17	discourse@top	_	Gloss=also
 20	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
 21	zama	zama	VERB	_	_	20	comp:aux	_	Gloss=become
-22	shùːgàban	shùːgàbaː	VERB	_	Definite=Cons|Gender=Masc	21	comp:pred	_	Gloss=leader.Masc
+22	shùːgàban	shùːgàbaː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:pred	_	Gloss=leader.Masc.Cons
 23	makàɗaː	makàɗiː	NOUN	_	Number=Plur	22	mod	_	Gloss=musician.Plur
 24	dà	dà	CCONJ	_	_	25	cc	_	Gloss=and
 25	mawàːƙan	mawàːƙiː	NOUN	_	Definite=Cons|Number=Plur	23	conj:coord	_	Gloss=singer.Plur|SpaceAfter=No|wordform=mawakansà
@@ -519,7 +519,7 @@
 3	wani	wani	DET	_	Definite=Spec|Gender=Masc	4	det	_	Gloss=some.Masc.Spec
 4	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj	_	Gloss=house.Masc.Cons
 5	tàːruwar̃	taːr-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	mod	_	Gloss=gather.Vnoun.Fem.Cons
-6	àl'ummàː	àl'ummàː	NOUN	_	Gender=Fem	5	mod	_	Gloss=community.Fem
+6	àl'ummàː	àl'ummàː	NOUN	_	Gender=Fem	5	comp:obj	_	Gloss=community.Fem
 7	à	à	ADP	_	_	2	mod	_	Gloss=at
 8	ùnguwar̃	ùnguwaː	NOUN	_	Definite=Cons|Gender=Fem	10	mod@desc	_	Gloss=district.Fem.Cons
 9	"	"	PUNCT	_	_	10	punct	_	Gloss=PUNCT
@@ -597,7 +597,7 @@
 12	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	13	subj	_	Gloss=thing.Masc.Def
 13	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
 14	kai	kai	VERB	_	_	13	comp:aux	_	Gloss=reach/carry_to
-15	magaryar̃	magaryaː	NOUN	_	ExtPos=NOUN|Gender=Fem	14	comp:obj	_	Gloss=jujube_tree.Fem|Idiom=Yes
+15	magaryar̃	magaryaː	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=jujube_tree.Fem|Idiom=Yes
 16	tiƙềwaː	tiƙ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	15	mod	_	Gloss=fail.Vnoun.Fem|InIdiom=Yes|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	14	mod	_	Gloss=time.Masc.Def
@@ -683,7 +683,7 @@
 3	gàba	gàba	ADV	_	_	2	mod	_	Gloss=in_front
 4	dà	dà	ADP	_	_	2	comp:obl	_	Gloss=with
 5	suːkàr̃	soːk-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:obj	_	Gloss=criticize.Vnoun.Fem.Cons
-6	làmiːr̃ìn	làmiːr̃ìː	NOUN	_	Definite=Cons|Gender=Masc	5	mod	_	Gloss=view.Masc.Cons
+6	làmiːr̃ìn	làmiːr̃ìː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:obj	_	Gloss=view.Masc.Cons
 7	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	6	mod	_	Gloss=government.Fem.Def|wordform=gwamnatin
 8	à	à	ADP	_	ExtPos=ADP	5	mod	_	Gloss=at
 9	cikin	cikin	ADP	_	_	8	comp:obj	_	Gloss=inside
@@ -890,7 +890,7 @@
 9	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	6	comp:obj	_	Gloss=3Fem.Perf.Rel
 10	shìga	shig-	VERB	_	_	9	comp:aux	_	Gloss=enter
 11	nuːnà	nuːn-	VERB	_	_	10	comp:obj@G	_	Gloss=show
-12	shàʼawàː	shàʼawàː	NOUN	_	ExtPos=NOUN|Gender=Fem	11	comp:obj	_	Gloss=interest.Fem
+12	shàʼawàː	shàʼawàː	NOUN	_	Gender=Fem	11	comp:obj	_	Gloss=interest.Fem
 13	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Stat	14	mod	_	Gloss=together
 14	dà	dà	ADP	_	_	12	mod	_	Gloss=with
 15	Fela	Fela	PROPN	_	_	14	comp:obj	_	Gloss=Fela|SpaceAfter=No

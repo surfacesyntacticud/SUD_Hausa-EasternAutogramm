@@ -149,7 +149,7 @@
 35	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	34	comp:obj	_	Gloss=Prog.Rel
 36	nuːnà	nuːn-	VERB	_	_	35	comp:aux	_	Gloss=show
 37	ƙîn	ƙi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	36	comp:obj	_	Gloss=hate.Vnoun.Masc.Cons
-38	jinin	jiniː	NOUN	_	Definite=Cons|Gender=Masc	37	mod	_	Gloss=blood.Masc.Cons
+38	jinin	jiniː	NOUN	_	Definite=Cons|Gender=Masc	37	comp:obj	_	Gloss=blood.Masc.Cons
 39	Amìr̃kà	Amìr̃kà	PROPN	_	_	38	mod	_	Gloss=America|SpaceAfter=No
 40	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
@@ -251,7 +251,7 @@
 10	cêːwaː	cêːwaː	SCONJ	_	_	9	comp:obj	_	Gloss=COMP
 11	nuːnà	nuːn-	VERB	_	_	21	subj	_	Gloss=show
 12	ƙîn	ƙi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:obj	_	Gloss=hate.Vnoun.Masc.Cons|wordform=kin
-13	jinin	jiniː	NOUN	_	Definite=Cons|Gender=Masc	12	mod	_	Gloss=blood.Masc.Cons
+13	jinin	jiniː	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	Gloss=blood.Masc.Cons
 14	Amìr̃kà	Amìr̃kà	PROPN	_	_	13	mod	_	Gloss=America
 15	à	à	ADP	_	_	11	mod	_	Gloss=at
 16	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	15	comp:obj	_	Gloss=Nigeria
@@ -621,6 +621,6 @@
 35	àkwai	àkwai	PART	_	PartType=Pred	33	comp:obj	_	Gloss=there_is
 36	yìːwuwar̃	yìːwuwaː	NOUN	_	Definite=Cons|Gender=Fem	35	subj	_	Gloss=possibility.Fem.Cons
 37	ɓarkèːwar̃	ɓark-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	36	mod	_	Gloss=break_out.Vnoun.Fem.Cons|wordform=barkeːwar
-38	taːshìn	taːs-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	37	mod	_	Gloss=rise.Vnoun.Masc.Cons
-39	hankàliː	hankàliː	NOUN	_	Gender=Masc	38	mod	_	Gloss=mind.Masc
+38	taːshìn	taːshìː	NOUN	_	Definite=Cons|Gender=Masc	37	mod	_	Gloss=uprise.Masc.Cons
+39	hankàliː	hankàliː	NOUN	_	Gender=Masc	38	compound	_	Gloss=mind.Masc
 
