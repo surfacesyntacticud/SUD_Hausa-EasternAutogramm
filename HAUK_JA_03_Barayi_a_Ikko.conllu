@@ -105,14 +105,14 @@
 10	sai	sai	ADV	_	_	16	mod	_	Gloss=then
 11	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	16	subj	_	Gloss=people.Plur.Def
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
-13	kèː	nàː	AUX	_	Aspect=Prog	12	comp:obj	_	Gloss=Prog.Rel
+13	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	12	comp:obj	_	Gloss=Prog.Rel
 14	gàban	gàban	ADP	_	_	13	comp:pred	_	Gloss=in_font_of
 15	bankìn	bankiː	NOUN	_	Definite=Cons|Gender=Masc	14	mod	_	Gloss=bank.Masc.Cons
 16	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
 17	faːrà	faːr-	VERB	_	_	16	comp:aux	_	Gloss=begin
 18	yi	yi	VERB	_	_	17	comp:obj	_	Gloss=do
 19	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	18	comp:obl	_	Gloss=3Plur.Dat
-20	ruwan	ruwaː	NOUN	_	Definite=Cons|Number=Plur	18	comp:pred	_	Gloss=water.Masc.Cons
+20	ruwan	ruwaː	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	18	comp:pred	_	Gloss=water.Masc.Cons
 21	hàr̃saːshìː	hàr̃saːshìː	NOUN	_	Gender=Masc	20	mod	_	Gloss=bullet.Masc|SpaceAfter=No
 22	.	.	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 
@@ -122,12 +122,12 @@
 1	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	dislocated@subj	_	Gloss=3Plur.Nom
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	ꞌyan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	1	conj:appos	_	Gloss=child.Plur.Cons
-4	sàndân	sàndaː	NOUN	_	Definite=Def	3	compound	_	Gloss=baton.Masc.Def
+4	sàndân	sàndaː	NOUN	_	Definite=Def|Gender=Masc	3	compound	_	Gloss=baton.Masc.Def
 5	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	8	mod	_	Gloss=ProxH
 6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=and
 7	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	5	conj:coord	_	Gloss=ProxH
 8	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
-9	shìga	shig-	VERB	_	ExtPos=NOUN|Gender=Fem	8	comp:aux	_	Gloss=enter
+9	shìga	shig-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	8	comp:aux	_	Gloss=enter
 10	mùsaːyar̃	musaːy-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	9	comp:obj@G	_	Gloss=exchange.Vnoun.Fem.Cons
 11	wutaː	wutaː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=fire.Masc
 12	har̃	har̃	ADP	_	_	10	mod	_	Gloss=up_to
@@ -146,10 +146,10 @@
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	10	mod	_	Gloss=then
 8	ꞌyan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	10	subj	_	Gloss=child.Plur.Cons
-9	sàndân	sàndaː	NOUN	_	Definite=Def	8	compound	_	Gloss=baton.Masc.Def
+9	sàndân	sàndaː	NOUN	_	Definite=Def|Gender=Masc	8	compound	_	Gloss=baton.Masc.Def
 10	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
 11	gaːnoː	gaːn-	VERB	_	_	10	comp:aux	_	Gloss=see
-12	gàːwàwwakin	gaːwaː	NOUN	_	Definite=Cons	11	comp:obj	_	Gloss=corpse.Plur.Cons
+12	gàːwàwwakin	gaːwaː	NOUN	_	Definite=Cons|Number=Plur	11	comp:obj	_	Gloss=corpse.Plur.Cons
 13	mutàːneː	mùtûm	NOUN	_	Number=Plur	12	mod	_	Gloss=people.Plur
 14	bakwài	bakwài	NUM	_	_	13	mod:num	_	Gloss=seven|SpaceAfter=No
 15	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
@@ -157,7 +157,7 @@
 # sent_id = 03_Barayi_a_Ikko_7
 # text_en = The soldiers' spokesman said that the men who tried to do this burglary were at least thirteen, and he was sure that the other six that escaped were wounded.
 # text = kàːkàːkin ꞌyan sàndaː ya cèː mutàːnên dà sukà yi ƙòːkarin yîn wannàn saːtàː sun kai à ƙallà suː goːmà shâː ukù neː, kuma yaː tabbàtaː sauraː gùdaː shidàn dà sukà gudù duk sun sàːmi raunukàː.
-1	kàːkàːkin	kàːkàːkiː	NOUN	_	Definite=Cons	4	subj	_	Gloss=spokesman.Masc.Cons
+1	kàːkàːkin	kàːkàːkiː	NOUN	_	Definite=Cons|Gender=Masc	4	subj	_	Gloss=spokesman.Masc.Cons
 2	ꞌyan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	1	mod	_	Gloss=child.Plur.Cons
 3	sàndaː	sàndaː	NOUN	_	Gender=Masc	2	compound	_	Gloss=baton.Masc
 4	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
@@ -166,7 +166,7 @@
 7	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=COMP
 8	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	7	comp:obj	_	Gloss=3Plur.Perf.Rel
 9	yi	yi	VERB	_	_	8	comp:aux	_	Gloss=do
-10	ƙòːkarin	ƙòːkariː	NOUN	_	Definite=Cons	9	comp:pred	_	Gloss=trying.Masc.Cons
+10	ƙòːkarin	ƙòːkariː	NOUN	_	Definite=Cons|Gender=Masc	9	comp:pred	_	Gloss=trying.Masc.Cons
 11	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	mod	_	Gloss=do.Vnoun.Masc.Cons
 12	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	13	det	_	Gloss=ProxS.Fem
 13	saːtàː	saːtàː	NOUN	_	Gender=Fem	11	comp:pred	_	Gloss=theft.Fem
@@ -208,13 +208,13 @@
 8	dà	dà	SCONJ	_	_	4	comp:obl	_	Gloss=COMP
 9	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	8	comp:obj	_	Gloss=3Plur.Sub
 10	kai	kai	VERB	_	_	9	comp:aux	_	Gloss=reach/carry_to
-11	r̃àːhoːtòn	r̃àːhoːtòː	NOUN	_	Definite=Def|Number=Plur	10	comp:obj	_	Gloss=report.Masc.Def
+11	r̃àːhoːtòn	r̃àːhoːtòː	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	10	comp:obj	_	Gloss=report.Masc.Def
 12	duk	dukà	DET	_	PronType=Tot	13	det	_	Gloss=all
 13	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	11	mod	_	Gloss=person.Masc.Def
 14	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=COMP
 15	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	14	comp:obj	_	Gloss=3Masc.Perf.Rel
 16	jeː	jeː	VERB	_	_	15	comp:aux	_	Gloss=go
-17	wurin	wuriː	NOUN	_	Definite=Cons	16	comp:obl	_	Gloss=place.Masc.Cons|SpaceAfter=No|wordform=wurinsù
+17	wurin	wuriː	NOUN	_	Definite=Cons|Gender=Masc	16	comp:obl	_	Gloss=place.Masc.Cons|SpaceAfter=No|wordform=wurinsù
 18	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	17	mod	_	Gloss=3Plur.Gen
 19	dòːmin	dòːmin	SCONJ	_	_	16	mod	_	Gloss=in_order_to
 20	saːmùn	saːmùː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:obj	_	Gloss=get.Vnoun.Masc.Cons
@@ -240,7 +240,7 @@
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	hêdkwatàr̃	hêdkwatàː	NOUN	_	Definite=Cons|Gender=Fem	13	subj	_	Gloss=headquarter.Fem.Cons
 8	ꞌyan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	7	mod	_	Gloss=child.Plur.Cons
-9	sàndân	sàndaː	NOUN	_	Definite=Def	8	compound	_	Gloss=baton.Masc.Def
+9	sàndân	sàndaː	NOUN	_	Definite=Def|Gender=Masc	8	compound	_	Gloss=baton.Masc.Def
 10	à	à	ADP	_	_	7	mod	_	Gloss=at
 11	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	12	mod@desc	_	Gloss=city.Masc.Cons
 12	Ìkko	Ìkko	PROPN	_	_	10	comp:obj	_	Gloss=Lagos
@@ -304,8 +304,8 @@
 28	adàdiː	adàdiː	NOUN	_	Gender=Masc	29	subj	_	Gloss=total.Masc
 29	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	24	comp:obj	_	Gloss=3Masc.Perf.Neg
 30	kai	kai	VERB	_	_	29	comp:aux	_	Gloss=reach/carry_to
-31	yawàn	yawàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	30	comp:obl	_	Gloss=quantity.Masc.Cons
-32	sàːce-sàːcên	saːcìː	NOUN	_	Definite=Def	31	mod	_	Gloss=theft.Plur.Def
+31	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	30	comp:obl	_	Gloss=quantity.Masc.Cons
+32	sàːce-sàːcên	saːcìː	NOUN	_	Definite=Def|Number=Plur	31	mod	_	Gloss=theft.Plur.Def
 33	dà	dà	SCONJ	_	_	32	mod@relcl	_	Gloss=COMP
 34	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	33	comp:obj	_	Gloss=4.Perf.Rel
 35	yi	yi	VERB	_	_	34	comp:aux	_	Gloss=do
@@ -333,7 +333,7 @@
 6	dà	dà	SCONJ	_	_	5	mod@relcl	_	Gloss=COMP
 7	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	6	comp:obj	_	Gloss=3Masc.Perf.Rel
 8	sâː	sâː	VERB	_	_	7	comp:aux	_	Gloss=cause
-9	sàːce-sàːcên	saːcìː	NOUN	_	Definite=Def	10	subj	_	Gloss=theft.Plur.Def
+9	sàːce-sàːcên	saːcìː	NOUN	_	Definite=Def|Number=Plur	10	subj	_	Gloss=theft.Plur.Def
 10	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	8	comp:obj	_	Gloss=3Plur.Perf.Rel
 11	ràgu	rag-	VERB	_	_	10	comp:aux	_	Gloss=reduce
 12	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	13	comp:pred	_	Gloss=3Masc.Nom
@@ -353,7 +353,7 @@
 26	kuma	kuma	PART	_	PartType=Top	25	discourse@top	_	Gloss=also
 27	wargàzà	wargaz-	VERB	_	_	25	comp:aux	_	Gloss=rout
 28	ƙungiỳar̃	ƙungiỳaː	VERB	_	Definite=Cons|Gender=Fem	27	comp:obj	_	Gloss=gang.Fem.Cons
-29	bàbban	bàbba	ADJ	_	Definite=Cons|Number=Plur	30	mod	_	Gloss=big.Masc.Cons
+29	bàbban	bàbba	ADJ	_	Definite=Cons|Gender=Masc|Number=Plur	30	mod	_	Gloss=big.Masc.Cons
 30	ɓàraːwòn	ɓàraːwòː	NOUN	_	Definite=Cons|Gender=Masc	28	mod	_	Gloss=thief.Masc.Cons
 31	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	30	det	_	Gloss=ProxH
 32	mài	mài	PART	_	Number=Sing|PartType=Der	30	mod	_	Gloss=owner/doer_of.Sing
@@ -378,8 +378,8 @@
 # sent_id = 03_Barayi_a_Ikko_12
 # text_en = The police continued by saying that the second military law - which gives the power to catch and imprison criminals - has helped to reduce the number of thefts that were committed.
 # text = ꞌyan sàndân sun ƙaːràː dà cêːwaː dòːkar̃ soːjì ta biyu - waddà ta baː dà iːkòː à kaːmà màːsu aikàtà lâifiː à tsarèː - ita maː taː taimàkaː wajen ragè yawàn sàːce-sàːcên dà akèː yîː.
-1	ꞌyan	ɗaː	NOUN	_	Definite=Cons	3	subj	_	Gloss=child.Plur.Cons
-2	sàndân	sàndaː	NOUN	_	Definite=Def	1	compound	_	Gloss=baton.Masc.Def
+1	ꞌyan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	3	subj	_	Gloss=child.Plur.Cons
+2	sàndân	sàndaː	NOUN	_	Definite=Def|Gender=Masc	1	compound	_	Gloss=baton.Masc.Def
 3	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
 4	ƙaːràː	ƙaːr-	VERB	_	_	3	comp:aux	_	Gloss=increase
 5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
@@ -409,7 +409,7 @@
 29	wajen	wajen	ADP	_	_	28	comp:obl	_	Gloss=about
 30	ragè	rag-	VERB	_	_	29	comp:obj	_	Gloss=reduce
 31	yawàn	yawàn	ADJ	_	Definite=Cons|Gender=Masc	30	comp:obj	_	Gloss=quantity.Masc.Cons
-32	sàːce-sàːcên	saːcìː	NOUN	_	Definite=Def|Gender=Masc	31	mod	_	Gloss=theft.Plur.Def
+32	sàːce-sàːcên	saːcìː	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	31	mod	_	Gloss=theft.Plur.Def
 33	dà	dà	SCONJ	_	_	32	mod@relcl	_	Gloss=COMP
 34	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	33	comp:obj	_	Gloss=4.Prog.Rel
 35	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	34	comp:aux	_	Gloss=do.Vnoun.Masc|SpaceAfter=No

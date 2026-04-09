@@ -314,7 +314,7 @@
 35	canjìː	canjìː	NOUN	_	Gender=Masc	34	mod	_	Gloss=change.Masc
 36	à	à	ADP	_	_	27	mod	_	Gloss=at
 37	cikin	cikin	ADP	_	_	36	comp:obj	_	Gloss=inside
-38	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	39	mod@desc	_	Gloss=month.Masc.Cons
+38	watàn	watàː	NOUN	_	Definite=Cons|Gender=Masc	39	mod@desc	_	Gloss=month.Masc.Cons
 39	Maːyù	Maːyù	NOUN	_	Gender=Masc	37	comp:obj	_	Gloss=may.Masc|SpaceAfter=No
 40	.	.	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 
@@ -564,11 +564,11 @@
 # text = an kaːmè Chief G.F. neː à watàn Yuːnì, wàːtòː loːkàcîn dà yakèː cikin shirìn wani tàːroː indà ya yi wà tsaːrìn tattalin ar̃zìkin ƙasar̃ Nàːjeːr̃iyàː tatas.
 1	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 2	kaːmè	kaːm-	VERB	_	_	1	comp:aux	_	Gloss=catch
-3	Chief	Chief	PROPN	_	_	4	parataxis@desc	_	Gloss=Chief
+3	Chief	Chief	PROPN	_	_	4	mod@desc	_	Gloss=Chief
 4	G.F.	G.F.	PROPN	_	_	2	comp:obj	_	Gloss=G.F.
 5	neː	neː	PART	_	PartType=Foc	4	discourse@foc	_	Gloss=Emph
 6	à	à	ADP	_	_	2	mod	_	Gloss=at
-7	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	8	mod@desc	_	Gloss=month.Masc.Cons
+7	watàn	watàː	NOUN	_	Definite=Cons|Gender=Masc	8	mod@desc	_	Gloss=month.Masc.Cons
 8	Yuːnì	Yuːnì	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=June.Masc|SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 10	wàːtòː	wàːtòː	CCONJ	_	_	11	cc	_	Gloss=i.e.

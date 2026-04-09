@@ -106,7 +106,7 @@
 1	baːyan	baːyan	SCONJ	_	_	0	root	_	Gloss=after
 2	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.Perf
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
-4	kwaːnaː	kwaːnaː	NOUN	_	ExtPos=NOUN|Gender=Masc	3	comp:pred	_	Gloss=day.Masc
+4	kwaːnaː	kwaːnaː	NOUN	_	Gender=Masc	3	comp:pred	_	Gloss=day.Masc
 5	ukù	ukù	NUM	_	_	4	mod:num	_	Gloss=three
 6	à	à	ADP	_	_	3	mod	_	Gloss=at
 7	can	can	ADV	_	Deixis=Remt|PronType=Dem	6	comp:obj	_	Gloss=Remt
@@ -392,7 +392,7 @@
 # text_ortho = Sai à watàn Jànair̃u na shekaràr̃ alif dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː Gwamnatìn Nàjeːr̃iyàː ta bùkàːci Bìr̃taːniyà tà miːƙàː matà shiː don à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː kân lâifin cîn hancìː dà kàrɓar̃ r̃ashawaː ta fâm miliyàn bàr̃kàtài.
 1	sai	sai	ADV	_	_	18	mod	_	Gloss=then
 2	à	à	ADP	_	_	18	mod	_	Gloss=at
-3	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	4	mod@desc	_	Gloss=month.Masc.Cons
+3	watàn	watàː	NOUN	_	Definite=Cons|Gender=Masc	4	mod@desc	_	Gloss=month.Masc.Cons
 4	Jànair̃u	Jànair̃u	NOUN	_	Gender=Masc	2	comp:obj	_	Gloss=january.Masc
 5	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	4	mod	_	Gloss=Gen.Masc
 6	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	7	mod@desc	_	Gloss=year.Fem.Cons
