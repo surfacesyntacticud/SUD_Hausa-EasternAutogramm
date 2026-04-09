@@ -552,7 +552,7 @@
 # sent_id = 15_Yajin_aiki_17
 # text_en = The demonstrators accused their government of failing to deal with the problem of corruption in the country, and of preparing an austerity plan that affects only the poor people of the country.
 # text_ortho = Màːsu yîn zàngà-zangàr̃ sun yi zàrgin cêːwaː gwamnatìn taːsù taː kaːsà shaːwoː kân màtsalàr̃ cîn r̃ashawaː à ƙasâr̃, kuma shirìntà maː na tsuːkè bàːkin àljiːhuː yaː shàːfi talakaːwan ƙasâr̃ neː kawài.
-# text = màːsu yîn zàngà-zangàr̃ sun yi zàrgin cêːwaː gwamnatìn taːsù taː kaːsà shaːwoː kân màtsalàr̃ cîn r̃ashawaː à ƙasâr̃, kuma shirìntà maː na tsuːkè bàːkin àljiːhuː yaː shàːfi talakaːwan ƙasâr̃ neː kawài.
+# text = màːsu yîn zàngà-zangàr̃ sun yi zàrgin cêːwaː gwamnatìn taːsù taː kaːsà shaːwoː kân màtsalàr̃ cîn r̃ashawaː à ƙasâr̃, kuma shirìn-tà maː na tsuːkè bàːkin àljiːhuː yaː shàːfi talakaːwan ƙasâr̃ neː kawài.
 1	màːsu	mài	PART	_	Number=Plur|PartType=Der	4	subj	_	Gloss=owner/doer_of.Plur
 2	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	comp:obj	_	Gloss=do.Vnoun.Masc.Cons
 3	zàngà-zangàr̃	zàngà-zangàː	NOUN	_	Definite=Def|Gender=Fem	2	comp:pred	_	Gloss=demonstration.Fem.Def
@@ -562,7 +562,7 @@
 7	cêːwaː	cêːwaː	SCONJ	_	_	6	mod	_	Gloss=COMP
 8	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	11	subj	_	Gloss=government.Fem.Def|wordform=gwamnatin
 9-10	taːsù	_	_	_	_	_	_	_	_
-9	taː	taː	PART	_	Gender=Fem	8	mod	_	Gloss=Gen.Fem
+9	taː	na	PART	_	Gender=Fem	8	mod	_	Gloss=Gen.Fem
 10	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	9	comp:obj	_	Gloss=-3Plur.Gen|wordform=sù
 11	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	7	comp:obj	_	Gloss=3Fem.Perf
 12	kaːsà	kaːs-	VERB	_	_	11	comp:aux	_	Gloss=fail
