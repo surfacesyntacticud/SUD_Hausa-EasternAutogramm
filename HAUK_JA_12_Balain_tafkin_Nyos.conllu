@@ -154,7 +154,7 @@
 12	duk	dukà	DET	_	_	13	det	_	Gloss=all
 13	mutàːnen	mùtûm	NOUN	_	Definite=Cons|Number=Plur	16	subj	_	Gloss=people.Plur.Cons
 14	cikin	cikin	ADP	_	_	13	mod	_	Gloss=inside|SpaceAfter=No
-15	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	14	comp:obj	_	Gloss=3Masc.Gen
+15	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	14	comp:obj	_	Gloss=-3Masc.Gen|wordform=sà
 16	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	0	root	_	Gloss=3Plur.Perf.Rel
 17	mutù	mutù	VERB	_	_	16	comp:aux	_	Gloss=die|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
@@ -203,10 +203,10 @@
 17	àmmaː	àmmaː	CCONJ	_	_	18	cc	_	Gloss=but
 18	gàː	gàː	PART	_	PartType=Pred	4	conj:coord	_	Gloss=here_is
 19	fuskoːkin	fuskàː	NOUN	_	Definite=Cons|Number=Plur	18	subj	_	Gloss=face.Plur.Cons|SpaceAfter=No|wordform=fuskoːkinsù
-20	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	19	mod	_	Gloss=3Plur.Gen
+20	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	19	mod	_	Gloss=-3Plur.Gen|wordform=sù
 21	dà	dà	CCONJ	_	_	22	cc	_	Gloss=and|wordform=da
 22	ƙiràːjan	ƙìrjiː	NOUN	_	Definite=Cons|Number=Plur	19	conj:coord	_	Gloss=chest.Plur.Cons|SpaceAfter=No|wordform=ƙiràːjansù
-23	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	22	mod	_	Gloss=3Plur.Gen
+23	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	22	mod	_	Gloss=-3Plur.Gen|wordform=sù
 24	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	18	comp:pred	_	Gloss=ProxH
 25	duk	dukà	ADV	_	PronType=Tot	26	mod	_	Gloss=all
 26	à	à	ADP	_	_	18	comp:pred	_	Gloss=at
@@ -402,7 +402,7 @@
 16	an	yaː	AUX	_	Aspect=Perf|Person=4	15	comp:obj	_	Gloss=4.Perf
 17	ragè	rag-	VERB	_	_	16	comp:aux	_	Gloss=reduce
 18	ruwan	ruwansà	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	Gloss=water.Masc.Cons|SpaceAfter=No
-19	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	18	mod	_	Gloss=3Masc.Gen
+19	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	18	mod	_	Gloss=-3Masc.Gen|wordform=sà
 20	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_13a
@@ -465,7 +465,7 @@
 24	kèː	nàː	AUX	_	Aspect=Prog|Relative=Rel	23	comp:obj	_	Gloss=Prog.Rel
 25	shìgaː	shig-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	24	comp:aux	_	Gloss=enter.Fem.Vnoun.
 26	cikin	cikin	ADP	_	_	25	comp:obl	_	Gloss=inside|SpaceAfter=No
-27	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	26	comp:obj	_	Gloss=3Masc.Gen
+27	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	26	comp:obj	_	Gloss=-3Masc.Gen|wordform=sà
 28	ba	ba	PART	_	PartType=Neg|Polarity=Neg	10	mod	_	Gloss=Neg|SpaceAfter=No
 29	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 

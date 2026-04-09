@@ -230,7 +230,7 @@
 14	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:obj@G	_	Gloss=do.Vnoun.Masc.Cons
 15	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	14	comp:pred	_	Gloss=demonstration.Fem
 16	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	15	mod	_	Gloss=Gen.Fem
-17	ƙîn	ƙi	VERB	_	Definite=Cons|ExtPos=VERB|Gender=Masc|VerbForm=Vnoun	16	comp:obj	_	Gloss=hate.Vnoun.Masc.Cons|Idiom=Yes
+17	ƙîn	ƙi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	comp:obj	_	Gloss=hate.Vnoun.Masc.Cons|Idiom=Yes
 18	jinin	jiniː	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	Gloss=blood.Masc.Cons|InIdiom=Yes
 19	à	yà	AUX	_	Mood=Sub|Person=4	18	mod	_	Gloss=4.Sub
 20	bugà	bug-	VERB	_	_	19	comp:aux	_	Gloss=print
@@ -265,7 +265,7 @@
 18	dàgà	dàgà	ADP	_	_	17	mod	_	Gloss=from
 19-20	cikinsù	_	_	_	_	_	_	_	_
 19	cikin	cikin	ADP	_	_	18	comp:obj	_	Gloss=inside|SpaceAfter=No
-20	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	19	comp:obj	_	Gloss=3Plur.Gen
+20	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	19	comp:obj	_	Gloss=-3Plur.Gen|wordform=sù
 21	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	22	det	_	Gloss=ProxS.Fem
 22	sùkùddìr̃eːbàː	sùkùddìr̃eːbàː	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=screwdriver.Fem
 23	har̃	har̃	SCONJ	_	_	15	mod	_	Gloss=so_that
@@ -316,7 +316,7 @@
 12	waɗànnân	wannàn	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	13	det	_	Gloss=ProxS.Plur
 13	mutàneː	mùtûm	NOUN	_	Number=Plur	14	subj	_	Gloss=man.Plur
 14	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	11	comp:obj	_	Gloss=3Plur.Prog
-15	zàngà-zangà	zàngà-zangà	NOUN	_	ExtPos=NOUN|Gender=Fem	14	comp:aux	_	Gloss=demonstration.Fem
+15	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	14	comp:aux	_	Gloss=demonstration.Fem
 16	na	na	PART	_	Case=Gen|PartType=Case	15	mod	_	Gloss=Gen
 17	nuːnà	nuːn-	VERB	_	_	16	comp:obj	_	Gloss=show
 18	goːyon	goːy-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	17	comp:obj	_	Gloss=support.Vnoun.Masc.Cons
@@ -376,7 +376,7 @@
 1	tòː	tòː	INTJ	_	_	4	discourse	_	Gloss=well
 2	à	à	ADP	_	_	4	mod	_	Gloss=at
 3	can	can	ADV	_	Deixis=Remt|PronType=Dem	2	comp:obj	_	Gloss=Remt
-4	hawaː	hawaː	NOUN	_	ExtPos=NOUN|Gender=Masc	0	root	_	Gloss=floor.Masc
+4	hawaː	hawaː	NOUN	_	Gender=Masc	0	root	_	Gloss=floor.Masc
 5	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	4	mod	_	Gloss=Gen.Masc
 6	àshìr̃in	àshìr̃in	NUM	_	_	5	comp:obj	_	Gloss=twenty
 7	nèː	neː	PART	_	PartType=Foc	4	discourse@foc	_	Gloss=Emph
@@ -476,7 +476,7 @@
 19	ankwàː	ankwàː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=handcuffs.Fem
 20	à	à	ADP	_	_	17	comp:obl	_	Gloss=at
 21	hannun	hannuː	NOUN	_	Definite=Cons|Number=Plur	20	comp:obj	_	Gloss=hand.Masc.Cons|SpaceAfter=No|wordform=hannunsà
-22	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	21	mod	_	Gloss=3Masc.Gen
+22	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	21	mod	_	Gloss=-3Masc.Gen|wordform=sà
 23	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	16	parataxis@conj	_	Gloss=4.Perf.Rel
 24	yi	yi	VERB	_	_	23	comp:aux	_	Gloss=do
 25	wàje	wàje	ADV	_	_	24	comp:pred	_	Gloss=outside
@@ -518,7 +518,7 @@
 28	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	23	comp:obj@agent	_	Gloss=3Fem.Sub
 29	tsoːmà	tsoːm-	VERB	_	_	28	comp:aux	_	Gloss=dip_into
 30	bàːkin	bàːkiː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=mouth|SpaceAfter=No|wordform=bàːkintà
-31	tà	tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	30	mod	_	Gloss=3Fem.Gen
+31	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	30	mod	_	Gloss=-3Fem.Gen|wordform=tà
 32	cikin	cikin	ADP	_	_	29	comp:obl	_	Gloss=inside
 33	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	34	det	_	Gloss=ProxS.Masc
 34	àl'amàr̃iː	àl'amàr̃iː	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=matter.Masc
@@ -590,7 +590,7 @@
 5	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	1	parataxis@conj	_	Gloss=3Plur.Prog
 6	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	5	comp:aux	_	Gloss=demonstration.Fem
 7	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	6	mod	_	Gloss=Gen.Fem
-8	ƙîn	ƙi	VERB	_	Definite=Cons|ExtPos=VERB|Gender=Masc|VerbForm=Vnoun	7	comp:obj	_	Gloss=hate.Vnoun.Masc.Cons|Idiom=Yes
+8	ƙîn	ƙi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:obj	_	Gloss=hate.Vnoun.Masc.Cons|Idiom=Yes
 9	jinin	jiniː	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=blood.Masc.Cons|InIdiom=Yes
 10	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	11	det	_	Gloss=ProxS.Masc
 11	littaːfìː	littaːfìː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=book.Masc
@@ -631,7 +631,7 @@
 21	Palma	Palma	PROPN	_	_	20	flat@name	_	Gloss=Palma
 22	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=with
 23	rân	râi	NOUN	_	Definite=Cons|Gender=Masc	22	comp:obj	_	Gloss=life.Masc.Cons|SpaceAfter=No|wordform=rânsà
-24	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	23	mod	_	Gloss=3Masc.Gen
+24	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	23	mod	_	Gloss=-3Masc.Gen|wordform=sà
 25	ba	ba	PART	_	PartType=Neg|Polarity=Neg	18	mod	_	Gloss=Neg|SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 27	dòːmin	dòːmin	SCONJ	_	_	18	mod	_	Gloss=because
@@ -666,7 +666,7 @@
 15	à	à	ADP	_	_	13	comp:pred	_	Gloss=at
 16	kân	kân	ADP	_	_	15	comp:obj	_	Gloss=top
 17	bàkan	bàkaː	NOUN	_	Definite=Cons|Gender=Masc	16	comp:obj	_	Gloss=bow.Masc.Cons|SpaceAfter=No
-18	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	17	mod	_	Gloss=3Masc.Gen
+18	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	17	mod	_	Gloss=-3Masc.Gen|wordform=sà
 19	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 20	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	21	mod	_	Gloss=Neg
 21	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	13	parataxis@conj	_	Gloss=3Masc.Fut
