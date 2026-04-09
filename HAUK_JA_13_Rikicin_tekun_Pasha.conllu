@@ -33,7 +33,7 @@
 13	gà	gà	ADP	_	_	12	comp:obl	_	Gloss=to
 14-15	jàma'àr̃sà	_	_	_	_	_	_	_	_
 14	jàma'àr̃	jàma'àː	NOUN	_	Definite=Cons|Gender=Fem	13	comp:obj	_	Gloss=people.Fem.Cons
-15	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	14	mod	_	Gloss=-3Masc.Gen|wordform=sà
+15	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	14	mod@poss	_	Gloss=-3Masc.Gen|wordform=sà
 16	dà	dà	SCONJ	_	_	12	comp:obl	_	Gloss=COMP
 17	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	16	comp:obj	_	Gloss=3Plur.Sub
 18	yi	yi	VERB	_	_	17	comp:aux	_	Gloss=do
@@ -225,7 +225,7 @@
 35	bayyànà	bayyan-	VERB	_	_	34	comp:aux	_	Gloss=explain
 36-37	r̃a'àyinsù	_	_	_	_	_	_	_	_
 36	r̃a'àyin	r̃a'àyin	NOUN	_	Definite=Cons|Gender=Masc	35	comp:obj	_	Gloss=viewpoint.Masc.Cons
-37	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	36	mod	_	Gloss=-3Plur.Gen|wordform=sù
+37	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	36	mod@poss	_	Gloss=-3Plur.Gen|wordform=sù
 38	à	à	ADP	_	_	35	comp:obl	_	Gloss=at
 39	gàme	gàme	ADV	_	VerbForm=Stat	40	mod	_	Gloss=together
 40	dà	dà	ADP	_	_	38	comp:obj	_	Gloss=with
@@ -303,7 +303,7 @@
 14	goːyon	goːy-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Number=Plur|VerbForm=Vnoun	13	comp:obj	_	Gloss=support.Vnoun.Masc.Cons
 15-16	baːyansù	_	_	_	_	_	_	_	_
 15	baːyan	baːyaː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:obj	_	Gloss=back.Masc.Cons
-16	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	15	mod	_	Gloss=-3Plur.Gen|wordform=sù
+16	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	15	mod@poss	_	Gloss=-3Plur.Gen|wordform=sù
 17	gà	gà	ADP	_	_	14	comp:obl	_	Gloss=about
 18	maːmàyêːwâr̃	maːmay-	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	17	comp:obj	_	Gloss=occupy.Vnoun.Fem.Def
 19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=COMP
@@ -463,7 +463,7 @@
 47	àːbòːkan	àːboːkiː	NOUN	_	Definite=Cons|Number=Plur	45	conj:coord	_	Gloss=friend.Plur.Cons
 48-49	ƙàwàncentà	_	_	_	_	_	_	_	_
 48	ƙàwàncen	ƙàwàncen	NOUN	_	Definite=Cons|Gender=Masc	47	mod	_	Gloss=coalition.Masc.Cons
-49	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	48	mod	_	Gloss=-3Fem.Gen|wordform=tà
+49	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	48	mod@poss	_	Gloss=-3Fem.Gen|wordform=tà
 50	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	43	comp:obj	_	Gloss=3Plur.Perf.Rel
 51	kai	kai	VERB	_	_	50	comp:aux	_	Gloss=reach/carry_to
 52	wà	wà	ADP	_	Case=Dat	51	comp:obl	_	Gloss=Dat
@@ -529,7 +529,7 @@
 19	huːcè	huːt-	VERB	_	_	18	comp:obj	_	Gloss=vent
 20-21	haushinsù	_	_	_	_	_	_	_	_
 20	haushin	haushiː	NOUN	_	Definite=Cons|Gender=Masc	19	comp:obj	_	Gloss=anger.Masc.Cons
-21	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	20	mod	_	Gloss=-3Plur.Gen|wordform=sù
+21	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	20	mod@poss	_	Gloss=-3Plur.Gen|wordform=sù
 22	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	17	parataxis@conj	_	Gloss=3Plur.Perf.Rel
 23	rinƙà	rinƙ-	VERB	_	_	22	comp:aux	_	Gloss=keep_on
 24	jiːfàn	jeːf-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	23	comp:obj	_	Gloss=throw.Vnoun.Masc.Cons
