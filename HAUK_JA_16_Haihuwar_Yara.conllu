@@ -37,7 +37,7 @@
 21	zaːsù	zâi	AUX	_	Number=Plur|Person=3|Tense=Fut	11	comp:obj	_	Gloss=3Plur.Fut
 22	rasà	ras-	VERB	_	_	21	comp:aux	_	Gloss=lose
 23	raːyukàn	râi	NOUN	_	Definite=Cons|Number=Plur	22	comp:obj	_	Gloss=life.Plur.Cons|SpaceAfter=No|wordform=raːyukànsù
-24	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	23	mod	_	Gloss=-3Plur.Gen|wordform=sù
+24	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	23	mod@poss	_	Gloss=-3Plur.Gen|wordform=sù
 25	à	à	ADP	_	_	22	comp:obl	_	Gloss=at
 26	dàliːlìn	dàliːlìn	ADP	_	_	25	comp:obj	_	Gloss=because_of
 27	saːmùn	saːmùː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	26	mod	_	Gloss=get.Vnoun.Masc.Cons
@@ -74,7 +74,7 @@
 15	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	14	mod	_	Gloss=Nigeria|SpaceAfter=No
 16	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 17	dukàn	dukà	PRON	_	Definite=Cons	19	subj	_	Gloss=all|SpaceAfter=No|wordform=dukànsù
-18	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	17	mod	_	Gloss=3Plur.Gen
+18	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	17	mod@poss	_	Gloss=-3Plur.Gen|wordform=sù
 19	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
 20	yàr̃da	yar̃d-	VERB	_	_	19	comp:aux	_	Gloss=agree
 21	cêːwaː	cêːwaː	SCONJ	_	_	20	comp:obj	_	Gloss=COMP|wordform=cêwaː
@@ -165,7 +165,7 @@
 17	sukàn	kàn	AUX	_	Aspect=Hab|Number=Plur|Person=3	8	comp:obj	_	Gloss=3Plur.Hab
 18	rasà	ras-	VERB	_	_	17	comp:aux	_	Gloss=lose
 19	raːyukàn	râi	NOUN	_	Definite=Cons|Number=Plur	18	comp:obj	_	Gloss=life.Plur.Cons|SpaceAfter=No|wordform=raːyukànsù
-20	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	19	mod	_	Gloss=-3Plur.Gen|wordform=sù
+20	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	19	mod@poss	_	Gloss=-3Plur.Gen|wordform=sù
 21	neː	neː	PART	_	PartType=Foc	18	discourse@foc	_	Gloss=Emph
 22	wajen	wajen	ADP	_	_	18	comp:obl	_	Gloss=about
 23	haihùwaː	haihùwaː	NOUN	_	Gender=Fem	22	comp:obj	_	Gloss=giving_birth.Fem|SpaceAfter=No
@@ -227,7 +227,7 @@
 19	neː	neː	PART	_	PartType=Foc	18	discourse@foc	_	Gloss=Emph
 20	sabòːdà	sabòːdà	SCONJ	_	_	18	mod	_	Gloss=because
 21	kwàtangwalòn	kwàtangwalòː	NOUN	_	Definite=Cons|Gender=Masc	23	subj	_	Gloss=pelvis.Masc.Cons|SpaceAfter=No|wordform=kwàtangwalònsù
-22	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	21	mod	_	Gloss=-3Plur.Gen|wordform=sù
+22	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	21	mod@poss	_	Gloss=-3Plur.Gen|wordform=sù
 23	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	20	comp:obj	_	Gloss=3Masc.Perf
 24	fayè	fay-	VERB	_	_	23	comp:aux	_	Gloss=exceed
 25	ƙanƙantàː	ƙanƙanːtà	NOUN	_	Gender=Fem	24	comp:obj	_	Gloss=smallness.Fem|SpaceAfter=No
@@ -246,7 +246,7 @@
 # text_ortho = Wasunsù kuma sunàː mutuwàː neː sabòːdà ràːzanàr̃ dà sukèː yîː danganèː dà wasu cànje-cànje dà kèː fàːruwaː à loːkàcîn dà sukè dà juːnaː biyu, kàmar̃ kùmburin ƙafàːfunsù wandà akèː ganin cêːwaː wata àlaːmàː ceː dà kèː nuːnà koː tagwàːyeː neː zaː'à hàifaː koː kuma ɗaː namijì.
 # text = wasunsù kuma sunàː mutuwàː neː sabòːdà ràːzanàr̃ dà sukèː yîː danganèː dà wasu cànje-cànje dà kèː fàːruwaː à loːkàcîn dà sukè dà juːnaː biyu, kàmar̃ kùmburin ƙafàːfunsù wandà akèː ganin cêːwaː wata àlaːmàː ceː dà kèː nuːnà koː tagwàːyeː neː zaː'à hàifaː koː kuma ɗaː namijì.
 1	wasun	wasu	PRON	_	Definite=Cons|Number=Plur	4	subj	_	Gloss=some.Plur.Cons|SpaceAfter=No|wordform=Wasunsù
-2	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	1	mod	_	Gloss=3Plur.Gen
+2	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	1	mod@poss	_	Gloss=-3Plur.Gen|wordform=sù
 3	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 4	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
 5	mutuwàː	mutù	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:aux	_	Gloss=die.Vnoun.Fem
@@ -275,7 +275,7 @@
 28	kùmburin	kùmburiː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:obj	_	Gloss=swelling.Masc.Cons
 29-30	ƙafàːfunsù	_	_	_	_	_	_	_	_
 29	ƙafàːfun	ƙafàː	NOUN	_	Definite=Cons|Number=Plur	28	mod	_	Gloss=leg.Plur.Cons
-30	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	29	mod	_	Gloss=-3Plur.Gen|wordform=sù
+30	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	29	mod@poss	_	Gloss=-3Plur.Gen|wordform=sù
 31	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	28	mod@relcl	_	Gloss=REL.Masc
 32	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	31	comp:obj	_	Gloss=4.Prog.Rel
 33	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	32	comp:aux	_	Gloss=seen.Vnoun.Masc.Cons
@@ -459,7 +459,7 @@
 10	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	9	mod@relcl	_	Gloss=REL.Fem
 11	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	16	subj	_	Gloss=quantity.Masc.Cons
 12	jàma'àr̃	jàma'àː	NOUN	_	Definite=Cons|Gender=Fem	11	mod	_	Gloss=population.Fem.Cons|SpaceAfter=No|wordform=jàma'àr̃tà
-13	-tà	-sù	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	12	mod	_	Gloss=-3Fem.Gen|wordform=tà
+13	-tà	-sù	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	12	mod@poss	_	Gloss=-3Fem.Gen|wordform=tà
 14	kashìː	kashìː	NUM	_	Gender=Masc	16	comp:pred	_	Gloss=portion.Masc
 15	biyu	biyu	NUM	_	_	14	mod:num	_	Gloss=two
 16	nèː	neː	AUX	_	_	10	comp:obj	_	Gloss=be
@@ -478,7 +478,7 @@
 29	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	27	comp:obj	_	Gloss=world.Fem
 30	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	29	mod	_	Gloss=mouth.Masc
 31	ɗayan	ɗaya	NUM	_	Definite=Cons|Gender=Fem	30	mod:num	_	Gloss=one.Fem.Cons|SpaceAfter=No|wordform=ɗayantà
-32	tà	tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	31	mod	_	Gloss=3Fem.Gen
+32	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	31	mod@poss	_	Gloss=-3Fem.Gen|wordform=tà
 33	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 16_Aihuwar_Yara_14

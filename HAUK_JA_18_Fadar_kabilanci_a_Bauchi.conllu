@@ -300,7 +300,7 @@
 30	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	24	comp:obj	_	Gloss=3Plur.Perf.Rel
 31	rasà	ras-	VERB	_	_	30	comp:aux	_	Gloss=lose
 32	raːyukàn	râi	NOUN	_	Definite=Cons|Number=Plur	31	comp:obj	_	Gloss=life.Plur.Cons|SpaceAfter=No|wordform=raːyukànsù
-33	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	32	mod	_	Gloss=-3Plur.Gen|wordform=sù
+33	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	32	mod@poss	_	Gloss=-3Plur.Gen|wordform=sù
 34	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
 35	sànnan	sànnan	ADV	_	_	37	mod	_	Gloss=then
 36	kuma	kuma	PART	_	PartType=Top	35	discourse@top	_	Gloss=also
@@ -392,7 +392,7 @@
 24	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Rel	23	comp:obj	_	Gloss=3Plur.Perf.Rel
 25	bar̃	bariː	VERB	_	Definite=Cons|Gender=Fem	24	comp:aux	_	Gloss=leave
 26	gidàːjen	gidaː	NOUN	_	Definite=Cons|Number=Plur	25	comp:obj	_	Gloss=house.Plur.Cons|SpaceAfter=No|wordform=gidàːjensù
-27	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	26	mod	_	Gloss=-3Plur.Gen|wordform=sù
+27	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	26	mod@poss	_	Gloss=-3Plur.Gen|wordform=sù
 28	sàːkàmakon	sàːkàmakon	ADP	_	_	25	mod	_	Gloss=because_of
 29	hàrgitsîn	hàrgitsiː	NOUN	_	Definite=Def|Gender=Masc	28	comp:obj	_	Gloss=crisis.Masc.Def|SpaceAfter=No
 30	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
@@ -452,7 +452,7 @@
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	8	mod@relcl	_	Gloss=REL.Plur
 13	akasàr̃in	akasàr̃iː	NOUN	_	Definite=Cons|Gender=Masc	18	subj	_	Gloss=majority.Masc.Cons|SpaceAfter=No|wordform=akasàr̃insù
-14	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	13	mod	_	Gloss=-3Plur.Gen|wordform=sù
+14	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	13	mod@poss	_	Gloss=-3Plur.Gen|wordform=sù
 15	mabìyaː	mabìyiː	NOUN	_	Number=Plur	18	comp:pred	_	Gloss=follower.Plur
 16	àddiːnìn	àddiːnìː	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	15	comp:obj	_	Gloss=religion.Masc.Cons
 17	Kir̃istàː	Kir̃istàː	ADJ	_	Number=Sing	16	mod	_	Gloss=Christian.Sing
@@ -467,7 +467,7 @@
 26	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	22	mod@relcl	_	Gloss=REL.Plur
 27	mafìː	mafìː	PART	_	PartType=Der	31	subj	_	Gloss=exceeding_in
 28	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	27	compound	_	Gloss=quantity.Masc.Cons|SpaceAfter=No|wordform=yawànsù
-29	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	28	mod	_	Gloss=-3Plur.Gen|wordform=sù
+29	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	28	mod@poss	_	Gloss=-3Plur.Gen|wordform=sù
 30	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	31	comp:pred	_	Gloss=Muslim.Plur
 31	nèː	neː	AUX	_	_	26	comp:obj	_	Gloss=be
 32	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT

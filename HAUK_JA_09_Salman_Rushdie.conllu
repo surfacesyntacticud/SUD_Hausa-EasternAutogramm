@@ -476,7 +476,7 @@
 19	ankwàː	ankwàː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=handcuffs.Fem
 20	à	à	ADP	_	_	17	comp:obl	_	Gloss=at
 21	hannun	hannuː	NOUN	_	Definite=Cons|Number=Plur	20	comp:obj	_	Gloss=hand.Masc.Cons|SpaceAfter=No|wordform=hannunsà
-22	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	21	mod	_	Gloss=-3Masc.Gen|wordform=sà
+22	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	21	mod@poss	_	Gloss=-3Masc.Gen|wordform=sà
 23	akà	yaː	AUX	_	Aspect=Perf|Person=4|Relative=Rel	16	parataxis@conj	_	Gloss=4.Perf.Rel
 24	yi	yi	VERB	_	_	23	comp:aux	_	Gloss=do
 25	wàje	wàje	ADV	_	_	24	comp:pred	_	Gloss=outside
@@ -518,7 +518,7 @@
 28	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	23	comp:obj@agent	_	Gloss=3Fem.Sub
 29	tsoːmà	tsoːm-	VERB	_	_	28	comp:aux	_	Gloss=dip_into
 30	bàːkin	bàːkiː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=mouth|SpaceAfter=No|wordform=bàːkintà
-31	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	30	mod	_	Gloss=-3Fem.Gen|wordform=tà
+31	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	30	mod@poss	_	Gloss=-3Fem.Gen|wordform=tà
 32	cikin	cikin	ADP	_	_	29	comp:obl	_	Gloss=inside
 33	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	34	det	_	Gloss=ProxS.Masc
 34	àl'amàr̃iː	àl'amàr̃iː	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=matter.Masc
@@ -631,7 +631,7 @@
 21	Palma	Palma	PROPN	_	_	20	flat@name	_	Gloss=Palma
 22	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=with
 23	rân	râi	NOUN	_	Definite=Cons|Gender=Masc	22	comp:obj	_	Gloss=life.Masc.Cons|SpaceAfter=No|wordform=rânsà
-24	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	23	mod	_	Gloss=-3Masc.Gen|wordform=sà
+24	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	23	mod@poss	_	Gloss=-3Masc.Gen|wordform=sà
 25	ba	ba	PART	_	PartType=Neg|Polarity=Neg	18	mod	_	Gloss=Neg|SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 27	dòːmin	dòːmin	SCONJ	_	_	18	mod	_	Gloss=because
@@ -642,7 +642,7 @@
 32	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	31	mod	_	Gloss=Muslim.Plur
 33	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	32	mod	_	Gloss=mouth.Masc
 34	ɗayan	ɗaya	NUM	_	Definite=Cons	33	mod:num	_	Gloss=one.Cons|SpaceAfter=No|wordform=ɗayansù
-35	sù	sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	34	mod	_	Gloss=3Plur.Gen
+35	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	34	mod@poss	_	Gloss=-3Plur.Gen|wordform=sù
 36	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie_23
@@ -666,7 +666,7 @@
 15	à	à	ADP	_	_	13	comp:pred	_	Gloss=at
 16	kân	kân	ADP	_	_	15	comp:obj	_	Gloss=top
 17	bàkan	bàkaː	NOUN	_	Definite=Cons|Gender=Masc	16	comp:obj	_	Gloss=bow.Masc.Cons|SpaceAfter=No
-18	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	17	mod	_	Gloss=-3Masc.Gen|wordform=sà
+18	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	17	mod@poss	_	Gloss=-3Masc.Gen|wordform=sà
 19	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 20	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	21	mod	_	Gloss=Neg
 21	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	13	parataxis@conj	_	Gloss=3Masc.Fut

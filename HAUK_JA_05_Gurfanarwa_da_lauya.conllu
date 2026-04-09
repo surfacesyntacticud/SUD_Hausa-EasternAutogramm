@@ -105,7 +105,7 @@
 33	dà	dà	ADP	_	_	25	mod	_	Gloss=with
 34-35	tùhumàr̃sà	_	_	_	_	_	_	_	_
 34	tùhumàr̃	tuhum-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	33	comp:obj	_	Gloss=charge.Vnoun.Fem.Cons
-35	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	34	comp:obj	_	Gloss=3Masc.Gen
+35	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	34	comp:obj	_	Gloss=-3Masc.Gen|wordform=sà
 36	ba	ba	PART	_	PartType=Neg|Polarity=Neg	33	mod	_	Gloss=Neg|SpaceAfter=No
 37	,	,	PUNCT	_	_	38	punct	_	Gloss=PUNCT
 38	in	in	SCONJ	_	_	24	mod	_	Gloss=if
@@ -291,7 +291,7 @@
 13	lauyàn	lauyàː	NOUN	_	Definite=Def|Gender=Masc	12	comp:obj	_	Gloss=lawyer.Masc.Def
 14-15	naːsà	_	_	_	_	_	_	_	_
 14	naː	na	PART	_	Case=Gen|Gender=Masc	13	mod	_	Gloss=Gen.Masc|SpaceAfter=No
-15	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	14	comp:obj	_	Gloss=3Masc.Gen|SpaceAfter=No
+15	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	14	comp:obj	_	Gloss=-3Masc.Gen|SpaceAfter=No|wordform=sà
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 17	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 18	shàːfi	shaf-	VERB	_	_	17	comp:aux	_	Gloss=concern
@@ -349,7 +349,7 @@
 # text_ortho = Lauyànsà yaː ƙaːràː dà cêːwaː ìdan har̃ akà sàːmi Chief G.F. dà wannàn lâifiː, tòː zâi iyà saːmùn ɗaurìn har̃ shèːkaràː bìyar̃ à gidan yaːrìː.
 # text = lauyànsà yaː ƙaːràː dà cêːwaː ìdan har̃ akà sàːmi Chief G.F. dà wannàn lâifiː, tòː zâi iyà saːmùn ɗaurìn har̃ shèːkaràː bìyar̃ à gidan yaːrìː.
 1	lauyàn	lauyàː	PROPN	_	Definite=Cons|Gender=Masc	3	subj	_	Gloss=Lauyànsà|SpaceAfter=No|wordform=Lauyànsà
-2	sà	sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	1	mod	_	Gloss=3Masc.Gen
+2	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	1	mod@poss	_	Gloss=-3Masc.Gen|wordform=sà
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 4	ƙaːràː	ƙaːr-	VERB	_	_	3	comp:aux	_	Gloss=increase
 5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
@@ -434,7 +434,7 @@
 33	wà	wà	ADP	_	Case=Dat	32	comp:obl	_	Gloss=Dat
 34-35	màːtar̃sà	_	_	_	_	_	_	_	_
 34	màːtar̃	màːtaː	NOUN	_	Definite=Cons|Gender=Fem	33	comp:obj	_	Gloss=wife.Fem.Cons
-35	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	34	mod	_	Gloss=-3Masc.Gen|wordform=sà
+35	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	34	mod@poss	_	Gloss=-3Masc.Gen|wordform=sà
 36	fyàːɗeː	fyàːɗeː	NOUN	_	Gender=Masc	32	comp:pred	_	Gloss=rape.Masc|SpaceAfter=No
 37	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
@@ -483,7 +483,7 @@
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
 12	sànàdiyyàr̃	sànàdiyyàː	NOUN	_	Definite=Cons|Gender=Fem	11	comp:pred	_	Gloss=cause.Fem.Cons
 13	zuwàn	zoː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	12	mod	_	Gloss=go.Vnoun.Masc|SpaceAfter=No|wordform=zuwànsà
-14	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	13	mod	_	Gloss=-3Masc.Gen|wordform=sà
+14	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	13	mod@poss	_	Gloss=-3Masc.Gen|wordform=sà
 15	koːtù	koːtù	NOUN	_	Gender=Fem	13	comp:obj@G	_	Gloss=court.Fem
 16	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	13	mod	_	Gloss=up_to
 17	kìːmaːnìn	kìːmaːnìː	NOUN	_	Definite=Cons|Gender=Masc	16	comp:obj	_	Gloss=total.Masc.Cons
@@ -498,7 +498,7 @@
 # text_ortho = Zuwànsà koːtùn dà ya fi koːwànneː muhimmancìː shiː nèː neːman yà ga an ɗaurè wasu jàːmìꞌan tsàron ƙasar̃ Nàːjeːr̃iyàː biyu waɗàndà akà zàrgaː dà lâifin kashè Dele Giwa, wàːtòː ɗan jàr̃iːdàr̃ nan dà ya rasà rânsà dàliːlìn wani bâm dà akà aikoː masà ta cikin wàsiːƙàː tun shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà.
 # text = zuwànsà koːtùn dà ya fi koːwànneː muhimmancìː shiː nèː neːman yà ga an ɗaurè wasu jàːmìꞌan tsàron ƙasar̃ Nàːjeːr̃iyàː biyu waɗàndà akà zàrgaː dà lâifin kashè Dele Giwa, wàːtòː ɗan jàr̃iːdàr̃ nan dà ya rasà rânsà dàliːlìn wani bâm dà akà aikoː masà ta cikin wàsiːƙàː tun shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà.
 1	zuwàn	zoː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	subj	_	Gloss=go.Vnoun.Masc.Cons|SpaceAfter=No|wordform=Zuwànsà
-2	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	1	mod	_	Gloss=-3Masc.Gen|wordform=sà
+2	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	1	mod@poss	_	Gloss=-3Masc.Gen|wordform=sà
 3	koːtùn	koːtù	NOUN	_	Definite=Def|Gender=Fem	1	comp:obj@G	_	Gloss=court.Fem.Def
 4	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	4	comp:obj	_	Gloss=3Masc.Perf.Rel
@@ -535,7 +535,7 @@
 36	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	35	comp:obj	_	Gloss=3Masc.Perf.Rel
 37	rasà	ras-	VERB	_	_	36	comp:aux	_	Gloss=lose
 38	rân	râi	NOUN	_	Definite=Cons|Gender=Masc	37	comp:obj	_	Gloss=life.Masc.Cons|SpaceAfter=No|wordform=rânsà
-39	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	38	mod	_	Gloss=-3Masc.Gen|wordform=sà
+39	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	38	mod@poss	_	Gloss=-3Masc.Gen|wordform=sà
 40	dàliːlìn	dàliːlìn	ADP	_	_	37	mod	_	Gloss=because_of
 41	wani	wani	DET	_	Definite=Spec|Gender=Masc	42	det	_	Gloss=some.Masc.Spec
 42	bâm	bâm	NOUN	_	Gender=Masc	40	comp:obj	_	Gloss=bomb.Masc
