@@ -58,7 +58,7 @@
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
 19	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Rel	18	comp:obj	_	Gloss=3Fem.Perf.Rel
 20	yi	yi	VERB	_	_	19	comp:aux	_	Gloss=do
-21	danganèː	danganèː	NOUN	_	ExtPos=SCONJ|Gender=Masc	20	mod	_	Gloss=relation.Masc|Idiom=Yes
+21	danganèː	danganèː	NOUN	_	ExtPos=SCONJ|Gender=Masc	20	comp:obl	_	Gloss=relation.Masc|Idiom=Yes
 22	dà	dà	ADP	_	_	21	compound	_	Gloss=with|InIdiom=Yes
 23	kaːrè	kaːr-	VERB	_	_	21	comp:obj	_	Gloss=protect
 24	haƙƙìn	haƙƙìː	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=rights.Masc.Cons
@@ -424,7 +424,7 @@
 23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=COMP
 24	akèː	nàː	AUX	_	Aspect=Prog|Person=4|Relative=Rel	23	comp:obj	_	Gloss=4.Prog.Rel
 25	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	24	comp:aux	_	Gloss=do.Vnoun.Masc.Cons
-26	zàrgin	zarg-	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	25	comp:pred	_	Gloss=accuse.Vnoun.Masc.Cons
+26	zàrgin	zarg-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	25	comp:pred	_	Gloss=accuse.Vnoun.Masc.Cons
 27	cêːwa	cêːwa	SCONJ	_	_	26	mod@relcl	_	Gloss=COMP
 28	wani	wani	DET	_	Definite=Spec|Gender=Masc	29	det	_	Gloss=some.Masc.Spec
 29	jaːmìꞌin	jaːmìꞌiː	NOUN	_	Definite=Cons|Gender=Masc	31	subj	_	Gloss=official.Masc.Cons

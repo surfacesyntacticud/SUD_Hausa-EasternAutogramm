@@ -127,7 +127,7 @@
 24	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	10	conj:coord	_	Gloss=3Plur.Perf
 25	moːrèː	moːr-	VERB	_	_	24	comp:aux	_	Gloss=enjoy
 26	wà	wà	ADP	_	Case=Dat	25	comp:obl	_	Gloss=Dat
-27	shirìn	shirìː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	26	comp:obj	_	Gloss=programme.Masc.Cons
+27	shirìn	shirìː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:obj	_	Gloss=programme.Masc.Cons
 28	wasu	wani	DET	_	Definite=Spec|Number=Plur	29	det	_	Gloss=some.Plur.Spec
 29	ƙungiyoːyiː	ƙungìyaː	NOUN	_	Number=Plur	27	mod	_	Gloss=organisation.Plur
 30	na	na	PART	_	Case=Gen|Number=Plur|PartType=Case	29	mod	_	Gloss=Gen.Plur
@@ -256,7 +256,7 @@
 9	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
 10	sukèː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3|Relative=Rel	9	comp:obj	_	Gloss=3Plur.Prog.Rel
 11	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:aux	_	Gloss=do.Vnoun.Masc
-12	danganèː	danganèː	NOUN	_	ExtPos=ADP|Gender=Masc	11	mod	_	Gloss=relation.Masc|Idiom=Yes
+12	danganèː	danganèː	NOUN	_	ExtPos=ADP|Gender=Masc	11	comp:obl	_	Gloss=relation.Masc|Idiom=Yes
 13	dà	dà	ADP	_	_	12	compound	_	Gloss=with|InIdiom=Yes
 14	wasu	wani	DET	_	Definite=Spec|Number=Plur	15	det	_	Gloss=some.Plur.Spec
 15	cànje-cànje	canjìː	NOUN	_	Number=Plur	12	comp:obj	_	Gloss=change.Plur
@@ -569,7 +569,7 @@
 18	tabbatar̃	tabbat-	VERB	_	Voice=Cau	17	comp:aux	_	Gloss=be_sure.Cau
 19	dà	dà	ADP	_	_	18	comp:obl	_	Gloss=with
 20	màːsu	mài	PART	_	Number=Plur|PartType=Der	23	subj	_	Gloss=owner/doer_of.Plur
-21	juːnaː	juːnaː	NOUN	_	ExtPos=NOUN|Gender=Masc	20	compound	_	Gloss=each_other.Masc
+21	juːnaː	juːnaː	NOUN	_	Gender=Masc	20	compound	_	Gloss=each_other.Masc
 22	biyu	biyu	NUM	_	_	21	compound	_	Gloss=two
 23	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	19	comp:obj	_	Gloss=3Plur.Perf
 24	sàuka	sauk-	VERB	_	_	23	comp:aux	_	Gloss=give_birth
