@@ -11,7 +11,7 @@
 7	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	5	comp:obj	_	Gloss=Niger
 8	don	don	SCONJ	_	_	2	mod	_	Gloss=in_order_to
 9	neːman	neːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:obj	_	Gloss=look_for.Vnoun.Masc.Cons
-10	dìmùkùr̃àːɗiyyàː	dìmùkùr̃àːɗiyyàː	NOUN	_	ExtPos=NOUN|Gender=Fem	9	comp:obj	_	Gloss=democracy.Fem
+10	dìmùkùr̃àːɗiyyàː	dìmùkùr̃àːɗiyyàː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=democracy.Fem
 
 # sent_id = 15_Yajin_aiki_2
 # text_en = Some reports from the capital cidy of Niger Republic showed support of many districts in favour of the call for strike.
@@ -128,7 +128,7 @@
 23	kiràn	kiraː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	22	comp:pred	_	Gloss=call.Vnoun.Masc.Cons
 24	à	yà	AUX	_	Mood=Sub|Person=4	23	comp:obj	_	Gloss=4.Sub
 25	yi	yi	VERB	_	_	24	comp:aux	_	Gloss=do
-26	yaːjìn	yaːjìː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	25	comp:pred	_	Gloss=hot_spice.Masc.Cons
+26	yaːjìn	yaːjìː	NOUN	_	Definite=Cons|Gender=Masc	25	comp:pred	_	Gloss=hot_spice.Masc.Cons
 27	aikìn	aikìː	NOUN	_	Definite=Def|Gender=Masc	26	compound	_	Gloss=work.Masc.Def|SpaceAfter=No
 28	.	.	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 
@@ -258,7 +258,7 @@
 29	bir̃nin	bir̃nin	NOUN	_	Definite=Cons|Gender=Masc	30	mod@desc	_	Gloss=city.Masc.Cons
 30	Yàmài	Yàmài	PROPN	_	_	28	comp:obj	_	Gloss=Niamey
 31	à	à	ADP	_	_	21	mod	_	Gloss=at
-32	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	33	mod@desc	_	Gloss=month.Masc.Cons
+32	watàn	watàː	NOUN	_	Definite=Cons|Gender=Masc	33	mod@desc	_	Gloss=month.Masc.Cons
 33	Fàbàr̃air̃ùn	Fàbàr̃air̃ù	NOUN	_	Definite=Def|Gender=Masc	31	comp:obj	_	Gloss=february.Masc.Def
 34	dà	dà	SCONJ	_	_	33	mod@relcl	_	Gloss=COMP
 35	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	34	comp:obj	_	Gloss=3Masc.Perf.Rel
@@ -357,14 +357,14 @@
 13	baːyar̃	baː	ADV	_	Voice=Cau	12	comp:obj	_	Gloss=give.Cau|wordform=bayar
 14	nèː	neː	PART	_	PartType=Foc	13	discourse@foc	_	Gloss=Emph
 15	à	à	ADP	_	_	13	mod	_	Gloss=at
-16	watàn	watàː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:obj	_	Gloss=month.Masc.Cons
+16	watàn	watàː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	Gloss=month.Masc.Cons
 17	jiyà	jiyà	ADV	_	_	16	compound	_	Gloss=yesterday|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 19	cêːwaː	cêːwaː	SCONJ	_	_	8	mod	_	Gloss=COMP
 20	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	19	comp:obj	_	Gloss=3Fem.Prog
 21	shirìn	shiry-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	20	comp:aux	_	Gloss=prepare.Vnoun.Masc.Cons
 22	sauyà	sauy-	VERB	_	_	21	mod	_	Gloss=change
-23	tsaːrìn	tsaːrìː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	22	comp:obj	_	Gloss=system.Masc.Cons
+23	tsaːrìn	tsaːrìː	NOUN	_	Definite=Cons|Gender=Masc	22	comp:obj	_	Gloss=system.Masc.Cons
 24	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	23	compound	_	Gloss=government.Masc
 25	Jàmhuːr̃iyàr̃	jàmhuːr̃iyàː	NOUN	_	Definite=Cons|Gender=Fem	26	mod@desc	_	Gloss=republic.Fem.Cons|wordform=Jàmhuːr̃iyar
 26	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	23	mod	_	Gloss=Niger

@@ -140,7 +140,7 @@
 24	kaːmùː-kaːmùː	kaːmùː-kaːmùː	ADV	_	_	21	mod	_	Gloss=in_shifts|SpaceAfter=No
 25	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 26	wasu	wani	PRON	_	Definite=Spec|Number=Plur|PronType=Ind	27	subj	_	Gloss=some.Plur.Spec
-27	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	20	parataxis:conj	_	Gloss=3Plur.Sub
+27	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	20	parataxis@conj	_	Gloss=3Plur.Sub
 28	bâi	baː	VERB	_	_	27	comp:aux	_	Gloss=give
 29	wà	wà	ADP	_	Case=Dat	28	comp:obl	_	Gloss=Dat
 30	wasu	wani	DET	_	Definite=Spec|Number=Plur	29	comp:obj	_	Gloss=some.Plur.Spec|SpaceAfter=No
@@ -216,7 +216,7 @@
 3	dubuː	dubuː	NUM	_	_	2	mod:num	_	Gloss=thousand
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=and
 5	ɗàriː	ɗàriː	NUM	_	Gender=Fem	3	conj:coord	_	Gloss=hundred
-6	shidà	shidà	NUM	_	_	5	flat:num	_	Gloss=six
+6	shidà	shidà	NUM	_	_	5	flat@num	_	Gloss=six
 7	dà	dà	CCONJ	_	_	8	cc	_	Gloss=and
 8	àr̃bà'in	àr̃bà'in	NUM	_	_	5	conj:coord	_	Gloss=forty
 9	dà	dà	CCONJ	_	_	10	cc	_	Gloss=and
@@ -236,7 +236,7 @@
 23	ɗau	ɗauk-	VERB	_	_	22	comp:aux	_	Gloss=take
 24	mutàːneː	mùtûm	NOUN	_	Number=Plur	23	comp:obj	_	Gloss=people.Plur
 25	ɗàriː	ɗàriː	NUM	_	_	24	mod:num	_	Gloss=hundred
-26	tar̃à	tar̃à	NUM	_	_	25	flat:num	_	Gloss=nine
+26	tar̃à	tar̃à	NUM	_	_	25	flat@num	_	Gloss=nine
 27	dà	dà	CCONJ	_	_	28	cc	_	Gloss=and
 28	hàmsin	hàmsin	NOUN	_	Definite=Cons|Gender=Masc	25	conj:coord	_	Gloss=fifty
 29	dà	dà	CCONJ	_	_	30	cc	_	Gloss=and
@@ -250,7 +250,7 @@
 # text = gùdaː ɗàriː huɗu dà hàmsin dà tar̃à dàgà cikin tsàràrrûn sunàː jiràn à gabaːtar̃ dà suː nèː à gàban shàr̃i'àː .
 1	Gùdaː	gùdaː	NOUN	_	Gender=Masc	11	subj	_	Gloss=unit.Masc
 2	ɗàriː	ɗàriː	NUM	_	_	1	mod:num	_	Gloss=hundred
-3	huɗu	huɗu	NUM	_	_	2	flat:num	_	Gloss=four
+3	huɗu	huɗu	NUM	_	_	2	flat@num	_	Gloss=four
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=and
 5	hàmsin	hàmsin	NOUN	_	Definite=Cons|Gender=Masc	2	conj:coord	_	Gloss=fifty
 6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=and
@@ -281,7 +281,7 @@
 5	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	conj:appos	_	Gloss=3Plur.Nom
 6	kìːmaːnìn	kìːmaːnìn	ADP	_	_	5	mod	_	Gloss=about
 7	ɗàriː	ɗàriː	NUM	_	Number=Plur	6	comp:obj	_	Gloss=hundred
-8	ɗaya	ɗaya	NUM	_	_	7	flat:num	_	Gloss=one
+8	ɗaya	ɗaya	NUM	_	_	7	flat@num	_	Gloss=one
 9	dà	dà	CCONJ	_	_	10	cc	_	Gloss=and
 10	sàbà'in	sàbà'in	NUM	_	_	7	conj:coord	_	Gloss=seventy
 11	dà	dà	ADP	_	_	10	mod	_	Gloss=with|wordform=ɗà
@@ -665,7 +665,7 @@
 17	mutàːneː	mùtûm	NOUN	_	Number=Plur	16	comp:obj	_	Gloss=people.Plur
 18	nèː	neː	PART	_	PartType=Foc	16	discourse@foc	_	Gloss=Emph
 19	dà	dà	ADP	_	_	16	mod	_	Gloss=with
-20	nufìn	nufìː	NOUN	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:obj	_	Gloss=intention.Masc.Cons
+20	nufìn	nufìː	NOUN	_	Definite=Cons|Gender=Masc	19	comp:obj	_	Gloss=intention.Masc.Cons
 21	à	yà	AUX	_	Mood=Sub|Person=4	20	comp:obj	_	Gloss=4.Sub
 22	gyaːrà	gyaːr-	VERB	_	_	21	comp:aux	_	Gloss=improve
 23	haːlin	haːliː	NOUN	_	Definite=Cons|Gender=Masc	22	comp:obj	_	Gloss=character.Masc.Cons|SpaceAfter=No|wordform=haːlinsù
@@ -718,7 +718,7 @@
 32	haːliː	haːliː	NOUN	_	Gender=Masc	30	comp:obj	_	Gloss=character.Masc
 33	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	32	mod	_	Gloss=Gen.Masc
 34	nuːnà	nuːn-	VERB	_	_	33	comp:obj	_	Gloss=show
-35	ƙìyayyàː	ƙìyayyàː	NOUN	_	ExtPos=NOUN|Gender=Fem	34	comp:obj	_	Gloss=hate.Fem
+35	ƙìyayyàː	ƙìyayyàː	NOUN	_	Gender=Fem	34	comp:obj	_	Gloss=hate.Fem
 36	dà	dà	CCONJ	_	_	38	cc	_	Gloss=and|wordform=da
 37	kuma	kuma	PART	_	PartType=Top	36	discourse@top	_	Gloss=also
 38	sôn	soː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	34	conj:coord	_	Gloss=want.Vnoun.Masc.Cons
