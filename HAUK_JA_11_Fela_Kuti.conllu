@@ -582,7 +582,7 @@
 # sent_id = 11_Fela_Kuti_19
 # text_en = In nineteen seventy-seven, the thing reached the point of no return when the soldiers of General Obasanjo's government attacked Fela's house in Lagos.
 # text_ortho = À shèːkaràr̃ alìf dà ɗàriː tar̃à dà sàbà'in dà bakwài neː àbîn ya kai magaryar̃ tiƙềwaː, loːkàcîn dà soːjoːjin gwamnatìn Janàr̃ " Obasanjo " sukà yi fàr̃makìː kân gidan Fela dà kèː Ìkko.
-# text = à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sàbà'in dà bakwài neː àbîn ya kai magaryar̃ tiƙềwaː, loːkàcîn dà soːjoːjin gwamnatìn Janàr̃ " Obasanjo " sukà yi fàr̃makìː kân gidan Fela dà kèː Ìkko.
+# text = à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sàbà'in dà bakwài neː àbîn ya kai magaryar̃ tiƙèːwaː, loːkàcîn dà soːjoːjin gwamnatìn Janàr̃ " Obasanjo " sukà yi fàr̃makìː kân gidan Fela dà kèː Ìkko.
 1	à	à	ADP	_	_	13	mod	_	Gloss=at
 2	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	3	mod@desc	_	Gloss=year.Fem.Cons
 3	alìf	alìf	NUM	_	_	1	comp:obj	_	Gloss=one_thousand
@@ -597,8 +597,8 @@
 12	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	13	subj	_	Gloss=thing.Masc.Def
 13	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Rel	0	root	_	Gloss=3Masc.Perf.Rel
 14	kai	kai	VERB	_	_	13	comp:aux	_	Gloss=reach/carry_to
-15	magaryar̃	magaryaː	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=jujube_tree.Fem|Idiom=Yes
-16	tiƙềwaː	tiƙ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	15	mod	_	Gloss=fail.Vnoun.Fem|InIdiom=Yes|SpaceAfter=No
+15	magaryar̃	magaryaː	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=jujube_tree.Fem
+16	tiƙèːwaː	tiƙ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	15	mod	_	Gloss=fail.Vnoun.Fem|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	14	mod	_	Gloss=time.Masc.Def
 19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=COMP
