@@ -280,7 +280,7 @@
 # text_ortho = Baːya dà tsarè mutàːneː huɗûn dà akà bayyànaː mânyaː nèː sòːsai à cikin wannàn ƙungìyaː, Hùkuːmàr̃ taː kuma tsarè wandà akèː zàrgiː dà ɗaukàr̃ ƙwaːyoːyîn, wàndà kuma akà cêː ya haɗìyeː hoːdàr̃ kòːkên ɗîn, wàddà takèː à nànnàɗe cikin r̃oːbàː - wàːtòː àbîn nan dà akèː àmfàːniː dà shiː don hanà haifùwaː.
 # text = baːya dà tsarè mutàːneː huɗûn dà akà bayyànaː mânyaː nèː sòːsai à cikin wannàn ƙungìyaː, Hùkuːmàr̃ taː kuma tsarè wandà akèː zàrgiː dà ɗaukàr̃ ƙwaːyoːyîn, wàndà kuma akà cêː ya haɗìyeː hoːdàr̃ kòːkên ɗîn, wàddà takèː à nànnàɗe cikin r̃oːbàː - wàːtòː àbîn nan dà akèː àmfàːniː dà shiː don hanà haifùwaː.
 1	baːya	baːya	ADV	_	ExtPos=SCONJ	18	mod	_	Gloss=back|Idiom=Yes
-2	dà	dà	ADP	_	_	1	mod	_	Gloss=with|InIdiom=Yes
+2	dà	dà	ADP	_	_	1	unk	_	Gloss=with|InIdiom=Yes
 3	tsarè	tsar-	VERB	_	_	1	comp:obj	_	Gloss=imprison
 4	mutàːneː	mùtûm	NOUN	_	Number=Plur	3	comp:obj	_	Gloss=people.Plur
 5	huɗûn	huɗu	NUM	_	Definite=Def	4	mod:num	_	Gloss=four.Def
@@ -352,7 +352,7 @@
 10	miyàːgun	muːgùː	ADJ	_	Definite=Cons|Number=Plur	11	mod	_	Gloss=bad.Plur
 11	ƙwaːyoːyiː	ƙwàːyaː	NOUN	_	Number=Plur	9	comp:obj	_	Gloss=drug.Plur
 12	sukèː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	7	comp:obj	_	Gloss=3Plur.Prog.Rel|Relative=Rel
-13	yawàn	yawàn	ADV	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	14	mod	_	Gloss=quantity.Masc.Cons
+13	yawàn	yawàn	ADJ	_	Definite=Cons|Gender=Masc	14	mod	_	Gloss=quantity.Masc.Cons
 14	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	12	comp:aux	_	Gloss=do.Vnoun.Masc|SpaceAfter=No
 15	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
