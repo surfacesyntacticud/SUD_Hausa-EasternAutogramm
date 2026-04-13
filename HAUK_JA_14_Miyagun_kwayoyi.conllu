@@ -52,11 +52,10 @@
 38	akà	yaː	AUX	_	Aspect=Perf|Person=4	37	comp:obj	_	Gloss=4.Perf.Rel|Relative=Rel
 39	yi	yi	VERB	_	_	38	comp:aux	_	Gloss=do
 40	niyyàr̃	niyyàː	NOUN	_	Definite=Cons|Gender=Fem	39	comp:pred	_	Gloss=effort.Fem.Cons
-41	fàsà-ƙwàurin	fàsà-ƙwàuriː	NOUN	_	Definite=Cons|Gender=Masc	40	mod	_	Gloss=smuggling.Masc.Cons|SpaceAfter=No|wordform=fàsà-ƙwàurintà
-42	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|Poss=Yes|PronType=Prs	41	mod/m	_	Gloss=-3FemGen|wordform=tà
-43	zuwàː	zuwàː	ADP	_	_	41	mod	_	Gloss=towards|wordform=zuwa
-44	Amìr̃kà	Amìr̃kà	PROPN	_	_	43	comp:obj	_	Gloss=America|SpaceAfter=No
-45	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
+41	fàsà-ƙwàurintà	fàsà-ƙwàuriː	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes	40	mod	_	CaseAf=Gen|GenderAf=Fem|Gloss=smuggling.Masc.Cons-3FemGen|MSeg=fàsà-ƙwàurin-tà|PersonAf=3|SpaceAfter=No
+42	zuwàː	zuwàː	ADP	_	_	41	mod	_	Gloss=towards|wordform=zuwa
+43	Amìr̃kà	Amìr̃kà	PROPN	_	_	42	comp:obj	_	Gloss=America|SpaceAfter=No
+44	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 14_Miyagun_kwayoyi_3
 # text_en = These recent years, Nigeria has become a main road for the smuggling of drugs from the Middle East to European and American countries.
@@ -121,14 +120,13 @@
 27	fi	fi	VERB	_	_	26	comp:aux	_	Gloss=exceed
 28	kaːmà	kaːm-	VERB	_	_	27	comp:obj	_	Gloss=catch
 29	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	28	comp:obj	_	Gloss=child.Plur.Cons
-30	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	29	compound	_	Gloss=country.Fem.Cons|SpaceAfter=No|wordform=ƙasar̃tà
-31	-tà	-sù	PRON	_	Case=Gen|Gender=Fem|Person=3|Poss=Yes|PronType=Prs	30	mod/m	_	Gloss=-3FemGen|wordform=tà
-32	sabòːdà	sabòːdà	ADP	_	_	28	mod	_	Gloss=because_of
-33	laifuffukàn	lâifiː	NOUN	_	Definite=Cons|Number=Plur	32	comp:obj	_	Gloss=crime.Plur.Cons
-34	fàsà-ƙwàurin	fàsà-ƙwàuriː	NOUN	_	Definite=Cons|Gender=Fem	33	mod	_	Gloss=smuggling.Masc.Cons
-35	miyàːgun	muːgùː	ADJ	_	Definite=Cons|Number=Plur	36	mod	_	Gloss=bad.Plur
-36	ƙwaːyoːyiː	ƙwàːyaː	NOUN	_	Number=Plur	34	comp:obj	_	Gloss=drug.Plur|SpaceAfter=No
-37	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
+30	ƙasar̃tà	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem|Poss=Yes	29	compound	_	CaseAf=Gen|GenderAf=Fem|Gloss=country.Fem.Cons-3FemGen|MSeg=ƙasar̃-tà|PersonAf=3|SpaceAfter=No
+31	sabòːdà	sabòːdà	ADP	_	_	28	mod	_	Gloss=because_of
+32	laifuffukàn	lâifiː	NOUN	_	Definite=Cons|Number=Plur	31	comp:obj	_	Gloss=crime.Plur.Cons
+33	fàsà-ƙwàurin	fàsà-ƙwàuriː	NOUN	_	Definite=Cons|Gender=Fem	32	mod	_	Gloss=smuggling.Masc.Cons
+34	miyàːgun	muːgùː	ADJ	_	Definite=Cons|Number=Plur	35	mod	_	Gloss=bad.Plur
+35	ƙwaːyoːyiː	ƙwàːyaː	NOUN	_	Number=Plur	33	comp:obj	_	Gloss=drug.Plur|SpaceAfter=No
+36	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 14_Miyagun_kwayoyi_5
 # text_en = Hùkuːmàr̃ à yâu taː cêː ita ƙungìyar̃ 'yan sùmoːgàː ɗîn dà ta kaːmàː, anàː jîn cêːwaː tanàː dà ƙwàƙƙwaːran tuːshèː à Nàːjeːr̃iyàː, dà Bìr̃taːniyà, dà kuma Amìr̃kà.
@@ -385,10 +383,8 @@
 21	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	20	comp:obj	_	Gloss=3Plur.Perf
 22	gamà	gam-	VERB	_	_	21	comp:aux	_	Gloss=finish
 23	tàfiyàr̃	tàfiyàː	NOUN	_	Definite=Def|Gender=Fem	22	comp:obj	_	Gloss=trip.Fem.Def
-24-25	taːsù	_	_	_	_	_	_	_	_
-24	taː	na	PART	_	Case=Gen|Gender=Fem	23	mod@poss	_	Gloss=Gen.Fem|SpaceAfter=No
-25	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	24	mod/m	_	Gloss=-3PlurGen|SpaceAfter=No|wordform=sù
-26	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
+24	taːsù	na	PART	_	Case=Gen|Gender=Fem|Poss=Yes	23	mod@poss	_	CaseAf=Gen|Gloss=Gen.Fem-3PlurGen|MSeg=taː-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No|wordform=taː
+25	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = 14_Miyagun_kwayoyi_12a
 # text_en = But then, sometimes, the condom tears apart inside the stomach of the person carrying the drugs, which, as a result, causes a painful death.
@@ -462,12 +458,11 @@
 34	dâː	dâː	ADV	_	_	36	mod	_	Gloss=formerly
 35	maː	maː	PART	_	_	34	discourse@top	_	Gloss=even
 36	anàː	nàː	AUX	_	Aspect=Prog|Person=4	32	comp:obj	_	Gloss=4.Prog|wordform=and
-37	cîn	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	36	comp:aux	_	Gloss=consume.Vnoun.Masc.Cons|SpaceAfter=No|wordform=cîntà
-38	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|Poss=Yes|PronType=Prs	37	mod/m	_	Gloss=-3FemGen
-39	sòːsai	sòːsai	ADV	_	_	37	mod	_	Gloss=really
-40	à	à	ADP	_	_	37	mod	_	Gloss=at
-41	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	40	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
-42	.	.	PUNCT	_	_	22	punct	_	Gloss=PUNCT
+37	cîntà	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Poss=Yes|VerbForm=Vnoun	36	comp:aux	_	CaseAf=Gen|GenderAf=Fem|Gloss=consume.Vnoun.Masc.Cons-3FemGen|MSeg=cîn-tà|PersonAf=3|SpaceAfter=No
+38	sòːsai	sòːsai	ADV	_	_	37	mod	_	Gloss=really
+39	à	à	ADP	_	_	37	mod	_	Gloss=at
+40	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	39	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
+41	.	.	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 
 # sent_id = 14_Miyagun_kwayoyi_13
 # text_en = The Agency declared that this recent capture has increased the number of gangs of drug dealers that have been dismantled to five, since when the agency was created at the beginning of last year.
@@ -672,9 +667,8 @@
 10	kawài	kawài	ADV	_	_	9	mod	_	Gloss=merely
 11	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	5	comp:cleft	_	Gloss=3Plur.Perf.Rel|Relative=Rel
 12	ɓaːtà	ɓaːt-	VERB	_	_	11	comp:aux	_	Gloss=spoil
-13	suːnan	suːnaː	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	Gloss=name.Masc.Cons|SpaceAfter=No|wordform=suːnansà
-14	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	13	mod/m	_	Gloss=-3MascGen|wordform=sà
-15	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+13	suːnansà	suːnaː	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes	12	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=name.Masc.Cons-3MascGen|MSeg=suːnan-sà|PersonAf=3|SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 14_Miyagun_kwayoyi_19_20
 # text_en = Well then Mr Oyakhilome said that without any doubt, he had some intimate relation with the womand, i.e. Jennifer Madike, and some pictures that she had taken with him at a party, they too, proved it.
@@ -771,16 +765,12 @@
 15	Jenny	Jenny	PROPN	_	_	17	vocative	_	Gloss=Jenny|SpaceAfter=No
 16	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 17	inàː	nàː	AUX	_	Aspect=Prog|Number=Sing|Person=1	10	comp:obj	_	Gloss=1Sing.Prog
-18-19	sônkì	_	_	_	_	_	_	_	_
-18	sôn	soː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	17	comp:aux	_	Gloss=love.Vnoun.Masc.Cons
-19	-kì	-kì	PRON	_	Case=Gen|Gender=Fem|Person=2|Poss=Yes|PronType=Prs	18	mod/m	_	Gloss=-2FemGen
-20	matuƙaː	matuƙaː	ADV	_	_	18	mod	_	Gloss=extremely|SpaceAfter=No
-21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
-22-23	masoːyìyaːtaː	_	_	_	_	_	_	_	_
-22	masoːyìyaːt	masoːyìyaː	NOUN	_	Definite=Cons|Gender=Fem	17	vocative	_	Gloss=lover.Fem.Cons|SpaceAfter=No|wordform=masoːyìyaː
-23	-aː	-aː	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	22	mod/m	_	Gloss=-1SingGen|SpaceAfter=No
-24	"	"	PUNCT	_	_	17	punct	_	Gloss=PUNCT|SpaceAfter=No
-25	;	;	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+18	sônkì	soː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Poss=Yes|VerbForm=Vnoun	17	comp:aux	_	CaseAf=Gen|GenderAf=Fem|Gloss=love.Vnoun.Masc.Cons-2FemGen|MSeg=sôn-kì|PersonAf=2|wordform=sôn
+19	matuƙaː	matuƙaː	ADV	_	_	18	mod	_	Gloss=extremely|SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
+21	masoːyìyaːtaː	masoːyìyaː	NOUN	_	Definite=Cons|Gender=Fem|Poss=Yes	17	vocative	_	CaseAf=Gen|Gloss=lover.Fem.Cons-1SingGen|MSeg=masoːyìyaːt-aː|NumberAf=Sing|PersonAf=1|SpaceAfter=No|wordform=masoːyìyaː
+22	"	"	PUNCT	_	_	17	punct	_	Gloss=PUNCT|SpaceAfter=No
+23	;	;	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 14_Miyagun_kwayoyi_23
 # text_en = In one letter too he said "Continue showing me love!"
@@ -832,11 +822,9 @@
 22	dàngàntakàː	dàngànta	NOUN	_	Gender=Fem	20	comp:obj	_	Gloss=relationship.Fem
 23	tsàkaːnin	tsàkaːnin	ADP	_	_	22	mod	_	Gloss=between
 24	mijìn	mijìː	NOUN	_	Definite=Def|Gender=Masc	23	comp:obj	_	Gloss=husband.Masc.Def
-25-26	naːtà	_	_	_	_	_	_	_	_
-25	naː	na	PART	_	Case=Gen|Gender=Masc	24	mod@poss	_	Gloss=Gen.Masc
-26	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|Poss=Yes|PronType=Prs	25	mod/m	_	Gloss=-3FemGen|wordform=tà
-27	dà	dà	CCONJ	_	_	29	cc	_	Gloss=and
-28	Miss	Miss	PROPN	_	_	29	mod@desc	_	Gloss=Miss
-29	Madike	Madike	PROPN	_	_	24	conj:coord	_	Gloss=Madike|SpaceAfter=No
-30	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+25	naːtà	na	PART	_	Case=Gen|Gender=Masc|Poss=Yes	24	mod@poss	_	CaseAf=Gen|GenderAf=Fem|Gloss=Gen.Masc-3FemGen|MSeg=naː-tà|PersonAf=3|wordform=naː
+26	dà	dà	CCONJ	_	_	28	cc	_	Gloss=and
+27	Miss	Miss	PROPN	_	_	28	mod@desc	_	Gloss=Miss
+28	Madike	Madike	PROPN	_	_	24	conj:coord	_	Gloss=Madike|SpaceAfter=No
+29	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 

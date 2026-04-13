@@ -263,19 +263,17 @@
 16	wà	wà	ADP	_	Case=Dat	15	comp:obl	_	Gloss=Dat
 17	ɗaya	ɗaya	NUM	_	_	16	comp:obj	_	Gloss=one
 18	dàgà	dàgà	ADP	_	_	17	mod	_	Gloss=from
-19-20	cikinsù	_	_	_	_	_	_	_	_
-19	cikin	cikin	ADP	_	_	18	comp:obj	_	Gloss=inside|SpaceAfter=No
-20	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	mod/m	_	Gloss=-3PlurGen|wordform=sù
-21	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	22	det	_	Gloss=ProxS.Fem
-22	sùkùddìr̃eːbàː	sùkùddìr̃eːbàː	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=screwdriver.Fem
-23	har̃	har̃	SCONJ	_	_	15	mod	_	Gloss=so_that
-24	maː	maː	PART	_	PartType=Top	23	discourse@top	_	Gloss=even
-25	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	23	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Rel
-26	ji	ji	VERB	_	_	25	comp:aux	_	Gloss=feel
-27	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	26	comp:obl	_	Gloss=3Masc.Dat
-28	mùmmuːnan	mùmmuːnaː	ADJ	_	Definite=Cons|Gender=Masc	29	mod	_	Gloss=ugly.Masc.Cons
-29	ràuniː	ràuniː	NOUN	_	Gender=Masc	26	comp:obj	_	Gloss=injury.Masc|SpaceAfter=No
-30	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+19	cikinsù	cikin	ADP	_	Poss=Yes	18	comp:obj	_	CaseAf=Gen|Gloss=inside-3PlurGen|MSeg=cikin-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No|wordform=cikin
+20	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	21	det	_	Gloss=ProxS.Fem
+21	sùkùddìr̃eːbàː	sùkùddìr̃eːbàː	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=screwdriver.Fem
+22	har̃	har̃	SCONJ	_	_	15	mod	_	Gloss=so_that
+23	maː	maː	PART	_	PartType=Top	22	discourse@top	_	Gloss=even
+24	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	22	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Rel
+25	ji	ji	VERB	_	_	24	comp:aux	_	Gloss=feel
+26	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	25	comp:obl	_	Gloss=3Masc.Dat
+27	mùmmuːnan	mùmmuːnaː	ADJ	_	Definite=Cons|Gender=Masc	28	mod	_	Gloss=ugly.Masc.Cons
+28	ràuniː	ràuniː	NOUN	_	Gender=Masc	25	comp:obj	_	Gloss=injury.Masc|SpaceAfter=No
+29	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie_11
 # text_en = Up till now, this man is in hospital where he is treated.
@@ -475,14 +473,13 @@
 18	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	17	comp:obl	_	Gloss=3Masc.Dat
 19	ankwàː	ankwàː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=handcuffs.Fem
 20	à	à	ADP	_	_	17	comp:obl	_	Gloss=at
-21	hannun	hannuː	NOUN	_	Definite=Cons|Number=Plur	20	comp:obj	_	Gloss=hand.Masc.Cons|SpaceAfter=No|wordform=hannunsà
-22	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	21	mod/m	_	Gloss=-3MascGen|wordform=sà
-23	akà	yaː	AUX	_	Aspect=Perf|Person=4	16	parataxis@conj	_	Gloss=4.Perf.Rel|Relative=Rel
-24	yi	yi	VERB	_	_	23	comp:aux	_	Gloss=do
-25	wàje	wàje	ADV	_	_	24	comp:pred	_	Gloss=outside
-26	dà	dà	ADP	_	_	24	comp:obl	_	Gloss=with
-27	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	26	comp:obj	_	Gloss=3Masc.Nom|SpaceAfter=No
-28	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
+21	hannunsà	hannuː	NOUN	_	Definite=Cons|Number=Plur|Poss=Yes	20	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=hand.Masc.Cons-3MascGen|MSeg=hannun-sà|PersonAf=3|SpaceAfter=No
+22	akà	yaː	AUX	_	Aspect=Perf|Person=4	16	parataxis@conj	_	Gloss=4.Perf.Rel|Relative=Rel
+23	yi	yi	VERB	_	_	22	comp:aux	_	Gloss=do
+24	wàje	wàje	ADV	_	_	23	comp:pred	_	Gloss=outside
+25	dà	dà	ADP	_	_	23	comp:obl	_	Gloss=with
+26	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	25	comp:obj	_	Gloss=3Masc.Nom|SpaceAfter=No
+27	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie_19
 # text_en = When they were taking him away, he talked and said that him, he loved Japan, and Japan should not get involved in this matter.
@@ -517,13 +514,12 @@
 27	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	26	det	_	Gloss=Def
 28	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	23	comp:obj@agent	_	Gloss=3Fem.Sub
 29	tsoːmà	tsoːm-	VERB	_	_	28	comp:aux	_	Gloss=dip_into
-30	bàːkin	bàːkiː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=mouth|SpaceAfter=No|wordform=bàːkintà
-31	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|Poss=Yes|PronType=Prs	30	mod/m	_	Gloss=-3FemGen|wordform=tà
-32	cikin	cikin	ADP	_	_	29	comp:obl	_	Gloss=inside
-33	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	34	det	_	Gloss=ProxS.Masc
-34	àl'amàr̃iː	àl'amàr̃iː	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=matter.Masc
-35	ba	ba	PART	_	PartType=Neg|Polarity=Neg	29	mod	_	Gloss=Neg|SpaceAfter=No
-36	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
+30	bàːkintà	bàːkiː	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes	29	comp:obj	_	CaseAf=Gen|GenderAf=Fem|Gloss=mouth-3FemGen|MSeg=bàːkin-tà|PersonAf=3|SpaceAfter=No
+31	cikin	cikin	ADP	_	_	29	comp:obl	_	Gloss=inside
+32	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	33	det	_	Gloss=ProxS.Masc
+33	àl'amàr̃iː	àl'amàr̃iː	NOUN	_	Gender=Masc	31	comp:obj	_	Gloss=matter.Masc
+34	ba	ba	PART	_	PartType=Neg|Polarity=Neg	29	mod	_	Gloss=Neg|SpaceAfter=No
+35	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie_20
 # text_en = Well, initially, for days, this confusion about the Satanic Verses had been going on because last Saturday, some Muslims totalling one hundred and twenty in a suburb of Tokyo, demonstrated after coming out of the prayer.
@@ -630,20 +626,18 @@
 20	Gianni	Gianni	PROPN	_	_	19	comp:obj	_	Gloss=Gianni
 21	Palma	Palma	PROPN	_	_	20	flat@name	_	Gloss=Palma
 22	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=with
-23	rân	râi	NOUN	_	Definite=Cons|Gender=Masc	22	comp:obj	_	Gloss=life.Masc.Cons|SpaceAfter=No|wordform=rânsà
-24	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	23	mod/m	_	Gloss=-3MascGen|wordform=sà
-25	ba	ba	PART	_	PartType=Neg|Polarity=Neg	18	mod	_	Gloss=Neg|SpaceAfter=No
-26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
-27	dòːmin	dòːmin	SCONJ	_	_	18	mod	_	Gloss=because
-28	kùwa	kùwa	PART	_	PartType=Top	27	discourse@top	_	Gloss=in_fact
-29	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	27	comp:obj	_	Gloss=3Masc.Perf
-30	ƙàːlùːbàlànci	ƙaːluːbalant-	VERB	_	_	29	comp:aux	_	Gloss=defy
-31	àl'ummàr̃	àl'ummàː	NOUN	_	Definite=Cons|Gender=Fem	30	comp:obj	_	Gloss=community.Fem.Cons
-32	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	31	mod	_	Gloss=Muslim.Plur
-33	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	32	mod	_	Gloss=mouth.Masc
-34	ɗayan	ɗaya	NUM	_	Definite=Cons	33	mod:num	_	Gloss=one.Cons|SpaceAfter=No|wordform=ɗayansù
-35	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	34	mod/m	_	Gloss=-3PlurGen|wordform=sù
-36	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
+23	rânsà	râi	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes	22	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=life.Masc.Cons-3MascGen|MSeg=rân-sà|PersonAf=3|SpaceAfter=No
+24	ba	ba	PART	_	PartType=Neg|Polarity=Neg	18	mod	_	Gloss=Neg|SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
+26	dòːmin	dòːmin	SCONJ	_	_	18	mod	_	Gloss=because
+27	kùwa	kùwa	PART	_	PartType=Top	26	discourse@top	_	Gloss=in_fact
+28	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	26	comp:obj	_	Gloss=3Masc.Perf
+29	ƙàːlùːbàlànci	ƙaːluːbalant-	VERB	_	_	28	comp:aux	_	Gloss=defy
+30	àl'ummàr̃	àl'ummàː	NOUN	_	Definite=Cons|Gender=Fem	29	comp:obj	_	Gloss=community.Fem.Cons
+31	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	30	mod	_	Gloss=Muslim.Plur
+32	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	31	mod	_	Gloss=mouth.Masc
+33	ɗayansù	ɗaya	NUM	_	Definite=Cons|Poss=Yes	32	mod:num	_	CaseAf=Gen|Gloss=one.Cons-3PlurGen|MSeg=ɗayan-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
+34	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
 # sent_id = 09_Salman_Rushdie_23
 # text_en = Then him, Gianni Palma, persisted in saying that he was firmly resolved, he would not retreat.
@@ -665,14 +659,13 @@
 14	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	13	comp:pred	_	Gloss=ProxH
 15	à	à	ADP	_	_	13	comp:pred	_	Gloss=at
 16	kân	kân	ADP	_	_	15	comp:obj	_	Gloss=top
-17	bàkan	bàkaː	NOUN	_	Definite=Cons|Gender=Masc	16	comp:obj	_	Gloss=bow.Masc.Cons|SpaceAfter=No
-18	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	17	mod/m	_	Gloss=-3MascGen|wordform=sà
-19	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-20	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	21	mod	_	Gloss=Neg
-21	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	13	parataxis@conj	_	Gloss=3Masc.Fut
-22	jaː	jaː	VERB	_	_	21	comp:aux	_	Gloss=pull
-23	dà	dà	ADP	_	_	22	comp:obl	_	Gloss=with
-24	baːya	baːya	ADV	_	_	23	comp:obj	_	Gloss=back
-25	ba	ba	PART	_	PartType=Neg|Polarity=Neg	21	mod	_	Gloss=Neg|SpaceAfter=No
-26	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+17	bàkansà	bàkaː	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes	16	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=bow.Masc.Cons-3MascGen|MSeg=bàkan-sà|PersonAf=3|SpaceAfter=No|wordform=bàkan
+18	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
+19	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	20	mod	_	Gloss=Neg
+20	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	13	parataxis@conj	_	Gloss=3Masc.Fut
+21	jaː	jaː	VERB	_	_	20	comp:aux	_	Gloss=pull
+22	dà	dà	ADP	_	_	21	comp:obl	_	Gloss=with
+23	baːya	baːya	ADV	_	_	22	comp:obj	_	Gloss=back
+24	ba	ba	PART	_	PartType=Neg|Polarity=Neg	20	mod	_	Gloss=Neg|SpaceAfter=No
+25	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 

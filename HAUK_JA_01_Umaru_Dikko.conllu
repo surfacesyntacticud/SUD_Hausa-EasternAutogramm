@@ -377,14 +377,13 @@
 22	bà'à	yaː	AUX	_	Aspect=Perf|Person=4|Polarity=Neg	21	comp:obj	_	Gloss=4.Perf.Neg
 23	taɓà	taɓ-	VERB	_	_	22	comp:aux	_	Gloss=have_already
 24	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	23	comp:obj	_	Gloss=do.Vnoun.Masc.Cons
-25	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	24	comp:pred	_	Gloss=kind.Masc.Cons|SpaceAfter=No|wordform=irìnsà
-26	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	25	mod/m	_	Gloss=-3MascGen|wordform=sà
-27	ba	ba	PART	_	PartType=Neg|Polarity=Neg	23	mod	_	Gloss=Neg
-28	à	à	ADP	_	_	23	mod	_	Gloss=at
-29	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	28	comp:obj	_	Gloss=world.Fem|SpaceAfter=No
-30	.	.	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-31	"	"	PUNCT	_	_	20	punct	_	Gloss=PUNCT|SpaceAfter=No
-32	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+25	irìnsà	irìː	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes	24	comp:pred	_	CaseAf=Gen|GenderAf=Masc|Gloss=kind.Masc.Cons-3MascGen|MSeg=irìn-sà|PersonAf=3|SpaceAfter=No
+26	ba	ba	PART	_	PartType=Neg|Polarity=Neg	23	mod	_	Gloss=Neg
+27	à	à	ADP	_	_	23	mod	_	Gloss=at
+28	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	27	comp:obj	_	Gloss=world.Fem|SpaceAfter=No
+29	.	.	PUNCT	_	_	20	punct	_	Gloss=PUNCT
+30	"	"	PUNCT	_	_	20	punct	_	Gloss=PUNCT|SpaceAfter=No
+31	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko_13b
 # text_en = Then in January of the year nineteen eighty-five, the Nigerian government requested Great-Britain to hand him over to be prosecuted for corruption and taking bribes for millions of pounds.
@@ -439,47 +438,46 @@
 # text_en = Well, during his whole stay here in Great-Britain, Umaru Dikko kept repeating that he did not steal millions of naira beyond reckoning by traficking rice, or all the other crimes that he was accused of having done.
 # text = tôː à duk loːkàcin zamansà à nân Bìr̃taːniyà dai, Ùːmar̃ù Dikkò yaː shaː naːnàːtà cêːwaː shiː bài sàːci kuɗiː nair̃àː miliyàn bìlaː adàdin ba ta hanyàr̃ gàdàː-gadar̃ shìnkaːfaː dà kuma duk sauran laifuffukàn dà akèː zàrgin yaː aikàtaː.
 # text_ortho = Tôː à duk loːkàcin zamansà à nân Bìr̃taːniyà dai, Ùːmar̃ù Dikkò yaː shaː naːnàːtà cêwaː shiː bài sàːci kuɗiː nair̃àː miliyàn bìlaː adàdin ba ta hanyàr̃ gàdàː-gadar̃ shìnkaːfaː dà kuma duk sauran laifuffukàn dà akèː zàrgin yaː aikàtaː.
-1	tôː	tòː	INTJ	_	_	14	discourse	_	Gloss=well
-2	à	à	ADP	_	_	14	mod	_	Gloss=at
+1	tôː	tòː	INTJ	_	_	13	discourse	_	Gloss=well
+2	à	à	ADP	_	_	13	mod	_	Gloss=at
 3	duk	dukà	DET	_	_	4	det	_	Gloss=all
 4	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj	_	Gloss=time.Masc.Cons
-5	zaman	zama	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	mod	_	Gloss=stay.Vnoun.Masc.Cons|SpaceAfter=No|wordform=zamansà
-6	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	5	mod/m	_	Gloss=-3MascGen|wordform=sà
-7	à	à	ADP	_	_	5	mod	_	Gloss=at
-8	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	7	comp:obj	_	Gloss=ProxS
-9	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	8	conj:appos	_	Gloss=Great_Britain
-10	dai	dai	PART	_	PartType=Top	7	discourse@top	_	Gloss=anyway|SpaceAfter=No
-11	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-12	Ùːmar̃ù	Ùːmar̃ù	PROPN	_	_	14	subj	_	Gloss=Umaru
-13	Dikkò	Dikkò	PROPN	_	_	12	flat@name	_	Gloss=Dikko
-14	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
-15	shaː	shaː	VERB	_	_	14	comp:aux	_	Gloss=keep_doing
-16	naːnàːtà	naːnaːt-	VERB	_	_	15	comp:obj	_	Gloss=repeat
-17	cêːwaː	cêːwaː	SCONJ	_	_	16	comp:obj	_	Gloss=COMP|wordform=cêwaː
-18	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	19	subj	_	Gloss=3Masc.Nom
-19	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	17	comp:obj	_	Gloss=3Masc.Perf.Neg
-20	sàːci	saːt-	VERB	_	_	19	comp:aux	_	Gloss=steal
-21	kuɗiː	kuɗiː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=money.Masc
-22	nair̃àː	nair̃àː	NOUN	_	Gender=Fem	21	mod	_	Gloss=naira.Fem
-23	miliyàn	miliyàn	NOUN	_	Gender=Fem	22	mod:num	_	Gloss=million.Fem
-24	bìlaː	X	X	_	_	23	mod	_	Gloss=beyond
-25	adàdin	X	X	_	_	24	unk	_	Gloss=number
-26	ba	ba	PART	_	PartType=Neg|Polarity=Neg	20	mod	_	Gloss=Neg
-27	ta	ta	ADP	_	_	20	mod	_	Gloss=via
-28	hanyàr̃	hanyàː	NOUN	_	Definite=Cons|Gender=Fem	27	comp:obj	_	Gloss=way.Fem.Cons
-29	gàdàː-gadar̃	gàdàː-gadaː	NOUN	_	Definite=Cons|Gender=Fem	28	mod	_	Gloss=traficking.Fem.Cons
-30	shìnkaːfaː	shìnkaːfaː	NOUN	_	Gender=Fem	29	mod	_	Gloss=rice.Fem
-31	dà	dà	CCONJ	_	_	34	cc	_	Gloss=and
-32	kuma	kuma	PART	_	PartType=Top	31	discourse@top	_	Gloss=also
-33	duk	dukà	DET	_	_	34	det	_	Gloss=all
-34	sauran	sauraː	NOUN	_	Definite=Cons|Gender=Masc	17	conj:coord	_	Gloss=rest.Masc.Cons
-35	laifuffukàn	lâifiː	NOUN	_	Definite=Def|Number=Plur	34	mod	_	Gloss=crime.Plur.Def
-36	dà	dà	SCONJ	_	_	35	mod@relcl	_	Gloss=COMP
-37	akèː	nàː	AUX	_	Aspect=Prog|Person=4	36	comp:obj	_	Gloss=4.Prog.Rel|Relative=Rel
-38	zàrgin	zarg-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	37	comp:aux	_	Gloss=accuse.Vnoun.Masc.Cons
-39	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	38	comp:obj	_	Gloss=3Masc.Perf
-40	aikàtaː	aikat-	VERB	_	_	39	comp:aux	_	Gloss=do|SpaceAfter=No
-41	.	.	PUNCT	_	_	14	punct	_	Gloss=PUNCT
+5	zamansà	zama	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|Poss=Yes|VerbForm=Vnoun	4	mod	_	CaseAf=Gen|GenderAf=Masc|Gloss=stay.Vnoun.Masc.Cons-3MascGen|MSeg=zaman-sà|PersonAf=3|SpaceAfter=No
+6	à	à	ADP	_	_	5	mod	_	Gloss=at
+7	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	6	comp:obj	_	Gloss=ProxS
+8	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	7	conj:appos	_	Gloss=Great_Britain
+9	dai	dai	PART	_	PartType=Top	6	discourse@top	_	Gloss=anyway|SpaceAfter=No
+10	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+11	Ùːmar̃ù	Ùːmar̃ù	PROPN	_	_	13	subj	_	Gloss=Umaru
+12	Dikkò	Dikkò	PROPN	_	_	11	flat@name	_	Gloss=Dikko
+13	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
+14	shaː	shaː	VERB	_	_	13	comp:aux	_	Gloss=keep_doing
+15	naːnàːtà	naːnaːt-	VERB	_	_	14	comp:obj	_	Gloss=repeat
+16	cêːwaː	cêːwaː	SCONJ	_	_	15	comp:obj	_	Gloss=COMP|wordform=cêwaː
+17	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	18	subj	_	Gloss=3Masc.Nom
+18	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	16	comp:obj	_	Gloss=3Masc.Perf.Neg
+19	sàːci	saːt-	VERB	_	_	18	comp:aux	_	Gloss=steal
+20	kuɗiː	kuɗiː	NOUN	_	Gender=Masc	19	comp:obj	_	Gloss=money.Masc
+21	nair̃àː	nair̃àː	NOUN	_	Gender=Fem	20	mod	_	Gloss=naira.Fem
+22	miliyàn	miliyàn	NOUN	_	Gender=Fem	21	mod:num	_	Gloss=million.Fem
+23	bìlaː	X	X	_	_	22	mod	_	Gloss=beyond
+24	adàdin	X	X	_	_	23	unk	_	Gloss=number
+25	ba	ba	PART	_	PartType=Neg|Polarity=Neg	19	mod	_	Gloss=Neg
+26	ta	ta	ADP	_	_	19	mod	_	Gloss=via
+27	hanyàr̃	hanyàː	NOUN	_	Definite=Cons|Gender=Fem	26	comp:obj	_	Gloss=way.Fem.Cons
+28	gàdàː-gadar̃	gàdàː-gadaː	NOUN	_	Definite=Cons|Gender=Fem	27	mod	_	Gloss=traficking.Fem.Cons
+29	shìnkaːfaː	shìnkaːfaː	NOUN	_	Gender=Fem	28	mod	_	Gloss=rice.Fem
+30	dà	dà	CCONJ	_	_	33	cc	_	Gloss=and
+31	kuma	kuma	PART	_	PartType=Top	30	discourse@top	_	Gloss=also
+32	duk	dukà	DET	_	_	33	det	_	Gloss=all
+33	sauran	sauraː	NOUN	_	Definite=Cons|Gender=Masc	16	conj:coord	_	Gloss=rest.Masc.Cons
+34	laifuffukàn	lâifiː	NOUN	_	Definite=Def|Number=Plur	33	mod	_	Gloss=crime.Plur.Def
+35	dà	dà	SCONJ	_	_	34	mod@relcl	_	Gloss=COMP
+36	akèː	nàː	AUX	_	Aspect=Prog|Person=4	35	comp:obj	_	Gloss=4.Prog.Rel|Relative=Rel
+37	zàrgin	zarg-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	36	comp:aux	_	Gloss=accuse.Vnoun.Masc.Cons
+38	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	37	comp:obj	_	Gloss=3Masc.Perf
+39	aikàtaː	aikat-	VERB	_	_	38	comp:aux	_	Gloss=do|SpaceAfter=No
+40	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko_15a
 # text_en = He said that he should be given the status of refugee here in Great-Britain.
@@ -599,13 +597,12 @@
 19	sôn	soː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp:aux	_	Gloss=want.Vnoun.Masc.Cons
 20	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	19	comp:obj	_	Gloss=3Masc.Sub
 21	yi	yi	VERB	_	_	20	comp:aux	_	Gloss=do
-22	zaman	zama	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	comp:pred	_	Gloss=stay.Vnoun.Masc.Cons|SpaceAfter=No|wordform=zamansà
-23	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	22	mod/m	_	Gloss=-3MascGen|wordform=sà
-24	à	à	ADP	_	_	21	mod	_	Gloss=at
-25	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	24	comp:obj	_	Gloss=ProxS
-26	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	25	conj:appos	_	Gloss=Great_Britain
-27	ba	ba	PART	_	PartType=Neg|Polarity=Neg	14	mod	_	Gloss=Neg|SpaceAfter=No
-28	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+22	zamansà	zama	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Poss=Yes|VerbForm=Vnoun	21	comp:pred	_	CaseAf=Gen|GenderAf=Masc|Gloss=stay.Vnoun.Masc.Cons-3MascGen|MSeg=zaman-sà|PersonAf=3|SpaceAfter=No
+23	à	à	ADP	_	_	21	mod	_	Gloss=at
+24	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	23	comp:obj	_	Gloss=ProxS
+25	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	24	conj:appos	_	Gloss=Great_Britain
+26	ba	ba	PART	_	PartType=Neg|Polarity=Neg	14	mod	_	Gloss=Neg|SpaceAfter=No
+27	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 01_Umaru_Dikko_18
 # text_en = The Nigerian Ambassador here in London, Mr George Dove-Edwin said last year that the reason that Umaru Dikko was giving was a blatant lie, that if he went back to Nigeria, he would be killed.
