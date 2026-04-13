@@ -66,7 +66,7 @@
 4	kèː	nàː	AUX	_	Aspect=Prog	3	comp:obj	_	Gloss=Prog.Rel|Relative=Rel
 5	kân	kân	ADP	_	_	4	comp:pred	_	Gloss=on
 6	gadoːjiː	gadàː	NOUN	_	Number=Plur	5	comp:obj	_	Gloss=bridge.Plur
-7	na	na	PART	_	Case=Gen|Number=Plur|PartType=Case	6	mod	_	Gloss=Gen.Plur
+7	na	na	PART	_	Case=Gen|Number=Plur|PartType=Case	6	mod	_	Gloss=Gen
 8	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=city.Masc.Cons
 9	Ìkko	Ìkko	PROPN	_	_	8	mod	_	Gloss=Lagos
 10	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	1	mod@relcl	_	Gloss=3Plur.Prog
@@ -301,7 +301,7 @@
 14	fiːlin	fiːliː	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	Gloss=field.Masc.Cons
 15	jirgin	jirgiː	NOUN	_	Definite=Cons|Gender=Masc	14	mod	_	Gloss=vehicle.Masc.Cons
 16	samàn	samà	ADV	_	Definite=Def	15	mod	_	Gloss=above.Def
-17	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	14	mod	_	Gloss=Gen.Masc
+17	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	14	mod	_	Gloss=Gen
 18	Inugù	Inugù	PROPN	_	_	17	comp:obj	_	Gloss=Enugu|SpaceAfter=No
 19	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
@@ -419,7 +419,7 @@
 6	zìyàr̃ci	ziyar̃t-	VERB	_	_	5	comp:aux	_	Gloss=visit
 7	gandun	ganduː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	Gloss=ranch.Masc.Cons
 8	daːjìː	daːjìː	NOUN	_	Gender=Masc	7	compound	_	Gloss=bush.Masc
-9	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	7	mod	_	Gloss=Gen.Masc
+9	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	7	mod	_	Gloss=Gen
 10	Korup	Korup	PROPN	_	_	9	comp:obj	_	Gloss=Korup|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	7	mod@relcl	_	Gloss=REL.Masc
@@ -478,7 +478,7 @@
 4	bìyar̃	bìyar̃	NUM	_	_	2	conj:coord	_	Gloss=five
 5	cikin	cikin	ADP	_	_	1	mod	_	Gloss=inside
 6	ɗàriː	ɗàriː	NUM	_	Gender=Fem	5	comp:obj	_	Gloss=hundred
-7	na	na	PART	_	Case=Gen|Definite=Cons|Gender=Masc|PartType=Case	1	mod	_	Gloss=Gen.Masc
+7	na	na	PART	_	Case=Gen|Definite=Cons|Gender=Masc|PartType=Case	1	mod	_	Gloss=Gen
 8	duk	dukà	DET	_	_	9	det	_	Gloss=all
 9	yawàn	yawàn	ADJ	_	Definite=Cons|Gender=Masc	7	mod	_	Gloss=quantity.Masc.Cons
 10	jinsunàn	jinsìː	NOUN	_	Definite=Def|Number=Plur	9	mod	_	Gloss=species.Plur.Def

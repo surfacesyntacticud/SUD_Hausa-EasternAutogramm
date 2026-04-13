@@ -6,7 +6,7 @@
 2	bugà	bug-	VERB	_	_	1	comp:aux	_	Gloss=beat
 3	littaːfìn	littaːfìː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj	_	Gloss=book.Masc.Cons
 4	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	3	det	_	Gloss=ProxH
-5	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	3	mod	_	Gloss=Gen.Masc
+5	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	3	mod	_	Gloss=Gen
 6	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 7	Salman	Salman	PROPN	_	_	5	comp:obj	_	Gloss=Salman
 8	Rushdie	Rushdie	PROPN	_	_	7	flat@name	_	Gloss=Rushdie
@@ -40,7 +40,7 @@
 19	mar̃ùbùːcin	mar̃ùbùːciː	NOUN	_	Definite=Cons|Gender=Masc	15	conj:dicto	_	Gloss=writer.Masc.Cons
 20	littaːfìn	littaːfìː	NOUN	_	Definite=Cons|Gender=Masc	19	mod	_	Gloss=book.Masc.Cons
 21	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	20	det	_	Gloss=ProxH
-22	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	20	mod	_	Gloss=Gen.Masc
+22	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	20	mod	_	Gloss=Gen
 23	"	"	PUNCT	_	_	24	punct	_	Gloss=PUNCT|SpaceAfter=No
 24	Aːyoːyin	ayàː	PROPN	_	Definite=Cons|Number=Plur	22	comp:obj	_	Gloss=verse.Plur
 25	Shaiɗân	Shaiɗân	PROPN	_	_	24	flat@name	_	Gloss=Shaidan|SpaceAfter=No
@@ -124,7 +124,7 @@
 16	fassàr̃à	fassar̃-	VERB	_	_	15	comp:aux	_	Gloss=translate
 17	littaːfìn	littaːfìː	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	16	comp:obj	_	Gloss=book.Masc.Cons
 18	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	17	det	_	Gloss=ProxH
-19	na	na	PART	_	Case=Gen|Number=Plur|PartType=Case	17	mod	_	Gloss=Gen.Plur
+19	na	na	PART	_	Case=Gen|Number=Plur|PartType=Case	17	mod	_	Gloss=Gen
 20	Salman	Salman	PROPN	_	_	19	comp:obj	_	Gloss=Salman
 21	Rushdie	Rushdie	PROPN	_	_	20	flat@name	_	Gloss=Rushdie
 22	dàgà	dàgà	ADP	_	_	16	comp:obl	_	Gloss=from
@@ -153,10 +153,10 @@
 45	kùlâb	kùlâb	NOUN	_	Gender=Masc	44	comp:obj	_	Gloss=club.Masc
 46	ɗîn	ɗîn	DET	_	Definite=Def	45	det	_	Gloss=Def
 47	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	45	det	_	Gloss=ProxH
-48	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	45	mod	_	Gloss=Gen.Masc
+48	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	45	mod	_	Gloss=Gen
 49	'Yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	48	comp:obj	_	Gloss=child.Plur.Cons
 50	Jàr̃ìːduː	jàr̃iːdàː	NOUN	_	Number=Plur	49	compound	_	Gloss=newspaper.Plur
-51	na	na	PART	_	Case=Gen|Number=Plur|PartType=Case	49	mod	_	Gloss=Gen.Plur
+51	na	na	PART	_	Case=Gen|Number=Plur|PartType=Case	49	mod	_	Gloss=Gen
 52	Ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	51	comp:obj	_	Gloss=country.Plur.Cons
 53	Wàje	wàje	ADV	_	_	52	flat@name	_	Gloss=abroad|SpaceAfter=No
 54	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -218,7 +218,7 @@
 2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=thus
 3	à	à	ADP	_	_	12	mod	_	Gloss=at
 4	hawaː	hawaː	NOUN	_	Gender=Masc	3	comp:obj	_	Gloss=floor.Masc
-5	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	4	mod:num	_	Gloss=Gen.Masc
+5	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	4	mod:num	_	Gloss=Gen
 6	ɗaya	ɗaya	NUM	_	_	5	comp:obj	_	Gloss=one
 7	sai	sai	ADV	_	_	12	mod	_	Gloss=then
 8	wasu	wani	DET	_	Definite=Spec|Number=Plur	9	det	_	Gloss=some.Plur.Spec
@@ -375,14 +375,14 @@
 2	à	à	ADP	_	_	4	mod	_	Gloss=at
 3	can	can	ADV	_	Deixis=Remt|PronType=Dem	2	comp:obj	_	Gloss=Remt
 4	hawaː	hawaː	NOUN	_	Gender=Masc	0	root	_	Gloss=floor.Masc
-5	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	4	mod	_	Gloss=Gen.Masc
+5	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	4	mod	_	Gloss=Gen
 6	àshìr̃in	àshìr̃in	NUM	_	_	5	comp:obj	_	Gloss=twenty
 7	nèː	neː	PART	_	PartType=Foc	4	discourse@foc	_	Gloss=Emph
 8	akèː	nàː	AUX	_	Aspect=Prog|Person=4	4	comp:cleft	_	Gloss=4.Prog.Rel|Relative=Rel
 9	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:aux	_	Gloss=do.Vnoun.Masc.Cons
 10	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	11	det	_	Gloss=ProxS.Masc
 11	tàːroː	tàːroː	NOUN	_	Gender=Masc	9	comp:pred	_	Gloss=meeting.Masc
-12	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	11	mod	_	Gloss=Gen.Masc
+12	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	11	mod	_	Gloss=Gen
 13	manèːmaː	manèːmiː	NOUN	_	Number=Plur	12	comp:obj	_	Gloss=seeker.Plur
 14	làːbàːr̃ai	làːbaːr̃ìː	NOUN	_	Number=Plur	13	comp:obj	_	Gloss=news.Plur
 15	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
@@ -538,7 +538,7 @@
 11	gàme	gàme	ADV	_	_	12	mod	_	Gloss=together
 12	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with
 13	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	12	comp:obj	_	Gloss=book.Masc.Def
-14	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	13	mod	_	Gloss=Gen.Masc
+14	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	13	mod	_	Gloss=Gen
 15	Aːyoːyin	ayàː	NOUN	_	Definite=Cons|Number=Plur	14	comp:obj	_	Gloss=verse.Plur.Cons
 16	Shàiɗân	Shàiɗân	PROPN	_	_	15	mod	_	Gloss=Shàiɗân|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
