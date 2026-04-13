@@ -63,7 +63,7 @@
 20	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	19	parataxis@conj	_	Gloss=REL.Masc
 21	akà	yaː	AUX	_	Aspect=Perf|Person=4	20	comp:obj	_	Gloss=4.Perf.Rel|Relative=Rel
 22	ɗuːràː	ɗuːr-	VERB	_	_	21	comp:aux	_	Gloss=inject
-23	wà	wà	ADP	_	Case=Dat|Gender=Masc|PronType=Dem	22	comp:obl	_	Gloss=Dat
+23	wà	wà	ADP	_	Case=Dat	22	comp:obl	_	Gloss=Dat
 24	jiniː	jiniː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=blood.Masc
 25	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	0	root	_	Gloss=3Masc.Fut
 26	kàːmu	kaːm-	VERB	_	_	25	comp:aux	_	Gloss=catch
@@ -74,7 +74,7 @@
 
 # sent_id = 04_AIDS_3
 # text_en = Likewise if you do injections to various people with a single needle, well, if one of those who get the injection has the AIDS virus in his body, he will spread the virus to the others who have been given the injection.
-# text = hakà kuma ìdan anàː yi wà mutàːneː dàbam dàbam àlluːràː dà àlluːràː gùdaː, tòː ìdan wani dàgà cikin waɗàndà akà yi wà àlluːr̃àr̃ yanàː dà ƙwaːyoːyin cùːtar̃ AIDS à jìkinsà , zâi bazà ƙwaːyoːyin cùːtâr̃ gà sauran waɗàndà akà yi wà àlluːr̃àr̃.
+# text = hakà kuma ìdan anàː yi wà mutàːneː dàbam dàbam àlluːràː dà àlluːràː gùdaː, tòː ìdan wani dàgà cikin waɗàndà akà yi wà àlluːr̃àr̃ yanàː dà ƙwaːyoːyin cùːtar̃ AIDS à jìkinsà, zâi bazà ƙwaːyoːyin cùːtâr̃ gà sauran waɗàndà akà yi wà àlluːr̃àr̃.
 # text_ortho = Hakà kuma ìdan anàː yi wà mutàːneː dàbam dàbam àlluːràː dà àlluːràː gùdaː, tòː ìdan wani dàgà cikin waɗàndà akà yi wà àlluːr̃àr̃ yanàː dà ƙwaːyoːyin cùːtar̃ AIDS à jìkinsà, zâi bazà ƙwaːyoːyin cùːtâr̃ gà sauran waɗàndà akà yi wà àlluːr̃àr̃.
 1	hakà	hakà	ADV	_	_	33	mod	_	Gloss=thus
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
@@ -117,7 +117,7 @@
 39	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	38	mod	_	Gloss=REL.Plur
 40	akà	yaː	AUX	_	Aspect=Perf|Person=4	39	mod@relcl	_	Gloss=4.Perf.Rel|Relative=Rel
 41	yi	yi	VERB	_	_	40	comp:aux	_	Gloss=do
-42	wà	wà	ADP	_	Case=Dat|Gender=Masc|PronType=Dem	41	comp:obl	_	Gloss=Dat
+42	wà	wà	ADP	_	Case=Dat	41	comp:obl	_	Gloss=Dat
 43	àlluːr̃àr̃	àlluːr̃àː	NOUN	_	Definite=Def|Gender=Fem	41	comp:pred	_	Gloss=injection.Fem.Def|SpaceAfter=No
 44	.	.	PUNCT	_	_	33	punct	_	Gloss=PUNCT
 
