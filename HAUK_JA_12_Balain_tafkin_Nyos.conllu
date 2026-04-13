@@ -38,7 +38,7 @@
 20	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 21	wàːtòː	wàːtòː	CCONJ	_	_	23	cc	_	Gloss=i.e.
 22	"	"	PUNCT	_	_	23	punct	_	Gloss=PUNCT
-23	carbon	carbon	X	_	Definite=Cons|Foreign=Yes|Gender=Masc	17	conj:dicto	_	Gloss=carbon|Lang=en
+23	carbon	carbon	X	_	Foreign=Yes|Gender=Masc	17	conj:dicto	_	Gloss=carbon|Lang=en
 24	dioxide	dioxide	X	_	Foreign=Yes|Gender=Masc	23	flat@foreign	_	Gloss=dioxide|Lang=en|SpaceAfter=No
 25	"	"	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 26	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
@@ -86,7 +86,7 @@
 17	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	14	mod	_	Gloss=Gen.Masc
 18	iskàr̃	iskàː	NOUN	_	Definite=Def|Gender=Fem	17	comp:obj	_	Gloss=gas.Fem.Def
 19	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	18	mod	_	Gloss=Gen.Fem
-20	carbon	carbon	X	_	Definite=Cons|Foreign=Yes|Gender=Masc	19	comp:obj	_	Gloss=carbon|Lang=en
+20	carbon	carbon	X	_	Foreign=Yes|Gender=Masc	19	comp:obj	_	Gloss=carbon|Lang=en
 21	dioxide	dioxide	X	_	Foreign=Yes|Gender=Fem	20	flat@foreign	_	Gloss=dioxide|Lang=en
 22	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 23	har̃	har̃	SCONJ	_	_	11	mod	_	Gloss=so_that
@@ -227,7 +227,7 @@
 11	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	Gloss=thing.Masc.Def
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 13	bìncìkên	bìncìkeː	NOUN	_	Definite=Def|Gender=Masc	15	subj	_	Gloss=investigation.Masc.Def
-14	naːsù	na	PART	_	Case=Gen|Gender=Masc|Poss=Yes	13	mod@poss	_	CaseAf=Gen|Gloss=Gen.Masc-3PlurGen|MSeg=naː-sù|NumberAf=Plur|PersonAf=3|wordform=naː
+14	naːsù	naːsù	PRON	_	Case=Gen|Gender=Masc|Poss=Yes|PronType=Pers	13	mod@poss	_	CaseAf=Gen|Gloss=Gen.Masc-3PlurGen|MSeg=naː-sù|NumberAf=Plur|PersonAf=3|wordform=naː
 15	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	12	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
 16	gaːnoː	gaːn-	VERB	_	_	15	comp:aux	_	Gloss=discover|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
@@ -238,7 +238,7 @@
 22	yiwoː	yi	VERB	_	_	21	comp:aux	_	Gloss=do
 23	bùr̃tsîn	bùr̃tsiː	NOUN	_	Definite=Def|Gender=Masc	22	comp:obj	_	Gloss=expulsion.Masc.Def
 24	wai	wai	PART	_	PartType=Ill	27	discourse	_	Gloss=reportedly
-25	carbon	carbon	X	_	Definite=Cons|Foreign=Yes|Gender=Masc	27	comp:pred	_	Gloss=carbon|Lang=en
+25	carbon	carbon	X	_	Foreign=Yes|Gender=Masc	27	comp:pred	_	Gloss=carbon|Lang=en
 26	dioxide	dioxide	X	_	Foreign=Yes	25	flat@foreign	_	Gloss=dioxide|Lang=en
 27	ceː	neː	AUX	_	Gender=Fem	18	comp:obj	_	Copula=Yes|Gloss=be.Fem
 28	kawài	kawài	ADV	_	_	27	mod	_	Gloss=merely|SpaceAfter=No
@@ -360,7 +360,7 @@
 13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
 14	kèː	nàː	AUX	_	Aspect=Prog	13	comp:obj	_	Gloss=Prog.Rel|Relative=Rel
 15	dà	dà	ADP	_	_	14	comp:pred	_	Gloss=with
-16	carbon	carbon	X	_	Definite=Cons|Foreign=Yes|Gender=Masc	15	comp:obj	_	Gloss=carbon|Lang=en
+16	carbon	carbon	X	_	Foreign=Yes|Gender=Masc	15	comp:obj	_	Gloss=carbon|Lang=en
 17	dioxide	dioxide	X	_	Foreign=Yes	16	flat@foreign	_	Gloss=dioxide|Lang=en
 18	dàgà	dàgà	ADP	_	_	11	comp:obl	_	Gloss=from
 19	cikin	cikin	ADP	_	_	18	comp:obj	_	Gloss=inside

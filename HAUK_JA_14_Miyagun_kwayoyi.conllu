@@ -383,7 +383,7 @@
 21	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	20	comp:obj	_	Gloss=3Plur.Perf
 22	gamà	gam-	VERB	_	_	21	comp:aux	_	Gloss=finish
 23	tàfiyàr̃	tàfiyàː	NOUN	_	Definite=Def|Gender=Fem	22	comp:obj	_	Gloss=trip.Fem.Def
-24	taːsù	na	PART	_	Case=Gen|Gender=Fem|Poss=Yes	23	mod@poss	_	CaseAf=Gen|Gloss=Gen.Fem-3PlurGen|MSeg=taː-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No|wordform=taː
+24	taːsù	taːsù	PRON	_	Case=Gen|Gender=Fem|Poss=Yes|PronType=Pers	23	mod@poss	_	CaseAf=Gen|Gloss=Gen.Fem-3PlurGen|MSeg=taː-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No|wordform=taː
 25	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = 14_Miyagun_kwayoyi_12a
@@ -822,7 +822,7 @@
 22	dàngàntakàː	dàngànta	NOUN	_	Gender=Fem	20	comp:obj	_	Gloss=relationship.Fem
 23	tsàkaːnin	tsàkaːnin	ADP	_	_	22	mod	_	Gloss=between
 24	mijìn	mijìː	NOUN	_	Definite=Def|Gender=Masc	23	comp:obj	_	Gloss=husband.Masc.Def
-25	naːtà	na	PART	_	Case=Gen|Gender=Masc|Poss=Yes	24	mod@poss	_	CaseAf=Gen|GenderAf=Fem|Gloss=Gen.Masc-3FemGen|MSeg=naː-tà|PersonAf=3|wordform=naː
+25	naːtà	naːtà	PRON	_	Case=Gen|Gender=Masc|Poss=Yes|PronType=Pers	24	mod@poss	_	CaseAf=Gen|GenderAf=Fem|Gloss=Gen.Masc-3FemGen|MSeg=naː-tà|PersonAf=3|wordform=naː
 26	dà	dà	CCONJ	_	_	28	cc	_	Gloss=and
 27	Miss	Miss	PROPN	_	_	28	mod@desc	_	Gloss=Miss
 28	Madike	Madike	PROPN	_	_	24	conj:coord	_	Gloss=Madike|SpaceAfter=No
