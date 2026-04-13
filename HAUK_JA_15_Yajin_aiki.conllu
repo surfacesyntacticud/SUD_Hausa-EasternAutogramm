@@ -54,7 +54,7 @@
 7	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	9	mod@desc	_	Gloss=house.Masc.Cons
 8	r̃eːdiyòn	r̃eːdiyòː	NOUN	_	Definite=Cons|Gender=Masc	7	mod	_	Gloss=radio.Masc.Cons
 9	BBC	BBC	PROPN	_	Definite=Cons|Number=Plur	6	comp:obj	_	Gloss=BBC
-10	cê:waː	cêwaː	SCONJ	_	Gender=Fem	5	comp:obj	_	Gloss=COMP
+10	cê:waː	cêwaː	SCONJ	_	_	5	comp:obj	_	Gloss=COMP
 11	har̃koːkin	har̃kàː	NOUN	_	Definite=Cons|Number=Plur	13	subj	_	Gloss=business.Plur.Cons
 12	cìnikiː	cìnikiː	NOUN	_	Gender=Masc	11	mod	_	Gloss=trade.Masc
 13	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	10	comp:obj	_	Gloss=3Plur.Perf
@@ -94,10 +94,9 @@
 23	maː	maː	PART	_	PartType=Top	22	discourse@top	_	Gloss=even
 24	bàsù	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Polarity=Neg	7	conj:coord	_	Gloss=3Plur.Perf.Neg
 25	jeː	jeː	VERB	_	_	24	comp:aux	_	Gloss=go
-26	màkàr̃àntun	makar̃antaː	NOUN	_	Definite=Cons|Number=Plur	25	comp:obl	_	Gloss=school.Plur.Cons|SpaceAfter=No|wordform=màkàr̃àntunsù
-27	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	26	mod/m	_	Gloss=-3PlurGen|wordform=sù
-28	ba	ba	PART	_	PartType=Neg|Polarity=Neg	25	mod	_	Gloss=Neg|SpaceAfter=No
-29	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+26	màkàr̃àntunsù	makar̃antaː	NOUN	_	Definite=Cons|Number=Plur|Poss=Yes	25	comp:obl	_	CaseAf=Gen|Gloss=school.Plur.Cons-3PlurGen|MSeg=màkàr̃àntun-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
+27	ba	ba	PART	_	PartType=Neg|Polarity=Neg	25	mod	_	Gloss=Neg|SpaceAfter=No
+28	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_5
 # text_en = The federation of labour unions which gathers twenty-seven workers' unions, is the one who did the call for strike.
@@ -109,7 +108,7 @@
 4	Ƙoːdagon	ƙoːdagoː	NOUN	_	Gender=Masc	3	compound	_	Gloss=labour.Masc
 5	Ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	3	mod	_	Gloss=country.Fem.Def|SpaceAfter=No|wordform=Kasar
 6	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-7	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	2	mod@relcl	_	Gloss=REL.Fem|wordform=wadda
+7	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	2	mod@relcl	_	Gloss=REL.Fem|wordform=wadda
 8	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	7	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Rel
 9	haɗàː	haɗ-	VERB	_	_	8	comp:aux	_	Gloss=unite
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with
@@ -117,7 +116,7 @@
 12	àshìr̃in	àshìr̃in	NUM	_	_	11	mod:num	_	Gloss=twenty
 13	dà	dà	CCONJ	_	_	14	cc	_	Gloss=and
 14	bakwài	bakwài	NUM	_	_	12	conj:coord	_	Gloss=seven
-15	na	na	PART	_	Case=Gen|Number=Plur|PartType=Case	11	mod	_	Gloss=Gen.Plur
+15	na	na	PART	_	Case=Gen|Number=Plur|PartType=Case	11	mod	_	Gloss=Gen
 16	ma'àikàtan	ma'àikàciː	NOUN	_	Definite=Cons|Number=Plur	15	comp:obj	_	Gloss=worker.Plur.Cons
 17	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	16	mod	_	Gloss=country.Fem.Def|SpaceAfter=No|wordform=kasár
 18	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -153,10 +152,10 @@
 15	kafà	kaf-	VERB	_	_	14	comp:aux	_	Gloss=set_up
 16	tafarkìn	tafarkìː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	Gloss=system.Masc.Cons
 17	sìyaːsàː	sìyaːsàː	NOUN	_	Gender=Fem	16	mod	_	Gloss=politics.Fem
-18	mài	mài	PART	_	Number=Sing|PartType=Der	16	mod	_	Gloss=owner/doer_of.Sing
-19	jàm'ìyyuː	jàm'iyyàː	NOUN	_	Number=Plur	18	compound	_	Gloss=party.Plur
-20	dà	dà	ADP	_	ExtPos=ADJ	19	mod	_	Gloss=with|Idiom=Yes
-21	daːmaː	daːmaː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=opportunity.Fem|InIdiom=Yes
+18	mài	mài	PART	_	Number=Sing|PartType=Pred	16	mod	_	Gloss=owner_of.Sing
+19	jàm'ìyyuː	jàm'iyyàː	NOUN	_	Number=Plur	18	comp.pred	_	Gloss=party.Plur
+20	dà	dà	ADP	_	_	19	mod	_	Gloss=with
+21	daːmaː	daːmaː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=opportunity.Fem
 22	à	à	ADP	_	_	15	comp:obl	_	Gloss=at
 23	ƙasâr̃	ƙasaː	ADV	_	Definite=Def|Gender=Fem	22	comp:obj	_	Gloss=country.Fem.Def|SpaceAfter=No
 24	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
@@ -194,7 +193,7 @@
 # text_en = The people on strike called on the government to organise an assembly of all the citizens of the country, which will discuss the economic and political situation.
 # text_ortho = Màːsu yîn yaːjìn aikìn sun bùkàːci gwamnatì tà yi wani tàːroː na 'yan ƙasâr̃ bàːkiː ɗaya, wandà zâi tattàunà tsaːrìn tattalin ar̃zìkiː dà kuma na sìyaːsàː.
 # text = màːsu yîn yaːjìn aikìn sun bùkàːci gwamnatì tà yi wani tàːroː na 'yan ƙasâr̃ bàːkiː ɗaya, wandà zâi tattàunà tsaːrìn tattalin ar̃zìkiː dà kuma na sìyaːsàː.
-1	màːsu	mài	PROPN	_	Number=Plur|PartType=Der	5	subj	_	Gloss=owner/doer_of.Plur
+1	màːsu	mài	PART	_	Number=Plur|PartType=Der	5	subj	_	Gloss=owner/doer_of.Plur
 2	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	compound	_	Gloss=do.Vnoun.Masc.Cons
 3	yaːjìn	yaːjìː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:pred	_	Gloss=hot_spice.Masc.Cons
 4	aikìn	aikìː	NOUN	_	Definite=Def|Gender=Masc	3	compound	_	Gloss=work.Masc.Def
@@ -205,13 +204,13 @@
 9	yi	yi	VERB	_	_	8	comp:aux	_	Gloss=do
 10	wani	wani	DET	_	Definite=Spec|Gender=Masc	11	det	_	Gloss=some.Masc.Spec
 11	tàːroː	tàːroː	NOUN	_	Gender=Masc	9	comp:pred	_	Gloss=meeting.Masc
-12	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	11	mod	_	Gloss=Gen.Masc
+12	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	11	mod	_	Gloss=Gen
 13	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	12	mod	_	Gloss=child.Plur.Cons
 14	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	13	compound	_	Gloss=country.Fem.Def
 15	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	13	mod	_	Gloss=mouth.Masc
 16	ɗaya	ɗaya	NUM	_	_	15	mod:num	_	Gloss=one|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-18	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	11	mod@relcl	_	Gloss=REL.Masc
+18	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	11	mod@relcl	_	Gloss=REL.Masc
 19	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	18	comp:obj	_	Gloss=3Masc.Fut
 20	tattàunà	tattaun-	VERB	_	_	19	comp:aux	_	Gloss=discuss
 21	tsaːrìn	tsaːrìː	NOUN	_	Definite=Cons|Gender=Masc	20	comp:obj	_	Gloss=system.Masc
@@ -219,7 +218,7 @@
 23	ar̃zìkiː	ar̃zìkiː	NOUN	_	Gender=Masc	22	mod	_	Gloss=wealth.Masc
 24	dà	dà	CCONJ	_	_	26	cc	_	Gloss=and
 25	kuma	kuma	PART	_	PartType=Top	24	discourse@top	_	Gloss=also
-26	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	22	conj:coord	_	Gloss=Gen.Masc
+26	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	22	conj:coord	_	Gloss=Gen
 27	sìyaːsàː	sìyaːsàː	NOUN	_	Gender=Fem	26	comp:obj	_	Gloss=politics.Fem|SpaceAfter=No
 28	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
@@ -248,7 +247,7 @@
 19	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=COMP
 20	akà	yaː	AUX	_	Aspect=Perf|Person=4	19	comp:obj	_	Gloss=4.Perf.Rel|Relative=Rel
 21	yi	yi	VERB	_	_	20	comp:aux	_	Gloss=do
-22	tsàkaːnin	tsàkaːnin	ADP	_	Definite=Cons|Number=Plur	21	comp:obl	_	Gloss=between
+22	tsàkaːnin	tsàkaːnin	ADP	_	Number=Plur	21	comp:obl	_	Gloss=between
 23	ɗàːlìbai	ɗaːlìbiː	NOUN	_	Number=Plur	22	comp:obj	_	Gloss=student.Plur
 24	dà	dà	CCONJ	_	_	26	cc	_	Gloss=and|wordform=da
 25	kuma	kuma	PART	_	PartType=Top	24	discourse@top	_	Gloss=also
@@ -276,22 +275,21 @@
 5	zàngà-zangàr̃	zàngà-zangàr̃	NOUN	_	Definite=Def|Gender=Fem|Number=Plur	4	comp:aux	_	Gloss=demonstration.Fem.Cons
 6	nuːnà	nuːn-	VERB	_	_	5	mod	_	Gloss=show
 7	rashìn	ras-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:obj	_	Gloss=lack.Vnoun.Masc.Cons
-8	amincêwar̃	amincêwaː	NOUN	_	Definite=Cons|Gender=Fem	7	comp:obj	_	Gloss=agreement.Fem.Cons|SpaceAfter=No|wordform=amincêwar̃sù
-9	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	mod/m	_	Gloss=-3PlurGen|wordform=sù
-10	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with
-11	shaːwar̃àr̃	shaːwar̃àː	NOUN	_	Definite=Cons|Gender=Fem	10	comp:obj	_	Gloss=decision.Fem.Cons|wordform=shaːwarar
-12	ragè	rag-	VERB	_	_	11	mod	_	Gloss=reduce
-13	yawàn	yawàn	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	Gloss=quantity.Masc.Cons
-14	kuɗàːɗên	kuɗiː	NOUN	_	Definite=Def|Number=Plur	13	mod	_	Gloss=money.Plur.Def
-15	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=COMP
-16	gwamnatì	gwamnatì	NOUN	_	Gender=Fem	17	subj	_	Gloss=government.Fem
-17	takèː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	15	comp:obj	_	Gloss=3Fem.Prog.Rel|Relative=Rel
-18	kashèː	kas-	VERB	_	_	17	comp:aux	_	Gloss=kill
-19	wà	wà	ADP	_	Case=Dat	18	comp:obl	_	Gloss=Dat
-20	ilìmiː	ilìmiː	NOUN	_	Gender=Masc	19	comp:obj	_	Gloss=education.Masc
-21	à	à	ADP	_	_	18	mod	_	Gloss=at
-22	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	21	comp:obj	_	Gloss=country.Fem.Def|SpaceAfter=No
-23	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+8	amincêwar̃sù	amincêwaː	NOUN	_	Definite=Cons|Gender=Fem|Poss=Yes	7	comp:obj	_	CaseAf=Gen|Gloss=agreement.Fem.Cons-3PlurGen|MSeg=amincêwar̃-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
+9	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with
+10	shaːwar̃àr̃	shaːwar̃àː	NOUN	_	Definite=Cons|Gender=Fem	9	comp:obj	_	Gloss=decision.Fem.Cons|wordform=shaːwarar
+11	ragè	rag-	VERB	_	_	10	mod	_	Gloss=reduce
+12	yawàn	yawàn	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	Gloss=quantity.Masc.Cons
+13	kuɗàːɗên	kuɗiː	NOUN	_	Definite=Def|Number=Plur	12	mod	_	Gloss=money.Plur.Def
+14	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
+15	gwamnatì	gwamnatì	NOUN	_	Gender=Fem	16	subj	_	Gloss=government.Fem
+16	takèː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	14	comp:obj	_	Gloss=3Fem.Prog.Rel|Relative=Rel
+17	kashèː	kas-	VERB	_	_	16	comp:aux	_	Gloss=kill
+18	wà	wà	ADP	_	Case=Dat	17	comp:obl	_	Gloss=Dat
+19	ilìmiː	ilìmiː	NOUN	_	Gender=Masc	18	comp:obj	_	Gloss=education.Masc
+20	à	à	ADP	_	_	17	mod	_	Gloss=at
+21	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	20	comp:obj	_	Gloss=country.Fem.Def|SpaceAfter=No
+22	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_10
 # text_en = Those who died during the crisis, according the country authorities, are just three, although some student sources and hospital workers said that more than ten people died.
@@ -314,7 +312,7 @@
 15	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 16	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	subj	_	Gloss=3Plur.Nom
 17	ukù	ukù	NUM	_	_	18	comp:pred	_	Gloss=three
-18	neː	neː	AUX	_	_	0	root	_	Gloss=be
+18	neː	neː	AUX	_	_	0	root	_	Copula=Yes|Gloss=be
 19	kaɗai	kaɗai	ADV	_	_	18	mod	_	Gloss=only|SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 21	koː	koː	SCONJ	_	ExtPos=SCONJ	18	mod	_	Gloss=or|Idiom=Yes
@@ -329,8 +327,8 @@
 30	asìbitì	asìbitì	NOUN	_	Gender=Masc	29	mod	_	Gloss=hospital.Masc|wordform=asibiti
 31	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	21	comp:obj	_	Gloss=3Plur.Perf
 32	cêː	cêː	VERB	_	_	31	comp:aux	_	Gloss=say
-33	fìye	fi	VERB	_	ExtPos=ADP|VerbForm=Stat	38	subj	_	Gloss=exceed.Stat|Idiom=Yes
-34	dà	dà	ADP	_	_	33	comp:obl	_	Gloss=with|InIdiom=Yes
+33	fìye	fi	VERB	_	VerbForm=Stat	38	subj	_	Gloss=exceed.Stat
+34	dà	dà	ADP	_	_	33	comp:obl	_	Gloss=with
 35	mutàneː	mùtûm	NOUN	_	Number=Plur	34	comp:obj	_	Gloss=man.Plur
 36	goːmà	goːmà	NUM	_	_	35	mod:num	_	Gloss=ten
 37	neː	neː	PART	_	PartType=Foc	36	discourse@foc	_	Gloss=Emph
@@ -354,7 +352,7 @@
 10	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	12	subj	_	Gloss=government.Fem.Cons|wordform=gwamnatin
 11	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	10	mod	_	Gloss=country.Fem.Def
 12	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	9	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Rel
-13	baːyar̃	baː	ADV	_	Voice=Cau	12	comp:obj	_	Gloss=give.Cau|wordform=bayar
+13	baːyar̃	baː	VERB	_	Voice=Cau	12	comp:obj	_	Gloss=give.Cau|wordform=bayar
 14	nèː	neː	PART	_	PartType=Foc	13	discourse@foc	_	Gloss=Emph
 15	à	à	ADP	_	_	13	mod	_	Gloss=at
 16	watàn	watàː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	Gloss=month.Masc.Cons
@@ -375,10 +373,10 @@
 31	daːmar̃	daːmaː	NOUN	_	Definite=Cons|Gender=Fem	30	comp:obj	_	Gloss=opportunity.Fem.Cons
 32	kafà	kaf-	VERB	_	_	31	mod	_	Gloss=set_up
 33	tsaːrìː	tsaːrìː	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=system.Masc
-34	mài	mài	PART	_	Number=Sing|PartType=Der	33	mod	_	Gloss=owner/doer_of.Sing
-35	jàm'ìyyuː	jàm'iyyàː	NOUN	_	Number=Plur	34	compound	_	Gloss=party.Plur
-36	dà	dà	ADP	_	ExtPos=ADJ	35	mod	_	Gloss=with|Idiom=Yes
-37	daːmaː	daːmaː	NOUN	_	Gender=Fem	36	comp:obj	_	Gloss=opportunity.Fem|InIdiom=Yes|SpaceAfter=No
+34	mài	mài	PART	_	Number=Sing|PartType=Pred	33	mod	_	Gloss=owner_of.Sing
+35	jàm'ìyyuː	jàm'iyyàː	NOUN	_	Number=Plur	34	comp.pred	_	Gloss=party.Plur
+36	dà	dà	ADP	_	_	35	mod	_	Gloss=with
+37	daːmaː	daːmaː	NOUN	_	Gender=Fem	36	comp:obj	_	Gloss=opportunity.Fem|SpaceAfter=No
 38	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_12
@@ -388,8 +386,8 @@
 1	jàm'iyyàr̃	jàm'iyyàː	NOUN	_	Definite=Cons|Gender=Fem	2	mod@desc	_	Gloss=party.Fem.Cons
 2	MNSD	MNSD	PROPN	_	_	18	subj	_	Gloss=MNSD|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-4	mài	mài	PART	_	Number=Sing|PartType=Der	2	mod	_	Gloss=owner/doer_of.Sing
-5	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	4	compound	_	Gloss=government.Masc.Cons
+4	mài	mài	PART	_	Number=Sing|PartType=Pred	2	mod	_	Gloss=owner_of.Sing
+5	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	4	comp.pred	_	Gloss=government.Masc.Cons
 6	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	5	comp:obj	_	Gloss=country.Fem.Def
 7	tun	tun	ADP	_	_	5	mod	_	Gloss=since
 8	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	9	mod@desc	_	Gloss=year.Fem.Cons
@@ -426,7 +424,7 @@
 1	sai	sai	SCONJ	_	_	7	mod	_	Gloss=except_that
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
 3	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
-4	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	7	mod	_	Gloss=up_to
+4	har̃	har̃	ADP	_	_	7	mod	_	Gloss=up_to
 5	yànzu	yànzu	ADV	_	_	4	comp:obj	_	Gloss=now|SpaceAfter=No|wordform=yanzu
 6	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 7	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
@@ -455,18 +453,17 @@
 6	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	4	compound	_	Gloss=Nìːjâr̃
 7	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog|wordform=sunaː
 8	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:aux	_	Gloss=hear.Vnoun.Masc.Cons
-9	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	11	subj	_	Gloss=government.Fem.Cons|SpaceAfter=No
-10	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	mod/m	_	Gloss=-3PlurGen|wordform=sù
-11	baːtàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	8	comp:obj	_	Gloss=3Fem.Prog.Neg
-12	ƙaddamar̃	ƙaddam-	VERB	_	Voice=Cau	11	comp:aux	_	Gloss=implement.Cau
-13	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=with
-14	sàuye-sàuyên	sauyìː	NOUN	_	Definite=Def|Number=Plur	13	comp:obj	_	Gloss=change.Plur.Def
-15	dà	dà	ADP	_	_	12	mod	_	Gloss=with
-16	saurîn	sauriː	NOUN	_	Definite=Def|Gender=Masc	15	comp:obj	_	Gloss=speed.Masc.Def
-17	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=COMP
-18	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	17	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
-19	kàmaːtà	kamaːt-	VERB	_	_	18	comp:aux	_	Gloss=be_appropriate|SpaceAfter=No
-20	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+9	gwamnatìnsù	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem|Poss=Yes	10	subj	_	CaseAf=Gen|Gloss=government.Fem.Cons-3PlurGen|MSeg=gwamnatìn-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No|wordform=gwamnatìn
+10	baːtàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	8	comp:obj	_	Gloss=3Fem.Prog.Neg
+11	ƙaddamar̃	ƙaddam-	VERB	_	Voice=Cau	10	comp:aux	_	Gloss=implement.Cau
+12	dà	dà	ADP	_	_	11	comp:obl	_	Gloss=with
+13	sàuye-sàuyên	sauyìː	NOUN	_	Definite=Def|Number=Plur	12	comp:obj	_	Gloss=change.Plur.Def
+14	dà	dà	ADP	_	_	11	mod	_	Gloss=with
+15	saurîn	sauriː	NOUN	_	Definite=Def|Gender=Masc	14	comp:obj	_	Gloss=speed.Masc.Def
+16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=COMP
+17	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	16	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
+18	kàmaːtà	kamaːt-	VERB	_	_	17	comp:aux	_	Gloss=be_appropriate|SpaceAfter=No
+19	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_15
 # text_en = They want the governement to give the time schedule of the implementation of its changes, with a full explanation concerning the elections.
@@ -483,17 +480,15 @@
 9	ƙaddamar̃	ƙaddamar̃	VERB	_	Voice=Cau	8	mod	_	Gloss=implement.Cau|wordform=kaddamar
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with|wordform=da
 11	shìrye-shìryên	shirìː	NOUN	_	Definite=Def|Number=Plur	10	comp:obj	_	Gloss=programme.Plur.Def
-12-13	naːtà	_	_	_	_	_	_	_	_
-12	naː	na	PART	_	Case=Gen|Number=Plur	11	mod@poss	_	Gloss=Gen.Plur|SpaceAfter=No
-13	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|Poss=Yes|PronType=Prs	12	mod/m	_	Gloss=-3FemGen|SpaceAfter=No|wordform=tà
-14	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-15	tàːre	tàːre	ADV	_	_	16	mod	_	Gloss=together
-16	dà	dà	CCONJ	_	_	18	cc	_	Gloss=and|wordform=da
-17	cìkakken	cìkakkeː	ADJ	_	Definite=Cons|Gender=Masc	18	mod	_	Gloss=full.Masc.Cons
-18	bàyaːnìn	bàyaːnìː	NOUN	_	Definite=Cons|Gender=Masc	7	conj:coord	_	Gloss=explanation.Masc.Cons
-19	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	mod	_	Gloss=do.Vnoun.Masc.Cons
-20	zàːɓeː	zàːɓeː	NOUN	_	Gender=Masc	19	comp:pred	_	Gloss=election.Masc|SpaceAfter=No
-21	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+12	naːtà	naːtà	PRON	_	Case=Gen|Number=Plur|Poss=Yes|PronType=Pers	11	mod@poss	_	CaseAf=Gen|GenderAf=Fem|Gloss=Gen.Plur-3FemGen|MSeg=naː-tà|PersonAf=3|SpaceAfter=No|wordform=naː
+13	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
+14	tàːre	tàːre	ADV	_	_	15	mod	_	Gloss=together
+15	dà	dà	CCONJ	_	_	17	cc	_	Gloss=and|wordform=da
+16	cìkakken	cìkakkeː	ADJ	_	Definite=Cons|Gender=Masc	17	mod	_	Gloss=full.Masc.Cons
+17	bàyaːnìn	bàyaːnìː	NOUN	_	Definite=Cons|Gender=Masc	7	conj:coord	_	Gloss=explanation.Masc.Cons
+18	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	17	mod	_	Gloss=do.Vnoun.Masc.Cons
+19	zàːɓeː	zàːɓeː	NOUN	_	Gender=Masc	18	comp:pred	_	Gloss=election.Masc|SpaceAfter=No
+20	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_16
 # text_en = Apart from the pressure to change from the single party regime that president 'Ali Saibou' is facing, the president is suffering from an increase in the number of cases of lack of support of the economic policy that his government is implementing.
@@ -515,12 +510,12 @@
 14	kân	kân	ADP	_	_	13	comp:obj	_	Gloss=top
 15	kaucèːwaː	kaut-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	14	comp:obj	_	Gloss=move_away.Vnoun.Fem
 16	dàgà	dàgà	ADP	_	ExtPos=ADP	15	comp:obl	_	Gloss=from
-17	kân	kân	ADP	_	Definite=Cons|Gender=Masc	16	comp:obj	_	Gloss=on
+17	kân	kân	ADP	_	Gender=Masc	16	comp:obj	_	Gloss=on
 18	tafarkìn	tafarkìː	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	Gloss=system.Masc.Cons
 19	tsaːrìn	tsaːrìː	NOUN	_	Definite=Cons|Gender=Masc	18	mod	_	Gloss=organisation.Masc.Cons
 20	mulkìː	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	19	compound	_	Gloss=government.Masc.Cons
-21	mài	mài	PART	_	Number=Sing|PartType=Der	19	mod	_	Gloss=owner/doer_of.Sing
-22	jàm'iyyàː	jàm'iyyàː	NOUN	_	Gender=Fem	21	compound	_	Gloss=party.Fem
+21	mài	mài	PART	_	Number=Sing|PartType=Pred	19	mod	_	Gloss=owner_of.Sing
+22	jàm'iyyàː	jàm'iyyàː	NOUN	_	Gender=Fem	21	comp.pred	_	Gloss=party.Fem
 23	ƙwàːyaː	ƙwàːyaː	NOUN	_	Gender=Fem	22	mod	_	Gloss=unit.Fem
 24	ɗaya	ɗaya	NUM	_	_	23	mod:num	_	Gloss=one
 25	tal	tal	IDEO	_	_	24	mod	_	Gloss=single|SpaceAfter=No
@@ -541,13 +536,12 @@
 40	tattalin	tattaliː	NOUN	_	Definite=Cons|Gender=Masc	39	mod	_	Gloss=planning.Masc.Cons
 41	ar̃zìkiː	ar̃zìkiː	NOUN	_	Gender=Masc	40	mod	_	Gloss=wealth.Masc
 42	dà	dà	SCONJ	_	_	39	mod@relcl	_	Gloss=COMP
-43	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	45	subj	_	Gloss=government.Fem.Cons|SpaceAfter=No|wordform=gwamnatìnsà
-44	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	43	mod/m	_	Gloss=-3MascGen|wordform=sà
-45	takèː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	42	comp:obj	_	Gloss=3Fem.Prog.Rel|Relative=Rel
-46	aikìː	aikìː	NOUN	_	Gender=Masc	45	comp:aux	_	Gloss=work.Masc|wordform=aiki
-47	dà	dà	ADP	_	_	46	comp:obl	_	Gloss=with
-48	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	47	comp:obj	_	Gloss=3Plur.Nom|SpaceAfter=No
-49	.	.	PUNCT	_	_	30	punct	_	Gloss=PUNCT
+43	gwamnatìnsà	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem|Poss=Yes	44	subj	_	CaseAf=Gen|GenderAf=Masc|Gloss=government.Fem.Cons-3MascGen|MSeg=gwamnatìn-sà|PersonAf=3|SpaceAfter=No
+44	takèː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	42	comp:obj	_	Gloss=3Fem.Prog.Rel|Relative=Rel
+45	aikìː	aikìː	NOUN	_	Gender=Masc	44	comp:aux	_	Gloss=work.Masc|wordform=aiki
+46	dà	dà	ADP	_	_	45	comp:obl	_	Gloss=with
+47	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	46	comp:obj	_	Gloss=3Plur.Nom|SpaceAfter=No
+48	.	.	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_17
 # text_en = The demonstrators accused their government of failing to deal with the problem of corruption in the country, and of preparing an austerity plan that affects only the poor people of the country.
@@ -560,35 +554,32 @@
 5	yi	yi	VERB	_	_	4	comp:aux	_	Gloss=do
 6	zàrgin	zàrgiː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:pred	_	Gloss=accusation.Masc.Cons
 7	cêːwaː	cêːwaː	SCONJ	_	_	6	mod	_	Gloss=COMP
-8	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	11	subj	_	Gloss=government.Fem.Def|wordform=gwamnatin
-9-10	taːsù	_	_	_	_	_	_	_	_
-9	taː	na	PART	_	Gender=Fem	8	mod@poss	_	Gloss=Gen.Fem
-10	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	mod/m	_	Gloss=-3PlurGen|wordform=sù
-11	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	7	comp:obj	_	Gloss=3Fem.Perf
-12	kaːsà	kaːs-	VERB	_	_	11	comp:aux	_	Gloss=fail
-13	shaːwoː	shaːwoː	VERB	_	_	12	comp:obj	_	Gloss=deal_with
-14	kân	kân	ADP	_	_	13	mod	_	Gloss=on
-15	màtsalàr̃	màtsalàː	NOUN	_	Definite=Cons|Gender=Fem	14	comp:obj	_	Gloss=problem.Fem.Cons
-16	cîn	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	mod	_	Gloss=consume.Vnoun.Masc.Cons
-17	r̃ashawaː	r̃ashawaː	NOUN	_	Gender=Fem	16	comp:obj	_	Gloss=bribe.Fem
-18	à	à	ADP	_	_	13	comp:obl	_	Gloss=at
-19	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	18	comp:obj	_	Gloss=country.Fem.Def|SpaceAfter=No
-20	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
-21	kuma	kuma	CCONJ	_	_	29	cc	_	Gloss=also
-22	shirìn	shirìː	NOUN	_	Definite=Cons|Gender=Masc	29	subj	_	Gloss=plan.Masc.Cons|SpaceAfter=No|wordform=shirìntà
-23	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|Poss=Yes|PronType=Prs	22	mod/m	_	Gloss=-3FemGen|wordform=tà
-24	maː	maː	PART	_	PartType=Top	22	discourse@top	_	Gloss=even
-25	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	22	mod	_	Gloss=Gen
-26	tsuːkè	tsuːk-	VERB	_	_	25	comp:obj	_	Gloss=tighten
-27	bàːkin	bàːkiː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:obj	_	Gloss=mouth.Masc.Cons
-28	àljiːhuː	àljiːhuː	NOUN	_	Gender=Masc	27	mod	_	Gloss=pocket.Masc
-29	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	11	conj:coord	_	Gloss=3Masc.Perf
-30	shàːfi	shaf-	VERB	_	_	29	comp:aux	_	Gloss=concern
-31	talakaːwan	talàkà	NOUN	_	Definite=Cons|Number=Plur	30	comp:obj	_	Gloss=poor.Plur
-32	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	31	mod	_	Gloss=country.Fem.Def
-33	neː	neː	PART	_	PartType=Foc	31	discourse@foc	_	Gloss=Emph
-34	kawài	kawài	ADV	_	_	30	mod	_	Gloss=merely|SpaceAfter=No
-35	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+8	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	10	subj	_	Gloss=government.Fem.Def|wordform=gwamnatin
+9	taːsù	taːsù	PRON	_	Gender=Fem|Poss=Yes|PronType=Pers	8	mod@poss	_	CaseAf=Gen|Gloss=Gen.Fem-3PlurGen|MSeg=taː-sù|NumberAf=Plur|PersonAf=3|wordform=taː
+10	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	7	comp:obj	_	Gloss=3Fem.Perf
+11	kaːsà	kaːs-	VERB	_	_	10	comp:aux	_	Gloss=fail
+12	shaːwoː	shaːwoː	VERB	_	_	11	comp:obj	_	Gloss=deal_with
+13	kân	kân	ADP	_	_	12	mod	_	Gloss=on
+14	màtsalàr̃	màtsalàː	NOUN	_	Definite=Cons|Gender=Fem	13	comp:obj	_	Gloss=problem.Fem.Cons
+15	cîn	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	mod	_	Gloss=consume.Vnoun.Masc.Cons
+16	r̃ashawaː	r̃ashawaː	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=bribe.Fem
+17	à	à	ADP	_	_	12	comp:obl	_	Gloss=at
+18	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	17	comp:obj	_	Gloss=country.Fem.Def|SpaceAfter=No
+19	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
+20	kuma	kuma	CCONJ	_	_	27	cc	_	Gloss=also
+21	shirìntà	shirìː	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes	27	subj	_	CaseAf=Gen|GenderAf=Fem|Gloss=plan.Masc.Cons-3FemGen|MSeg=shirìn-tà|PersonAf=3|SpaceAfter=No
+22	maː	maː	PART	_	PartType=Top	21	discourse@top	_	Gloss=even
+23	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	21	mod	_	Gloss=Gen
+24	tsuːkè	tsuːk-	VERB	_	_	23	comp:obj	_	Gloss=tighten
+25	bàːkin	bàːkiː	NOUN	_	Definite=Cons|Gender=Masc	24	comp:obj	_	Gloss=mouth.Masc.Cons
+26	àljiːhuː	àljiːhuː	NOUN	_	Gender=Masc	25	mod	_	Gloss=pocket.Masc
+27	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	10	conj:coord	_	Gloss=3Masc.Perf
+28	shàːfi	shaf-	VERB	_	_	27	comp:aux	_	Gloss=concern
+29	talakaːwan	talàkà	NOUN	_	Definite=Cons|Number=Plur	28	comp:obj	_	Gloss=poor.Plur
+30	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	29	mod	_	Gloss=country.Fem.Def
+31	neː	neː	PART	_	PartType=Foc	29	discourse@foc	_	Gloss=Emph
+32	kawài	kawài	ADV	_	_	28	mod	_	Gloss=merely|SpaceAfter=No
+33	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_18
 # text_en = On thursday, two days ago, banks and insurance companies were cloased becaus their workers were on strike.
@@ -605,52 +596,48 @@
 9	ìnshoːr̃àr̃	ìnshoːr̃àː	NOUN	_	Definite=Cons|Gender=Fem	8	mod	_	Gloss=insurance.Fem.Cons
 10	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	8	mod	_	Gloss=country.Fem.Def
 11	sabòːdà	sabòːdà	SCONJ	_	_	5	mod	_	Gloss=because
-12	ma'àikàtan	ma'àikàciː	NOUN	_	Definite=Cons|Number=Plur	14	subj	_	Gloss=worker.Plur.Cons|SpaceAfter=No|wordform=ma'àikàtansù
-13	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	12	mod/m	_	Gloss=-3PlurGen|wordform=sù
-14	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	11	comp:obj	_	Gloss=3Plur.Perf
-15	yi	yi	VERB	_	_	14	comp:aux	_	Gloss=do
-16	yaːjìn	yaːjìː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:pred	_	Gloss=hot_spice.Masc.Cons
-17	aikìː	aikìː	NOUN	_	Gender=Masc	16	compound	_	Gloss=work.Masc|SpaceAfter=No
-18	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+12	ma'àikàtansù	ma'àikàciː	NOUN	_	Definite=Cons|Number=Plur|Poss=Yes	13	subj	_	CaseAf=Gen|Gloss=worker.Plur.Cons-3PlurGen|MSeg=ma'àikàtan-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
+13	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	11	comp:obj	_	Gloss=3Plur.Perf
+14	yi	yi	VERB	_	_	13	comp:aux	_	Gloss=do
+15	yaːjìn	yaːjìː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:pred	_	Gloss=hot_spice.Masc.Cons
+16	aikìː	aikìː	NOUN	_	Gender=Masc	15	compound	_	Gloss=work.Masc|SpaceAfter=No
+17	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_19
 # text_en = Their strike showed their support to the workers of the Bank for Niger Development who were left jobless after the goverment of the country decided to close the bank.
 # text_ortho = Yaːjìn aikìn naːsù kùwa na nuːnà goːyon baːyaː nèː gà ma'àikàtan Bankìn Raːyà Ƙasâr̃ ta Nìːjâr̃, waɗàndà sukà rasà ayyukànsù baːyân dà gwamnatìn ƙasâr̃ ta yankè shaːwar̃àr̃ rufè bankìn.
 # text = yaːjìn aikìn naːsù kùwa na nuːnà goːyon baːyaː nèː gà ma'àikàtan Bankìn Raːyà Ƙasâr̃ ta Nìːjâr̃, waɗàndà sukà rasà ayyukànsù baːyân dà gwamnatìn ƙasâr̃ ta yankè shaːwar̃àr̃ rufè bankìn.
-1	yaːjìn	yaːjìː	PROPN	_	Definite=Cons|Gender=Masc	10	subj	_	Gloss=hot_spice.Masc.Cons
+1	yaːjìn	yaːjìː	PROPN	_	Definite=Cons|Gender=Masc	9	subj	_	Gloss=hot_spice.Masc.Cons
 2	aikìn	aikìː	NOUN	_	Definite=Def|Gender=Masc	1	compound	_	Gloss=work.Masc.Def
-3-4	naːsù	_	_	_	_	_	_	_	_
-3	naː	na	PART	_	Case=Gen|Gender=Masc	1	mod	_	Gloss=Gen.Masc
-4	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	mod/m	_	Gloss=-3PlurGen|wordform=sù
-5	kùwa	kùwa	PART	_	PartType=Top	1	discourse@top	_	Gloss=in_fact
-6	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	10	comp:pred	_	Gloss=Gen.Masc
-7	nuːnà	nuːn-	VERB	_	_	6	comp:obj	_	Gloss=show
-8	goːyon	goːy-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:obj	_	Gloss=support.Vnoun.Masc.Cons
-9	baːyaː	baːyaː	NOUN	_	Gender=Masc	8	compound	_	Gloss=back.Masc
-10	nèː	neː	AUX	_	PartType=Foc	0	root	_	Gloss=be
-11	gà	gà	ADP	_	_	8	comp:obl	_	Gloss=to
-12	ma'àikàtan	ma'àikàciː	NOUN	_	Definite=Cons|Number=Plur	11	comp:obj	_	Gloss=worker.Plur.Cons
-13	Bankìn	bankìː	NOUN	_	Definite=Cons|Gender=Masc	12	mod	_	Gloss=bank.Masc.Cons
-14	Raːyà	raːy-	VERB	_	_	13	mod	_	Gloss=restore
-15	Ƙasâr̃	ƙasaː	PROPN	_	Definite=Def|Gender=Fem	14	comp:obj	_	Gloss=country.Fem.Def
-16	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	13	mod	_	Gloss=Gen.Fem
-17	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	16	comp:obj	_	Gloss=Nìːjâr̃|SpaceAfter=No|wordform=Nijaːr
-18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-19	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	12	mod@relcl	_	Gloss=REL.Plur|wordform=wadandal
-20	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	19	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Rel
-21	rasà	ras-	VERB	_	_	20	comp:aux	_	Gloss=lose
-22	ayyukàn	aykìː	NOUN	_	Definite=Cons|Number=Plur	21	comp:obj	_	Gloss=job.Plur.Cons|SpaceAfter=No|wordform=ayyukànsù
-23	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	22	mod/m	_	Gloss=-3PlurGen|wordform=sù
-24	baːyân	baːyân	SCONJ	_	_	21	mod	_	Gloss=after
-25	dà	dà	SCONJ	_	_	24	comp:obj	_	Gloss=COMP
-26	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	28	subj	_	Gloss=government.Fem.Cons|wordform=gwamnatin
-27	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	26	mod	_	Gloss=country.Fem.Def|wordform=kasàːr
-28	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	25	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Rel
-29	yankè	yank-	VERB	_	_	28	comp:aux	_	Gloss=cut
-30	shaːwar̃àr̃	shaːwar̃àː	NOUN	_	Definite=Cons|Gender=Fem	29	comp:obj	_	Gloss=decision.Fem.Cons
-31	rufè	ruf-	VERB	_	_	30	mod	_	Gloss=close
-32	bankìn	bankìː	NOUN	_	Definite=Def|Gender=Masc	31	comp:obj	_	Gloss=bank.Masc.Def|SpaceAfter=No
-33	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
+3	naːsù	naːsù	PRON	_	Case=Gen|Gender=Masc|Poss=Yes|PronType=Pers	1	mod	_	CaseAf=Gen|Gloss=Gen.Masc-3PlurGen|MSeg=naː-sù|NumberAf=Plur|PersonAf=3|wordform=naː
+4	kùwa	kùwa	PART	_	PartType=Top	1	discourse@top	_	Gloss=in_fact
+5	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	9	comp:pred	_	Gloss=Gen
+6	nuːnà	nuːn-	VERB	_	_	5	comp:obj	_	Gloss=show
+7	goːyon	goːy-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:obj	_	Gloss=support.Vnoun.Masc.Cons
+8	baːyaː	baːyaː	NOUN	_	Gender=Masc	7	compound	_	Gloss=back.Masc
+9	nèː	neː	AUX	_	_	0	root	_	Copula=Yes|Gloss=be
+10	gà	gà	ADP	_	_	7	comp:obl	_	Gloss=to
+11	ma'àikàtan	ma'àikàciː	NOUN	_	Definite=Cons|Number=Plur	10	comp:obj	_	Gloss=worker.Plur.Cons
+12	Bankìn	bankìː	NOUN	_	Definite=Cons|Gender=Masc	11	mod	_	Gloss=bank.Masc.Cons
+13	Raːyà	raːy-	VERB	_	_	12	mod	_	Gloss=restore
+14	Ƙasâr̃	ƙasaː	PROPN	_	Definite=Def|Gender=Fem	13	comp:obj	_	Gloss=country.Fem.Def
+15	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	12	mod	_	Gloss=Gen.Fem
+16	Nìːjâr̃	Nìːjâr̃	PROPN	_	Definite=Cons|Gender=Fem	15	comp:obj	_	Gloss=Nìːjâr̃|SpaceAfter=No|wordform=Nijaːr
+17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
+18	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	11	mod@relcl	_	Gloss=REL.Plur|wordform=wadandal
+19	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	18	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Rel
+20	rasà	ras-	VERB	_	_	19	comp:aux	_	Gloss=lose
+21	ayyukànsù	aykìː	NOUN	_	Definite=Cons|Number=Plur|Poss=Yes	20	comp:obj	_	CaseAf=Gen|Gloss=job.Plur.Cons-3PlurGen|MSeg=ayyukàn-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
+22	baːyân	baːyân	SCONJ	_	_	20	mod	_	Gloss=after
+23	dà	dà	SCONJ	_	_	22	comp:obj	_	Gloss=COMP
+24	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	26	subj	_	Gloss=government.Fem.Cons|wordform=gwamnatin
+25	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	24	mod	_	Gloss=country.Fem.Def|wordform=kasàːr
+26	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	23	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Rel
+27	yankè	yank-	VERB	_	_	26	comp:aux	_	Gloss=cut
+28	shaːwar̃àr̃	shaːwar̃àː	NOUN	_	Definite=Cons|Gender=Fem	27	comp:obj	_	Gloss=decision.Fem.Cons
+29	rufè	ruf-	VERB	_	_	28	mod	_	Gloss=close
+30	bankìn	bankìː	NOUN	_	Definite=Def|Gender=Masc	29	comp:obj	_	Gloss=bank.Masc.Def|SpaceAfter=No
+31	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_20
 # text_en = An last saturday, the taxi drivers of the country refused to work.
@@ -685,29 +672,27 @@
 4	yi	yi	VERB	_	_	3	comp:aux	_	Gloss=do
 5	kuːkan	kuːkaː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:pred	_	Gloss=complaint.Masc.Cons
 6	cêːwaː	cêːwaː	SCONJ	_	_	5	mod	_	Gloss=COMP
-7	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	10	subj	_	Gloss=government.Fem.Def|wordform=gwamnatin
-8-9	taːsù	_	_	_	_	_	_	_	_
-8	taː	na	PART	_	Case=Gen|Gender=Fem	7	mod@poss	_	Gloss=Gen.Fem
-9	-sù	-sù	PRON	_	Case=Gen|Definite=Cons|Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	mod/m	_	Gloss=-3PlurGen|wordform=sù
-10	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	6	comp:obj	_	Gloss=3Fem.Prog
-11	bâi	bâː	VERB	_	_	10	comp:aux	_	Gloss=give
-12	wà	wà	ADP	_	Case=Dat	11	comp:obl	_	Gloss=Dat
-13	ma'àikàtaː	ma'àikàciː	NOUN	_	Number=Plur	12	comp:obj	_	Gloss=worker.Plur
-14	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	13	mod	_	Gloss=child.Plur.Cons
-15	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	14	compound	_	Gloss=country.Plur.Cons
-16	wàje	wàje	ADV	_	_	15	compound	_	Gloss=outside
-17	fiːfiːkòː	fiːfiːkòː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=preference.Masc|SpaceAfter=No
-18	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-19	wàːtòː	wàːtòː	CCONJ	_	_	20	cc	_	Gloss=i.e.
-20	ma'àikàtaː	ma'àikàciː	NOUN	_	Number=Plur	13	conj:dicto	_	Gloss=worker.Plur
-21	dàgà	dàgà	ADP	_	_	20	mod	_	Gloss=from
-22	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	21	comp:obj	_	Gloss=Nigeria
-23	dà	dà	CCONJ	_	_	24	cc	_	Gloss=and
-24	To :gò	To :gò	PROPN	_	_	22	conj:coord	_	Gloss=To :gò
-25	dà	dà	CCONJ	_	_	27	cc	_	Gloss=and
-26	Jàmhuːr̃iyàr̃	jàmhuːr̃iyàː	NOUN	_	Definite=Cons|Gender=Fem	27	mod@desc	_	Gloss=republic.Fem.Cons
-27	Bìːni	Bìːni	PROPN	_	_	24	conj:coord	_	Gloss=Benin|SpaceAfter=No
-28	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
+7	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	9	subj	_	Gloss=government.Fem.Def|wordform=gwamnatin
+8	taːsù	taːsù	PRON	_	Case=Gen|Gender=Fem|Poss=Yes|PronType=Pers	7	mod@poss	_	CaseAf=Gen|Gloss=Gen.Fem-3PlurGen|MSeg=taː-sù|NumberAf=Plur|PersonAf=3|wordform=taː
+9	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	6	comp:obj	_	Gloss=3Fem.Prog
+10	bâi	bâː	VERB	_	_	9	comp:aux	_	Gloss=give
+11	wà	wà	ADP	_	Case=Dat	10	comp:obl	_	Gloss=Dat
+12	ma'àikàtaː	ma'àikàciː	NOUN	_	Number=Plur	11	comp:obj	_	Gloss=worker.Plur
+13	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	12	mod	_	Gloss=child.Plur.Cons
+14	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	13	compound	_	Gloss=country.Plur.Cons
+15	wàje	wàje	ADV	_	_	14	compound	_	Gloss=outside
+16	fiːfiːkòː	fiːfiːkòː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=preference.Masc|SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
+18	wàːtòː	wàːtòː	CCONJ	_	_	19	cc	_	Gloss=i.e.
+19	ma'àikàtaː	ma'àikàciː	NOUN	_	Number=Plur	12	conj:dicto	_	Gloss=worker.Plur
+20	dàgà	dàgà	ADP	_	_	19	mod	_	Gloss=from
+21	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	20	comp:obj	_	Gloss=Nigeria
+22	dà	dà	CCONJ	_	_	23	cc	_	Gloss=and
+23	To :gò	To :gò	PROPN	_	_	21	conj:coord	_	Gloss=To :gò
+24	dà	dà	CCONJ	_	_	26	cc	_	Gloss=and
+25	Jàmhuːr̃iyàr̃	jàmhuːr̃iyàː	NOUN	_	Definite=Cons|Gender=Fem	26	mod@desc	_	Gloss=republic.Fem.Cons
+26	Bìːni	Bìːni	PROPN	_	_	23	conj:coord	_	Gloss=Benin|SpaceAfter=No
+27	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_22
 # text_en = Well, President Saibou's government must certainly do something concerning these demonstrations of opposition to the policy that it has recently been implementing.

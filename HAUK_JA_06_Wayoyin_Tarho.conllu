@@ -16,8 +16,8 @@
 # text_en = Time and again, if the broadcasing corporation 'BBC' wants to send its programmes to African countries, it must use the telephone.
 # text = kullum ìdan gidan r̃eːdiyòn " BBC " zâi gabaːtar̃ dà shìrye-shìryensà gà ƙasàːshen Afìr̃kà, doːlè yà yi àmfàːniː dà wayàr̃ tàr̃hôː.
 # text_ortho = Kullum ìdan gidan r̃eːdiyòn 'BBC' zâi gabaːtar̃ dà shìrye-shìryensà gà ƙasàːshen Afìr̃kà, doːlè yà yi àmfàːniː dà wayàr̃ tàr̃hôː.
-1	kullum	kullum	ADV	_	_	17	mod	_	Gloss=always
-2	ìdan	ìdan	SCONJ	_	_	17	mod	_	Gloss=if
+1	kullum	kullum	ADV	_	_	16	mod	_	Gloss=always
+2	ìdan	ìdan	SCONJ	_	_	16	mod	_	Gloss=if
 3	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	6	mod@desc	_	Gloss=house.Masc.Cons
 4	r̃eːdiyòn	r̃eːdiyòː	NOUN	_	Definite=Cons|Gender=Masc	3	mod	_	Gloss=radio.Masc.Cons
 5	"	"	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -26,20 +26,19 @@
 8	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	2	comp:obj	_	Gloss=3Masc.Fut
 9	gabaːtar̃	gabaːt-	VERB	_	_	8	comp:aux	_	Gloss=present
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with
-11	shìrye-shìryen	shirìː	NOUN	_	Definite=Cons|Number=Plur	10	comp:obj	_	Gloss=programme.Plur.Cons|SpaceAfter=No|wordform=shìrye-shìryensà
-12	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	11	mod/m	_	Gloss=-3MascGen|wordform=sà
-13	gà	gà	ADP	_	_	9	comp:obl	_	Gloss=to
-14	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	13	comp:obj	_	Gloss=country.Plur.Cons
-15	Afìr̃kà	Afìr̃kà	PROPN	_	_	14	flat@name	_	Gloss=Africa|SpaceAfter=No
-16	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-17	doːlè	doːlè	ADV	_	_	0	root	_	Gloss=necessary
-18	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	17	comp:cleft	_	Gloss=3Masc.Sub
-19	yi	yi	VERB	_	_	18	comp:aux	_	Gloss=do
-20	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	19	comp:pred	_	Gloss=use.Masc
-21	dà	dà	ADP	_	_	20	comp:obl	_	Gloss=with
-22	wayàr̃	wayàː	NOUN	_	Definite=Cons|Gender=Fem	21	comp:obj	_	Gloss=wire.Fem.Cons
-23	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	22	compound	_	Gloss=telephone.Masc|SpaceAfter=No
-24	.	.	PUNCT	_	_	17	punct	_	Gloss=PUNCT
+11	shìrye-shìryensà	shirìː	NOUN	_	Definite=Cons|Number=Plur|Poss=Yes	10	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=programme.Plur.Cons-3MascGen|MSeg=shìrye-shìryen-sà|PersonAf=3|SpaceAfter=No
+12	gà	gà	ADP	_	_	9	comp:obl	_	Gloss=to
+13	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	12	comp:obj	_	Gloss=country.Plur.Cons
+14	Afìr̃kà	Afìr̃kà	PROPN	_	_	13	flat@name	_	Gloss=Africa|SpaceAfter=No
+15	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+16	doːlè	doːlè	ADV	_	_	0	root	_	Gloss=necessary
+17	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	16	comp:cleft	_	Gloss=3Masc.Sub
+18	yi	yi	VERB	_	_	17	comp:aux	_	Gloss=do
+19	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	18	comp:pred	_	Gloss=use.Masc
+20	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=with
+21	wayàr̃	wayàː	NOUN	_	Definite=Cons|Gender=Fem	20	comp:obj	_	Gloss=wire.Fem.Cons
+22	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	21	compound	_	Gloss=telephone.Masc|SpaceAfter=No
+23	.	.	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 
 # sent_id = 06_Wayoyin_Tarho_3
 # text_en = Sometimes, you get upset because of the type of problem that you face before you can make a phone call to African countries, especially countries like Zaïre and Sudan.
@@ -63,7 +62,7 @@
 16	à	yà	AUX	_	Mood=Sub|Person=4	15	comp:obj	_	Gloss=4.Sub
 17	bugà	bug-	VERB	_	_	16	comp:aux	_	Gloss=beat
 18	wayàː	wayàː	NOUN	_	Gender=Masc	17	comp:obj	_	Gloss=wire.Fem
-19	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc	17	comp:obl	_	Gloss=towards
+19	zuwàː	zuwàː	ADP	_	_	17	comp:obl	_	Gloss=towards
 20	ƙasàːshen	ƙasaː	ADJ	_	Definite=Cons|Number=Plur	19	comp:obj	_	Gloss=country.Plur.Cons
 21	Afìr̃kà	Afìr̃kà	PROPN	_	_	20	mod	_	Gloss=Africa|SpaceAfter=No
 22	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
@@ -96,7 +95,7 @@
 14	kyâu	kyâu	ADV	_	Gender=Masc	13	comp:obj	_	Gloss=beauty.Masc
 15	sòːsai	sòːsai	ADV	_	_	14	mod	_	Gloss=really|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-17	har̃	har̃	SCONJ	_	Definite=Cons|Gender=Fem	11	mod	_	Gloss=so_much_so_that
+17	har̃	har̃	SCONJ	_	_	11	mod	_	Gloss=so_much_so_that
 18	baːkàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=2|Polarity=Neg	17	comp:obj	_	Gloss=2Masc.Prog.Neg
 19	iyà	iy-	VERB	_	_	18	comp:aux	_	Gloss=be_able_to
 20	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:obj	_	Gloss=hear.Vnoun.Masc.Cons
@@ -110,7 +109,7 @@
 # text_en = Well, but now things have begun to change.
 # text = tòː àmmaː yànzu al'amur̃àː sun faːrà canjàːwaː.
 # text_ortho = Tòː àmmaː yànzu al'amur̃àː sun faːrà canjàːwaː.
-1	tòː	tòː	INTJ	_	PartType=Disc	5	discourse	_	Gloss=well
+1	tòː	tòː	INTJ	_	_	5	discourse	_	Gloss=well
 2	àmmaː	àmmaː	CCONJ	_	_	5	discourse	_	Gloss=but
 3	yànzu	yànzu	ADV	_	_	5	mod	_	Gloss=now
 4	al'amur̃àː	al'amur̃àː	NOUN	_	Number=Plur	5	subj	_	Gloss=matter.Plur
@@ -121,7 +120,7 @@
 
 # sent_id = 06_Wayoyin_Tarho_6a
 # text_en = For example, these past the five years, if you wanted to make a phone call to Burkina from 'Vancouver' there in Canada, the thing would not be possible.
-# text = kàmar̃ shèːkaràː bìyar̃ dà sukà wucèː , ìdan kanàː sôn kà bugà wayàː zuwàː Bùr̃kiːnà Faːsò dàgà " Vancouver " , can cikin ƙasar̃ Kyanadà , àbîn bà zâi yìwu ba -
+# text = kàmar̃ shèːkaràː bìyar̃ dà sukà wucèː, ìdan kanàː sôn kà bugà wayàː zuwàː Bùr̃kiːnà Faːsò dàgà " Vancouver ", can cikin ƙasar̃ Kyanadà, àbîn bà zâi yìwu ba -
 # text_ortho = Kàmar̃ shèːkaràː bìyar̃ dà sukà wucèː, ìdan kanàː sôn kà bugà wayàː zuwàː Bùr̃kiːnà Faːsò dàgà 'Vancouver', can cikin ƙasar̃ Kyanadà, àbîn bà zâi yìwu ba -
 1	kàmar̃	kàmar̃	ADP	_	_	29	mod	_	Gloss=like
 2	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=year.Fem
@@ -136,7 +135,7 @@
 11	kà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=2	10	comp:obj	_	Gloss=2Masc.Sub
 12	bugà	bug-	VERB	_	_	11	comp:aux	_	Gloss=beat
 13	wayàː	wayàː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=wire.Fem
-14	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc	12	comp:obl	_	Gloss=towards
+14	zuwàː	zuwàː	ADP	_	_	12	comp:obl	_	Gloss=towards
 15	Bùr̃kiːnà	Bùr̃kiːnà	PROPN	_	_	14	conj:appos	_	Gloss=Bùr̃kiːnà
 16	Faːsò	Faːsò	PROPN	_	_	15	flat@name	_	Gloss=Faːsò
 17	dàgà	dàgà	ADP	_	_	12	comp:obl	_	Gloss=from
@@ -236,13 +235,13 @@
 5	aikàː	aik-	VERB	_	_	4	comp:aux	_	Gloss=send
 6	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=with
 7	sàːƙôn	sàːƙoː	NOUN	_	Definite=Def|Gender=Masc	6	comp:obj	_	Gloss=message.Masc.Det
-8	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	mod	_	Gloss=towards
+8	zuwàː	zuwàː	ADP	_	_	7	mod	_	Gloss=towards
 9	bàːkin	bàːkin	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=mouth.Masc.Cons
 10	Tèːkun	tèːku	NOUN	_	Definite=Cons|Gender=Fem	9	compound	_	Gloss=sea.Fem.Cons|wordform=tèːkun
 11	Kyanadà	Kyanadà	PROPN	_	_	10	mod	_	Gloss=Canada|SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 13	sànnan	sànnan	ADV	_	_	14	mod	_	Gloss=then
-14	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	conj:coord	_	Gloss=towards
+14	zuwàː	zuwàː	ADP	_	_	8	conj:coord	_	Gloss=towards
 15	"	"	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	Widemouth	Widemouth	PROPN	_	_	14	comp:obj	_	Gloss=Widemouth
 17	"	"	PUNCT	_	_	16	punct	_	Gloss=PUNCT|wordform='
@@ -252,7 +251,7 @@
 21	ta	ta	ADP	_	_	14	conj:coord	_	Gloss=via
 22	wasu	wani	DET	_	Definite=Spec|Number=Plur	23	det	_	Gloss=some.Plur.Spec
 23	wayoːyin	wayàː	NOUN	_	Definite=Cons|Number=Plur	21	comp:obj	_	Gloss=wire.Plur.Cons
-24	ƙàr̃ƙashin	ƙàr̃ƙashin	ADP	_	Definite=Cons|Number=Plur	23	mod	_	Gloss=under
+24	ƙàr̃ƙashin	ƙàr̃ƙashin	ADP	_	Number=Plur	23	mod	_	Gloss=under
 25	tèːku	tèːku	NOUN	_	Gender=Fem	24	comp:obj	_	Gloss=sea.Fem|SpaceAfter=No
 26	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
@@ -355,7 +354,7 @@
 # text_en = Zambia and Mozambique are close to one another, but it is easier to make a telephone call to European countries than to make a call to Mozambique.
 # text = tòː Zambìyà dà Mazàmbîk sunàː hannun rìːgaː nèː dà juːnaː, àmmaː yaː fi sauƙiː kà yi wayàː zuwàː ƙasàːshen Tūr̃ai màimakon kà bugà wayàː zuwàː Mazàmbîk.
 # text_ortho = Tòː Zambìyà dà Mazàmbîk sunàː hannun rìːgaː nèː dà jūnaː,¹ àmmaː yaː fi sauƙiː kà yi wayàː zuwàː ƙasàːshen Tūr̃ai màimakon kà bugà wayàː zuwàː Mazàmbîk.
-1	tòː	tòː	INTJ	_	PartType=Disc	5	discourse	_	Gloss=well
+1	tòː	tòː	INTJ	_	_	5	discourse	_	Gloss=well
 2	Zambìyà	Zambìyà	PROPN	_	_	5	subj	_	Gloss=Zambìyà
 3	dà	dà	CCONJ	_	_	4	cc	_	Gloss=and
 4	Mazàmbîk	Mazàmbîk	PROPN	_	_	2	conj:coord	_	Gloss=Mazàmbîk
@@ -364,7 +363,7 @@
 7	rìːgaː	rìːgaː	NOUN	_	Gender=Fem	6	compound	_	Gloss=boubou.Fem
 8	nèː	neː	PART	_	PartType=Foc	6	discourse@foc	_	Gloss=Emph
 9	dà	dà	CCONJ	_	_	6	comp:pred	_	Gloss=and
-10	juːnaː	juːnaː	NOUN	_	Gender=Masc|PronType=Rcp	9	comp:obj	_	Gloss=each_other.Masc|SpaceAfter=No
+10	juːnaː	juːnaː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=each_other.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	àmmaː	àmmaː	CCONJ	_	_	13	cc	_	Gloss=but
 13	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	5	parataxis@conj	_	Gloss=3Masc.Perf
@@ -395,7 +394,7 @@
 5	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	4	compound	_	Gloss=telephone.Masc
 6	dàgà	dàgà	ADP	_	_	4	comp:obl	_	Gloss=from
 7	Màlaːwì	Màlaːwì	PROPN	_	_	6	comp:obj	_	Gloss=Màlaːwì
-8	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:obl	_	Gloss=towards
+8	zuwàː	zuwàː	ADP	_	_	6	conj:coord	_	Gloss=towards
 9	Àngoːlà	Àngoːlà	PROPN	_	_	8	comp:obj	_	Gloss=Àngoːlà|SpaceAfter=No
 10	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 11	doːlè	doːlè	ADV	_	_	0	root	_	Gloss=necessary
@@ -461,9 +460,8 @@
 24	soːmà	soːm-	VERB	_	_	23	comp:aux	_	Gloss=start
 25	ƙaːrà	ƙaːr-	VERB	_	_	24	comp:obj	_	Gloss=increase
 26	dàngàntakàː	dàngànta	NOUN	_	Gender=Fem	25	comp:obj	_	Gloss=relationship.Fem
-27	tsàkaːnin	tsàkaːnin	ADP	_	_	25	comp:obl	_	Gloss=between|SpaceAfter=No|wordform=tsàkaːninsù
-28	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	27	mod/m	_	Gloss=-3PlurGen|wordform=sù
-29	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+27	tsàkaːninsù	tsàkaːnin	ADP	_	Poss=Yes	25	comp:obl	_	CaseAf=Gen|Gloss=between-3PlurGen|MSeg=tsàkaːnin-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
+28	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 06_Wayoyin_Tarho_19
 # text_en = Last week, a new telephone line was installed between Togo and Ghana.
@@ -495,26 +493,25 @@
 6	gyaːrà	gya	VERB	_	_	5	comp:aux	_	Gloss=repair
 7	hanyoːyin	hanyàː	NOUN	_	Definite=Cons|Number=Plur	6	comp:obj	_	Gloss=path.Plur.Cons
 8	saːdâr̃waː	saːd-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	7	mod	_	Gloss=linking_up.Vnoun.Fem
-9	tsàkaːnin	tsàkaːnin	ADP	_	_	8	mod	_	Gloss=between|SpaceAfter=No|wordform=tsàkaːninsù
-10	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	mod/m	_	Gloss=-3PlurGen|wordform=sù
-11	har̃	har̃	SCONJ	_	Definite=Cons|Gender=Fem	6	mod	_	Gloss=so_much_so_that
-12	anàː	nàː	AUX	_	Aspect=Prog|Person=4	11	comp:obj	_	Gloss=4.Prog
-13	sâː	sâː	VERB	_	ExtPos=VERB|Gender=Masc	12	comp:aux	_	Gloss=put|Idiom=Yes
-14	râi	râi	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=life.Masc|InIdiom=Yes
-15	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	20	mod	_	Gloss=ProxS
-16	dà	dà	CCONJ	_	_	17	cc	_	Gloss=and
-17	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	15	conj:coord	_	Gloss=year.Fem
-18	bìyar̃	bìyar̃	NUM	_	_	17	mod:num	_	Gloss=five|SpaceAfter=No
-19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-20	bugà	bug-	VERB	_	_	27	subj	_	Gloss=beat
-21	wayàr̃	wayàː	NOUN	_	Definite=Cons|Gender=Fem	20	comp:obj	_	Gloss=wire.Fem.Cons
-22	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	21	compound	_	Gloss=telephone.Masc
-23	tsàkaːnin	tsàkaːnin	ADP	_	_	20	comp:obl	_	Gloss=between
-24	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	23	comp:obj	_	Gloss=country.Plur.Cons
-25	kudancin	kudancin	ADP	_	_	24	mod	_	Gloss=south_of
-26	Afir̃kà	Afir̃kà	PROPN	_	_	25	comp:obj	_	Gloss=Africa
-27	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	13	comp:obj	_	Gloss=3Masc.Fut
-28	yi	yi	VERB	_	_	27	comp:aux	_	Gloss=do
-29	sauƙiː	sauƙiː	NOUN	_	Gender=Masc	28	comp:pred	_	Gloss=easiness.Masc|SpaceAfter=No
-30	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+9	tsàkaːninsù	tsàkaːnin	ADP	_	Poss=Yes	8	mod	_	CaseAf=Gen|Gloss=between-3PlurGen|MSeg=tsàkaːnin-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
+10	har̃	har̃	SCONJ	_	_	6	mod	_	Gloss=so_much_so_that
+11	anàː	nàː	AUX	_	Aspect=Prog|Person=4	10	comp:obj	_	Gloss=4.Prog
+12	sâː	sâː	VERB	_	ExtPos=VERB|Gender=Masc	11	comp:aux	_	Gloss=put|Idiom=Yes
+13	râi	râi	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=life.Masc|InIdiom=Yes
+14	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	19	mod	_	Gloss=ProxS
+15	dà	dà	CCONJ	_	_	16	cc	_	Gloss=and
+16	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	14	conj:coord	_	Gloss=year.Fem
+17	bìyar̃	bìyar̃	NUM	_	_	16	mod:num	_	Gloss=five|SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
+19	bugà	bug-	VERB	_	_	26	subj	_	Gloss=beat
+20	wayàr̃	wayàː	NOUN	_	Definite=Cons|Gender=Fem	19	comp:obj	_	Gloss=wire.Fem.Cons
+21	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	20	compound	_	Gloss=telephone.Masc
+22	tsàkaːnin	tsàkaːnin	ADP	_	_	19	comp:obl	_	Gloss=between
+23	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	22	comp:obj	_	Gloss=country.Plur.Cons
+24	kudancin	kudancin	ADP	_	_	23	mod	_	Gloss=south_of
+25	Afir̃kà	Afir̃kà	PROPN	_	_	24	comp:obj	_	Gloss=Africa
+26	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	12	comp:obj	_	Gloss=3Masc.Fut
+27	yi	yi	VERB	_	_	26	comp:aux	_	Gloss=do
+28	sauƙiː	sauƙiː	NOUN	_	Gender=Masc	27	comp:pred	_	Gloss=easiness.Masc|SpaceAfter=No
+29	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
