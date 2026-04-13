@@ -154,8 +154,8 @@
 17	sìyaːsàː	sìyaːsàː	NOUN	_	Gender=Fem	16	mod	_	Gloss=politics.Fem
 18	mài	mài	PART	_	Number=Sing|PartType=Pred	16	mod	_	Gloss=owner_of.Sing
 19	jàm'ìyyuː	jàm'iyyàː	NOUN	_	Number=Plur	18	comp.pred	_	Gloss=party.Plur
-20	dà	dà	ADP	_	ExtPos=ADJ	19	mod	_	Gloss=with|Idiom=Yes
-21	daːmaː	daːmaː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=opportunity.Fem|InIdiom=Yes
+20	dà	dà	ADP	_	_	19	mod	_	Gloss=with
+21	daːmaː	daːmaː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=opportunity.Fem
 22	à	à	ADP	_	_	15	comp:obl	_	Gloss=at
 23	ƙasâr̃	ƙasaː	ADV	_	Definite=Def|Gender=Fem	22	comp:obj	_	Gloss=country.Fem.Def|SpaceAfter=No
 24	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
@@ -327,8 +327,8 @@
 30	asìbitì	asìbitì	NOUN	_	Gender=Masc	29	mod	_	Gloss=hospital.Masc|wordform=asibiti
 31	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	21	comp:obj	_	Gloss=3Plur.Perf
 32	cêː	cêː	VERB	_	_	31	comp:aux	_	Gloss=say
-33	fìye	fi	VERB	_	ExtPos=ADP|VerbForm=Stat	38	subj	_	Gloss=exceed.Stat|Idiom=Yes
-34	dà	dà	ADP	_	_	33	comp:obl	_	Gloss=with|InIdiom=Yes
+33	fìye	fi	VERB	_	VerbForm=Stat	38	subj	_	Gloss=exceed.Stat
+34	dà	dà	ADP	_	_	33	comp:obl	_	Gloss=with
 35	mutàneː	mùtûm	NOUN	_	Number=Plur	34	comp:obj	_	Gloss=man.Plur
 36	goːmà	goːmà	NUM	_	_	35	mod:num	_	Gloss=ten
 37	neː	neː	PART	_	PartType=Foc	36	discourse@foc	_	Gloss=Emph
@@ -375,8 +375,8 @@
 33	tsaːrìː	tsaːrìː	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=system.Masc
 34	mài	mài	PART	_	Number=Sing|PartType=Pred	33	mod	_	Gloss=owner_of.Sing
 35	jàm'ìyyuː	jàm'iyyàː	NOUN	_	Number=Plur	34	comp.pred	_	Gloss=party.Plur
-36	dà	dà	ADP	_	ExtPos=ADJ	35	mod	_	Gloss=with|Idiom=Yes
-37	daːmaː	daːmaː	NOUN	_	Gender=Fem	36	comp:obj	_	Gloss=opportunity.Fem|InIdiom=Yes|SpaceAfter=No
+36	dà	dà	ADP	_	_	35	mod	_	Gloss=with
+37	daːmaː	daːmaː	NOUN	_	Gender=Fem	36	comp:obj	_	Gloss=opportunity.Fem|SpaceAfter=No
 38	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 15_Yajin_aiki_12

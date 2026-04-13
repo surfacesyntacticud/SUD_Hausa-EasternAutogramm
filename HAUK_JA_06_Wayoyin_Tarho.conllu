@@ -62,7 +62,7 @@
 16	à	yà	AUX	_	Mood=Sub|Person=4	15	comp:obj	_	Gloss=4.Sub
 17	bugà	bug-	VERB	_	_	16	comp:aux	_	Gloss=beat
 18	wayàː	wayàː	NOUN	_	Gender=Masc	17	comp:obj	_	Gloss=wire.Fem
-19	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc	17	comp:obl	_	Gloss=towards
+19	zuwàː	zuwàː	ADP	_	_	17	comp:obl	_	Gloss=towards
 20	ƙasàːshen	ƙasaː	ADJ	_	Definite=Cons|Number=Plur	19	comp:obj	_	Gloss=country.Plur.Cons
 21	Afìr̃kà	Afìr̃kà	PROPN	_	_	20	mod	_	Gloss=Africa|SpaceAfter=No
 22	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
@@ -120,7 +120,7 @@
 
 # sent_id = 06_Wayoyin_Tarho_6a
 # text_en = For example, these past the five years, if you wanted to make a phone call to Burkina from 'Vancouver' there in Canada, the thing would not be possible.
-# text = kàmar̃ shèːkaràː bìyar̃ dà sukà wucèː , ìdan kanàː sôn kà bugà wayàː zuwàː Bùr̃kiːnà Faːsò dàgà " Vancouver " , can cikin ƙasar̃ Kyanadà , àbîn bà zâi yìwu ba -
+# text = kàmar̃ shèːkaràː bìyar̃ dà sukà wucèː, ìdan kanàː sôn kà bugà wayàː zuwàː Bùr̃kiːnà Faːsò dàgà " Vancouver ", can cikin ƙasar̃ Kyanadà, àbîn bà zâi yìwu ba -
 # text_ortho = Kàmar̃ shèːkaràː bìyar̃ dà sukà wucèː, ìdan kanàː sôn kà bugà wayàː zuwàː Bùr̃kiːnà Faːsò dàgà 'Vancouver', can cikin ƙasar̃ Kyanadà, àbîn bà zâi yìwu ba -
 1	kàmar̃	kàmar̃	ADP	_	_	29	mod	_	Gloss=like
 2	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=year.Fem
@@ -135,7 +135,7 @@
 11	kà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=2	10	comp:obj	_	Gloss=2Masc.Sub
 12	bugà	bug-	VERB	_	_	11	comp:aux	_	Gloss=beat
 13	wayàː	wayàː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=wire.Fem
-14	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc	12	comp:obl	_	Gloss=towards
+14	zuwàː	zuwàː	ADP	_	_	12	comp:obl	_	Gloss=towards
 15	Bùr̃kiːnà	Bùr̃kiːnà	PROPN	_	_	14	conj:appos	_	Gloss=Bùr̃kiːnà
 16	Faːsò	Faːsò	PROPN	_	_	15	flat@name	_	Gloss=Faːsò
 17	dàgà	dàgà	ADP	_	_	12	comp:obl	_	Gloss=from

@@ -51,8 +51,8 @@
 27	sànàdiyyàr̃	sànàdiyyàː	NOUN	_	Definite=Cons|Gender=Fem	26	comp:obj	_	Gloss=result.Fem.Cons
 28	mutuwàr̃	mutuwàː	NOUN	_	Definite=Cons|Gender=Fem	27	mod	_	Gloss=death.Fem.Cons
 29	mutàːneː	mùtûm	NOUN	_	Number=Plur	28	mod	_	Gloss=people.Plur
-30	dà	dà	ADP	_	ExtPos=ADJ	29	mod	_	Gloss=with|Idiom=Yes
-31	daːmaː	daːmaː	NOUN	_	Gender=Fem	30	comp:obj	_	Gloss=opportunity.Fem|InIdiom=Yes|SpaceAfter=No
+30	dà	dà	ADP	_	_	29	mod	_	Gloss=with
+31	daːmaː	daːmaː	NOUN	_	Gender=Fem	30	comp:obj	_	Gloss=opportunity.Fem|SpaceAfter=No
 32	.	.	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 
 # sent_id = 18_Fadar_kabilanci_a_Bauchi_3
@@ -332,8 +332,8 @@
 15	wà	wà	ADP	_	Case=Dat	14	comp:obl	_	Gloss=Dat
 16	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	15	comp:obj	_	Gloss=Muslim.Plur
 17	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	conj:appos	_	Gloss=3Plur.Nom
-18	fìye	fi	VERB	_	ExtPos=ADP|VerbForm=Stat	17	mod	_	Gloss=exceed.Stat|Idiom=Yes
-19	dà	dà	ADP	_	_	18	comp:obl	_	Gloss=with|InIdiom=Yes
+18	fìye	fi	VERB	_	VerbForm=Stat	17	mod	_	Gloss=exceed.Stat
+19	dà	dà	ADP	_	_	18	comp:obl	_	Gloss=with
 20	ɗàriː	ɗàriː	NUM	_	Gender=Fem	19	comp:obj	_	Gloss=hundred
 21	dà	dà	CCONJ	_	_	20	cc	_	Gloss=and
 22	àshìr̃in	àshìr̃in	NUM	_	_	20	conj:coord	_	Gloss=twenty|SpaceAfter=No
@@ -351,8 +351,8 @@
 34	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	33	comp:obj	_	Gloss=3Plur.Perf
 35	ga	ganiː	VERB	_	_	34	comp:aux	_	Gloss=see
 36	gaːwàwwakiː	gaːwàː	NOUN	_	Number=Plur	35	comp:obj	_	Gloss=corpse.Plur
-37	dà	dà	ADP	_	ExtPos=ADJ	36	mod	_	Gloss=with|Idiom=Yes
-38	daːmaː	daːmaː	NOUN	_	Gender=Fem	37	comp:obj	_	Gloss=opportunity.Fem|InIdiom=Yes
+37	dà	dà	ADP	_	_	36	mod	_	Gloss=with
+38	daːmaː	daːmaː	NOUN	_	Gender=Fem	37	comp:obj	_	Gloss=opportunity.Fem
 39	à	à	ADP	_	_	36	mod	_	Gloss=at
 40	yàr̃yàːshe	yàryàːshe	ADV	_	_	39	comp:obj	_	Gloss=abandoned
 41	à	à	ADP	_	_	40	mod	_	Gloss=at
@@ -409,8 +409,8 @@
 3	tàr̃zòːmâr̃	tàr̃zòːmaː	NOUN	_	Definite=Def|Gender=Fem	2	mod	_	Gloss=riot.Fem.Def
 4	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
 5	Kir̃istoːciː	Kir̃istàː	NOUN	_	Number=Plur	11	subj	_	Gloss=Christian.Plur
-6	dà	dà	ADP	_	ExtPos=ADJ	5	cc@preconj	_	Gloss=with|Idiom=Yes
-7	daːmaː	daːmaː	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=opportunity.Fem|InIdiom=Yes
+6	dà	dà	ADP	_	_	5	cc@preconj	_	Gloss=with
+7	daːmaː	daːmaː	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=opportunity.Fem
 8	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=from
 9	kudancin	kudancin	ADP	_	_	8	comp:obj	_	Gloss=south_of
 10	ƙasâr	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	9	comp:obj	_	Gloss=country.Fem.Def

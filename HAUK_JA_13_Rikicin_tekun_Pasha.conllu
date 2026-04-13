@@ -66,7 +66,7 @@
 # sent_id = 13_Rikicin_tekun_Pasha_3
 # text_en = His Highness made this appeal after two demonstrations that took place in the north of the country, where many people were said to be supporting the President of Irak, i.e. 'Saddam Hussein'.
 # text_ortho = Mài Mar̃tabàː yaː yi wannàn kiràn neː baːyan zàngà-zangà gùdaː biyu dà akà yi à areːwacin ƙasâr̃, indà akà cêː mutàːneː dà daːmaː sunàː goːyon baːyan shùːgàban ƙasar̃ Ìr̃aːƙì, wàːtòː " Saddam Hussein" .
-# text = mài mar̃tabàː yaː yi wannàn kiràn neː baːyan zàngà-zangà gùdaː biyu dà akà yi à areːwacin ƙasâr̃, indà akà cêː mutàːneː dà daːmaː sunàː goːyon baːyan shùːgàban ƙasar̃ Ìr̃aːƙì, wàːtòː " Saddam Hussein" . wannàn kiràn neː baːyan zàngà-zangà gùdaː biyu dà akà yi à areːwacin ƙasâr̃, indà akà cêː mutàːneː dà daːmaː sunàː goːyon baːyan shùːgàban ƙasar̃ Ìr̃aːƙì, wàːtòː " Saddam Hussein" .
+# text = mài mar̃tabàː yaː yi wannàn kiràn neː baːyan zàngà-zangà gùdaː biyu dà akà yi à areːwacin ƙasâr̃, indà akà cêː mutàːneː dà daːmaː sunàː goːyon baːyan shùːgàban ƙasar̃ Ìr̃aːƙì, wàːtòː " Saddam Hussein" .
 1	mài	mài	PART	_	Number=Sing|PartType=Pred	3	subj	_	Gloss=owner_of.Sing
 2	mar̃tabàː	mar̃tabàː	NOUN	_	Gender=Fem	1	comp.pred	_	Gloss=highness.Fem
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
@@ -89,8 +89,8 @@
 20	akà	yaː	AUX	_	Aspect=Perf|Person=4	19	comp:obj	_	Gloss=4.Perf.Rel|Relative=Rel
 21	cêː	cêː	VERB	_	_	20	comp:aux	_	Gloss=say
 22	mutàːneː	mùtûm	NOUN	_	Number=Plur	25	subj	_	Gloss=people.Plur
-23	dà	dà	ADP	_	ExtPos=ADJ	22	mod	_	Gloss=with|Idiom=Yes
-24	daːmaː	daːmaː	NOUN	_	Gender=Fem	23	comp:obj	_	Gloss=chance.Fem|InIdiom=Yes
+23	dà	dà	ADP	_	_	22	mod	_	Gloss=with
+24	daːmaː	daːmaː	NOUN	_	Gender=Fem	23	comp:obj	_	Gloss=chance.Fem
 25	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	21	comp:obj	_	Gloss=3Plur.Prog|wordform=sunaː
 26	goːyon	goːy-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	25	comp:aux	_	Gloss=support.Vnoun.Masc.Cons
 27	baːyan	baːyaː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:obj	_	Gloss=back.Masc.Cons

@@ -126,7 +126,7 @@
 19	kòːgiː	kòːgiː	NOUN	_	Gender=Masc	18	mod	_	Gloss=river.Masc
 20	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	17	mod@relcl	_	Gloss=3Fem.Prog.Rel|Relative=Rel
 21	bîː	bi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	20	comp:aux	_	Gloss=follow.Vnoun.Masc
-22	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc	14	comp:obl	_	Gloss=towards
+22	zuwàː	zuwàː	ADP	_	_	14	comp:obl	_	Gloss=towards
 23	cikin	cikin	ADP	_	_	22	comp:obj	_	Gloss=inside
 24	kwarìː	kwarìː	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=valley.Masc
 25	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	13	parataxis@conj	_	Gloss=3Plur.Perf.Rel|Relative=Rel
@@ -559,7 +559,7 @@
 10	shidà	shidà	NUM	_	_	8	conj:coord	_	Gloss=six
 11	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
 12	mutàneː	mùtûm	NOUN	_	Number=Plur	20	subj	_	Gloss=man.Plur
-13	fìye	fi	VERB	_	ExtPos=ADV|VerbForm=Stat	12	mod	_	Gloss=exceed.Stat
+13	fìye	fi	VERB	_	VerbForm=Stat	12	mod	_	Gloss=exceed.Stat
 14	dà	dà	ADP	_	_	13	comp:obl	_	Gloss=with
 15	dubuː	dubuː	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=thousand.Fem
 16	dà	dà	CCONJ	_	_	17	cc	_	Gloss=and|wordform=ɗà
