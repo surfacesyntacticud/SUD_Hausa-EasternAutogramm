@@ -1,0 +1,600 @@
+# sent_id = 12_Bala'in_tafkin_Nyos_1
+# text_en = What caused the disaster of Lake 'Nyos'?
+# text_ortho = Mèː ya kaːwoː bàlaː'ìn Tafkìn "Nyos"?
+# text = mèː ya kaːwoː bàlaː'ìn Tafkìn "Nyos"?
+1	mèː	mèː	PRON	_	PronType=Int	0	root	_	Gloss=what
+2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	comp:cleft	_	Gloss=3Masc.Perf.Rel|Relative=Rel
+3	kaːwoː	kai	VERB	_	_	2	comp:aux	_	Gloss=carry/take_to
+4	bàlaː'ìn	bàlaː'ìː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=disaster.Masc.Cons
+5	Tafkìn	tafkìː	NOUN	_	Definite=Cons|Gender=Masc	7	mod@desc	_	Gloss=river.Masc.Cons
+6	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT|SpaceAfter=No
+7	Nyos	Nyos	PROPN	_	_	4	mod	_	Gloss=Nyos|SpaceAfter=No
+8	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT|SpaceAfter=No
+9	?	?	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+
+# sent_id = 12_Bala'in_tafkin_Nyos_2
+# text_en = In August nineteen eighty-six, a kind of poisonous gas, i.e. 'carbon dioxide', kept coming out of Lake Nyos in Cameroon and caused the death of about one thousand seven hundred people.
+# text_ortho = À watàn Àgustàː na shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà neː wata irìn iskàː mài gubàː, wàːtòː " carbon dioxide" , ta riƙà fìtaː dàgà Tafkìn Nyos ƙasar̃ Kàmàr̃u har̃ ta yi sànàdiyyàr̃ mutuwàr̃ mutàːneː kàmar̃ dubuː dà ɗàriː bakwài.
+# text = à watàn Àgustàː na shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà neː wata irìn iskàː mài gubàː, wàːtòː " carbon dioxide" , ta riƙà fìtaː dàgà Tafkìn Nyos ƙasar̃ Kàmàr̃u har̃ ta yi sànàdiyyàr̃ mutuwàr̃ mutàːneː kàmar̃ dubuː dà ɗàriː bakwài.
+1	à	à	ADP	_	_	27	mod	_	Gloss=at
+2	watàn	watàː	NOUN	_	Definite=Cons|Gender=Masc	3	mod@desc	_	Gloss=month.Masc.Cons
+3	Àgustàː	Àgustàː	PROPN	_	Gender=Masc	1	comp:obj	_	Gloss=august.Masc
+4	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	3	mod	_	Gloss=Gen.Masc
+5	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	6	mod@desc	_	Gloss=year.Fem.Cons
+6	alìf	alìf	NUM	_	_	4	comp:obj	_	Gloss=one_thousand
+7	dà	dà	CCONJ	_	_	8	cc	_	Gloss=and
+8	ɗàriː	ɗàriː	NUM	_	Gender=Fem	6	conj:coord	_	Gloss=hundred
+9	tar̃à	tar̃à	NUM	_	_	8	flat@num	_	Gloss=nine
+10	dà	dà	CCONJ	_	_	11	cc	_	Gloss=and
+11	tàmàːnin	tàmàːnin	NUM	_	_	8	conj:coord	_	Gloss=eighty
+12	dà	dà	CCONJ	_	_	13	cc	_	Gloss=and
+13	shidà	shidà	NUM	_	_	11	conj:coord	_	Gloss=six
+14	neː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
+15	wata	wani	DET	_	Definite=Spec|Gender=Fem	17	det	_	Gloss=some.Fem.Spec
+16	irìn	irìː	NOUN	_	_	17	mod@desc	_	Gloss=type_of
+17	iskàː	iskàː	NOUN	_	Gender=Fem	27	subj	_	Gloss=wind.Fem
+18	mài	mài	PART	_	Number=Sing|PartType=Der	17	mod	_	Gloss=owner/doer_of.Sing
+19	gubàː	gubàː	NOUN	_	Gender=Fem	18	compound	_	Gloss=poison.Fem|SpaceAfter=No
+20	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
+21	wàːtòː	wàːtòː	CCONJ	_	_	23	cc	_	Gloss=i.e.
+22	"	"	PUNCT	_	_	23	punct	_	Gloss=PUNCT
+23	carbon	carbon	X	_	Definite=Cons|Foreign=Yes|Gender=Masc	17	conj:dicto	_	Gloss=carbon|Lang=en
+24	dioxide	dioxide	X	_	Foreign=Yes|Gender=Masc	23	flat@foreign	_	Gloss=dioxide|Lang=en|SpaceAfter=No
+25	"	"	PUNCT	_	_	23	punct	_	Gloss=PUNCT
+26	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
+27	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf.Rel|Relative=Rel
+28	riƙà	riƙ-	VERB	_	_	27	comp:aux	_	Gloss=keep_doing
+29	fìtaː	fìtaː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	28	comp:obj	_	Gloss=go_out.Vnoun.Fem
+30	dàgà	dàgà	ADP	_	_	29	comp:obl	_	Gloss=from
+31	Tafkìn	tafkìː	NOUN	_	Definite=Cons|Gender=Masc	30	comp:obj	_	Gloss=river.Masc.Cons|wordform=Tar̃kin
+32	Nyos	Nyos	PROPN	_	_	31	mod	_	Gloss=Nyos
+33	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	34	mod@desc	_	Gloss=country.Fem.Cons
+34	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	31	mod	_	Gloss=Cameroon
+35	har̃	har̃	SCONJ	_	_	28	mod	_	Gloss=so_that
+36	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	35	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Rel
+37	yi	yi	VERB	_	_	36	comp:aux	_	Gloss=do
+38	sànàdiyyàr̃	sànàdiyyàː	NOUN	_	Definite=Cons|Gender=Fem	37	comp:pred	_	Gloss=cause.Fem.Cons
+39	mutuwàr̃	mutuwàː	NOUN	_	Definite=Cons|Gender=Fem	38	mod	_	Gloss=death.Fem.Cons|wordform=mutawar
+40	mutàːneː	mùtûm	NOUN	_	Number=Plur	39	mod	_	Gloss=people.Plur|wordform=mutâne
+41	kàmar̃	kàmar̃	ADP	_	_	40	mod	_	Gloss=like
+42	dubuː	dubuː	NOUN	_	Gender=Fem	41	comp:obj	_	Gloss=thousand.Fem
+43	dà	dà	CCONJ	_	_	44	cc	_	Gloss=and
+44	ɗàriː	ɗàriː	NUM	_	Gender=Fem	42	conj:coord	_	Gloss=hundred
+45	bakwài	bakwài	NUM	_	_	44	mod:num	_	Gloss=seven|SpaceAfter=No
+46	.	.	PUNCT	_	_	27	punct	_	Gloss=PUNCT
+
+# sent_id = 12_Bala'in_tafkin_Nyos_3
+# text_en = What happened is that, just like that, the lake released about sixth thousand tons of carbon dioxide, so that it sent two hundred thousand tons of water to cause a flood.
+# text_ortho = Àbîn dà ya fàːru shiː nèː hakà kawài tafkìn ya bur̃tsoː dà wajen tân dubuː shidà na iskàr̃ ta carbon dioxide , har̃ ya jaːwoː ruwaː tân dubuː mèːtan ya yi àmbaːliyàː.
+# text = àbîn dà ya fàːru shiː nèː hakà kawài tafkìn ya bur̃tsoː dà wajen tân dubuː shidà na iskàr̃ ta carbon dioxide , har̃ ya jaːwoː ruwaː tân dubuː mèːtan ya yi àmbaːliyàː.
+1	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	6	subj	_	Gloss=thing.Masc.Def|wordform=Abin
+2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
+3	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	2	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
+4	fàːru	faːr-	VERB	_	_	3	comp:aux	_	Gloss=begin
+5	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	comp:pred	_	Gloss=3Masc.Nom
+6	nèː	neː	AUX	_	PartType=Foc	0	root	_	Gloss=be
+7	hakà	hakà	ADV	_	_	10	mod	_	Gloss=thus
+8	kawài	kawài	ADV	_	_	10	mod	_	Gloss=merely
+9	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	10	subj	_	Gloss=lake.Masc.Cons|wordform=tar̃kin
+10	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	6	dislocated@comp	_	Gloss=3Masc.Perf.Rel|Relative=Rel
+11	bur̃tsoː	bur̃ts-	VERB	_	_	10	comp:aux	_	Gloss=blow
+12	dà	dà	ADP	_	_	11	comp:obl	_	Gloss=with
+13	wajen	wajen	ADP	_	_	12	comp:obj	_	Gloss=about
+14	tân	tân	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=ton
+15	dubuː	dubuː	NUM	_	_	14	mod:num	_	Gloss=thousand
+16	shidà	shidà	NUM	_	_	15	flat@num	_	Gloss=six
+17	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	14	mod	_	Gloss=Gen.Masc
+18	iskàr̃	iskàː	NOUN	_	Definite=Def|Gender=Fem	17	comp:obj	_	Gloss=gas.Fem.Def
+19	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	18	mod	_	Gloss=Gen.Fem
+20	carbon	carbon	X	_	Definite=Cons|Foreign=Yes|Gender=Masc	19	comp:obj	_	Gloss=carbon|Lang=en
+21	dioxide	dioxide	X	_	Foreign=Yes|Gender=Fem	20	flat@foreign	_	Gloss=dioxide|Lang=en
+22	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
+23	har̃	har̃	SCONJ	_	_	11	mod	_	Gloss=so_that
+24	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	23	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
+25	jaːwoː	jaː	VERB	_	_	24	comp:aux	_	Gloss=cause
+26	ruwaː	ruwaː	NOUN	_	Gender=Masc	30	comp:obj	_	Gloss=water.Masc
+27	tân	tân	NOUN	_	Definite=Cons|Gender=Masc	26	mod	_	Gloss=ton.Masc
+28	dubuː	dubuː	NUM	_	_	27	mod:num	_	Gloss=thousand
+29	mèːtan	mèːtan	NUM	_	_	28	mod:num	_	Gloss=two_hundred
+30	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	25	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
+31	yi	yi	VERB	_	_	30	comp:aux	_	Gloss=do
+32	àmbaːliyàː	àmbaːliyàː	NOUN	_	Gender=Fem	31	comp:pred	_	Gloss=flood.Fem|SpaceAfter=No
+33	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
+
+# sent_id = 12_Bala'in_tafkin_Nyos_4
+# text_en = Then the water turned into mist, mixed with gas, it was pushed to where the river ran into a valley, and entered villages and fields.
+# text_ortho = Sai ruwân ya zama kàmar̃ hazoː, hàɗe kuma dà iskàr̃, akà hankàɗaː su ta indà ruwan kòːgiː yakèː bîː zuwàː cikin kwarìː sukà shìga ƙauyukàː dà gòːnàkiː.
+# text = sai ruwân ya zama kàmar̃ hazoː, hàɗe kuma dà iskàr̃, akà hankàɗaː su ta indà ruwan kòːgiː yakèː bîː zuwàː cikin kwarìː sukà shìga ƙauyukàː dà gòːnàkiː.
+1	sai	sai	ADV	_	_	3	mod	_	Gloss=then
+2	ruwân	ruwaː	NOUN	_	Definite=Def|Gender=Masc	3	subj	_	Gloss=water.Masc.Def
+3	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf.Rel|Relative=Rel
+4	zama	zama	VERB	_	_	3	comp:aux	_	Gloss=become
+5	kàmar̃	kàmar̃	ADP	_	_	4	comp:pred	_	Gloss=like
+6	hazoː	hazoː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=mist.Masc|SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
+8	hàɗe	haɗ-	VERB	_	ExtPos=ADV|VerbForm=Stat	6	mod	_	Gloss=group.Stat
+9	kuma	kuma	PART	_	PartType=Top	8	discourse@top	_	Gloss=also
+10	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with
+11	iskàr̃	iskàː	NOUN	_	Definite=Def|Gender=Fem	10	comp:obj	_	Gloss=gas.Fem.Def|SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
+13	akà	yaː	AUX	_	Aspect=Perf|Person=4	3	parataxis@conj	_	Gloss=4.Perf.Rel|Relative=Rel
+14	hankàɗaː	hankaɗ-	VERB	_	_	13	comp:aux	_	Gloss=push
+15	su	su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	comp:obj	_	Gloss=3Plur.Acc
+16	ta	ta	ADP	_	_	14	comp:obl	_	Gloss=via
+17	indà	indà	ADV	_	PronType=Rel	16	comp:obj	_	Gloss=where
+18	ruwan	ruwaː	NOUN	_	Definite=Cons|Gender=Masc	20	subj	_	Gloss=water.Masc.Cons
+19	kòːgiː	kòːgiː	NOUN	_	Gender=Masc	18	mod	_	Gloss=river.Masc
+20	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	17	mod@relcl	_	Gloss=3Fem.Prog.Rel|Relative=Rel
+21	bîː	bi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	20	comp:aux	_	Gloss=follow.Vnoun.Masc
+22	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc	14	comp:obl	_	Gloss=towards
+23	cikin	cikin	ADP	_	_	22	comp:obj	_	Gloss=inside
+24	kwarìː	kwarìː	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=valley.Masc
+25	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	13	parataxis@conj	_	Gloss=3Plur.Perf.Rel|Relative=Rel
+26	shìga	shig-	VERB	_	_	25	comp:aux	_	Gloss=enter
+27	ƙauyukàː	ƙauyèː	NOUN	_	Number=Plur	26	comp:obj@G	_	Gloss=village.Plur
+28	dà	dà	CCONJ	_	_	29	cc	_	Gloss=and
+29	gòːnàkiː	goːnaː	NOUN	_	Number=Plur	27	conj:coord	_	Gloss=field.Plur|SpaceAfter=No
+30	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
+
+# sent_id = 12_Bala'in_tafkin_Nyos_5
+# text_en = In a village close to the river, all the people inside it died, except for five persons.
+# text_ortho = À wani ƙauyèː dà kèː kusa dà tafkìn kuma, sai duk mutàːnen cikinsà sukà mutù, in bandà mùtûm bìyar̃ kawài.
+# text = à wani ƙauyèː dà kèː kusa dà tafkìn kuma, sai duk mutàːnen cikinsà sukà mutù, in bandà mùtûm bìyar̃ kawài.
+1	à	à	ADP	_	_	16	mod	_	Gloss=at|wordform=A
+2	wani	wani	DET	_	Definite=Spec|Gender=Masc	3	det	_	Gloss=some.Masc.Spec
+3	ƙauyèː	ƙauyèː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=village.Masc
+4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
+5	kèː	nàː	AUX	_	Aspect=Prog|Person=2	4	comp:obj	_	Gloss=Prog.Rel|Relative=Rel
+6	kusa	kusa	ADV	_	_	5	comp:pred	_	Gloss=close
+7	dà	dà	ADP	_	_	6	mod	_	Gloss=with
+8	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	7	comp:obj	_	Gloss=river.Masc.Def
+9	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also|SpaceAfter=No
+10	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+11	sai	sai	ADV	_	_	16	mod	_	Gloss=then
+12	duk	dukà	DET	_	_	13	det	_	Gloss=all
+13	mutàːnen	mùtûm	NOUN	_	Definite=Cons|Number=Plur	16	subj	_	Gloss=people.Plur.Cons
+14	cikin	cikin	ADP	_	_	13	mod	_	Gloss=inside|SpaceAfter=No
+15	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	14	mod/m	_	Gloss=-3MascGen|wordform=sà
+16	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf.Rel|Relative=Rel
+17	mutù	mutù	VERB	_	_	16	comp:aux	_	Gloss=die|SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
+19	in	in	SCONJ	_	_	17	mod	_	Gloss=if
+20	bandà	bandà	ADP	_	_	19	comp:obj	_	Gloss=apart_from
+21	mùtûm	mùtûm	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=man.Masc
+22	bìyar̃	bìyar̃	NUM	_	_	21	mod:num	_	Gloss=five|wordform=biyar
+23	kawài	kawài	ADV	_	_	21	mod	_	Gloss=merely|SpaceAfter=No
+24	.	.	PUNCT	_	_	16	punct	_	Gloss=PUNCT
+
+# sent_id = 12_Bala'in_tafkin_Nyos_6
+# text_en = Thousands of cows and other animals died too.
+# text_ortho = Dùbban shaːnuː dà sauran dabboːbiː suː maː sun mutù .
+# text = dùbban shaːnuː dà sauran dabboːbiː suː maː sun mutù .
+1	dùbban	dubuː	NOUN	_	Definite=Cons|Number=Plur	8	subj	_	Gloss=thousand.Plur.Cons
+2	shaːnuː	sâː	NOUN	_	Number=Plur	1	mod	_	Gloss=cow.Plur
+3	dà	dà	CCONJ	_	_	4	cc	_	Gloss=and
+4	sauran	sauraː	NOUN	_	Definite=Cons|Gender=Masc	2	conj:coord	_	Gloss=rest.Masc.Cons
+5	dabboːbiː	dabbàː	NOUN	_	Number=Plur	4	mod	_	Gloss=animal.Plur
+6	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	conj:appos	_	Gloss=3Plur.Nom
+7	maː	maː	PART	_	PartType=Top	6	discourse@top	_	Gloss=even
+8	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
+9	mutù	mutù	VERB	_	_	8	comp:aux	_	Gloss=die
+10	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
+
+# sent_id = 12_Bala'in_tafkin_Nyos_7
+# text_en = The investigating chemists did not explain how the bodies of those who escaped were burnt, but their faces and torsoes were all covered in blisters.
+# text_ortho = Manàzàr̃taː kìːmiyyàː dai bàsù baː dà bàyaːnìn yaddà jikunkunàn waɗàndà sukà tsiːrân sukà sassaːɓùːleː ba, àmmaː gàː fuskoːkinsù dà ƙiràːjansù nan duk à sàːle.
+# text = manàzàr̃taː kìːmiyyàː dai bàsù baː dà bàyaːnìn yaddà jikunkunàn waɗàndà sukà tsiːrân sukà sassaːɓùːleː ba, àmmaː gàː fuskoːkinsù dà ƙiràːjansù nan duk à sàːle.
+1	manàzàr̃taː	manàzàr̃ciː	NOUN	_	Number=Plur	4	subj	_	Gloss=researcher.Plur
+2	kìːmiyyàː	kìːmiyyàː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=science.Fem
+3	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
+4	bàsù	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Polarity=Neg	0	root	_	Gloss=3Plur.Perf.Neg
+5	baː	baː	VERB	_	_	4	comp:aux	_	Gloss=give
+6	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=with
+7	bàyaːnìn	bàyaːnìː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	Gloss=explanation.Masc.Cons
+8	yaddà	yaddà	ADV	_	PronType=Rel	7	comp:obj	_	Gloss=how
+9	jikunkunàn	jìkiː	NOUN	_	Definite=Cons|Number=Plur	13	subj	_	Gloss=body.Plur.Cons
+10	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	9	mod@relcl	_	Gloss=REL.Plur
+11	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	10	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Rel
+12	tsiːrân	tsiːr-	VERB	_	Definite=Def	11	comp:aux	_	Gloss=escape.PrefRef
+13	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	8	mod@relcl	_	Gloss=3Plur.Perf.Rel|Relative=Rel
+14	sassaːɓùːleː	sassaːɓuːl-	VERB	_	_	13	comp:aux	_	Gloss=blister
+15	ba	ba	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	Gloss=Neg|SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
+17	àmmaː	àmmaː	CCONJ	_	_	18	cc	_	Gloss=but
+18	gàː	gàː	PART	_	PartType=Pred	4	conj:coord	_	Gloss=here_is
+19	fuskoːkin	fuskàː	NOUN	_	Definite=Cons|Number=Plur	18	subj	_	Gloss=face.Plur.Cons|SpaceAfter=No|wordform=fuskoːkinsù
+20	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	mod/m	_	Gloss=-3PlurGen|wordform=sù
+21	dà	dà	CCONJ	_	_	22	cc	_	Gloss=and|wordform=da
+22	ƙiràːjan	ƙìrjiː	NOUN	_	Definite=Cons|Number=Plur	19	conj:coord	_	Gloss=chest.Plur.Cons|SpaceAfter=No|wordform=ƙiràːjansù
+23	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	22	mod/m	_	Gloss=-3PlurGen|wordform=sù
+24	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	18	comp:pred	_	Gloss=ProxH
+25	duk	dukà	ADV	_	PronType=Tot	26	mod	_	Gloss=all
+26	à	à	ADP	_	_	18	comp:pred	_	Gloss=at
+27	sàːle	saːl-	VERB	_	ExtPos=ADV|VerbForm=Stat	26	comp:obj	_	Gloss=blister.Stat|SpaceAfter=No
+28	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+
+# sent_id = 12_Bala'in_tafkin_Nyos_8
+# text_en = Well, this made people doubt about what their research discovered, i.e. the gas that caused the explosion was just carbon dioxide.
+# text_ortho = Tòː wannàn yaː sâː anàː dà 'yar̃ shakkàː à kân àbîn dà bìncìkên naːsù ya gaːnoː, cêːwar̃ iskàr̃ dà ta yiwoː bùr̃tsîn wai carbon dioxide ceː kawài.
+# text = tòː wannàn yaː sâː anàː dà 'yar̃ shakkàː à kân àbîn dà bìncìkên naːsù ya gaːnoː, cêːwar̃ iskàr̃ dà ta yiwoː bùr̃tsîn wai carbon dioxide ceː kawài.
+1	tòː	tòː	INTJ	_	_	3	discourse	_	Gloss=well
+2	wannàn	wannàn	PRON	_	Deixis=ProxS|Number=Sing|PronType=Dem	3	subj	_	Gloss=ProxS.Sing
+3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
+4	sâː	sâː	VERB	_	_	3	comp:aux	_	Gloss=cause
+5	anàː	nàː	AUX	_	Aspect=Prog|Person=4	4	comp:obj	_	Gloss=4.Prog
+6	dà	dà	ADP	_	_	5	comp:pred	_	Gloss=with
+7	'yar̃	ɗan	ADJ	_	Definite=Cons|Gender=Fem	8	mod	_	Gloss=small.Fem.Cons|wordform=yar
+8	shakkàː	shakkàː	NOUN	_	Gender=Fem	6	comp:obj	_	Gloss=doubt.Fem
+9	à	à	ADP	_	_	8	mod	_	Gloss=at
+10	kân	kân	ADP	_	_	9	comp:obj	_	Gloss=top
+11	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	Gloss=thing.Masc.Def
+12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
+13	bìncìkên	bìncìkeː	NOUN	_	Definite=Def|Gender=Masc	16	subj	_	Gloss=investigation.Masc.Def
+14-15	naːsù	_	_	_	_	_	_	_	_
+14	naː	na	PART	_	Case=Gen|Gender=Masc	13	mod@poss	_	Gloss=Gen.Masc
+15	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	mod/m	_	Gloss=-3PlurGen|wordform=sù
+16	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	12	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
+17	gaːnoː	gaːn-	VERB	_	_	16	comp:aux	_	Gloss=discover|SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
+19	cêːwar̃	cêːwaː	SCONJ	_	_	17	comp:obj	_	Gloss=COMP
+20	iskàr̃	iskàː	NOUN	_	Definite=Def|Gender=Fem	28	subj	_	Gloss=gas.Fem.Def
+21	dà	dà	SCONJ	_	_	20	mod@relcl	_	Gloss=COMP
+22	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	21	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Rel
+23	yiwoː	yi	VERB	_	_	22	comp:aux	_	Gloss=do
+24	bùr̃tsîn	bùr̃tsiː	NOUN	_	Definite=Def|Gender=Masc	23	comp:obj	_	Gloss=expulsion.Masc.Def
+25	wai	wai	PART	_	Evident=Nfh|PartType=Assert	28	discourse	_	Gloss=alledgedly
+26	carbon	carbon	X	_	Definite=Cons|Foreign=Yes|Gender=Masc	28	comp:pred	_	Gloss=carbon|Lang=en
+27	dioxide	dioxide	X	_	Foreign=Yes	26	flat@foreign	_	Gloss=dioxide|Lang=en
+28	ceː	neː	AUX	_	Gender=Fem	19	comp:obj	_	Gloss=be.Fem
+29	kawài	kawài	ADV	_	_	28	mod	_	Gloss=merely|SpaceAfter=No
+30	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
+
+# sent_id = 12_Bala'in_tafkin_Nyos_9
+# text_en = One of the chemistry experts was surprised when he discovered that this type of poisonous gas leakage had happened in nineteen eighty four.
+# text_ortho = Ɗaya dàgà cikin masànaː kìːmiyyàn yaː yi màːmaːkìː dà ya gaːnoː cêːwaː an yi irìn wannàn aman gâs mài gubàː à wani tafkìn à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà huɗu.
+# text = ɗaya dàgà cikin masànaː kìːmiyyàn yaː yi màːmaːkìː dà ya gaːnoː cêːwaː an yi irìn wannàn aman gâs mài gubàː à wani tafkìn à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà huɗu.
+1	ɗaya	ɗaya	NUM	_	_	6	subj	_	Gloss=one
+2	dàgà	dàgà	ADP	_	_	1	mod	_	Gloss=from
+3	cikin	cikin	ADP	_	_	2	comp:obj	_	Gloss=inside
+4	masànaː	masàniː	NOUN	_	Number=Plur	3	comp:obj	_	Gloss=expert.Plur
+5	kìːmiyyàn	kìːmiyyàː	NOUN	_	Definite=Def|Gender=Fem	4	comp:obj	_	Gloss=science
+6	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
+7	yi	yi	VERB	_	_	6	comp:aux	_	Gloss=do
+8	màːmaːkìː	màːmaːkìː	NOUN	_	Gender=Masc	7	comp:pred	_	Gloss=surprise.Masc
+9	dà	dà	SCONJ	_	_	6	mod	_	Gloss=COMP
+10	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	9	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
+11	gaːnoː	gaːn-	VERB	_	_	10	comp:aux	_	Gloss=discover
+12	cêːwaː	cêwaː	SCONJ	_	_	11	comp:obj	_	Gloss=COMP|wordform=cêwaː
+13	an	yaː	AUX	_	Aspect=Perf|Person=4	12	comp:obj	_	Gloss=4.Perf
+14	yi	yi	VERB	_	_	13	comp:aux	_	Gloss=do
+15	irìn	irìː	NOUN	_	_	17	mod@desc	_	Gloss=type_of
+16	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	17	det	_	Gloss=ProxS.Sing
+17	aman	amai	ADJ	_	Definite=Cons|Gender=Masc	14	comp:obj	_	Gloss=explosion.Masc.Cons
+18	gâs	gâs	NOUN	_	Gender=Masc	17	mod	_	Gloss=gas.Masc
+19	mài	mài	PART	_	Number=Sing|PartType=Der	18	mod	_	Gloss=owner/doer_of.Sing
+20	gubàː	gubàː	NOUN	_	Gender=Fem	19	compound	_	Gloss=poison.Fem
+21	à	à	ADP	_	_	14	mod	_	Gloss=at
+22	wani	wani	DET	_	Definite=Spec|Gender=Masc	23	det	_	Gloss=some.Masc.Spec
+23	tafkìn	tafkìː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:obj	_	Gloss=lake.Masc.Cons
+24	à	à	ADP	_	_	14	mod	_	Gloss=at
+25	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	26	mod@desc	_	Gloss=year.Fem.Cons
+26	alìf	alìf	NUM	_	_	24	comp:obj	_	Gloss=one_thousand
+27	dà	dà	CCONJ	_	_	28	cc	_	Gloss=and|wordform=da
+28	ɗàriː	ɗàriː	NUM	_	_	26	conj:coord	_	Gloss=hundred
+29	tar̃à	tar̃à	NUM	_	_	28	flat@num	_	Gloss=nine
+30	dà	dà	CCONJ	_	_	31	cc	_	Gloss=and|wordform=da
+31	tàmàːnin	tàmàːnin	NUM	_	_	28	conj:coord	_	Gloss=eighty
+32	dà	dà	CCONJ	_	_	33	cc	_	Gloss=and
+33	huɗu	huɗu	NUM	_	_	31	conj:coord	_	Gloss=four|SpaceAfter=No
+34	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
+
+# sent_id = 12_Bala'in_tafkin_Nyos_10a
+# text_en = At that time, thirty-seven people died.
+# text_ortho = À wànnan loːkàciː mutàːneː tàlàːtin dà bakwài neː sukà mutù .
+# text = à wànnan loːkàciː mutàːneː tàlàːtin dà bakwài neː sukà mutù .
+1	à	à	ADP	_	_	9	mod	_	Gloss=at|wordform=A
+2	wànnan	wànnan	DET	_	Deixis=ProxH|Gender=Masc|PronType=Dem	3	det	_	Gloss=ProxH.Masc
+3	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=time.Masc
+4	mutàːneː	mùtûm	NOUN	_	Number=Plur	9	subj	_	Gloss=people.Plur
+5	tàlàːtin	tàlàːtin	NUM	_	_	4	mod:num	_	Gloss=thirty
+6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=and
+7	bakwài	bakwài	NUM	_	_	5	conj:coord	_	Gloss=seven
+8	neː	neː	PART	_	PartType=Foc	4	discourse@foc	_	Gloss=Emph
+9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf.Rel|Relative=Rel
+10	mutù	mutù	VERB	_	_	9	comp:aux	_	Gloss=die
+11	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
+
+# sent_id = 12_Bala'in_tafkin_Nyos_10b
+# text_en = He discovered too that there existed up to sixty lakes like this in an area between Cameroon and Nigeria, where, because of the nature of stones there, this type gas leaking could happen at any time.
+# text_ortho = Hakà nan kuma yaː gaːnoː cêːwaː àkwai irìn waɗànnân tafkunàː har̃ sìttin à wannàn yankìː à cikin Kàmàr̃u dà Nàːjeːr̃iyàː, indà sabòːdà yanàyin duwàːtsun wurîn anàː iyà saːmùn irìn wannàn aman gâs à koːwànè loːkàciː .
+# text = hakà nan kuma yaː gaːnoː cêːwaː àkwai irìn waɗànnân tafkunàː har̃ sìttin à wannàn yankìː à cikin Kàmàr̃u dà Nàːjeːr̃iyàː, indà sabòːdà yanàyin duwàːtsun wurîn anàː iyà saːmùn irìn wannàn aman gâs à koːwànè loːkàciː .
+1	hakà	hakà	ADV	_	_	4	mod	_	Gloss=thus
+2	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	1	det	_	Gloss=ProxH
+3	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
+4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
+5	gaːnoː	gaːn-	VERB	_	_	4	comp:aux	_	Gloss=see
+6	cêːwaː	cêːwaː	SCONJ	_	_	5	comp:obj	_	Gloss=COMP
+7	àkwai	àkwai	PART	_	PartType=Pred	6	comp:obj	_	Gloss=there_is
+8	irìn	irìː	NOUN	_	_	10	mod@desc	_	Gloss=type_of
+9	waɗànnân	wannàn	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	10	det	_	Gloss=ProxS.Plur
+10	tafkunàː	tafkìː	NOUN	_	Number=Plur	7	subj	_	Gloss=lake.Plur
+11	har̃	har̃	ADP	_	_	10	mod	_	Gloss=up_to
+12	sìttin	sìttin	NUM	_	_	11	comp:obj	_	Gloss=sixty
+13	à	à	ADP	_	_	7	comp:pred	_	Gloss=at
+14	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	15	det	_	Gloss=ProxS.Masc
+15	yankìː	yankìː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=area.Masc
+16	à	à	ADP	_	_	15	mod	_	Gloss=at
+17	cikin	cikin	ADP	_	_	16	comp:obj	_	Gloss=inside
+18	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	17	comp:obj	_	Gloss=Cameroon
+19	dà	dà	CCONJ	_	_	20	cc	_	Gloss=and
+20	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	18	conj:coord	_	Gloss=Nigeria|SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
+22	indà	indà	SCONJ	_	PronType=Rel	20	mod@relcl	_	Gloss=where
+23	sabòːdà	sabòːdà	ADP	_	_	27	mod	_	Gloss=because_of
+24	yanàyin	yanàyiː	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=nature.Masc.Cons
+25	duwàːtsun	duːtsèː	NOUN	_	Definite=Cons|Number=Plur	24	mod	_	Gloss=stone.Plur.Cons
+26	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	25	mod	_	Gloss=place.Masc.Def
+27	anàː	nàː	AUX	_	Aspect=Prog|Person=4	22	comp:obj	_	Gloss=4.Prog
+28	iyà	iy-	VERB	_	_	27	comp:aux	_	Gloss=be_able_to
+29	saːmùn	saːmùː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	28	comp:obj	_	Gloss=get.Vnoun.Masc.Cons
+30	irìn	irìː	NOUN	_	_	32	mod@desc	_	Gloss=type_of
+31	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	32	det	_	Gloss=ProxS.Masc
+32	aman	amai	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=explosion.Masc.Cons
+33	gâs	gâs	NOUN	_	Definite=Cons|Gender=Masc	32	mod	_	Gloss=gas.Masc
+34	à	à	ADP	_	_	29	mod	_	Gloss=at
+35	koːwànè	koːwànè	DET	_	Gender=Masc	36	det	_	Gloss=each.Masc
+36	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	34	comp:obj	_	Gloss=time.Masc
+37	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+
+# sent_id = 12_Bala'in_tafkin_Nyos_11
+# text_en = The way to remove the gas is to pump the water that has carbon dioxide out of the lake and remove it altogether.
+# text_ortho = Yaddà zaː'à iyà cirèː gâs ɗîn shiː nèː à yi famfòn ruwân dà kèː dà carbon dioxide dàgà cikin tafkìn, à fid dà shiː gàbaː ɗayansà .
+# text = yaddà zaː'à iyà cirèː gâs ɗîn shiː nèː à yi famfòn ruwân dà kèː dà carbon dioxide dàgà cikin tafkìn, à fid dà shiː gàbaː ɗayansà .
+1	yaddà	yaddà	ADV	_	PronType=Rel	8	subj	_	Gloss=how
+2	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	1	comp:obj	_	Gloss=4.Fut
+3	iyà	iy-	VERB	_	_	2	comp:aux	_	Gloss=be_able_to
+4	cirèː	cir-	VERB	_	_	3	comp:obj	_	Gloss=pull
+5	gâs	gâs	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	Gloss=gas.Masc
+6	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	5	det	_	Gloss=Def
+7	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	comp:pred	_	Gloss=3Masc.Nom
+8	nèː	neː	AUX	_	PartType=Foc	0	root	_	Gloss=be
+9	à	yà	AUX	_	Mood=Sub|Person=4	8	dislocated@comp	_	Gloss=4.Sub
+10	yi	yi	VERB	_	_	9	comp:aux	_	Gloss=do
+11	famfòn	famfòː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:pred	_	Gloss=pumping.Masc.Cons
+12	ruwân	ruwaː	NOUN	_	Definite=Def|Gender=Masc	11	comp:obj	_	Gloss=water.Masc.Def
+13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
+14	kèː	nàː	AUX	_	Aspect=Prog	13	comp:obj	_	Gloss=Prog.Rel|Relative=Rel
+15	dà	dà	ADP	_	_	14	comp:pred	_	Gloss=with
+16	carbon	carbon	X	_	Definite=Cons|Foreign=Yes|Gender=Masc	15	comp:obj	_	Gloss=carbon|Lang=en
+17	dioxide	dioxide	X	_	Foreign=Yes	16	flat@foreign	_	Gloss=dioxide|Lang=en
+18	dàgà	dàgà	ADP	_	_	11	comp:obl	_	Gloss=from
+19	cikin	cikin	ADP	_	_	18	comp:obj	_	Gloss=inside
+20	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	19	comp:obj	_	Gloss=pump.Masc.Def|SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
+22	à	yà	AUX	_	Mood=Sub|Person=4	9	parataxis@conj	_	Gloss=4.Sub
+23	fid	fit-	VERB	_	Voice=Cau	22	comp:aux	_	Gloss=go_out.Cau
+24	dà	dà	ADP	_	_	23	comp:obl	_	Gloss=with
+25	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	24	comp:obj	_	Gloss=3Masc.Nom
+26	gàbaː	gàbaː	NOUN	_	Gender=Masc	23	mod	_	Gloss=front.Masc
+27	ɗayan	ɗaya	NUM	_	Definite=Cons	26	mod:num	_	Gloss=one.Cons|SpaceAfter=No|wordform=ɗayansà
+28	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	27	mod/m	_	Gloss=-3MascGen|wordform=sà
+29	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
+
+# sent_id = 12_Bala'in_tafkin_Nyos_12
+# text_en = But it is feared that maybe there will be more gas coming out of the lake as soon as its water diminishes.
+# text_ortho = Sai dai kuma anàː tsòːron ƙiːlà gâs ɗîn yà ƙaːrà ɓulɓulôːwaː cikin tafkìn dà zaːrar̃ an ragè ruwansà .
+# text = sai dai kuma anàː tsòːron ƙiːlà gâs ɗîn yà ƙaːrà ɓulɓulôːwaː cikin tafkìn dà zaːrar̃ an ragè ruwansà .
+1	sai	sai	ADV	_	_	4	mod	_	Gloss=then
+2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
+3	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
+4	anàː	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=4.Prog|wordform=and
+5	tsòːron	tsòːroː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:aux	_	Gloss=fear.Masc.Cons
+6	ƙiːlà	ƙiːlà	ADV	_	_	9	mod	_	Gloss=maybe
+7	gâs	gâs	NOUN	_	Definite=Cons|Gender=Masc	9	subj	_	Gloss=gas.Masc
+8	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	7	det	_	Gloss=Def
+9	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	5	comp:obj	_	Gloss=3Masc.Sub
+10	ƙaːrà	ƙaːr-	VERB	_	_	9	comp:aux	_	Gloss=increase
+11	ɓulɓulôːwaː	ɓulɓul-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	10	comp:obj	_	Gloss=gush.Vnoun.Fem
+12	cikin	cikin	ADP	_	_	10	comp:obl	_	Gloss=inside
+13	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	12	comp:obj	_	Gloss=lake.Masc.Cons
+14	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=COMP
+15	zaːrar̃	zaːrar̃	SCONJ	_	Definite=Cons|Gender=Fem	14	comp:obj	_	Gloss=slightly_more|wordform=zarar
+16	an	yaː	AUX	_	Aspect=Perf|Person=4	15	comp:obj	_	Gloss=4.Perf
+17	ragè	rag-	VERB	_	_	16	comp:aux	_	Gloss=reduce
+18	ruwan	ruwansà	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	Gloss=water.Masc.Cons|SpaceAfter=No
+19	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	18	mod/m	_	Gloss=-3MascGen|wordform=sà
+20	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+
+# sent_id = 12_Bala'in_tafkin_Nyos_13a
+# text_en = Reducing the weight of the water, which the researchers think will stop the gas leak, may cause another serious danger.
+# text_ortho = Ragè nauyin ruwân, wandà manàzàr̃tân sukèː ganin zâi tsai dà aman gâs ɗîn, mài yìwuwaː nèː kuma zâi jaːwoː wani mùmmuːnan haɗàr̃iː .
+# text = ragè nauyin ruwân, wandà manàzàr̃tân sukèː ganin zâi tsai dà aman gâs ɗîn, mài yìwuwaː nèː kuma zâi jaːwoː wani mùmmuːnan haɗàr̃iː .
+1	ragè	Ragè	VERB	_	_	20	subj	_	Gloss=Ragè
+2	nauyin	nauyiː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	Gloss=weight.Masc.Cons
+3	ruwân	ruwaː	NOUN	_	Definite=Def|Gender=Masc	2	mod	_	Gloss=water.Masc.Def|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+5	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	1	mod@relcl	_	Gloss=REL.Masc
+6	manàzàr̃tân	manàzàr̃ciː	NOUN	_	Definite=Def|Number=Plur	7	subj	_	Gloss=investigator.Plur.Def
+7	sukèː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	5	comp:obj	_	Gloss=3Plur.Prog.Rel|Relative=Rel
+8	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:aux	_	Gloss=see.Vnoun.Masc.Cons
+9	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	8	comp:obj	_	Gloss=3Masc.Fut
+10	tsai	tsay-	VERB	_	Voice=Cau	9	comp:aux	_	Gloss=stand/stay.Cau
+11	dà	dà	ADP	_	_	10	comp:obl	_	Gloss=with
+12	aman	amai	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	Gloss=explosion.Masc.Cons
+13	gâs	gâs	NOUN	_	Definite=Cons|Gender=Masc	12	mod	_	Gloss=gas.Masc
+14	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	13	det	_	Gloss=Def|SpaceAfter=No
+15	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
+16	mài	mài	PART	_	Number=Sing|PartType=Der	20	mod	_	Gloss=owner/doer_of.Sing
+17	yìwuwaː	yi	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	16	compound	_	Gloss=do.Vnoun.Fem
+18	nèː	neː	PART	_	PartType=Foc	16	discourse@foc	_	Gloss=Emph
+19	kuma	kuma	PART	_	PartType=Top	16	discourse@top	_	Gloss=also
+20	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	0	root	_	Gloss=3Masc.Fut
+21	jaːwoː	jaː	VERB	_	_	20	comp:aux	_	Gloss=cause
+22	wani	wani	DET	_	Definite=Spec|Gender=Masc	24	det	_	Gloss=some.Masc.Spec
+23	mùmmuːnan	mùmmuːnaː	ADJ	_	Definite=Cons|Gender=Masc	24	mod	_	Gloss=evil.Masc.Cons
+24	haɗàr̃iː	haɗàr̃iː	NOUN	_	Gender=Masc	21	comp:obj	_	Gloss=accident.Masc
+25	.	.	PUNCT	_	_	20	punct	_	Gloss=PUNCT
+
+# sent_id = 12_Bala'in_tafkin_Nyos_13b
+# text_en = Because of this, the experts in chemistry recommended that the quantity of water removed from the lake should not exceed the quantity of rain that enters it.
+# text_ortho = Don hakà masànaː kìːmiyyàː sukà kaːwoː shaːwar̃àr̃ cêːwaː bài kàmaːtà yawàn ruwân dà zaː'à kwaːshèː dàgà tafkìn yà wucè yawàn ruwan samàn dà kèː shìgaː cikinsà ba.
+# text = don hakà masànaː kìːmiyyàː sukà kaːwoː shaːwar̃àr̃ cêːwaː bài kàmaːtà yawàn ruwân dà zaː'à kwaːshèː dàgà tafkìn yà wucè yawàn ruwan samàn dà kèː shìgaː cikinsà ba.
+1	don	don	SCONJ	_	_	5	discourse	_	Gloss=because
+2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=thus
+3	masànaː	masàniː	VERB	_	ExtPos=NOUN|Number=Plur|VerbForm=Vnoun	5	subj	_	Gloss=expert.Plur
+4	kìːmiyyàː	kìːmiyyàː	NOUN	_	Gender=Fem	3	comp:obj	_	Gloss=science.Fem
+5	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf.Rel|Relative=Rel
+6	kaːwoː	kai	VERB	_	_	5	comp:aux	_	Gloss=carry/take_to|wordform=kaːn
+7	shaːwar̃àr̃	shaːwar̃àː	NOUN	_	Definite=Cons|Gender=Fem	6	comp:obj	_	Gloss=advice.Fem.Cons
+8	cêːwaː	cêːwaː	SCONJ	_	_	7	mod	_	Gloss=COMP|wordform=cêwaː
+9	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	8	comp:obj	_	Gloss=3Masc.Perf.Neg
+10	kàmaːtà	kamaːt-	VERB	_	_	9	comp:aux	_	Gloss=be_appropriate
+11	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	18	subj	_	Gloss=quantity.Masc.Cons
+12	ruwân	ruwaː	NOUN	_	Definite=Def|Gender=Masc	11	mod	_	Gloss=water.Masc.Def
+13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
+14	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	13	comp:obj	_	Gloss=4.Fut
+15	kwaːshèː	kwaːs-	VERB	_	_	14	comp:aux	_	Gloss=remove
+16	dàgà	dàgà	ADP	_	_	15	comp:obl	_	Gloss=from
+17	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	16	comp:obj	_	Gloss=lake.Masc.Def|wordform=tar̃kin
+18	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	10	comp:obj@agent	_	Gloss=3Masc.Sub
+19	wucè	wut-	VERB	_	_	18	comp:aux	_	Gloss=pass
+20	yawàn	yawàː	ADJ	_	Definite=Cons|Gender=Masc	19	comp:obj	_	Gloss=quantity.Masc.Cons
+21	ruwan	ruwaː	NOUN	_	Definite=Cons|Gender=Masc	20	mod	_	Gloss=water.Masc.Cons
+22	samàn	samà	ADV	_	Definite=Def	21	mod	_	Gloss=above.Def
+23	dà	dà	SCONJ	_	_	21	mod@relcl	_	Gloss=COMP
+24	kèː	nàː	AUX	_	Aspect=Prog	23	comp:obj	_	Gloss=Prog.Rel|Relative=Rel
+25	shìgaː	shig-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	24	comp:aux	_	Gloss=enter.Fem.Vnoun.
+26	cikin	cikin	ADP	_	_	25	comp:obl	_	Gloss=inside|SpaceAfter=No
+27	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	26	mod/m	_	Gloss=-3MascGen|wordform=sà
+28	ba	ba	PART	_	PartType=Neg|Polarity=Neg	10	mod	_	Gloss=Neg|SpaceAfter=No
+29	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+
+# sent_id = 12_Bala'in_tafkin_Nyos_14
+# text_en = That's how the investigators too advised that one should pay attention to the quality of the water of Lake Nyos before the gas is removed, which could become very dangerous.
+# text_ortho = Hakà nan kuma manàzàr̃taː sun baː dà shaːwar̃àr̃ cêːwaː kàmaːtàː yaː yi à lùːr̃a dà haːlin ruwan Tafkìn Nyos ɗîn kàːfin à kwaːshè gâs ɗîn, àbîn dà zâi zamoː àbù mài haɗàr̃iː ƙwar̃ai.
+# text = hakà nan kuma manàzàr̃taː sun baː dà shaːwar̃àr̃ cêːwaː kàmaːtàː yaː yi à lùːr̃a dà haːlin ruwan Tafkìn Nyos ɗîn kàːfin à kwaːshè gâs ɗîn, àbîn dà zâi zamoː àbù mài haɗàr̃iː ƙwar̃ai.
+1	hakà	hakà	ADV	_	_	5	mod	_	Gloss=thus
+2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp:obj	_	Gloss=ProxH
+3	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
+4	manàzàr̃taː	manàzàr̃ciː	NOUN	_	Number=Plur	5	subj	_	Gloss=investigator.Plur
+5	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
+6	baː	baː	VERB	_	_	5	comp:aux	_	Gloss=give
+7	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=with
+8	shaːwar̃àr̃	shaːwar̃àː	NOUN	_	Definite=Cons|Gender=Fem	7	comp:obj	_	Gloss=advice.Fem.Cons|wordform=shawarar
+9	cêːwaː	cêːwaː	SCONJ	_	_	8	mod	_	Gloss=COMP|wordform=cêwaː
+10	kàmaːtàː	kamaːt-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	11	subj	_	Gloss=be_appropriate.Vnoun.Fem
+11	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	9	comp:obj	_	Gloss=3Masc.Perf
+12	yi	yi	VERB	_	_	11	comp:aux	_	Gloss=do
+13	à	yà	AUX	_	Mood=Sub|Person=4	12	comp:obj@agent	_	Gloss=4.Sub
+14	lùːr̃a	luːr̃-	VERB	_	_	13	comp:aux	_	Gloss=pay_attention
+15	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=with
+16	haːlin	haːliː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	Gloss=situation.Masc.Cons
+17	ruwan	ruwaː	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	16	mod	_	Gloss=water.Masc.Cons
+18	Tafkìn	tafkìː	NOUN	_	Definite=Cons|Gender=Masc	17	mod	_	Gloss=river.Masc.Cons
+19	Nyos	Nyos	PROPN	_	_	18	mod	_	Gloss=Nyos
+20	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	18	det	_	Gloss=Def
+21	kàːfin	kàːfin	SCONJ	_	_	14	mod	_	Gloss=before
+22	à	yà	AUX	_	Mood=Sub|Person=4	21	comp:obj	_	Gloss=4.Sub
+23	kwaːshè	kwaːs-	VERB	_	_	22	comp:aux	_	Gloss=remove
+24	gâs	gâs	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=gas.Masc
+25	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	24	det	_	Gloss=Def|SpaceAfter=No
+26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
+27	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	23	parataxis:parenth	_	Gloss=thing.Masc.Def
+28	dà	dà	SCONJ	_	_	27	mod@relcl	_	Gloss=COMP
+29	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	28	comp:obj	_	Gloss=3Masc.Fut
+30	zamoː	zama	VERB	_	_	29	comp:aux	_	Gloss=become
+31	àbù	àbù	NOUN	_	Gender=Masc	30	comp:obj	_	Gloss=thing.Masc
+32	mài	mài	PART	_	Number=Sing|PartType=Der	31	mod	_	Gloss=owner/doer_of.Sing
+33	haɗàr̃iː	haɗàr̃iː	NOUN	_	Gender=Masc	32	compound	_	Gloss=danger.Masc
+34	ƙwar̃ai	ƙwar̃ai	ADV	_	_	30	mod	_	Gloss=really|SpaceAfter=No
+35	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+
+# sent_id = 12_Bala'in_tafkin_Nyos_15
+# text_en = If not, it will become very costly.
+# text_ortho = Bandà hakà maː zâi kasànceː àbù mài tsàːdar̃ gàske.
+# text = bandà hakà maː zâi kasànceː àbù mài tsàːdar̃ gàske.
+1	bandà	bandà	ADP	_	_	4	mod	_	Gloss=apart_from
+2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=thus
+3	maː	maː	PART	_	PartType=Top	1	discourse@top	_	Gloss=even
+4	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	0	root	_	Gloss=3Masc.Fut
+5	kasànceː	kasant-	VERB	_	_	4	comp:aux	_	Gloss=become
+6	àbù	àbù	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=thing.Masc
+7	mài	mài	PART	_	Number=Sing|PartType=Der	6	mod	_	Gloss=owner/doer_of.Sing
+8	tsàːdar̃	tsàːdaː	NOUN	_	Definite=Cons|Gender=Fem	7	compound	_	Gloss=cost.Fem.Cons
+9	gàske	gàske	ADV	_	_	8	mod	_	Gloss=truly|SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+
+# sent_id = 12_Bala'in_tafkin_Nyos_16
+# text_en = The best precaution that the inhabitants of the area could take, would be to leave and go far from where the lake is.
+# text_ortho = Bàbban dai rìgàːkafìn dà mazàunaː yankìn zaːsù iyà yî: shiː nèː sù taːshì sù koːmàː neːsà ƙwar̃ai dàgà indà tafkìn yakè.
+# text = bàbban dai rìgàːkafìn dà mazàunaː yankìn zaːsù iyà yî: shiː nèː sù taːshì sù koːmàː neːsà ƙwar̃ai dàgà indà tafkìn yakè.
+1	bàbban	bàbba	ADJ	_	Definite=Cons|Gender=Masc	3	mod	_	Gloss=big.Masc.Cons
+2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
+3	rìgàːkafìn	rìgàːkafìː	NOUN	_	Definite=Def|Gender=Masc	11	subj	_	Gloss=precaution.Masc.Def
+4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
+5	mazàunaː	mazàuniː	NOUN	_	Number=Plur	7	subj	_	Gloss=inhabitant.Plur
+6	yankìn	yankìː	DET	_	Definite=Def|Gender=Masc	5	comp:obj@L	_	Gloss=area.Masc.Def
+7	zaːsù	zâi	AUX	_	Number=Plur|Person=3|Tense=Fut	4	comp:obj	_	Gloss=3Plur.Fut
+8	iyà	iy-	VERB	_	_	7	comp:aux	_	Gloss=be_able_to
+9	yî:	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:obj	_	Gloss=do
+10	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	11	comp:pred	_	Gloss=3Masc.Nom
+11	nèː	neː	AUX	_	PartType=Foc	0	root	_	Gloss=be
+12	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	11	dislocated@comp	_	Gloss=3Plur.Sub
+13	taːshì	taːs-	VERB	_	_	12	comp:aux	_	Gloss=set_off
+14	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	12	parataxis@conj	_	Gloss=3Plur.Sub
+15	koːmàː	koːm-	VERB	_	_	14	comp:aux	_	Gloss=go_(back)_to
+16	neːsà	neːsà	ADV	_	_	15	comp:obj@G	_	Gloss=far
+17	ƙwar̃ai	ƙwar̃ai	ADV	_	_	16	mod	_	Gloss=really
+18	dàgà	dàgà	ADP	_	_	16	mod	_	Gloss=from
+19	indà	indà	ADV	_	PronType=Rel	18	comp:obj	_	Gloss=where
+20	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	21	subj	_	Gloss=lake.Masc.Def|wordform=tar̃kin
+21	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	19	mod@relcl	_	Gloss=3Fem.Prog.Rel2|Relative=Rel2|SpaceAfter=No
+22	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
+
+# sent_id = 12_Bala'in_tafkin_Nyos_17
+# text_en = In nineteen eighty-six indeed, more than one thousand seven hundred people died, and only God knows how many will die if the lake produces that kind of gas leak again.
+# text_ortho = À shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà dai mutàneː fìye dà dubuː dà ɗàriː bakwài neː sukà mutù, kuma Allàh neː kawài ya san yawàn waɗàndà zaːsù mutù ìdan tafkìn ya saːkè yîn wani aman gâs ɗîn.
+# text = à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà dai mutàneː fìye dà dubuː dà ɗàriː bakwài neː sukà mutù, kuma Allàh neː kawài ya san yawàn waɗàndà zaːsù mutù ìdan tafkìn ya saːkè yîn wani aman gâs ɗîn.
+1	à	à	ADP	_	_	20	mod	_	Gloss=at
+2	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	3	mod@desc	_	Gloss=year.Fem.Cons
+3	alìf	alìf	NUM	_	_	1	comp:obj	_	Gloss=one_thousand
+4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=and
+5	ɗàriː	ɗàriː	NUM	_	Gender=Fem	3	conj:coord	_	Gloss=hundred
+6	tar̃à	tar̃à	NUM	_	_	5	flat@num	_	Gloss=nine
+7	dà	dà	CCONJ	_	_	8	cc	_	Gloss=and
+8	tàmàːnin	tàmàːnin	NUM	_	_	5	conj:coord	_	Gloss=eighty
+9	dà	dà	CCONJ	_	_	10	cc	_	Gloss=and
+10	shidà	shidà	NUM	_	_	8	conj:coord	_	Gloss=six
+11	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
+12	mutàneː	mùtûm	NOUN	_	Number=Plur	20	subj	_	Gloss=man.Plur
+13	fìye	fi	VERB	_	ExtPos=ADV|VerbForm=Stat	12	mod	_	Gloss=exceed.Stat
+14	dà	dà	ADP	_	_	13	comp:obl	_	Gloss=with
+15	dubuː	dubuː	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=thousand.Fem
+16	dà	dà	CCONJ	_	_	17	cc	_	Gloss=and|wordform=ɗà
+17	ɗàriː	ɗàriː	NUM	_	Gender=Fem	15	conj:coord	_	Gloss=hundred
+18	bakwài	bakwài	NUM	_	_	17	mod:num	_	Gloss=seven
+19	neː	neː	PART	_	PartType=Foc	12	discourse@foc	_	Gloss=Emph
+20	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf.Rel|Relative=Rel
+21	mutù	mutù	VERB	_	_	20	comp:aux	_	Gloss=die|SpaceAfter=No
+22	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
+23	kuma	kuma	CCONJ	_	_	24	cc	_	Gloss=also
+24	Allàh	Allàh	PROPN	_	_	20	conj:coord	_	Gloss=Allàh
+25	neː	neː	PART	_	PartType=Foc	24	discourse@foc	_	Gloss=Emph
+26	kawài	kawài	ADV	_	_	24	mod	_	Gloss=merely
+27	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	24	comp:cleft	_	Gloss=3Masc.Perf.Rel|Relative=Rel
+28	san	sanìː	VERB	_	_	27	comp:aux	_	Gloss=know
+29	yawàn	yawàn	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	Gloss=quantity.Masc.Cons
+30	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	29	mod	_	Gloss=REL.Plur|wordform=wadandal
+31	zaːsù	zâi	AUX	_	Number=Plur|Person=3|Tense=Fut	30	mod@relcl	_	Gloss=3Plur.Fut
+32	mutù	mutù	VERB	_	_	31	comp:aux	_	Gloss=die
+33	ìdan	ìdan	SCONJ	_	_	32	mod	_	Gloss=if
+34	tafkìn	tafkìn	NOUN	_	Definite=Def|Gender=Masc	35	subj	_	Gloss=river.Masc.Def
+35	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	33	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
+36	saːkè	saːk-	VERB	_	_	35	comp:aux	_	Gloss=repeat
+37	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	36	comp:obj	_	Gloss=do.Vnoun.Masc.Cons
+38	wani	wani	DET	_	Definite=Spec|Gender=Masc	39	det	_	Gloss=some.Masc.Spec
+39	aman	amai	NOUN	_	Definite=Cons|Gender=Masc	37	comp:pred	_	Gloss=explosion.Masc.Cons
+40	gâs	gâs	NOUN	_	Definite=Cons|Gender=Masc	39	mod	_	Gloss=gas.Masc
+41	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	40	det	_	Gloss=Def|SpaceAfter=No
+42	.	.	PUNCT	_	_	20	punct	_	Gloss=PUNCT
+
