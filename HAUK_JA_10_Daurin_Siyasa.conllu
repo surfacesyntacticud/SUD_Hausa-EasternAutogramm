@@ -109,7 +109,7 @@
 15	bà	bà	PART	_	PartType=Neg|Polarity=Neg	17	mod	_	Gloss=Neg
 16	tàːre	tàːre	ADV	_	_	17	mod	_	Gloss=together
 17	dà	dà	ADP	_	_	9	mod	_	Gloss=with
-18	tùhumàr̃sà	tuhum-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|Poss=Yes|VerbForm=Vnoun	17	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=charge.Vnoun.Fem.Cons-3MascGen|MSeg=tùhumàr̃sà-sà|PersonAf=3|wordform=tùhumàr̃
+18	tùhumàr̃	tuhum-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	17	comp:obj	_	Gloss=charge.Vnoun.Fem.Cons
 19	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	18	mod/m	_	Gloss=-3MascGen|wordform=sà
 20	ba	ba	PART	_	PartType=Neg|Polarity=Neg	17	mod	_	Gloss=Neg|SpaceAfter=No
 21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
@@ -195,7 +195,7 @@
 6	Neːmàː	neːm-	VERB	_	_	5	flat@name	_	Gloss=look_for
 7	wà	wà	ADP	_	Case=Dat	6	comp:obl	_	Gloss=Dat
 8	Jàma'àː	jàma'àː	PROPN	_	_	7	comp:obj	_	Gloss=people
-9	Haƙƙìnsù	haƙƙìː	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes	6	comp:obj	_	CaseAf=Gen|Gloss=rights.Masc.Cons-3PlurGen|MSeg=Haƙƙìnsù-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
+9	Haƙƙìn	haƙƙìː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	Gloss=rights.Masc.Cons|SpaceAfter=No|wordform=Haƙƙìnsù
 10	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	mod/m	_	Gloss=-3PlurGen|wordform=sù
 11	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	5	mod	_	Gloss=Gen.Fem
 12	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	11	comp:obj	_	Gloss=Nigeria
@@ -230,7 +230,7 @@
 41	kawài	kawài	ADV	_	_	37	mod	_	Gloss=merely|SpaceAfter=No
 42	,	,	PUNCT	_	_	43	punct	_	Gloss=PUNCT
 43	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	36	mod@relcl	_	Gloss=REL.Plur|wordform=wadandal
-44	al'amur̃ànsù	àl'amàr̃ìː	NOUN	_	Definite=Cons|Number=Plur|Poss=Yes	46	subj	_	CaseAf=Gen|Gloss=case.Plur.Cons-3PlurGen|MSeg=al'amur̃ànsù-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
+44	al'amur̃àn	àl'amàr̃ìː	NOUN	_	Definite=Cons|Number=Plur	46	subj	_	Gloss=case.Plur.Cons|SpaceAfter=No|wordform=al'amur̃ànsù
 45	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	44	mod/m	_	Gloss=-3PlurGen|wordform=sù
 46	bàsù	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Polarity=Neg	43	comp:obj	_	Gloss=3Plur.Perf.Neg
 47	shàːfi	shàig-	VERB	_	_	46	comp:aux	_	Gloss=concern
@@ -281,7 +281,7 @@
 # text_ortho = Wani kàːkàːkinsù yaː cêː sun sàːmi làːbaːrìː cêːwaː wani mùtûm mài àlaːƙàː dà gwamnatì yaː sâː an kaːmà àboːkin kaːsuwancìnsà an kuma tsarèː shi har̃ tsawon shèːkaràː biyu, bìsàː wannàn dòːkaː ta tsàron laːfiyàr̃ ƙasaː, don kawài bài biyaː shì baːshìn dà yakèː bînsà ba - wàːtòː bài koː saːtar̃ masà wani àbù ba.
 # text = wani kàːkàːkinsù yaː cêː sun sàːmi làːbaːrìː cêːwaː wani mùtûm mài àlaːƙàː dà gwamnatì yaː sâː an kaːmà àboːkin kaːsuwancìnsà an kuma tsarèː shi har̃ tsawon shèːkaràː biyu, bìsàː wannàn dòːkaː ta tsàron laːfiyàr̃ ƙasaː, don kawài bài biyaː shì baːshìn dà yakèː bînsà ba - wàːtòː bài koː saːtar̃ masà wani àbù ba.
 1	wani	wani	DET	_	Definite=Spec|Gender=Masc	2	det	_	Gloss=some.Masc.Spec
-2	kàːkàːkinsù	kàːkàːkiː	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes	4	subj	_	CaseAf=Gen|Gloss=spokesman.Masc.Cons-3PlurGen|MSeg=kàːkàːkinsù-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No|wordform=kàːkàːkin
+2	kàːkàːkin	kàːkàːkiː	NOUN	_	Definite=Cons|Gender=Masc	4	subj	_	Gloss=spokesman.Masc.Cons|SpaceAfter=No
 3	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	mod/m	_	Gloss=-3PlurGen|wordform=sù
 4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 5	cêː	cêː	VERB	_	_	4	comp:aux	_	Gloss=say
@@ -327,7 +327,7 @@
 45	baːshìn	baːshìː	NOUN	_	Definite=Def|Gender=Masc	43	comp:obj@T	_	Gloss=loan.Masc.Def
 46	dà	dà	SCONJ	_	_	45	mod@relcl	_	Gloss=COMP
 47	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	46	comp:obj	_	Gloss=3Fem.Prog.Rel|Relative=Rel
-48	bînsà	bi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Poss=Yes|VerbForm=Vnoun	47	comp:aux	_	CaseAf=Gen|GenderAf=Masc|Gloss=owe.Vnoun.Masc.Cons-3MascGen|MSeg=bînsà-sà|PersonAf=3|SpaceAfter=No|wordform=bîn
+48	bîn	bi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	47	comp:aux	_	Gloss=owe.Vnoun.Masc.Cons|SpaceAfter=No
 49	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	48	mod/m	_	Gloss=-3MascGen|wordform=sà
 50	ba	ba	PART	_	PartType=Neg|Polarity=Neg	43	mod	_	Gloss=Neg
 51	-	-	PUNCT	_	_	53	punct	_	Gloss=PUNCT

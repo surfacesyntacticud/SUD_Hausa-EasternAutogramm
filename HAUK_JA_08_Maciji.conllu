@@ -36,7 +36,7 @@
 21	dà	dà	SCONJ	_	_	20	comp:obj	_	Gloss=COMP|InIdiom=Yes
 22	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	20	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Rel
 23	cikà	cik-	VERB	_	_	22	comp:aux	_	Gloss=fill
-24	cikìnsù	cikìː	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes	23	comp:obj	_	CaseAf=Gen|Gloss=belly.Masc.Cons-3PlurGen|MSeg=cikìnsù-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
+24	cikìn	cikìː	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=belly.Masc.Cons|SpaceAfter=No|wordform=cikìnsù
 25	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	24	mod/m	_	Gloss=-3PlurGen|wordform=sù
 26	dà	dà	ADP	_	_	23	comp:obl	_	Gloss=with
 27	àbincîn	àbinciː	NOUN	_	Definite=Def|Gender=Masc	26	comp:obj	_	Gloss=food.Masc.Def
@@ -44,7 +44,7 @@
 29	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	28	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Rel
 30	yi	yi	VERB	_	_	29	comp:aux	_	Gloss=do
 31-32	miyàr̃sà	_	_	_	_	_	_	_	_
-31	miyàr̃sà	miyàː	NOUN	_	Definite=Cons|Gender=Fem|Poss=Yes	30	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=sauce.Fem.Cons-3MascGen|MSeg=miyàr̃sà-sà|PersonAf=3|wordform=miyàr̃
+31	miyàr̃	miyàː	NOUN	_	Definite=Cons|Gender=Fem	30	comp:obj	_	Gloss=sauce.Fem.Cons
 32	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	31	mod/m	_	Gloss=-3MascGen|wordform=sà
 33	dà	dà	ADP	_	_	30	comp:obl	_	Gloss=with
 34	naːmàn	naːmàː	NOUN	_	Definite=Cons|Gender=Masc	33	comp:obj	_	Gloss=meat.Masc.Cons
@@ -155,7 +155,7 @@
 30	mur̃ɗàː	mur̃ɗ-	VERB	_	_	29	comp:aux	_	Gloss=twist
 31	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	30	comp:obl	_	Gloss=3Plur.Dat
 32	cikin	cikin	ADP	_	_	30	mod	_	Gloss=inside
-33	cikkunànsù	cikìː	NOUN	_	Definite=Cons|Number=Plur|Poss=Yes	32	comp:obj	_	CaseAf=Gen|Gloss=belly.Plur.Cons-3PlurGen|MSeg=cikkunànsù-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
+33	cikkunàn	cikìː	NOUN	_	Definite=Cons|Number=Plur	32	comp:obj	_	Gloss=belly.Plur.Cons|SpaceAfter=No|wordform=cikkunànsù
 34	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	33	mod/m	_	Gloss=-3PlurGen|wordform=sù
 35	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
@@ -210,7 +210,7 @@
 31	dòːmin	dòːmin	ADP	_	_	27	mod	_	Gloss=in_order_to
 32	neːman	neːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	31	comp:obj	_	Gloss=look_for.Vnoun.Masc.Cons
 33	cèːton	ceːt-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	32	comp:obj	_	Gloss=save.Vnoun.Masc.Cons
-34	raːyukànsù	râi	NOUN	_	Definite=Cons|Number=Plur|Poss=Yes	33	comp:obj	_	CaseAf=Gen|Gloss=life.Plur.Cons-3PlurGen|MSeg=raːyukànsù-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
+34	raːyukàn	râi	NOUN	_	Definite=Cons|Number=Plur	33	comp:obj	_	Gloss=life.Plur.Cons|SpaceAfter=No|wordform=raːyukànsù
 35	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	34	mod/m	_	Gloss=-3PlurGen|wordform=sù
 36	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
@@ -243,7 +243,7 @@
 23	kusa	kusa	VERB	_	_	22	comp:obl	_	Gloss=be_almost
 24	zamaː	zama	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	23	comp:obj	_	Gloss=become.Vnoun.Masc
 25	sanàdin	sanàdiː	NOUN	_	Definite=Cons|Gender=Masc	24	comp:pred	_	Gloss=cause.Masc.Cons
-26	ajàlinsù	ajàliː	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes	25	mod	_	CaseAf=Gen|Gloss=end.Masc.Cons-3PlurGen|MSeg=ajàlinsù-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
+26	ajàlin	ajàliː	NOUN	_	Definite=Cons|Gender=Masc	25	mod	_	Gloss=end.Masc.Cons|SpaceAfter=No|wordform=ajàlinsù
 27	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	26	mod/m	_	Gloss=-3PlurGen|wordform=sù
 28	-	-	PUNCT	_	_	29	punct	_	Gloss=PUNCT
 29	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	11	comp:obj	_	Gloss=3Masc.Prog
@@ -270,7 +270,7 @@
 5	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:obj	_	Gloss=say.Vnoun.Fem
 6	baːàː	nàː	AUX	_	Aspect=Prog|Person=4|Polarity=Neg	5	comp:obj	_	Gloss=4.Prog.Neg
 7	cîn	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	Gloss=consume.Vnoun.Masc.Cons
-8	naːmànsù	naːmàː	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes	7	comp:obj	_	CaseAf=Gen|Gloss=meat.Masc.Cons-3PlurGen|MSeg=naːmànsù-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
+8	naːmàn	naːmàː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=meat.Masc.Cons|SpaceAfter=No|wordform=naːmànsù
 9	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	mod/m	_	Gloss=-3PlurGen|wordform=sù
 10	mùsammàn	mùsammàn	ADV	_	_	12	mod	_	Gloss=especially
 11	dai	dai	PART	_	PartType=Top	10	discourse@top	_	Gloss=anyway

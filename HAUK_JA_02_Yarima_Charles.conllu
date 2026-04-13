@@ -93,7 +93,7 @@
 31	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
 32	daːkatar̃	daːkat-	VERB	_	Voice=Cau	31	comp:aux	_	Gloss=stop.Cau
 33	dà	dà	ADP	_	_	32	comp:obl	_	Gloss=with
-34	tàllàce-tàllàcensù	tàllà	NOUN	_	Definite=Cons|Number=Plur|Poss=Yes	33	comp:obj	_	CaseAf=Gen|Gloss=hawking.Plur.Cons-3PlurGen|MSeg=tàllàce-tàllàcensù-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
+34	tàllàce-tàllàcen	tàllà	NOUN	_	Definite=Cons|Number=Plur	33	comp:obj	_	Gloss=hawking.Plur.Cons|SpaceAfter=No|wordform=tàllàce-tàllàcensù
 35	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	34	mod/m	_	Gloss=-3PlurGen|wordform=sù
 36	dòːmin	dòːmin	SCONJ	_	_	32	mod	_	Gloss=in_order_to
 37	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	36	comp:obj	_	Gloss=3Plur.Sub
@@ -292,7 +292,7 @@
 4	Jihàr̃	jihàː	NOUN	_	Definite=Cons|Gender=Fem	5	mod@desc	_	Gloss=state.Fem.Cons
 5	Ànambar̃à	Ànambar̃à	PROPN	_	_	3	mod	_	Gloss=Anambra
 6	dà	da	CCONJ	_	_	7	cc	_	Gloss=and|wordform=da
-7	uwar̃gidansà	uwar̃gidaː	NOUN	_	Definite=Cons|Gender=Fem|Poss=Yes	3	conj:coord	_	CaseAf=Gen|GenderAf=Masc|Gloss=wife.Fem.Cons-3MascGen|MSeg=uwar̃gidansà-sà|PersonAf=3|SpaceAfter=No
+7	uwar̃gidan	uwar̃gidaː	NOUN	_	Definite=Cons|Gender=Fem	3	conj:coord	_	Gloss=wife.Fem.Cons|SpaceAfter=No|wordform=uwar̃gidansà
 8	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	7	mod/m	_	Gloss=-3MascGen|wordform=sà
 9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf.Rel|Relative=Rel
 10	tàrbi	tarb-	VERB	_	_	9	comp:aux	_	Gloss=go_meet
@@ -400,7 +400,7 @@
 3	sai	sai	ADV	_	_	9	mod	_	Gloss=then
 4	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	9	subj	_	Gloss=prince.Masc
 5	dà	dà	CCONJ	_	_	6	cc	_	Gloss=and
-6	uwar̃gidansà	uwar̃gidaː	NOUN	_	Definite=Cons|Gender=Fem|Poss=Yes	4	conj:coord	_	CaseAf=Gen|GenderAf=Masc|Gloss=wife.Fem.Cons-3MascGen|MSeg=uwar̃gidansà-sà|PersonAf=3|SpaceAfter=No
+6	uwar̃gidan	uwar̃gidaː	NOUN	_	Definite=Cons|Gender=Fem	4	conj:coord	_	Gloss=wife.Fem.Cons|SpaceAfter=No|wordform=uwar̃gidansà
 7	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	6	mod/m	_	Gloss=-3MascGen|wordform=sà
 8	Gimbìyaː	gimbìyaː	NOUN	_	Gender=Fem	6	conj:appos	_	Gloss=princess.Fem
 9	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf.Rel|Relative=Rel
@@ -557,7 +557,7 @@
 36	don	don	SCONJ	_	_	28	mod	_	Gloss=in_order_to
 37	kaːrè	kar-	VERB	_	_	36	comp:obj	_	Gloss=protect
 38-39	laːfiyàr̃sà	_	_	_	_	_	_	_	_
-38	laːfiyàr̃sà	laːfiyàː	NOUN	_	Definite=Cons|Gender=Fem|Poss=Yes	37	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=security.Fem.Cons-3MascGen|MSeg=laːfiyàr̃sà-sà|PersonAf=3|SpaceAfter=No|wordform=laːfiyàr̃
+38	laːfiyàr̃	laːfiyàː	NOUN	_	Definite=Cons|Gender=Fem	37	comp:obj	_	Gloss=security.Fem.Cons|SpaceAfter=No
 39	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	38	mod/m	_	Gloss=-3MascGen|SpaceAfter=No|wordform=sà
 40	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 

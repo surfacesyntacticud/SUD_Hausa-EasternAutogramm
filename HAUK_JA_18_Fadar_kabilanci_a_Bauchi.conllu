@@ -233,7 +233,7 @@
 44	fi	fi	VERB	_	_	43	comp:aux	_	Gloss=exceed
 45	yawàː	yawàː	NOUN	_	Gender=Masc	44	comp:obj	_	Gloss=quantity.Masc
 46	à	à	ADP	_	_	44	mod	_	Gloss=at
-47	cikinsà	cikin	ADP	_	Poss=Yes	46	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=inside-3MascGen|MSeg=cikinsà-sà|PersonAf=3|SpaceAfter=No
+47	cikin	cikin	ADP	_	_	46	comp:obj	_	Gloss=inside|SpaceAfter=No|wordform=cikinsà
 48	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	47	mod/m	_	Gloss=-3MascGen|wordform=sà
 49	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
@@ -299,7 +299,7 @@
 29	tàmàːnin	tàmàːnin	NUM	_	_	28	mod:num	_	Gloss=eighty
 30	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	24	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Rel
 31	rasà	ras-	VERB	_	_	30	comp:aux	_	Gloss=lose
-32	raːyukànsù	râi	NOUN	_	Definite=Cons|Number=Plur|Poss=Yes	31	comp:obj	_	CaseAf=Gen|Gloss=life.Plur.Cons-3PlurGen|MSeg=raːyukànsù-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
+32	raːyukàn	râi	NOUN	_	Definite=Cons|Number=Plur	31	comp:obj	_	Gloss=life.Plur.Cons|SpaceAfter=No|wordform=raːyukànsù
 33	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	32	mod/m	_	Gloss=-3PlurGen|wordform=sù
 34	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
 35	sànnan	sànnan	ADV	_	_	37	mod	_	Gloss=then
@@ -391,7 +391,7 @@
 23	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	21	mod@relcl	_	Gloss=REL.Plur
 24	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	23	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Rel
 25	bar̃	bariː	VERB	_	Definite=Cons|Gender=Fem	24	comp:aux	_	Gloss=leave
-26	gidàːjensù	gidaː	NOUN	_	Definite=Cons|Number=Plur|Poss=Yes	25	comp:obj	_	CaseAf=Gen|Gloss=house.Plur.Cons-3PlurGen|MSeg=gidàːjensù-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
+26	gidàːjen	gidaː	NOUN	_	Definite=Cons|Number=Plur	25	comp:obj	_	Gloss=house.Plur.Cons|SpaceAfter=No|wordform=gidàːjensù
 27	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	26	mod/m	_	Gloss=-3PlurGen|wordform=sù
 28	sàːkàmakon	sàːkàmakon	ADP	_	_	25	mod	_	Gloss=because_of
 29	hàrgitsîn	hàrgitsiː	NOUN	_	Definite=Def|Gender=Masc	28	comp:obj	_	Gloss=crisis.Masc.Def|SpaceAfter=No
@@ -451,7 +451,7 @@
 10	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	9	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	8	mod@relcl	_	Gloss=REL.Plur
-13	akasàr̃insù	akasàr̃iː	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes	18	subj	_	CaseAf=Gen|Gloss=majority.Masc.Cons-3PlurGen|MSeg=akasàr̃insù-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
+13	akasàr̃in	akasàr̃iː	NOUN	_	Definite=Cons|Gender=Masc	18	subj	_	Gloss=majority.Masc.Cons|SpaceAfter=No|wordform=akasàr̃insù
 14	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	mod/m	_	Gloss=-3PlurGen|wordform=sù
 15	mabìyaː	mabìyiː	NOUN	_	Number=Plur	18	comp:pred	_	Gloss=follower.Plur
 16	àddiːnìn	àddiːnìː	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	15	comp:obj	_	Gloss=religion.Masc.Cons
@@ -466,7 +466,7 @@
 25	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 26	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	22	mod@relcl	_	Gloss=REL.Plur
 27	mafìː	mafìː	PART	_	PartType=Der	31	subj	_	Gloss=exceeding_in
-28	yawànsù	yawàː	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes	27	compound	_	CaseAf=Gen|Gloss=quantity.Masc.Cons-3PlurGen|MSeg=yawànsù-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
+28	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	27	compound	_	Gloss=quantity.Masc.Cons|SpaceAfter=No|wordform=yawànsù
 29	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	28	mod/m	_	Gloss=-3PlurGen|wordform=sù
 30	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	31	comp:pred	_	Gloss=Muslim.Plur
 31	nèː	neː	AUX	_	_	26	comp:obj	_	Gloss=be

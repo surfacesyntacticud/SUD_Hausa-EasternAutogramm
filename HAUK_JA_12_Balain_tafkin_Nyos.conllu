@@ -153,7 +153,7 @@
 11	sai	sai	ADV	_	_	16	mod	_	Gloss=then
 12	duk	dukà	DET	_	_	13	det	_	Gloss=all
 13	mutàːnen	mùtûm	NOUN	_	Definite=Cons|Number=Plur	16	subj	_	Gloss=people.Plur.Cons
-14	cikinsà	cikin	ADP	_	Poss=Yes	13	mod	_	CaseAf=Gen|GenderAf=Masc|Gloss=inside-3MascGen|MSeg=cikinsà-sà|PersonAf=3|SpaceAfter=No|wordform=cikin
+14	cikin	cikin	ADP	_	_	13	mod	_	Gloss=inside|SpaceAfter=No
 15	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	14	mod/m	_	Gloss=-3MascGen|wordform=sà
 16	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf.Rel|Relative=Rel
 17	mutù	mutù	VERB	_	_	16	comp:aux	_	Gloss=die|SpaceAfter=No
@@ -202,10 +202,10 @@
 16	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 17	àmmaː	àmmaː	CCONJ	_	_	18	cc	_	Gloss=but
 18	gàː	gàː	PART	_	PartType=Pred	4	conj:coord	_	Gloss=here_is
-19	fuskoːkinsù	fuskàː	NOUN	_	Definite=Cons|Number=Plur|Poss=Yes	18	subj	_	CaseAf=Gen|Gloss=face.Plur.Cons-3PlurGen|MSeg=fuskoːkinsù-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
+19	fuskoːkin	fuskàː	NOUN	_	Definite=Cons|Number=Plur	18	subj	_	Gloss=face.Plur.Cons|SpaceAfter=No|wordform=fuskoːkinsù
 20	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	mod/m	_	Gloss=-3PlurGen|wordform=sù
 21	dà	dà	CCONJ	_	_	22	cc	_	Gloss=and|wordform=da
-22	ƙiràːjansù	ƙìrjiː	NOUN	_	Definite=Cons|Number=Plur|Poss=Yes	19	conj:coord	_	CaseAf=Gen|Gloss=chest.Plur.Cons-3PlurGen|MSeg=ƙiràːjansù-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
+22	ƙiràːjan	ƙìrjiː	NOUN	_	Definite=Cons|Number=Plur	19	conj:coord	_	Gloss=chest.Plur.Cons|SpaceAfter=No|wordform=ƙiràːjansù
 23	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	22	mod/m	_	Gloss=-3PlurGen|wordform=sù
 24	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	18	comp:pred	_	Gloss=ProxH
 25	duk	dukà	ADV	_	PronType=Tot	26	mod	_	Gloss=all
@@ -231,7 +231,7 @@
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 13	bìncìkên	bìncìkeː	NOUN	_	Definite=Def|Gender=Masc	16	subj	_	Gloss=investigation.Masc.Def
 14-15	naːsù	_	_	_	_	_	_	_	_
-14	naːsù	na	PART	_	Case=Gen|Gender=Masc|Poss=Yes	13	mod@poss	_	CaseAf=Gen|Gloss=Gen.Masc-3PlurGen|MSeg=naːsù-sù|NumberAf=Plur|PersonAf=3|wordform=naː
+14	naː	na	PART	_	Case=Gen|Gender=Masc	13	mod@poss	_	Gloss=Gen.Masc
 15	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	mod/m	_	Gloss=-3PlurGen|wordform=sù
 16	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	12	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
 17	gaːnoː	gaːn-	VERB	_	_	16	comp:aux	_	Gloss=discover|SpaceAfter=No
@@ -376,7 +376,7 @@
 24	dà	dà	ADP	_	_	23	comp:obl	_	Gloss=with
 25	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	24	comp:obj	_	Gloss=3Masc.Nom
 26	gàbaː	gàbaː	NOUN	_	Gender=Masc	23	mod	_	Gloss=front.Masc
-27	ɗayansà	ɗaya	NUM	_	Definite=Cons|Poss=Yes	26	mod:num	_	CaseAf=Gen|GenderAf=Masc|Gloss=one.Cons-3MascGen|MSeg=ɗayansà-sà|PersonAf=3|SpaceAfter=No
+27	ɗayan	ɗaya	NUM	_	Definite=Cons	26	mod:num	_	Gloss=one.Cons|SpaceAfter=No|wordform=ɗayansà
 28	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	27	mod/m	_	Gloss=-3MascGen|wordform=sà
 29	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
@@ -401,7 +401,7 @@
 15	zaːrar̃	zaːrar̃	SCONJ	_	Definite=Cons|Gender=Fem	14	comp:obj	_	Gloss=slightly_more|wordform=zarar
 16	an	yaː	AUX	_	Aspect=Perf|Person=4	15	comp:obj	_	Gloss=4.Perf
 17	ragè	rag-	VERB	_	_	16	comp:aux	_	Gloss=reduce
-18	ruwansà	ruwansà	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes	17	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=water.Masc.Cons-3MascGen|MSeg=ruwansà-sà|PersonAf=3|SpaceAfter=No|wordform=ruwan
+18	ruwan	ruwansà	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	Gloss=water.Masc.Cons|SpaceAfter=No
 19	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	18	mod/m	_	Gloss=-3MascGen|wordform=sà
 20	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
@@ -464,7 +464,7 @@
 23	dà	dà	SCONJ	_	_	21	mod@relcl	_	Gloss=COMP
 24	kèː	nàː	AUX	_	Aspect=Prog	23	comp:obj	_	Gloss=Prog.Rel|Relative=Rel
 25	shìgaː	shig-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	24	comp:aux	_	Gloss=enter.Fem.Vnoun.
-26	cikinsà	cikin	ADP	_	Poss=Yes	25	comp:obl	_	CaseAf=Gen|GenderAf=Masc|Gloss=inside-3MascGen|MSeg=cikinsà-sà|PersonAf=3|SpaceAfter=No|wordform=cikin
+26	cikin	cikin	ADP	_	_	25	comp:obl	_	Gloss=inside|SpaceAfter=No
 27	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	26	mod/m	_	Gloss=-3MascGen|wordform=sà
 28	ba	ba	PART	_	PartType=Neg|Polarity=Neg	10	mod	_	Gloss=Neg|SpaceAfter=No
 29	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT

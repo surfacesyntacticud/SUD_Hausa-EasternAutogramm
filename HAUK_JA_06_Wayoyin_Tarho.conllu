@@ -26,7 +26,7 @@
 8	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	2	comp:obj	_	Gloss=3Masc.Fut
 9	gabaːtar̃	gabaːt-	VERB	_	_	8	comp:aux	_	Gloss=present
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with
-11	shìrye-shìryensà	shirìː	NOUN	_	Definite=Cons|Number=Plur|Poss=Yes	10	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=programme.Plur.Cons-3MascGen|MSeg=shìrye-shìryensà-sà|PersonAf=3|SpaceAfter=No
+11	shìrye-shìryen	shirìː	NOUN	_	Definite=Cons|Number=Plur	10	comp:obj	_	Gloss=programme.Plur.Cons|SpaceAfter=No|wordform=shìrye-shìryensà
 12	-sà	-sà	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	11	mod/m	_	Gloss=-3MascGen|wordform=sà
 13	gà	gà	ADP	_	_	9	comp:obl	_	Gloss=to
 14	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	13	comp:obj	_	Gloss=country.Plur.Cons
@@ -461,7 +461,7 @@
 24	soːmà	soːm-	VERB	_	_	23	comp:aux	_	Gloss=start
 25	ƙaːrà	ƙaːr-	VERB	_	_	24	comp:obj	_	Gloss=increase
 26	dàngàntakàː	dàngànta	NOUN	_	Gender=Fem	25	comp:obj	_	Gloss=relationship.Fem
-27	tsàkaːninsù	tsàkaːnin	ADP	_	Poss=Yes	25	comp:obl	_	CaseAf=Gen|Gloss=between-3PlurGen|MSeg=tsàkaːninsù-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
+27	tsàkaːnin	tsàkaːnin	ADP	_	_	25	comp:obl	_	Gloss=between|SpaceAfter=No|wordform=tsàkaːninsù
 28	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	27	mod/m	_	Gloss=-3PlurGen|wordform=sù
 29	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
@@ -495,7 +495,7 @@
 6	gyaːrà	gya	VERB	_	_	5	comp:aux	_	Gloss=repair
 7	hanyoːyin	hanyàː	NOUN	_	Definite=Cons|Number=Plur	6	comp:obj	_	Gloss=path.Plur.Cons
 8	saːdâr̃waː	saːd-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	7	mod	_	Gloss=linking_up.Vnoun.Fem
-9	tsàkaːninsù	tsàkaːnin	ADP	_	Poss=Yes	8	mod	_	CaseAf=Gen|Gloss=between-3PlurGen|MSeg=tsàkaːninsù-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
+9	tsàkaːnin	tsàkaːnin	ADP	_	_	8	mod	_	Gloss=between|SpaceAfter=No|wordform=tsàkaːninsù
 10	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	mod/m	_	Gloss=-3PlurGen|wordform=sù
 11	har̃	har̃	SCONJ	_	Definite=Cons|Gender=Fem	6	mod	_	Gloss=so_much_so_that
 12	anàː	nàː	AUX	_	Aspect=Prog|Person=4	11	comp:obj	_	Gloss=4.Prog
