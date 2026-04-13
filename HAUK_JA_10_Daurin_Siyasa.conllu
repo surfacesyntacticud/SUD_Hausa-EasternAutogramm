@@ -52,7 +52,7 @@
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
 19	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	18	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Rel
 20	yi	yi	VERB	_	_	19	comp:aux	_	Gloss=do
-21	danganèː	danganèː	SCONJ	_	ExtPos=ADP|Gender=Masc	20	comp:obl	_	Gloss=relation.Masc|Idiom=Yes
+21	danganèː	danganèː	NOUN	_	ExtPos=ADP|Gender=Masc	20	comp:obl	_	Gloss=relation.Masc|Idiom=Yes
 22	dà	dà	ADP	_	_	21	compound	_	Gloss=with|InIdiom=Yes
 23	kaːrè	kar-	VERB	_	_	21	comp:obj	_	Gloss=protect
 24	haƙƙìn	haƙƙìː	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=rights.Masc.Cons
@@ -169,10 +169,10 @@
 9	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	8	mod	_	Gloss=Gen.Fem
 10	Biyu	biyu	NUM	_	_	9	comp:obj	_	Gloss=two|SpaceAfter=No
 11	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-12	tòː	tòː	INTJ	_	PartType=Disc	13	discourse	_	Gloss=well
+12	tòː	tòː	INTJ	_	_	13	discourse	_	Gloss=well
 13	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 14	wata	wani	DET	_	Definite=Spec|Gender=Fem	15	det	_	Gloss=some.Fem.Spec
-15	koːtù	koːtù	NOUN	_	Gender=Fem|PronType=Ind	13	subj	_	Gloss=court.Fem
+15	koːtù	koːtù	NOUN	_	Gender=Fem	13	subj	_	Gloss=court.Fem
 16	à	à	ADP	_	_	15	mod	_	Gloss=at
 17	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	16	comp:obj	_	Gloss=Nigeria
 18	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=COMP

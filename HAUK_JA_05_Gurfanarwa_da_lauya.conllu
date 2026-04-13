@@ -163,10 +163,10 @@
 9	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	8	mod	_	Gloss=Gen.Fem
 10	Biyu	biyu	NUM	_	_	9	comp:obj	_	Gloss=two|SpaceAfter=No
 11	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-12	tòː	tòː	INTJ	_	PartType=Disc	13	discourse	_	Gloss=well
+12	tòː	tòː	INTJ	_	_	13	discourse	_	Gloss=well
 13	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 14	wata	wani	DET	_	Definite=Spec|Gender=Fem	15	det	_	Gloss=some.Fem.Spec
-15	koːtù	koːtù	NOUN	_	Gender=Fem|PronType=Ind	13	subj	_	Gloss=court.Fem
+15	koːtù	koːtù	NOUN	_	Gender=Fem	13	subj	_	Gloss=court.Fem
 16	à	à	ADP	_	_	13	comp:pred	_	Gloss=at
 17	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	16	comp:obj	_	Gloss=Nigeria
 18	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=COMP
@@ -348,7 +348,7 @@
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with
 5	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:obj	_	Gloss=say.Vnoun.Fem
 6	ìdan	ìdan	SCONJ	_	_	17	mod	_	Gloss=if
-7	har̃	har̃	SCONJ	_	Definite=Cons|Gender=Fem	6	comp:obj	_	Gloss=even
+7	har̃	har̃	SCONJ	_	_	6	comp:obj	_	Gloss=even
 8	akà	yaː	AUX	_	Aspect=Perf|Person=4	7	comp:obj	_	Gloss=4.Perf.Rel|Relative=Rel
 9	sàːmi	saːm-	VERB	_	_	8	comp:aux	_	Gloss=get
 10	Chief	Chief	PROPN	_	_	11	mod@desc	_	Gloss=Chief
@@ -357,7 +357,7 @@
 13	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	14	det	_	Gloss=ProxS.Masc
 14	lâifiː	lâifiː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=crime.Masc|SpaceAfter=No
 15	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-16	tòː	tòː	INTJ	_	PartType=Disc	17	discourse	_	Gloss=well
+16	tòː	tòː	INTJ	_	_	17	discourse	_	Gloss=well
 17	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	5	comp:obj	_	Gloss=3Masc.Fut
 18	iyà	iy-	VERB	_	_	17	comp:aux	_	Gloss=be_able_to
 19	saːmùn	saːmùː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp:obj	_	Gloss=get.Vnoun.Masc.Cons
@@ -495,7 +495,7 @@
 6	koːwànneː	koːwànneː	PRON	_	Gender=Masc|PronType=Int	5	comp:obj	_	Gloss=each_one.Masc
 7	muhimmancìː	muhimmancìː	NOUN	_	Gender=Masc	5	mod	_	Gloss=importance.Masc
 8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	Gloss=3Masc.Nom
-9	nèː	neː	AUX	_	PartType=Foc	0	root	_	Copula=Yes|Gloss=be
+9	nèː	neː	AUX	_	_	0	root	_	Copula=Yes|Gloss=be
 10	neːman	neːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	dislocated@comp	_	Gloss=look_for.Vnoun.Masc.Cons
 11	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	10	comp:obj	_	Gloss=3Masc.Sub
 12	ga	ganiː	VERB	_	_	11	comp:aux	_	Gloss=see

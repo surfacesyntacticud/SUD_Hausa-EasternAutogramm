@@ -9,7 +9,7 @@
 
 # sent_id = 07_Wasanni_a_Afirka_2
 # text_en = Today we will start our programme with news about the crisis that is taking place there in Nigeria about the organisation of a boxing match.
-# text = à yâu zaːmù soːmà shirìnmù dà làːbaːr̃ìn rìkicîn dà akèː yîː can Nàːjeːr̃iyàː gàme dà gudaːnar̃ dà wàːsan dambe.
+# text = à yâu zaːmù soːmà shirìnmùdà làːbaːr̃ìn rìkicîn dà akèː yîː can Nàːjeːr̃iyàː gàme dà gudaːnar̃ dà wàːsan dambe.
 # text_ortho = À yâu zaː mù soːmà shirìnmù dà làːbaːr̃ìn rìkicîn dà akèː yîː can Nàːjeːr̃iyàː gàme dà gudàːnar dà wàːsan dambe.
 1	à	à	ADP	_	_	3	mod	_	Gloss=at
 2	yâu	yâu	ADV	_	_	1	comp:obj	_	Gloss=today
@@ -28,7 +28,7 @@
 15	dà	dà	ADP	_	_	11	comp:obl	_	Gloss=with
 16	gudaːnar̃	gudaːn-	VERB	_	Voice=Cau	15	comp:obj	_	Gloss=run.Cau
 17	dà	dà	ADP	_	_	16	comp:obl	_	Gloss=with
-18	wàːsan	wàːsan	NOUN	_	Definite=Cons|Gender=Masc|PronType=Dem	17	comp:obj	_	Gloss=game.Masc.Cons
+18	wàːsan	wàːsan	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	Gloss=game.Masc.Cons
 19	dambe	dambe	NOUN	_	Gender=Masc	18	mod	_	Gloss=boxing.Masc|SpaceAfter=No
 20	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
@@ -153,7 +153,7 @@
 9	Lasisi	Lasisi	PROPN	_	_	10	subj	_	Gloss=Lasisi
 10	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	8	comp:obj	_	Gloss=3Masc.Sub
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
-12	wàːsân	wàːsaː	NOUN	_	Definite=Def|Gender=Masc|PronType=Dem	11	comp:pred	_	Gloss=game.Masc.Def
+12	wàːsân	wàːsaː	NOUN	_	Definite=Def|Gender=Masc	11	comp:pred	_	Gloss=game.Masc.Def
 13	sabòːdà	sabòːdà	SCONJ	_	_	11	mod	_	Gloss=because
 14	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	19	subj	_	Gloss=3Fem.Nom
 15	ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	14	conj:appos	_	Gloss=association.Fem.Cons
@@ -254,7 +254,7 @@
 33	wàːsân	wàːsaː	NOUN	_	Definite=Def|Gender=Masc	32	comp:obj@G	_	Gloss=game.Masc.Def
 34	ba	ba	PART	_	PartType=Neg|Polarity=Neg	32	mod	_	Gloss=Neg|SpaceAfter=No
 35	,	,	PUNCT	_	_	36	punct	_	Gloss=PUNCT
-36	har̃	har̃	SCONJ	_	Definite=Cons|Gender=Fem	25	mod	_	Gloss=so_much_so_that
+36	har̃	har̃	SCONJ	_	_	25	mod	_	Gloss=so_much_so_that
 37	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	36	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
 38	cèː	cêː	VERB	_	Gender=Fem	37	comp:aux	_	Gloss=be.Fem
 39	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	38	comp:obj	_	Gloss=3Plur.Perf
@@ -413,7 +413,7 @@
 15	à	à	ADP	_	_	13	comp:obl	_	Gloss=at
 16	bàtûn	bàtuː	NOUN	_	Definite=Def|Gender=Masc	15	comp:obj	_	Gloss=discussion.Masc.Def|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-18	har̃	har̃	SCONJ	_	Definite=Cons|Gender=Fem	13	mod	_	Gloss=so_much_so_that
+18	har̃	har̃	SCONJ	_	_	13	mod	_	Gloss=so_much_so_that
 19	maː	maː	PART	_	PartType=Top	18	discourse@top	_	Gloss=even
 20	wata	wani	DET	_	Definite=Spec|Gender=Fem	21	det	_	Gloss=some.Fem.Spec
 21	jàr̃iːdàː	jàr̃iːdàː	NOUN	_	Gender=Fem	31	subj	_	Gloss=newspaper.Fem
@@ -467,7 +467,7 @@
 # text_en = Well now here are some of the results of the football games of the African Cup.
 # text = tòː yànzu kuma gàː wasu dàgà sàːkàmakon wàːsànnîn dà akà yi na gàːsar̃ ƙwallon ƙafàː don cîn koːfìn ƙasàːshen Afır̃kà.
 # text_ortho = Tòː yànzu kuma gàː wasu dàgà sàːkàmakon wàːsànnîn dà akà yi na gàːsar̃ ƙwallon ƙafàː don cîn Koːfìn Ƙasàːshen Afır̃kà.
-1	tòː	tòː	INTJ	_	PartType=Disc	4	discourse	_	Gloss=well
+1	tòː	tòː	INTJ	_	_	4	discourse	_	Gloss=well
 2	yànzu	yànzu	ADV	_	_	4	mod	_	Gloss=now
 3	kuma	kuma	PART	_	PartType=Top	2	discourse@top	_	Gloss=also
 4	gàː	gàː	PART	_	PartType=Pred	0	root	_	Gloss=here_is

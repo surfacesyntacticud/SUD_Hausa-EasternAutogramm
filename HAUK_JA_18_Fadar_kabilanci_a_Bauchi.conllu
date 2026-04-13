@@ -544,7 +544,7 @@
 20	lamàr̃iː	lamàr̃iː	NOUN	_	Gender=Masc	18	comp:obj	_	Gloss=problem.Masc
 21	ba	ba	PART	_	PartType=Neg|Polarity=Neg	13	mod	_	Gloss=Neg|SpaceAfter=No
 22	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-23	tòː	tòː	INTJ	_	PartType=Disc	25	discourse	_	Gloss=well
+23	tòː	tòː	INTJ	_	_	25	discourse	_	Gloss=well
 24	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	25	subj	_	Gloss=thing.Masc.Def
 25	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	10	comp:obj	_	Gloss=3Masc.Prog
 26	iyà	iy-	VERB	_	_	25	comp:aux	_	Gloss=be_able_to
@@ -553,7 +553,7 @@
 29	à	à	ADP	_	_	27	comp:obl	_	Gloss=at
 30	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	29	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 31	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
-32	ƙasâr̃	ƙasaː	SCONJ	_	Definite=Def|Gender=Fem	30	conj:appos	_	Gloss=country.Fem.Def
+32	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	30	conj:appos	_	Gloss=country.Def.Def
 33	dà	dà	SCONJ	_	_	32	mod@relcl	_	Gloss=COMP
 34	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	33	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Rel
 35	fi	fi	VERB	_	_	34	comp:aux	_	Gloss=exceed

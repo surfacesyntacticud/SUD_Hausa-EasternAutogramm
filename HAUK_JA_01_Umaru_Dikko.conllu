@@ -279,7 +279,7 @@
 8	Dikkò	Dikkò	PROPN	_	_	7	flat@name	_	Gloss=Dikko
 9	noːnòː	noːnòː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=milk.Masc
 10	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	11	comp:pred	_	Gloss=3Masc.Nom
-11	nèː	neː	AUX	_	PartType=Foc	0	root	_	Copula=Yes|Gloss=be
+11	nèː	neː	AUX	_	_	0	root	_	Copula=Yes|Gloss=be
 12	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	13	det	_	Gloss=ProxS.Masc
 13	àkwàːtì	àkwàːtì	NOUN	_	Gender=Masc	15	subj	_	Gloss=box.Masc
 14	dai	dai	PART	_	PartType=Top	13	discourse@top	_	Gloss=anyway
@@ -576,7 +576,7 @@
 # text_en = Well, but despite all this, this is not the reason why he wants to stay here in Great-Britain.
 # text = tòː àmmaː duk dà hakà, àkwai waɗàndà kèː ganin cêːwaː bàː wannàn dàliːlìː neː ya sâː yakèː sôn yà yi zamansà à nân Bìr̃taːniyà ba.
 # text_ortho = Tòː àmmaː duk dà hakà, àkwai waɗàndà kèː ganin cêwaː bàː wannàn dàliː lìː neː ya sâː yakèː sôn yà yi zamansà à nân Bìr̃taːniyà ba.
-1	tòː	tòː	INTJ	_	PartType=Disc	7	discourse	_	Gloss=well
+1	tòː	tòː	INTJ	_	_	7	discourse	_	Gloss=well
 2	àmmaː	àmmaː	CCONJ	_	_	7	discourse	_	Gloss=but
 3	duk	dukà	DET	_	ExtPos=ADV	7	mod	_	Gloss=all|Idiom=Yes
 4	dà	dà	ADP	_	_	3	unk	_	Gloss=with|InIdiom=Yes

@@ -38,8 +38,8 @@
 20	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 21	wàːtòː	wàːtòː	CCONJ	_	_	23	cc	_	Gloss=i.e.
 22	"	"	PUNCT	_	_	23	punct	_	Gloss=PUNCT
-23	carbon	carbon	X	_	Foreign=Yes|Gender=Masc	17	conj:dicto	_	Gloss=carbon|Lang=en
-24	dioxide	dioxide	X	_	Foreign=Yes|Gender=Masc	23	flat@foreign	_	Gloss=dioxide|Lang=en|SpaceAfter=No
+23	carbon	carbon	X	_	Foreign=Yes	17	conj:dicto	_	Gloss=carbon|Lang=en
+24	dioxide	dioxide	X	_	Foreign=Yes	23	flat@foreign	_	Gloss=dioxide|Lang=en|SpaceAfter=No
 25	"	"	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 26	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 27	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf.Rel|Relative=Rel
@@ -72,7 +72,7 @@
 3	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	2	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
 4	fàːru	faːr-	VERB	_	_	3	comp:aux	_	Gloss=begin
 5	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	comp:pred	_	Gloss=3Masc.Nom
-6	nèː	neː	AUX	_	PartType=Foc	0	root	_	Copula=Yes|Gloss=be
+6	nèː	neː	AUX	_	_	0	root	_	Copula=Yes|Gloss=be
 7	hakà	hakà	ADV	_	_	10	mod	_	Gloss=thus
 8	kawài	kawài	ADV	_	_	10	mod	_	Gloss=merely
 9	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	10	subj	_	Gloss=lake.Masc.Cons|wordform=tar̃kin
@@ -86,8 +86,8 @@
 17	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	14	mod	_	Gloss=Gen.Masc
 18	iskàr̃	iskàː	NOUN	_	Definite=Def|Gender=Fem	17	comp:obj	_	Gloss=gas.Fem.Def
 19	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	18	mod	_	Gloss=Gen.Fem
-20	carbon	carbon	X	_	Foreign=Yes|Gender=Masc	19	comp:obj	_	Gloss=carbon|Lang=en
-21	dioxide	dioxide	X	_	Foreign=Yes|Gender=Fem	20	flat@foreign	_	Gloss=dioxide|Lang=en
+20	carbon	carbon	X	_	Foreign=Yes	19	comp:obj	_	Gloss=carbon|Lang=en
+21	dioxide	dioxide	X	_	Foreign=Yes	20	flat@foreign	_	Gloss=dioxide|Lang=en
 22	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 23	har̃	har̃	SCONJ	_	_	11	mod	_	Gloss=so_that
 24	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	23	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
@@ -238,7 +238,7 @@
 22	yiwoː	yi	VERB	_	_	21	comp:aux	_	Gloss=do
 23	bùr̃tsîn	bùr̃tsiː	NOUN	_	Definite=Def|Gender=Masc	22	comp:obj	_	Gloss=expulsion.Masc.Def
 24	wai	wai	PART	_	PartType=Ill	27	discourse	_	Gloss=reportedly
-25	carbon	carbon	X	_	Foreign=Yes|Gender=Masc	27	comp:pred	_	Gloss=carbon|Lang=en
+25	carbon	carbon	X	_	Foreign=Yes	27	comp:pred	_	Gloss=carbon|Lang=en
 26	dioxide	dioxide	X	_	Foreign=Yes	25	flat@foreign	_	Gloss=dioxide|Lang=en
 27	ceː	neː	AUX	_	Gender=Fem	18	comp:obj	_	Copula=Yes|Gloss=be.Fem
 28	kawài	kawài	ADV	_	_	27	mod	_	Gloss=merely|SpaceAfter=No
@@ -352,7 +352,7 @@
 5	gâs	gâs	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	Gloss=gas.Masc
 6	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	5	det	_	Gloss=Def
 7	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	comp:pred	_	Gloss=3Masc.Nom
-8	nèː	neː	AUX	_	PartType=Foc	0	root	_	Copula=Yes|Gloss=be
+8	nèː	neː	AUX	_	_	0	root	_	Copula=Yes|Gloss=be
 9	à	yà	AUX	_	Mood=Sub|Person=4	8	dislocated@comp	_	Gloss=4.Sub
 10	yi	yi	VERB	_	_	9	comp:aux	_	Gloss=do
 11	famfòn	famfòː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:pred	_	Gloss=pumping.Masc.Cons
@@ -360,7 +360,7 @@
 13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
 14	kèː	nàː	AUX	_	Aspect=Prog	13	comp:obj	_	Gloss=Prog.Rel|Relative=Rel
 15	dà	dà	ADP	_	_	14	comp:pred	_	Gloss=with
-16	carbon	carbon	X	_	Foreign=Yes|Gender=Masc	15	comp:obj	_	Gloss=carbon|Lang=en
+16	carbon	carbon	X	_	Foreign=Yes	15	comp:obj	_	Gloss=carbon|Lang=en
 17	dioxide	dioxide	X	_	Foreign=Yes	16	flat@foreign	_	Gloss=dioxide|Lang=en
 18	dàgà	dàgà	ADP	_	_	11	comp:obl	_	Gloss=from
 19	cikin	cikin	ADP	_	_	18	comp:obj	_	Gloss=inside
@@ -377,7 +377,7 @@
 # sent_id = 12_Bala'in_tafkin_Nyos_12
 # text_en = But it is feared that maybe there will be more gas coming out of the lake as soon as its water diminishes.
 # text_ortho = Sai dai kuma anàː tsòːron ƙiːlà gâs ɗîn yà ƙaːrà ɓulɓulôːwaː cikin tafkìn dà zaːrar̃ an ragè ruwansà .
-# text = sai dai kuma anàː tsòːron ƙiːlà gâs ɗîn yà ƙaːrà ɓulɓulôːwaː cikin tafkìn dà zaːrar̃ an ragè ruwansà .
+# text = sai dai kuma anàː tsòːron ƙiːlà gâs ɗîn yà ƙaːrà ɓulɓulôːwaː cikin tafkìn dà zaːrar̃ an ragè ruwansà.
 1	sai	sai	ADV	_	_	4	mod	_	Gloss=then
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
 3	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
@@ -391,9 +391,9 @@
 11	ɓulɓulôːwaː	ɓulɓul-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	10	comp:obj	_	Gloss=gush.Vnoun.Fem
 12	cikin	cikin	ADP	_	_	10	comp:obl	_	Gloss=inside
 13	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	12	comp:obj	_	Gloss=lake.Masc.Cons
-14	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=COMP
-15	zaːrar̃	zaːrar̃	SCONJ	_	Definite=Cons|Gender=Fem	14	comp:obj	_	Gloss=slightly_more|wordform=zarar
-16	an	yaː	AUX	_	Aspect=Perf|Person=4	15	comp:obj	_	Gloss=4.Perf
+14	dà	dà	ADP	_	ExtPos=SCONJ	10	mod@relcl	_	Gloss=COMP|Idiom=Yes
+15	zaːrar̃	zaːraː	NOUN	_	Definite=Cons|Gender=Fem	14	comp:obj	_	Gloss=excess.Cons|InIdiom=Yes|wordform=zarar
+16	an	yaː	AUX	_	Aspect=Perf|Person=4	14	comp:obj	_	Gloss=4.Perf
 17	ragè	rag-	VERB	_	_	16	comp:aux	_	Gloss=reduce
 18	ruwansà	ruwansà	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes	17	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=water.Masc.Cons-3MascGen|MSeg=ruwan-sà|PersonAf=3|SpaceAfter=No|wordform=ruwan
 19	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
@@ -530,7 +530,7 @@
 8	iyà	iy-	VERB	_	_	7	comp:aux	_	Gloss=be_able_to
 9	yî:	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:obj	_	Gloss=do
 10	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	11	comp:pred	_	Gloss=3Masc.Nom
-11	nèː	neː	AUX	_	PartType=Foc	0	root	_	Copula=Yes|Gloss=be
+11	nèː	neː	AUX	_	_	0	root	_	Copula=Yes|Gloss=be
 12	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	11	dislocated@comp	_	Gloss=3Plur.Sub
 13	taːshì	taːs-	VERB	_	_	12	comp:aux	_	Gloss=set_off
 14	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	12	parataxis@conj	_	Gloss=3Plur.Sub

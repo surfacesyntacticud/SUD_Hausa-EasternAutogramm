@@ -58,7 +58,7 @@
 15	cùːtar̃	cùːtaː	NOUN	_	Definite=Cons|Gender=Fem	16	mod@desc	_	Gloss=disease.Fem.Cons
 16	AIDS	AIDS	PROPN	_	_	14	mod	_	Gloss=AIDS|SpaceAfter=No
 17	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-18	tòː	tòː	INTJ	_	PartType=Disc	25	discourse	_	Gloss=well
+18	tòː	tòː	INTJ	_	_	25	discourse	_	Gloss=well
 19	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	25	subj	_	Gloss=3Masc.Nom
 20	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	19	parataxis@conj	_	Gloss=REL.Masc
 21	akà	yaː	AUX	_	Aspect=Perf|Person=4	20	comp:obj	_	Gloss=4.Perf.Rel|Relative=Rel
@@ -90,7 +90,7 @@
 12	àlluːràː	àlluːràː	NOUN	_	Gender=Fem	11	comp:obj	_	Gloss=needle.Fem
 13	gùdaː	gùdaː	NUM	_	Gender=Masc	12	mod:num	_	Gloss=unit/one.Masc|SpaceAfter=No
 14	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
-15	tòː	tòː	INTJ	_	PartType=Disc	33	discourse	_	Gloss=well
+15	tòː	tòː	INTJ	_	_	33	discourse	_	Gloss=well
 16	ìdan	ìdan	SCONJ	_	_	33	mod	_	Gloss=if
 17	wani	wani	DET	_	Definite=Spec|Gender=Masc	25	subj	_	Gloss=some.Masc.Spec
 18	dàgà	dàgà	ADP	_	_	17	mod	_	Gloss=from
@@ -194,7 +194,7 @@
 
 # sent_id = 04_AIDS_7
 # text_en = As we know, AIDS has no cure, and the one who has the virus in his blood will show no sign of disease in his body, except in his blood, and he will be able to spread the disease through his blood and his sperm for up to eight or nine years before the real disease starts destroying his body, and it kills him.
-# text = kàmar̃ yaddà akà sanìː, cùːtar̃ AIDS bâː ta dà maːgàniː, kuma mài ɗàuke dà ƙwaːyoːyin cùːtâr̃ à jinin-sà , bàː zaː'à ga wata àlaːmàː ta cùːtâr̃ à jìkin-sà ba, sai dai à jinin-sà , kuma yanàː iyà bazà cùːtâr̃ ta jinin-sà dà màniyyìn-sà har̃ shèːkaràː takwàs koː tar̃à kàːfin ainihin cùːtâr̃ tà faːrà laːlàːtà jìkin-sà , tà zama ajàlin-sà .
+# text = kàmar̃ yaddà akà sanìː, cùːtar̃ AIDS bâː ta dà maːgàniː, kuma mài ɗàuke dà ƙwaːyoːyin cùːtâr̃ à jininsà, bàː zaː'à ga wata àlaːmàː ta cùːtâr̃ à jìkinsàba, sai dai à jininsà, kuma yanàː iyà bazà cùːtâr̃ ta jininsàdà màniyyìnsàhar̃ shèːkaràː takwàs koː tar̃à kàːfin ainihin cùːtâr̃ tà faːrà laːlàːtà jìkinsà, tà zama ajàlinsà.
 # text_ortho = Kàmar̃ yaddà akà sanìː, cùːtar̃ AIDS bâː ta dà maːgàniː, kuma mài ɗàuke dà ƙwaːyoːyin cùːtâr̃ à jininsà, bàː zaː à ga wata àlaːmàː ta cùːtâr̃ à jìkinsà ba, sai dai à jininsà, kuma yanàː iyà bazà cùːtâr̃ ta jininsà dà màniyyìnsà har̃ shèːkaràː takwàs koː tar̃a kàːfin ainihin cùːtâr̃ tà faːrà laːlàːtà jìkinsà, tà zama ajàlinsà.
 1	kàmar̃	kàmar̃	ADP	_	_	8	mod	_	Gloss=like
 2	yaddà	yaddà	ADV	_	PronType=Rel	1	comp:obj	_	Gloss=how
@@ -239,7 +239,7 @@
 41	bazà	baz-	VERB	_	_	40	comp:obj	_	Gloss=spread
 42	cùːtâr̃	cùːtaː	NOUN	_	Definite=Def|Gender=Fem	41	comp:obj	_	Gloss=disease.Fem.Def
 43	ta	ta	ADP	_	_	41	comp:obl	_	Gloss=via
-44	jininsà	jiniːtà	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes|PronType=Dem	43	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=blood.Masc.Cons-3MascGen|MSeg=jinin-sà|PersonAf=3|SpaceAfter=No
+44	jininsà	jiniːtà	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes	43	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=blood.Masc.Cons-3MascGen|MSeg=jinin-sà|PersonAf=3|SpaceAfter=No
 45	dà	dà	CCONJ	_	_	46	cc	_	Gloss=and
 46	màniyyìnsà	màniyyìː	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes	44	conj:coord	_	CaseAf=Gen|GenderAf=Masc|Gloss=sperm.Masc.Cons-3MascGen|MSeg=màniyyìn-sà|PersonAf=3|SpaceAfter=No
 47	har̃	har̃	ADP	_	_	41	mod	_	Gloss=up_to
@@ -301,7 +301,7 @@
 # text_ortho = Tòː ꞌyàːꞌyàː àbîn yakè à ƙasar̃ Nàːjeːr̃iyàː ?
 # text_en = Well, what is the situation like in Nigeria?
 # text = tòː ꞌyàːꞌyàː àbîn yakè à ƙasar̃ Nàːjeːr̃iyàː ?
-1	tòː	tòː	INTJ	_	PartType=Disc	2	discourse	_	Gloss=well
+1	tòː	tòː	INTJ	_	_	2	discourse	_	Gloss=well
 2	ꞌyàːꞌyàː	ꞌyàːꞌyàː	ADV	_	PronType=Int	0	root	_	Gloss=how
 3	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	4	subj	_	Gloss=thing.Masc.Def
 4	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	2	comp:cleft	_	Gloss=3Fem.Prog.Rel2|Relative=Rel2
@@ -545,7 +545,7 @@
 24	miliyàn	miliyàn	NOUN	_	Gender=Fem	23	comp:obj	_	Gloss=million.Fem
 25	ɗàriː	ɗàriː	NUM	_	_	24	mod:num	_	Gloss=hundred|SpaceAfter=No
 26	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
-27	tòː	tòː	INTJ	_	PartType=Disc	28	discourse	_	Gloss=well
+27	tòː	tòː	INTJ	_	_	28	discourse	_	Gloss=well
 28	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	12	comp:obj	_	Gloss=3Masc.Fut
 29	yìwu	yìwu	VERB	_	_	28	comp:aux	_	Gloss=be_possible
 30	à	yà	AUX	_	Mood=Sub|Person=4	29	comp:obj@agent	_	Gloss=4.Sub
@@ -580,7 +580,7 @@
 4	kùwa	kùwa	PART	_	PartType=Top	1	discourse@top	_	Gloss=in_fact|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	doːlè	doːlè	ADV	_	_	7	comp:pred	_	Gloss=necessary
-7	neː	neː	AUX	_	PartType=Foc	0	root	_	Copula=Yes|Gloss=be
+7	neː	neː	AUX	_	_	0	root	_	Copula=Yes|Gloss=be
 8	à	yà	AUX	_	Mood=Sub|Person=4	7	dislocated@subj	_	Gloss=4.Sub
 9	yi	yi	VERB	_	_	8	comp:aux	_	Gloss=do
 10	ƙoːƙariː	ƙoːƙariː	NOUN	_	Gender=Masc	9	comp:pred	_	Gloss=effort.Masc
@@ -608,7 +608,7 @@
 # text_en = Well, may God protect us.
 # text = tòː Allàh yà kiyàːyeː.
 # text_ortho = Tòː Allàh yà kiyàːyeː.
-1	tòː	tòː	INTJ	_	PartType=Disc	3	discourse	_	Gloss=well
+1	tòː	tòː	INTJ	_	_	3	discourse	_	Gloss=well
 2	Allàh	Allàh	PROPN	_	_	3	subj	_	Gloss=God
 3	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	0	root	_	Gloss=3Masc.Sub
 4	kiyàːyeː	kiyaːy-	VERB	_	_	3	comp:aux	_	Gloss=protect|SpaceAfter=No

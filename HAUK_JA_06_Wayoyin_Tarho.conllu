@@ -95,7 +95,7 @@
 14	kyâu	kyâu	ADV	_	Gender=Masc	13	comp:obj	_	Gloss=beauty.Masc
 15	sòːsai	sòːsai	ADV	_	_	14	mod	_	Gloss=really|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-17	har̃	har̃	SCONJ	_	Definite=Cons|Gender=Fem	11	mod	_	Gloss=so_much_so_that
+17	har̃	har̃	SCONJ	_	_	11	mod	_	Gloss=so_much_so_that
 18	baːkàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=2|Polarity=Neg	17	comp:obj	_	Gloss=2Masc.Prog.Neg
 19	iyà	iy-	VERB	_	_	18	comp:aux	_	Gloss=be_able_to
 20	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:obj	_	Gloss=hear.Vnoun.Masc.Cons
@@ -109,7 +109,7 @@
 # text_en = Well, but now things have begun to change.
 # text = tòː àmmaː yànzu al'amur̃àː sun faːrà canjàːwaː.
 # text_ortho = Tòː àmmaː yànzu al'amur̃àː sun faːrà canjàːwaː.
-1	tòː	tòː	INTJ	_	PartType=Disc	5	discourse	_	Gloss=well
+1	tòː	tòː	INTJ	_	_	5	discourse	_	Gloss=well
 2	àmmaː	àmmaː	CCONJ	_	_	5	discourse	_	Gloss=but
 3	yànzu	yànzu	ADV	_	_	5	mod	_	Gloss=now
 4	al'amur̃àː	al'amur̃àː	NOUN	_	Number=Plur	5	subj	_	Gloss=matter.Plur
@@ -235,13 +235,13 @@
 5	aikàː	aik-	VERB	_	_	4	comp:aux	_	Gloss=send
 6	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=with
 7	sàːƙôn	sàːƙoː	NOUN	_	Definite=Def|Gender=Masc	6	comp:obj	_	Gloss=message.Masc.Det
-8	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	mod	_	Gloss=towards
+8	zuwàː	zuwàː	ADP	_	_	7	mod	_	Gloss=towards
 9	bàːkin	bàːkin	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=mouth.Masc.Cons
 10	Tèːkun	tèːku	NOUN	_	Definite=Cons|Gender=Fem	9	compound	_	Gloss=sea.Fem.Cons|wordform=tèːkun
 11	Kyanadà	Kyanadà	PROPN	_	_	10	mod	_	Gloss=Canada|SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 13	sànnan	sànnan	ADV	_	_	14	mod	_	Gloss=then
-14	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	conj:coord	_	Gloss=towards
+14	zuwàː	zuwàː	ADP	_	_	8	conj:coord	_	Gloss=towards
 15	"	"	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	Widemouth	Widemouth	PROPN	_	_	14	comp:obj	_	Gloss=Widemouth
 17	"	"	PUNCT	_	_	16	punct	_	Gloss=PUNCT|wordform='
@@ -354,7 +354,7 @@
 # text_en = Zambia and Mozambique are close to one another, but it is easier to make a telephone call to European countries than to make a call to Mozambique.
 # text = tòː Zambìyà dà Mazàmbîk sunàː hannun rìːgaː nèː dà juːnaː, àmmaː yaː fi sauƙiː kà yi wayàː zuwàː ƙasàːshen Tūr̃ai màimakon kà bugà wayàː zuwàː Mazàmbîk.
 # text_ortho = Tòː Zambìyà dà Mazàmbîk sunàː hannun rìːgaː nèː dà jūnaː,¹ àmmaː yaː fi sauƙiː kà yi wayàː zuwàː ƙasàːshen Tūr̃ai màimakon kà bugà wayàː zuwàː Mazàmbîk.
-1	tòː	tòː	INTJ	_	PartType=Disc	5	discourse	_	Gloss=well
+1	tòː	tòː	INTJ	_	_	5	discourse	_	Gloss=well
 2	Zambìyà	Zambìyà	PROPN	_	_	5	subj	_	Gloss=Zambìyà
 3	dà	dà	CCONJ	_	_	4	cc	_	Gloss=and
 4	Mazàmbîk	Mazàmbîk	PROPN	_	_	2	conj:coord	_	Gloss=Mazàmbîk
@@ -363,7 +363,7 @@
 7	rìːgaː	rìːgaː	NOUN	_	Gender=Fem	6	compound	_	Gloss=boubou.Fem
 8	nèː	neː	PART	_	PartType=Foc	6	discourse@foc	_	Gloss=Emph
 9	dà	dà	CCONJ	_	_	6	comp:pred	_	Gloss=and
-10	juːnaː	juːnaː	NOUN	_	Gender=Masc|PronType=Rcp	9	comp:obj	_	Gloss=each_other.Masc|SpaceAfter=No
+10	juːnaː	juːnaː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=each_other.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	àmmaː	àmmaː	CCONJ	_	_	13	cc	_	Gloss=but
 13	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	5	parataxis@conj	_	Gloss=3Masc.Perf
@@ -394,7 +394,7 @@
 5	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	4	compound	_	Gloss=telephone.Masc
 6	dàgà	dàgà	ADP	_	_	4	comp:obl	_	Gloss=from
 7	Màlaːwì	Màlaːwì	PROPN	_	_	6	comp:obj	_	Gloss=Màlaːwì
-8	zuwàː	zuwàː	ADP	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:obl	_	Gloss=towards
+8	zuwàː	zuwàː	ADP	_	_	6	conj:coord	_	Gloss=towards
 9	Àngoːlà	Àngoːlà	PROPN	_	_	8	comp:obj	_	Gloss=Àngoːlà|SpaceAfter=No
 10	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 11	doːlè	doːlè	ADV	_	_	0	root	_	Gloss=necessary
@@ -494,7 +494,7 @@
 7	hanyoːyin	hanyàː	NOUN	_	Definite=Cons|Number=Plur	6	comp:obj	_	Gloss=path.Plur.Cons
 8	saːdâr̃waː	saːd-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	7	mod	_	Gloss=linking_up.Vnoun.Fem
 9	tsàkaːninsù	tsàkaːnin	ADP	_	Poss=Yes	8	mod	_	CaseAf=Gen|Gloss=between-3PlurGen|MSeg=tsàkaːnin-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
-10	har̃	har̃	SCONJ	_	Definite=Cons|Gender=Fem	6	mod	_	Gloss=so_much_so_that
+10	har̃	har̃	SCONJ	_	_	6	mod	_	Gloss=so_much_so_that
 11	anàː	nàː	AUX	_	Aspect=Prog|Person=4	10	comp:obj	_	Gloss=4.Prog
 12	sâː	sâː	VERB	_	ExtPos=VERB|Gender=Masc	11	comp:aux	_	Gloss=put|Idiom=Yes
 13	râi	râi	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=life.Masc|InIdiom=Yes
