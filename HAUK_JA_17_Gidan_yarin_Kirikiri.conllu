@@ -101,7 +101,7 @@
 35	gabaːtar̃	gabaːt-	VERB	_	Voice=Cau	34	comp:aux	_	Gloss=present.Cau
 36	dà	dà	ADP	_	_	35	comp:obl	_	Gloss=with
 37	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	36	comp:obj	_	Gloss=3Plur.Nom
-38	nèː	neː	AUX	_	_	17	parataxis@conj	_	Gloss=be
+38	nèː	neː	AUX	_	_	17	parataxis@conj	_	Copula=Yes|Gloss=be
 39	à	à	ADP	_	_	35	comp:obl	_	Gloss=at
 40	gàban	gàban	ADP	_	_	39	comp:obj	_	Gloss=front
 41	koːtù	koːtù	NOUN	_	Gender=Fem	40	mod	_	Gloss=court.Fem|SpaceAfter=No
@@ -365,7 +365,7 @@
 # sent_id = 17_Gidan_yarin_Kirikiri_9b
 # text_en = and those who are sleeping do it on the floor because they are not given blankets, and they cannot buy them themselves.
 # text_ortho = waɗàndà maː kèː barcîn sunàː yînsà neː à bisà dàɓeː sabòːdà baː'à baː sù bar̃gunàː, suː kuma baːsàː iyà sàyeː dà kânsù.
-# text = waɗàndà maː kèː barcîn sunàː yînsà neː à bisà dàɓeː sabòːdà baː'à baː sù bar̃gunàː, suː kuma baːsàː iyà sàyeː dà kânsù.
+# text = waɗàndà maː kèː barcîn sunàː yînsàneː à bisà dàɓeː sabòːdà baː'à baː sù bar̃gunàː, suː kuma baːsàː iyà sàyeː dà kânsù.
 1	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	5	subj	_	Gloss=REL.Plur|wordform=wadandal
 2	maː	maː	PART	_	PartType=Top	1	discourse@top	_	Gloss=even
 3	kèː	nàː	AUX	_	Aspect=Prog	1	mod@relcl	_	Gloss=Prog.Rel|Relative=Rel
@@ -377,7 +377,7 @@
 9	bisà	bisà	ADP	_	_	8	comp:obj	_	Gloss=on_top
 10	dàɓeː	dàɓeː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=floor.Masc
 11	sabòːdà	sabòːdà	SCONJ	_	_	6	mod	_	Gloss=because
-12	baː'à	nàː	AUX	_	Aspect=Prog|Gender=Sing|Person=3|Polarity=Neg	11	comp:obj	_	Gloss=3Sing.Prog
+12	baː'à	nàː	AUX	_	Aspect=Prog|Person=4|Polarity=Neg	11	comp:obj	_	Gloss=4.Prog.Neg
 13	baː	baː	VERB	_	_	12	comp:aux	_	Gloss=give
 14	sù	su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	comp:obj@R	_	Gloss=3Plur.Acc
 15	bar̃gunàː	bar̃gò̩	NOUN	_	Number=Plur	13	comp:obj@T	_	Gloss=blanket.Plur|SpaceAfter=No
@@ -541,7 +541,7 @@
 2	hakà	hakà	ADV	_	_	1	mod	_	Gloss=thus
 3	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	5	comp:pred	_	Gloss=3Masc.Nom
-5	nèː	neː	AUX	_	PartType=Foc	0	root	_	Gloss=be
+5	nèː	neː	AUX	_	PartType=Foc	0	root	_	Copula=Yes|Gloss=be
 6	kuɗàːɗên	kuɗiː	NOUN	_	Definite=Def|Number=Plur	16	subj	_	Gloss=money.Plur.Def
 7	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=COMP
 8	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	7	comp:obj	_	Gloss=government.Fem.Def|wordform=gwamnatin
@@ -616,7 +616,7 @@
 11	Allàh	Allàh	PROPN	_	_	10	comp:obj	_	Gloss=Allah
 12	dà	dà	CCONJ	_	_	13	cc	_	Gloss=and
 13	Ànnabì	Ànnabì	PROPN	_	_	11	conj:coord	_	Gloss=Prophet
-14	ceː	neː	AUX	_	Gender=Fem	9	comp:obj	_	Gloss=be.Fem|SpaceAfter=No
+14	ceː	neː	AUX	_	Gender=Fem	9	comp:obj	_	Copula=Yes|Gloss=be.Fem|SpaceAfter=No
 15	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 16	àmmaː	àmmaː	CCONJ	_	_	18	cc	_	Gloss=but
 17	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	18	subj	_	Gloss=report.Masc.Defː
@@ -696,7 +696,7 @@
 18	àbin	àbiː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:pred	_	Gloss=thing.Masc.Cons
 19	màːmaːkìː	màːmaːkìː	NOUN	_	Gender=Masc	18	mod	_	Gloss=wonder.Masc
 20	ba	ba	PART	_	PartType=Neg|Polarity=Neg	18	mod	_	Gloss=Neg
-21	nèː	neː	AUX	_	_	10	conj:coord	_	Gloss=be
+21	nèː	neː	AUX	_	_	10	conj:coord	_	Copula=Yes|Gloss=be
 22	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	dislocated@subj	_	Gloss=seen.Vnoun.Masc.Cons
 23	yaddà	yaddà	ADV	_	PronType=Rel	22	comp:obj	_	Gloss=how
 24	mutànên	mùtûm	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	28	subj	_	Gloss=people.Plur.Def

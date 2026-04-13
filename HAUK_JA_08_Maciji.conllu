@@ -60,7 +60,7 @@
 4	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	mod@relcl	_	Gloss=3Masc.Perf.Rel|Relative=Rel
 5	fàːru	faːr-	VERB	_	_	4	comp:aux	_	Gloss=begin
 6	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	comp:pred	_	Gloss=3Masc.Nom
-7	nèː	neː	AUX	_	PartType=Foc	0	root	_	Gloss=be
+7	nèː	neː	AUX	_	PartType=Foc	0	root	_	Copula=Yes|Gloss=be
 8	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	dislocated@subj	_	Gloss=3Plur.Nom
 9	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	8	conj:appos	_	Gloss=people.Plur.Def
 10	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	7	dislocated@comp	_	Gloss=3Plur.Perf
@@ -127,7 +127,7 @@
 5	faːrà	faːràː	VERB	_	_	4	comp:aux	_	Gloss=begin
 6	taːshìː	taːs-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:obj	_	Gloss=rise.Vnoun.Masc
 7	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	comp:pred	_	Gloss=3Masc.Nom
-8	nèː	neː	AUX	_	PartType=Foc	0	root	_	Gloss=be
+8	nèː	neː	AUX	_	PartType=Foc	0	root	_	Copula=Yes|Gloss=be
 9	baːyân	baːyân	SCONJ	_	Definite=Def|ExtPos=SCONJ	8	dislocated@comp	_	Gloss=after.Def|Idiom=Yes
 10	dà	dà	SCONJ	_	_	9	comp:obj	_	Gloss=COMP|InIdiom=Yes
 11	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	10	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Rel

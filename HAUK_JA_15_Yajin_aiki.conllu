@@ -312,7 +312,7 @@
 15	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 16	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	subj	_	Gloss=3Plur.Nom
 17	ukù	ukù	NUM	_	_	18	comp:pred	_	Gloss=three
-18	neː	neː	AUX	_	_	0	root	_	Gloss=be
+18	neː	neː	AUX	_	_	0	root	_	Copula=Yes|Gloss=be
 19	kaɗai	kaɗai	ADV	_	_	18	mod	_	Gloss=only|SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 21	koː	koː	SCONJ	_	ExtPos=SCONJ	18	mod	_	Gloss=or|Idiom=Yes
@@ -615,7 +615,7 @@
 6	nuːnà	nuːn-	VERB	_	_	5	comp:obj	_	Gloss=show
 7	goːyon	goːy-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:obj	_	Gloss=support.Vnoun.Masc.Cons
 8	baːyaː	baːyaː	NOUN	_	Gender=Masc	7	compound	_	Gloss=back.Masc
-9	nèː	neː	AUX	_	PartType=Foc	0	root	_	Gloss=be
+9	nèː	neː	AUX	_	PartType=Foc	0	root	_	Copula=Yes|Gloss=be
 10	gà	gà	ADP	_	_	7	comp:obl	_	Gloss=to
 11	ma'àikàtan	ma'àikàciː	NOUN	_	Definite=Cons|Number=Plur	10	comp:obj	_	Gloss=worker.Plur.Cons
 12	Bankìn	bankìː	NOUN	_	Definite=Cons|Gender=Masc	11	mod	_	Gloss=bank.Masc.Cons

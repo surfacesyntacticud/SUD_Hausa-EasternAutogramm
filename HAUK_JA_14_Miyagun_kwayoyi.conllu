@@ -99,7 +99,7 @@
 6	wata	wani	DET	_	Definite=Spec|Gender=Fem	8	det	_	Gloss=some.Fem.Spec
 7	bàbbar̃	bàbba	ADJ	_	Definite=Cons|Gender=Fem	8	mod	_	Gloss=big.Fem.Cons
 8	màtsalàː	màtsalàː	NOUN	_	Gender=Fem	9	comp:pred	_	Gloss=problem.Fem
-9	ceː	neː	AUX	_	Gender=Fem	0	root	_	Gloss=be.Fem
+9	ceː	neː	AUX	_	Gender=Fem	0	root	_	Copula=Yes|Gloss=be.Fem
 10	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
 11	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	10	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Rel
 12	àddàbi	addab-	VERB	_	_	11	comp:aux	_	Gloss=worry
@@ -110,7 +110,7 @@
 17	an	yaː	AUX	_	Aspect=Perf|Person=4	9	conj:coord	_	Gloss=4.Perf
 18	cêː	cêː	VERB	_	_	17	comp:aux	_	Gloss=say|wordform=cê
 19	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	20	comp:pred	_	Gloss=country.Fem.Def
-20	ceː	neː	AUX	_	Gender=Fem	18	comp:obj	_	Gloss=be.Fem
+20	ceː	neː	AUX	_	Gender=Fem	18	comp:obj	_	Copula=Yes|Gloss=be.Fem
 21	ta	na	PART	_	Case=Gen|Gender=Fem	19	mod	_	Gloss=Gen.Fem
 22	ukù	ukù	NUM	_	_	21	comp:obj	_	Gloss=three
 23	à	à	ADP	_	_	22	mod	_	Gloss=at
@@ -180,7 +180,7 @@
 10	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
 11	akèː	nàː	AUX	_	Aspect=Prog|Person=4	10	comp:obj	_	Gloss=4.Prog.Rel|Relative=Rel|wordform=akề
 12	zàrgiː	zarg-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:aux	_	Gloss=accuse.Vnoun.Masc
-13	nèː	neː	AUX	_	_	7	comp:obj	_	Gloss=be|SpaceAfter=No
+13	nèː	neː	AUX	_	_	7	comp:obj	_	Copula=Yes|Gloss=be|SpaceAfter=No
 14	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 15	Huːkuːmàr̃	huːkuːmàː	NOUN	_	Definite=Def|Gender=Fem	16	subj	_	Gloss=agency.Fem.Def
 16	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
@@ -199,7 +199,7 @@
 29	bàbban	bàbba	ADJ	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=big.Masc.Cons
 30	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	32	comp:pred	_	Gloss=child.Masc.Cons
 31	kàːsuwaː	kàːsuwaː	NOUN	_	Gender=Fem	30	compound	_	Gloss=market.Fem
-32	nèː	neː	AUX	_	_	27	comp:obj	_	Gloss=be|SpaceAfter=No
+32	nèː	neː	AUX	_	_	27	comp:obj	_	Copula=Yes|Gloss=be|SpaceAfter=No
 33	.	.	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 
 # sent_id = 14_Miyagun_kwayoyi_7
@@ -288,7 +288,7 @@
 7	akà	yaː	AUX	_	Aspect=Perf|Person=4	6	comp:obj	_	Gloss=4.Perf.Rel|Relative=Rel
 8	bayyànaː	bayyan-	VERB	_	_	7	comp:aux	_	Gloss=explain
 9	mânyaː	bàbba	ADJ	_	Number=Plur	10	comp:pred	_	Gloss=big.Plur
-10	nèː	neː	AUX	_	_	8	comp:obj	_	Gloss=be
+10	nèː	neː	AUX	_	_	8	comp:obj	_	Copula=Yes|Gloss=be
 11	sòːsai	sòːsai	ADV	_	_	10	mod	_	Gloss=really
 12	à	à	ADP	_	_	9	mod	_	Gloss=at
 13	cikin	cikin	ADP	_	_	12	comp:obj	_	Gloss=inside
@@ -345,7 +345,7 @@
 3	kùwa	kùwa	PART	_	PartType=Top	1	discourse@top	_	Gloss=in_fact
 4	wata	wani	DET	_	Definite=Spec|Gender=Fem	5	det	_	Gloss=some.Fem.Spec
 5	dàbaːr̃àː	dàbaːr̃àː	NOUN	_	Gender=Fem	6	comp:pred	_	Gloss=trick.Fem
-6	ceː	neː	AUX	_	Gender=Fem	0	root	_	Gloss=be.Fem
+6	ceː	neː	AUX	_	Gender=Fem	0	root	_	Copula=Yes|Gloss=be.Fem
 7	wàddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	5	mod@relcl	_	Gloss=REL.Fem
 8	màːsu	mài	PART	_	Number=Plur|PartType=Der	12	subj	_	Gloss=owner/doer_of.Plur
 9	sùmoːgàr̃	sùmoːgàː	VERB	_	Definite=Cons|Gender=Fem	8	compound	_	Gloss=smuggling.Fem.Cons

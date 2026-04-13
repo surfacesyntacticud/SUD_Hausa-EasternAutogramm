@@ -39,7 +39,7 @@
 21	baːya	baːya	ADV	_	_	20	compound	_	Gloss=back|SpaceAfter=No
 22	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 23	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	24	comp:pred	_	Gloss=3Fem.Nom
-24	cèː	neː	AUX	_	Gender=Fem	0	root	_	Gloss=be.Fem
+24	cèː	neː	AUX	_	Gender=Fem	0	root	_	Copula=Yes|Gloss=be.Fem
 25	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	24	dislocated@comp	_	Gloss=sign.Fem
 26	ta	na	PART	_	Case=Gen|Gender=Fem	25	mod	_	Gloss=Gen.Fem
 27	farkoː	farkoː	NOUN	_	Gender=Masc	26	comp:obj	_	Gloss=beginning.Masc
@@ -131,7 +131,7 @@
 18	à	à	ADP	_	_	21	mod	_	Gloss=at
 19	dâː	dâː	ADV	_	_	18	comp:obj	_	Gloss=formerly
 20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	21	comp:pred	_	Gloss=3Masc.Nom
-21	nèː	neː	AUX	_	_	17	comp:obj	_	Gloss=be
+21	nèː	neː	AUX	_	_	17	comp:obj	_	Copula=Yes|Gloss=be
 22	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	21	dislocated@comp	_	Gloss=house.Masc.Cons
 23	gwamnà	gwamnà	NOUN	_	Gender=Masc	22	mod	_	Gloss=governor.Masc
 24	à	à	ADP	_	_	21	mod	_	Gloss=at
@@ -251,7 +251,7 @@
 7	Britannia	Britannia	PROPN	_	_	2	conj:dicto	_	Gloss=Britannia|SpaceAfter=No
 8	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT|wordform=’
 9	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	10	comp:pred	_	Gloss=3Masc.Nom
-10	nèː	neː	AUX	_	PartType=Foc	0	root	_	Gloss=be
+10	nèː	neː	AUX	_	PartType=Foc	0	root	_	Copula=Yes|Gloss=be
 11	don	don	SCONJ	_	_	10	dislocated@comp	_	Gloss=in_order_to
 12	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	13	mod@desc	_	Gloss=prince.Masc
 13	Charles	Charles	PROPN	_	_	16	subj	_	Gloss=Charles
@@ -426,7 +426,7 @@
 13	kuma	kuma	PART	_	PartType=Top	12	discourse@top	_	Gloss=also
 14	wataƙiːlà	wataƙiːlà	ADV	_	_	16	mod	_	Gloss=maybe
 15	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	16	comp:pred	_	Gloss=3Masc.Nom
-16	nèː	neː	AUX	_	_	12	comp:obj	_	Gloss=be
+16	nèː	neː	AUX	_	_	12	comp:obj	_	Copula=Yes|Gloss=be
 17	gandun	ganduː	NOUN	_	Definite=Cons|Gender=Masc	16	dislocated@comp	_	Gloss=ranch.Masc.Cons
 18	daːjìn	daːjìː	NOUN	_	Definite=Def|Gender=Masc	17	mod	_	Gloss=bush.Masc.Def
 19	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP

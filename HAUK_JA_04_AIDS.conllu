@@ -27,7 +27,7 @@
 9	AIDS	AIDS	PROPN	_	_	1	conj:dicto	_	Gloss=AIDS
 10	–	–	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 11	cùːtaː	cùːtaː	NOUN	_	Gender=Fem	12	comp:pred	_	Gloss=disease.Fem
-12	cèː	neː	AUX	_	Gender=Fem	0	root	_	Gloss=be.Fem
+12	cèː	neː	AUX	_	Gender=Fem	0	root	_	Copula=Yes|Gloss=be.Fem
 13	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 14	akèː	nàː	AUX	_	Aspect=Prog|Person=4	13	comp:obj	_	Gloss=4.Prog.Rel|Relative=Rel
 15	bazàːwaː	baz-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	14	comp:aux	_	Gloss=spread.Vnoun.Fem
@@ -422,7 +422,7 @@
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 3	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	1	mod@relcl	_	Gloss=REL.Masc
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	5	comp:pred	_	Gloss=3Masc.Nom
-5	nèː	neː	AUX	_	_	3	comp:obj	_	Gloss=be
+5	nèː	neː	AUX	_	_	3	comp:obj	_	Copula=Yes|Gloss=be
 6	shùːgàban	shùːgàbaː	NOUN	_	Definite=Cons|Gender=Masc	5	dislocated@comp	_	Gloss=leader.Masc.Cons
 7	kwàmìtî	kwàmìtî	NOUN	_	Definite=Def|Gender=Masc	6	mod	_	Gloss=committee.Masc.Def
 8	kân	kân	ADP	_	_	7	mod	_	Gloss=on
@@ -458,7 +458,7 @@
 38	bàbbar̃	bàbba	ADJ	_	Definite=Cons|Gender=Fem	39	mod	_	Gloss=big.Fem.Cons
 39	màtsalàː	màtsalàː	NOUN	_	Gender=Fem	41	subj	_	Gloss=problem.Fem
 40	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	41	comp:pred	_	Gloss=3Fem.Nom
-41	cèː	neː	AUX	_	Gender=Fem	37	comp:obj	_	Gloss=be.Fem
+41	cèː	neː	AUX	_	Gender=Fem	37	comp:obj	_	Copula=Yes|Gloss=be.Fem
 42	rashìn	ras-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	41	dislocated@comp	_	Gloss=lack.Vnoun.Masc.Cons
 43	naːꞌuːr̃oːr̃in	naːꞌuːr̃aː	NOUN	_	Definite=Cons|Number=Plur	42	comp:obj	_	Gloss=machine.Plur.Cons
 44	duːbà	duːb-	VERB	_	_	43	mod	_	Gloss=examine
@@ -497,7 +497,7 @@
 6	aikìn	aikìː	NOUN	_	Definite=Cons|Gender=Masc	9	subj	_	Gloss=work.Masc.Cons
 7	kwàmìtîn	kwàmìtîː	NOUN	_	Definite=Def|Gender=Masc	6	mod	_	Gloss=committee.Masc.Def
 8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	Gloss=3Masc.Nom
-9	nèː	neː	AUX	_	_	4	comp:obj	_	Gloss=be
+9	nèː	neː	AUX	_	_	4	comp:obj	_	Copula=Yes|Gloss=be
 10	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	9	dislocated@comp	_	Gloss=3Masc.Sub
 11	waːyar̃	waːy-	VERB	_	Voice=Cau	10	comp:aux	_	Gloss=enlighten.Cau
 12	dà	dà	ADP	_	_	11	comp:obl	_	Gloss=with
@@ -576,11 +576,11 @@
 # text_ortho = Ìdan hakà neː kùwa, doːlè neː à yi ƙoːƙariː à waːyar̃ dà kân mutàːneː dà sù gùji dukkàn àbîn dà zâi sâː sù kàːmu dà cùːtar̃ AIDS.
 1	ìdan	ìdan	SCONJ	_	_	7	mod	_	Gloss=if
 2	hakà	hakà	ADV	_	_	3	comp:pred	_	Gloss=thus
-3	neː	neː	AUX	_	_	1	comp:obj	_	Gloss=be
+3	neː	neː	AUX	_	_	1	comp:obj	_	Copula=Yes|Gloss=be
 4	kùwa	kùwa	PART	_	PartType=Top	1	discourse@top	_	Gloss=in_fact|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	doːlè	doːlè	ADV	_	_	7	comp:pred	_	Gloss=necessary
-7	neː	neː	AUX	_	PartType=Foc	0	root	_	Gloss=be
+7	neː	neː	AUX	_	PartType=Foc	0	root	_	Copula=Yes|Gloss=be
 8	à	yà	AUX	_	Mood=Sub|Person=4	7	dislocated@subj	_	Gloss=4.Sub
 9	yi	yi	VERB	_	_	8	comp:aux	_	Gloss=do
 10	ƙoːƙariː	ƙoːƙariː	NOUN	_	Gender=Masc	9	comp:pred	_	Gloss=effort.Masc

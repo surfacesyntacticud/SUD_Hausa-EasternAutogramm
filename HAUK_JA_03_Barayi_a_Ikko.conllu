@@ -56,7 +56,7 @@
 4	Bank	Bank	PROPN	_	_	3	flat@name	_	Gloss=Bank|SpaceAfter=No
 5	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT|wordform=’
 6	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	comp:pred	_	Gloss=3Masc.Nom
-7	nèː	neː	AUX	_	_	0	root	_	Gloss=be
+7	nèː	neː	AUX	_	_	0	root	_	Copula=Yes|Gloss=be
 8	kuma	kuma	PART	_	PartType=Top	7	discourse@top	_	Gloss=also
 9	bankìː	bankìː	NOUN	_	Gender=Masc	7	dislocated@comp	_	Gloss=bank.Masc
 10	mafìː	mafìː	PART	_	PartType=Der	9	mod	_	Gloss=exceeding_in
@@ -335,7 +335,7 @@
 10	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	8	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Rel
 11	ràgu	rag-	VERB	_	_	10	comp:aux	_	Gloss=reduce
 12	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	13	comp:pred	_	Gloss=3Masc.Nom
-13	nèː	neː	AUX	_	PartType=Foc	4	comp:obj	_	Gloss=be
+13	nèː	neː	AUX	_	PartType=Foc	4	comp:obj	_	Copula=Yes|Gloss=be
 14	don	don	SCONJ	_	_	13	dislocated@subj	_	Gloss=because
 15	mutàːnensù	mùtûm	NOUN	_	Definite=Cons|Number=Plur|Poss=Yes	16	subj	_	CaseAf=Gen|Gloss=person.Plur.Cons-3PlurGen|MSeg=mutàːnen-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
 16	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	14	comp:obj	_	Gloss=3Plur.Perf

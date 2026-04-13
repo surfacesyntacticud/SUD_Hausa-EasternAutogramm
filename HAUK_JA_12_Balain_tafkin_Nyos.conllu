@@ -72,7 +72,7 @@
 3	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	2	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
 4	fàːru	faːr-	VERB	_	_	3	comp:aux	_	Gloss=begin
 5	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	comp:pred	_	Gloss=3Masc.Nom
-6	nèː	neː	AUX	_	PartType=Foc	0	root	_	Gloss=be
+6	nèː	neː	AUX	_	PartType=Foc	0	root	_	Copula=Yes|Gloss=be
 7	hakà	hakà	ADV	_	_	10	mod	_	Gloss=thus
 8	kawài	kawài	ADV	_	_	10	mod	_	Gloss=merely
 9	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	10	subj	_	Gloss=lake.Masc.Cons|wordform=tar̃kin
@@ -240,7 +240,7 @@
 24	wai	wai	PART	_	PartType=Ill	27	discourse	_	Gloss=reportedly
 25	carbon	carbon	X	_	Definite=Cons|Foreign=Yes|Gender=Masc	27	comp:pred	_	Gloss=carbon|Lang=en
 26	dioxide	dioxide	X	_	Foreign=Yes	25	flat@foreign	_	Gloss=dioxide|Lang=en
-27	ceː	neː	AUX	_	Gender=Fem	18	comp:obj	_	Gloss=be.Fem
+27	ceː	neː	AUX	_	Gender=Fem	18	comp:obj	_	Copula=Yes|Gloss=be.Fem
 28	kawài	kawài	ADV	_	_	27	mod	_	Gloss=merely|SpaceAfter=No
 29	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
@@ -352,7 +352,7 @@
 5	gâs	gâs	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	Gloss=gas.Masc
 6	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	5	det	_	Gloss=Def
 7	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	comp:pred	_	Gloss=3Masc.Nom
-8	nèː	neː	AUX	_	PartType=Foc	0	root	_	Gloss=be
+8	nèː	neː	AUX	_	PartType=Foc	0	root	_	Copula=Yes|Gloss=be
 9	à	yà	AUX	_	Mood=Sub|Person=4	8	dislocated@comp	_	Gloss=4.Sub
 10	yi	yi	VERB	_	_	9	comp:aux	_	Gloss=do
 11	famfòn	famfòː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:pred	_	Gloss=pumping.Masc.Cons
@@ -530,7 +530,7 @@
 8	iyà	iy-	VERB	_	_	7	comp:aux	_	Gloss=be_able_to
 9	yî:	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:obj	_	Gloss=do
 10	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	11	comp:pred	_	Gloss=3Masc.Nom
-11	nèː	neː	AUX	_	PartType=Foc	0	root	_	Gloss=be
+11	nèː	neː	AUX	_	PartType=Foc	0	root	_	Copula=Yes|Gloss=be
 12	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	11	dislocated@comp	_	Gloss=3Plur.Sub
 13	taːshì	taːs-	VERB	_	_	12	comp:aux	_	Gloss=set_off
 14	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	12	parataxis@conj	_	Gloss=3Plur.Sub

@@ -56,7 +56,7 @@
 18	wàndà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	8	mod@relcl	_	Gloss=REL.Masc
 19	kuma	kuma	PART	_	PartType=Top	18	discourse@top	_	Gloss=also
 20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	21	comp:pred	_	Gloss=3Masc.Nom
-21	nèː	neː	AUX	_	_	18	comp:obj	_	Gloss=be
+21	nèː	neː	AUX	_	_	18	comp:obj	_	Copula=Yes|Gloss=be
 22	zàkaràn	zàkaràː	NOUN	_	Definite=Cons|Gender=Masc	21	dislocated@comp	_	Gloss=champion.Masc.Cons
 23	ajìn	ajìː	NOUN	_	Definite=Cons|Gender=Masc	22	mod	_	Gloss=category.Masc.Cons
 24	maràsaː	mài	PART	_	Number=Plur|PartType=Der	23	mod	_	Gloss=lacking.Plur
@@ -227,7 +227,7 @@
 6	kaːwoː	kai	VERB	_	_	5	comp:aux	_	Gloss=carry/take_to
 7	rùːɗaːnîn	rùːɗaːniː	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	6	comp:obj	_	Gloss=problem.Masc.Def
 8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	Gloss=3Masc.Nom
-9	nèː	neː	AUX	_	_	0	root	_	Gloss=be
+9	nèː	neː	AUX	_	_	0	root	_	Copula=Yes|Gloss=be
 10	shùːgàban	shùːgàbaː	NOUN	_	Definite=Cons|Gender=Masc	22	dislocated@top	_	Gloss=leader.Masc.Cons
 11	hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Cons|Gender=Fem	10	mod	_	Gloss=authority.Fem.Cons
 12	dambe	dambe	NOUN	_	Gender=Masc	11	mod	_	Gloss=boxing.Masc
@@ -378,7 +378,7 @@
 25	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	24	mod	_	Gloss=Gen.Fem
 26	Kudù	Kudù	PROPN	_	_	25	comp:obj	_	Gloss=Kudù
 27	ba	ba	PART	_	PartType=Neg|Polarity=Neg	23	mod	_	Gloss=Neg
-28	nèː	neː	AUX	_	_	16	comp:obj	_	Gloss=be|SpaceAfter=No
+28	nèː	neː	AUX	_	_	16	comp:obj	_	Copula=Yes|Gloss=be|SpaceAfter=No
 29	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 30	kuma	kuma	CCONJ	_	_	32	cc	_	Gloss=also
 31	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	32	mod	_	Gloss=Neg
