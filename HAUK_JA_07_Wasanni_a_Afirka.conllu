@@ -53,7 +53,7 @@
 15	Lasisi	Lasisi	PROPN	_	_	14	flat@name	_	Gloss=Lasisi
 16	"	"	PUNCT	_	_	14	punct	_	Gloss=PUNCT|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-18	wàndà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	8	mod@relcl	_	Gloss=REL.Masc
+18	wàndà	wandà	PRON	_	Gender=Masc|PronType=Rel	8	mod@relcl	_	Gloss=REL.Masc
 19	kuma	kuma	PART	_	PartType=Top	18	discourse@top	_	Gloss=also
 20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	21	comp:pred	_	Gloss=3Masc.Nom
 21	nèː	neː	AUX	_	_	18	comp:obj	_	Copula=Yes|Gloss=be
@@ -73,7 +73,7 @@
 35	shìga	shig-	VERB	_	_	34	comp:aux	_	Gloss=enter
 36	gàːsâr̃	gàːsâː	NOUN	_	Definite=Def|Gender=Fem	35	comp:obj@G	_	Gloss=competition.Fem.Def
 37	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	36	det	_	Gloss=ProxH
-38	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	36	mod@relcl	_	Gloss=REL.Fem
+38	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	36	mod@relcl	_	Gloss=REL.Fem
 39	ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	43	subj	_	Gloss=association.Fem.Cons
 40	dambe	dambe	NOUN	_	Gender=Masc	39	mod	_	Gloss=boxing.Masc
 41	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	39	mod	_	Gloss=Gen.Fem
@@ -83,7 +83,7 @@
 45	don	don	SCONJ	_	_	44	mod	_	Gloss=in_order_to
 46	neːmoː	neːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	45	comp:obj	_	Gloss=look_for.Vnoun.Masc.Cons
 47	wani	wani	PRON	_	Definite=Spec|Gender=Masc	46	comp:obj	_	Gloss=some.Masc.Spec
-48	wàndà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	47	mod@relcl	_	Gloss=REL.Masc
+48	wàndà	wandà	PRON	_	Gender=Masc|PronType=Rel	47	mod@relcl	_	Gloss=REL.Masc
 49	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	48	comp:obj	_	Gloss=3Masc.Fut
 50	ɗàuki	ɗauk-	VERB	_	_	49	comp:aux	_	Gloss=take
 51	kambin	kambiː	NOUN	_	Definite=Cons|Gender=Masc	50	comp:obj	_	Gloss=crown.Masc.Cons
@@ -169,7 +169,7 @@
 25	Kudù	Kudù	PROPN	_	_	24	comp:obj	_	Gloss=Kudù|SpaceAfter=No
 26	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
 27	wàːtòː	wàːtòː	CCONJ	_	PartType=Disc	28	conj:dicto	_	Gloss=i.e.
-28	indà	indà	SCONJ	_	PronType=Rel	23	mod@relcl	_	Gloss=where
+28	indà	indà	PRON	_	PronType=Rel	23	mod@relcl	_	Gloss=where
 29	gwamnatìn	gwamnatì	NOUN	_	Definite=Def|Gender=Fem	30	subj	_	Gloss=government.Fem.Def
 30	kèː	nàː	AUX	_	Aspect=Prog	28	comp:obj	_	Gloss=Prog.Rel|Relative=Rel
 31	nuːnà	nuːn-	VERB	_	_	30	comp:aux	_	Gloss=show
@@ -419,7 +419,7 @@
 21	jàr̃iːdàː	jàr̃iːdàː	NOUN	_	Gender=Fem	31	subj	_	Gloss=newspaper.Fem
 22	à	à	ADP	_	_	21	mod	_	Gloss=at
 23	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	22	comp:obj	_	Gloss=Nigeria
-24	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	21	mod@relcl	_	Gloss=REL.Fem
+24	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	21	mod@relcl	_	Gloss=REL.Fem
 25	akèː	nàː	AUX	_	Aspect=Prog|Person=4	24	comp:obj	_	Gloss=4.Prog.Rel|Relative=Rel
 26	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	25	comp:aux	_	Gloss=call.Vnoun.Masc
 27	"	"	PUNCT	_	_	28	punct	_	Gloss=PUNCT

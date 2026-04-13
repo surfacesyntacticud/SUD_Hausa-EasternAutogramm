@@ -85,7 +85,7 @@
 16	areːwacin	areːwacin	ADP	_	_	15	comp:obj	_	Gloss=north_of
 17	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	16	comp:obj	_	Gloss=country.Fem.Def|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-19	indà	indà	SCONJ	_	PronType=Rel	16	mod@relcl	_	Gloss=where
+19	indà	indà	PRON	_	PronType=Rel	16	mod@relcl	_	Gloss=where
 20	akà	yaː	AUX	_	Aspect=Perf|Person=4	19	comp:obj	_	Gloss=4.Perf.Rel|Relative=Rel
 21	cêː	cêː	VERB	_	_	20	comp:aux	_	Gloss=say
 22	mutàːneː	mùtûm	NOUN	_	Number=Plur	25	subj	_	Gloss=people.Plur
@@ -168,7 +168,7 @@
 13	à	à	ADP	_	_	10	mod	_	Gloss=at
 14	areːwacin	areːwacin	ADP	_	_	13	comp:obj	_	Gloss=north_of
 15	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	14	mod	_	Gloss=Nigeria
-16	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	12	mod@relcl	_	Gloss=REL.Plur
+16	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	12	mod@relcl	_	Gloss=REL.Plur
 17	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	16	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Rel
 18	sòːki	soːk-	VERB	_	_	17	comp:aux	_	Gloss=concern
 19	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	18	comp:obj	_	Gloss=thing.Masc.Def
@@ -193,7 +193,7 @@
 7	wata	wata	DET	_	Definite=Spec|Gender=Fem	8	det	_	Gloss=some.Fem
 8	jàr̃iːdàː	jàr̃iːdàː	NOUN	_	Definite=Ind|Gender=Fem	6	comp:obj	_	Gloss=newspaper.Fem|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-10	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	2	mod@relcl	_	Gloss=REL.Masc
+10	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	2	mod@relcl	_	Gloss=REL.Masc
 11	akà	yaː	AUX	_	Aspect=Perf|Person=4	10	comp:obj	_	Gloss=4.Perf.Rel|Relative=Rel
 12	cêː	cêː	VERB	_	_	11	comp:aux	_	Gloss=say
 13	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	12	comp:obj	_	Gloss=3Masc.Prog|wordform=yanaː
@@ -232,7 +232,7 @@
 # sent_id = 13_Rikicin_tekun_Pasha_7
 # text_en = A spokesman for the Sultan of Sokoto has confirmed that in Nigeria, hostility to America is the opinion of a minority, and Muslim leaders are only tolerating them because of the freedom of expression that exists in the country.
 # text_ortho = Wani mài màganàː dà yaːwun Sarkin Mùsùlmiː yaː jaddàːdà cêːwaː nuːnà ƙîn jinin Amìr̃kà à Nàːjeːr̃iyàː r̃a'àyin wasu 'yan tsìràːruː nèː, kuma shùːgàbànnin mùsùlmiː sunàː hàƙuriː dà suː nèː kawài sabòːdà 'yancìn dà akèː dà shiː à ƙasâr̃ na fàɗar̃ r̃a'àyiː .
-# text = wani mài màganàː dà yaːwun Sarkin Mùsùlmiː yaː jaddàːdà cêːwaː nuːnà ƙîn jinin Amìr̃kà à Nàːjeːr̃iyàː r̃a'àyin wasu 'yan tsìràːruː nèː, kuma shùːgàbànnin mùsùlmiː sunàː hàƙuriː dà suː nèː kawài sabòːdà 'yancìn dà akèː dà shiː à ƙasâr̃ na fàɗar̃ r̃a'àyiː .
+# text = wani mài màganàː dà yaːwun sarkin mùsùlmiː yaː jaddàːdà cêːwaː nuːnà ƙîn jinin Amìr̃kà à Nàːjeːr̃iyàː r̃a'àyin wasu 'yan tsìràːruː nèː, kuma shùːgàbànnin mùsùlmiː sunàː hàƙuriː dà suː nèː kawài sabòːdà 'yancìn dà akèː dà shiː à ƙasâr̃ na fàɗar̃ r̃a'àyiː .
 1	wani	wani	PRON	_	Definite=Spec|Gender=Masc|Number=Plur|PronType=Dem	8	subj	_	Gloss=some.Masc.Spec
 2	mài	mài	PART	_	Number=Sing|PartType=Pred	1	mod	_	Gloss=owner_of.Sing
 3	màganàː	màganàː	NOUN	_	Gender=Fem	2	comp.pred	_	Gloss=speech.Fem
@@ -271,7 +271,7 @@
 36	dà	dà	ADP	_	_	35	comp:pred	_	Gloss=with
 37	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	36	comp:obj	_	Gloss=3Masc.Nom
 38	à	à	ADP	_	_	35	mod	_	Gloss=at
-39	ƙasâr̃	ƙasaː	NOUN	_	Definite=PrevRef|Gender=Fem	38	comp:obj	_	Gloss=country.Fem.PrevRef
+39	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	38	comp:obj	_	Gloss=country.Fem.Def
 40	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	33	mod	_	Gloss=Gen.Masc
 41	fàɗar̃	faɗ-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	40	comp:obj	_	Gloss=tell.Vnoun.Fem.Cons
 42	r̃a'àyiː	r̃a'àyiː	NOUN	_	Gender=Masc	41	comp:obj	_	Gloss=viewpoint.Masc
@@ -320,7 +320,7 @@
 37	wà	wà	ADP	_	Case=Dat	36	comp:obl	_	Gloss=Dat
 38	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	37	comp:obj	_	Gloss=Irak
 39	,	,	PUNCT	_	_	40	punct	_	Gloss=PUNCT
-40	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	31	mod@relcl	_	Gloss=REL.Masc
+40	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	31	mod@relcl	_	Gloss=REL.Masc
 41	akà	yaː	AUX	_	Aspect=Perf|Person=4	40	comp:obj	_	Gloss=4.Perf.Rel|Relative=Rel|wordform=aka
 42	yi	yi	VERB	_	_	41	comp:aux	_	Gloss=do
 43	hanzarin	hanzariː	NOUN	_	Definite=Cons|Gender=Masc	42	comp:pred	_	Gloss=haste.Masc.Cons
@@ -379,7 +379,7 @@
 6	à	à	ADP	_	_	2	mod	_	Gloss=at
 7	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	8	mod@desc	_	Gloss=city.Masc.Cons
 8	Kàtsinà	Kàtsinà	PROPN	_	_	6	comp:obj	_	Gloss=Kàtsinà
-9	indà	indà	SCONJ	_	PronType=Rel	8	mod@relcl	_	Gloss=where
+9	indà	indà	PRON	_	PronType=Rel	8	mod@relcl	_	Gloss=where
 10	ɗaruːruwàn	ɗàriː	NOUN	_	Definite=Cons|Number=Plur	12	subj	_	Gloss=hundred.Plur.Cons
 11	matàːsaː	matàːshiː	NOUN	_	Number=Plur	10	mod	_	Gloss=youth.Plur
 12	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	9	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Rel
@@ -412,7 +412,7 @@
 5	biyûn	biyû	NUM	_	Definite=Def	4	comp:obj	_	Gloss=two.Def
 6	à	à	ADP	_	_	2	mod	_	Gloss=at
 7	Kanòː	Kanòː	PROPN	_	_	6	comp:obj	_	Gloss=Kanòː
-8	indà	indà	SCONJ	_	PronType=Rel	7	mod@relcl	_	Gloss=where
+8	indà	indà	PRON	_	PronType=Rel	7	mod@relcl	_	Gloss=where
 9	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	13	subj	_	Gloss=child.Plur.Cons
 10	sàndan	sàndaː	NOUN	_	Definite=Cons|Gender=Masc	9	compound	_	Gloss=baton.Masc.Cons
 11	kashè	kas-	VERB	_	Gender=Masc	9	compound	_	Gloss=kill

@@ -230,7 +230,7 @@
 # sent_id = 03_Barayi_a_Ikko_9
 # text_en = While that was happening, the headquarters of Lagos police explained that the number of burglaries and thefts that were committed in Nigeria exceeds what was done in the last five years.
 # text = yàːyîn dà hakàn kèː fàːruwaː, hêdkwatàr̃ ꞌyan sàndân à bir̃nin Ìkko taː bayyànà cêːwaː yawàn fàshe-fàshe dà sàːce-sàːcên dà akèː yîː à cikin Nàːjeːr̃iyàr̃ yaː fi irìn waɗàndà akà yi cikin shèːkàruː biyûn dà sukà wucèː.
-1	yàːyîn	yàːyîː	SCONJ	_	PronType=Rel	13	mod	_	Gloss=when
+1	yàːyîn	yàːyîː	PRON	_	PronType=Rel	13	mod	_	Gloss=when
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 3	hakàn	hakàn	PRON	_	_	4	subj	_	Gloss=this
 4	kèː	nàː	AUX	_	Aspect=Prog	2	comp:obj	_	Gloss=Prog.Rel|Relative=Rel
@@ -359,7 +359,7 @@
 34	Lawrence	Lawrence	PROPN	_	_	32	mod	_	Gloss=Lawrence
 35	Anini	Anini	PROPN	_	_	34	flat@name	_	Gloss=Anini|SpaceAfter=No
 36	"	"	PUNCT	_	_	34	punct	_	Gloss=PUNCT|wordform=’
-37	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	29	mod@relcl	_	Gloss=REL.Masc
+37	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	29	mod@relcl	_	Gloss=REL.Masc
 38	kèː	nàː	AUX	_	Aspect=Prog	37	comp:obj	_	Gloss=Prog.Rel|Relative=Rel
 39	dà	dà	ADP	_	_	38	comp:pred	_	Gloss=with
 40	yâraː	yaːròː	NOUN	_	Number=Plur	39	comp:obj	_	Gloss=boy.Plur
@@ -386,7 +386,7 @@
 9	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	7	mod:num	_	Gloss=Gen.Fem
 10	biyu	biyu	NUM	_	_	9	comp:obj	_	Gloss=two
 11	-	-	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-12	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	7	mod@relcl	_	Gloss=REL.Fem
+12	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	7	mod@relcl	_	Gloss=REL.Fem
 13	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	12	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Rel
 14	baː	baː	VERB	_	_	13	comp:aux	_	Gloss=give
 15	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=with

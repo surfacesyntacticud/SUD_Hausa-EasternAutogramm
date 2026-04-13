@@ -87,7 +87,7 @@
 15	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	14	mod	_	Gloss=Gen.Fem
 16	Biyu	Biyu	PROPN	_	_	15	comp:obj	_	Gloss=Biyu
 17	-	-	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-18	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	14	mod@relcl	_	Gloss=REL.Fem
+18	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	14	mod@relcl	_	Gloss=REL.Fem
 19	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	18	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Rel
 20	sâː	sâː	VERB	_	_	19	comp:aux	_	Gloss=cause
 21	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	23	subj	_	Gloss=3Fem.Nom
@@ -293,7 +293,7 @@
 18	wata	wani	DET	_	Definite=Spec|Gender=Fem	19	det	_	Gloss=some.Fem.Spec
 19	takàr̃daː	takàr̃daː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=paper.Fem
 20	cèː	neː	PART	_	Gender=Fem	19	discourse@foc	_	Gloss=Emph.Fem
-21	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	19	mod@relcl	_	Gloss=REL.Fem
+21	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	19	mod@relcl	_	Gloss=REL.Fem
 22	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	25	subj	_	Gloss=3Masc.Nom
 23	Chief	Chief	PROPN	_	_	24	mod@desc	_	Gloss=Chief
 24	G.F.	G.F.	PROPN	_	_	22	conj:appos	_	Gloss=G.F.
@@ -507,7 +507,7 @@
 18	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	19	mod@desc	_	Gloss=country.Fem.Cons
 19	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	17	mod	_	Gloss=Nigeria
 20	biyu	biyu	NUM	_	_	16	mod:num	_	Gloss=two
-21	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	16	mod@relcl	_	Gloss=REL.Plur
+21	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	16	mod@relcl	_	Gloss=REL.Plur
 22	akà	yaː	AUX	_	Aspect=Perf|Person=4	21	comp:obj	_	Gloss=4.Perf.Rel|Relative=Rel
 23	zàrgaː	zarg-	VERB	_	_	22	comp:aux	_	Gloss=accuse
 24	dà	dà	ADP	_	_	23	comp:obl	_	Gloss=with
@@ -567,7 +567,7 @@
 15	shirìn	shiry-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:obj	_	Gloss=prepare.Vnoun.Masc.Cons
 16	wani	wani	DET	_	Definite=Spec|Gender=Masc	17	det	_	Gloss=some.Masc.Spec
 17	tàːroː	tàːroː	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=meeting.Masc
-18	indà	indà	SCONJ	_	PronType=Rel	17	mod@relcl	_	Gloss=where
+18	indà	indà	PRON	_	PronType=Rel	17	mod@relcl	_	Gloss=where
 19	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	18	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
 20	yi	yi	VERB	_	_	19	comp:aux	_	Gloss=do
 21	wà	wà	ADP	_	Case=Dat	20	comp:obl	_	Gloss=Dat

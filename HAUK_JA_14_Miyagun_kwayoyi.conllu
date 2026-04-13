@@ -48,7 +48,7 @@
 34	na	na	PART	_	Case=Gen|Gender=Masc	32	mod	_	Gloss=Gen
 35	hoːdàr̃	hoːdàː	NOUN	_	Definite=Cons|Gender=Fem	34	comp:obj	_	Gloss=powder.Fem.Cons
 36	kòːkên	kòːkên	NOUN	_	Definite=Cons|Gender=Masc	35	mod	_	Gloss=cocaine.Fem
-37	wàddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	35	mod@relcl	_	Gloss=REL.Fem|wordform=wadda
+37	wàddà	wandà	PRON	_	Gender=Fem|PronType=Rel	35	mod@relcl	_	Gloss=REL.Fem|wordform=wadda
 38	akà	yaː	AUX	_	Aspect=Perf|Person=4	37	comp:obj	_	Gloss=4.Perf.Rel|Relative=Rel
 39	yi	yi	VERB	_	_	38	comp:aux	_	Gloss=do
 40	niyyàr̃	niyyàː	NOUN	_	Definite=Cons|Gender=Fem	39	comp:pred	_	Gloss=effort.Fem.Cons
@@ -115,7 +115,7 @@
 22	ukù	ukù	NUM	_	_	21	comp:obj	_	Gloss=three
 23	à	à	ADP	_	_	22	mod	_	Gloss=at
 24	duːniːyàː	duːniːyàː	NOUN	_	Gender=Fem	23	comp:obj	_	Gloss=world.Fem
-25	wàddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	19	mod@relcl	_	Gloss=REL.Fem|wordform=wadda
+25	wàddà	wandà	PRON	_	Gender=Fem|PronType=Rel	19	mod@relcl	_	Gloss=REL.Fem|wordform=wadda
 26	akà	yaː	AUX	_	Aspect=Perf|Person=4	25	comp:obj	_	Gloss=4.Perf.Rel|Relative=Rel
 27	fi	fi	VERB	_	_	26	comp:aux	_	Gloss=exceed
 28	kaːmà	kaːm-	VERB	_	_	27	comp:obj	_	Gloss=catch
@@ -172,7 +172,7 @@
 2	kaːmà	kaːm-	VERB	_	_	1	comp:obj	_	Gloss=catch
 3	mutàːneː	mùtûm	NOUN	_	Number=Plur	2	comp:obj	_	Gloss=people.Plur
 4	huɗu	huɗu	NUM	_	_	3	mod:num	_	Gloss=four
-5	wàɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	3	mod@relcl	_	Gloss=REL.Plur|wordform=wadanda
+5	wàɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	3	mod@relcl	_	Gloss=REL.Plur|wordform=wadanda
 6	akà	yaː	AUX	_	Aspect=Perf|Person=4	5	comp:obj	_	Gloss=4.Perf.Rel|Relative=Rel
 7	cêː	cêː	VERB	_	_	6	comp:aux	_	Gloss=say|wordform=cê
 8	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	13	comp:pred	_	Gloss=child.Plur.Cons
@@ -189,7 +189,7 @@
 19	neːman	neːm-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp:aux	_	Gloss=look_for.Vnoun.Masc.Cons
 20	wani	wani	DET	_	Definite=Spec|Gender=Masc	21	det	_	Gloss=some.Masc.Spec
 21	mùtûm	mùtûm	NOUN	_	Gender=Masc	19	comp:obj	_	Gloss=man.Masc
-22	wàndà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	21	mod@relcl	_	Gloss=REL.Masc|wordform=wanda
+22	wàndà	wandà	PRON	_	Gender=Masc|PronType=Rel	21	mod@relcl	_	Gloss=REL.Masc|wordform=wanda
 23	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	22	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
 24	bayyànà	bayyan-	VERB	_	_	23	comp:aux	_	Gloss=explain
 25	kânsà	kânsà	PRON	_	Gender=Masc|Person=3|PronType=Prs|Reflex=Yes	24	comp:obj	_	Gloss=3Masc.Reflex
@@ -218,7 +218,7 @@
 10	akèː	nàː	AUX	_	Aspect=Prog|Person=4	9	comp:obj	_	Gloss=4.Prog.Rel|Relative=Rel
 11	zàrgiː	zarg-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:aux	_	Gloss=accuse.Vnoun.Masc|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
-13	wàndà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	8	mod@relcl	_	Gloss=REL.Masc
+13	wàndà	wandà	PRON	_	Gender=Masc|PronType=Rel	8	mod@relcl	_	Gloss=REL.Masc
 14	kuma	kuma	PART	_	PartType=Top	13	discourse@top	_	Gloss=also
 15	akèː	nàː	AUX	_	Aspect=Prog|Person=4	13	comp:obj	_	Gloss=4.Prog.Rel|Relative=Rel
 16	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:aux	_	Gloss=hear.Vnoun.Masc.Cons
@@ -257,7 +257,7 @@
 23	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	21	conj:coord	_	Gloss=there_is.Neg
 24	ganiː	ganiː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	23	subj	_	Gloss=see.Vnoun.Masc|SpaceAfter=No
 25	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
-26	wàndà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	14	mod@relcl	_	Gloss=REL.Masc
+26	wàndà	wandà	PRON	_	Gender=Masc|PronType=Rel	14	mod@relcl	_	Gloss=REL.Masc
 27	har̃	har̃	ADV	_	Definite=Cons|Gender=Fem	28	mod	_	Gloss=even
 28	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	26	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
 29	yi	yi	VERB	_	_	28	comp:aux	_	Gloss=do
@@ -306,7 +306,7 @@
 25	ɗaukàr̃	ɗauk-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	24	comp:obj	_	Gloss=take.Vnoun.Fem.Cons
 26	ƙwaːyoːyîn	ƙwàːyaː	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	25	comp:obj	_	Gloss=virus.Plur.Def|SpaceAfter=No
 27	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
-28	wàndà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	21	mod@relcl	_	Gloss=REL.Masc|wordform=wanda
+28	wàndà	wandà	PRON	_	Gender=Masc|PronType=Rel	21	mod@relcl	_	Gloss=REL.Masc|wordform=wanda
 29	kuma	kuma	PART	_	PartType=Top	28	discourse@top	_	Gloss=also
 30	akà	yaː	AUX	_	Aspect=Perf|Person=4	28	comp:obj	_	Gloss=4.Perf.Rel|Relative=Rel
 31	cêː	cêː	VERB	_	_	30	comp:aux	_	Gloss=say|wordform=cê
@@ -316,7 +316,7 @@
 35	kòːkên	kòːkên	NOUN	_	Definite=Cons|Gender=Masc	34	mod	_	Gloss=cocaine.Fem
 36	ɗîn	ɗîn	DET	_	Definite=Def	34	det	_	Gloss=Def|SpaceAfter=No
 37	,	,	PUNCT	_	_	38	punct	_	Gloss=PUNCT
-38	wàddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	34	mod@relcl	_	Gloss=REL.Fem|wordform=wadda
+38	wàddà	wandà	PRON	_	Gender=Fem|PronType=Rel	34	mod@relcl	_	Gloss=REL.Fem|wordform=wadda
 39	takèː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	38	comp:obj	_	Gloss=3Fem.Prog.Rel|Relative=Rel
 40	à	à	ADP	_	_	39	comp:pred	_	Gloss=at
 41	nànnàɗe	nannaɗ-	VERB	_	ExtPos=ADV|Number=Plur|VerbForm=Stat	40	comp:pred	_	Gloss=tie.Plur.Stat
@@ -346,7 +346,7 @@
 4	wata	wani	DET	_	Definite=Spec|Gender=Fem	5	det	_	Gloss=some.Fem.Spec
 5	dàbaːr̃àː	dàbaːr̃àː	NOUN	_	Gender=Fem	6	comp:pred	_	Gloss=trick.Fem
 6	ceː	neː	AUX	_	Gender=Fem	0	root	_	Copula=Yes|Gloss=be.Fem
-7	wàddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	5	mod@relcl	_	Gloss=REL.Fem
+7	wàddà	wandà	PRON	_	Gender=Fem|PronType=Rel	5	mod@relcl	_	Gloss=REL.Fem
 8	màːsu	mài	PART	_	Number=Plur|PartType=Der	12	subj	_	Gloss=owner/doer_of.Plur
 9	sùmoːgàr̃	sùmoːgàː	VERB	_	Definite=Cons|Gender=Fem	8	compound	_	Gloss=smuggling.Fem.Cons
 10	miyàːgun	muːgùː	ADJ	_	Definite=Cons|Number=Plur	11	mod	_	Gloss=bad.Plur
@@ -409,7 +409,7 @@
 17	dà	dà	CCONJ	_	_	16	comp:obl	_	Gloss=and|wordform=da
 18	ƙwaːyoːyîn	ƙwàːyaː	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	17	comp:obj	_	Gloss=drug.Plur.Def|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-20	wàndà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	10	mod@relcl	_	Gloss=REL.Masc|wordform=wanda
+20	wàndà	wandà	PRON	_	Gender=Masc|PronType=Rel	10	mod@relcl	_	Gloss=REL.Masc|wordform=wanda
 21	kuma	kuma	PART	_	PartType=Top	20	discourse@top	_	Gloss=also
 22	hakàn	hakà	ADV	_	_	23	mod	_	Gloss=thus
 23	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	20	comp:obj	_	Gloss=3Masc.Prog|wordform=yana
@@ -442,7 +442,7 @@
 18	miyàr̃	miyàː	NOUN	_	Definite=Cons|Gender=Fem	17	comp:obj	_	Gloss=sauce.Fem.Cons
 19	kuɓèːwaː	kuɓèːwaː	NOUN	_	Gender=Fem	18	mod	_	Gloss=gombo.Fem|SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-21	wàccè	wandà	SCONJ	_	Gender=Fem|PronType=Rel	18	mod@relcl	_	Gloss=which.Fem
+21	wàccè	wandà	PRON	_	Gender=Fem|PronType=Rel	18	mod@relcl	_	Gloss=which.Fem
 22	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	21	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
 23	yi	yi	VERB	_	_	22	comp:aux	_	Gloss=do
 24	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	23	comp:pred	_	Gloss=use.Masc
@@ -453,7 +453,7 @@
 29	sauƙin	sauƙiː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	Gloss=facility.Masc.Cons
 30	hadìyêːwâr̃	hadiy-	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	29	mod	_	Gloss=swallow.Vnoun.Fem.Def|SpaceAfter=No
 31	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
-32	wàddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	21	conj:coord	_	Gloss=REL.Fem
+32	wàddà	wandà	PRON	_	Gender=Fem|PronType=Rel	21	conj:coord	_	Gloss=REL.Fem
 33	kuma	kuma	PART	_	PartType=Top	32	discourse@top	_	Gloss=also
 34	dâː	dâː	ADV	_	_	36	mod	_	Gloss=formerly
 35	maː	maː	PART	_	_	34	discourse@top	_	Gloss=even
@@ -487,7 +487,7 @@
 17	fataucìn	fataucìː	NOUN	_	Definite=Cons|Gender=Masc	16	subj	_	Gloss=trade.Masc.Cons
 18	miyàːgun	muːgùː	ADJ	_	Definite=Cons|Number=Plur	19	mod	_	Gloss=bad.Plur
 19	ƙwaːyoːyiː	ƙwàːyaː	NOUN	_	Number=Plur	17	comp:obj	_	Gloss=drug.Plur
-20	wàɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	14	mod@relcl	_	Gloss=REL.Plur|wordform=wadandal
+20	wàɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	14	mod@relcl	_	Gloss=REL.Plur|wordform=wadandal
 21	akà	yaː	AUX	_	Aspect=Perf|Person=4	20	comp:obj	_	Gloss=4.Perf.Rel|Relative=Rel|wordform=aka
 22	tar̃wàtsaː	tar̃wats-	VERB	_	_	21	comp:aux	_	Gloss=dismantle
 23	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	22	mod	_	Gloss=up_to
@@ -576,7 +576,7 @@
 26	Jennifer	Jennifer	PROPN	_	_	24	mod	_	Gloss=Jennifer
 27	Madike	Madike	PROPN	_	_	26	flat@name	_	Gloss=Madike
 28	"	"	PUNCT	_	_	26	punct	_	Gloss=PUNCT
-29	wàddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	22	mod@relcl	_	Gloss=REL.Fem
+29	wàddà	wandà	PRON	_	Gender=Fem|PronType=Rel	22	mod@relcl	_	Gloss=REL.Fem
 30	akà	yaː	AUX	_	Aspect=Perf|Person=4	29	comp:obj	_	Gloss=4.Perf.Rel|Relative=Rel|wordform=aka
 31	tsarèː	tsar-	VERB	_	Gender=Masc	30	comp:aux	_	Gloss=imprison
 32	sabòːdà	sabòːdà	ADP	_	_	31	mod	_	Gloss=because_of

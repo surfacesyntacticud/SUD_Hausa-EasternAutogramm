@@ -133,7 +133,7 @@
 25	zuwàː	zuwàː	ADP	_	_	22	conj:coord	_	Gloss=towards
 26	Japananciː	Japananciː	PROPN	_	Gender=Masc	25	comp:obj	_	Gloss=Japanese|SpaceAfter=No
 27	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
-28	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	11	mod@relcl	_	Gloss=REL.Masc
+28	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	11	mod@relcl	_	Gloss=REL.Masc
 29	akèː	nàː	AUX	_	Aspect=Prog|Person=4	28	comp:obj	_	Gloss=4.Prog.Rel|Relative=Rel
 30	kiràː	kiraː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	29	comp:aux	_	Gloss=call.Vnoun.Masc
 31	"	"	PUNCT	_	_	32	punct	_	Gloss=PUNCT
@@ -257,7 +257,7 @@
 10	harìː	harìː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=attack.Masc
 11	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with|wordform=da
 12	sùkùddìr̃eːbàː	sùkùddìr̃eːbàː	NOUN	_	Gender=Fem	11	comp:obj	_	Gloss=screwdriver.Fem
-13	indà	indà	SCONJ	_	PronType=Rel	10	mod@relcl	_	Gloss=where
+13	indà	indà	PRON	_	PronType=Rel	10	mod@relcl	_	Gloss=where
 14	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	13	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
 15	daɓàː	daɓ-	VERB	_	_	14	comp:aux	_	Gloss=stab
 16	wà	wà	ADP	_	Case=Dat	15	comp:obl	_	Gloss=Dat

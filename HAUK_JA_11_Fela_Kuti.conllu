@@ -81,7 +81,7 @@
 6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=and
 7	baːya	baːya	ADV	_	_	5	comp:obj	_	Gloss=back|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-9	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	3	mod@relcl	_	Gloss=REL.Masc
+9	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	3	mod@relcl	_	Gloss=REL.Masc
 10	akà	yaː	AUX	_	Aspect=Perf|Person=4	9	comp:obj	_	Gloss=4.Perf.Rel|Relative=Rel
 11	hàifaː	haif-	VERB	_	_	10	comp:aux	_	Gloss=give_birth_to
 12	à	à	ADP	_	_	11	mod	_	Gloss=at
@@ -110,7 +110,7 @@
 35	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	conj:coord	_	Gloss=3Masc.Perf.Rel|Relative=Rel
 36	koːmàː	koːm-	VERB	_	_	35	comp:aux	_	Gloss=go_(back)_to
 37	Ìkko	Ìkko	PROPN	_	_	36	comp:obj@G	_	Gloss=Lagos
-38	indà	indà	SCONJ	_	PronType=Rel	37	mod@relcl	_	Gloss=where
+38	indà	indà	PRON	_	PronType=Rel	37	mod@relcl	_	Gloss=where
 39	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	38	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
 40	zama	zama	VERB	_	_	39	comp:aux	_	Gloss=become
 41	àkàːwu	àkàːwu	NOUN	_	Gender=Masc	40	comp:pred	_	Gloss=accountant.Masc
@@ -244,7 +244,7 @@
 28	ƙar̃ƙashin	ƙar̃ƙashin	ADP	_	_	27	comp:obj	_	Gloss=under
 29	gadoːnaː	gadoː	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes	28	comp:obj	_	CaseAf=Gen|Gloss=bed.Masc.Cons-1SingGen|MSeg=gadoːn-aː|NumberAf=Sing|PersonAf=1|SpaceAfter=No|wordform=gadoː
 30	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
-31	wàccè	wandà	SCONJ	_	Gender=Fem|PronType=Rel	26	mod@relcl	_	Gloss=which.Fem
+31	wàccè	wandà	PRON	_	Gender=Fem|PronType=Rel	26	mod@relcl	_	Gloss=which.Fem
 32	ɗaya	ɗaya	NUM	_	_	36	subj	_	Gloss=one
 33	dàgà	dàgà	ADP	_	_	32	mod	_	Gloss=from
 34	cikin	cikin	ADP	_	_	33	comp:obj	_	Gloss=inside
@@ -378,7 +378,7 @@
 16	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	15	comp:obj@G	_	Gloss=ProxS
 17	Landân	Landân	PROPN	_	_	16	conj:appos	_	Gloss=London|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-19	indà	indà	SCONJ	_	PronType=Rel	17	mod@relcl	_	Gloss=where
+19	indà	indà	PRON	_	PronType=Rel	17	mod@relcl	_	Gloss=where
 20	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	19	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
 21	shìga	shig-	VERB	_	_	20	comp:aux	_	Gloss=enter
 22	Kwaleːjìn	kwaleːjìː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:obj@G	_	Gloss=college.Masc.Cons
@@ -402,7 +402,7 @@
 5	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf.Rel|Relative=Rel
 6	koːmàː	koːm-	VERB	_	_	5	comp:aux	_	Gloss=go_(back)_to
 7	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	6	comp:obj@G	_	Gloss=Nigeria
-8	indà	indà	SCONJ	_	PronType=Rel	7	mod@relcl	_	Gloss=where
+8	indà	indà	PRON	_	PronType=Rel	7	mod@relcl	_	Gloss=where
 9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	8	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
 10	yi	yi	VERB	_	_	9	comp:aux	_	Gloss=do
 11	ta	ta	PART	_	Aspect=Iter	10	compound:prt	_	Gloss=Iter
@@ -464,7 +464,7 @@
 39	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	38	comp:obj	_	Gloss=do.Vnoun.Masc.Cons
 40	fàyàːfàyai	faifai	NOUN	_	Number=Plur	39	comp:pred	_	Gloss=record.Plur
 41	irìː-irìː	irìː-irìː	ADJ	_	Gender=Masc	40	mod	_	Gloss=various
-42	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	40	mod@relcl	_	Gloss=REL.Plur|wordform=wadandal
+42	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	40	mod@relcl	_	Gloss=REL.Plur|wordform=wadandal
 43	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	42	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Rel
 44	sâː	sâː	VERB	_	_	43	comp:aux	_	Gloss=put
 45	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	44	comp:obj	_	Gloss=3Masc.Acc
@@ -519,7 +519,7 @@
 15	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	16	mod@desc	_	Gloss=city.Masc.Cons
 16	Ìkko	Ìkko	PROPN	_	_	14	comp:obj	_	Gloss=Lagos|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-18	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	4	mod@relcl	_	Gloss=REL.Masc
+18	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	4	mod@relcl	_	Gloss=REL.Masc
 19	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	18	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
 20	laƙàbaː	laƙab-	VERB	_	_	19	comp:aux	_	Gloss=nickname
 21	wà	wà	ADP	_	Case=Dat	20	comp:obl	_	Gloss=Dat
@@ -707,7 +707,7 @@
 23	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	22	mod	_	Gloss=Gen.Fem
 24	kânsà	kânsà	PRON	_	Gender=Masc|Person=3|PronType=Prs|Reflex=Yes	23	comp:obj	_	Gloss=3Masc.Reflex
 25	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
-26	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	22	mod@relcl	_	Gloss=REL.Fem
+26	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	22	mod@relcl	_	Gloss=REL.Fem
 27	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	26	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
 28	kiraː	kiraː	VERB	_	_	27	comp:aux	_	Gloss=call
 29	"	"	PUNCT	_	_	30	punct	_	Gloss=PUNCT
@@ -737,7 +737,7 @@
 8	jàm'iyyàr̃	jàm'iyyàː	NOUN	_	Definite=Def|Gender=Fem	7	mod	_	Gloss=party.Fem.Def
 9	taːsà	taːsà	PRON	_	Case=Gen|Gender=Fem|Poss=Yes|PronType=Pers	8	mod@poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-sà|PersonAf=3|SpaceAfter=No|wordform=taː
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-11	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	7	mod@relcl	_	Gloss=REL.Fem
+11	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	7	mod@relcl	_	Gloss=REL.Fem
 12	à	à	ADP	_	_	14	mod	_	Gloss=at
 13	cikintà	cikin	ADP	_	Poss=Yes	12	comp:obj	_	CaseAf=Gen|GenderAf=Fem|Gloss=inside-3FemGen|MSeg=cikin-tà|PersonAf=3|SpaceAfter=No
 14	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	11	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
@@ -800,7 +800,7 @@
 21	gàban	gàban	ADP	_	_	18	comp:obl	_	Gloss=in_front_of
 22	shàr̃i'àː	shàr̃i'àː	NOUN	_	Gender=Fem	21	mod	_	Gloss=court.Fem|SpaceAfter=No
 23	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
-24	indà	indà	SCONJ	_	PronType=Rel	22	mod@relcl	_	Gloss=where
+24	indà	indà	PRON	_	PronType=Rel	22	mod@relcl	_	Gloss=where
 25	akà	yaː	AUX	_	Aspect=Perf|Person=4	24	comp:obj	_	Gloss=4.Perf.Rel|Relative=Rel
 26	yankèː	yank-	VERB	_	_	25	comp:aux	_	Gloss=cut
 27	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	26	comp:obl	_	Gloss=3Masc.Dat
@@ -883,7 +883,7 @@
 26	dà	dà	CCONJ	_	_	27	cc	_	Gloss=and
 27	bakwài	bakwài	NUM	_	_	25	conj:coord	_	Gloss=seven|SpaceAfter=No
 28	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
-29	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	21	mod@relcl	_	Gloss=REL.Plur
+29	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	21	mod@relcl	_	Gloss=REL.Plur
 30	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	29	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
 31	àuri	aur-	VERB	_	_	30	comp:aux	_	Gloss=marry
 32	dukkànsù	dukà	PRON	_	Definite=Cons|Poss=Yes	31	comp:obj	_	CaseAf=Gen|Gloss=all.Cons-3PlurGen|MSeg=dukkàn-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No

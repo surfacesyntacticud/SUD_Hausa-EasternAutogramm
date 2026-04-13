@@ -127,7 +127,7 @@
 14	kèː	nàː	AUX	_	Aspect=Prog	13	comp:obj	_	Gloss=Prog.Rel|Relative=Rel
 15	Ìkko	Ìkko	PROPN	_	_	14	comp:pred	_	Gloss=Lagos|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-17	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	11	mod@relcl	_	Gloss=REL.Masc
+17	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	11	mod@relcl	_	Gloss=REL.Masc
 18	à	à	ADP	_	_	21	mod	_	Gloss=at
 19	dâː	dâː	ADV	_	_	18	comp:obj	_	Gloss=formerly
 20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	21	comp:pred	_	Gloss=3Masc.Nom
@@ -267,7 +267,7 @@
 23	dà	dà	ADP	_	_	22	comp:obl	_	Gloss=with
 24	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	23	comp:obj	_	Gloss=3Masc.Nom|SpaceAfter=No
 25	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
-26	indà	indà	SCONJ	_	PronType=Rel	19	mod@relcl	_	Gloss=where
+26	indà	indà	PRON	_	PronType=Rel	19	mod@relcl	_	Gloss=where
 27	zaːsù	zâi	AUX	_	Number=Plur|Person=3|Tense=Fut	26	comp:obj	_	Gloss=3Plur.Fut|wordform=sù
 28	iyà	iy-	VERB	_	_	27	comp:aux	_	Gloss=be_able_to
 29	raːmà	raːm-	VERB	_	_	28	comp:obj	_	Gloss=return
@@ -326,7 +326,7 @@
 15	zuwàː	zuwàː	ADP	_	_	14	comp:obl	_	Gloss=towards
 16	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	15	mod	_	Gloss=house.Masc.Cons
 17	Gwamnàn	gwamnàː	PROPN	_	Gender=Masc	16	mod	_	Gloss=governor.Masc
-18	indà	indà	SCONJ	_	PronType=Rel	16	mod@relcl	_	Gloss=where
+18	indà	indà	PRON	_	PronType=Rel	16	mod@relcl	_	Gloss=where
 19	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	18	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Rel
 20	ci	ci	VERB	_	_	19	comp:aux	_	Gloss=eat
 21	àbincin	àbinciː	NOUN	_	Definite=Cons|Gender=Masc	20	comp:obj	_	Gloss=food.Masc.Cons
@@ -422,7 +422,7 @@
 9	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	7	mod	_	Gloss=Gen.Masc
 10	Korup	Korup	PROPN	_	_	9	comp:obj	_	Gloss=Korup|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-12	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	7	mod@relcl	_	Gloss=REL.Masc
+12	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	7	mod@relcl	_	Gloss=REL.Masc
 13	kuma	kuma	PART	_	PartType=Top	12	discourse@top	_	Gloss=also
 14	wataƙiːlà	wataƙiːlà	ADV	_	_	16	mod	_	Gloss=maybe
 15	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	16	comp:pred	_	Gloss=3Masc.Nom
@@ -461,7 +461,7 @@
 6	wata	wani	DET	_	Definite=Spec|Gender=Fem	8	det	_	Gloss=some.Fem.Spec
 7	irìn	irìː	NOUN	_	_	8	mod@desc	_	Gloss=type_of
 8	gadàː	gadàː	NOUN	_	Gender=Fem	5	comp:obj	_	Gloss=bridge.Fem
-9	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	8	mod@relcl	_	Gloss=REL.Fem
+9	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	8	mod@relcl	_	Gloss=REL.Fem
 10	kèː	nàː	AUX	_	Aspect=Prog	9	comp:obj	_	Gloss=Prog.Rel|Relative=Rel
 11	reːtòː	rētòː	NOUN	_	Gender=Masc	10	comp:pred	_	Gloss=hanging.Masc
 12	dàgà	dàgà	ADP	_	_	11	comp:obl	_	Gloss=from

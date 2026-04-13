@@ -211,7 +211,7 @@
 6	nèː	neː	PART	_	PartType=Foc	5	discourse@foc	_	Gloss=Emph
 7	ƙanaːnàː	ƙàramiː	ADJ	_	Number=Plur	5	mod	_	Gloss=small.Plur|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-9	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	1	mod@relcl	_	Gloss=REL.Plur
+9	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	1	mod@relcl	_	Gloss=REL.Plur
 10	bàsù	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Polarity=Neg	9	comp:obj	_	Gloss=3Plur.Perf.Neg
 11	kai	kai	VERB	_	_	10	comp:aux	_	Gloss=reach/carry_to
 12	minzàlin	minzàliː	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	Gloss=status.Masc.Cons
@@ -269,7 +269,7 @@
 26	kàmar̃	kàmar̃	ADP	_	_	14	mod	_	Gloss=like
 27	kùmburin	kùmburiː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:obj	_	Gloss=swelling.Masc.Cons
 28	ƙafàːfunsù	ƙafàː	NOUN	_	Definite=Cons|Number=Plur|Poss=Yes	27	mod	_	CaseAf=Gen|Gloss=leg.Plur.Cons-3PlurGen|MSeg=ƙafàːfun-sù|NumberAf=Plur|PersonAf=3|wordform=ƙafàːfun
-29	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	27	mod@relcl	_	Gloss=REL.Masc
+29	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	27	mod@relcl	_	Gloss=REL.Masc
 30	akèː	nàː	AUX	_	Aspect=Prog|Person=4	29	comp:obj	_	Gloss=4.Prog.Rel|Relative=Rel
 31	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	30	comp:aux	_	Gloss=seen.Vnoun.Masc.Cons
 32	cêːwaː	cêːwaː	SCONJ	_	_	31	comp:obj	_	Gloss=COMP
@@ -425,7 +425,7 @@
 14	yawàn	yawàn	ADJ	_	Definite=Cons|Gender=Masc	13	comp:obj	_	Gloss=quantity.Masc.Cons
 15	iyàːyeː	uwaː	NOUN	_	Number=Plur	14	mod	_	Gloss=mother.Plur
 16	maːtaː	tamàːta	ADJ	_	Number=Plur	15	mod	_	Gloss=female.Plur
-17	waɗàndà	wandà	SCONJ	_	Number=Plur|PronType=Rel	15	mod@relcl	_	Gloss=REL.Plur
+17	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	15	mod@relcl	_	Gloss=REL.Plur
 18	sukèː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	17	comp:obj	_	Gloss=3Plur.Prog.Rel|Relative=Rel
 19	mutuwàː	mutù	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	18	comp:aux	_	Gloss=die.Vnoun.Fem
 20	dàgà	dàgà	ADP	_	_	19	comp:obl	_	Gloss=from
@@ -449,7 +449,7 @@
 7	nèː	neː	AUX	_	_	0	root	_	Copula=Yes|Gloss=be
 8	gà	gà	ADP	_	_	5	mod	_	Gloss=to
 9	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	8	comp:obj	_	Gloss=country.Fem
-10	waddà	wandà	SCONJ	_	Gender=Fem|PronType=Rel	9	mod@relcl	_	Gloss=REL.Fem
+10	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	9	mod@relcl	_	Gloss=REL.Fem
 11	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	15	subj	_	Gloss=quantity.Masc.Cons
 12	jàma'àr̃tà	jàma'àː	NOUN	_	Definite=Cons|Gender=Fem|Poss=Yes	11	mod	_	CaseAf=Gen|GenderAf=Fem|Gloss=population.Fem.Cons-3FemGen|MSeg=jàma'àr̃-tà|PersonAf=3|SpaceAfter=No
 13	kashìː	kashìː	NUM	_	Gender=Masc	15	comp:pred	_	Gloss=portion.Masc
@@ -555,7 +555,7 @@
 13	kafà	kaf-	VERB	_	_	12	comp:aux	_	Gloss=set_up
 14	wani	wani	DET	_	Definite=Spec|Gender=Masc	15	det	_	Gloss=some.Masc.Spec
 15	kwàmìtî	kwàmìtî	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=committee.Masc
-16	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	15	mod@relcl	_	Gloss=REL.Masc
+16	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	15	mod@relcl	_	Gloss=REL.Masc
 17	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	16	comp:obj	_	Gloss=3Masc.Fut
 18	tabbatar̃	tabbat-	VERB	_	Voice=Cau	17	comp:aux	_	Gloss=be_sure.Cau
 19	dà	dà	ADP	_	_	18	comp:obl	_	Gloss=with
@@ -566,7 +566,7 @@
 24	sàuka	sauk-	VERB	_	_	23	comp:aux	_	Gloss=give_birth
 25	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	24	comp:obj	_	Gloss=health.Fem|SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
-27	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	16	conj:coord	_	Gloss=REL.Masc
+27	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	16	conj:coord	_	Gloss=REL.Masc
 28	kuma	kuma	PART	_	PartType=Top	27	discourse@top	_	Gloss=also
 29	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	27	comp:obj	_	Gloss=3Masc.Fut
 30	ƙaːrà	ƙaːr-	VERB	_	_	29	comp:aux	_	Gloss=increase
