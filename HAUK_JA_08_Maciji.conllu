@@ -20,7 +20,7 @@
 5	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 6	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=COMP
 7	kèː	nàː	AUX	_	Aspect=Prog	6	comp:obj	_	Gloss=Prog.Rel|Relative=Rel
-8	jihàr̃	jihàr̃	ADP	_	Definite=Cons|Gender=Fem	9	mod@desc	_	Gloss=state.Fem.Cons
+8	jihàr̃	jihàr̃	ADP	_	Gender=Fem	9	mod@desc	_	Gloss=state.Fem.Cons
 9	Binuwài	Binuwài	PROPN	_	_	7	comp:pred	_	Gloss=Benue
 10	can	can	ADV	_	Deixis=Remt|PronType=Dem	9	conj:appos	_	Gloss=Remt
 11	areːwacin	areːwacin	ADP	_	_	10	conj:appos	_	Gloss=north_of
@@ -32,7 +32,7 @@
 17	gùdaː	gùdaː	NOUN	_	Gender=Masc	16	mod:num	_	Gloss=unit.Masc
 18	takwàs	takwàs	NUM	_	_	17	mod:num	_	Gloss=eight
 19	asìbitì	asìbitì	NOUN	_	Gender=Masc	14	comp:obj@G	_	Gloss=hospital.Masc|wordform=asibiti
-20	baːyân	baːyân	ADP	_	Definite=Def|ExtPos=SCONJ	14	mod	_	Gloss=after.Def|Idiom=Yes
+20	baːyân	baːyân	ADP	_	ExtPos=SCONJ	14	mod	_	Gloss=after.Def|Idiom=Yes
 21	dà	dà	SCONJ	_	_	20	comp:obj	_	Gloss=COMP|InIdiom=Yes
 22	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	20	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Rel
 23	cikà	cik-	VERB	_	_	22	comp:aux	_	Gloss=fill
@@ -69,7 +69,7 @@
 13	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	14	det	_	Gloss=ProxS.Masc
 14	macìːjiː	macìːjiː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=snake.Masc
 15	nèː	neː	PART	_	PartType=Foc	12	discourse@foc	_	Gloss=Emph
-16	baːyân	baːyân	ADP	_	Definite=Def	11	mod	_	Gloss=after.Def
+16	baːyân	baːyân	ADP	_	_	11	mod	_	Gloss=after.Def
 17	dà	dà	SCONJ	_	_	16	comp:obj	_	Gloss=COMP
 18	wata	wani	DET	_	Definite=Spec|Gender=Fem	20	det	_	Gloss=some.Fem.Spec
 19	bàbbar̃	bàbba	ADJ	_	Definite=Cons|Gender=Fem	20	mod	_	Gloss=big.Fem.Cons
@@ -200,7 +200,7 @@
 25	yi	yi	VERB	_	_	24	comp:aux	_	Gloss=do
 26	ta	ta	PART	_	Aspect=Iter	25	compound:prt	_	Gloss=Iter
 27	aikìː	aikìː	NOUN	_	Gender=Masc	25	comp:pred	_	Gloss=work.Masc
-28	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	27	mod	_	Gloss=up_to
+28	har̃	har̃	ADP	_	_	27	mod	_	Gloss=up_to
 29	tsawon	tsawoː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	Gloss=length.Masc.Cons
 30	saː'oː'iː	saː'àː	NOUN	_	Number=Plur	29	mod	_	Gloss=hour.Plur
 31	dòːmin	dòːmin	ADP	_	_	27	mod	_	Gloss=in_order_to

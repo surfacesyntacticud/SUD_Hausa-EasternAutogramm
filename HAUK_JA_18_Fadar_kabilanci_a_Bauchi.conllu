@@ -4,7 +4,7 @@
 # text = rashìn jìtuwaː tsàkaːnin Mùsùlmiː dà Kir̃istoːciː à jihàr̃ Bauci yaː koːmàː faɗàn ƙabiːlanciː dà àddiːnìː
 1	rashìn	ras-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	subj	_	Gloss=lack.Vnoun.Masc.Cons
 2	jìtuwaː	jit-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	1	comp:obj	_	Gloss=tolerate.Vnoun.Fem
-3	tsàkaːnin	tsàkaːnin	ADP	_	Definite=Cons	1	mod	_	Gloss=between
+3	tsàkaːnin	tsàkaːnin	ADP	_	_	1	mod	_	Gloss=between
 4	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	3	comp:obj	_	Gloss=Muslim.Plur
 5	dà	dà	CCONJ	_	_	6	cc	_	Gloss=and
 6	Kir̃istoːciː	Kir̃istàː	NOUN	_	Number=Plur	4	conj:coord	_	Gloss=Christian.Plur
@@ -93,7 +93,7 @@
 11	kân	kân	ADP	_	_	10	comp:obl	_	Gloss=on_top_of
 12	lamàr̃în	lamàr̃iː	NOUN	_	Definite=Def|Gender=Masc	11	comp:obj	_	Gloss=problem.Masc.Def|SpaceAfter=No
 13	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-14	har̃	har̃	ADP	_	Definite=Cons|Gender=Fem	16	mod	_	Gloss=up_to
+14	har̃	har̃	ADP	_	_	16	mod	_	Gloss=up_to
 15	yànzu	yànzu	ADV	_	_	14	comp:obj	_	Gloss=now
 16	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	Gloss=there_is
 17	àlàːmun	àlaːmàː	NOUN	_	Definite=Cons|Number=Plur	16	subj	_	Gloss=sign.Plur.Cons
@@ -169,7 +169,7 @@
 36	tàmàːnin	tàmàːnin	NUM	_	_	33	conj:coord	_	Gloss=eighty
 37	dà	dà	CCONJ	_	_	38	cc	_	Gloss=and
 38	ukù	ukù	NUM	_	_	36	conj:coord	_	Gloss=three
-39	tsàkaːnin	tsàkaːnin	ADP	_	Definite=Cons|Gender=Masc	28	comp:obl	_	Gloss=between
+39	tsàkaːnin	tsàkaːnin	ADP	_	Gender=Masc	28	comp:obl	_	Gloss=between
 40	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	39	comp:obj	_	Gloss=Muslim.Plur
 41	dà	dà	CCONJ	_	_	42	cc	_	Gloss=and
 42	Kir̃istoːciː	Kir̃istàː	NOUN	_	Number=Plur	40	conj:coord	_	Gloss=Christian.Plur|SpaceAfter=No
