@@ -266,7 +266,7 @@
 # sent_id = 18_Fadar_kabilanci_a_Bauchi_8
 # text_en = From there, the disturbances spread to other districts of Bauchi State, until it reached the capital of the state, where later eighty people died and then churches and buildings were set on fire.
 # text_ortho = Dàgà nan nèː kuma sai taːshìn hankàlîn ya bàzu sauran sâssan jihàr̃ ta Bauci, har̃ ya kai gà bàbban bir̃nin jihàr̃, wandà dàgà bìsaːniː kìːmaːnìn mutàːneː tàmàːnin sukà rasà raːyukànsù , sànnan kuma akà cinnàː wà coːcì-coːcì dà gìne-gìne wutaː.
-# text = dàgà nan nèː kuma sai taːshìn hankàlîn ya bàzu sauran sâssan jihàr̃ ta Bauci, har̃ ya kai gà bàbban bir̃nin jihàr̃, wandà dàgà bìsaːniː kìːmaːnìn mutàːneː tàmàːnin sukà rasà raːyukànsù , sànnan kuma akà cinnàː wà coːcì-coːcì dà gìne-gìne wutaː.
+# text = dàgà nan nèː kuma sai taːshìn hankàlîn ya bàzu sauran sâssan jihàr̃ ta Bauci, har̃ ya kai gà bàbban bir̃nin jihàr̃, wandà dàgà bìsaːniː kìːmaːnìn mutàːneː tàmàːnin sukà rasà raːyukànsù, sànnan kuma akà cinnàː wà coːcì-coːcì dà gìne-gìne wutaː.
 1	dàgà	dàgà	ADP	_	_	8	mod	_	Gloss=from
 2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp:obj	_	Gloss=ProxH
 3	nèː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
@@ -305,7 +305,7 @@
 36	akà	yaː	AUX	_	Aspect=Perf|Person=4	30	parataxis@conj	_	Gloss=4.Perf.Rel|Relative=Rel
 37	cinnàː	cinn-	VERB	_	_	36	comp:aux	_	Gloss=set_fire
 38	wà	wà	ADP	_	Case=Dat	37	comp:obl	_	Gloss=Dat
-39	coːcì-coːcì	coːcì	ADV	_	Number=Plur	38	comp:obj	_	Gloss=church.Plur
+39	coːcì-coːcì	coːcì	NOUN	_	Number=Plur	38	comp:obj	_	Gloss=church.Plur
 40	dà	dà	CCONJ	_	_	41	cc	_	Gloss=and
 41	gìne-gìne	ginìː	VERB	_	Number=Plur	39	conj:coord	_	Gloss=building.Plur
 42	wutaː	wutaː	NOUN	_	Gender=Masc	37	comp:obj	_	Gloss=fire.Masc|SpaceAfter=No
@@ -512,7 +512,7 @@
 33	tàmàːnin	tàmàːnin	NUM	_	_	30	conj:coord	_	Gloss=eighty
 34	dà	dà	CCONJ	_	_	35	cc	_	Gloss=and
 35	ukù	ùkù	NUM	_	_	30	conj:coord	_	Gloss=three
-36	bìsàː	bìsàː	ADP	_	Voice=Cau	6	comp:obl	_	Gloss=according_to
+36	bìsàː	bìsàː	ADP	_	_	6	comp:obl	_	Gloss=according_to
 37	rashìn	ras-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	36	comp:obj	_	Gloss=lack.Vnoun.Masc.Cons
 38	jìtuwar̃	jit-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	37	comp:obj	_	Gloss=tolerate.Vnoun.Fem.Cons
 39	àddiːnìː	àddiːnìː	NOUN	_	Gender=Masc	38	mod	_	Gloss=religion.Masc|SpaceAfter=No

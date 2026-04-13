@@ -276,7 +276,7 @@
 4	tsàràrrûn	tsàràrreː	NOUN	_	Definite=Def|Number=Plur	1	subj	_	Gloss=prisoner.Plur.Def
 5	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	conj:appos	_	Gloss=3Plur.Nom
 6	kìːmaːnìn	kìːmaːnìn	ADP	_	_	5	mod	_	Gloss=about
-7	ɗàriː	ɗàriː	NUM	_	Number=Plur	6	comp:obj	_	Gloss=hundred
+7	ɗàriː	ɗàriː	NUM	_	_	6	comp:obj	_	Gloss=hundred
 8	ɗaya	ɗaya	NUM	_	_	7	flat@num	_	Gloss=one
 9	dà	dà	CCONJ	_	_	10	cc	_	Gloss=and
 10	sàbà'in	sàbà'in	NUM	_	_	7	conj:coord	_	Gloss=seventy
@@ -636,7 +636,7 @@
 31	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = 17_Gidan_yarin_Kirikiri_16
-# text = KNJH ta ƙaːrà dà cêːwaː tanàː shakkàr̃ ìkìr̃aːrìn hukuːmoːmin gidàːjen yaːrìn dà kè: cêːwaː anàː tsarè mutàːneː nèː dà nufìn à gyaːrà haːlinsù , kuma à saːkè baː sù ƙarfin gwiːwàː.
+# text = KNJH ta ƙaːrà dà cêːwaː tanàː shakkàr̃ ìkìr̃aːrìn hukuːmoːmin gidàːjen yaːrìn dà kè: cêːwaː anàː tsarè mutàːneː nèː dà nufìn à gyaːrà haːlinsù, kuma à saːkè baː sù ƙarfin gwiːwàː.
 # text_en = The KNJH went on to state that it has doubts concerning the declarations of the prison authorities that say that say that people are put in prison to reform their character and rehabilitate them.
 # text_ortho = KNJH ta ƙaːrà dà cêːwaː tanàː shakkàr̃ ìkìr̃aːrìn hukuːmoːmin gidàːjen yaːrìn dà kè: cêːwaː anàː tsarè mutàːneː nèː dà nufìn à gyaːrà haːlinsù , kuma à saːkè baː sù ƙarfin gwiːwàː.
 1	KNJH	KNJH	PROPN	_	_	2	subj	_	Gloss=KNJH
@@ -666,7 +666,7 @@
 25	kuma	kuma	CCONJ	_	_	26	cc	_	Gloss=also
 26	à	yà	AUX	_	Mood=Sub|Person=4	21	conj:coord	_	Gloss=4.Sub
 27	saːkè	saːk-	VERB	_	_	26	comp:aux	_	Gloss=repeat
-28	baː	baː	VERB	_	Polarity=Neg	27	comp:obj	_	Gloss=give
+28	baː	baː	VERB	_	_	27	comp:obj	_	Gloss=give
 29	sù	sù	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	28	comp:obj@R	_	Gloss=3Plur.Acc
 30	ƙarfin	ƙarfiː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj@T	_	Gloss=strength.Masc.Cons
 31	gwiːwàː	gwiːwàː	NOUN	_	Gender=Fem	30	compound	_	Gloss=knee.Fem|SpaceAfter=No
