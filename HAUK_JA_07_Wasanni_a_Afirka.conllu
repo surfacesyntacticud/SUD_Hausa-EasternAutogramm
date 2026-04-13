@@ -46,8 +46,8 @@
 8	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	34	subj	_	Gloss=child.Masc.Cons
 9	dambên	dambe	NOUN	_	Definite=Def|Gender=Masc	8	compound	_	Gloss=boxing.Masc.Def
 10	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	8	det	_	Gloss=ProxH
-11	mài	mài	PART	_	Number=Sing|PartType=Der	8	mod	_	Gloss=owner/doer_of.Sing
-12	suːnaː	suːnaː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=name.Masc
+11	mài	mài	PART	_	Number=Sing|PartType=Pred	8	mod	_	Gloss=owner_of.Sing
+12	suːnaː	suːnaː	NOUN	_	Gender=Masc	11	comp.pred	_	Gloss=name.Masc
 13	"	"	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 14	Joe	Joe	PROPN	_	_	12	conj:appos	_	Gloss=Joe
 15	Lasisi	Lasisi	PROPN	_	_	14	flat@name	_	Gloss=Lasisi
@@ -118,8 +118,8 @@
 18	wani	wani	DET	_	Definite=Spec|Gender=Masc	19	det	_	Gloss=some.Masc.Spec
 19	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	Gloss=child.Masc.Cons
 20	Amìr̃kà	Amìr̃kà	PROPN	_	_	19	compound	_	Gloss=Amìr̃kà
-21	mài	mài	PART	_	Number=Sing|PartType=Der	19	mod	_	Gloss=owner/doer_of.Sing
-22	suːnaː	suːnaː	NOUN	_	Gender=Masc	21	compound	_	Gloss=name.Masc
+21	mài	mài	PART	_	Number=Sing|PartType=Pred	19	mod	_	Gloss=owner_of.Sing
+22	suːnaː	suːnaː	NOUN	_	Gender=Masc	21	comp.pred	_	Gloss=name.Masc
 23	"	"	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 24	Virgil	Virgil	PROPN	_	_	22	conj:appos	_	Gloss=Virgil
 25	Hill	Hill	PROPN	_	_	24	flat@name	_	Gloss=Hill
@@ -206,8 +206,8 @@
 16	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=country.Fem
 17	koː	koː	CCONJ	_	_	18	cc	_	Gloss=or
 18	ƙungìyaː	ƙungìyaː	NOUN	_	Gender=Fem	16	conj:coord	_	Gloss=organisation.Fem
-19	mài	mài	PART	_	Number=Sing|PartType=Der	18	mod	_	Gloss=owner/doer_of.Sing
-20	nasabàː	nasabàː	NOUN	_	Gender=Fem	19	compound	_	Gloss=relationship.Fem
+19	mài	mài	PART	_	Number=Sing|PartType=Pred	18	mod	_	Gloss=owner_of.Sing
+20	nasabàː	nasabàː	NOUN	_	Gender=Fem	19	comp.pred	_	Gloss=relationship.Fem
 21	dà	dà	ADP	_	_	20	comp:obl	_	Gloss=with
 22	Afir̃kà	Afir̃kà	PROPN	_	_	21	comp:obj	_	Gloss=Africa
 23	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	22	mod	_	Gloss=Gen.Fem
@@ -310,8 +310,8 @@
 7	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	6	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 9	wani	wani	PRON	_	Definite=Spec|Gender=Masc	3	conj:appos	_	Gloss=some.Masc.Spec
-10	mài	mài	PART	_	Number=Sing|PartType=Der	9	mod	_	Gloss=owner/doer_of.Sing
-11	suːnaː	suːnaː	NOUN	_	Gender=Masc	10	compound	_	Gloss=name.Masc
+10	mài	mài	PART	_	Number=Sing|PartType=Pred	9	mod	_	Gloss=owner_of.Sing
+11	suːnaː	suːnaː	NOUN	_	Gender=Masc	10	comp.pred	_	Gloss=name.Masc
 12	"	"	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	Emmanuel	Emmanuel	PROPN	_	_	11	conj:appos	_	Gloss=Emmanuel
 14	Adeleye	Adeleye	PROPN	_	_	13	flat@name	_	Gloss=Adeleye
