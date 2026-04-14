@@ -405,7 +405,7 @@
 8	indà	indà	PRON	_	PronType=Rel	7	mod@relcl	_	Gloss=where
 9	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	8	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
 10	yi	yi	VERB	_	_	9	comp:aux	_	Gloss=do
-11	ta	ta	PART	_	Aspect=Iter	10	compound:prt	_	Gloss=Iter
+11	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	10	compound:prt	_	Gloss=Iter
 12	gwajìː	gwajìː	NOUN	_	Gender=Masc	10	comp:pred	_	Gloss=practice.Masc|SpaceAfter=No
 13	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 14	kuma	kuma	CCONJ	_	_	15	cc	_	Gloss=also

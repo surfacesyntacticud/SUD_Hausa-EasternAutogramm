@@ -101,7 +101,7 @@
 4	kwaːnaː	kwaːnaː	NOUN	_	Gender=Masc	2	comp:pred	_	Gloss=day.Masc
 5	ukù	ukù	NUM	_	_	4	mod:num	_	Gloss=three
 6	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	2	mod	_	Gloss=3Plur.Prog
-7	ta	ta	PART	_	Aspect=Iter	6	compound:prt	_	Gloss=Iter
+7	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	6	compound:prt	_	Gloss=Iter
 8	dafà	dafàː	VERB	_	_	6	comp:aux	_	Gloss=cook
 9	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	10	det	_	Gloss=ProxS.Masc
 10	kùmurciː	kùmurciː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=cobra.Masc
@@ -198,7 +198,7 @@
 23	tàːru	taːr-	VERB	_	_	22	comp:aux	_	Gloss=gather
 24	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	22	parataxis@conj	_	Gloss=3Plur.Perf.Rel|Relative=Rel
 25	yi	yi	VERB	_	_	24	comp:aux	_	Gloss=do
-26	ta	ta	PART	_	Aspect=Iter	25	compound:prt	_	Gloss=Iter
+26	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	25	compound:prt	_	Gloss=Iter
 27	aikìː	aikìː	NOUN	_	Gender=Masc	25	comp:pred	_	Gloss=work.Masc
 28	har̃	har̃	ADP	_	_	27	mod	_	Gloss=up_to
 29	tsawon	tsawoː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	Gloss=length.Masc.Cons
