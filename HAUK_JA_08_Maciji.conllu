@@ -212,7 +212,7 @@
 # sent_id = 08_Maciji_7
 # text_en = When that happened, some hospital officials said that the snake meat that these people had eaten, and wich almost cost them their lifes, is one among the snakes that are really poisonous.
 # text_ortho = Loːkàcîn dà hakàn kèː fàːruwaː, wasu jàːmi'an asìbitìn sukà cêː wai naːmàn macijîn dà waɗànnân mutàːnên sukà cînyeː wandà kuma ya kusa zamaː sanàdin ajàlinsù - yanàː ɗaya dàgà cikin irìn màcìːzân nan nèː màːsu dafìn gàske.
-# text = loːkàcîn dà hakàn kèː fàːruwaː, wasu jàːmi'an asìbitìn sukà cêː wai naːmàn macijîn dà waɗànnân mutàːnên sukà cînyeː wandà kuma ya kusa zamaː sanàdin ajàlinsù - yanàː ɗaya dàgà cikin irìn màcìːzân nan nèː màːsu dafìn gàske.
+# text = loːkàcîn dà hakàn kèː fàːruwaː, wasu jàːmi'an asìbitìn sukà cêː wai naːmàn macijîn dà waɗànnân mutàːnên sukà cînyeː wandà kuma ya kusa zamaː sanàdin ajàlinsù- yanàː ɗaya dàgà cikin irìn màcìːzân nan nèː màːsu dafìn gàske.
 1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	10	mod	_	Gloss=time.Masc.Def
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
 3	hakàn	hakàn	PRON	_	_	4	subj	_	Gloss=this
@@ -224,7 +224,7 @@
 9	asìbitìn	asìbitìː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=hospital.Masc.Def
 10	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf.Rel|Relative=Rel
 11	cêː	cêː	VERB	_	_	10	comp:aux	_	Gloss=say
-12	wai	wai	PART	_	PartType=Ill	28	discourse	_	Gloss=reportedly
+12	wai	wai	SCONJ	_	Evident=Nfh	11	comp:obj	_	Gloss=reportedly
 13	naːmàn	naːmàː	NOUN	_	Definite=Cons|Gender=Masc	28	subj	_	Gloss=meat.Masc.Cons
 14	macijîn	macijiː	NOUN	_	Definite=Def|Gender=Masc	13	mod	_	Gloss=snake.Masc.Def
 15	dà	dà	SCONJ	_	_	14	mod@relcl	_	Gloss=COMP
@@ -240,7 +240,7 @@
 25	sanàdin	sanàdiː	NOUN	_	Definite=Cons|Gender=Masc	24	comp:pred	_	Gloss=cause.Masc.Cons
 26	ajàlinsù	ajàliː	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes	25	mod	_	CaseAf=Gen|Gloss=end.Masc.Cons-3PlurGen|MSeg=ajàlin-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
 27	-	-	PUNCT	_	_	28	punct	_	Gloss=PUNCT
-28	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	11	comp:obj	_	Gloss=3Masc.Prog
+28	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	12	comp:obj	_	Gloss=3Masc.Prog
 29	ɗaya	ɗaya	NUM	_	_	28	comp:aux	_	Gloss=one
 30	dàgà	dàgà	ADP	_	_	29	mod	_	Gloss=from
 31	cikin	cikin	ADP	_	_	30	comp:obj	_	Gloss=inside
