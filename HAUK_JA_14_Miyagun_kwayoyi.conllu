@@ -78,8 +78,8 @@
 15	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	14	comp:obj	_	Gloss=country.Plur.Cons
 16	yankìn	yankìː	NOUN	_	Definite=Cons|Gender=Masc	15	mod	_	Gloss=area.Masc.Cons
 17	Gabàs	gabàs	NOUN	_	_	16	mod	_	Gloss=Gabàs
-18	mài	mài	PART	_	Number=Sing|PartType=Pred	17	mod	_	Gloss=owner_of.Sing
-19	Niːsaː	niːsaː	NOUN	_	_	18	comp.pred	_	Gloss=Niːsaː
+18	mài	mài	PART	_	Number=Sing|PartType=Der	17	mod	_	Gloss=owner_of.Sing
+19	Niːsaː	niːsaː	NOUN	_	_	18	compound	_	Gloss=Niːsaː
 20	zuwàː	zuwàː	ADP	_	_	14	conj:coord	_	Gloss=towards|wordform=zuwa
 21	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	20	comp:obj	_	Gloss=country.Plur.Cons
 22	Tuːr̃ai	Tuːr̃ai	PROPN	_	_	21	mod	_	Gloss=Europe
@@ -564,14 +564,14 @@
 14	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Prog
 15	nan	nan	ADV	_	Definite=Def|Deixis=ProxH|PronType=Dem	14	comp:pred	_	Gloss=ProxH
 16	tsùndum	tsùndum	IDEO	_	_	17	mod	_	Gloss=deep
-17	à	à	ADP	_	_	14	comp:pred	_	Gloss=at
+17	à	à	ADP	_	_	14	comp:obl	_	Gloss=at
 18	cikin	cikin	ADP	_	_	17	comp:obj	_	Gloss=inside
 19	màganàr̃	màganàː	NOUN	_	Definite=Cons|Gender=Fem	18	comp:obj	_	Gloss=matter.Fem.Cons|wordform=maganar
 20	shàr̃i'àr̃	shàr̃i'àː	NOUN	_	Definite=Cons|Gender=Fem	19	mod	_	Gloss=case.Fem.Cons|wordform=shar̃i'aːr
 21	wata	wani	DET	_	Definite=Spec|Gender=Fem	22	det	_	Gloss=some.Fem.Spec
 22	màːtaː	màːtaː	NOUN	_	Gender=Fem	20	mod	_	Gloss=woman.Fem
-23	mài	mài	PART	_	Number=Sing|PartType=Pred	22	mod	_	Gloss=owner_of.Sing
-24	suːnaː	suːnaː	NOUN	_	Gender=Masc	23	comp.pred	_	Gloss=name.Masc
+23	mài	mài	PART	_	Number=Sing|PartType=Der	22	mod	_	Gloss=owner_of.Sing
+24	suːnaː	suːnaː	NOUN	_	Gender=Masc	23	compound	_	Gloss=name.Masc
 25	"	"	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 26	Jennifer	Jennifer	PROPN	_	_	24	mod	_	Gloss=Jennifer
 27	Madike	Madike	PROPN	_	_	26	flat@name	_	Gloss=Madike
@@ -628,11 +628,11 @@
 31	kuma	kuma	PART	_	PartType=Top	30	discourse@top	_	Gloss=also
 32	sakoː	sak-	VERB	_	_	20	conj:coord	_	Gloss=release
 33	wani	wani	DET	_	Definite=Spec|Gender=Masc	34	det	_	Gloss=some.Masc.Spec
-34	mài	mài	PART	_	Number=Sing|PartType=Pred	32	comp:obj	_	Gloss=owner_of.Sing
-35	fataucìn	fataucìː	NOUN	_	Definite=Cons|Gender=Masc	34	comp.pred	_	Gloss=trade.Masc.Cons
+34	mài	mài	PART	_	Number=Sing|PartType=Der	32	comp:obj	_	Gloss=owner_of.Sing
+35	fataucìn	fataucìː	NOUN	_	Definite=Cons|Gender=Masc	34	comp:pred	_	Gloss=trade.Masc.Cons
 36	miyàːgun	muːgùː	ADJ	_	Definite=Cons|Number=Plur	37	mod	_	Gloss=bad.Plur
 37	ƙwaːyoːyîn	ƙwàːyaː	NOUN	_	Definite=Def|Number=Plur	35	mod	_	Gloss=drugs.Plur.Def
-38	dà	dà	SCONJ	_	_	34	mod@relcl	_	Gloss=COMP
+38	dà	dà	SCONJ	_	_	34	compound	_	Gloss=COMP
 39	akà	yaː	AUX	_	Aspect=Perf|Person=4	38	comp:obj	_	Gloss=4.Perf.Rel|Relative=Rel
 40	tsarèː	tsar-	VERB	_	_	39	comp:aux	_	Gloss=imprison|SpaceAfter=No
 41	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -656,8 +656,8 @@
 # text_ortho = yanàː mài cêːwaː mânyan màːsu fataucìn miyàːgun ƙwaːyoːyiː nèː kawài sukà ɓaːtà suːnansà .
 # text = yanàː mài cêːwaː mânyan màːsu fataucìn miyàːgun ƙwaːyoːyiː nèː kawài sukà ɓaːtà suːnansà .
 1	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Prog
-2	mài	mài	PART	_	Number=Sing|PartType=Pred	1	comp:pred	_	Gloss=owner_of.Sing
-3	cêːwaː	cê	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp.pred	_	Gloss=say.Vnoun.Fem|wordform=cêwaː
+2	mài	mài	PART	_	Number=Sing|PartType=Der	1	comp:pred	_	Gloss=owner_of.Sing
+3	cêːwaː	cê	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	compound	_	Gloss=say.Vnoun.Fem|wordform=cêwaː
 4	mânyan	bàbba	ADJ	_	Definite=Cons|Number=Plur	5	mod	_	Gloss=big.Plur.Cons
 5	màːsu	mài	PART	_	Number=Plur|PartType=Der	3	comp:obj	_	Gloss=owner/doer_of.Plur
 6	fataucìn	fataucìː	NOUN	_	Definite=Cons|Gender=Masc	5	compound	_	Gloss=trade.Masc.Cons

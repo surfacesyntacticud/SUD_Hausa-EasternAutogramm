@@ -152,8 +152,8 @@
 15	kafà	kaf-	VERB	_	_	14	comp:aux	_	Gloss=set_up
 16	tafarkìn	tafarkìː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	Gloss=system.Masc.Cons
 17	sìyaːsàː	sìyaːsàː	NOUN	_	Gender=Fem	16	mod	_	Gloss=politics.Fem
-18	mài	mài	PART	_	Number=Sing|PartType=Pred	16	mod	_	Gloss=owner_of.Sing
-19	jàm'ìyyuː	jàm'iyyàː	NOUN	_	Number=Plur	18	comp.pred	_	Gloss=party.Plur
+18	mài	mài	PART	_	Number=Sing|PartType=Der	16	mod	_	Gloss=owner_of.Sing
+19	jàm'ìyyuː	jàm'iyyàː	NOUN	_	Number=Plur	18	compound	_	Gloss=party.Plur
 20	dà	dà	ADP	_	_	19	mod	_	Gloss=with
 21	daːmaː	daːmaː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=opportunity.Fem
 22	à	à	ADP	_	_	15	comp:obl	_	Gloss=at
@@ -373,8 +373,8 @@
 31	daːmar̃	daːmaː	NOUN	_	Definite=Cons|Gender=Fem	30	comp:obj	_	Gloss=opportunity.Fem.Cons
 32	kafà	kaf-	VERB	_	_	31	mod	_	Gloss=set_up
 33	tsaːrìː	tsaːrìː	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=system.Masc
-34	mài	mài	PART	_	Number=Sing|PartType=Pred	33	mod	_	Gloss=owner_of.Sing
-35	jàm'ìyyuː	jàm'iyyàː	NOUN	_	Number=Plur	34	comp.pred	_	Gloss=party.Plur
+34	mài	mài	PART	_	Number=Sing|PartType=Der	33	mod	_	Gloss=owner_of.Sing
+35	jàm'ìyyuː	jàm'iyyàː	NOUN	_	Number=Plur	34	compound	_	Gloss=party.Plur
 36	dà	dà	ADP	_	_	35	mod	_	Gloss=with
 37	daːmaː	daːmaː	NOUN	_	Gender=Fem	36	comp:obj	_	Gloss=opportunity.Fem|SpaceAfter=No
 38	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -386,8 +386,8 @@
 1	jàm'iyyàr̃	jàm'iyyàː	NOUN	_	Definite=Cons|Gender=Fem	2	mod@desc	_	Gloss=party.Fem.Cons
 2	MNSD	MNSD	PROPN	_	_	18	subj	_	Gloss=MNSD|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-4	mài	mài	PART	_	Number=Sing|PartType=Pred	2	mod	_	Gloss=owner_of.Sing
-5	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	4	comp.pred	_	Gloss=government.Masc.Cons
+4	mài	mài	PART	_	Number=Sing|PartType=Der	2	mod	_	Gloss=owner_of.Sing
+5	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	4	compound	_	Gloss=government.Masc.Cons
 6	ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	5	comp:obj	_	Gloss=country.Fem.Def
 7	tun	tun	ADP	_	_	5	mod	_	Gloss=since
 8	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	9	mod@desc	_	Gloss=year.Fem.Cons
@@ -514,8 +514,8 @@
 18	tafarkìn	tafarkìː	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	Gloss=system.Masc.Cons
 19	tsaːrìn	tsaːrìː	NOUN	_	Definite=Cons|Gender=Masc	18	mod	_	Gloss=organisation.Masc.Cons
 20	mulkìː	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	19	compound	_	Gloss=government.Masc.Cons
-21	mài	mài	PART	_	Number=Sing|PartType=Pred	19	mod	_	Gloss=owner_of.Sing
-22	jàm'iyyàː	jàm'iyyàː	NOUN	_	Gender=Fem	21	comp.pred	_	Gloss=party.Fem
+21	mài	mài	PART	_	Number=Sing|PartType=Der	19	mod	_	Gloss=owner_of.Sing
+22	jàm'iyyàː	jàm'iyyàː	NOUN	_	Gender=Fem	21	compound	_	Gloss=party.Fem
 23	ƙwàːyaː	ƙwàːyaː	NOUN	_	Gender=Fem	22	mod	_	Gloss=unit.Fem
 24	ɗaya	ɗaya	NUM	_	_	23	mod:num	_	Gloss=one
 25	tal	tal	IDEO	_	_	24	mod	_	Gloss=single|SpaceAfter=No

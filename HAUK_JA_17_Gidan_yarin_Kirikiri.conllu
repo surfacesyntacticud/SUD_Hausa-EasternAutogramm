@@ -30,8 +30,8 @@
 18	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	20	mod@desc	_	Gloss=house.Masc.Cons
 19	kûr̃kukùn	kûr̃kukùː	NOUN	_	Definite=Cons|Gender=Masc	18	compound	_	Gloss=prison.Masc.Cons
 20	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	33	subj	_	Gloss=Kirikiri
-21	mài	mài	PART	_	Number=Sing|PartType=Pred	20	mod	_	Gloss=owner_of.Sing
-22	tsauràːran	tsauraːr-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	comp.pred	_	Gloss=tighten.Vnoun.Masc.Cons
+21	mài	mài	PART	_	Number=Sing|PartType=Der	20	mod	_	Gloss=owner_of.Sing
+22	tsauràːran	tsauraːr-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	compound	_	Gloss=tighten.Vnoun.Masc.Cons
 23	màtàːkan	mataːkiː	NOUN	_	Definite=Cons|Number=Plur	22	comp:obj	_	Gloss=step.Plur.Cons
 24	tsàr̃oː	tsàr̃oː	NOUN	_	Gender=Masc	23	mod	_	Gloss=security.Masc|SpaceAfter=No
 25	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
@@ -491,8 +491,8 @@
 44	tàːre	tàːre	ADV	_	_	45	mod	_	Gloss=together
 45	dà	dà	CCONJ	_	_	46	cc	_	Gloss=and
 46	zàzzàɓiː	zàzzàɓiː	NOUN	_	Gender=Masc	42	conj:coord	_	Gloss=fever.Masc
-47	mài	mài	PART	_	Number=Sing|PartType=Pred	46	mod	_	Gloss=owner_of.Sing
-48	tsananiː	tsananiː	NOUN	_	Gender=Masc	47	comp.pred	_	Gloss=severity.Masc
+47	mài	mài	PART	_	Number=Sing|PartType=Der	46	mod	_	Gloss=owner_of.Sing
+48	tsananiː	tsananiː	NOUN	_	Gender=Masc	47	compound	_	Gloss=severity.Masc
 49	dà	dà	CCONJ	_	_	50	cc	_	Gloss=and
 50	sauran	sauraː	NOUN	_	Definite=Cons|Gender=Masc	46	conj:coord	_	Gloss=rest.Masc.Cons
 51	cuːtuttukàː	cùːtaː	NOUN	_	Number=Plur	50	mod	_	Gloss=illness.Plur|SpaceAfter=No

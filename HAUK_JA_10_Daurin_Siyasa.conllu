@@ -119,7 +119,7 @@
 25	dà	dà	ADP	_	_	23	comp:obl	_	Gloss=with|wordform=da
 26	yi	yi	VERB	_	_	25	comp:obj	_	Gloss=do
 27	wà	wà	ADP	_	Case=Dat	26	comp:obl	_	Gloss=Dat
-28	tattalin	tattaliː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:pred	_	Gloss=planning.Masc.Cons
+28	tattalin	tattaliː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:obj	_	Gloss=planning.Masc.Cons
 29	ar̃zìkin	ar̃zìkiː	NOUN	_	Definite=Cons|Gender=Masc	28	mod	_	Gloss=wealth.Masc.Cons
 30	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	29	mod	_	Gloss=country.Fem|wordform=kasaː
 31	maƙar̃ƙashìyaː	maƙar̃ƙashìyaː	NOUN	_	Gender=Fem	26	comp:pred	_	Gloss=sabotage.Fem|SpaceAfter=No
@@ -287,8 +287,8 @@
 8	cêːwaː	cêːwaː	SCONJ	_	_	7	mod@relcl	_	Gloss=COMP
 9	wani	wani	DET	_	Definite=Spec|Gender=Masc	10	det	_	Gloss=some.Masc.Spec
 10	mùtûm	mùtûm	NOUN	_	Gender=Masc	15	subj	_	Gloss=man.Masc
-11	mài	mài	PART	_	Number=Sing|PartType=Pred	10	mod	_	Gloss=owner_of.Sing
-12	àlaːƙàː	àlaːƙàː	NOUN	_	Gender=Fem	11	comp.pred	_	Gloss=connection.Fem
+11	mài	mài	PART	_	Number=Sing|PartType=Der	10	mod	_	Gloss=owner_of.Sing
+12	àlaːƙàː	àlaːƙàː	NOUN	_	Gender=Fem	11	compound	_	Gloss=connection.Fem
 13	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=with
 14	gwamnatì	gwamnatì	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=government.Masc
 15	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	8	comp:obj	_	Gloss=3Masc.Perf
