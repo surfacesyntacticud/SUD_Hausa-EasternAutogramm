@@ -218,8 +218,8 @@
 2	wàccan	can	DET	_	Deixis=Remt|Gender=Fem|PronType=Dem	1	det	_	Gloss=Remt.Fem
 3	nèː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	dislocated@subj	_	Gloss=3Masc.Nom
-5	dà	dà	ADP	_	_	4	cc@preconj	_	Gloss=with
-6	kânsà	kânsà	PRON	_	Gender=Masc|Person=3|PronType=Prs|Reflex=Yes	5	comp:obj	_	Gloss=3Masc.Reflex
+5	dà	dà	CCONJ	_	_	6	cc	_	Gloss=with
+6	kânsà	kânsà	PRON	_	Gender=Masc|Person=3|PronType=Prs|Reflex=Yes	4	conj:coord	_	Gloss=3Masc.Reflex
 7	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 8	bayyànà	bayyan-	VERB	_	_	7	comp:aux	_	Gloss=explain
 9	yaddà	yaddà	ADV	_	PronType=Rel	8	comp:obj	_	Gloss=how
