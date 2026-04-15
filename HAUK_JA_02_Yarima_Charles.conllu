@@ -2,7 +2,7 @@
 # text_en = Prince Charles payed a visit to West Africa
 # text = Yàr̃iːmà Charles yaː kai zìyaːr̃àː zuwàː Afìr̃kà ta Yâmma
 # text_ortho = Yàr̃iːmà Charles yaː kai zìyaːr̃àː zuwàː Afìr̃kà ta Yâmma
-1	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	2	mod@desc	_	Gloss=prince.Masc
+1	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	2	mod@appos	_	Gloss=prince.Masc
 2	Charles	Charles	PROPN	_	_	3	subj	_	Gloss=Charles
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 4	kai	kai	VERB	_	_	3	comp:aux	_	Gloss=reach/carry_to
@@ -78,7 +78,7 @@
 16	kamfàːyeː	kamfai	NOUN	_	Number=Plur	12	conj:coord	_	Gloss=underpants|SpaceAfter=No
 17	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 18	dà	dà	CCONJ	_	_	21	cc	_	Gloss=and
-19	agoːgunàn	àgoːgo	NOUN	_	Definite=Cons|Number=Plur	21	mod@desc	_	Gloss=watch.Plur.Cons
+19	agoːgunàn	àgoːgo	NOUN	_	Definite=Cons|Number=Plur	21	mod@appos	_	Gloss=watch.Plur.Cons
 20	"	"	PUNCT	_	_	21	punct	_	Gloss=PUNCT|wordform=‘
 21	Rolex	Rolex	PROPN	_	_	16	conj:coord	_	Gloss=Rolex|SpaceAfter=No
 22	"	"	PUNCT	_	_	21	punct	_	Gloss=PUNCT|wordform=’
@@ -212,7 +212,7 @@
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 3	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	20	mod	_	Gloss=time.Masc.Def
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
-5	Fir̃aːyìm	Fir̃aːyìm	PROPN	_	_	8	mod@desc	_	Gloss=Prime
+5	Fir̃aːyìm	Fir̃aːyìm	PROPN	_	_	8	mod@appos	_	Gloss=Prime
 6	Ministàː	Ministàː	PROPN	_	_	5	flat@name	_	Gloss=Minister
 7	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT|wordform=‘
 8	Margaret	Margaret	PROPN	_	_	11	subj	_	Gloss=Margaret
@@ -253,7 +253,7 @@
 9	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	10	comp:pred	_	Gloss=3Masc.Nom
 10	nèː	neː	AUX	_	_	0	root	_	Copula=Yes|Gloss=be
 11	don	don	SCONJ	_	_	10	dislocated@comp	_	Gloss=in_order_to
-12	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	13	mod@desc	_	Gloss=prince.Masc
+12	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	13	mod@appos	_	Gloss=prince.Masc
 13	Charles	Charles	PROPN	_	_	16	subj	_	Gloss=Charles
 14	dà	dà	CCONJ	_	_	15	cc	_	Gloss=and
 15	Gimbìyaː	gimbìyaː	NOUN	_	Gender=Fem	13	conj:coord	_	Gloss=princess.Fem
@@ -271,7 +271,7 @@
 27	zaːsù	zâi	AUX	_	Number=Plur|Person=3|Tense=Fut	26	comp:obj	_	Gloss=3Plur.Fut|wordform=sù
 28	iyà	iy-	VERB	_	_	27	comp:aux	_	Gloss=be_able_to
 29	raːmà	raːm-	VERB	_	_	28	comp:obj	_	Gloss=return
-30	irìn	irìː	NOUN	_	_	31	mod@desc	_	Gloss=type_of
+30	irìn	irìː	NOUN	_	_	31	mod@appos	_	Gloss=type_of
 31	kar̃imcìn	kar̃imcìː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=generosity.Masc.Cons
 32	dà	dà	SCONJ	_	_	31	mod@relcl	_	Gloss=COMP
 33	ꞌyan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	35	subj	_	Gloss=child.Plur.Cons
@@ -288,7 +288,7 @@
 1	jiyà	jiyà	ADV	_	_	8	mod	_	Gloss=yesterday
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	Gwamnàn	gwamnàn	PROPN	_	Definite=Cons|Gender=Masc	8	subj	_	Gloss=governor.Masc.Cons
-4	Jihàr̃	jihàː	NOUN	_	Definite=Cons|Gender=Fem	5	mod@desc	_	Gloss=state.Fem.Cons
+4	Jihàr̃	jihàː	NOUN	_	Definite=Cons|Gender=Fem	5	mod@appos	_	Gloss=state.Fem.Cons
 5	Ànambar̃à	Ànambar̃à	PROPN	_	_	3	mod	_	Gloss=Anambra
 6	dà	da	CCONJ	_	_	7	cc	_	Gloss=and|wordform=da
 7	uwar̃gidansà	uwar̃gidaː	NOUN	_	Definite=Cons|Gender=Fem	3	conj:coord	_	CaseAf=Gen|GenderAf=Masc|Gloss=wife.Fem.Cons-3MascGen|MSeg=uwar̃gidan-sà|PersonAf=3|Poss=Yes|SpaceAfter=No
@@ -403,7 +403,7 @@
 8	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf.Rel|Relative=Yes
 9	taːshì	taːs-	VERB	_	_	8	comp:aux	_	Gloss=set_off
 10	zuwàː	zuwàː	ADP	_	_	9	comp:obl	_	Gloss=towards
-11	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	12	mod@desc	_	Gloss=country.Fem.Cons
+11	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	12	mod@appos	_	Gloss=country.Fem.Cons
 12	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	10	comp:obj	_	Gloss=Cameroon|SpaceAfter=No
 13	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
@@ -459,7 +459,7 @@
 4	neː	neː	PART	_	PartType=Foc	3	discourse@foc	_	Gloss=Emph
 5	ta	ta	ADP	_	_	2	comp:obl	_	Gloss=via
 6	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	8	det	_	Gloss=some.Fem.Spec
-7	irìn	irìː	NOUN	_	_	8	mod@desc	_	Gloss=type_of
+7	irìn	irìː	NOUN	_	_	8	mod@appos	_	Gloss=type_of
 8	gadàː	gadàː	NOUN	_	Gender=Fem	5	comp:obj	_	Gloss=bridge.Fem
 9	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	8	mod@relcl	_	Gloss=REL.Fem
 10	kèː	nàː	AUX	_	Aspect=Prog	9	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
@@ -493,7 +493,7 @@
 19	iskèː	isk-	VERB	_	_	18	comp:aux	_	Gloss=find
 20	su	su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	19	comp:obj	_	Gloss=3Plur.Acc
 21	à	à	ADP	_	_	19	comp:obl	_	Gloss=at
-22	gandun	ganduː	NOUN	_	Definite=Cons|Gender=Masc	24	mod@desc	_	Gloss=ranch.Masc.Cons
+22	gandun	ganduː	NOUN	_	Definite=Cons|Gender=Masc	24	mod@appos	_	Gloss=ranch.Masc.Cons
 23	daːjìn	daːjìː	NOUN	_	Definite=Cons|Gender=Masc	22	comp:obj	_	Gloss=bush.Masc.Cons
 24	Korup	Korup	PROPN	_	_	21	comp:obj	_	Gloss=Korup|SpaceAfter=No
 25	;	;	PUNCT	_	_	28	punct	_	Gloss=PUNCT
