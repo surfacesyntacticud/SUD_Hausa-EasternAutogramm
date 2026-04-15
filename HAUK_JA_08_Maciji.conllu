@@ -27,7 +27,7 @@
 12	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	11	mod	_	Gloss=Nigeria
 13	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 14	kai	kai	VERB	_	_	13	comp:aux	_	Gloss=reach/carry_to
-15	wasu	wani	DET	_	Definite=Spec|Number=Plur	16	det	_	Gloss=some.Plur.Spec
+15	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	16	det	_	Gloss=some.Plur.Spec
 16	mutàneː	mùtûm	NOUN	_	Number=Plur	14	comp:obj@T	_	Gloss=man.Plur
 17	gùdaː	gùdaː	NOUN	_	Gender=Masc	16	mod:num	_	Gloss=unit.Masc
 18	takwàs	takwàs	NUM	_	_	17	mod:num	_	Gloss=eight
@@ -45,7 +45,7 @@
 30	miyàr̃sà	miyàː	NOUN	_	Definite=Cons|Gender=Fem	29	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=sauce.Fem.Cons-3MascGen|MSeg=miyàr̃-sà|PersonAf=3|Poss=Yes|wordform=miyàr̃
 31	dà	dà	ADP	_	_	29	comp:obl	_	Gloss=with
 32	naːmàn	naːmàː	NOUN	_	Definite=Cons|Gender=Masc	31	comp:obj	_	Gloss=meat.Masc.Cons
-33	wani	wani	DET	_	Definite=Spec|Gender=Masc	35	det	_	Gloss=some.Masc.Spec
+33	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	35	det	_	Gloss=some.Masc.Spec
 34	shirgeːgèn	shirgeːgèː	NOUN	_	Definite=Cons|Gender=Masc	35	mod	_	Gloss=huge.Masc.Cons
 35	macìːjiː	macìːjiː	NOUN	_	Gender=Masc	32	mod	_	Gloss=snake.Masc|SpaceAfter=No
 36	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
@@ -71,7 +71,7 @@
 15	nèː	neː	PART	_	PartType=Foc	12	discourse@foc	_	Gloss=Emph
 16	baːyân	baːyân	ADP	_	_	11	mod	_	Gloss=after.Def
 17	dà	dà	SCONJ	_	_	16	comp:obj	_	Gloss=COMP
-18	wata	wani	DET	_	Definite=Spec|Gender=Fem	20	det	_	Gloss=some.Fem.Spec
+18	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	20	det	_	Gloss=some.Fem.Spec
 19	bàbbar̃	bàbba	ADJ	_	Definite=Cons|Gender=Fem	20	mod	_	Gloss=big.Fem.Cons
 20	moːtàː	moːtàː	NOUN	_	_	21	subj	_	Gloss=car
 21	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	17	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Yes
@@ -146,7 +146,7 @@
 24	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	8	parataxis@conj	_	Gloss=3Plur.Perf.Rel|Relative=Yes
 25	faːrà	faːràː	VERB	_	_	24	comp:aux	_	Gloss=begin
 26	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	25	comp:obj	_	Gloss=hear.Vnoun.Masc.Cons
-27	wani	wani	DET	_	Definite=Spec|Gender=Masc	28	det	_	Gloss=some.Masc.Spec
+27	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	28	det	_	Gloss=some.Masc.Spec
 28	àbù	àbù	NOUN	_	Gender=Masc	29	subj	_	Gloss=thing.Masc
 29	nàː	nàː	AUX	_	Aspect=Prog	26	comp:obj	_	Gloss=Prog
 30	mur̃ɗàː	mur̃ɗ-	VERB	_	_	29	comp:aux	_	Gloss=twist
@@ -219,7 +219,7 @@
 4	kèː	nàː	AUX	_	Aspect=Prog	2	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
 5	fàːruwaː	faːr-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:aux	_	Gloss=happen.Vnoun.Fem|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-7	wasu	wani	DET	_	Definite=Spec|Number=Plur	8	det	_	Gloss=some.Plur.Spec
+7	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	8	det	_	Gloss=some.Plur.Spec
 8	jàːmi'an	jàːmi'iː	ADJ	_	Definite=Cons|Number=Plur	10	subj	_	Gloss=official.Plur.Cons
 9	asìbitìn	asìbitìː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=hospital.Masc.Def
 10	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf.Rel|Relative=Yes
@@ -294,7 +294,7 @@
 6	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	5	comp:obj	_	Gloss=people.Plur.Def
 7	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=COMP
 8	kèː	nàː	AUX	_	Aspect=Prog	7	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
-9	zàune	zaun-	VERB	_	ExtPos=ADV|VerbForm=Stat	8	comp:pred	_	Gloss=stay.Stat
+9	zàune	zaun-	VERB	_	ExtPos=ADV|VerbForm=Part	8	comp:pred	_	Gloss=stay.Part
 10	à	à	ADP	_	_	9	comp:obl	_	Gloss=at
 11	yankìn	yankìː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	Gloss=area.Masc.Def
 12	dà	dà	SCONJ	_	_	4	comp:obl	_	Gloss=COMP
@@ -326,7 +326,7 @@
 4	asìbitìn	asìbitìː	NOUN	_	Definite=Def|Gender=Masc	3	mod	_	Gloss=hospital.Masc.Def
 5	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
 6	yi	yi	VERB	_	_	5	comp:aux	_	Gloss=do
-7	wani	wani	DET	_	Definite=Spec|Gender=Masc	8	det	_	Gloss=some.Masc.Spec
+7	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	8	det	_	Gloss=some.Masc.Spec
 8	gàr̃gàɗiː	gàr̃gàɗiː	NOUN	_	Gender=Masc	6	comp:pred	_	Gloss=recommendation.Masc
 9	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Stat	10	mod	_	Gloss=together
 10	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with
@@ -344,7 +344,7 @@
 22	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	comp:obj	_	Gloss=3Plur.Nom
 23	don	don	SCONJ	_	_	20	mod	_	Gloss=in_order_to
 24	kadà	kaɗà	PART	_	PartType=Neg|Polarity=Neg	27	mod	_	Gloss=Neg
-25	wasu	wani	DET	_	Definite=Spec|Number=Plur	26	det	_	Gloss=some.Plur.Spec
+25	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	26	det	_	Gloss=some.Plur.Spec
 26	ƙwàːriː	ƙwàːroː	NOUN	_	Number=Plur	27	subj	_	Gloss=insect.Plur
 27	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	23	comp:obj	_	Gloss=3Plur.Sub
 28	laːlàːtaː	laːlaːt-	VERB	_	_	27	comp:aux	_	Gloss=spoil

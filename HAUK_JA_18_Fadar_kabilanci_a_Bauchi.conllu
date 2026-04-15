@@ -194,7 +194,7 @@
 5	yi	yi	VERB	_	_	4	comp:aux	_	Gloss=do
 6	dai	dai	PART	_	PartType=Top	4	discourse@top	_	Gloss=anyway|SpaceAfter=No
 7	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-8	wata	wani	DET	_	Definite=Spec|Gender=Fem	10	det	_	Gloss=some.Fem.Spec
+8	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	10	det	_	Gloss=some.Fem.Spec
 9	ƙwàƙƙwaːrar̃	ƙwàƙƙwaːraː	ADJ	_	Definite=Cons|Gender=Fem|Number=Plur	10	mod	_	Gloss=strong.Fem.Cons
 10	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	11	comp:pred	_	Gloss=sign.Fem
 11	ceː	neː	AUX	_	Gender=Fem	0	root	_	Copula=Yes|Gloss=be.Fem
@@ -332,7 +332,7 @@
 15	wà	mà	ADP	_	Case=Dat	14	comp:obl	_	Gloss=Dat
 16	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	15	comp:obj	_	Gloss=Muslim.Plur
 17	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	conj:appos	_	Gloss=3Plur.Nom
-18	fìye	fi	VERB	_	VerbForm=Stat	17	mod	_	Gloss=exceed.Stat
+18	fìye	fi	VERB	_	VerbForm=Part	17	mod	_	Gloss=exceed.Part
 19	dà	dà	ADP	_	_	18	comp:obl	_	Gloss=with
 20	ɗàriː	ɗàriː	NUM	_	Gender=Fem	19	comp:obj	_	Gloss=hundred
 21	dà	dà	CCONJ	_	_	20	cc	_	Gloss=and
@@ -477,7 +477,7 @@
 # text_en = Some [disturbances] have even precipitated the fall of the First Republic in nineteen sixty-six, and of the Second Republic in nineteen eighty-three, because of religious intolerance.
 # text_ortho = Wasu maː har̃ sukàn jingìnà ruːshèːwar̃ Jàmhuːr̃iyàː ta Farkoː à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sìttin dà shidà,  dà kuma Jàmhuːr̃iyàː ta Biyu à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà ukù bìsàː rashìn jìtuwar̃ àddiːnìː.
 # text = wasu maː har̃ sukàn jingìnà ruːshèːwar̃ Jàmhuːr̃iyàː ta Farkoː à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sìttin dà shidà, dà kuma Jàmhuːr̃iyàː ta Biyu à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà ukù bìsàː rashìn jìtuwar̃ àddiːnìː.
-1	wasu	wani	PRON	_	Definite=Spec|Number=Plur	4	subj	_	Gloss=some.Plur.Spec
+1	wasu	wani	PRON	_	Definite=Spec|Number=Plur|PronType=Ind	4	subj	_	Gloss=some.Plur.Spec
 2	maː	maː	PART	_	PartType=Top	1	discourse@top	_	Gloss=even
 3	har̃	har̃	ADV	_	_	4	mod	_	Gloss=even
 4	sukàn	kàn	AUX	_	Aspect=Hab|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Hab
@@ -524,7 +524,7 @@
 # text = sànnan kuma wasu 'yan boːkòn Nàjeːr̃iyàː maː sunàː ganin cêːwaː ìdan bà'à yi wani àbù don shaːwoː kân wannàn lamàr̃iː ba, tòː àbîn yanàː iyà kaːwoː rìkiciː à Nàjeːr̃iyàː, ƙasâr̃ dà ta fi koːwàcceː yawàn mutàːneː à naːhiyàr̃ Afìr̃kà.
 1	sànnan	sànnan	ADV	_	_	8	mod	_	Gloss=then
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
-3	wasu	wani	DET	_	Definite=Spec|Number=Plur	4	det	_	Gloss=some.Plur.Spec
+3	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	4	det	_	Gloss=some.Plur.Spec
 4	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	8	subj	_	Gloss=child.Plur.Cons
 5	boːkòn	boːkòː	NOUN	_	Definite=Cons|Gender=Masc	4	compound	_	Gloss=education.Masc
 6	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	4	mod	_	Gloss=Nigeria
@@ -535,7 +535,7 @@
 11	ìdan	ìdan	SCONJ	_	_	25	mod	_	Gloss=if
 12	bà'à	yaː	AUX	_	Aspect=Perf|Person=4|Polarity=Neg	11	comp:obj	_	Gloss=4.Perf.Neg
 13	yi	yi	VERB	_	_	12	comp:aux	_	Gloss=do
-14	wani	wani	DET	_	Definite=Spec|Gender=Masc	15	det	_	Gloss=some.Masc.Spec
+14	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	15	det	_	Gloss=some.Masc.Spec
 15	àbù	àbù	NOUN	_	Gender=Masc	13	comp:pred	_	Gloss=thing.Masc
 16	don	don	SCONJ	_	_	13	mod	_	Gloss=in_order_to
 17	shaːwoː	shaːwoː	VERB	_	_	16	comp:obj	_	Gloss=tackle
@@ -579,7 +579,7 @@
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 9	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 10	yi	yi	VERB	_	_	9	comp:aux	_	Gloss=do
-11	wasu	wani	DET	_	Definite=Spec|Number=Plur	12	det	_	Gloss=some.Plur.Spec
+11	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	12	det	_	Gloss=some.Plur.Spec
 12	tàːshe-tàːshen	taːshìː	NOUN	_	Definite=Cons|Number=Plur	10	comp:pred	_	Gloss=rising.Plur.Cons
 13	hankulàː	hankàliː	NOUN	_	Number=Plur	12	compound	_	Gloss=mind.Plur
 14	à	à	ADP	_	_	10	mod	_	Gloss=at
@@ -626,7 +626,7 @@
 17	dà	dà	ADP	_	_	16	comp:obl	_	Gloss=with
 18	zìyaːr̃àr̃	zìyaːr̃àː	NOUN	_	Definite=Def|Gender=Fem	17	comp:obj	_	Gloss=visit.Fem.Def
 19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=with
-20	wani	wani	PRON	_	Definite=Spec|Gender=Masc	35	subj	_	Gloss=some.Masc.Spec
+20	wani	wani	PRON	_	Definite=Spec|Gender=Masc|PronType=Ind	35	subj	_	Gloss=some.Masc.Spec
 21	mài	mài	PART	_	Number=Sing|PartType=Der	20	mod	_	Gloss=owner_of.Sing
 22	wa'àzin	wa'àziː	NOUN	_	Definite=Cons|Gender=Masc	21	compound	_	Gloss=preaching.Masc.Cons
 23	àddiːnìn	àddiːnìː	NOUN	_	Definite=Cons|Gender=Masc	22	mod	_	Gloss=religion.Masc.Cons
@@ -677,7 +677,7 @@
 3	zuwàː	zuwàː	ADP	_	_	2	comp:obj	_	Gloss=towards
 4	dareː	dareː	NOUN	_	Gender=Masc	3	comp:obj	_	Gloss=night.Masc
 5	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
-6	wasu	wani	DET	_	Definite=Spec|Number=Plur	7	det	_	Gloss=some.Plur.Spec
+6	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	7	det	_	Gloss=some.Plur.Spec
 7	gìne-gìne	ginìː	NOUN	_	Number=Plur	8	subj	_	Gloss=building.Plur
 8	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
 9	cîn	ci	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:aux	_	Gloss=consume.Vnoun.Masc.Cons

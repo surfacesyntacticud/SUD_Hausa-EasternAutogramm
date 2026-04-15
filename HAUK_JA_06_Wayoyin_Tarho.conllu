@@ -44,7 +44,7 @@
 # text_en = Sometimes, you get upset because of the type of problem that you face before you can make a phone call to African countries, especially countries like Zaïre and Sudan.
 # text = wani loːkàciː àbîn yanàː dà ban haushiː, sabòːdà irìn wàhalàr̃ dà akàn saːmùː kàːfìn à bugà wayàː zuwàː ƙasàːshen Afìr̃kà, mùsammàn maː ƙasàːsheː kàmar̃ Zàyâr̃ dà Sudân.
 # text_ortho = Wani loːkàciː àbîn yanàː dà ban haushiː, sabòːdà irìn wàhalàr̃ dà akàn saːmùː kàːfìn à bugà wayàː zuwàː ƙasàːshen Afìr̃kà, mùsammàn maː ƙasàːsheː kàmar̃ Zàyâr dà Sudân.
-1	wani	wani	DET	_	Definite=Spec|Gender=Masc	2	det	_	Gloss=some.Masc.Spec
+1	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	2	det	_	Gloss=some.Masc.Spec
 2	loːkàciː	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	4	mod	_	Gloss=time.Masc
 3	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	4	subj	_	Gloss=thing.Masc.Def
 4	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Prog
@@ -79,7 +79,7 @@
 # text_en = Sometimes too, even it you get a line, you find that the quality is not very good, so much so that you can't hear what is said.
 # text = wani loːkàciː kuma koː kaː sàːmi laːyìː sai kà ga bâː shi dà kyâu sòːsai, har̃ baːkàː iyà jîn àbîn dà akèː fàɗaː.
 # text_ortho = Wani loːkàciː kuma koː kaː sàːmi laːyìː sai kà ga bâː shi dà kyâu sòːsai, har̃ baː kàː iyà jîn àbîn dà akèː fàɗaː.
-1	wani	wani	DET	_	Definite=Spec|Gender=Masc	2	det	_	Gloss=some.Masc.Spec
+1	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	2	det	_	Gloss=some.Masc.Spec
 2	loːkàciː	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	9	mod	_	Gloss=time.Masc
 3	kuma	kuma	PART	_	PartType=Top	2	discourse@top	_	Gloss=also
 4	koː	koː	SCONJ	_	_	9	mod	_	Gloss=even_if
@@ -92,7 +92,7 @@
 11	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	10	comp:obj	_	Gloss=there_is.Neg
 12	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	11	subj	_	Gloss=3Masc.Acc
 13	dà	dà	ADP	_	_	11	comp:pred	_	Gloss=with
-14	kyâu	kyâu	ADV	_	Gender=Masc	13	comp:obj	_	Gloss=beauty.Masc
+14	kyâu	kyâu	ADV	_	_	13	comp:obj	_	Gloss=beauty.Masc
 15	sòːsai	sòːsai	ADV	_	_	14	mod	_	Gloss=really|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 17	har̃	har̃	SCONJ	_	_	11	mod	_	Gloss=so_much_so_that
@@ -174,7 +174,7 @@
 13	kùwa	kùwa	PART	_	PartType=Top	12	discourse@top	_	Gloss=in_fact
 14	kà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=2	8	conj:coord	_	Gloss=2Masc.Sub
 15	ji	ji	VERB	_	_	14	comp:aux	_	Gloss=hear
-16	wata	wani	DET	_	Definite=Spec|Gender=Fem	17	det	_	Gloss=some.Fem.Spec
+16	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	17	det	_	Gloss=some.Fem.Spec
 17	màganàː	màganàː	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=speech.Fem
 18	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	20	mod	_	Gloss=Neg
 19	tàːre	tàːre	ADV	_	_	20	mod	_	Gloss=together
@@ -206,7 +206,7 @@
 3	soːmàː	soːm-	VERB	_	_	2	comp:aux	_	Gloss=start
 4	neː	neː	PART	_	PartType=Foc	3	discourse@foc	_	Gloss=Emph
 5	dàgà	dàgà	ADP	_	_	3	comp:obl	_	Gloss=from
-6	wata	wani	DET	_	Definite=Spec|Gender=Fem	7	det	_	Gloss=some.Fem.Spec
+6	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	7	det	_	Gloss=some.Fem.Spec
 7	wayàr̃	wayàː	NOUN	_	Definite=Cons|Gender=Fem	5	comp:obj	_	Gloss=wire.Fem.Cons
 8	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	7	compound	_	Gloss=telephone.Masc
 9	à	à	ADP	_	_	7	mod	_	Gloss=at
@@ -249,7 +249,7 @@
 19	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	20	mod@desc	_	Gloss=country.Fem.Cons
 20	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	18	comp:obj	_	Gloss=Great-Britain
 21	ta	ta	ADP	_	_	14	conj:coord	_	Gloss=via
-22	wasu	wani	DET	_	Definite=Spec|Number=Plur	23	det	_	Gloss=some.Plur.Spec
+22	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	23	det	_	Gloss=some.Plur.Spec
 23	wayoːyin	wayàː	NOUN	_	Definite=Cons|Number=Plur	21	comp:obj	_	Gloss=wire.Plur.Cons
 24	ƙàr̃ƙashin	ƙàr̃ƙashin	ADP	_	Number=Plur	23	mod	_	Gloss=under
 25	tèːku	tèːku	NOUN	_	Gender=Fem	24	comp:obj	_	Gloss=sea.Fem|SpaceAfter=No
@@ -471,7 +471,7 @@
 2	jiyà	jiyà	ADV	_	_	1	compound	_	Gloss=yesterday
 3	akà	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf.Rel|Relative=Yes
 4	shiryà	shir-	VERB	_	_	3	comp:aux	_	Gloss=prepare
-5	wani	wani	DET	_	Definite=Spec|Gender=Masc	6	det	_	Gloss=some.Masc.Spec
+5	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	6	det	_	Gloss=some.Masc.Spec
 6	laːyìn	laːyìː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	Gloss=line.Masc.Cons
 7	wayàr̃	wayàr̃	NOUN	_	Definite=Cons|Gender=Fem	6	mod	_	Gloss=wire.Fem.Cons
 8	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	7	compound	_	Gloss=telephone.Masc

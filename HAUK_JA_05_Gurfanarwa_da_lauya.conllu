@@ -5,7 +5,7 @@
 1	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	0	root	_	Gloss=4.Fut
 2	gur̃faːnar̃	gur̃faːn-	VERB	_	Voice=Cau	1	comp:aux	_	Gloss=take_to_court.Cau
 3	dà	dà	ADP	_	_	2	comp:obl	_	Gloss=with
-4	wani	wani	DET	_	Definite=Spec|Gender=Masc	5	det	_	Gloss=some.Masc.Spec
+4	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	5	det	_	Gloss=some.Masc.Spec
 5	lauyàː	lauyàː	NOUN	_	Gender=Masc	3	comp:obj	_	Gloss=lawyer.Masc
 6	mài	mài	PART	_	Number=Sing|PartType=Der	5	mod	_	Gloss=owner_of.Sing
 7	r̃aꞌàyin	r̃aꞌàyiː	NOUN	_	Definite=Cons|Gender=Masc	6	compound	_	Gloss=opinion.Masc.Cons
@@ -79,7 +79,7 @@
 7	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=with
 8	aikìː	aikìː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=work.Masc
 9	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with
-10	wata	wani	DET	_	Definite=Spec|Gender=Fem	11	det	_	Gloss=some.Fem.Spec
+10	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	11	det	_	Gloss=some.Fem.Spec
 11	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=law.Fem
 12	-	-	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 13	wàːtòː	wàːtòː	CCONJ	_	_	14	cc	_	Gloss=i.e.
@@ -165,7 +165,7 @@
 11	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 12	tòː	tòː	INTJ	_	_	13	discourse	_	Gloss=well
 13	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
-14	wata	wani	DET	_	Definite=Spec|Gender=Fem	15	det	_	Gloss=some.Fem.Spec
+14	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	15	det	_	Gloss=some.Fem.Spec
 15	koːtù	koːtù	NOUN	_	Gender=Fem	13	subj	_	Gloss=court.Fem
 16	à	à	ADP	_	_	13	comp:pred	_	Gloss=at
 17	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	16	comp:obj	_	Gloss=Nigeria
@@ -179,7 +179,7 @@
 # text_en = A famous lawyer, "Chief Gani Fawehinmi", has been imprisoned in Nigeira for three months under that national security law, and without any sign that he will brought to court.
 # text_ortho = Wani shàhàr̃ar̃r̃en lauyàː – " Chief Gani Fawehinmi" – an tsarèː shi à Nàːjeːr̃iyàː har̃ tsawon wàtànniː ukù ƙàr̃ƙashin wannàn dòːkaː ta tsàron laːfiyar̃ ƙasaː, kuma bàː tàːre dà wata àlaːmàː zaː'à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː ba.
 # text = wani shàhàr̃ar̃r̃en lauyàː – " Chief Gani Fawehinmi" – an tsarèː shi à Nàːjeːr̃iyàː har̃ tsawon wàtànniː ukù ƙàr̃ƙashin wannàn dòːkaː ta tsàron laːfiyar̃ ƙasaː, kuma bàː tàːre dà wata àlaːmàː zaː'à gur̃faːnar̃ dà shiː à gàban shàr̃iꞌàː ba.
-1	wani	wani	DET	_	Definite=Spec|Gender=Masc	3	det	_	Gloss=some.Masc.Spec
+1	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	3	det	_	Gloss=some.Masc.Spec
 2	shàhàr̃ar̃r̃en	shàhàr̃ar̃r̃eː	ADJ	_	Definite=Cons|Gender=Masc	3	mod	_	Gloss=famous.Masc.Cons
 3	lauyàː	lauyàː	NOUN	_	Gender=Fem	11	dislocated@comp	_	Gloss=lawyer.Masc
 4	–	–	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -210,7 +210,7 @@
 29	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	31	mod	_	Gloss=Neg
 30	tàːre	tàːre	ADV	_	_	31	mod	_	Gloss=together
 31	dà	dà	ADP	_	_	12	mod	_	Gloss=with
-32	wata	wani	DET	_	Definite=Spec|Gender=Fem	33	det	_	Gloss=some.Fem.Spec
+32	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	33	det	_	Gloss=some.Fem.Spec
 33	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	31	comp:obj	_	Gloss=sign.Fem
 34	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	33	mod@relcl	_	Gloss=4.Fut
 35	gur̃faːnar̃	gur̃faːn-	VERB	_	Voice=Cau	34	comp:aux	_	Gloss=take_to_court.Cau
@@ -246,7 +246,7 @@
 18	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	17	comp:obj	_	Gloss=3Masc.Ind
 19	à	à	ADP	_	_	16	comp:obl	_	Gloss=at
 20	gàban	gàban	ADP	_	_	19	comp:obj	_	Gloss=front
-21	wata	wani	DET	_	Definite=Spec|Gender=Fem	22	det	_	Gloss=some.Fem.Spec
+21	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	22	det	_	Gloss=some.Fem.Spec
 22	koːtù	koːtù	NOUN	_	Gender=Fem	20	comp:obj	_	Gloss=court.Fem
 23	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	22	mod	_	Gloss=Gen.Fem
 24	mùsammàn	mùsammàː	ADV	_	_	23	comp:obj	_	Gloss=especially
@@ -286,11 +286,11 @@
 11	ìn	yà	AUX	_	Mood=Sub|Number=Sing|Person=1	16	discourse	_	Gloss=1Sing.Sub
 12	ji	ji	VERB	_	_	11	comp:aux	_	Gloss=hear
 13	lauyàn	lauyàː	NOUN	_	Definite=Def|Gender=Masc	12	comp:obj	_	Gloss=lawyer.Masc.Def
-14	naːsà	naːsà	PRON	_	Case=Gen|Gender=Masc|PronType=Pers	13	mod@poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Masc-3MascGen|MSeg=naː-sà|PersonAf=3|Poss=Yes|SpaceAfter=No|wordform=naː
+14	naːsà	naːsà	PRON	_	Case=Gen|Gender=Masc|PronType=Prs	13	mod@poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Masc-3MascGen|MSeg=naː-sà|PersonAf=3|Poss=Yes|SpaceAfter=No|wordform=naː
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 17	shàːfi	shaf-	VERB	_	_	16	comp:aux	_	Gloss=concern
-18	wata	wani	DET	_	Definite=Spec|Gender=Fem	19	det	_	Gloss=some.Fem.Spec
+18	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	19	det	_	Gloss=some.Fem.Spec
 19	takàr̃daː	takàr̃daː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=paper.Fem
 20	cèː	neː	PART	_	Gender=Fem	19	discourse@foc	_	Gloss=Emph.Fem
 21	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	19	mod@relcl	_	Gloss=REL.Fem
@@ -301,7 +301,7 @@
 26	r̃ubùːtaː	r̃ubuːt-	VERB	_	_	25	comp:aux	_	Gloss=write
 27	à	à	ADP	_	_	26	mod	_	Gloss=at
 28	cikin	cikin	ADP	_	_	27	comp:obj	_	Gloss=inside
-29	wata	wani	DET	_	Definite=Spec|Gender=Fem	30	det	_	Gloss=some.Fem.Spec
+29	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	30	det	_	Gloss=some.Fem.Spec
 30	mùjallàː	mùjallàː	NOUN	_	Gender=Fem	26	comp:obj	_	Gloss=journal.Fem
 31	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	30	mod	_	Gloss=Gen.Fem
 32	màːsu	mài	PART	_	Number=Plur|PartType=Der	31	comp:obj	_	Gloss=owner/doer_of.Plur
@@ -412,14 +412,14 @@
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
 19	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	18	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 20	kaːrè	kaːr-	VERB	_	_	19	comp:aux	_	Gloss=protect
-21	wani	wani	DET	_	Definite=Spec|Gender=Masc	22	det	_	Gloss=some.Masc.Spec
+21	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	22	det	_	Gloss=some.Masc.Spec
 22	leːbùr̃à	leːbùr̃à	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=worker.Masc
 23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=COMP
 24	akèː	nàː	AUX	_	Aspect=Prog|Person=4	23	comp:obj	_	Gloss=4.Prog.Rel|Relative=Yes
 25	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	24	comp:aux	_	Gloss=do.Vnoun.Masc.Cons
 26	zàrgin	zarg-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	25	comp:pred	_	Gloss=accuse.Vnoun.Masc.Cons
 27	cêːwa	cêːwa	SCONJ	_	_	26	mod@relcl	_	Gloss=COMP
-28	wani	wani	DET	_	Definite=Spec|Gender=Masc	29	det	_	Gloss=some.Masc.Spec
+28	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	29	det	_	Gloss=some.Masc.Spec
 29	jaːmìꞌin	jaːmìꞌiː	NOUN	_	Definite=Cons|Gender=Masc	31	subj	_	Gloss=official.Masc.Cons
 30	gwamnatì	gwamnatì	NOUN	_	Gender=Fem	29	mod	_	Gloss=government.Fem
 31	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	27	comp:obj	_	Gloss=3Masc.Perf
@@ -501,7 +501,7 @@
 12	ga	ganiː	VERB	_	_	11	comp:aux	_	Gloss=see
 13	an	yaː	AUX	_	Aspect=Perf|Person=4	12	comp:obj	_	Gloss=4.Perf
 14	ɗaurè	ɗaur-	VERB	_	_	13	comp:aux	_	Gloss=imprison
-15	wasu	wani	DET	_	Definite=Spec|Number=Plur	16	det	_	Gloss=some.Plur.Spec
+15	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	16	det	_	Gloss=some.Plur.Spec
 16	jàːmìꞌan	jàːmì'iː	NOUN	_	Definite=Cons|Number=Plur	14	comp:obj	_	Gloss=leader.Plur.Cons
 17	tsàron	tsàron	NOUN	_	Definite=Cons|Gender=Masc	16	mod	_	Gloss=security.Masc.Cons
 18	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	19	mod@desc	_	Gloss=country.Fem.Cons
@@ -525,7 +525,7 @@
 36	rasà	ras-	VERB	_	_	35	comp:aux	_	Gloss=lose
 37	rânsà	râi	NOUN	_	Definite=Cons|Gender=Masc	36	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=life.Masc.Cons-3MascGen|MSeg=rân-sà|PersonAf=3|Poss=Yes|SpaceAfter=No
 38	dàliːlìn	dàliːlìn	ADP	_	_	36	mod	_	Gloss=because_of
-39	wani	wani	DET	_	Definite=Spec|Gender=Masc	40	det	_	Gloss=some.Masc.Spec
+39	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	40	det	_	Gloss=some.Masc.Spec
 40	bâm	bâm	NOUN	_	Gender=Masc	38	comp:obj	_	Gloss=bomb.Masc
 41	dà	dà	SCONJ	_	_	40	mod@relcl	_	Gloss=COMP
 42	akà	yaː	AUX	_	Aspect=Perf|Person=4	41	comp:obj	_	Gloss=4.Perf.Rel|Relative=Yes
@@ -565,7 +565,7 @@
 13	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	12	comp:obj	_	Gloss=3Fem.Prog.Rel|Relative=Yes
 14	cikin	cikin	ADP	_	_	13	comp:pred	_	Gloss=inside
 15	shirìn	shiry-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:obj	_	Gloss=prepare.Vnoun.Masc.Cons
-16	wani	wani	DET	_	Definite=Spec|Gender=Masc	17	det	_	Gloss=some.Masc.Spec
+16	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	17	det	_	Gloss=some.Masc.Spec
 17	tàːroː	tàːroː	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=meeting.Masc
 18	indà	indà	PRON	_	PronType=Rel	17	mod@relcl	_	Gloss=where
 19	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	18	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Yes

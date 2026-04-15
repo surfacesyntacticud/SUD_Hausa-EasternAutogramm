@@ -72,7 +72,7 @@
 7	dà	dà	CCONJ	_	_	5	comp:obl	_	Gloss=and
 8	aikìː	aikìː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=work.Masc
 9	dà	dà	CCONJ	_	_	8	comp:obl	_	Gloss=and
-10	wata	wani	DET	_	Definite=Spec|Gender=Fem	11	det	_	Gloss=some.Fem.Spec
+10	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	11	det	_	Gloss=some.Fem.Spec
 11	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=law.Fem
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 13	akà	yaː	AUX	_	Aspect=Perf|Person=4	12	comp:obj	_	Gloss=4.Perf.Rel|Relative=Yes|wordform=aka
@@ -171,7 +171,7 @@
 11	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 12	tòː	tòː	INTJ	_	_	13	discourse	_	Gloss=well
 13	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
-14	wata	wani	DET	_	Definite=Spec|Gender=Fem	15	det	_	Gloss=some.Fem.Spec
+14	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	15	det	_	Gloss=some.Fem.Spec
 15	koːtù	koːtù	NOUN	_	Gender=Fem	13	subj	_	Gloss=court.Fem
 16	à	à	ADP	_	_	15	mod	_	Gloss=at
 17	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	16	comp:obj	_	Gloss=Nigeria
@@ -232,7 +232,7 @@
 44	bàsù	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Polarity=Neg	42	comp:obj	_	Gloss=3Plur.Perf.Neg
 45	shàːfi	shàig-	VERB	_	_	44	comp:aux	_	Gloss=concern
 46	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	45	comp:obj	_	Gloss=do
-47	wata	wani	DET	_	Definite=Spec|Gender=Fem	48	det	_	Gloss=some.Fem.Spec
+47	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	48	det	_	Gloss=some.Fem.Spec
 48	maƙar̃ƙashìyaː	maƙar̃ƙashìyaː	NOUN	_	Gender=Fem	46	comp:pred	_	Gloss=sabotage.Fem
 49	gà	gà	ADP	_	_	46	comp:obl	_	Gloss=to
 50	laːfiyàr̃	laːfiyàː	NOUN	_	Definite=Cons|Gender=Fem	49	comp:obj	_	Gloss=health.Fem.Cons
@@ -255,7 +255,7 @@
 3	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
 4	gabaːtar̃	gabaːt-	VERB	_	_	3	comp:aux	_	Gloss=present
 5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
-6	wata	wani	DET	_	Definite=Spec|Gender=Fem	7	det	_	Gloss=some.Fem.Spec
+6	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	7	det	_	Gloss=some.Fem.Spec
 7	ƙaːraː	ƙaːraː	NOUN	_	Gender=Fem	5	comp:obj	_	Gloss=complaint.Fem
 8	à	à	ADP	_	_	4	comp:obl	_	Gloss=at
 9	Bàbbar̃	bàbbaː	ADJ	_	Definite=Cons|Gender=Fem	10	mod	_	Gloss=big.Fem.Cons
@@ -277,7 +277,7 @@
 # text_en = One of their speakers said that they have documented a case where somebody with connexion in the government had a business competitor jailed for two years under this second national security law, just because he did not pay back the loan he owed him, - that is he did not even steal anything from him.
 # text_ortho = Wani kàːkàːkinsù yaː cêː sun sàːmi làːbaːrìː cêːwaː wani mùtûm mài àlaːƙàː dà gwamnatì yaː sâː an kaːmà àboːkin kaːsuwancìnsà an kuma tsarèː shi har̃ tsawon shèːkaràː biyu, bìsàː wannàn dòːkaː ta tsàron laːfiyàr̃ ƙasaː, don kawài bài biyaː shì baːshìn dà yakèː bînsà ba - wàːtòː bài koː saːtar̃ masà wani àbù ba.
 # text = wani kàːkàːkinsù yaː cêː sun sàːmi làːbaːrìː cêːwaː wani mùtûm mài àlaːƙàː dà gwamnatì yaː sâː an kaːmà àboːkin kaːsuwancìnsà an kuma tsarèː shi har̃ tsawon shèːkaràː biyu, bìsàː wannàn dòːkaː ta tsàron laːfiyàr̃ ƙasaː, don kawài bài biyaː shì baːshìn dà yakèː bînsà ba - wàːtòː bài koː saːtar̃ masà wani àbù ba.
-1	wani	wani	DET	_	Definite=Spec|Gender=Masc	2	det	_	Gloss=some.Masc.Spec
+1	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	2	det	_	Gloss=some.Masc.Spec
 2	kàːkàːkinsù	kàːkàːkiː	NOUN	_	Definite=Cons|Gender=Masc	3	subj	_	CaseAf=Gen|Gloss=spokesman.Masc.Cons-3PlurGen|MSeg=kàːkàːkin-sù|NumberAf=Plur|PersonAf=3|Poss=Yes|SpaceAfter=No|wordform=kàːkàːkin
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	Gloss=say
@@ -285,7 +285,7 @@
 6	sàːmi	saːm-	VERB	_	_	5	comp:aux	_	Gloss=get
 7	làːbaːrìː	làːbaːrìː	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=news.Masc
 8	cêːwaː	cêːwaː	SCONJ	_	_	7	mod@relcl	_	Gloss=COMP
-9	wani	wani	DET	_	Definite=Spec|Gender=Masc	10	det	_	Gloss=some.Masc.Spec
+9	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	10	det	_	Gloss=some.Masc.Spec
 10	mùtûm	mùtûm	NOUN	_	Gender=Masc	15	subj	_	Gloss=man.Masc
 11	mài	mài	PART	_	Number=Sing|PartType=Der	10	mod	_	Gloss=owner_of.Sing
 12	àlaːƙàː	àlaːƙàː	NOUN	_	Gender=Fem	11	compound	_	Gloss=connection.Fem
@@ -331,7 +331,7 @@
 52	koː	koː	ADV	_	_	53	mod	_	Gloss=even
 53	saːtar̃	saːt-	VERB	_	Voice=Cau	51	comp:aux	_	Gloss=steal.Cau
 54	masà	masà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	53	comp:obl	_	Gloss=3Masc.Dat
-55	wani	wani	DET	_	Definite=Spec|Gender=Masc	56	det	_	Gloss=some.Masc.Spec
+55	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	56	det	_	Gloss=some.Masc.Spec
 56	àbù	àbù	NOUN	_	Gender=Masc	53	comp:obj	_	Gloss=thing.Masc
 57	ba	ba	PART	_	PartType=Neg|Polarity=Neg	53	mod	_	Gloss=Neg|SpaceAfter=No
 58	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -358,7 +358,7 @@
 16	bìyar̃	bìyar̃	NUM	_	_	14	conj:coord	_	Gloss=five
 17	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 18	akè	nàː	AUX	_	Aspect=Prog|Person=4	17	comp:obj	_	Gloss=4.Prog.Rel2|Relative=Variante
-19	tsàre	tsar-	VERB	_	ExtPos=ADV|VerbForm=Stat	18	comp:pred	_	Gloss=imprison
+19	tsàre	tsar-	VERB	_	ExtPos=ADV|VerbForm=Part	18	comp:pred	_	Gloss=imprPart
 20	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=with
 21	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	comp:obj	_	Gloss=3Plur.Nom
 22	à	à	ADP	_	_	19	mod	_	Gloss=at

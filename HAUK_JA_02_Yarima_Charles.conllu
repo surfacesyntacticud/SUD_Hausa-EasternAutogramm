@@ -259,7 +259,7 @@
 15	Gimbìyaː	gimbìyaː	NOUN	_	Gender=Fem	13	conj:coord	_	Gloss=princess.Fem
 16	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	11	comp:obj	_	Gloss=3Plur.Sub
 17	sàːmu	saːm-	VERB	_	_	16	comp:aux	_	Gloss=get
-18	wani	wani	DET	_	Definite=Spec|Gender=Masc	19	det	_	Gloss=some.Masc.Spec
+18	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	19	det	_	Gloss=some.Masc.Spec
 19	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	17	comp:obj	_	Gloss=place.Masc.Def
 20	dà	dà	SCONJ	_	_	19	mod@relcl	_	Gloss=COMP
 21	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	20	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Yes
@@ -310,7 +310,7 @@
 # text = baːyan wata yaːrinyàː taː miːƙàː wà Yàr̃iːmà fùrànnin mar̃àːba sai mânyan bàːƙiː sukà zar̃cèː zuwàː gidan Gwamnàn indà sukà ci àbincin raːna.
 # text_ortho = Baːyan wata yaːrinyàː taː miːƙàː wà Yàr̃iːmà fùrànnin mar̃àːba sai mânyan bàːƙiː sukà zar̃cèː zuwà̠ː gidan Gwamnàn indà sukà ci àbincin raːna.
 1	baːyan	baːyan	SCONJ	_	_	13	mod	_	Gloss=after
-2	wata	wani	DET	_	Definite=Spec|Gender=Fem	3	det	_	Gloss=some.Fem.Spec
+2	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	3	det	_	Gloss=some.Fem.Spec
 3	yaːrinyàː	yaːrinyàː	NOUN	_	Gender=Fem	4	subj	_	Gloss=girl.Fem
 4	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.Perf
 5	miːƙàː	miːƙ-	VERB	_	_	4	comp:aux	_	Gloss=proffer
@@ -381,7 +381,7 @@
 6	ban	baː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:obj	_	Gloss=give
 7	shàꞌawàː	shàꞌawàː	NOUN	_	Gender=Fem	6	compound	_	Gloss=liking.Fem
 8	kàmar̃	kàmar̃	ADP	_	_	5	mod	_	Gloss=like
-9	wata	wani	DET	_	Definite=Spec|Gender=Fem	11	det	_	Gloss=some.Fem.Spec
+9	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	11	det	_	Gloss=some.Fem.Spec
 10	shirgeːgìyar̃	shirgeːgèː	ADJ	_	Definite=Cons|Gender=Fem	11	mod	_	Gloss=huge.Fem.Cons
 11	tar̃waɗaː	tar̃waɗaː	NOUN	_	Gender=Fem	8	comp:obj	_	Gloss=mudfish.Fem
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
@@ -458,14 +458,14 @@
 3	daːjìn	daːjìː	NOUN	_	Definite=Def|Gender=Masc	2	comp:obj@G	_	Gloss=bush.Masc.Def
 4	neː	neː	PART	_	PartType=Foc	3	discourse@foc	_	Gloss=Emph
 5	ta	ta	ADP	_	_	2	comp:obl	_	Gloss=via
-6	wata	wani	DET	_	Definite=Spec|Gender=Fem	8	det	_	Gloss=some.Fem.Spec
+6	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	8	det	_	Gloss=some.Fem.Spec
 7	irìn	irìː	NOUN	_	_	8	mod@desc	_	Gloss=type_of
 8	gadàː	gadàː	NOUN	_	Gender=Fem	5	comp:obj	_	Gloss=bridge.Fem
 9	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	8	mod@relcl	_	Gloss=REL.Fem
 10	kèː	nàː	AUX	_	Aspect=Prog	9	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
 11	reːtòː	rētòː	NOUN	_	Gender=Masc	10	comp:pred	_	Gloss=hanging.Masc
 12	dàgà	dàgà	ADP	_	_	11	comp:obl	_	Gloss=from
-13	samà	samà	ADV	_	Gender=Fem	12	comp:obj	_	Gloss=above|SpaceAfter=No
+13	samà	samà	ADV	_	_	12	comp:obj	_	Gloss=above|SpaceAfter=No
 14	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles_16-7
@@ -546,7 +546,7 @@
 28	aikàːwaː	aik-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	27	comp:obj	_	Gloss=send.Vnoun.Fem
 29	dà	dà	ADP	_	_	28	comp:obl	_	Gloss=with
 30	rùndunaː	rùndunaː	NOUN	_	Gender=Fem	29	comp:obj	_	Gloss=detachment.Fem
-31	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Stat	30	mod	_	Gloss=take.Stat
+31	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Part	30	mod	_	Gloss=take.Part
 32	dà	dà	CCONJ	_	_	31	comp:obl	_	Gloss=and
 33	màkàːmai	makaːmiː	NOUN	_	Number=Plur	32	comp:obj	_	Gloss=weapon.Plur
 34	zuwàː	zuwàː	ADP	_	_	28	comp:obl	_	Gloss=towards

@@ -63,7 +63,7 @@
 18	kuma	kuma	PART	_	PartType=Top	15	discourse@top	_	Gloss=also
 19	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	15	comp:obj	_	Gloss=3Masc.Perf
 20	fùskànci	fuskant-	VERB	_	_	19	comp:aux	_	Gloss=face
-21	wasu	wani	DET	_	Definite=Spec|Number=Plur	22	det	_	Gloss=some.Plur.Spec
+21	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	22	det	_	Gloss=some.Plur.Spec
 22	wahaloːliː	wàhalàː	NOUN	_	Number=Plur	20	comp:obj	_	Gloss=trouble.Plur
 23	dà	dà	ADP	_	_	22	mod	_	Gloss=with
 24	daːmaː	daːmaː	NOUN	_	Gender=Fem	23	comp:obj	_	Gloss=opportunity.Fem|SpaceAfter=No
@@ -115,7 +115,7 @@
 40	zama	zama	VERB	_	_	39	comp:aux	_	Gloss=become
 41	àkàːwu	àkàːwu	NOUN	_	Gender=Masc	40	comp:pred	_	Gloss=accountant.Masc
 42	à	à	ADP	_	_	40	mod	_	Gloss=at
-43	wani	wani	DET	_	Definite=Spec|Gender=Masc	44	det	_	Gloss=some.Masc.Spec
+43	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	44	det	_	Gloss=some.Masc.Spec
 44	oːfìshin	oːfìs	NOUN	_	Definite=Cons|Gender=Masc	42	comp:obj	_	Gloss=office.Masc.Cons
 45	gwamnatì	gwamnatì	NOUN	_	Gender=Fem	44	mod	_	Gloss=government.Fem|SpaceAfter=No
 46	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
@@ -292,7 +292,7 @@
 11	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=use.Masc
 12	dà	dà	ADP	_	_	11	comp:obl	_	Gloss=with
 13	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	12	comp:obj	_	Gloss=3Fem.Nom
-14	fìye	fi	VERB	_	VerbForm=Stat	10	mod	_	Gloss=exceed.Stat
+14	fìye	fi	VERB	_	VerbForm=Part	10	mod	_	Gloss=exceed.Part
 15	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=with
 16	bàdùːjalaː	bàdùːja	NOUN	_	Gender=Fem	15	comp:obl	_	Gloss=bugle.Fem
 17	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -324,7 +324,7 @@
 # text_ortho = Baːyan wani ɗan loːkàciː, sai Fela ya ga cêːwaː baːbù àbîn dà zâi fi daːcèːwaː dà shiː kàmar̃ yà jeː wata ƙasar̃wàje, yà ƙaːroː ilìmin kiɗìː dà waːƙàː.
 # text = baːyan wani ɗan loːkàciː, sai Fela ya ga cêːwaː baːbù àbîn dà zâi fi daːcèːwaː dà shiː kàmar̃ yà jeː wata ƙasar̃wàje, yà ƙaːroː ilìmin kiɗìː dà waːƙàː.
 1	baːyan	baːyan	ADP	_	_	8	mod	_	Gloss=after
-2	wani	wani	DET	_	Definite=Spec|Gender=Masc	4	det	_	Gloss=some.Masc.Spec
+2	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	4	det	_	Gloss=some.Masc.Spec
 3	ɗan	ɗan	ADJ	_	Definite=Cons|Gender=Masc	4	mod	_	Gloss=small.Masc.Cons
 4	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=time.Masc|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -344,7 +344,7 @@
 19	kàmar̃	kàmar̃	SCONJ	_	_	15	mod	_	Gloss=like
 20	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	19	comp:obj	_	Gloss=3Masc.Sub
 21	jeː	jeː	VERB	_	_	20	comp:aux	_	Gloss=go
-22	wata	wani	DET	_	Definite=Spec|Gender=Fem	23	det	_	Gloss=some.Fem.Spec
+22	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	23	det	_	Gloss=some.Fem.Spec
 23	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	21	mod	_	Gloss=country.Fem.Cons|SpaceAfter=No
 24	wàje	wàje	ADV	_	_	23	mod	_	Gloss=outside|SpaceAfter=No
 25	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
@@ -504,7 +504,7 @@
 # text = Ya kafà wani gidan tàːruwar̃ àl'ummàː à ùnguwar̃ " Surulere " dà kèː baːyan bir̃nin Ìkko, wandà ya laƙàbaː wà suːnaː " The Shrine".
 1	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 2	kafà	kaf-	VERB	_	_	1	comp:aux	_	Gloss=set_up
-3	wani	wani	DET	_	Definite=Spec|Gender=Masc	4	det	_	Gloss=some.Masc.Spec
+3	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	4	det	_	Gloss=some.Masc.Spec
 4	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj	_	Gloss=house.Masc.Cons
 5	tàːruwar̃	taːr-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	mod	_	Gloss=gather.Vnoun.Fem.Cons
 6	àl'ummàː	àl'ummàː	NOUN	_	Gender=Fem	5	comp:obj	_	Gloss=community.Fem
@@ -613,7 +613,7 @@
 3	mahaifìyar̃sà	mahaifìyaː	NOUN	_	Definite=Cons|Gender=Fem	2	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=mother.Fem.Cons-3Masc.Gen|MSeg=mahaifìyar̃-sà|PersonAf=3|Poss=Yes|wordform=mahaifìyar̃
 4	mài	mài	PART	_	Number=Sing|PartType=Der	3	mod	_	Gloss=owner_of.Sing
 5	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	4	compound	_	Gloss=year.Plur
-6	fìye	fi	VERB	_	VerbForm=Stat	5	mod	_	Gloss=exceed.Stat
+6	fìye	fi	VERB	_	VerbForm=Part	5	mod	_	Gloss=exceed.Part
 7	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=with
 8	sàbà'in	sàbà'in	NUM	_	_	7	comp:obj	_	Gloss=seventy
 9	à	à	ADP	_	_	5	mod	_	Gloss=at
@@ -729,13 +729,13 @@
 # text = ya reːrà wata waːƙàː gàme dà manufoːfin jàm'iyyàr̃ taːsà , waddà à cikintà ya cèː kàmaːtàː ya yi dukkàn jàma'àr̃ Nàːjeːr̃iyàː tà yi huːtuː na watàː gùdaː, don koːwaː yà sàːmi sùkuːnìn tùnàːnin hanyàr̃ dà zaː'à ɓulloː wà matsaloːlîn dà ƙasâr̃ kèː fùskantàː.
 1	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 2	reːrà	reːr-	VERB	_	_	1	comp:aux	_	Gloss=compose
-3	wata	wani	DET	_	Definite=Spec|Gender=Fem	4	det	_	Gloss=some.Fem.Spec
+3	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	4	det	_	Gloss=some.Fem.Spec
 4	waːƙàː	waːƙàː	PRON	_	Gender=Fem	2	comp:obj	_	Gloss=song.Fem
 5	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Stat	6	mod	_	Gloss=together
 6	dà	dà	ADP	_	_	2	comp:obl	_	Gloss=with
 7	manufoːfin	manufaː	NOUN	_	Definite=Cons|Number=Plur	6	comp:obj	_	Gloss=programme.Plur.Cons
 8	jàm'iyyàr̃	jàm'iyyàː	NOUN	_	Definite=Def|Gender=Fem	7	mod	_	Gloss=party.Fem.Def
-9	taːsà	taːsà	PRON	_	Case=Gen|Gender=Fem|PronType=Pers	8	mod@poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-sà|PersonAf=3|Poss=Yes|SpaceAfter=No|wordform=taː
+9	taːsà	taːsà	PRON	_	Case=Gen|Gender=Fem|PronType=Prs	8	mod@poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-sà|PersonAf=3|Poss=Yes|SpaceAfter=No|wordform=taː
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 11	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	7	mod@relcl	_	Gloss=REL.Fem
 12	à	à	ADP	_	_	14	mod	_	Gloss=at
@@ -839,7 +839,7 @@
 7	akà	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf.Rel|Relative=Yes
 8	sàki	sak-	VERB	_	_	7	comp:aux	_	Gloss=release
 9	goːgân	goːgaː	NOUN	_	Definite=Def|Gender=Masc	8	comp:obj	_	Gloss=hero.Masc.Def
-10	naːkù	naːkù	PRON	_	Case=Gen|Gender=Masc|PronType=Pers	9	mod@poss	_	CaseAf=Gen|Gloss=Gen.Masc-2PlurGen|MSeg=naː-kù|NumberAf=Plur|PersonAf=2|Poss=Yes|SpaceAfter=No|wordform=naː
+10	naːkù	naːkù	PRON	_	Case=Gen|Gender=Masc|PronType=Prs	9	mod@poss	_	CaseAf=Gen|Gloss=Gen.Masc-2PlurGen|MSeg=naː-kù|NumberAf=Plur|PersonAf=2|Poss=Yes|SpaceAfter=No|wordform=naː
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	wàːtòː	wàːtòː	CCONJ	_	_	13	cc	_	Gloss=that_is
 13	baːyan	baːyan	SCONJ	_	_	2	conj:dicto	_	Gloss=after
@@ -855,7 +855,7 @@
 # text_en = What made the rest of the world take interest in Fela was his twenty-seven wifes all of whom he married in nineteen seventy-eight.
 # text_ortho = Wani àbù kuma dà ya sâː sauran duːniyàː ta shìga nuːnà shàʼawàː gàme dà Fela, shiː nèː gàme dà maːtansà na aureː suː àshìr̃in dà bakwài, waɗàndà ya àuri dukkànsù à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sàbà'in dà takwàs.
 # text = wani àbù kuma dà ya sâː sauran duːniyàː ta shìga nuːnà shàʼawàː gàme dà Fela, shiː nèː gàme dà maːtansà na aureː suː àshìr̃in dà bakwài, waɗàndà ya àuri dukkànsù à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sàbà'in dà takwàs.
-1	wani	wani	DET	_	Definite=Spec|Gender=Masc	2	det	_	Gloss=some.Masc.Spec
+1	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	2	det	_	Gloss=some.Masc.Spec
 2	àbù	àbù	NOUN	_	Gender=Masc	18	subj	_	Gloss=thing.Masc
 3	kuma	kuma	PART	_	PartType=Top	2	discourse@top	_	Gloss=also
 4	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP

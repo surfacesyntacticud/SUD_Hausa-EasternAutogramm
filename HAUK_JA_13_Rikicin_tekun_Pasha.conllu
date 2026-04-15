@@ -37,7 +37,7 @@
 17	yi	yi	VERB	_	_	16	comp:aux	_	Gloss=do
 18	bìr̃is	bìr̃is	IDEO	_	Definite=Cons|Gender=Fem	17	comp:pred	_	Gloss=ignore
 19	dà	dà	ADP	_	_	17	comp:obl	_	Gloss=with
-20	wasu	wani	DET	_	Definite=Spec|Number=Plur	21	det	_	Gloss=some.Plur.Spec
+20	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	21	det	_	Gloss=some.Plur.Spec
 21	tàkàr̃duː	takàr̃dàː	NOUN	_	Number=Plur	19	comp:obj	_	Gloss=paper.Plur
 22	dà	dà	SCONJ	_	_	21	mod@relcl	_	Gloss=COMP
 23	yànzu	yànzu	ADV	_	_	24	mod	_	Gloss=now
@@ -52,7 +52,7 @@
 32	Mùsùlmiː	mùsùlmiː	NOUN	_	Number=Plur	31	mod	_	Gloss=Muslim.Plur
 33	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	30	comp:obj	_	Gloss=3Plur.Sub
 34	ɗàuki	ɗauk-	VERB	_	_	33	comp:aux	_	Gloss=take
-35	wasu	wani	DET	_	Definite=Spec|Number=Plur	36	det	_	Gloss=some.Plur.Spec
+35	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	36	det	_	Gloss=some.Plur.Spec
 36	màtàːkai	mataːkiː	NOUN	_	Number=Plur	34	comp:obj	_	Gloss=step.Plur
 37	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Stat	38	mod	_	Gloss=together
 38	dà	dà	ADP	_	_	34	comp:obl	_	Gloss=with
@@ -111,7 +111,7 @@
 # text = à sanâr̃wâr̃ taːsà dai, Sarkin Mùsùlmiː bài fitoː fiːliː yaː bayyànà tàkàr̃dûn dà yakèː màganàː à kâi ba, tòː àmmaː à 'yan kwàːnàkin nàn jàr̃ìːdun Nàːjeːr̃iyàː sun shaː bugà shar̃hìː dà kèː nuːnà ƙîn jinin Amìr̃kà.
 1	à	à	ADP	_	_	8	mod	_	Gloss=at|wordform=A
 2	sanâr̃wâr̃	sanâr̃waː	NOUN	_	Definite=Def|Gender=Fem	1	comp:obj	_	Gloss=announcement.Fem.Def
-3	taːsà	taːsà	PRON	_	Case=Gen|Gender=Fem|PronType=Pers	2	mod@poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-sà|PersonAf=3|Poss=Yes|wordform=taː
+3	taːsà	taːsà	PRON	_	Case=Gen|Gender=Fem|PronType=Prs	2	mod@poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-sà|PersonAf=3|Poss=Yes|wordform=taː
 4	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	Sarkin	sarkiː	NOUN	_	Definite=Cons|Gender=Masc	8	subj	_	Gloss=leader.Masc.Cons
@@ -216,7 +216,7 @@
 30	dà	dà	SCONJ	_	_	26	comp:obl	_	Gloss=COMP
 31	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	30	comp:obj	_	Gloss=3Plur.Sub
 32	taːshì	taːs-	VERB	_	_	31	comp:aux	_	Gloss=get_up
-33	tsàye	tsay-	VERB	_	ExtPos=ADV|VerbForm=Stat	32	mod	_	Gloss=stand.Stat
+33	tsàye	tsay-	VERB	_	ExtPos=ADV|VerbForm=Part	32	mod	_	Gloss=stand.Part
 34	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	31	parataxis@conj	_	Gloss=3Plur.Sub
 35	bayyànà	bayyan-	VERB	_	_	34	comp:aux	_	Gloss=explain
 36	r̃a'àyinsù	r̃a'àyin	NOUN	_	Definite=Cons|Gender=Masc	35	comp:obj	_	CaseAf=Gen|Gloss=viewpoint.Masc.Cons-3PlurGen|MSeg=r̃a'àyin-sù|NumberAf=Plur|PersonAf=3|Poss=Yes|wordform=r̃a'àyin
@@ -571,7 +571,7 @@
 # text_ortho = Baːbù wani r̃àhoːtòn raunukàː dà akà saːmùː sànàdiyyàr̃ zàngà-zangàr̃ dà akà yi duk à Kàtsinà dà kuma Kanòː, tòː àmmaː kiràn dà Sarkin Mùsùlmiː ya yi na à zaunàː laːfiyàː yaː nuːnàː kèːnan àkwai yìːwuwar̃ ɓarkèːwar̃ taːshìn hankàliː
 # text = baːbù wani r̃àhoːtòn raunukàː dà akà saːmùː sànàdiyyàr̃ zàngà-zangàr̃ dà akà yi duk à Kàtsinà dà kuma Kanòː, tòː àmmaː kiràn dà Sarkin Mùsùlmiː ya yi na à zaunàː laːfiyàː yaː nuːnàː kèːnan àkwai yìːwuwar̃ ɓarkèːwar̃ taːshìn hankàliː
 1	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is_not
-2	wani	wani	DET	_	Definite=Spec|Gender=Masc	3	det	_	Gloss=some.Masc.Spec
+2	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	3	det	_	Gloss=some.Masc.Spec
 3	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	1	subj	_	Gloss=report.Masc.Cons
 4	raunukàː	raunìː	NOUN	_	Number=Plur	3	mod	_	Gloss=injury.Plur
 5	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=COMP

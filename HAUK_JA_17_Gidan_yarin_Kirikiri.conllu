@@ -10,7 +10,7 @@
 # text = wani r̃àhoːtòn dà Ƙungìyar̃ Neːmàː wà Jàma'àː Haƙƙìnsùta Nàːjeːr̃iyàː (= ƘNJH) ta bugàː yaː cêː gidan kûr̃kukùn Ƙìr̃iƙìr̃i mài tsauràːran màtàːkan tsàr̃oː, wandà kuma kèː can bir̃nin Ìkko, yanàː cìke màːƙil dà 'yan fursùnà fìye dà yawàn waɗàndà ya kàmaːtà sù kasànceː à cikinsà.
 # text_en = The Nigerian Civil Rights Association (ƘNJH) has published a report saying that the Kirikiri maximum security prison which is in Lagos, is full of prisoners, more that the number who should be there.
 # text_ortho = Wani r̃àhoːtòn dà Ƙungìyar̃ Neːmàː wà Jàma'àː Haƙƙìnsù ta Nàːjeːr̃iyàː (= ƘNJH) ta bugàː yaː cêː gidan kûr̃kukùn Ƙìr̃iƙìr̃i mài tsauràːran màtàːkan tsàr̃oː, wandà kuma kèː can bir̃nin Ìkko, yanàː cìke màːƙil dà 'yan fursùnà fìye dà yawàn waɗàndà ya kàmaːtà sù kasànceː à cikinsà .
-1	wani	wani	DET	_	Definite=Spec|Gender=Masc	2	det	_	Gloss=some.Masc.Spec
+1	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	2	det	_	Gloss=some.Masc.Spec
 2	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	16	subj	_	Gloss=report.Masc.Def
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP|wordform=da
 4	Ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	14	subj	_	Gloss=organisation.Fem.Cons
@@ -48,7 +48,7 @@
 36	dà	dà	ADP	_	_	34	comp:obl	_	Gloss=with|wordform=da
 37	'yan	ɗaː	ADJ	_	Definite=Cons|Number=Plur	36	comp:obj	_	Gloss=child.Plur.Cons
 38	fursùnà	fursùnà	NOUN	_	Gender=Masc	37	compound	_	Gloss=prison.Masc
-39	fìye	fi	VERB	_	VerbForm=Stat	37	mod	_	Gloss=exceed.Stat
+39	fìye	fi	VERB	_	VerbForm=Part	37	mod	_	Gloss=exceed.Part
 40	dà	dà	ADP	_	_	39	comp:obl	_	Gloss=with|wordform=da
 41	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	40	comp:obj	_	Gloss=quantity.Masc.Cons
 42	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	41	mod	_	Gloss=REL.Plur|wordform=wadandal
@@ -127,7 +127,7 @@
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 15	ta	ta	ADP	_	_	13	mod	_	Gloss=via
 16	yaddà	yaddà	ADV	_	PronType=Rel	15	comp:obj	_	Gloss=how
-17	har̃	har̃	ADV	_	Definite=Cons|Gender=Fem	20	mod	_	Gloss=even
+17	har̃	har̃	ADV	_	Definite=Cons	20	mod	_	Gloss=even
 18	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	20	subj	_	Gloss=child.Plur.Cons
 19	fur̃sùnàn	fur̃sùnà	NOUN	_	Definite=Def|Gender=Masc	18	compound	_	Gloss=prison.Masc.Def
 20	sukàn	kàn	AUX	_	Aspect=Hab|Number=Plur|Person=3	16	comp:obj	_	Gloss=3Plur.Hab
@@ -140,7 +140,7 @@
 27	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	20	parataxis@conj	_	Gloss=3Plur.Sub
 28	bâi	baː	VERB	_	_	27	comp:aux	_	Gloss=give
 29	wà	mà	ADP	_	Case=Dat	28	comp:obl	_	Gloss=Dat
-30	wasu	wani	DET	_	Definite=Spec|Number=Plur	29	comp:obj	_	Gloss=some.Plur.Spec|SpaceAfter=No
+30	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	29	comp:obj	_	Gloss=some.Plur.Spec|SpaceAfter=No
 31	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 32	baːyan	baːyan	ADP	_	_	28	mod	_	Gloss=after
 33	saː'oː'iː	saː'àː	NOUN	_	Number=Plur	32	comp:obj	_	Gloss=hour.Plur
@@ -151,7 +151,7 @@
 38	,	,	PUNCT	_	_	39	punct	_	Gloss=PUNCT
 39	yàːyîn	yàːyiː	PRON	_	PronType=Rel	28	mod	_	Gloss=when
 40	dà	dà	SCONJ	_	_	39	mod@relcl	_	Gloss=COMP
-41	wasu	wani	DET	_	Definite=Spec|Number=Plur	42	det	_	Gloss=some.Plur.Spec
+41	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	42	det	_	Gloss=some.Plur.Spec
 42	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	48	subj	_	Gloss=child.Plur.Cons|wordform=yan
 43	fur̃sunoːnîn	fur̃sùnà	NOUN	_	Definite=Def|Number=Plur	42	compound	_	Gloss=prisoner.Plur.Def
 44	kùwa	kùwa	PART	_	PartType=Top	42	discourse@top	_	Gloss=in_fact
@@ -272,7 +272,7 @@
 # text = àkwai kuma wasu tsàràrrûn suː kìːmaːnìn ɗàriː ɗaya dà sàbà'in dà biyu dà kèː jiràn hauniː yà kawar̃ dà suː tun shèːkàruː goːmà shâː bìyar̃ dà sukà shigèː.
 1	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	Gloss=there_is
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
-3	wasu	wani	DET	_	Definite=Spec|Number=Plur	4	det	_	Gloss=some.Plur.Spec
+3	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	4	det	_	Gloss=some.Plur.Spec
 4	tsàràrrûn	tsàràrreː	NOUN	_	Definite=Def|Number=Plur	1	subj	_	Gloss=prisoner.Plur.Def
 5	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	conj:appos	_	Gloss=3Plur.Nom
 6	kìːmaːnìn	kìːmaːnìn	ADP	_	_	5	mod	_	Gloss=about
@@ -330,7 +330,7 @@
 24	fiːliː	fiːliː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=space.Masc
 25	sai	sai	ADP	_	_	15	mod	_	Gloss=except_for
 26	fa	fa	PART	_	PartType=Top	25	discourse@top	_	Gloss=certainly
-27	wasu	wani	DET	_	Definite=Spec|Number=Plur	25	comp:obj	_	Gloss=some.Plur.Spec
+27	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	25	comp:obj	_	Gloss=some.Plur.Spec
 28	kàɗan	kàɗan	ADV	_	_	27	mod	_	Gloss=few
 29	dàgà	dàgà	ADP	_	_	27	mod	_	Gloss=from
 30	cikin	cikin	ADP	_	_	29	comp:obj	_	Gloss=inside
@@ -433,7 +433,7 @@
 36	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	16	conj:dicto	_	Gloss=3Masc.Prog|wordform=yanaː
 37	sànàdiyyàr̃	sànàdiyyàː	NOUN	_	Definite=Cons|Gender=Fem	36	comp:pred	_	Gloss=cause.Fem.Cons
 38	bàːzuwar̃	baːz-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	37	mod	_	Gloss=spread.Vnoun.Fem.Cons|wordform=baːzuwar
-39	wasu	wani	DET	_	Definite=Spec|Number=Plur	40	det	_	Gloss=some.Plur.Spec
+39	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	40	det	_	Gloss=some.Plur.Spec
 40	ƙwaːyoːyin	ƙwàːya:	NOUN	_	Definite=Cons|Number=Plur	38	comp:obj	_	Gloss=grain.Plur.Cons
 41	cùːtaː	cùːtaː	NOUN	_	Gender=Fem	40	compound	_	Gloss=disease.Fem
 42	dà	dà	CCONJ	_	_	44	cc	_	Gloss=and
@@ -558,7 +558,7 @@
 19	ƙwar̃ai	ƙwar̃ai	ADV	_	_	18	mod	_	Gloss=really|SpaceAfter=No
 20	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 21	kuma	kuma	CCONJ	_	_	26	cc	_	Gloss=also
-22	wasu	wani	DET	_	Definite=Spec|Number=Plur	23	det	_	Gloss=some.Plur.Spec
+22	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	23	det	_	Gloss=some.Plur.Spec
 23	ma'àikàtan	ma'àikàciː	NOUN	_	Definite=Cons|Number=Plur	26	subj	_	Gloss=worker.Plur.Cons
 24	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	23	mod	_	Gloss=house.Masc.Cons
 25	yaːrìn	yaːrìː	NOUN	_	Definite=Def|Gender=Masc	24	compound	_	Gloss=warder.Masc.Def
@@ -585,7 +585,7 @@
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 4	bayyànà	bayyan-	VERB	_	_	3	comp:aux	_	Gloss=reveal
 5	suːnàːyen	suːnaː	NOUN	_	Definite=Cons|Number=Plur	4	comp:obj	_	Gloss=name.Plur
-6	wasu	wani	DET	_	Definite=Spec|Number=Plur	7	det	_	Gloss=some.Plur.Spec
+6	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	7	det	_	Gloss=some.Plur.Spec
 7	mutàːneː	mùtûm	NOUN	_	Number=Plur	5	mod	_	Gloss=people.Plur
 8	àr̃bà'in	àr̃bà'in	NUM	_	_	7	mod:num	_	Gloss=forty
 9	dà	dà	CCONJ	_	_	10	cc	_	Gloss=and
@@ -623,7 +623,7 @@
 18	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	conj:coord	_	Gloss=3Masc.Perf
 19	cêː	cêː	VERB	_	_	18	comp:aux	_	Gloss=say|wordform=cê
 20	àkwai	àkwai	PART	_	PartType=Pred	19	comp:obj	_	Gloss=there_is
-21	wasu	wani	DET	_	Definite=Spec|Number=Plur	22	det	_	Gloss=some.Plur.Spec
+21	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	22	det	_	Gloss=some.Plur.Spec
 22	dàlìːlân	dàliːlìː	NOUN	_	Definite=Def|Number=Plur	20	subj	_	Gloss=cause.Plur.Def|SpaceAfter=No
 23	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 24	tun	tun	ADP	_	_	20	mod	_	Gloss=since
@@ -706,7 +706,7 @@
 28	nàː	nàː	AUX	_	Aspect=Prog	23	mod@relcl	_	Gloss=Prog
 29	fitôːwaː	fit-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	28	comp:aux	_	Gloss=come_out
 30	dà	dà	ADP	_	_	29	comp:obl	_	Gloss=with
-31	wani	wani	DET	_	Definite=Spec|Gender=Masc	32	det	_	Gloss=some.Masc.Spec
+31	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	32	det	_	Gloss=some.Masc.Spec
 32	haːliː	haːliː	NOUN	_	Gender=Masc	30	comp:obj	_	Gloss=character.Masc
 33	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	32	mod	_	Gloss=Gen
 34	nuːnà	nuːn-	VERB	_	_	33	comp:obj	_	Gloss=show

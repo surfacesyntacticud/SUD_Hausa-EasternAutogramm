@@ -62,7 +62,7 @@
 4	likitoːciː	likitoːciː	NOUN	_	Number=Plur	5	subj	_	Gloss=doctor.Plur
 5	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	3	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Yes
 6	yi	yi	VERB	_	_	5	comp:aux	_	Gloss=do
-7	wani	wani	DET	_	Definite=Spec|Gender=Masc	8	det	_	Gloss=some.Masc.Spec
+7	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	8	det	_	Gloss=some.Masc.Spec
 8	tàːroː	tàːroː	NOUN	_	Gender=Masc	6	comp:pred	_	Gloss=meeting.Masc
 9	à	à	ADP	_	_	6	mod	_	Gloss=at
 10	Àbuːjaː	Àbuːjaː	PROPN	_	_	9	comp:obj	_	Gloss=Abuja|SpaceAfter=No
@@ -126,7 +126,7 @@
 25	moːrèː	moːr-	VERB	_	_	24	comp:aux	_	Gloss=enjoy
 26	wà	mà	ADP	_	Case=Dat	25	comp:obl	_	Gloss=Dat
 27	shirìn	shirìː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:obj	_	Gloss=programme.Masc.Cons
-28	wasu	wani	DET	_	Definite=Spec|Number=Plur	29	det	_	Gloss=some.Plur.Spec
+28	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	29	det	_	Gloss=some.Plur.Spec
 29	ƙungiyoːyiː	ƙungìyaː	NOUN	_	Number=Plur	27	mod	_	Gloss=organisation.Plur
 30	na	na	PART	_	Case=Gen|Number=Plur|PartType=Case	29	mod	_	Gloss=Gen
 31	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	30	comp:obj	_	Gloss=world.Fem
@@ -203,7 +203,7 @@
 # text_en = Some of these are young children who have not reached the status of women, and who die because their pelvis is too small, and because of this, they have problems when giving birth.
 # text_ortho = Wasu dàgà cikin waɗànnân yâːraː nèː ƙanaːnàː, waɗàndà bàsù kai minzàlin maːtaː ba, sunàː kuma mutuwàː neː sabòːdà kwàtangwalònsù yaː fayè ƙanƙantàː , don hakà sunàː shân wàhalàː wajen haihùwaː .
 # text = wasu dàgà cikin waɗànnân yâ:raː nèː ƙanaːnàː, waɗàndà bàsù kai minzàlin maːtaː ba, sunàː kuma mutuwàː neː sabòːdà kwàtangwalònsù yaː fayè ƙanƙantàː, don hakà sunàː shân wàhalàː wajen haihùwaː.
-1	wasu	wani	PRON	_	Definite=Spec|Number=Plur	16	subj	_	Gloss=some.Plur.Spec
+1	wasu	wani	PRON	_	Definite=Spec|Number=Plur|PronType=Ind	16	subj	_	Gloss=some.Plur.Spec
 2	dàgà	dàgà	ADP	_	_	1	mod	_	Gloss=from
 3	cikin	cikin	ADP	_	_	2	comp:obj	_	Gloss=inside
 4	waɗànnân	nân	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	5	det	_	Gloss=ProxS.Plur
@@ -253,7 +253,7 @@
 10	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:aux	_	Gloss=do.Vnoun.Masc
 11	danganèː	danganèː	NOUN	_	ExtPos=ADP|Gender=Masc	10	comp:obl	_	Gloss=relation.Masc|Idiom=Yes
 12	dà	dà	ADP	_	_	11	compound	_	Gloss=with|InIdiom=Yes
-13	wasu	wani	DET	_	Definite=Spec|Number=Plur	14	det	_	Gloss=some.Plur.Spec
+13	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	14	det	_	Gloss=some.Plur.Spec
 14	cànje-cànje	canjìː	NOUN	_	Number=Plur	11	comp:obj	_	Gloss=change.Plur
 15	dà	dà	SCONJ	_	_	14	mod@relcl	_	Gloss=COMP
 16	kèː	nàː	AUX	_	Aspect=Prog	15	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
@@ -273,7 +273,7 @@
 30	akèː	nàː	AUX	_	Aspect=Prog|Person=4	29	comp:obj	_	Gloss=4.Prog.Rel|Relative=Yes
 31	ganin	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	30	comp:aux	_	Gloss=seen.Vnoun.Masc.Cons
 32	cêːwaː	cêːwaː	SCONJ	_	_	31	comp:obj	_	Gloss=COMP
-33	wata	wani	DET	_	Definite=Spec|Gender=Fem	34	det	_	Gloss=some.Fem.Spec
+33	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	34	det	_	Gloss=some.Fem.Spec
 34	àlaːmàː	àlaːmàː	NOUN	_	Gender=Fem	35	comp:pred	_	Gloss=sign.Fem
 35	ceː	neː	AUX	_	Gender=Fem	32	comp:obj	_	Copula=Yes|Gloss=be.Fem
 36	dà	dà	SCONJ	_	_	34	mod@relcl	_	Gloss=COMP
@@ -297,7 +297,7 @@
 1	har̃	har̃	ADP	_	ExtPos=ADV	6	mod	_	Gloss=up_to|Idiom=Yes
 2	ìlaː	ìlaː	X	_	Foreign=Yes	1	unk	_	Gloss=X|InIdiom=Yes|Lang=ar
 3	yâu	yâu	ADV	_	_	2	unk	_	Gloss=today|InIdiom=Yes
-4	wasu	wani	DET	_	Definite=Spec|Number=Plur	5	det	_	Gloss=some.Plur.Spec
+4	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	5	det	_	Gloss=some.Plur.Spec
 5	maːtân	màːtaː	NOUN	_	Definite=Def|Number=Plur	6	subj	_	Gloss=woman.Plur.Def
 6	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
 7	mutuwàː	mutù	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	6	comp:aux	_	Gloss=die.Vnoun.Fem
@@ -346,7 +346,7 @@
 # text_en = Some women too die when trying to abort.
 # text_ortho = Wasu maːtân kuma sunàː mutuwàː neː à yàːyîn dà sukà yi ƙòːƙarin zubar̃ dà cikìː.
 # text = wasu maːtân kuma sunàː mutuwàː neː à yàːyîn dà sukà yi ƙòːƙarin zubar̃ dà cikìː.
-1	wasu	wani	DET	_	Definite=Spec|Number=Plur	2	det	_	Gloss=some.Plur.Spec
+1	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	2	det	_	Gloss=some.Plur.Spec
 2	maːtân	màːtaː	NOUN	_	Definite=Def|Number=Plur	4	subj	_	Gloss=woman.Plur.Def
 3	kuma	kuma	PART	_	PartType=Top	2	discourse@top	_	Gloss=also
 4	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
@@ -371,7 +371,7 @@
 2	dà	dà	ADP	_	_	1	mod	_	Gloss=with
 3	cikìː	cikìː	NOUN	_	Gender=Masc	2	comp:obj	_	Gloss=pregnancy.Masc
 4	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
-5	wani	wani	DET	_	Definite=Spec|Gender=Masc	6	det	_	Gloss=some.Masc.Spec
+5	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	6	det	_	Gloss=some.Masc.Spec
 6	àbù	àbù	NOUN	_	Gender=Masc	7	comp:pred	_	Gloss=thing.Masc
 7	neː	neː	AUX	_	_	0	root	_	Copula=Yes|Gloss=be
 8	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=COMP
@@ -443,7 +443,7 @@
 1	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	2	det	_	Gloss=ProxS.Masc
 2	adàdiː	adàdiː	NOUN	_	Gender=Masc	7	subj	_	Gloss=number.Masc
 3	kùwa	kùwa	PART	_	PartType=Top	2	discourse@top	_	Gloss=in_fact|wordform=kuwa
-4	wani	wani	DET	_	Definite=Spec|Gender=Masc	5	det	_	Gloss=some.Masc.Spec
+4	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	5	det	_	Gloss=some.Masc.Spec
 5	àbin	àbiː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:pred	_	Gloss=thing.Masc.Cons
 6	tsòːroː	tsòːroː	NOUN	_	Gender=Masc	5	mod	_	Gloss=fear.Masc
 7	nèː	neː	AUX	_	_	0	root	_	Copula=Yes|Gloss=be
@@ -553,7 +553,7 @@
 11	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=COMP
 12	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	11	comp:obj	_	Gloss=4.Fut
 13	kafà	kaf-	VERB	_	_	12	comp:aux	_	Gloss=set_up
-14	wani	wani	DET	_	Definite=Spec|Gender=Masc	15	det	_	Gloss=some.Masc.Spec
+14	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	15	det	_	Gloss=some.Masc.Spec
 15	kwàmìtî	kwàmìtî	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=committee.Masc
 16	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	15	mod@relcl	_	Gloss=REL.Masc
 17	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	16	comp:obj	_	Gloss=3Masc.Fut
@@ -572,7 +572,7 @@
 30	ƙaːrà	ƙaːr-	VERB	_	_	29	comp:aux	_	Gloss=increase
 31	muhimmancìn	muhimmancìː	NOUN	_	Definite=Cons|Gender=Masc	30	comp:obj	_	Gloss=importance.Masc
 32	kafà	kaf-	VERB	_	_	31	mod	_	Gloss=set_up
-33	wata	wani	DET	_	Definite=Spec|Gender=Fem	34	det	_	Gloss=some.Fem.Spec
+33	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	34	det	_	Gloss=some.Fem.Spec
 34	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	32	comp:obj	_	Gloss=law.Fem
 35	dà	dà	SCONJ	_	_	34	mod@relcl	_	Gloss=COMP
 36	zaːtà	zâi	AUX	_	Gender=Fem|Person=3|Tense=Fut	35	comp:obj	_	Gloss=3Fem.Fut
