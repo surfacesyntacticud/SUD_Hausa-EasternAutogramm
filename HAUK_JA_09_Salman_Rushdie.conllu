@@ -79,7 +79,7 @@
 11	"	"	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 12	à	à	ADP	_	_	6	comp:obl	_	Gloss=at
 13	kân	kân	ADP	_	_	12	comp:obj	_	Gloss=top
-14	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	15	det	_	Gloss=ProxS.Masc
+14	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	15	det	_	Gloss=ProxS.Masc
 15	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	13	comp:obj	_	Gloss=book.Masc.Def
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=COMP
 17	akà	yaː	AUX	_	Aspect=Perf|Person=4	16	comp:obj	_	Gloss=4.Perf.Rel|Relative=Rel
@@ -169,7 +169,7 @@
 2	dâː	dâː	ADV	_	_	7	mod	_	Gloss=formerly
 3	maː	maː	PART	_	PartType=Top	2	discourse@top	_	Gloss=even
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	dislocated@top	_	Gloss=3Masc.Nom
-5	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	6	det	_	Gloss=ProxS.Masc
+5	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	6	det	_	Gloss=ProxS.Masc
 6	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	4	conj:appos	_	Gloss=person.Masc.Def
 7	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	Gloss=3Masc.Nom
 8	nèː	neː	PART	_	PartType=Foc	7	discourse@foc	_	Gloss=Emph
@@ -191,7 +191,7 @@
 24	cêːwaː	cêːwaː	SCONJ	_	_	23	mod	_	Gloss=COMP
 25	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	24	comp:obj	_	Gloss=3Masc.Sub
 26	fassàr̃à	fassàr̃-	VERB	_	_	25	comp:aux	_	Gloss=translate
-27	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	28	det	_	Gloss=ProxS.Masc
+27	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	28	det	_	Gloss=ProxS.Masc
 28	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	26	comp:obj	_	Gloss=book.Masc.Def|SpaceAfter=No
 29	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
@@ -234,7 +234,7 @@
 18	jinin	jiniː	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	Gloss=blood.Masc.Cons|InIdiom=Yes
 19	à	yà	AUX	_	Mood=Sub|Person=4	18	mod	_	Gloss=4.Sub
 20	bugà	bug-	VERB	_	_	19	comp:aux	_	Gloss=print
-21	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	22	det	_	Gloss=ProxS.Masc
+21	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	22	det	_	Gloss=ProxS.Masc
 22	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	20	comp:obj	_	Gloss=book.Masc.Prev.Ref
 23	dà	dà	ADP	_	_	20	mod	_	Gloss=with
 24	harshèn	harshèː	NOUN	_	Definite=Cons|Gender=Masc	25	mod@desc	_	Gloss=tongue.Masc.Cons
@@ -264,7 +264,7 @@
 17	ɗaya	ɗaya	NUM	_	_	16	comp:obj	_	Gloss=one
 18	dàgà	dàgà	ADP	_	_	17	mod	_	Gloss=from
 19	cikinsù	cikin	ADP	_	Poss=Yes	18	comp:obj	_	CaseAf=Gen|Gloss=inside-3PlurGen|MSeg=cikin-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No|wordform=cikin
-20	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	21	det	_	Gloss=ProxS.Fem
+20	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	21	det	_	Gloss=ProxS.Fem
 21	sùkùddìr̃eːbàː	sùkùddìr̃eːbàː	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=screwdriver.Fem
 22	har̃	har̃	SCONJ	_	_	15	mod	_	Gloss=so_that
 23	maː	maː	PART	_	PartType=Top	22	discourse@top	_	Gloss=even
@@ -284,7 +284,7 @@
 3	hakà	hakà	ADV	_	_	8	mod	_	Gloss=thus
 4	maː	maː	PART	_	PartType=Top	3	discourse@top	_	Gloss=even
 5	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	dislocated@subj	_	Gloss=3Masc.Nom
-6	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	7	det	_	Gloss=ProxS.Masc
+6	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	7	det	_	Gloss=ProxS.Masc
 7	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	5	conj:appos	_	Gloss=person.Masc.Def
 8	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Prog
 9	can	can	ADV	_	Deixis=Remt|PronType=Dem	8	comp:pred	_	Gloss=Remt
@@ -302,7 +302,7 @@
 # text = tòː shiː wannàn mùtumìn dà ya kai harìː yaː zàci cêːwaː waɗànnân mutàneː sunàː zàngà-zangà na nuːnà goːyon baːyaː nèː kân cêːwaː à bugà wannàn littaːfìn à cikin harshèn Japananciː.
 1	tòː	tòː	INTJ	_	_	9	discourse	_	Gloss=well
 2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	dislocated@subj	_	Gloss=3Masc.Nom
-3	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	4	det	_	Gloss=ProxS.Masc
+3	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	4	det	_	Gloss=ProxS.Masc
 4	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	2	conj:appos	_	Gloss=person.Masc.Def
 5	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=COMP
 6	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	5	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Rel
@@ -311,7 +311,7 @@
 9	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 10	zàci	zat-	VERB	_	_	9	comp:aux	_	Gloss=think
 11	cêːwaː	cêːwaː	SCONJ	_	_	10	comp:obj	_	Gloss=COMP
-12	waɗànnân	wannàn	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	13	det	_	Gloss=ProxS.Plur
+12	waɗànnân	nân	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	13	det	_	Gloss=ProxS.Plur
 13	mutàneː	mùtûm	NOUN	_	Number=Plur	14	subj	_	Gloss=man.Plur
 14	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	11	comp:obj	_	Gloss=3Plur.Prog
 15	zàngà-zangà	zàngà-zangà	NOUN	_	Gender=Fem	14	comp:aux	_	Gloss=demonstration.Fem
@@ -324,7 +324,7 @@
 22	cêːwaː	cêːwaː	SCONJ	_	_	21	comp:obj	_	Gloss=COMP
 23	à	yà	AUX	_	Mood=Sub|Person=4	22	comp:obj	_	Gloss=4.Sub
 24	bugà	bug-	VERB	_	_	23	comp:aux	_	Gloss=beat
-25	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	26	det	_	Gloss=ProxS.Masc
+25	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	26	det	_	Gloss=ProxS.Masc
 26	littaːfìn	littaːfìː	NOUN	_	Definite=Def|Gender=Masc	24	comp:obj	_	Gloss=book.Masc.Def
 27	à	à	ADP	_	_	24	comp:obl	_	Gloss=at
 28	cikin	cikin	ADP	_	_	27	comp:obj	_	Gloss=inside
@@ -380,7 +380,7 @@
 7	nèː	neː	PART	_	PartType=Foc	4	discourse@foc	_	Gloss=Emph
 8	akèː	nàː	AUX	_	Aspect=Prog|Person=4	4	comp:cleft	_	Gloss=4.Prog.Rel|Relative=Rel
 9	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:aux	_	Gloss=do.Vnoun.Masc.Cons
-10	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	11	det	_	Gloss=ProxS.Masc
+10	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	11	det	_	Gloss=ProxS.Masc
 11	tàːroː	tàːroː	NOUN	_	Gender=Masc	9	comp:pred	_	Gloss=meeting.Masc
 12	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	11	mod	_	Gloss=Gen
 13	manèːmaː	manèːmiː	NOUN	_	Number=Plur	12	comp:obj	_	Gloss=seeker.Plur
@@ -516,7 +516,7 @@
 29	tsoːmà	tsoːm-	VERB	_	_	28	comp:aux	_	Gloss=dip_into
 30	bàːkintà	bàːkiː	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes	29	comp:obj	_	CaseAf=Gen|GenderAf=Fem|Gloss=mouth-3FemGen|MSeg=bàːkin-tà|PersonAf=3|SpaceAfter=No
 31	cikin	cikin	ADP	_	_	29	comp:obl	_	Gloss=inside
-32	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	33	det	_	Gloss=ProxS.Masc
+32	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	33	det	_	Gloss=ProxS.Masc
 33	àl'amàr̃iː	àl'amàr̃iː	NOUN	_	Gender=Masc	31	comp:obj	_	Gloss=matter.Masc
 34	ba	ba	PART	_	PartType=Neg|Polarity=Neg	29	mod	_	Gloss=Neg|SpaceAfter=No
 35	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
@@ -533,7 +533,7 @@
 6	baːya	baːya	ADV	_	_	5	compound	_	Gloss=back
 7	anàː	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=4.Prog
 8	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:aux	_	Gloss=do.Vnoun.Masc.Cons
-9	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	10	det	_	Gloss=ProxS.Fem
+9	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	10	det	_	Gloss=ProxS.Fem
 10	hàyàːniyaː	hàyàːniyaː	NOUN	_	Gender=Fem	8	comp:pred	_	Gloss=confusion.Fem
 11	gàme	gàme	ADV	_	_	12	mod	_	Gloss=together
 12	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with
@@ -588,7 +588,7 @@
 7	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	6	mod	_	Gloss=Gen.Fem
 8	ƙîn	ƙi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:obj	_	Gloss=hate.Vnoun.Masc.Cons|Idiom=Yes
 9	jinin	jiniː	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=blood.Masc.Cons|InIdiom=Yes
-10	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	11	det	_	Gloss=ProxS.Masc
+10	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	11	det	_	Gloss=ProxS.Masc
 11	littaːfìː	littaːfìː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=book.Masc
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 13	akèː	nàː	AUX	_	Aspect=Prog|Person=4	12	comp:obj	_	Gloss=4.Prog.Rel|Relative=Rel
@@ -612,7 +612,7 @@
 6	dàgà	dàgà	ADP	_	_	5	mod	_	Gloss=from
 7	cikin	cikin	ADP	_	_	6	comp:obj	_	Gloss=inside
 8	shùːgàbànnin	shùːgàbaː	NOUN	_	Definite=Cons|Number=Plur	7	comp:obj	_	Gloss=leader.Plur.Cons
-9	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	10	det	_	Gloss=ProxS.Fem
+9	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	10	det	_	Gloss=ProxS.Fem
 10	ƙungìyaː	ƙungìyaː	NOUN	_	Gender=Fem	8	mod	_	Gloss=association.Fem
 11	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	10	mod	_	Gloss=Gen.Fem
 12	Mùsùlmiː	Mùsùlmiː	NOUN	_	Number=Plur	11	comp:obj	_	Gloss=Muslim.Plur

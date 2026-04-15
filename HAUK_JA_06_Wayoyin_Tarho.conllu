@@ -193,7 +193,7 @@
 2	yànzu	yànzu	ADV	_	_	3	mod	_	Gloss=now
 3	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 4	irìn	irìː	NOUN	_	_	6	mod@desc	_	Gloss=type_of
-5	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	6	det	_	Gloss=ProxS.Fem
+5	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	6	det	_	Gloss=ProxS.Fem
 6	wàhalàr̃	wàhalàː	NOUN	_	Definite=Def|Gender=Fem	3	subj	_	Gloss=trouble.Fem.Def|SpaceAfter=No
 7	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
@@ -411,7 +411,7 @@
 # text = irìn waɗànnân zàːgàːye-zàːgàːyên dà akèː yîː dà wayàr̃ tàr̃hôː yanàː ɓaːtà laːyìː, kuma baː'àː jîn màganàr̃ sòːsai.
 # text_ortho = Irìn waɗànnân zàːgàːye-zàːgàːyên dà akèː yîː dà wayàr̃ tàr̃hôː yanàː ɓaːtà laːyìː, kuma baː àː jîn màganàr̃ sòːsai.
 1	irìn	irìː	NOUN	_	_	3	mod@desc	_	Gloss=type_of
-2	waɗànnân	wannàn	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	3	det	_	Gloss=ProxS.Plur
+2	waɗànnân	nân	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	3	det	_	Gloss=ProxS.Plur
 3	zàːgàːye-zàːgàːyên	zàːgàːye-zàːgàːye	NOUN	_	Definite=Def|Number=Plur	10	subj	_	Gloss=going_round.Plur.Def
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
 5	akèː	nàː	AUX	_	Aspect=Prog|Person=4	4	comp:obj	_	Gloss=4.Prog.Rel|Relative=Rel
@@ -434,7 +434,7 @@
 # text_en = This started because of the time that African countries spent under European domination, but now African countries have started to develop their mutualcooperation.
 # text = wannàn yanàː fàːruwaː nèː sabòːdà zaman mulkìn màllakàr̃ dà ƙasàːshen Afir̃kà sukà yi à ƙàr̃ƙashin ƙasàːshen Tuːr̃ai, àmmaː yànzu ƙasàːshen Afir̃kà sun soːmà ƙaːrà dàngàntakàː tsàkaːninsù .
 # text_ortho = Wannàn yanàː fàːruwaː nèː sabòːdà zaman mulkìn màllakàr̃ dà ƙasàːshen Afir̃kà sukà yi à ƙàr̃ƙashin ƙasàːshen Tuːr̃ai, àmmaː yànzu ƙasàːshen Afir̃kà sun soːmà ƙaːrà dàngàntakàː tsàkaːninsù.
-1	wannàn	wannàn	PRON	_	Deixis=ProxS|Number=Sing|PronType=Dem	2	subj	_	Gloss=ProxS.Sing
+1	wannàn	nân	PRON	_	Deixis=ProxS|Number=Sing|PronType=Dem	2	subj	_	Gloss=ProxS.Sing
 2	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Prog
 3	fàːruwaː	fàːru	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:aux	_	Gloss=happen
 4	nèː	neː	PART	_	PartType=Foc	3	discourse@foc	_	Gloss=Emph

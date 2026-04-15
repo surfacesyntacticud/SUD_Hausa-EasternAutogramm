@@ -71,7 +71,7 @@
 # text_en = Well, these policement who were patrolling the area stopped to see what was happening.
 # text = tòː waɗànnân ꞌyan sàndaː dà kèː sintir̃iː à wurîn sai sukà tsayàː dòːmin ganin àbîn dà kèː fàːruwaː.
 1	tòː	tòː	INTJ	_	_	11	discourse	_	Gloss=well
-2	waɗànnân	wannàn	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	3	det	_	Gloss=ProxS.Plur
+2	waɗànnân	nân	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	3	det	_	Gloss=ProxS.Plur
 3	ꞌyan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	11	subj	_	Gloss=child.Plur.Cons
 4	sàndaː	sàndaː	NOUN	_	Gender=Masc	3	compound	_	Gloss=baton.Masc
 5	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
@@ -167,7 +167,7 @@
 9	yi	yi	VERB	_	_	8	comp:aux	_	Gloss=do
 10	ƙòːkarin	ƙòːkariː	NOUN	_	Definite=Cons|Gender=Masc	9	comp:pred	_	Gloss=trying.Masc.Cons
 11	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	mod	_	Gloss=do.Vnoun.Masc.Cons
-12	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	13	det	_	Gloss=ProxS.Fem
+12	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	13	det	_	Gloss=ProxS.Fem
 13	saːtàː	saːtàː	NOUN	_	Gender=Fem	11	comp:pred	_	Gloss=theft.Fem
 14	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	5	comp:obj	_	Gloss=3Plur.Perf
 15	kai	kai	VERB	_	_	14	comp:aux	_	Gloss=reach/carry_to
@@ -220,7 +220,7 @@
 21	danganèː	danganèː	NOUN	_	ExtPos=ADP|Gender=Masc	19	comp:obl	_	Gloss=relation.Masc|Idiom=Yes
 22	dà	dà	ADP	_	_	21	compound	_	Gloss=with|InIdiom=Yes
 23	irìn	irìː	NOUN	_	_	25	mod@desc	_	Gloss=type_of
-24	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	25	det	_	Gloss=ProxS.Masc
+24	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	25	det	_	Gloss=ProxS.Masc
 25	rauniː	rauniː	NOUN	_	Gender=Masc	21	comp:obj	_	Gloss=injury.Masc
 26	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	25	mod	_	Gloss=Gen
 27	har̃bìn	har̃b-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	26	comp:obj	_	Gloss=shoot.Vnoun.Masc.Cons
@@ -298,7 +298,7 @@
 24	koː	koː	SCONJ	_	ExtPos=SCONJ	4	mod	_	Gloss=even_if|Idiom=Yes
 25	dà	dà	SCONJ	_	_	24	comp:obj	_	Gloss=COMP|InIdiom=Yes
 26	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	25	comp:obj	_	Gloss=3Fem.Prog.Rel2|InIdiom=Yes|Relative=Rel2
-27	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	28	det	_	Gloss=ProxS.Masc
+27	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	28	det	_	Gloss=ProxS.Masc
 28	adàdiː	adàdiː	NOUN	_	Gender=Masc	29	subj	_	Gloss=total.Masc
 29	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	24	comp:obj	_	Gloss=3Masc.Perf.Neg
 30	kai	kai	VERB	_	_	29	comp:aux	_	Gloss=reach/carry_to

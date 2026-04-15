@@ -92,7 +92,7 @@
 # text_en = This law enabled the government to imprison a man for up to six months without charging him, if he has been accused of sabotaging the economy or threatening the national security.
 # text_ortho = Wannàn dòːkâr̃ taː sâː ita gwamnatìn tâː iyà tsarèː mùtûm har̃ tsawon wàtànniː shidà bà tàːre dà tùhumàr̃ sà ba, in an zàrgeː shì dà yi wà tattalin ar̃zìkin ƙasaː maƙar̃ƙashìyaː, koː kuma yi wà tsàron ƙasaː bàràːzanaː.
 # text = wannàn dòːkâr̃ taː sâː ita gwamnatìn tâː iyà tsarèː mùtûm har̃ tsawon wàtànniː shidà bà tàːre dà tùhumàr̃ sà ba, in an zàrgeː shì dà yi wà tattalin ar̃zìkin ƙasaː maƙar̃ƙashìyaː, koː kuma yi wà tsàron ƙasaː bàràːzanaː.
-1	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	2	det	_	Gloss=ProxS.Fem
+1	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	2	det	_	Gloss=ProxS.Fem
 2	dòːkâr̃	dòːkaː	NOUN	_	Definite=Def|Gender=Fem	3	subj	_	Gloss=law
 3	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
 4	sâː	sâː	VERB	_	_	3	comp:aux	_	Gloss=cause
@@ -164,7 +164,7 @@
 4	tsarè	tsar-	VERB	_	_	3	comp:aux	_	Gloss=imprison
 5	mùtûm	mùtûm	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=man.Masc
 6	bìsàː	bisàː	ADP	_	_	4	comp:obl	_	Gloss=according_to
-7	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	8	det	_	Gloss=ProxS.Fem
+7	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	8	det	_	Gloss=ProxS.Fem
 8	Dòːkaː	dòːkaː	PROPN	_	Gender=Fem	6	comp:obj	_	Gloss=law.Fem
 9	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	8	mod	_	Gloss=Gen.Fem
 10	Biyu	biyu	NUM	_	_	9	comp:obj	_	Gloss=two|SpaceAfter=No
@@ -204,7 +204,7 @@
 16	anàː	nàː	AUX	_	Aspect=Prog|Person=4	15	comp:obj	_	Gloss=4.Prog
 17	àmfàːniː	àmfàːniː	NOUN	_	Gender=Masc	16	comp:aux	_	Gloss=use.Masc
 18	dà	dà	ADP	_	_	17	comp:obl	_	Gloss=with
-19	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	20	det	_	Gloss=ProxS.Fem
+19	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	20	det	_	Gloss=ProxS.Fem
 20	Dòːkaː	dòːkaː	PROPN	_	Gender=Fem	18	comp:obj	_	Gloss=law.Fem
 21	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	20	mod	_	Gloss=Gen.Fem
 22	Biyu	biyu	PROPN	_	_	21	comp:obj	_	Gloss=two
@@ -267,7 +267,7 @@
 15	à	yà	AUX	_	Mood=Sub|Person=4	14	comp:obj	_	Gloss=4.Sub
 16	bayyànà	bayyan-	VERB	_	_	15	comp:aux	_	Gloss=explain
 17	taːsiːr̃ìn	taːsiːr̃ìː	NOUN	_	Definite=Cons|Gender=Masc	16	comp:obj	_	Gloss=scope.Masc.Cons
-18	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	19	det	_	Gloss=ProxS.Fem
+18	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	19	det	_	Gloss=ProxS.Fem
 19	Dòːkaː	dòːkaː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=law.Fem
 20	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	19	mod	_	Gloss=Gen.Fem
 21	Biyu	biyu	NUM	_	_	20	comp:obj	_	Gloss=two|SpaceAfter=No
@@ -308,7 +308,7 @@
 29	biyu	biyu	NUM	_	_	28	mod:num	_	Gloss=two|SpaceAfter=No
 30	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
 31	bìsàː	bìsàː	ADP	_	_	24	comp:obl	_	Gloss=according_to
-32	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	33	det	_	Gloss=ProxS.Fem
+32	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	33	det	_	Gloss=ProxS.Fem
 33	dòːkaː	dòːkaː	NOUN	_	Gender=Fem	31	comp:obj	_	Gloss=law.Fem
 34	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	33	mod	_	Gloss=Gen.Fem
 35	tsàron	tsàroː	NOUN	_	Definite=Cons|Gender=Masc	34	comp:obj	_	Gloss=security.Masc.Cons
@@ -393,7 +393,7 @@
 20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 21	à	à	ADP	_	ExtPos=ADP	17	mod	_	Gloss=at
 22	ƙàrƙashin	ƙàrƙashin	ADP	_	_	21	comp:obj	_	Gloss=under
-23	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	24	det	_	Gloss=ProxS.Fem
+23	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	24	det	_	Gloss=ProxS.Fem
 24	Dòːkaː	dòːkaː	NOUN	_	Gender=Fem	22	comp:obj	_	Gloss=law.Fem
 25	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	24	mod	_	Gloss=Gen.Fem
 26	Biyu	biyu	NUM	_	_	25	comp:obj	_	Gloss=two|SpaceAfter=No

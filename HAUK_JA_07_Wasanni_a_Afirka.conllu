@@ -106,7 +106,7 @@
 6	kàːfin	kàːfin	SCONJ	_	_	1	conj:dicto	_	Gloss=before
 7	à	yà	AUX	_	Mood=Sub|Person=4	6	comp:obj	_	Gloss=4.Sub
 8	soːmà	soːm-	VERB	_	_	7	comp:aux	_	Gloss=start
-9	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	10	det	_	Gloss=ProxS.Fem
+9	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	10	det	_	Gloss=ProxS.Fem
 10	gar̃damàː	gar̃damàː	NOUN	_	Gender=Fem	8	comp:obj	_	Gloss=dispute.Fem|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
@@ -134,7 +134,7 @@
 34	dà	dà	CCONJ	_	_	35	cc	_	Gloss=and
 35	bakwài	bakwài	NUM	_	_	33	conj:coord	_	Gloss=seven
 36	gà	gà	ADP	_	_	33	mod	_	Gloss=to
-37	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	38	det	_	Gloss=ProxS.Masc
+37	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	38	det	_	Gloss=ProxS.Masc
 38	watàn	watàː	NOUN	_	Definite=Def|Gender=Masc	36	comp:obj	_	Gloss=month.Masc.Def|SpaceAfter=No
 39	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 
@@ -293,7 +293,7 @@
 20	kùskurà	kùskurà	NOUN	_	_	19	comp:aux	_	Gloss=make_mistake
 21	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	19	parataxis@conj	_	Gloss=3Masc.Sub
 22	shìga	shig-	VERB	_	_	21	comp:aux	_	Gloss=enter
-23	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	24	det	_	Gloss=ProxS.Fem
+23	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	24	det	_	Gloss=ProxS.Fem
 24	gàːsaː	gàːsaː	NOUN	_	Gender=Fem	22	comp:obj@G	_	Gloss=competition.Fem|SpaceAfter=No
 25	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
@@ -357,7 +357,7 @@
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with
 5	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:obj	_	Gloss=say.Vnoun.Fem
 6	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	subj	_	Gloss=do.Vnoun.Masc.Cons
-7	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	8	det	_	Gloss=ProxS.Masc
+7	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	8	det	_	Gloss=ProxS.Masc
 8	dambe	dambe	NOUN	_	Gender=Masc	6	mod	_	Gloss=boxing.Masc
 9	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	5	comp:obj	_	Gloss=3Masc.Perf.Neg
 10	saːɓàː	saːɓ-	VERB	_	_	9	comp:aux	_	Gloss=deviate
@@ -398,7 +398,7 @@
 # text_ortho = Yànzu dai wannàn rìkiciː yaː sâː màːsu shà’awàr̃ wàːsànniː dà daːmaː sunàː tsoːmà bàːkiː à bàtûn, har̃ maː wata jàr̃iːdàː à Nàːjeːr̃iyàː waddà akèː kiràː 'Sunday Concord' taː r̃ubùːtà shar̃hìː à kân bàtûn, tanàː cêːwaː yaː kàmaːtà à bar̃ Lasisi yà shìga wàːsân.
 1	yànzu	yànzu	ADV	_	_	5	mod	_	Gloss=now
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
-3	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	4	det	_	Gloss=ProxS.Masc
+3	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	4	det	_	Gloss=ProxS.Masc
 4	rìkiciː	rìkiciː	NOUN	_	Gender=Masc	5	subj	_	Gloss=crisis.Masc
 5	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 6	sâː	sâː	VERB	_	_	5	comp:aux	_	Gloss=cause

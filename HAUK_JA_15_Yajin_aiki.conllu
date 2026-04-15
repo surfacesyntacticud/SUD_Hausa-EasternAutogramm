@@ -340,7 +340,7 @@
 # text_en = This strike followed declaration made by the government of the country last month, saying that it is preparing a change in the constitution to get the opportunity to establish a multiparty political system.
 # text_ortho = Wannàn yaːjìn aikìn dai yaː biyoː baːyan sanâr̃wâr̃ dà gwamnatìn ƙasâr̃ ta baːyar̃ nèː à watàn jiyà, cêːwaː tanàː shirìn sauyà tsaːrìn mulkìn Jàmhuːr̃iyàr̃ Nìːjâr̃ ɗîn don à sàːmu daːmar̃ kafà tsaːrìː mài jàm'ìyyuː dà daːmaː.
 # text = wannàn yaːjìn aikìn dai yaː biyoː baːyan sanâr̃wâr̃ dà gwamnatìn ƙasâr̃ ta baːyar̃ nèː à watàn jiyà, cêːwaː tanàː shirìn sauyà tsaːrìn mulkìn Jàmhuːr̃iyàr̃ Nìːjâr̃ ɗîn don à sàːmu daːmar̃ kafà tsaːrìː mài jàm'ìyyuː dà daːmaː.
-1	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	2	det	_	Gloss=ProxS.Masc
+1	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	2	det	_	Gloss=ProxS.Masc
 2	yaːjìn	yaːjìː	NOUN	_	Definite=Cons|Gender=Masc	5	subj	_	Gloss=hot_spice.Masc.Cons
 3	aikìn	aikìː	NOUN	_	Definite=Def|Gender=Masc	2	compound	_	Gloss=work.Masc.Def
 4	dai	dai	PART	_	PartType=Top	2	discourse@top	_	Gloss=anyway
@@ -437,7 +437,7 @@
 14	danganèː	danganèː	NOUN	_	ExtPos=SCONJ|Gender=Masc	13	comp:obl	_	Gloss=relation.Masc|Idiom=Yes
 15	dà	dà	ADP	_	_	14	compound	_	Gloss=with|InIdiom=Yes
 16	kafà	kaf-	VERB	_	_	14	comp:obj	_	Gloss=set_up
-17	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	18	det	_	Gloss=ProxS.Masc
+17	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	18	det	_	Gloss=ProxS.Masc
 18	kwàmìtîn	kwàmìtiː	NOUN	_	Definite=Def|Gender=Masc	16	mod	_	Gloss=committee.Masc.Def|SpaceAfter=No
 19	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
@@ -712,7 +712,7 @@
 12	dòːmin	dòːmin	SCONJ	_	_	9	mod	_	Gloss=in_order_to
 13	shaːwoː	shaːwoː	VERB	_	_	12	comp:obj	_	Gloss=deal_with
 14	kân	kân	ADP	_	_	13	comp:obl	_	Gloss=on
-15	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	16	det	_	Gloss=ProxS.Sing
+15	wannàn	nân	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	16	det	_	Gloss=ProxS.Sing
 16	zàngà-zangàr̃	zàngà-zangàː	NOUN	_	Definite=Def|Gender=Fem	14	comp:obj	_	Gloss=demonstration.Fem.Def
 17	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf.Rel|Relative=Rel
 18	nuːnà	nuːn-	VERB	_	_	17	comp:aux	_	Gloss=show

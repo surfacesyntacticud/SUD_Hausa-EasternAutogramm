@@ -64,7 +64,7 @@
 1	à	à	ADP	_	_	6	mod	_	Gloss=at
 2	'yan	ɗan	ADJ	_	Definite=Cons|Number=Plur	3	mod	_	Gloss=little.Plur.Cons
 3	shèːkàrun	shèːkaràː	NOUN	_	Definite=Cons|Number=Plur	1	comp:obj	_	Gloss=year.Plur.Cons
-4	nàn	nàn	DET	_	Deixis=ProxS|PronType=Dem	3	det	_	Gloss=ProxS
+4	nàn	nân	DET	_	Deixis=ProxS|PronType=Dem	3	det	_	Gloss=ProxS
 5	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	6	subj	_	Gloss=Nigeria
 6	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
 7	zama	zama	VERB	_	_	6	comp:aux	_	Gloss=become
@@ -292,7 +292,7 @@
 11	sòːsai	sòːsai	ADV	_	_	10	mod	_	Gloss=really
 12	à	à	ADP	_	_	9	mod	_	Gloss=at
 13	cikin	cikin	ADP	_	_	12	comp:obj	_	Gloss=inside
-14	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	15	det	_	Gloss=ProxS.Sing
+14	wannàn	nân	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	15	det	_	Gloss=ProxS.Sing
 15	ƙungìyaː	ƙungìyaː	NOUN	_	Gender=Fem	13	comp:obj	_	Gloss=gang.Fem|SpaceAfter=No
 16	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 17	Hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Def|Gender=Fem	18	subj	_	Gloss=agency.Fem.Def|wordform=Huːkuːmar
@@ -423,7 +423,7 @@
 # text_ortho = À wannàn karòn shiː mùtumìn dà akà kaːmàː yaː haɗìyeː kòːkên neː tàːre dà yîn àmfàːniː dà miyàr̃ kuɓèːwaː, wàccè ya yi àmfàːniː dà ita dòːmin saːmùn sauƙin hadìyêːwâr̃, wàddà kuma dâː maː anàː cîntà sòːsai à Nàːjeːr̃iyàː.
 # text = à wannàn karòn shiː mùtumìn dà akà kaːmàː yaː haɗìyeː kòːkên neː tàːre dà yîn àmfàːniː dà miyàr̃ kuɓèːwaː, wàccè ya yi àmfàːniː dà ita dòːmin saːmùn sauƙin hadìyêːwâr̃, wàddà kuma dâː maː anàː cîn-tà sòːsai à Nàːjeːr̃iyàː.
 1	à	à	ADP	_	_	9	mod	_	Gloss=at|wordform=A
-2	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	3	det	_	Gloss=ProxS.Sing
+2	wannàn	nân	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	3	det	_	Gloss=ProxS.Sing
 3	karòn	karòː	NOUN	_	Definite=Def|Gender=Masc	1	comp:obj	_	Gloss=occation.Masc.Def
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	dislocated@subj	_	Gloss=3Masc.Nom
 5	mùtumìn	mùtûm	NOUN	_	Definite=Def|Gender=Masc	4	conj:appos	_	Gloss=person.Masc.Def
@@ -471,12 +471,12 @@
 1	hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Def|Gender=Fem	2	subj	_	Gloss=agency.Fem.Def
 2	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf.Rel|Relative=Rel
 3	cèː	cêː	VERB	_	Gender=Fem	2	comp:aux	_	Gloss=be.Fem
-4	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	5	det	_	Gloss=ProxS.Sing
+4	wannàn	nân	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	5	det	_	Gloss=ProxS.Sing
 5	kaːmà	kaːm-	VERB	_	_	11	subj	_	Gloss=catch
 6	mutàːnên	mùtûm	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	5	comp:obj	_	Gloss=people.Plur.Def
 7	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	5	mod	_	Gloss=Gen
 8	baːya-baːyan	baːya-baːyan	ADV	_	_	7	comp:obj	_	Gloss=recent
-9	nàn	nàn	DET	_	Deixis=ProxS|PronType=Dem	8	det	_	Gloss=ProxS|SpaceAfter=No
+9	nàn	nân	DET	_	Deixis=ProxS|PronType=Dem	8	det	_	Gloss=ProxS|SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 11	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	comp:obj	_	Gloss=3Masc.Perf
 12	ƙaːrà	ƙaːr-	VERB	_	_	11	comp:aux	_	Gloss=increase
@@ -512,7 +512,7 @@
 # text = ita dai wannàn hùkuːmàr̃ taː ci nasar̃àr̃ kaːmà màːsu ɗaukàr̃ miyàːgun ƙwaːyoːyiː, koː dà yakè tanàː saːmùn wàhalàː sòːsai wajen kaːmà mânyan màːsu cìnikin ƙwaːyoːyîn, dà kuma yi musù shàr̃i'àː.
 1	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	5	dislocated@subj	_	Gloss=3Fem.Nom
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
-3	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	4	det	_	Gloss=ProxS.Sing
+3	wannàn	nân	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	4	det	_	Gloss=ProxS.Sing
 4	hùkuːmàr̃	hùkuːmàː	NOUN	_	Definite=Def|Gender=Fem	1	conj:appos	_	Gloss=authority.Fem.Def|wordform=huːkuːmaːr
 5	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
 6	ci	ci	VERB	_	_	5	comp:aux	_	Gloss=obtain
@@ -647,7 +647,7 @@
 4	dai	dai	PART	_	PartType=Top	3	discourse@top	_	Gloss=anyway
 5	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 6	musàntà	musant-	VERB	_	_	5	comp:aux	_	Gloss=deny
-7	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	8	det	_	Gloss=ProxS.Sing
+7	wannàn	nân	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	8	det	_	Gloss=ProxS.Sing
 8	zàrgîn	zàrgiː	NOUN	_	Definite=Def|Gender=Masc	6	mod	_	Gloss=accusation.Masc.Def|SpaceAfter=No
 9	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 

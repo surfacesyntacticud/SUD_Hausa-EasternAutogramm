@@ -215,7 +215,7 @@
 # text_ortho = Tòː wannàn yaː sâː anàː dà 'yar̃ shakkàː à kân àbîn dà bìncìkên naːsù ya gaːnoː, cêːwar̃ iskàr̃ dà ta yiwoː bùr̃tsîn wai carbon dioxide ceː kawài.
 # text = tòː wannàn yaː sâː anàː dà 'yar̃ shakkàː à kân àbîn dà bìncìkên naːsù ya gaːnoː, cêːwar̃ iskàr̃ dà ta yiwoː bùr̃tsîn wai carbon dioxide ceː kawài.
 1	tòː	tòː	INTJ	_	_	3	discourse	_	Gloss=well
-2	wannàn	wannàn	PRON	_	Deixis=ProxS|Number=Sing|PronType=Dem	3	subj	_	Gloss=ProxS.Sing
+2	wannàn	nân	PRON	_	Deixis=ProxS|Number=Sing|PronType=Dem	3	subj	_	Gloss=ProxS.Sing
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 4	sâː	sâː	VERB	_	_	3	comp:aux	_	Gloss=cause
 5	anàː	nàː	AUX	_	Aspect=Prog|Person=4	4	comp:obj	_	Gloss=4.Prog
@@ -263,7 +263,7 @@
 13	an	yaː	AUX	_	Aspect=Perf|Person=4	12	comp:obj	_	Gloss=4.Perf
 14	yi	yi	VERB	_	_	13	comp:aux	_	Gloss=do
 15	irìn	irìː	NOUN	_	_	17	mod@desc	_	Gloss=type_of
-16	wannàn	wannàn	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	17	det	_	Gloss=ProxS.Sing
+16	wannàn	nân	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	17	det	_	Gloss=ProxS.Sing
 17	aman	amai	ADJ	_	Definite=Cons|Gender=Masc	14	comp:obj	_	Gloss=explosion.Masc.Cons
 18	gâs	gâs	NOUN	_	Gender=Masc	17	mod	_	Gloss=gas.Masc
 19	mài	mài	PART	_	Number=Sing|PartType=Der	18	mod	_	Gloss=owner_of.Sing
@@ -288,7 +288,7 @@
 # text_ortho = À wànnan loːkàciː mutàːneː tàlàːtin dà bakwài neː sukà mutù .
 # text = à wànnan loːkàciː mutàːneː tàlàːtin dà bakwài neː sukà mutù .
 1	à	à	ADP	_	_	9	mod	_	Gloss=at|wordform=A
-2	wànnan	wànnan	DET	_	Deixis=ProxH|Gender=Masc|PronType=Dem	3	det	_	Gloss=ProxH.Masc
+2	wànnan	nan	DET	_	Deixis=ProxH|Gender=Masc|PronType=Dem	3	det	_	Gloss=ProxH.Masc
 3	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=time.Masc
 4	mutàːneː	mùtûm	NOUN	_	Number=Plur	9	subj	_	Gloss=people.Plur
 5	tàlàːtin	tàlàːtin	NUM	_	_	4	mod:num	_	Gloss=thirty
@@ -311,12 +311,12 @@
 6	cêːwaː	cêːwaː	SCONJ	_	_	5	comp:obj	_	Gloss=COMP
 7	àkwai	àkwai	PART	_	PartType=Pred	6	comp:obj	_	Gloss=there_is
 8	irìn	irìː	NOUN	_	_	10	mod@desc	_	Gloss=type_of
-9	waɗànnân	wannàn	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	10	det	_	Gloss=ProxS.Plur
+9	waɗànnân	nân	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	10	det	_	Gloss=ProxS.Plur
 10	tafkunàː	tafkìː	NOUN	_	Number=Plur	7	subj	_	Gloss=lake.Plur
 11	har̃	har̃	ADP	_	_	10	mod	_	Gloss=up_to
 12	sìttin	sìttin	NUM	_	_	11	comp:obj	_	Gloss=sixty
 13	à	à	ADP	_	_	7	comp:pred	_	Gloss=at
-14	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	15	det	_	Gloss=ProxS.Masc
+14	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	15	det	_	Gloss=ProxS.Masc
 15	yankìː	yankìː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=area.Masc
 16	à	à	ADP	_	_	15	mod	_	Gloss=at
 17	cikin	cikin	ADP	_	_	16	comp:obj	_	Gloss=inside
@@ -333,7 +333,7 @@
 28	iyà	iy-	VERB	_	_	27	comp:aux	_	Gloss=be_able_to
 29	saːmùn	saːmùː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	28	comp:obj	_	Gloss=get.Vnoun.Masc.Cons
 30	irìn	irìː	NOUN	_	_	32	mod@desc	_	Gloss=type_of
-31	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	32	det	_	Gloss=ProxS.Masc
+31	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	32	det	_	Gloss=ProxS.Masc
 32	aman	amai	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=explosion.Masc.Cons
 33	gâs	gâs	NOUN	_	Definite=Cons|Gender=Masc	32	mod	_	Gloss=gas.Masc
 34	à	à	ADP	_	_	29	mod	_	Gloss=at
