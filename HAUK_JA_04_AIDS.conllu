@@ -45,7 +45,7 @@
 2	ìdan	ìdan	SCONJ	_	_	25	mod	_	Gloss=if
 3	akà	yaː	AUX	_	Aspect=Perf|Person=4	2	comp:obj	_	Gloss=4.Perf.Rel|Relative=Rel
 4	ɗuːràː	ɗuːr-	VERB	_	_	3	comp:aux	_	Gloss=inject
-5	wà	wà	ADP	_	Case=Dat	4	comp:obl	_	Gloss=Dat
+5	wà	mà	ADP	_	Case=Dat	4	comp:obl	_	Gloss=Dat
 6	wani	wani	PRON	_	Definite=Spec|Gender=Masc	5	comp:obj	_	Gloss=some.Masc.Spec
 7	mài	mài	PART	_	Number=Sing|PartType=Der	6	mod	_	Gloss=owner_of.Sing
 8	jinyàː	jinyàː	NOUN	_	Gender=Fem	7	compound	_	Gloss=being_a_patient.Fem
@@ -63,7 +63,7 @@
 20	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	19	parataxis@conj	_	Gloss=REL.Masc
 21	akà	yaː	AUX	_	Aspect=Perf|Person=4	20	comp:obj	_	Gloss=4.Perf.Rel|Relative=Rel
 22	ɗuːràː	ɗuːr-	VERB	_	_	21	comp:aux	_	Gloss=inject
-23	wà	wà	ADP	_	Case=Dat	22	comp:obl	_	Gloss=Dat
+23	wà	mà	ADP	_	Case=Dat	22	comp:obl	_	Gloss=Dat
 24	jiniː	jiniː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=blood.Masc
 25	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	0	root	_	Gloss=3Masc.Fut
 26	kàːmu	kaːm-	VERB	_	_	25	comp:aux	_	Gloss=catch
@@ -81,7 +81,7 @@
 3	ìdan	ìdan	SCONJ	_	_	33	mod	_	Gloss=if
 4	anàː	nàː	AUX	_	Aspect=Prog|Person=4	3	comp:obj	_	Gloss=4.Prog
 5	yi	yi	VERB	_	_	4	comp:aux	_	Gloss=do
-6	wà	wà	ADP	_	Case=Dat	5	comp:obl	_	Gloss=Dat
+6	wà	mà	ADP	_	Case=Dat	5	comp:obl	_	Gloss=Dat
 7	mutàːneː	mùtûm	NOUN	_	Number=Plur	6	comp:obj	_	Gloss=people.Plur
 8	dàbam	dàbam	ADJ	_	_	7	mod	_	Gloss=different
 9	dàbam	dàbam	ADJ	_	_	8	conj:redup	_	Gloss=different
@@ -98,7 +98,7 @@
 20	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	19	comp:obj	_	Gloss=REL.Plur
 21	akà	yaː	AUX	_	Aspect=Perf|Person=4	20	mod@relcl	_	Gloss=4.Perf.Rel|Relative=Rel
 22	yi	yi	VERB	_	_	21	comp:aux	_	Gloss=do
-23	wà	wà	ADP	_	Case=Dat	22	comp:obl	_	Gloss=Dat
+23	wà	mà	ADP	_	Case=Dat	22	comp:obl	_	Gloss=Dat
 24	àlluːr̃àr̃	àlluːr̃àː	NOUN	_	Definite=Def|Gender=Fem	22	comp:pred	_	Gloss=injection.Fem.Def
 25	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	16	comp:obj	_	Gloss=3Masc.Prog
 26	dà	dà	ADP	_	_	25	comp:pred	_	Gloss=with
@@ -117,7 +117,7 @@
 39	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	38	mod	_	Gloss=REL.Plur
 40	akà	yaː	AUX	_	Aspect=Perf|Person=4	39	mod@relcl	_	Gloss=4.Perf.Rel|Relative=Rel
 41	yi	yi	VERB	_	_	40	comp:aux	_	Gloss=do
-42	wà	wà	ADP	_	Case=Dat	41	comp:obl	_	Gloss=Dat
+42	wà	mà	ADP	_	Case=Dat	41	comp:obl	_	Gloss=Dat
 43	àlluːr̃àr̃	àlluːr̃àː	NOUN	_	Definite=Def|Gender=Fem	41	comp:pred	_	Gloss=injection.Fem.Def|SpaceAfter=No
 44	.	.	PUNCT	_	_	33	punct	_	Gloss=PUNCT
 
@@ -284,7 +284,7 @@
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
 19	akà	yaː	AUX	_	Aspect=Perf|Person=4	18	comp:obj	_	Gloss=4.Perf.Rel|Relative=Rel
 20	yi	yi	VERB	_	_	19	comp:aux	_	Gloss=do
-21	wà	wà	ADP	_	Case=Dat	20	comp:obl	_	Gloss=Dat
+21	wà	mà	ADP	_	Case=Dat	20	comp:obl	_	Gloss=Dat
 22	gwajìː	gwajìː	NOUN	_	Gender=Masc	20	comp:pred	_	Gloss=test.Masc
 23	à	à	ADP	_	_	20	mod	_	Gloss=at
 24	wani	wani	DET	_	Definite=Spec|Gender=Masc	26	det	_	Gloss=some.Masc.Spec
@@ -436,7 +436,7 @@
 16	kwàmìtînsà	kwàmìtîː	NOUN	_	Definite=Cons|Gender=Fem|Poss=Yes	17	subj	_	CaseAf=Gen|GenderAf=Masc|Gloss=committee.Masc.Cons-3MascGen|MSeg=kwàmìtîn-sà|PersonAf=3|SpaceAfter=No
 17	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	15	comp:obj	_	Gloss=3Masc.Prog
 18	naːnàːtaː	naːnàːtaː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	17	comp:aux	_	Gloss=insist
-19	wà	wà	ADP	_	Case=Dat	18	comp:obl	_	Gloss=Dat
+19	wà	mà	ADP	_	Case=Dat	18	comp:obl	_	Gloss=Dat
 20	asibitoːciː	asìbitì	NOUN	_	Number=Plur	19	comp:obj	_	Gloss=hospital.Plur
 21	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	18	comp:obj	_	Gloss=3Plur.Sub
 22	tabbatar̃	tabbat-	VERB	_	Voice=Cau	21	comp:aux	_	Gloss=be_sure.Cau
@@ -446,7 +446,7 @@
 26	dà	dà	SCONJ	_	_	25	mod@relcl	_	Gloss=COMP
 27	zaːsù	zâi	AUX	_	Number=Plur|Person=3|Tense=Fut	26	comp:obj	_	Gloss=3Plur.Fut|wordform=sù
 28	ɗuːràː	ɗuːr-	VERB	_	_	27	comp:aux	_	Gloss=inject
-29	wà	wà	ADP	_	Case=Dat	28	comp:obl	_	Gloss=Dat
+29	wà	mà	ADP	_	Case=Dat	28	comp:obl	_	Gloss=Dat
 30	maràsaː	maràsaː	PART	_	Number=Plur|PartType=Der|Polarity=Neg	29	comp:obj	_	Gloss=lacking.Plur
 31	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	30	compound	_	Gloss=health.Fem|SpaceAfter=No
 32	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
