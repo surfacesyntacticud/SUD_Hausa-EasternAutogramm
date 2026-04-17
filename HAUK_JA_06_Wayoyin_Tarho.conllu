@@ -483,7 +483,7 @@
 
 # sent_id = 06_Wayoyin_Tarho_20
 # text_en = The countries of southern Africa too are developing ways of cooperation so that on can hope that within five years, making a phone call between south African countries will be easy.
-# text = ƙasàːshen kudancin Afir̃kà maː sunàː gyaːrà hanyoːyin saːdâr̃waː tsàkaːninsù har̃ anàː sâː râi nân dà shèːkaràː bìyar̃, bugà wayàr̃ tàr̃hôː tsàkaːnin ƙasàːshen kudancin Afir̃kà zâi yi sauƙiː.
+# text = ƙasàːshen kudancin Afir̃kà maː sunàː gyaːrà hanyoːyin saːdâr̃waː tsàkaːninsùhar̃ anàː sâː râi nân dà shèːkaràː bìyar̃, bugà wayàr̃ tàr̃hôː tsàkaːnin ƙasàːshen kudancin Afir̃kà zâi yi sauƙiː.
 # text_ortho = Ƙasàːshen kudancin Afir̃kà maː sunàː gyaːrà hanyoːyin saːdâr̃waː tsàkaːninsù har̃ anàː sâː râi nân dà shèːkaràː bìyar̃, bugà wayàr̃ tàr̃hôː tsàkaːnin ƙasàːshen kudancin Afir̃kà zâi yi sauƙiː.
 1	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	5	dislocated@subj	_	Gloss=country.Plur.Cons
 2	kudancin	kudancin	ADP	_	_	1	mod	_	Gloss=south_of
@@ -496,8 +496,8 @@
 9	tsàkaːninsù	tsàkaːnin	ADP	_	_	8	mod	_	CaseAf=Gen|Gloss=between-3PlurGen|MSeg=tsàkaːnin-sù|NumberAf=Plur|PersonAf=3|Poss=Yes|SpaceAfter=No
 10	har̃	har̃	SCONJ	_	_	6	mod	_	Gloss=so_much_so_that
 11	anàː	nàː	AUX	_	Aspect=Prog|Person=4	10	comp:obj	_	Gloss=4.Prog
-12	sâː	sâː	VERB	_	ExtPos=VERB|Gender=Masc	11	comp:aux	_	Gloss=put|Idiom=Yes
-13	râi	râi	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=life.Masc|InIdiom=Yes
+12	sâː	sâː	VERB	_	Gender=Masc	11	comp:aux	_	Gloss=put
+13	râi	râi	NOUN	_	Gender=Masc	12	compound	_	Gloss=life.Masc
 14	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	19	mod	_	Gloss=ProxS
 15	dà	dà	CCONJ	_	_	16	cc	_	Gloss=and
 16	shèːkaràː	shèːkaràː	NOUN	_	Gender=Fem	14	conj:coord	_	Gloss=year.Fem

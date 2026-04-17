@@ -258,7 +258,7 @@
 24	ganiː	ganiː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	23	subj	_	Gloss=see.Vnoun.Masc|SpaceAfter=No
 25	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 26	wàndà	wandà	PRON	_	Gender=Masc|PronType=Rel	14	mod@relcl	_	Gloss=REL.Masc
-27	har̃	har̃	ADV	_	Definite=Cons	28	mod	_	Gloss=even
+27	har̃	har̃	ADV	_	_	28	mod	_	Gloss=even
 28	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	26	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 29	yi	yi	VERB	_	_	28	comp:aux	_	Gloss=do
 30	sànàdiyyàr̃	sànàdiyyàː	NOUN	_	Definite=Cons|Gender=Fem	29	comp:pred	_	Gloss=cause.Fem.Cons
@@ -359,10 +359,10 @@
 # sent_id = 14_Miyagun_kwayoyi_11
 # text_en = If they manage to get through with it, they remove the cocaine podwer from the condom after they have finished travelling with it.
 # text_ortho = Ìdan dai har̃ sun yi nasar̃àr̃ ficèːwaː, tòː sukàn iyà kaːsayar̃ dà hoːdàr̃ kòːkên ɗîn dàgà cikin r̃oːbàr̃ baːyan sun gamà tàfiyàr̃ taːsù .
-# text = ìdan dai har̃ sun yi nasar̃àr̃ ficèːwaː, tòː sukàn iyà kaːsayar̃ dà hoːdàr̃ kòːkên ɗîn dàgà cikin r̃oːbàr̃ baːyan sun gamà tàfiyàr̃ taːsù .
+# text = ìdan dai har̃ sun yi nasar̃àr̃ ficèːwaː, tòː sukàn iyà kaːsayar̃ dà hoːdàr̃ kòːkên ɗîn dàgà cikin r̃oːbàr̃ baːyan sun gamà tàfiyàr̃ taːsù.
 1	ìdan	in	SCONJ	_	_	10	mod	_	Gloss=if
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
-3	har̃	har̃	ADV	_	Definite=Cons	4	mod	_	Gloss=even
+3	har̃	har̃	ADV	_	_	4	mod	_	Gloss=even
 4	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	1	comp:obj	_	Gloss=3Plur.Perf
 5	yi	yi	VERB	_	_	4	comp:aux	_	Gloss=do
 6	nasar̃àr̃	nasar̃àː	NOUN	_	Definite=Cons|Gender=Fem	5	comp:pred	_	Gloss=success.Fem.Cons
@@ -559,10 +559,10 @@
 9	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 10	-	-	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 11	à	à	ADP	_	_	14	mod	_	Gloss=at
-12	haːlin	haːliː	ADV	_	Definite=Cons	11	comp:obj	_	Gloss=situation.Masc.Cons
+12	haːlin	haːliː	NOUN	_	Definite=Cons	11	comp:obj	_	Gloss=situation.Masc.Cons
 13	yànzu	yànzu	ADV	_	_	12	mod	_	Gloss=now
 14	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Prog
-15	nan	nan	ADV	_	Definite=Def|Deixis=ProxH|PronType=Dem	14	comp:pred	_	Gloss=ProxH
+15	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	14	comp:pred	_	Gloss=ProxH
 16	tsùndum	tsùndum	IDEO	_	_	17	mod	_	Gloss=deep
 17	à	à	ADP	_	_	14	comp:obl	_	Gloss=at
 18	cikin	cikin	ADP	_	_	17	comp:obj	_	Gloss=inside
@@ -727,7 +727,7 @@
 1	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	cêː	cêː	VERB	_	_	1	comp:aux	_	Gloss=say|wordform=cê
-4	har̃	har̃	ADV	_	Definite=Cons	5	mod	_	Gloss=even
+4	har̃	har̃	ADV	_	_	5	mod	_	Gloss=even
 5	anàː	nàː	AUX	_	Aspect=Prog|Person=4	3	comp:obj	_	Gloss=4.Prog
 6	rarràbà	rarrab-	VERB	_	_	5	comp:aux	_	Gloss=distribute
 7	hoːtunàn	hòːtoː	NOUN	_	Definite=Cons|Number=Plur	6	comp:obj	_	Gloss=photocopy.Plur.Cons

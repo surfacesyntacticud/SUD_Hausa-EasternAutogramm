@@ -160,7 +160,7 @@
 13	shàꞌawàː	shàꞌawàː	NOUN	_	Gender=Fem	12	compound	_	Gloss=interest.Fem
 14	dà	da	CCONJ	_	_	15	cc	_	Gloss=and|wordform=da
 15	haskàkâːwaː	haskàk-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	13	conj:coord	_	Gloss=brighten_up.Vnoun.Fem
-16	duk	dukà	PRON	_	ExtPos=ADP|PronType=Tot	10	mod	_	Gloss=all|Idiom=Yes
+16	duk	dukà	ADV	_	ExtPos=ADP|PronType=Tot	10	mod	_	Gloss=all|Idiom=Yes
 17	dà	dà	ADP	_	_	16	compound	_	Gloss=with|InIdiom=Yes
 18	gyàːre-gyàːren	gyaːraː	NOUN	_	Definite=Cons|Number=Plur	16	comp:obj	_	Gloss=repair.Plur
 19	zaːmàniː	zaːmàniː	NOUN	_	Gender=Masc	18	mod	_	Gloss=modern_time.Masc
@@ -283,7 +283,7 @@
 
 # sent_id = 02_Yarima_Charles_9
 # text_en = And yesterday, the Governor of Anambra State and his wife welcomed the Price and Pricess at the Enugu airport.
-# text = jiyà kuma Gwamnàn Jihàr̃ Ànambar̃à dà uwar̃gidansà sukà tàrbi Yàr̃iːmà dà Gimbìyaː à fiːlin jirgin samàn na Inugù.
+# text = jiyà kuma Gwamnàn Jihàr̃ Ànambar̃à dà uwar̃gidansàsukà tàrbi Yàr̃iːmà dà Gimbìyaː à fiːlin jirgin samàn na Inugù.
 # text_ortho = Jiyà kuma Gwamnàn Jihàr̃ Ànambar̃à da uwar̃gidansà sukà tàrbi Yàr̃iːmà da Gimbìyaː à fiːlin jirgin samàn na Inugù.
 1	jiyà	jiyà	ADV	_	_	8	mod	_	Gloss=yesterday
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
@@ -300,7 +300,7 @@
 13	à	à	ADP	_	_	9	comp:obl	_	Gloss=at
 14	fiːlin	fiːliː	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	Gloss=field.Masc.Cons
 15	jirgin	jirgiː	NOUN	_	Definite=Cons|Gender=Masc	14	mod	_	Gloss=vehicle.Masc.Cons
-16	samàn	samà	ADV	_	Definite=Def	15	mod	_	Gloss=above.Def
+16	samàn	samàː	NOUN	_	Definite=Def	15	compound	_	Gloss=sky.Def
 17	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	14	mod	_	Gloss=Gen
 18	Inugù	Inugù	PROPN	_	_	17	comp:obj	_	Gloss=Enugu|SpaceAfter=No
 19	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT

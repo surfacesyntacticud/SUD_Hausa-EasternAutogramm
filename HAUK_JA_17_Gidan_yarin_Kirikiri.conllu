@@ -110,7 +110,7 @@
 # sent_id = 17_Gidan_yarin_Kirikiri_4
 # text_en = The report stated that the congestion of people in the Kirikiri prison has got so bad that the prisoners are sleeping in shifts, some leaving [their place] to others after like three of four hours while other prisoners are just standing on their feet.
 # text_ortho = R̃àhoːtòn ya cèː cùnkoːson mutàːnên dà kèː cikin gidan fur̃sùnàn Ƙìr̃iƙìr̃i ya ɓaːcì, ta yaddà har̃ 'yan fur̃sùnàn sukàn yi barciː nèː kaːmùː-kaːmùː, wasu sù bâi wà wasu, baːyan saː'oː'iː mìsaːlìn ukù koː huɗu, yàːyîn dà wasu 'yan fur̃sunoːnîn kùwa sai dai kawài sù tsayàː dà ƙafàr̃sù kurùm.
-# text = r̃àhoːtòn ya cèː cùnkoːson mutàːnên dà kèː cikin gidan fur̃sùnàn Ƙìr̃iƙìr̃i ya ɓaːcì, ta yaddà har̃ 'yan fur̃sùnàn sukàn yi barciː nèː kaːmùː-kaːmùː, wasu sù bâi wà wasu, baːyan saː'oː'iː mìsaːlìn ukù koː huɗu, yàːyîn dà wasu 'yan fur̃sunoːnîn kùwa sai dai kawài sù tsayàː dà ƙafàr̃sù kurùm.
+# text = r̃àhoːtòn ya cèː cùnkoːson mutàːnên dà kèː cikin gidan fur̃sùnàn Ƙìr̃iƙìr̃i ya ɓaːcì, ta yaddà har̃ 'yan fur̃sùnàn sukàn yi barciː nèː kaːmùː-kaːmùː, wasu sù bâi wà wasu, baːyan saː'oː'iː mìsaːlìn ukù koː huɗu, yàːyîn dà wasu 'yan fur̃sunoːnîn kùwa sai dai kawài sù tsayàː dà ƙafàr̃sùkurùm.
 1	r̃àhoːtòn	r̃àhoːtòː	PROPN	_	Definite=Def|Gender=Masc	2	subj	_	Gloss=report.Masc.Def
 2	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 3	cèː	cêː	VERB	_	Gender=Fem	2	comp:aux	_	Gloss=be.Fem
@@ -127,7 +127,7 @@
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 15	ta	ta	ADP	_	_	13	mod	_	Gloss=via
 16	yaddà	yaddà	ADV	_	PronType=Rel	15	comp:obj	_	Gloss=how
-17	har̃	har̃	ADV	_	Definite=Cons	20	mod	_	Gloss=even
+17	har̃	har̃	ADV	_	_	20	mod	_	Gloss=even
 18	'yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	20	subj	_	Gloss=child.Plur.Cons
 19	fur̃sùnàn	fur̃sùnà	NOUN	_	Definite=Def|Gender=Masc	18	compound	_	Gloss=prison.Masc.Def
 20	sukàn	kàn	AUX	_	Aspect=Hab|Number=Plur|Person=3	16	comp:obj	_	Gloss=3Plur.Hab
@@ -730,7 +730,7 @@
 6	cêː	cêː	VERB	_	_	5	comp:aux	_	Gloss=say
 7	koːmeː	koːmeː	PRON	_	Gender=Masc|PronType=Ind	6	comp:obj	_	Gloss=anything.Masc
 8	ba	ba	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	Gloss=Neg
-9	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Stat	10	mod	_	Gloss=together
+9	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Part	10	mod	_	Gloss=together
 10	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=with
 11	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	Gloss=report.Masc.Defː|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT

@@ -431,7 +431,7 @@
 # sent_id = 12_Bala'in_tafkin_Nyos_13b
 # text_en = Because of this, the experts in chemistry recommended that the quantity of water removed from the lake should not exceed the quantity of rain that enters it.
 # text_ortho = Don hakà masànaː kìːmiyyàː sukà kaːwoː shaːwar̃àr̃ cêːwaː bài kàmaːtà yawàn ruwân dà zaː'à kwaːshèː dàgà tafkìn yà wucè yawàn ruwan samàn dà kèː shìgaː cikinsà ba.
-# text = don hakà masànaː kìːmiyyàː sukà kaːwoː shaːwar̃àr̃ cêːwaː bài kàmaːtà yawàn ruwân dà zaː'à kwaːshèː dàgà tafkìn yà wucè yawàn ruwan samàn dà kèː shìgaː cikinsà ba.
+# text = don hakà masànaː kìːmiyyàː sukà kaːwoː shaːwar̃àr̃ cêːwaː bài kàmaːtà yawàn ruwân dà zaː'à kwaːshèː dàgà tafkìn yà wucè yawàn ruwan samàn dà kèː shìgaː cikinsàba.
 1	don	don	SCONJ	_	_	5	discourse	_	Gloss=because
 2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=thus
 3	masànaː	masàniː	VERB	_	ExtPos=NOUN|Number=Plur|VerbForm=Vnoun	5	subj	_	Gloss=expert.Plur
@@ -453,7 +453,7 @@
 19	wucè	wut-	VERB	_	_	18	comp:aux	_	Gloss=pass
 20	yawàn	yawàː	ADJ	_	Definite=Cons|Gender=Masc	19	comp:obj	_	Gloss=quantity.Masc.Cons
 21	ruwan	ruwaː	NOUN	_	Definite=Cons|Gender=Masc	20	mod	_	Gloss=water.Masc.Cons
-22	samàn	samà	ADV	_	Definite=Def	21	mod	_	Gloss=above.Def
+22	samàn	samàː	NOUN	_	Definite=Def	21	compound	_	Gloss=above.Def
 23	dà	dà	SCONJ	_	_	21	mod@relcl	_	Gloss=COMP
 24	kèː	nàː	AUX	_	Aspect=Prog	23	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
 25	shìgaː	shig-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	24	comp:aux	_	Gloss=enter.Fem.Vnoun.

@@ -130,7 +130,7 @@
 8	nèː	neː	AUX	_	_	0	root	_	Copula=Yes|Gloss=be
 9	baːyân	baːyân	SCONJ	_	ExtPos=SCONJ	8	dislocated@comp	_	Gloss=after.Def|Idiom=Yes
 10	dà	dà	SCONJ	_	_	9	comp:obj	_	Gloss=COMP|InIdiom=Yes
-11	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	10	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Yes
+11	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	9	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Yes
 12	cînyeː	ci	VERB	_	_	11	comp:aux	_	Gloss=eat
 13	macìːjîn	macìːjiː	NOUN	_	Definite=Def|Number=Plur	12	comp:obj	_	Gloss=snake.Plur.Def
 14	dà	dà	SCONJ	_	_	13	mod@relcl	_	Gloss=COMP
@@ -328,7 +328,7 @@
 6	yi	yi	VERB	_	_	5	comp:aux	_	Gloss=do
 7	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	8	det	_	Gloss=some.Masc.Spec
 8	gàr̃gàɗiː	gàr̃gàɗiː	NOUN	_	Gender=Masc	6	comp:pred	_	Gloss=recommendation.Masc
-9	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Stat	10	mod	_	Gloss=together
+9	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Part	10	mod	_	Gloss=together
 10	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with
 11	maːgungunàn	maːgàniː	NOUN	_	Definite=Cons|Number=Plur	10	comp:obj	_	Gloss=medicine.Plur.Cons
 12	kashè	kas-	VERB	_	_	11	compound	_	Gloss=kill

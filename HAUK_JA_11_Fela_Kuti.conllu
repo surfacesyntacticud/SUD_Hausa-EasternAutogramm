@@ -445,7 +445,7 @@
 20	sìttin	sìttin	NUM	_	_	17	conj:coord	_	Gloss=sixty
 21	dà	dà	CCONJ	_	_	22	cc	_	Gloss=and
 22	tar̃à	tar̃à	NUM	_	_	20	conj:coord	_	Gloss=nine|SpaceAfter=No
-23	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
+23	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 24	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 25	sauyà	sauy-	VERB	_	_	24	comp:aux	_	Gloss=change
 26	suːnan	suːnaː	NOUN	_	Definite=Cons|Gender=Masc	25	comp:obj	_	Gloss=name.Masc.Cons
@@ -455,7 +455,7 @@
 30	koːmàː	koːm-	VERB	_	_	29	comp:aux	_	Gloss=go_(back)_to
 31	"	"	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 32	Africa	Africa	PROPN	_	_	30	comp:pred	_	Gloss=Africa
-33	70	70	PUNCT	_	_	32	flat@name	_	Gloss=PUNCT|SpaceAfter=No
+33	70	70	PROPN	_	_	32	flat@name	_	Gloss=PUNCT|SpaceAfter=No
 34	"	"	PUNCT	_	_	32	punct	_	Gloss=PUNCT|SpaceAfter=No
 35	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
 36	sànnan	sànnan	ADV	_	_	37	mod	_	Gloss=then
@@ -731,7 +731,7 @@
 2	reːrà	reːr-	VERB	_	_	1	comp:aux	_	Gloss=compose
 3	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	4	det	_	Gloss=some.Fem.Spec
 4	waːƙàː	waːƙàː	PRON	_	Gender=Fem	2	comp:obj	_	Gloss=song.Fem
-5	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Stat	6	mod	_	Gloss=together
+5	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Part	6	mod	_	Gloss=together
 6	dà	dà	ADP	_	_	2	comp:obl	_	Gloss=with
 7	manufoːfin	manufaː	NOUN	_	Definite=Cons|Number=Plur	6	comp:obj	_	Gloss=programme.Plur.Cons
 8	jàm'iyyàr̃	jàm'iyyàː	NOUN	_	Definite=Def|Gender=Fem	7	mod	_	Gloss=party.Fem.Def
@@ -867,13 +867,13 @@
 10	shìga	shig-	VERB	_	_	9	comp:aux	_	Gloss=enter
 11	nuːnà	nuːn-	VERB	_	_	10	comp:obj@G	_	Gloss=show
 12	shàʼawàː	shàʼawàː	NOUN	_	Gender=Fem	11	comp:obj	_	Gloss=interest.Fem
-13	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Stat	14	mod	_	Gloss=together
+13	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Part	14	mod	_	Gloss=together
 14	dà	dà	ADP	_	_	12	mod	_	Gloss=with
 15	Fela	Fela	PROPN	_	_	14	comp:obj	_	Gloss=Fela|SpaceAfter=No
 16	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 17	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	18	comp:pred	_	Gloss=3Masc.Nom
 18	nèː	neː	AUX	_	_	0	root	_	Copula=Yes|Gloss=be
-19	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Stat	18	dislocated@comp	_	Gloss=together
+19	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Part	18	dislocated@comp	_	Gloss=together
 20	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=with
 21	maːtansà	màːtaː	NOUN	_	Definite=Cons|Number=Plur	20	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=wife.Plur.Cons-3MascGen|MSeg=maːtan-sà|PersonAf=3|Poss=Yes|SpaceAfter=No
 22	na	na	PART	_	Case=Gen|Number=Plur|PartType=Case	21	mod	_	Gloss=Gen

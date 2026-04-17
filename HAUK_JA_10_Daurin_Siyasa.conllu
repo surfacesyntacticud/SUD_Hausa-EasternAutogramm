@@ -180,7 +180,7 @@
 20	iyà	iy-	VERB	_	_	19	comp:aux	_	Gloss=be_able_to
 21	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	20	comp:obj	_	Gloss=put
 22	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	21	comp:obj	_	Gloss=mouth.Masc
-23	.	.	PUNCT	_	_	13	comp:obj	_	Gloss=PUNCT
+23	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
 # sent_id = 10_Daurin_Siyasa_8
 # text_en = But the lawyers of the Nigerian Civil Liberties Organisation said that they are certain that this second law is used in ways that are improper - that is to say, people are imprisoned because of ordinary crimes whose nature does not concern national security or national economy.
@@ -348,7 +348,7 @@
 6	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 7	cêː	cêː	VERB	_	_	6	comp:aux	_	Gloss=say
 8	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	7	comp:obj	_	Gloss=3Masc.Prog|wordform=yanaː
-9	sàːne	sanìː	ADV	_	ExtPos=ADV|VerbForm=Stat	8	comp:aux	_	Gloss=know.Stat
+9	sàːne	sanìː	ADV	_	ExtPos=ADV|VerbForm=Part	8	comp:aux	_	Gloss=know.Stat
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with
 11	mutàːneː	mùtûm	NOUN	_	Number=Plur	10	comp:obj	_	Gloss=people.Plur
 12	ɗàriː	ɗàriː	NUM	_	_	11	mod:num	_	Gloss=hundred
