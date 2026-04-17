@@ -14,17 +14,17 @@
 # text_ortho = À gàrin " Gboko " dà kèː jihàr̃ Binuwài can areːwacin Nàːjeːr̃iyàː an kai wasu mutàneː gùdaː takwàs asìbitì baːyân dà sukà cikà cikìnsù dà àbincîn dà sukà yi miyàr̃sà dà naːmàn wani shirgeːgèn macìːjiː.
 # text = à gàrin " Gboko " dà kèː jihàr̃ Binuwài can areːwacin Nàːjeːr̃iyàː an kai wasu mutàneː gùdaː takwàs asìbitì baːyân dà sukà cikà cikìnsù dà àbincîn dà sukà yi miyàr̃sà dà naːmàn wani shirgeːgèn macìːjiː.
 1	à	à	ADP	_	_	13	mod	_	Gloss=at
-2	gàrin	gàriː	NOUN	_	Definite=Cons|Gender=Masc	4	mod@appos	_	Gloss=city.Masc.Cons
+2	gàrin	gàriː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	Gloss=city.Masc.Cons
 3	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT
-4	Gboko	Gboko	PROPN	_	_	1	comp:obj	_	Gloss=Gboko
+4	Gboko	Gboko	PROPN	_	_	2	new	_	Gloss=Gboko
 5	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT
-6	dà	dà	SCONJ	_	_	4	mod@relcl	_	Gloss=COMP
+6	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 7	kèː	nàː	AUX	_	Aspect=Prog	6	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
-8	jihàr̃	jihàr̃	ADP	_	Gender=Fem	9	mod@appos	_	Gloss=state.Fem.Cons
-9	Binuwài	Binuwài	PROPN	_	_	7	comp:pred	_	Gloss=Benue
-10	can	can	ADV	_	Deixis=Remt|PronType=Dem	9	conj:appos	_	Gloss=Remt
+8	jihàr̃	jihàr̃	ADP	_	Gender=Fem	7	comp:pred	_	Gloss=state.Fem.Cons
+9	Binuwài	Binuwài	PROPN	_	_	8	new	_	Gloss=Benue
+10	can	can	ADV	_	Deixis=Remt|PronType=Dem	7	mod	_	Gloss=Remt
 11	areːwacin	areːwacin	ADP	_	_	10	conj:appos	_	Gloss=north_of
-12	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	11	mod	_	Gloss=Nigeria
+12	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	11	comp:obj	_	Gloss=Nigeria
 13	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 14	kai	kai	VERB	_	_	13	comp:aux	_	Gloss=reach/carry_to
 15	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	16	det	_	Gloss=some.Plur.Spec
@@ -244,11 +244,11 @@
 29	ɗaya	ɗaya	NUM	_	_	28	comp:aux	_	Gloss=one
 30	dàgà	dàgà	ADP	_	_	29	mod	_	Gloss=from
 31	cikin	cikin	ADP	_	_	30	comp:obj	_	Gloss=inside
-32	irìn	irìː	NOUN	_	_	33	mod@appos	_	Gloss=type_of
-33	màcìːzân	macìːjiː	NOUN	_	Definite=Def|Number=Plur	31	comp:obj	_	Gloss=snake.Plur.Def
+32	irìn	irìː	NOUN	_	_	31	comp:obj	_	Gloss=type_of
+33	màcìːzân	macìːjiː	NOUN	_	Definite=Def|Number=Plur	32	mod	_	Gloss=snake.Plur.Def
 34	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	33	det	_	Gloss=ProxH
-35	nèː	neː	PART	_	PartType=Foc	33	discourse@foc	_	Gloss=Emph
-36	màːsu	mài	PART	_	Number=Plur|PartType=Der	33	mod	_	Gloss=owner/doer_of.Plur
+35	nèː	neː	PART	_	PartType=Foc	32	discourse@foc	_	Gloss=Emph
+36	màːsu	mài	PART	_	Number=Plur|PartType=Der	32	mod	_	Gloss=owner/doer_of.Plur
 37	dafìn	dafìː	NOUN	_	Definite=Cons|Gender=Masc	36	compound	_	Gloss=poison.Masc.Cons
 38	gàske	gàske	ADV	_	_	37	mod	_	Gloss=truly|SpaceAfter=No
 39	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT

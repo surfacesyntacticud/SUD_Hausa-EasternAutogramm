@@ -85,11 +85,11 @@
 10	akà	yaː	AUX	_	Aspect=Perf|Person=4	9	comp:obj	_	Gloss=4.Perf.Rel|Relative=Yes
 11	hàifaː	haif-	VERB	_	_	10	comp:aux	_	Gloss=give_birth_to
 12	à	à	ADP	_	_	11	mod	_	Gloss=at
-13	gàrin	gàriː	NOUN	_	Definite=Cons|Gender=Masc	14	mod@appos	_	Gloss=city.Masc.Cons
-14	Àbêːkùta	Àbêːkùta	PROPN	_	_	12	comp:obj	_	Gloss=Abeokuta
+13	gàrin	gàriː	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	Gloss=city.Masc.Cons
+14	Àbêːkùta	Àbêːkùta	PROPN	_	_	13	new	_	Gloss=Abeokuta
 15	à	à	ADP	_	_	11	mod	_	Gloss=at
-16	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	17	mod@appos	_	Gloss=year.Fem.Cons
-17	alìf	alìf	NUM	_	_	15	comp:obj	_	Gloss=one_thousand
+16	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	15	comp:obj	_	Gloss=year.Fem.Cons
+17	alìf	alìf	NUM	_	_	16	new	_	Gloss=one_thousand
 18	dà	dà	CCONJ	_	_	19	cc	_	Gloss=and
 19	ɗàriː	ɗàriː	NUM	_	Gender=Fem	17	conj:coord	_	Gloss=hundred
 20	tar̃à	tar̃à	NUM	_	_	19	mod:num	_	Gloss=nine
@@ -184,8 +184,8 @@
 # text = tòː àmmaː irìn mabuːsâr̃ nan mài kàmaː dà algaitàː dà akèː kiràː "saxophone", ita cèː koːwaː ya fi dangàntà kàɗe-kàɗen Fela dà ita.
 1	tòː	tòː	INTJ	_	_	17	discourse	_	Gloss=well
 2	àmmaː	àmmaː	CCONJ	_	_	17	discourse	_	Gloss=but
-3	irìn	irìː	NOUN	_	_	4	mod@appos	_	Gloss=type_of
-4	mabuːsâr̃	mabuːsaː	NOUN	_	Definite=Def|Gender=Fem	17	dislocated@top	_	Gloss=wind_instrument.Fem.Def
+3	irìn	irìː	NOUN	_	_	17	dislocated@top	_	Gloss=type_of
+4	mabuːsâr̃	mabuːsaː	NOUN	_	Definite=Def|Gender=Fem	3	mod	_	Gloss=wind_instrument.Fem.Def
 5	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	4	det	_	Gloss=ProxH
 6	mài	mài	PART	_	Number=Sing|PartType=Der	4	mod	_	Gloss=owner_of.Sing
 7	kàmaː	kàmaː	NOUN	_	Gender=Fem	6	compound	_	Gloss=resemblance.Fem
@@ -237,9 +237,9 @@
 21	Dâː	dâː	ADV	_	_	23	mod	_	Gloss=formerly
 22	maː	maː	PART	_	PartType=Top	21	discourse@top	_	Gloss=even
 23	àkwai	àkwai	PART	_	PartType=Pred	18	comp:obj	_	Gloss=there_is
-24	irìn	irìː	NOUN	_	_	26	mod@appos	_	Gloss=type_of
+24	irìn	irìː	NOUN	_	_	23	subj	_	Gloss=type_of
 25	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	26	det	_	Gloss=ProxS.Fem
-26	àlgaitàː	àlgaitàː	NOUN	_	Gender=Fem	23	subj	_	Gloss=oboe_sp.Fem
+26	àlgaitàː	àlgaitàː	NOUN	_	Gender=Fem	24	mod	_	Gloss=oboe_sp.Fem
 27	à	à	ADP	_	_	23	comp:pred	_	Gloss=at
 28	ƙar̃ƙashin	ƙar̃ƙashin	ADP	_	_	27	comp:obj	_	Gloss=under
 29	gadoːnaː	gadoː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	CaseAf=Gen|Gloss=bed.Masc.Cons-1SingGen|MSeg=gadoːn-aː|NumberAf=Sing|PersonAf=1|Poss=Yes|SpaceAfter=No|wordform=gadoː
@@ -364,8 +364,8 @@
 2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=thus
 3	neː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
 4	à	à	ADP	_	_	14	mod	_	Gloss=at
-5	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	6	mod@appos	_	Gloss=year.Fem.Cons
-6	alìf	alìf	NUM	_	_	4	comp:obj	_	Gloss=one_thousand
+5	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	4	comp:obj	_	Gloss=year.Fem.Cons
+6	alìf	alìf	NUM	_	_	5	new	_	Gloss=one_thousand
 7	dà	dà	CCONJ	_	_	8	cc	_	Gloss=and
 8	ɗàriː	ɗàriː	NUM	_	Gender=Fem	6	conj:coord	_	Gloss=hundred
 9	tar̃à	tar̃à	NUM	_	_	8	mod:num	_	Gloss=nine
@@ -436,8 +436,8 @@
 11	neː	neː	PART	_	PartType=Foc	9	discourse@foc	_	Gloss=Emph|SpaceAfter=No
 12	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 13	à	à	ADP	_	_	24	mod	_	Gloss=at
-14	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	15	mod@appos	_	Gloss=year.Fem.Cons
-15	alìf	alìf	NUM	_	_	13	comp:obj	_	Gloss=one_thousand
+14	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	13	comp:obj	_	Gloss=year.Fem.Cons
+15	alìf	alìf	NUM	_	_	14	new	_	Gloss=one_thousand
 16	dà	dà	CCONJ	_	_	17	cc	_	Gloss=and
 17	ɗàriː	ɗàriː	NUM	_	Gender=Fem	15	conj:coord	_	Gloss=hundred
 18	tar̃à	tar̃à	NUM	_	_	17	mod:num	_	Gloss=nine
@@ -509,15 +509,15 @@
 5	tàːruwar̃	taːr-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	mod	_	Gloss=gather.Vnoun.Fem.Cons
 6	àl'ummàː	àl'ummàː	NOUN	_	Gender=Fem	5	comp:obj	_	Gloss=community.Fem
 7	à	à	ADP	_	_	2	mod	_	Gloss=at
-8	ùnguwar̃	ùnguwaː	NOUN	_	Definite=Cons|Gender=Fem	10	mod@appos	_	Gloss=district.Fem.Cons
+8	ùnguwar̃	ùnguwaː	NOUN	_	Definite=Cons|Gender=Fem	7	comp:obj	_	Gloss=district.Fem.Cons
 9	"	"	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-10	Surulere	Surulere	PROPN	_	_	7	comp:obj	_	Gloss=Surulere
+10	Surulere	Surulere	PROPN	_	_	8	new	_	Gloss=Surulere
 11	"	"	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-12	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=COMP
+12	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
 13	kèː	nàː	AUX	_	Aspect=Prog	12	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
 14	baːyan	baːyan	ADP	_	_	13	comp:pred	_	Gloss=after
-15	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	16	mod@appos	_	Gloss=city.Masc.Cons
-16	Ìkko	Ìkko	PROPN	_	_	14	comp:obj	_	Gloss=Lagos|SpaceAfter=No
+15	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:obj	_	Gloss=city.Masc.Cons
+16	Ìkko	Ìkko	PROPN	_	_	15	new	_	Gloss=Lagos|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	4	mod@relcl	_	Gloss=REL.Masc
 19	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	18	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
@@ -543,8 +543,8 @@
 7	wajen	wajen	ADP	_	_	3	comp:obl	_	Gloss=about
 8	toːnà	toːn-	VERB	_	_	7	comp:obj	_	Gloss=reveal
 9	àsiːr̃in	àsiːr̃iː	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=secret.Masc.Cons
-10	irìn	irìː	NOUN	_	_	11	mod@appos	_	Gloss=type_of
-11	matsaloːlîn	màtsalàː	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	9	mod	_	Gloss=problem.Plur.Def
+10	irìn	irìː	NOUN	_	_	9	mod	_	Gloss=type_of
+11	matsaloːlîn	màtsalàː	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	10	mod	_	Gloss=problem.Plur.Def
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 13	ƙasar̃sà	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	15	subj	_	CaseAf=Gen|GenderAf=Masc|Gloss=country.Fem.Cons-3MascGen|MSeg=ƙasar̃-sà|PersonAf=3|Poss=Yes|wordform=ƙasar̃
 14	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	13	conj:appos	_	Gloss=Nigeria
@@ -569,8 +569,8 @@
 # text_ortho = À shèːkaràr̃ alìf dà ɗàriː tar̃à dà sàbà'in dà bakwài neː àbîn ya kai magaryar̃ tiƙềwaː, loːkàcîn dà soːjoːjin gwamnatìn Janàr̃ " Obasanjo " sukà yi fàr̃makìː kân gidan Fela dà kèː Ìkko.
 # text = à shèːkaràr̃ alìf dà ɗàriː tar̃à dà sàbà'in dà bakwài neː àbîn ya kai magaryar̃ tiƙèːwaː, loːkàcîn dà soːjoːjin gwamnatìn Janàr̃ " Obasanjo " sukà yi fàr̃makìː kân gidan Fela dà kèː Ìkko.
 1	à	à	ADP	_	_	13	mod	_	Gloss=at
-2	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	3	mod@appos	_	Gloss=year.Fem.Cons
-3	alìf	alìf	NUM	_	_	1	comp:obj	_	Gloss=one_thousand
+2	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	1	comp:obj	_	Gloss=year.Fem.Cons
+3	alìf	alìf	NUM	_	_	2	new	_	Gloss=one_thousand
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=and
 5	ɗàriː	ɗàriː	NUM	_	Gender=Fem	3	conj:coord	_	Gloss=hundred
 6	tar̃à	tar̃à	NUM	_	_	5	mod:num	_	Gloss=nine
@@ -589,9 +589,9 @@
 19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=COMP
 20	soːjoːjin	soːjà	NOUN	_	Definite=Cons|Number=Plur	26	subj	_	Gloss=soldier.Plur.Cons
 21	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	20	mod	_	Gloss=government.Fem.Cons|wordform=gwamnatin
-22	Janàr̃	janàr̃	NOUN	_	Gender=Masc	24	mod@appos	_	Gloss=general.Masc
+22	Janàr̃	janàr̃	NOUN	_	Gender=Masc	21	mod	_	Gloss=general.Masc
 23	"	"	PUNCT	_	_	24	punct	_	Gloss=PUNCT
-24	Obasanjo	Obasanjo	PROPN	_	_	21	mod	_	Gloss=Obasanjo
+24	Obasanjo	Obasanjo	PROPN	_	_	22	new	_	Gloss=Obasanjo
 25	"	"	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 26	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	19	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Yes
 27	yi	yi	VERB	_	_	26	comp:aux	_	Gloss=do
@@ -689,8 +689,8 @@
 5	kàrɓi	karɓ-	VERB	_	_	4	comp:aux	_	Gloss=seize
 6	mulkìː	mulkìː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=power.Masc
 7	à	à	ADP	_	_	5	mod	_	Gloss=at
-8	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	9	mod@appos	_	Gloss=year.Fem.Cons
-9	alìf	alìf	NUM	_	_	7	comp:obj	_	Gloss=one_thousand
+8	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	7	comp:obj	_	Gloss=year.Fem.Cons
+9	alìf	alìf	NUM	_	_	8	new	_	Gloss=one_thousand
 10	dà	dà	CCONJ	_	_	11	cc	_	Gloss=and
 11	ɗàriː	ɗàriː	NUM	_	Gender=Fem	9	conj:coord	_	Gloss=hundred
 12	tar̃à	tar̃à	NUM	_	_	11	mod:num	_	Gloss=nine
@@ -780,8 +780,8 @@
 1	sai	sai	ADV	_	_	13	mod	_	Gloss=then
 2	kwatsàm	kwatsàm	IDEO	_	_	13	mod	_	Gloss=suddenly
 3	à	à	ADP	_	_	13	mod	_	Gloss=at
-4	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	5	mod@appos	_	Gloss=year.Fem.Cons
-5	alìf	alìf	NUM	_	_	3	comp:obj	_	Gloss=one_thousand
+4	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	3	comp:obj	_	Gloss=year.Fem.Cons
+5	alìf	alìf	NUM	_	_	4	new	_	Gloss=one_thousand
 6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=and
 7	ɗàriː	ɗàriː	NUM	_	Gender=Fem	5	conj:coord	_	Gloss=hundred
 8	tar̃à	tar̃à	NUM	_	_	7	flat@num	_	Gloss=nine
@@ -888,8 +888,8 @@
 31	àuri	aur-	VERB	_	_	30	comp:aux	_	Gloss=marry
 32	dukkànsù	dukà	PRON	_	Definite=Cons|PronType=Tot	31	comp:obj	_	CaseAf=Gen|Gloss=all.Cons-3PlurGen|MSeg=dukkàn-sù|NumberAf=Plur|PersonAf=3|Poss=Yes|SpaceAfter=No
 33	à	à	ADP	_	_	31	mod	_	Gloss=at
-34	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	35	mod@appos	_	Gloss=year.Fem.Cons
-35	alìf	alìf	NUM	_	_	33	comp:obj	_	Gloss=one_thousand
+34	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	33	comp:obj	_	Gloss=year.Fem.Cons
+35	alìf	alìf	NUM	_	_	34	new	_	Gloss=one_thousand
 36	dà	dà	CCONJ	_	_	37	cc	_	Gloss=and
 37	ɗàriː	ɗàriː	NUM	_	Gender=Fem	35	conj:coord	_	Gloss=hundred
 38	tar̃à	tar̃à	NUM	_	_	37	mod:num	_	Gloss=nine

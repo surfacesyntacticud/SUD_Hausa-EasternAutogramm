@@ -278,8 +278,8 @@
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
 4	akèː	nàː	AUX	_	Aspect=Prog|Person=4	3	comp:obj	_	Gloss=4.Prog.Rel|Relative=Yes
 5	zàrgin	zarg-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:aux	_	Gloss=accuse.Vnoun.Masc.Cons
-6	Chief	Chief	PROPN	_	_	7	mod@appos	_	Gloss=Chief
-7	G.F.	G.F.	PROPN	_	_	5	comp:obj	_	Gloss=G.F.
+6	Chief	Chief	PROPN	_	_	5	comp:obj	_	Gloss=Chief
+7	G.F.	G.F.	PROPN	_	_	6	new	_	Gloss=G.F.
 8	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=with
 9	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	comp:obj	_	Gloss=3Masc.Nom|SpaceAfter=No
 10	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -295,8 +295,8 @@
 20	cèː	neː	PART	_	Gender=Fem	19	discourse@foc	_	Gloss=Emph.Fem
 21	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	19	mod@relcl	_	Gloss=REL.Fem
 22	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	25	subj	_	Gloss=3Masc.Nom
-23	Chief	Chief	PROPN	_	_	24	mod@appos	_	Gloss=Chief
-24	G.F.	G.F.	PROPN	_	_	22	conj:appos	_	Gloss=G.F.
+23	Chief	Chief	PROPN	_	_	22	conj:appos	_	Gloss=Chief
+24	G.F.	G.F.	PROPN	_	_	23	new	_	Gloss=G.F.
 25	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	21	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 26	r̃ubùːtaː	r̃ubuːt-	VERB	_	_	25	comp:aux	_	Gloss=write
 27	à	à	ADP	_	_	26	mod	_	Gloss=at
@@ -309,8 +309,8 @@
 34	canjìː	canjìː	NOUN	_	Gender=Masc	33	mod	_	Gloss=change.Masc
 35	à	à	ADP	_	_	26	mod	_	Gloss=at
 36	cikin	cikin	ADP	_	_	35	comp:obj	_	Gloss=inside
-37	watàn	watàː	NOUN	_	Definite=Cons|Gender=Masc	38	mod@appos	_	Gloss=month.Masc.Cons
-38	Maːyù	Maːyù	NOUN	_	Gender=Masc	36	comp:obj	_	Gloss=may.Masc|SpaceAfter=No
+37	watàn	watàː	NOUN	_	Definite=Cons|Gender=Masc	36	comp:obj	_	Gloss=month.Masc.Cons
+38	Maːyù	Maːyù	NOUN	_	Gender=Masc	37	new	_	Gloss=may.Masc|SpaceAfter=No
 39	.	.	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya_13

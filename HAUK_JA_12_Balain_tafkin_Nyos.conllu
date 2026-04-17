@@ -17,11 +17,11 @@
 # text_ortho = À watàn Àgustàː na shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà neː wata irìn iskàː mài gubàː, wàːtòː " carbon dioxide" , ta riƙà fìtaː dàgà Tafkìn Nyos ƙasar̃ Kàmàr̃u har̃ ta yi sànàdiyyàr̃ mutuwàr̃ mutàːneː kàmar̃ dubuː dà ɗàriː bakwài.
 # text = à watàn Àgustàː na shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà neː wata irìn iskàː mài gubàː, wàːtòː " carbon dioxide" , ta riƙà fìtaː dàgà Tafkìn Nyos ƙasar̃ Kàmàr̃u har̃ ta yi sànàdiyyàr̃ mutuwàr̃ mutàːneː kàmar̃ dubuː dà ɗàriː bakwài.
 1	à	à	ADP	_	_	27	mod	_	Gloss=at
-2	watàn	watàː	NOUN	_	Definite=Cons|Gender=Masc	3	mod@appos	_	Gloss=month.Masc.Cons
-3	Àgustàː	Àgustàː	PROPN	_	Gender=Masc	1	comp:obj	_	Gloss=august.Masc
-4	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	3	mod	_	Gloss=Gen
-5	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	6	mod@appos	_	Gloss=year.Fem.Cons
-6	alìf	alìf	NUM	_	_	4	comp:obj	_	Gloss=one_thousand
+2	watàn	watàː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	Gloss=month.Masc.Cons
+3	Àgustàː	Àgustàː	PROPN	_	Gender=Masc	2	new	_	Gloss=august.Masc
+4	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	2	mod	_	Gloss=Gen
+5	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	4	comp:obj	_	Gloss=year.Fem.Cons
+6	alìf	alìf	NUM	_	_	5	new	_	Gloss=one_thousand
 7	dà	dà	CCONJ	_	_	8	cc	_	Gloss=and
 8	ɗàriː	ɗàriː	NUM	_	Gender=Fem	6	conj:coord	_	Gloss=hundred
 9	tar̃à	tar̃à	NUM	_	_	8	flat@num	_	Gloss=nine
@@ -30,9 +30,9 @@
 12	dà	dà	CCONJ	_	_	13	cc	_	Gloss=and
 13	shidà	shidà	NUM	_	_	11	conj:coord	_	Gloss=six
 14	neː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
-15	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	17	det	_	Gloss=some.Fem.Spec
-16	irìn	irìː	NOUN	_	_	17	mod@appos	_	Gloss=type_of
-17	iskàː	iskàː	NOUN	_	Gender=Fem	27	subj	_	Gloss=wind.Fem
+15	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	16	det	_	Gloss=some.Fem.Spec
+16	irìn	irìː	NOUN	_	_	27	subj	_	Gloss=type_of
+17	iskàː	iskàː	NOUN	_	Gender=Fem	16	mod	_	Gloss=wind.Fem
 18	mài	mài	PART	_	Number=Sing|PartType=Der	17	mod	_	Gloss=owner_of.Sing
 19	gubàː	gubàː	NOUN	_	Gender=Fem	18	compound	_	Gloss=poison.Fem|SpaceAfter=No
 20	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
@@ -48,8 +48,8 @@
 30	dàgà	dàgà	ADP	_	_	29	comp:obl	_	Gloss=from
 31	Tafkìn	tafkìː	NOUN	_	Definite=Cons|Gender=Masc	30	comp:obj	_	Gloss=river.Masc.Cons|wordform=Tar̃kin
 32	Nyos	Nyos	PROPN	_	_	31	mod	_	Gloss=Nyos
-33	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	34	mod@appos	_	Gloss=country.Fem.Cons
-34	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	31	mod	_	Gloss=Cameroon
+33	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	31	mod	_	Gloss=country.Fem.Cons
+34	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	33	new	_	Gloss=Cameroon
 35	har̃	har̃	SCONJ	_	_	28	mod	_	Gloss=so_that
 36	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	35	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Yes
 37	yi	yi	VERB	_	_	36	comp:aux	_	Gloss=do
@@ -262,9 +262,9 @@
 12	cêːwaː	cêwaː	SCONJ	_	_	11	comp:obj	_	Gloss=COMP|wordform=cêwaː
 13	an	yaː	AUX	_	Aspect=Perf|Person=4	12	comp:obj	_	Gloss=4.Perf
 14	yi	yi	VERB	_	_	13	comp:aux	_	Gloss=do
-15	irìn	irìː	NOUN	_	_	17	mod@appos	_	Gloss=type_of
+15	irìn	irìː	NOUN	_	_	14	comp:obj	_	Gloss=type_of
 16	wannàn	nân	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	17	det	_	Gloss=ProxS.Sing
-17	aman	amai	ADJ	_	Definite=Cons|Gender=Masc	14	comp:obj	_	Gloss=explosion.Masc.Cons
+17	aman	amai	ADJ	_	Definite=Cons|Gender=Masc	15	mod	_	Gloss=explosion.Masc.Cons
 18	gâs	gâs	NOUN	_	Gender=Masc	17	mod	_	Gloss=gas.Masc
 19	mài	mài	PART	_	Number=Sing|PartType=Der	18	mod	_	Gloss=owner_of.Sing
 20	gubàː	gubàː	NOUN	_	Gender=Fem	19	compound	_	Gloss=poison.Fem
@@ -272,8 +272,8 @@
 22	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	23	det	_	Gloss=some.Masc.Spec
 23	tafkìn	tafkìː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:obj	_	Gloss=lake.Masc.Cons
 24	à	à	ADP	_	_	14	mod	_	Gloss=at
-25	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	26	mod@appos	_	Gloss=year.Fem.Cons
-26	alìf	alìf	NUM	_	_	24	comp:obj	_	Gloss=one_thousand
+25	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	24	comp:obj	_	Gloss=year.Fem.Cons
+26	alìf	alìf	NUM	_	_	25	new	_	Gloss=one_thousand
 27	dà	dà	CCONJ	_	_	28	cc	_	Gloss=and|wordform=da
 28	ɗàriː	ɗàriː	NUM	_	_	26	conj:coord	_	Gloss=hundred
 29	tar̃à	tar̃à	NUM	_	_	28	flat@num	_	Gloss=nine
@@ -310,10 +310,10 @@
 5	gaːnoː	gaːn-	VERB	_	_	4	comp:aux	_	Gloss=see
 6	cêːwaː	cêːwaː	SCONJ	_	_	5	comp:obj	_	Gloss=COMP
 7	àkwai	àkwai	PART	_	PartType=Pred	6	comp:obj	_	Gloss=there_is
-8	irìn	irìː	NOUN	_	_	10	mod@appos	_	Gloss=type_of
+8	irìn	irìː	NOUN	_	_	7	subj	_	Gloss=type_of
 9	waɗànnân	nân	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	10	det	_	Gloss=ProxS.Plur
-10	tafkunàː	tafkìː	NOUN	_	Number=Plur	7	subj	_	Gloss=lake.Plur
-11	har̃	har̃	ADP	_	_	10	mod	_	Gloss=up_to
+10	tafkunàː	tafkìː	NOUN	_	Number=Plur	8	mod	_	Gloss=lake.Plur
+11	har̃	har̃	ADP	_	_	8	mod	_	Gloss=up_to
 12	sìttin	sìttin	NUM	_	_	11	comp:obj	_	Gloss=sixty
 13	à	à	ADP	_	_	7	comp:pred	_	Gloss=at
 14	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	15	det	_	Gloss=ProxS.Masc
@@ -332,9 +332,9 @@
 27	anàː	nàː	AUX	_	Aspect=Prog|Person=4	22	comp:obj	_	Gloss=4.Prog
 28	iyà	iy-	VERB	_	_	27	comp:aux	_	Gloss=be_able_to
 29	saːmùn	saːmùː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	28	comp:obj	_	Gloss=get.Vnoun.Masc.Cons
-30	irìn	irìː	NOUN	_	_	32	mod@appos	_	Gloss=type_of
+30	irìn	irìː	NOUN	_	_	29	comp:obj	_	Gloss=type_of
 31	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	32	det	_	Gloss=ProxS.Masc
-32	aman	amai	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=explosion.Masc.Cons
+32	aman	amai	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=explosion.Masc.Cons
 33	gâs	gâs	NOUN	_	Definite=Cons|Gender=Masc	32	mod	_	Gloss=gas.Masc
 34	à	à	ADP	_	_	29	mod	_	Gloss=at
 35	koːwànè	koːwànè	DET	_	Gender=Masc	36	det	_	Gloss=each.Masc
@@ -548,8 +548,8 @@
 # text_ortho = À shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà dai mutàneː fìye dà dubuː dà ɗàriː bakwài neː sukà mutù, kuma Allàh neː kawài ya san yawàn waɗàndà zaːsù mutù ìdan tafkìn ya saːkè yîn wani aman gâs ɗîn.
 # text = à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà dai mutàneː fìye dà dubuː dà ɗàriː bakwài neː sukà mutù, kuma Allàh neː kawài ya san yawàn waɗàndà zaːsù mutù ìdan tafkìn ya saːkè yîn wani aman gâs ɗîn.
 1	à	à	ADP	_	_	20	mod	_	Gloss=at
-2	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	3	mod@appos	_	Gloss=year.Fem.Cons
-3	alìf	alìf	NUM	_	_	1	comp:obj	_	Gloss=one_thousand
+2	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	1	comp:obj	_	Gloss=year.Fem.Cons
+3	alìf	alìf	NUM	_	_	2	new	_	Gloss=one_thousand
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=and
 5	ɗàriː	ɗàriː	NUM	_	Gender=Fem	3	conj:coord	_	Gloss=hundred
 6	tar̃à	tar̃à	NUM	_	_	5	flat@num	_	Gloss=nine

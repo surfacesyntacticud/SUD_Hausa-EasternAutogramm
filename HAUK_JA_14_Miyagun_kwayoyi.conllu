@@ -103,8 +103,8 @@
 10	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
 11	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	10	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Yes
 12	àddàbi	addab-	VERB	_	_	11	comp:aux	_	Gloss=worry
-13	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	14	mod@appos	_	Gloss=country.Fem.Cons
-14	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	12	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
+13	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	12	comp:obj	_	Gloss=country.Fem.Cons
+14	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	13	new	_	Gloss=Nigeria|SpaceAfter=No
 15	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 16	kuma	kuma	CCONJ	_	_	17	cc	_	Gloss=also
 17	an	yaː	AUX	_	Aspect=Perf|Person=4	9	conj:coord	_	Gloss=4.Perf
@@ -642,9 +642,9 @@
 # text_ortho = Shiː Mr Oyakhilome dai yaː musàntà wannàn zàrgîn ,
 # text = shiː Mr Oyakhilome dai yaː musàntà wannàn zàrgîn,
 1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3	5	dislocated@subj	_	Gloss=3Masc.Nom
-2	Mr	Mr	PROPN	_	_	3	mod@appos	_	Gloss=Mr
-3	Oyakhilome	Oyakhilome	PROPN	_	_	1	conj:appos	_	Gloss=Oyakhilome
-4	dai	dai	PART	_	PartType=Top	3	discourse@top	_	Gloss=anyway
+2	Mr	Mr	PROPN	_	_	1	conj:appos	_	Gloss=Mr
+3	Oyakhilome	Oyakhilome	PROPN	_	_	2	new	_	Gloss=Oyakhilome
+4	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
 5	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 6	musàntà	musant-	VERB	_	_	5	comp:aux	_	Gloss=deny
 7	wannàn	nân	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	8	det	_	Gloss=ProxS.Sing
@@ -677,8 +677,8 @@
 1	tòː	tòː	INTJ	_	_	6	discourse	_	Gloss=well
 2	sai	sai	SCONJ	_	_	6	discourse	_	Gloss=except_that
 3	dai	dai	PART	_	PartType=Top	2	discourse@top	_	Gloss=anyway
-4	Mr	Mr	PROPN	_	_	5	mod@appos	_	Gloss=Mr
-5	Oyakhilome	Oyakhilome	PROPN	_	_	6	subj	_	Gloss=Oyakhilome
+4	Mr	Mr	PROPN	_	_	6	subj	_	Gloss=Mr
+5	Oyakhilome	Oyakhilome	PROPN	_	_	4	new	_	Gloss=Oyakhilome
 6	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 7	cêː	cêː	VERB	_	_	6	comp:aux	_	Gloss=say|wordform=cê
 8	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	10	mod	_	Gloss=there_is.Neg
@@ -740,8 +740,8 @@
 14	r̃ubùːtaː	r̃ubuːt-	VERB	_	_	13	comp:aux	_	Gloss=write
 15	matà	matà	PRON	_	Case=Dat|Gender=Fem|Person=3|PronType=Prs	14	comp:obl	_	Gloss=3Fem.Dat
 16	à	à	ADP	_	_	14	mod	_	Gloss=at
-17	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	18	mod@appos	_	Gloss=city.Masc.Cons
-18	Ìkko	Ìkko	PROPN	_	_	16	comp:obj	_	Gloss=Lagos|SpaceAfter=No
+17	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	16	comp:obj	_	Gloss=city.Masc.Cons
+18	Ìkko	Ìkko	PROPN	_	_	17	new	_	Gloss=Lagos|SpaceAfter=No
 19	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 14_Miyagun_kwayoyi_22
@@ -806,8 +806,8 @@
 6	dàgà	dàgà	ADP	_	_	5	comp:obl	_	Gloss=from
 7	bàːkin	bàːkiː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	Gloss=mouth.Masc.Cons
 8	uwargidan	uwargidaː	NOUN	_	Definite=Cons|Gender=Fem	7	mod	_	Gloss=wife.Fem.Cons
-9	Mr	Mr	PROPN	_	_	10	mod@appos	_	Gloss=Mr
-10	Oyakhilome	Oyakhilome	PROPN	_	_	8	mod	_	Gloss=Oyakhilome|SpaceAfter=No
+9	Mr	Mr	PROPN	_	_	8	mod	_	Gloss=Mr
+10	Oyakhilome	Oyakhilome	PROPN	_	_	9	new	_	Gloss=Oyakhilome|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	ìndà	indà	ADV	_	PronType=Rel	5	mod	_	Gloss=where
 13	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	12	mod@relcl	_	Gloss=3Fem.Perf.Rel|Relative=Yes
@@ -823,8 +823,8 @@
 23	tsàkaːnin	tsàkaːnin	ADP	_	_	22	mod	_	Gloss=between
 24	mijìn	mijìː	NOUN	_	Definite=Def|Gender=Masc	23	comp:obj	_	Gloss=husband.Masc.Def
 25	naːtà	naːtà	PRON	_	Case=Gen|Gender=Masc|PronType=Prs	24	mod@poss	_	CaseAf=Gen|GenderAf=Fem|Gloss=Gen.Masc-3FemGen|MSeg=naː-tà|PersonAf=3|Poss=Yes|wordform=naː
-26	dà	dà	CCONJ	_	_	28	cc	_	Gloss=and
-27	Miss	Miss	PROPN	_	_	28	mod@appos	_	Gloss=Miss
-28	Madike	Madike	PROPN	_	_	24	conj:coord	_	Gloss=Madike|SpaceAfter=No
+26	dà	dà	CCONJ	_	_	27	cc	_	Gloss=and
+27	Miss	Miss	PROPN	_	_	24	conj:coord	_	Gloss=Miss
+28	Madike	Madike	PROPN	_	_	27	new	_	Gloss=Madike|SpaceAfter=No
 29	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
