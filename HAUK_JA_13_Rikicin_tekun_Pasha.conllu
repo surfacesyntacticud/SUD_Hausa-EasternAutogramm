@@ -96,7 +96,7 @@
 27	baːyan	baːyaː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:obj	_	Gloss=back.Masc.Cons
 28	shùːgàban	shùːgàbaː	NOUN	_	Definite=Cons|Gender=Masc	27	mod	_	Gloss=leader.Masc.Cons
 29	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	28	mod	_	Gloss=country.Fem.Cons
-30	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	29	new	_	Gloss=Irak|SpaceAfter=No
+30	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	29	mod@appos	_	Gloss=Irak|SpaceAfter=No
 31	,	,	PUNCT	_	_	34	punct	_	Gloss=PUNCT
 32	wàːtòː	wàːtòː	CCONJ	_	_	34	cc	_	Gloss=i.e.
 33	"	"	PUNCT	_	_	34	punct	_	Gloss=PUNCT
@@ -378,7 +378,7 @@
 5	nèː	neː	PART	_	PartType=Foc	2	discourse@foc	_	Gloss=Emph
 6	à	à	ADP	_	_	2	mod	_	Gloss=at
 7	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	Gloss=city.Masc.Cons
-8	Kàtsinà	Kàtsinà	PROPN	_	_	7	new	_	Gloss=Kàtsinà
+8	Kàtsinà	Kàtsinà	PROPN	_	_	7	mod@appos	_	Gloss=Kàtsinà
 9	indà	indà	PRON	_	PronType=Rel	7	mod@relcl	_	Gloss=where
 10	ɗaruːruwàn	ɗàriː	NOUN	_	Definite=Cons|Number=Plur	12	subj	_	Gloss=hundred.Plur.Cons
 11	matàːsaː	matàːshiː	NOUN	_	Number=Plur	10	mod	_	Gloss=youth.Plur
@@ -391,13 +391,13 @@
 18	baːyan	baːyan	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	Gloss=back.Masc.Cons
 19	Shùːgàbaː	shùːgàbaː	NOUN	_	Gender=Masc	18	mod	_	Gloss=president.Masc
 20	"	"	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-21	George	George	PROPN	_	_	19	new	_	Gloss=George
+21	George	George	PROPN	_	_	19	mod@appos	_	Gloss=George
 22	Bush	Bush	PROPN	_	_	21	flat@name	_	Gloss=Bush
 23	"	"	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 24	dà	dà	CCONJ	_	_	26	cc	_	Gloss=and
 25	kuma	kuma	PART	_	PartType=Top	24	discourse@top	_	Gloss=also
 26	Shùːgàbaː	shùːgàbaː	PROPN	_	Gender=Masc	19	conj:coord	_	Gloss=president.Masc
-27	Saddam	Saddam	PROPN	_	_	26	new	_	Gloss=Saddam
+27	Saddam	Saddam	PROPN	_	_	26	mod@appos	_	Gloss=Saddam
 28	Hussein	Hussein	PROPN	_	_	27	flat@name	_	Gloss=Hussein|SpaceAfter=No
 29	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
@@ -423,7 +423,7 @@
 16	zuwàː	zuwàː	ADP	_	_	14	comp:obl	_	Gloss=towards
 17	hàr̃aːbàr̃	hàr̃aːbàː	NOUN	_	Definite=Ind|Gender=Fem	16	comp:obj	_	Gloss=campus.Fem.Cons
 18	Jaːmi'àr̃	jaːmi'àː	NOUN	_	Definite=Cons|Gender=Fem	17	mod	_	Gloss=university.Fem.Cons
-19	Bàyer̃ò	Bàyer̃ò	PROPN	_	_	18	new	_	Gloss=Bàyer̃ò
+19	Bàyer̃ò	Bàyer̃ò	PROPN	_	_	18	mod@appos	_	Gloss=Bàyer̃ò
 20	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	18	mod	_	Gloss=Gen.Fem
 21	Kanòː	Kanòː	PROPN	_	_	20	comp:obj	_	Gloss=Kano|SpaceAfter=No
 22	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
@@ -448,7 +448,7 @@
 41	harìn	harìː	NOUN	_	Definite=Def|Gender=Masc	40	comp:obj	_	Gloss=attack.Masc.Def
 42	dà	dà	SCONJ	_	_	41	mod@relcl	_	Gloss=COMP
 43	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	48	subj	_	Gloss=country.Fem.Cons
-44	Amìr̃kà	Amìr̃kà	PROPN	_	_	43	new	_	Gloss=America
+44	Amìr̃kà	Amìr̃kà	PROPN	_	_	43	mod@appos	_	Gloss=America
 45	dà	dà	CCONJ	_	_	46	cc	_	Gloss=and
 46	àːbòːkan	àːboːkiː	NOUN	_	Definite=Cons|Number=Plur	43	conj:coord	_	Gloss=friend.Plur.Cons
 47	ƙàwàncentà	ƙàwàncen	NOUN	_	Definite=Cons|Gender=Masc	46	mod	_	CaseAf=Gen|GenderAf=Fem|Gloss=coalition.Masc.Cons-3FemGen|MSeg=ƙàwàncen-tà|PersonAf=3|Poss=Yes|wordform=ƙàwàncen
@@ -456,7 +456,7 @@
 49	kai	kai	VERB	_	_	48	comp:aux	_	Gloss=reach/carry_to
 50	wà	mà	ADP	_	Case=Dat	49	comp:obl	_	Gloss=Dat
 51	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	50	comp:obj	_	Gloss=country.Fem.Cons
-52	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	51	new	_	Gloss=Irak|SpaceAfter=No
+52	Ìr̃aːƙì	Ìr̃aːƙì	PROPN	_	_	51	mod@appos	_	Gloss=Irak|SpaceAfter=No
 53	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = 13_Rikicin_tekun_Pasha_13

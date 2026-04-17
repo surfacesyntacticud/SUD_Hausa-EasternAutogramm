@@ -13,7 +13,7 @@
 9	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 10	à	à	ADP	_	_	2	mod	_	Gloss=at
 11	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	10	comp:obj	_	Gloss=country.Fem.Cons
-12	Jàpân	Japan	PROPN	_	_	11	new	_	Gloss=Jàpân
+12	Jàpân	Japan	PROPN	_	_	11	mod@appos	_	Gloss=Jàpân
 
 # sent_id = 09_Salman_Rushdie_2-3
 # text_en = A few days ago, in Iran, they confirmed the death sentence pronounced against Salman Rushdie, that is to say, the author of the book "The Satanic Verses".
@@ -23,7 +23,7 @@
 2	baːya	baːya	ADV	_	_	1	mod	_	Gloss=back
 3	à	à	ADP	_	_	6	mod	_	Gloss=at
 4	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	3	comp:obj	_	Gloss=country.Fem.Cons|wordform=kasar̃
-5	Ir̃àn	Ir̃àn	PROPN	_	_	4	new	_	Gloss=Iran
+5	Ir̃àn	Ir̃àn	PROPN	_	_	4	mod@appos	_	Gloss=Iran
 6	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 7	saːkè	saːk-	VERB	_	_	6	comp:aux	_	Gloss=repeat
 8	jaddàdà	jaddad-	VERB	_	_	7	comp:obj	_	Gloss=confirm
@@ -75,7 +75,7 @@
 7	à	à	ADP	_	_	6	comp:obl	_	Gloss=at
 8	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=city.Masc.Cons
 9	"	"	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-10	Tokyo	Tokyo	PROPN	_	_	8	new	_	Gloss=Tokyo
+10	Tokyo	Tokyo	PROPN	_	_	8	mod@appos	_	Gloss=Tokyo
 11	"	"	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 12	à	à	ADP	_	_	6	comp:obl	_	Gloss=at
 13	kân	kân	ADP	_	_	12	comp:obj	_	Gloss=top
@@ -142,7 +142,7 @@
 34	"	"	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 35	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	11	conj:appos	_	Gloss=child.Masc.Cons
 36	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	35	compound	_	Gloss=country.Fem.Cons|wordform=kasar̃
-37	Ìtaːliyà	Ìtaːliyà	PROPN	_	_	36	new	_	Gloss=Italy|SpaceAfter=No
+37	Ìtaːliyà	Ìtaːliyà	PROPN	_	_	36	mod@appos	_	Gloss=Italy|SpaceAfter=No
 38	,	,	PUNCT	_	_	39	punct	_	Gloss=PUNCT
 39	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	6	dislocated@comp	_	Gloss=3Masc.Perf
 40	kiraːwoː	kiraː	VERB	_	_	39	comp:aux	_	Gloss=call
@@ -503,14 +503,14 @@
 16	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	13	comp:obj	_	Gloss=3Masc.Prog
 17	ƙàunar̃	ƙàunaː	VERB	_	Definite=Cons|Gender=Fem	16	comp:aux	_	Gloss=love.Fem.Cons
 18	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	17	comp:obj	_	Gloss=country.Fem.Cons|wordform=kasar̃
-19	Jàpân	Jàpân	PROPN	_	_	18	new	_	Gloss=Japan|SpaceAfter=No
+19	Jàpân	Jàpân	PROPN	_	_	18	mod@appos	_	Gloss=Japan|SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 21	kuma	kuma	CCONJ	_	_	22	cc	_	Gloss=also
 22	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	16	conj:coord	_	Gloss=3Masc.Perf.Neg
 23	kàmaːtà	kamaːt-	VERB	_	_	22	comp:aux	_	Gloss=be_appropriate
 24	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	28	subj	_	Gloss=3Fem.Nom
 25	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	24	conj:appos	_	Gloss=country.Fem.Cons
-26	Jàpân	Jàpân	PROPN	_	_	25	new	_	Gloss=Japan
+26	Jàpân	Jàpân	PROPN	_	_	25	mod@appos	_	Gloss=Japan
 27	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	25	det	_	Gloss=Def
 28	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	23	comp:obj@agent	_	Gloss=3Fem.Sub
 29	tsoːmà	tsoːm-	VERB	_	_	28	comp:aux	_	Gloss=dip_into
@@ -546,7 +546,7 @@
 19	kùwa	kùwa	PART	_	PartType=Top	18	discourse@top	_	Gloss=in_fact
 20	à	à	ADP	_	_	39	mod	_	Gloss=at
 21	raːnar̃	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	20	comp:obj	_	Gloss=day.Fem.Cons
-22	Lahàdì	Lahàdì	NOUN	_	_	21	new	_	Gloss=Lahàdì
+22	Lahàdì	Lahàdì	NOUN	_	_	21	mod@appos	_	Gloss=Lahàdì
 23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=COMP
 24	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	23	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Yes
 25	wucèː	wut-	VERB	_	_	24	comp:aux	_	Gloss=pass

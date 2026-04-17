@@ -19,9 +19,9 @@
 1	kullum	kullum	ADV	_	_	16	mod	_	Gloss=always
 2	ìdan	ìdan	SCONJ	_	_	16	mod	_	Gloss=if
 3	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	8	subj	_	Gloss=house.Masc.Cons
-4	r̃eːdiyòn	r̃eːdiyòː	NOUN	_	Definite=Cons|Gender=Masc	3	new	_	Gloss=radio.Masc.Cons
+4	r̃eːdiyòn	r̃eːdiyòː	NOUN	_	Definite=Cons|Gender=Masc	3	mod@appos	_	Gloss=radio.Masc.Cons
 5	"	"	PUNCT	_	_	6	punct	_	Gloss=PUNCT
-6	BBC	BBC	PROPN	_	Definite=Cons|Number=Plur	3	new	_	Gloss=BBC|wordform='BBC
+6	BBC	BBC	PROPN	_	Definite=Cons|Number=Plur	3	mod@appos	_	Gloss=BBC|wordform='BBC
 7	"	"	PUNCT	_	_	6	punct	_	Gloss=PUNCT|wordform='
 8	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	2	comp:obj	_	Gloss=3Masc.Fut
 9	gabaːtar̃	gabaːt-	VERB	_	_	8	comp:aux	_	Gloss=present
@@ -146,7 +146,7 @@
 22	can	can	ADV	_	Deixis=Remt|PronType=Dem	19	mod	_	Gloss=Remt
 23	cikin	cikin	ADP	_	_	22	mod	_	Gloss=inside
 24	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	23	comp:obj	_	Gloss=country.Fem.Cons
-25	Kyanadà	Kyanadà	PROPN	_	_	24	new	_	Gloss=Kyanadà|SpaceAfter=No
+25	Kyanadà	Kyanadà	PROPN	_	_	24	mod@appos	_	Gloss=Kyanadà|SpaceAfter=No
 26	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 27	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	29	dislocated@subj	_	Gloss=thing.Masc.Def
 28	bà	bà	PART	_	PartType=Neg|Polarity=Neg	29	mod	_	Gloss=Neg
@@ -247,7 +247,7 @@
 17	"	"	PUNCT	_	_	16	punct	_	Gloss=PUNCT|wordform='
 18	à	à	ADP	_	_	16	mod	_	Gloss=at
 19	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	18	comp:obj	_	Gloss=country.Fem.Cons
-20	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	19	new	_	Gloss=Great-Britain
+20	Bìr̃taːniyà	Bìr̃taːniyà	PROPN	_	_	19	mod@appos	_	Gloss=Great-Britain
 21	ta	ta	ADP	_	_	14	conj:coord	_	Gloss=via
 22	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	23	det	_	Gloss=some.Plur.Spec
 23	wayoːyin	wayàː	NOUN	_	Definite=Cons|Number=Plur	21	comp:obj	_	Gloss=wire.Plur.Cons

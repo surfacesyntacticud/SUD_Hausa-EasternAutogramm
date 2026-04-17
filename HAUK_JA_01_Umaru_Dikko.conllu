@@ -43,10 +43,10 @@
 17	yi	yi	VERB	_	_	16	comp:aux	_	Gloss=do
 18	à	à	ADP	_	_	17	comp:obl	_	Gloss=at
 19	watan	wataː	NOUN	_	Definite=Cons|Gender=Masc	18	comp:obj	_	Gloss=month.Masc.Cons
-20	disambàː	disambàː	NOUN	_	Gender=Fem	19	new	_	Gloss=december.Fem
+20	disambàː	disambàː	NOUN	_	Gender=Fem	19	mod@appos	_	Gloss=december.Fem
 21	na	na	PART	_	Case=Gen|PartType=Case	20	mod	_	Gloss=Gen
 22	shèːkararàr̃	shèːkararàː	NOUN	_	Definite=Cons|Gender=Fem	21	comp:obj	_	Gloss=year.Fem.Cons
-23	alìf	alìf	NUM	_	_	22	new	_	Gloss=one_thousand
+23	alìf	alìf	NUM	_	_	22	mod@appos	_	Gloss=one_thousand
 24	dà	da	CCONJ	_	_	25	cc	_	Gloss=and|wordform=da
 25	ɗàriː	ɗàriː	NUM	_	Gender=Fem	23	conj:coord	_	Gloss=hundred
 26	tar̃à	tar̃à	NUM	_	_	25	flat@num	_	Gloss=nine
@@ -63,7 +63,7 @@
 37	farar̃-hùːlaː	farar̃-hùːlaː	NOUN	_	Number=Plur	36	mod	_	Gloss=civilian.Plur
 38	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	36	mod	_	Gloss=Gen.Fem
 39	Shùːgàbaː	shùːgàbaː	NOUN	_	Gender=Masc	38	comp:obj	_	Gloss=president.Masc
-40	Sheːhù	Sheːhù	PROPN	_	_	39	new	_	Gloss=Sheːhù
+40	Sheːhù	Sheːhù	PROPN	_	_	39	mod@appos	_	Gloss=Sheːhù
 41	Shàːgàːri	Shàːgàːri	PROPN	_	_	40	flat@name	_	Gloss=Shàːgàːri|SpaceAfter=No
 42	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
@@ -83,7 +83,7 @@
 10	shìga	shig-	VERB	_	_	9	comp:aux	_	Gloss=enter
 11	cikin	cikin	ADP	_	_	10	comp:obl	_	Gloss=inside
 12	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	11	comp:obj	_	Gloss=country.Fem.Cons
-13	Bìːni	Bìːni	PROPN	_	_	12	new	_	Gloss=Benin_Republic|SpaceAfter=No
+13	Bìːni	Bìːni	PROPN	_	_	12	mod@appos	_	Gloss=Benin_Republic|SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 15	ƙiːlà	ƙiːlà	ADV	_	_	16	mod	_	Gloss=maybe
 16	baːyan	baːyan	SCONJ	_	_	10	mod	_	Gloss=after
@@ -222,7 +222,7 @@
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 14	gwamnatìn	gwamnatì	NOUN	_	Definite=Cons|Gender=Fem	10	mod	_	Gloss=government.Fem.Cons
 15	tàːr̃ayyàr̃	tàːr̃ayyàː	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	14	mod	_	Gloss=federation.Fem.Cons
-16	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	15	new	_	Gloss=Nigeria|SpaceAfter=No
+16	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	15	mod@appos	_	Gloss=Nigeria|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	Ìkko	Ìkko	PROPN	_	_	14	mod	_	Gloss=Lagos|SpaceAfter=No
 19	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT|SpaceAfter=No
@@ -299,7 +299,7 @@
 # text_ortho = À shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà bìyar̃ nèː kuma wasu ꞌyan ƙasar̃ Ìsr̃aːꞌiːlà suː ukù, dà wani ɗan lèːƙen àsiːr̃ì mùtumìn Nàjeːr̃iyàː, sukà amsà lâifin ƙòːƙarin saːcè Ùːmar̃ù Dikkò.
 1	à	à	ADP	_	_	28	mod	_	Gloss=at
 2	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	1	comp:obj	_	Gloss=year.Fem.Cons
-3	alìf	alìf	NUM	_	_	2	new	_	Gloss=one_thousand
+3	alìf	alìf	NUM	_	_	2	mod@appos	_	Gloss=one_thousand
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=and
 5	ɗàriː	ɗàriː	NUM	_	Gender=Fem	3	conj:coord	_	Gloss=hundred
 6	tar̃à	tar̃à	NUM	_	_	5	flat@num	_	Gloss=nine
@@ -312,7 +312,7 @@
 13	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	14	det	_	Gloss=some.Plur.Spec
 14	ꞌyan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	28	subj	_	Gloss=child.Plur.Cons
 15	ƙasar̃	ƙasaː	VERB	_	Definite=Cons|Gender=Fem	14	compound	_	Gloss=country.Fem.Cons
-16	Ìsr̃aːꞌiːlà	Ìsr̃aːꞌiːlà	PROPN	_	_	15	new	_	Gloss=Israel
+16	Ìsr̃aːꞌiːlà	Ìsr̃aːꞌiːlà	PROPN	_	_	15	mod@appos	_	Gloss=Israel
 17	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	conj:appos	_	Gloss=3Plur.Nom
 18	ukù	ukù	NUM	_	_	17	mod:num	_	Gloss=three|SpaceAfter=No
 19	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
@@ -392,10 +392,10 @@
 1	sai	sai	ADV	_	_	18	mod	_	Gloss=then
 2	à	à	ADP	_	_	18	mod	_	Gloss=at
 3	watàn	watàː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj	_	Gloss=month.Masc.Cons
-4	Jànair̃u	Jànair̃u	NOUN	_	Gender=Masc	3	new	_	Gloss=january.Masc
+4	Jànair̃u	Jànair̃u	NOUN	_	Gender=Masc	3	mod@appos	_	Gloss=january.Masc
 5	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	3	mod	_	Gloss=Gen
 6	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	5	comp:obj	_	Gloss=year.Fem.Cons
-7	alif	àlif	NUM	_	_	6	new	_	Gloss=one_thousand
+7	alif	àlif	NUM	_	_	6	mod@appos	_	Gloss=one_thousand
 8	dà	dà	CCONJ	_	_	9	cc	_	Gloss=and
 9	ɗàriː	ɗàriː	NUM	_	Gender=Fem	7	conj:coord	_	Gloss=hundred
 10	tar̃à	tar̃à	NUM	_	_	9	flat@num	_	Gloss=nine
@@ -615,7 +615,7 @@
 5	Landàn	Landàn	PROPN	_	_	4	conj:appos	_	Gloss=London|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	Mr	Mr	PROPN	_	Definite=Cons|Gender=Fem	11	subj	_	Gloss=Mr
-8	George	George	PROPN	_	_	7	new	_	Gloss=George
+8	George	George	PROPN	_	_	7	mod@appos	_	Gloss=George
 9	Dove-Edwin	Dove-Edwin	PROPN	_	_	8	flat@name	_	Gloss=Dove-Edwin|SpaceAfter=No
 10	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 11	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf

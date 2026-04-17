@@ -3,7 +3,7 @@
 # text = Yàr̃iːmà Charles yaː kai zìyaːr̃àː zuwàː Afìr̃kà ta Yâmma
 # text_ortho = Yàr̃iːmà Charles yaː kai zìyaːr̃àː zuwàː Afìr̃kà ta Yâmma
 1	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	3	subj	_	Gloss=prince.Masc
-2	Charles	Charles	PROPN	_	_	1	new	_	Gloss=Charles
+2	Charles	Charles	PROPN	_	_	1	mod@appos	_	Gloss=Charles
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 4	kai	kai	VERB	_	_	3	comp:aux	_	Gloss=reach/carry_to
 5	zìyaːr̃àː	zìyaːr̃àː	NOUN	_	Gender=Fem	4	comp:obj	_	Gloss=visit.Fem
@@ -80,7 +80,7 @@
 18	dà	dà	CCONJ	_	_	19	cc	_	Gloss=and
 19	agoːgunàn	àgoːgo	NOUN	_	Definite=Cons|Number=Plur	16	conj:coord	_	Gloss=watch.Plur.Cons
 20	"	"	PUNCT	_	_	21	punct	_	Gloss=PUNCT|wordform=‘
-21	Rolex	Rolex	PROPN	_	_	19	new	_	Gloss=Rolex|SpaceAfter=No
+21	Rolex	Rolex	PROPN	_	_	19	mod@appos	_	Gloss=Rolex|SpaceAfter=No
 22	"	"	PUNCT	_	_	21	punct	_	Gloss=PUNCT|wordform=’
 23	na	na	PART	_	Case=Gen|PartType=Case	19	mod	_	Gloss=Gen
 24	jàbu	jàbu	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=counterfeit.Masc
@@ -215,7 +215,7 @@
 5	Fir̃aːyìm	Fir̃aːyìm	PROPN	_	_	11	subj	_	Gloss=Prime
 6	Ministàː	Ministàː	PROPN	_	_	5	flat@name	_	Gloss=Minister
 7	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT|wordform=‘
-8	Margaret	Margaret	PROPN	_	_	5	new	_	Gloss=Margaret
+8	Margaret	Margaret	PROPN	_	_	5	mod@appos	_	Gloss=Margaret
 9	Thatcher	Thatcher	PROPN	_	_	8	flat@name	_	Gloss=Thatcher|SpaceAfter=No
 10	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT|wordform=’
 11	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	4	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Yes
@@ -254,7 +254,7 @@
 10	nèː	neː	AUX	_	_	0	root	_	Copula=Yes|Gloss=be
 11	don	don	SCONJ	_	_	10	dislocated@comp	_	Gloss=in_order_to
 12	Yàr̃iːmà	yàr̃iːmà	NOUN	_	Gender=Masc	16	subj	_	Gloss=prince.Masc
-13	Charles	Charles	PROPN	_	_	12	new	_	Gloss=Charles
+13	Charles	Charles	PROPN	_	_	12	mod@appos	_	Gloss=Charles
 14	dà	dà	CCONJ	_	_	15	cc	_	Gloss=and
 15	Gimbìyaː	gimbìyaː	NOUN	_	Gender=Fem	13	conj:coord	_	Gloss=princess.Fem
 16	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	11	comp:obj	_	Gloss=3Plur.Sub
@@ -289,7 +289,7 @@
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	Gwamnàn	gwamnàn	PROPN	_	Definite=Cons|Gender=Masc	8	subj	_	Gloss=governor.Masc.Cons
 4	Jihàr̃	jihàː	NOUN	_	Definite=Cons|Gender=Fem	3	mod	_	Gloss=state.Fem.Cons
-5	Ànambar̃à	Ànambar̃à	PROPN	_	_	4	new	_	Gloss=Anambra
+5	Ànambar̃à	Ànambar̃à	PROPN	_	_	4	mod@appos	_	Gloss=Anambra
 6	dà	da	CCONJ	_	_	7	cc	_	Gloss=and|wordform=da
 7	uwar̃gidansà	uwar̃gidaː	NOUN	_	Definite=Cons|Gender=Fem	3	conj:coord	_	CaseAf=Gen|GenderAf=Masc|Gloss=wife.Fem.Cons-3MascGen|MSeg=uwar̃gidan-sà|PersonAf=3|Poss=Yes|SpaceAfter=No
 8	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf.Rel|Relative=Yes
@@ -404,7 +404,7 @@
 9	taːshì	taːs-	VERB	_	_	8	comp:aux	_	Gloss=set_off
 10	zuwàː	zuwàː	ADP	_	_	9	comp:obl	_	Gloss=towards
 11	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	10	comp:obj	_	Gloss=country.Fem.Cons
-12	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	11	new	_	Gloss=Cameroon|SpaceAfter=No
+12	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	11	mod@appos	_	Gloss=Cameroon|SpaceAfter=No
 13	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = 02_Yarima_Charles_14
@@ -494,8 +494,8 @@
 20	su	su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	19	comp:obj	_	Gloss=3Plur.Acc
 21	à	à	ADP	_	_	19	comp:obl	_	Gloss=at
 22	gandun	ganduː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:obj	_	Gloss=ranch.Masc.Cons
-23	daːjìn	daːjìː	NOUN	_	Definite=Cons|Gender=Masc	22	new	_	Gloss=bush.Masc.Cons
-24	Korup	Korup	PROPN	_	_	23	new	_	Gloss=Korup|SpaceAfter=No
+23	daːjìn	daːjìː	NOUN	_	Definite=Cons|Gender=Masc	22	mod@appos	_	Gloss=bush.Masc.Cons
+24	Korup	Korup	PROPN	_	_	23	mod@appos	_	Gloss=Korup|SpaceAfter=No
 25	;	;	PUNCT	_	_	28	punct	_	Gloss=PUNCT
 26	hakà	hakà	ADV	_	_	28	mod	_	Gloss=thus
 27	maː	maː	PART	_	PartType=Top	26	discourse@top	_	Gloss=even
