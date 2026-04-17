@@ -55,8 +55,8 @@
 12	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Part	11	compound	_	Gloss=take.Part
 13	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=with
 14	ƙwaːyoːyin	ƙwàːyaː	NOUN	_	Definite=Cons|Number=Plur	13	comp:obj	_	Gloss=virus.Plur.Cons
-15	cùːtar̃	cùːtaː	NOUN	_	Definite=Cons|Gender=Fem	16	mod@appos	_	Gloss=disease.Fem.Cons
-16	AIDS	AIDS	PROPN	_	_	14	mod	_	Gloss=AIDS|SpaceAfter=No
+15	cùːtar̃	cùːtaː	NOUN	_	Definite=Cons|Gender=Fem	14	mod	_	Gloss=disease.Fem.Cons
+16	AIDS	AIDS	PROPN	_	_	15	new	_	Gloss=AIDS|SpaceAfter=No
 17	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 18	tòː	tòː	INTJ	_	_	25	discourse	_	Gloss=well
 19	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	25	subj	_	Gloss=3Masc.Nom
@@ -103,8 +103,8 @@
 25	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	16	comp:obj	_	Gloss=3Masc.Prog
 26	dà	dà	ADP	_	_	25	comp:pred	_	Gloss=with
 27	ƙwaːyoːyin	ƙwàːyaː	NOUN	_	Definite=Cons|Number=Plur	26	comp:obj	_	Gloss=virus.Plur.Cons
-28	cùːtar̃	cùːtaː	NOUN	_	Definite=Cons|Gender=Fem	29	mod@appos	_	Gloss=disease.Fem.Cons
-29	AIDS	AIDS	PROPN	_	_	27	mod	_	Gloss=AIDS
+28	cùːtar̃	cùːtaː	NOUN	_	Definite=Cons|Gender=Fem	27	mod	_	Gloss=disease.Fem.Cons
+29	AIDS	AIDS	PROPN	_	_	28	new	_	Gloss=AIDS
 30	à	à	ADP	_	_	25	mod	_	Gloss=at
 31	jìkinsà	jìkiː	NOUN	_	Definite=Cons|Gender=Masc	30	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=body.Masc.Cons-3MascGen|MSeg=jìkin-sà|PersonAf=3|Poss=Yes|SpaceAfter=No
 32	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
@@ -128,15 +128,15 @@
 1	baːyan	baːyan	ADP	_	_	22	mod	_	Gloss=after
 2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=thus|SpaceAfter=No
 3	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-4	duk	dukà	DET	_	PronType=Tot	7	det	_	Gloss=all
-5	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	7	det	_	Gloss=some.Fem.Spec
-6	irìn	irìː	NOUN	_	_	7	mod@appos	_	Gloss=type_of
-7	taːràːwaː	taːr-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	22	subj	_	Gloss=have_intercourse.Vnoun.Fem
+4	duk	dukà	DET	_	PronType=Tot	6	det	_	Gloss=all
+5	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	6	det	_	Gloss=some.Fem.Spec
+6	irìn	irìː	NOUN	_	_	22	subj	_	Gloss=type_of
+7	taːràːwaː	taːr-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	6	mod	_	Gloss=have_intercourse.Vnoun.Fem
 8	–	–	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 9	wàːtòː	wàːtòː	CCONJ	_	_	10	cc	_	Gloss=i.e.
 10	jìmaːꞌì	jìmaːꞌì	NOUN	_	Gender=Masc	7	conj:dicto	_	Gloss=sexual_intercourse.Masc
 11	-	-	PUNCT	_	_	10	punct	_	Gloss=PUNCT|Poss=Yes
-12	tsàkaːnin	tsàkaːnin	ADP	_	Gender=Masc	10	mod	_	Gloss=between
+12	tsàkaːnin	tsàkaːnin	ADP	_	Gender=Masc	7	mod	_	Gloss=between
 13	màcè	màcè	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=woman.Fem
 14	dà	dà	CCONJ	_	_	15	cc	_	Gloss=and
 15	namijì	namijì	NOUN	_	Gender=Masc	13	conj:coord	_	Gloss=man.Masc
@@ -145,7 +145,7 @@
 18	namijì	namijì	NOUN	_	Gender=Masc	17	comp:obj	_	Gloss=man.Masc
 19	dà	dà	CCONJ	_	_	20	cc	_	Gloss=and
 20	namijì	namijì	NOUN	_	Gender=Masc	18	conj:coord	_	Gloss=man.Masc|SpaceAfter=No
-21	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+21	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 22	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Prog
 23	dà	dà	ADP	_	_	22	comp:pred	_	Gloss=with
 24	haɗàriː	haɗàriː	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=danger.Masc|SpaceAfter=No
@@ -201,8 +201,8 @@
 3	akà	yaː	AUX	_	Aspect=Perf|Person=4	2	mod@relcl	_	Gloss=4.Perf.Rel|Relative=Yes
 4	sanìː	sanìː	VERB	_	_	3	comp:aux	_	Gloss=know|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-6	cùːtar̃	cùːtaː	NOUN	_	Definite=Cons|Gender=Fem	7	mod@appos	_	Gloss=disease.Fem.Cons
-7	AIDS	AIDS	PROPN	_	_	8	dislocated@subj	_	Gloss=AIDS
+6	cùːtar̃	cùːtaː	NOUN	_	Definite=Cons|Gender=Fem	8	dislocated@subj	_	Gloss=disease.Fem.Cons
+7	AIDS	AIDS	PROPN	_	_	6	new	_	Gloss=AIDS
 8	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 9	ta	ta	PRON	_	Case=Acc|Gender=Fem|Person=3|PronType=Prs	8	subj	_	Gloss=3Fem.Acc
 10	dà	dà	ADP	_	_	8	comp:pred	_	Gloss=with
@@ -306,8 +306,8 @@
 3	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	4	subj	_	Gloss=thing.Masc.Def
 4	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	2	comp:cleft	_	Gloss=3Fem.Prog.Rel2|Relative=Variante
 5	à	à	ADP	_	_	4	mod	_	Gloss=at
-6	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	7	mod@appos	_	Gloss=country.Fem.Cons
-7	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	5	comp:obj	_	Gloss=Nigeria
+6	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	5	comp:obj	_	Gloss=country.Fem.Cons
+7	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	6	new	_	Gloss=Nigeria
 8	?	?	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = 04_AIDS_10
@@ -356,14 +356,14 @@
 7	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	6	mod	_	Gloss=health.Fem
 8	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	5	mod	_	Gloss=Gen
 9	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	8	comp:obj	_	Gloss=Nigeria|SpaceAfter=No
-10	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-11	Fàr̃feːsàː	fàr̃feːsàː	NOUN	_	Gender=Masc	12	mod@appos	_	Gloss=professor.Masc
-12	Ransome-Kuti	Ransome-Kuti	PROPN	_	_	5	conj:appos	_	Gloss=Ransome-Kuti|SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
+11	Fàr̃feːsàː	fàr̃feːsàː	NOUN	_	Gender=Masc	5	conj:appos	_	Gloss=professor.Masc
+12	Ransome-Kuti	Ransome-Kuti	PROPN	_	_	11	new	_	Gloss=Ransome-Kuti|SpaceAfter=No
 13	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 14	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 15	cêː	cêː	VERB	_	_	14	comp:aux	_	Gloss=say
-16	cùːtar̃	cùːtaː	NOUN	_	Definite=Cons|Gender=Fem	17	mod@appos	_	Gloss=disease.Fem.Cons
-17	AIDS	AIDS	PROPN	_	_	18	subj	_	Gloss=AIDS
+16	cùːtar̃	cùːtaː	NOUN	_	Definite=Cons|Gender=Fem	18	subj	_	Gloss=disease.Fem.Cons
+17	AIDS	AIDS	PROPN	_	_	16	new	_	Gloss=AIDS
 18	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	15	comp:obj	_	Gloss=3Fem.Perf
 19	kashè	kas-	VERB	_	_	18	comp:aux	_	Gloss=kill
 20	mutàːneː	mùtûm	NOUN	_	Number=Plur	19	comp:obj	_	Gloss=people.Plur
@@ -426,8 +426,8 @@
 6	shùːgàban	shùːgàbaː	NOUN	_	Definite=Cons|Gender=Masc	5	dislocated@comp	_	Gloss=leader.Masc.Cons
 7	kwàmìtî	kwàmìtî	NOUN	_	Definite=Def|Gender=Masc	6	mod	_	Gloss=committee.Masc.Def
 8	kân	kân	ADP	_	_	7	mod	_	Gloss=on
-9	cùːtar̃	cùːtaː	NOUN	_	Definite=Cons|Gender=Fem	10	mod@appos	_	Gloss=disease.Fem.Cons
-10	AIDS	AIDS	PROPN	_	_	8	comp:obj	_	Gloss=AIDS|SpaceAfter=No
+9	cùːtar̃	cùːtaː	NOUN	_	Definite=Cons|Gender=Fem	8	comp:obj	_	Gloss=disease.Fem.Cons
+10	AIDS	AIDS	PROPN	_	_	9	new	_	Gloss=AIDS|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 13	ƙaːràː	ƙaːr-	VERB	_	_	12	comp:aux	_	Gloss=increase
@@ -600,8 +600,8 @@
 24	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	23	comp:obj	_	Gloss=3Plur.Sub
 25	kàːmu	kaːm-	VERB	_	_	24	comp:aux	_	Gloss=catch
 26	dà	dà	ADP	_	_	25	comp:obl	_	Gloss=with
-27	cùːtar̃	cùːtaː	NOUN	_	Definite=Cons|Gender=Fem	28	mod@appos	_	Gloss=disease.Fem.Cons
-28	AIDS	AIDS	PROPN	_	_	26	comp:obj	_	Gloss=AIDS|SpaceAfter=No
+27	cùːtar̃	cùːtaː	NOUN	_	Definite=Cons|Gender=Fem	26	comp:obj	_	Gloss=disease.Fem.Cons
+28	AIDS	AIDS	PROPN	_	_	27	new	_	Gloss=AIDS|SpaceAfter=No
 29	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = 04_AIDS_18

@@ -182,13 +182,13 @@
 1	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	3	det	_	Gloss=some.Masc.Spec
 2	shàhàr̃ar̃r̃en	shàhàr̃ar̃r̃eː	ADJ	_	Definite=Cons|Gender=Masc	3	mod	_	Gloss=famous.Masc.Cons
 3	lauyàː	lauyàː	NOUN	_	Gender=Fem	11	dislocated@comp	_	Gloss=lawyer.Masc
-4	–	–	PUNCT	_	_	7	punct	_	Gloss=PUNCT
-5	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
-6	Chief	Chief	PROPN	_	_	7	mod@appos	_	Gloss=Chief
-7	Gani	Gani	PROPN	_	_	3	conj:appos	_	Gloss=Gani
+4	–	–	PUNCT	_	_	6	punct	_	Gloss=PUNCT
+5	"	"	PUNCT	_	_	6	punct	_	Gloss=PUNCT
+6	Chief	Chief	PROPN	_	_	3	conj:appos	_	Gloss=Chief
+7	Gani	Gani	PROPN	_	_	6	new	_	Gloss=Gani
 8	Fawehinmi	Fawehinmi	PROPN	_	_	7	flat@name	_	Gloss=Fawehinmi|SpaceAfter=No
-9	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
-10	–	–	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+9	"	"	PUNCT	_	_	6	punct	_	Gloss=PUNCT
+10	–	–	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 11	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 12	tsarèː	tsar-	VERB	_	_	11	comp:aux	_	Gloss=imprison
 13	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	12	comp:obj	_	Gloss=3Masc.Acc
@@ -226,8 +226,8 @@
 # text_en = Chief Gani Fawehinmi (G.F.) said yesterday that now the authorities are preparing to bring him to a special court and accuse him of the crime of sabotaging the transfer of power from the military to civilians.
 # text_ortho = Chief Gani Fawehinmi ( G.F. ) yaː faɗìː yâu cêːwaː yànzu hukuːmoːmin ƙasâr̃ sunàː shirìn gur̃faːnar̃ dà shiː à gàban wata koːtù ta mùsammàn tàːre dà zàrginsà dà lâifin yîn ƙafàr̃ àngùlu à shirìn miːƙà mulkìː gà farar̃-hùːlaː dàgà hannun soːjoːjiː.
 # text = Chief Gani Fawehinmi ( G.F. ) yaː faɗìː yâu cêːwaː yànzu hukuːmoːmin ƙasâr̃ sunàː shirìn gur̃faːnar̃ dà shiː à gàban wata koːtù ta mùsammàn tàːre dà zàrgin-sà dà lâifin yîn ƙafàr̃ àngùlu à shirìn miːƙà mulkìː gà farar̃-hùːlaː dàgà hannun soːjoːjiː.
-1	Chief	Chief	PROPN	_	_	2	mod@appos	_	Gloss=Chief
-2	Gani	Gani	PROPN	_	_	7	subj	_	Gloss=Gani
+1	Chief	Chief	PROPN	_	_	7	subj	_	Gloss=Chief
+2	Gani	Gani	PROPN	_	_	1	new	_	Gloss=Gani
 3	Fawehinmi	Fawehinmi	PROPN	_	_	2	flat@name	_	Gloss=Fawehinmi
 4	(	(	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	G.F.	G.F.	PROPN	_	_	2	conj:appos	_	Gloss=G.F.
@@ -351,8 +351,8 @@
 7	har̃	har̃	SCONJ	_	_	6	comp:obj	_	Gloss=even
 8	akà	yaː	AUX	_	Aspect=Perf|Person=4	7	comp:obj	_	Gloss=4.Perf.Rel|Relative=Yes
 9	sàːmi	saːm-	VERB	_	_	8	comp:aux	_	Gloss=get
-10	Chief	Chief	PROPN	_	_	11	mod@appos	_	Gloss=Chief
-11	G.F.	G.F.	PROPN	_	_	9	comp:obj	_	Gloss=G.F.
+10	Chief	Chief	PROPN	_	_	9	comp:obj	_	Gloss=Chief
+11	G.F.	G.F.	PROPN	_	_	10	new	_	Gloss=G.F.
 12	dà	dà	CCONJ	_	_	9	comp:obl	_	Gloss=and
 13	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	14	det	_	Gloss=ProxS.Masc
 14	lâifiː	lâifiː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=crime.Masc|SpaceAfter=No
@@ -378,8 +378,8 @@
 2	dà	dà	SCONJ	_	_	1	unk	_	Gloss=COMP
 3	daɗèːwaː	daɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:obj	_	Gloss=last.Vnoun.Fem
 4	nèː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
-5	Chief	Chief	PROPN	_	_	6	mod@appos	_	Gloss=Chief
-6	G.F.	G.F.	PROPN	_	_	7	subj	_	Gloss=G.F.
+5	Chief	Chief	PROPN	_	_	7	subj	_	Gloss=Chief
+6	G.F.	G.F.	PROPN	_	_	5	new	_	Gloss=G.F.
 7	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 8	zama	zama	VERB	_	_	7	comp:aux	_	Gloss=become
 9	ƙayàː	ƙayàː	NOUN	_	Gender=Fem	8	comp:pred	_	Gloss=thorn.Fem
@@ -399,8 +399,8 @@
 5	làːbàːr̃ai	làːbaːr̃ìː	NOUN	_	Number=Plur	4	comp:obj	_	Gloss=news.Plur
 6	nèː	neː	PART	_	PartType=Foc	4	discourse@foc	_	Gloss=Emph
 7	à	à	ADP	_	_	2	mod	_	Gloss=at
-8	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	9	mod@appos	_	Gloss=year.Fem.Cons
-9	alìf	alìf	NUM	_	_	7	comp:obj	_	Gloss=one_thousand
+8	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	7	comp:obj	_	Gloss=year.Fem.Cons
+9	alìf	alìf	NUM	_	_	8	new	_	Gloss=one_thousand
 10	dà	dà	CCONJ	_	_	11	cc	_	Gloss=and
 11	ɗàːriː	ɗàːriː	NOUN	_	Number=Plur	9	conj:coord	_	Gloss=hundred
 12	tar̃à	tar̃à	NUM	_	_	11	mod:num	_	Gloss=nine
@@ -464,8 +464,8 @@
 1	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	2	det	_	Gloss=ProxS.Sing
 2	yaːƙìn	yaːƙìː	NOUN	_	Definite=Def|Gender=Masc	10	subj	_	Gloss=fight.Masc.Def
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
-4	Chief	Chief	PROPN	_	_	5	mod@appos	_	Gloss=Chief
-5	G.F.	G.F.	PROPN	_	_	6	subj	_	Gloss=G.F.
+4	Chief	Chief	PROPN	_	_	6	subj	_	Gloss=Chief
+5	G.F.	G.F.	PROPN	_	_	4	new	_	Gloss=G.F.
 6	kèː	nàː	AUX	_	Aspect=Prog	3	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
 7	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	Gloss=do.Vnoun.Masc
 8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=with
@@ -504,8 +504,8 @@
 15	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	16	det	_	Gloss=some.Plur.Spec
 16	jàːmìꞌan	jàːmì'iː	NOUN	_	Definite=Cons|Number=Plur	14	comp:obj	_	Gloss=leader.Plur.Cons
 17	tsàron	tsàron	NOUN	_	Definite=Cons|Gender=Masc	16	mod	_	Gloss=security.Masc.Cons
-18	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	19	mod@appos	_	Gloss=country.Fem.Cons
-19	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	17	mod	_	Gloss=Nigeria
+18	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	17	mod	_	Gloss=country.Fem.Cons
+19	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	18	new	_	Gloss=Nigeria
 20	biyu	biyu	NUM	_	_	16	mod:num	_	Gloss=two
 21	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	16	mod@relcl	_	Gloss=REL.Plur
 22	akà	yaː	AUX	_	Aspect=Perf|Person=4	21	comp:obj	_	Gloss=4.Perf.Rel|Relative=Yes
@@ -535,8 +535,8 @@
 46	cikin	cikin	ADP	_	_	45	comp:obj	_	Gloss=inside
 47	wàsiːƙàː	wàsiːƙàː	NOUN	_	Gender=Fem	46	comp:obj	_	Gloss=letter.Fem
 48	tun	tun	ADP	_	_	43	mod	_	Gloss=since
-49	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	50	mod@appos	_	Gloss=year.Fem.Cons
-50	alìf	alìf	NUM	_	_	48	comp:obj	_	Gloss=one_thousand
+49	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	48	comp:obj	_	Gloss=year.Fem.Cons
+50	alìf	alìf	NUM	_	_	49	new	_	Gloss=one_thousand
 51	dà	dà	CCONJ	_	_	52	cc	_	Gloss=and
 52	ɗàriː	ɗàriː	NUM	_	Gender=Fem	50	conj:coord	_	Gloss=hundred
 53	tar̃à	tar̃à	NUM	_	_	52	mod:num	_	Gloss=nine
@@ -552,12 +552,12 @@
 # text = an kaːmè Chief G.F. neː à watàn Yuːnì, wàːtòː loːkàcîn dà yakè cikin shirìn wani tàːroː indà ya yi wà tsaːrìn tattalin ar̃zìkin ƙasar̃ Nàːjeːr̃iyàː tatas.
 1	an	yaː	AUX	_	Aspect=Perf|Person=4	0	root	_	Gloss=4.Perf
 2	kaːmè	kaːm-	VERB	_	_	1	comp:aux	_	Gloss=catch
-3	Chief	Chief	PROPN	_	_	4	mod@appos	_	Gloss=Chief
-4	G.F.	G.F.	PROPN	_	_	2	comp:obj	_	Gloss=G.F.
-5	neː	neː	PART	_	PartType=Foc	4	discourse@foc	_	Gloss=Emph
+3	Chief	Chief	PROPN	_	_	2	comp:obj	_	Gloss=Chief
+4	G.F.	G.F.	PROPN	_	_	3	new	_	Gloss=G.F.
+5	neː	neː	PART	_	PartType=Foc	3	discourse@foc	_	Gloss=Emph
 6	à	à	ADP	_	_	2	mod	_	Gloss=at
-7	watàn	watàː	NOUN	_	Definite=Cons|Gender=Masc	8	mod@appos	_	Gloss=month.Masc.Cons
-8	Yuːnì	Yuːnì	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=June.Masc|SpaceAfter=No
+7	watàn	watàː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	Gloss=month.Masc.Cons
+8	Yuːnì	Yuːnì	NOUN	_	Gender=Masc	7	new	_	Gloss=June.Masc|SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 10	wàːtòː	wàːtòː	CCONJ	_	_	11	cc	_	Gloss=i.e.
 11	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	6	conj:dicto	_	Gloss=time.Masc.Def
@@ -574,8 +574,8 @@
 22	tsaːrìn	tsaːrìː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:obj	_	Gloss=system.Masc.Cons
 23	tattalin	tattaliː	NOUN	_	Definite=Cons|Gender=Masc	22	mod	_	Gloss=planning.Masc.Cons
 24	ar̃zìkin	ar̃zìkiː	NOUN	_	Definite=Cons|Gender=Masc	23	mod	_	Gloss=wealth.Masc.Cons
-25	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	26	mod@appos	_	Gloss=country.Fem.Cons
-26	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	24	mod	_	Gloss=Nigeria
+25	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	24	mod	_	Gloss=country.Fem.Cons
+26	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	25	new	_	Gloss=Nigeria
 27	tatas	tatas	IDEO	_	_	20	comp:pred	_	Gloss=condemnation|SpaceAfter=No
 28	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
@@ -625,8 +625,8 @@
 11	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	5	conj:coord	_	Gloss=3Fem.Sub
 12	gur̃fanar̃	gur̃faːn-	VERB	_	Voice=Cau	11	comp:aux	_	Gloss=take_to_court.Cau
 13	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=with
-14	Chief	Chief	PROPN	_	_	15	mod@appos	_	Gloss=Chief
-15	G.F.	G.F.	PROPN	_	_	13	comp:obj	_	Gloss=G.F.
+14	Chief	Chief	PROPN	_	_	13	comp:obj	_	Gloss=Chief
+15	G.F.	G.F.	PROPN	_	_	14	new	_	Gloss=G.F.
 16	à	à	ADP	_	_	12	comp:obl	_	Gloss=at
 17	gàban	gàban	ADP	_	_	16	comp:obj	_	Gloss=front
 18	shàr̃iꞌàː	shàr̃iꞌàː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=justice.Fem|SpaceAfter=No
