@@ -47,7 +47,7 @@
 13	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	1	conj:coord	_	Gloss=3Fem.Prog|wordform=tanaː
 14	àlfahàr̃iː	àlfahàr̃iː	NOUN	_	Gender=Masc	13	comp:aux	_	Gloss=pride.Masc
 15	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=with
-16	irìn	irìː	NOUN	_	_	15	comp:obj	_	Gloss=type_of
+16	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	Gloss=type_of.Masc.Cons
 17	abuːbuwàn	àbù	NOUN	_	Definite=Def|Number=Plur	16	mod	_	Gloss=thing.Plur.Def
 18	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=COMP
 19	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	18	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Yes
@@ -259,7 +259,7 @@
 7	ƙaːraː	ƙaːraː	NOUN	_	Gender=Fem	5	comp:obj	_	Gloss=complaint.Fem
 8	à	à	ADP	_	_	4	comp:obl	_	Gloss=at
 9	Bàbbar̃	bàbbaː	ADJ	_	Definite=Cons|Gender=Fem	10	mod	_	Gloss=big.Fem.Cons
-10	Koːtùn	koːtù	NOUN	_	Gender=Fem	8	comp:obj	_	Gloss=court.Fem
+10	Koːtùn	koːtù	NOUN	_	Definite=Cons|Gender=Fem	8	comp:obj	_	Gloss=court.Fem.Cons
 11	Ìkko	Ìkko	PROPN	_	_	10	mod	_	Gloss=Lagos
 12	indà	indà	PRON	_	PronType=Rel	10	mod@relcl	_	Gloss=where
 13	sukèː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	12	comp:obj	_	Gloss=3Plur.Prog.Rel|Relative=Yes
@@ -348,7 +348,7 @@
 6	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 7	cêː	cêː	VERB	_	_	6	comp:aux	_	Gloss=say
 8	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	7	comp:obj	_	Gloss=3Masc.Prog|wordform=yanaː
-9	sàːne	sanìː	ADV	_	ExtPos=ADV|VerbForm=Part	8	comp:aux	_	Gloss=know.Stat
+9	sàːne	sanìː	VERB	_	ExtPos=ADV|VerbForm=Part	8	comp:aux	_	Gloss=know.Stat
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with
 11	mutàːneː	mùtûm	NOUN	_	Number=Plur	10	comp:obj	_	Gloss=people.Plur
 12	ɗàriː	ɗàriː	NUM	_	_	11	mod:num	_	Gloss=hundred

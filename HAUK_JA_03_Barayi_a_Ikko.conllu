@@ -219,7 +219,7 @@
 20	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	19	comp:obj	_	Gloss=medicine.Masc
 21	danganèː	danganèː	NOUN	_	ExtPos=ADP|Gender=Masc	19	comp:obl	_	Gloss=relation.Masc|Idiom=Yes
 22	dà	dà	ADP	_	_	21	compound	_	Gloss=with|InIdiom=Yes
-23	irìn	irìː	NOUN	_	_	21	comp:obj	_	Gloss=type_of
+23	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:obj	_	Gloss=type_of.Masc.Cons
 24	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	25	det	_	Gloss=ProxS.Masc
 25	rauniː	rauniː	NOUN	_	Gender=Masc	23	mod	_	Gloss=injury.Masc
 26	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	25	mod	_	Gloss=Gen
@@ -248,7 +248,7 @@
 16	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	26	subj	_	Gloss=quantity.Masc.Cons
 17	fàshe-fàshe	fashìː	NOUN	_	_	16	mod	_	Gloss=robbery
 18	dà	dà	CCONJ	_	_	19	cc	_	Gloss=and
-19	sàːce-sàːcên	saːcìː	NOUN	_	Number=Plur	17	conj:coord	_	Gloss=theft.Plur
+19	sàːce-sàːcên	saːcìː	NOUN	_	Definite=Def|Number=Plur	17	conj:coord	_	Gloss=theft.Plur.Def
 20	dà	dà	SCONJ	_	_	19	mod@relcl	_	Gloss=COMP
 21	akèː	nàː	AUX	_	Aspect=Prog|Person=4	20	comp:obj	_	Gloss=4.Prog.Rel|Relative=Yes
 22	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	21	comp:aux	_	Gloss=do.Vnoun.Masc
@@ -257,7 +257,7 @@
 25	Nàːjeːr̃iyàr̃	Nàːjeːr̃iyàː	PROPN	_	Definite=Def|Gender=Fem	24	comp:obj	_	Gloss=Nigeria.Def
 26	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	15	comp:obj	_	Gloss=3Masc.Perf
 27	fi	fi	VERB	_	_	26	comp:aux	_	Gloss=exceed
-28	irìn	irìː	NOUN	_	_	27	comp:obj	_	Gloss=type_of
+28	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	27	comp:obj	_	Gloss=type_of.Masc.Cons
 29	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	28	mod	_	Gloss=REL.Plur
 30	akà	yaː	AUX	_	Aspect=Perf|Person=4	29	mod@relcl	_	Gloss=4.Perf.Rel|Relative=Yes
 31	yi	yi	VERB	_	_	30	comp:aux	_	Gloss=do

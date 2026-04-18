@@ -309,7 +309,7 @@
 3	maː	maː	PART	_	PartType=Top	2	discourse@top	_	Gloss=even
 4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 5	cêː	cêː	VERB	_	_	4	comp:aux	_	Gloss=say
-6	irìn	irìː	NOUN	_	_	14	subj	_	Gloss=type_of
+6	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	14	subj	_	Gloss=type_of.Masc.Cons
 7	cùnkoːsôn	cùnkoːsoː	NOUN	_	Definite=Def|Gender=Masc	6	mod	_	Gloss=congestion.Masc.Def
 8	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=COMP
 9	kèː	nàː	AUX	_	Aspect=Prog	8	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
@@ -401,7 +401,7 @@
 4	gàba	gàba	ADV	_	_	3	mod	_	Gloss=in_front
 5	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with
 6	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	5	comp:obj	_	Gloss=say.Vnoun.Fem
-7	irìn	irìː	NOUN	_	_	16	subj	_	Gloss=type_of
+7	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	16	subj	_	Gloss=type_of.Masc.Cons
 8	haːlin	haːliː	NOUN	_	Definite=Cons|Gender=Masc	7	mod	_	Gloss=situation.Masc.Cons
 9	kiwòn	kiy-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	mod	_	Gloss=protect.Vnoun.Masc.Cons
 10	laːfiyàː	laːfiyàː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=health.Fem
@@ -730,8 +730,8 @@
 6	cêː	cêː	VERB	_	_	5	comp:aux	_	Gloss=say
 7	koːmeː	koːmeː	PRON	_	Gender=Masc|PronType=Ind	6	comp:obj	_	Gloss=anything.Masc
 8	ba	ba	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	Gloss=Neg
-9	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Part	10	mod	_	Gloss=together
-10	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=with
-11	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	Gloss=report.Masc.Defː|SpaceAfter=No
+9	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Part	6	comp:obl	_	Gloss=gather.Part|Idiom=Yes
+10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with|IndIdiom=Yes
+11	r̃àhoːtòn	r̃àhoːtòː	NOUN	_	Definite=Def|Gender=Masc	9	comp:obj	_	Gloss=report.Masc.Defː|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 

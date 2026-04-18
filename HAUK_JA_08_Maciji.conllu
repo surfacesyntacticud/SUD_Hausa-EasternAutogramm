@@ -244,7 +244,7 @@
 29	ɗaya	ɗaya	NUM	_	_	28	comp:aux	_	Gloss=one
 30	dàgà	dàgà	ADP	_	_	29	mod	_	Gloss=from
 31	cikin	cikin	ADP	_	_	30	comp:obj	_	Gloss=inside
-32	irìn	irìː	NOUN	_	_	31	comp:obj	_	Gloss=type_of
+32	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	31	comp:obj	_	Gloss=type_of.Masc.Cons
 33	màcìːzân	macìːjiː	NOUN	_	Definite=Def|Number=Plur	32	mod	_	Gloss=snake.Plur.Def
 34	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	33	det	_	Gloss=ProxH
 35	nèː	neː	PART	_	PartType=Foc	32	discourse@foc	_	Gloss=Emph
@@ -328,9 +328,9 @@
 6	yi	yi	VERB	_	_	5	comp:aux	_	Gloss=do
 7	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	8	det	_	Gloss=some.Masc.Spec
 8	gàr̃gàɗiː	gàr̃gàɗiː	NOUN	_	Gender=Masc	6	comp:pred	_	Gloss=recommendation.Masc
-9	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Part	10	mod	_	Gloss=together
-10	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with
-11	maːgungunàn	maːgàniː	NOUN	_	Definite=Cons|Number=Plur	10	comp:obj	_	Gloss=medicine.Plur.Cons
+9	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Part	8	comp:obl	_	Gloss=gather.Part|Idiom=Yes
+10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with|IndIdiom=Yes
+11	maːgungunàn	maːgàniː	NOUN	_	Definite=Cons|Number=Plur	9	comp:obj	_	Gloss=medicine.Plur.Cons
 12	kashè	kas-	VERB	_	_	11	compound	_	Gloss=kill
 13	ƙwàːriː	ƙwàːroː	NOUN	_	Number=Plur	12	compound	_	Gloss=insect.Plur
 14	irìː	irìː	NOUN	_	Gender=Masc	11	mod	_	Gloss=type.Masc

@@ -53,7 +53,7 @@
 7	haushiː	haushiː	NOUN	_	Gender=Masc	6	compound	_	Gloss=anger.Masc|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 9	sabòːdà	sabòːdà	ADP	_	_	4	discourse	_	Gloss=because_of
-10	irìn	irìː	NOUN	_	_	9	comp:obj	_	Gloss=type_of
+10	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	9	comp:obj	_	Gloss=type_of.Masc.Cons
 11	wàhalàr̃	wàhalàː	NOUN	_	Definite=Def|Gender=Fem	10	mod	_	Gloss=trouble.Fem.Def
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 13	akàn	kàn	AUX	_	Aspect=Hab|Person=4	12	comp:obj	_	Gloss=4.Hab
@@ -192,7 +192,7 @@
 1	àmmaː	àmmaː	CCONJ	_	_	3	discourse	_	Gloss=but
 2	yànzu	yànzu	ADV	_	_	3	mod	_	Gloss=now
 3	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
-4	irìn	irìː	NOUN	_	_	3	subj	_	Gloss=type_of
+4	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	3	subj	_	Gloss=type_of.Masc.Cons
 5	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	6	det	_	Gloss=ProxS.Fem
 6	wàhalàr̃	wàhalàː	NOUN	_	Definite=Def|Gender=Fem	4	mod	_	Gloss=trouble.Fem.Def|SpaceAfter=No
 7	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -410,7 +410,7 @@
 # text_en = All those detours that are done by telephone calls spoil the lines, and you can't hear yourselves clearly.
 # text = irìn waɗànnân zàːgàːye-zàːgàːyên dà akèː yîː dà wayàr̃ tàr̃hôː yanàː ɓaːtà laːyìː, kuma baː'àː jîn màganàr̃ sòːsai.
 # text_ortho = Irìn waɗànnân zàːgàːye-zàːgàːyên dà akèː yîː dà wayàr̃ tàr̃hôː yanàː ɓaːtà laːyìː, kuma baː àː jîn màganàr̃ sòːsai.
-1	irìn	irìː	NOUN	_	_	10	subj	_	Gloss=type_of
+1	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	10	subj	_	Gloss=type_of.Masc.Cons
 2	waɗànnân	nân	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	3	det	_	Gloss=ProxS.Plur
 3	zàːgàːye-zàːgàːyên	zàːgàːye-zàːgàːye	NOUN	_	Definite=Def|Number=Plur	1	mod	_	Gloss=going_round.Plur.Def
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP

@@ -94,7 +94,7 @@
 21	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	17	parataxis@conj	_	Gloss=3Masc.Perf
 22	yi	yi	VERB	_	_	21	comp:aux	_	Gloss=do
 23	shìgaː	shig-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	22	comp:pred	_	Gloss=enter.VNoun.Fem
-24	irìn	irìː	NOUN	_	_	23	mod	_	Gloss=type_of
+24	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	23	mod	_	Gloss=type_of.Masc.Cons
 25	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	24	mod	_	Gloss=Gen.Fem
 26	fàːdaː	fàːdaː	NOUN	_	Gender=Masc	25	comp:obj	_	Gloss=priest.Masc|SpaceAfter=No
 27	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -481,7 +481,7 @@
 
 # sent_id = 01_Umaru_Dikko_15a
 # text_en = He said that he should be given the status of refugee here in Great-Britain.
-# text = ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà ,
+# text = ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà,
 # text_ortho = Ya cèː shiː yaː càncànci à ɗàukeː shì à matsayin ɗan gudùn hijir̃aː à nân Bìr̃taːniyà, yanà mài cêwaː zâi kasànceː cikin wani mùmmuːnan haɗàr̃iː ìdan ya koːmàː gidaː Nàjeːr̃iyàː.
 1	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 2	cèː	cêː	VERB	_	Gender=Fem	1	comp:aux	_	Gloss=be.Fem
@@ -492,8 +492,8 @@
 7	ɗàukeː	ɗauk-	VERB	_	_	6	comp:aux	_	Gloss=take
 8	shì	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	7	comp:obj	_	Gloss=3Masc.Acc
 9	à	à	ADP	_	_	7	comp:obl	_	Gloss=at
-10	matsayin	matsayiː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=position.Masc
-11	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	Gloss=child.Masc.Cons
+10	matsayin	matsayiː	NOUN	_	Definite=Cons|Gender=Masc	9	comp:obj	_	Gloss=position.Masc.Cons
+11	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	10	mod	_	Gloss=child.Masc.Cons
 12	gudùn	gudùː	NOUN	_	Definite=Cons|Gender=Masc	11	compound	_	Gloss=running.Masc.Cons
 13	hijir̃aː	hijir̃aː	NOUN	_	Gender=Fem	12	mod	_	Gloss=refuge.Fem
 14	à	à	ADP	_	_	7	mod	_	Gloss=at

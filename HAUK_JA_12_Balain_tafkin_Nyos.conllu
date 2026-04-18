@@ -31,7 +31,7 @@
 13	shidà	shidà	NUM	_	_	11	conj:coord	_	Gloss=six
 14	neː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
 15	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	16	det	_	Gloss=some.Fem.Spec
-16	irìn	irìː	NOUN	_	_	27	subj	_	Gloss=type_of
+16	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	27	subj	_	Gloss=type_of.Masc.Cons
 17	iskàː	iskàː	NOUN	_	Gender=Fem	16	mod	_	Gloss=wind.Fem
 18	mài	mài	PART	_	Number=Sing|PartType=Der	17	mod	_	Gloss=owner_of.Sing
 19	gubàː	gubàː	NOUN	_	Gender=Fem	18	compound	_	Gloss=poison.Fem|SpaceAfter=No
@@ -262,7 +262,7 @@
 12	cêːwaː	cêwaː	SCONJ	_	_	11	comp:obj	_	Gloss=COMP|wordform=cêwaː
 13	an	yaː	AUX	_	Aspect=Perf|Person=4	12	comp:obj	_	Gloss=4.Perf
 14	yi	yi	VERB	_	_	13	comp:aux	_	Gloss=do
-15	irìn	irìː	NOUN	_	_	14	comp:obj	_	Gloss=type_of
+15	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:obj	_	Gloss=type_of.Masc.Cons
 16	wannàn	nân	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	17	det	_	Gloss=ProxS.Sing
 17	aman	amai	ADJ	_	Definite=Cons|Gender=Masc	15	mod	_	Gloss=explosion.Masc.Cons
 18	gâs	gâs	NOUN	_	Gender=Masc	17	mod	_	Gloss=gas.Masc
@@ -310,7 +310,7 @@
 5	gaːnoː	gaːn-	VERB	_	_	4	comp:aux	_	Gloss=see
 6	cêːwaː	cêːwaː	SCONJ	_	_	5	comp:obj	_	Gloss=COMP
 7	àkwai	àkwai	PART	_	PartType=Pred	6	comp:obj	_	Gloss=there_is
-8	irìn	irìː	NOUN	_	_	7	subj	_	Gloss=type_of
+8	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	7	subj	_	Gloss=type_of.Masc.Cons
 9	waɗànnân	nân	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	10	det	_	Gloss=ProxS.Plur
 10	tafkunàː	tafkìː	NOUN	_	Number=Plur	8	mod	_	Gloss=lake.Plur
 11	har̃	har̃	ADP	_	_	8	mod	_	Gloss=up_to
@@ -332,7 +332,7 @@
 27	anàː	nàː	AUX	_	Aspect=Prog|Person=4	22	comp:obj	_	Gloss=4.Prog
 28	iyà	iy-	VERB	_	_	27	comp:aux	_	Gloss=be_able_to
 29	saːmùn	saːmùː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	28	comp:obj	_	Gloss=get.Vnoun.Masc.Cons
-30	irìn	irìː	NOUN	_	_	29	comp:obj	_	Gloss=type_of
+30	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	29	comp:obj	_	Gloss=type_of.Masc.Cons
 31	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	32	det	_	Gloss=ProxS.Masc
 32	aman	amai	NOUN	_	Definite=Cons|Gender=Masc	30	mod	_	Gloss=explosion.Masc.Cons
 33	gâs	gâs	NOUN	_	Definite=Cons|Gender=Masc	32	mod	_	Gloss=gas.Masc

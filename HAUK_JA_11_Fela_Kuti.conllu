@@ -184,7 +184,7 @@
 # text = tòː àmmaː irìn mabuːsâr̃ nan mài kàmaː dà algaitàː dà akèː kiràː "saxophone", ita cèː koːwaː ya fi dangàntà kàɗe-kàɗen Fela dà ita.
 1	tòː	tòː	INTJ	_	_	17	discourse	_	Gloss=well
 2	àmmaː	àmmaː	CCONJ	_	_	17	discourse	_	Gloss=but
-3	irìn	irìː	NOUN	_	_	17	dislocated@top	_	Gloss=type_of
+3	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	17	dislocated@top	_	Gloss=type_of.Masc.Cons
 4	mabuːsâr̃	mabuːsaː	NOUN	_	Definite=Def|Gender=Fem	3	mod	_	Gloss=wind_instrument.Fem.Def
 5	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	4	det	_	Gloss=ProxH
 6	mài	mài	PART	_	Number=Sing|PartType=Der	4	mod	_	Gloss=owner_of.Sing
@@ -237,7 +237,7 @@
 21	Dâː	dâː	ADV	_	_	23	mod	_	Gloss=formerly
 22	maː	maː	PART	_	PartType=Top	21	discourse@top	_	Gloss=even
 23	àkwai	àkwai	PART	_	PartType=Pred	18	comp:obj	_	Gloss=there_is
-24	irìn	irìː	NOUN	_	_	23	subj	_	Gloss=type_of
+24	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	23	subj	_	Gloss=type_of.Masc.Cons
 25	wannàn	nân	DET	_	Deixis=ProxS|Gender=Fem|PronType=Dem	26	det	_	Gloss=ProxS.Fem
 26	àlgaitàː	àlgaitàː	NOUN	_	Gender=Fem	24	mod	_	Gloss=oboe_sp.Fem
 27	à	à	ADP	_	_	23	comp:pred	_	Gloss=at
@@ -543,7 +543,7 @@
 7	wajen	wajen	ADP	_	_	3	comp:obl	_	Gloss=about
 8	toːnà	toːn-	VERB	_	_	7	comp:obj	_	Gloss=reveal
 9	àsiːr̃in	àsiːr̃iː	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=secret.Masc.Cons
-10	irìn	irìː	NOUN	_	_	9	mod	_	Gloss=type_of
+10	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	9	mod	_	Gloss=type_of.Masc.Cons
 11	matsaloːlîn	màtsalàː	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	10	mod	_	Gloss=problem.Plur.Def
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 13	ƙasar̃sà	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	15	subj	_	CaseAf=Gen|GenderAf=Masc|Gloss=country.Fem.Cons-3MascGen|MSeg=ƙasar̃-sà|PersonAf=3|Poss=Yes|wordform=ƙasar̃
@@ -731,9 +731,9 @@
 2	reːrà	reːr-	VERB	_	_	1	comp:aux	_	Gloss=compose
 3	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	4	det	_	Gloss=some.Fem.Spec
 4	waːƙàː	waːƙàː	PRON	_	Gender=Fem	2	comp:obj	_	Gloss=song.Fem
-5	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Part	6	mod	_	Gloss=together
-6	dà	dà	ADP	_	_	2	comp:obl	_	Gloss=with
-7	manufoːfin	manufaː	NOUN	_	Definite=Cons|Number=Plur	6	comp:obj	_	Gloss=programme.Plur.Cons
+5	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Part	2	comp:obl	_	Gloss=gather.Part|Idiom=Yes
+6	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=with|IndIdiom=Yes
+7	manufoːfin	manufaː	NOUN	_	Definite=Cons|Number=Plur	5	comp:obj	_	Gloss=programme.Plur.Cons
 8	jàm'iyyàr̃	jàm'iyyàː	NOUN	_	Definite=Def|Gender=Fem	7	mod	_	Gloss=party.Fem.Def
 9	taːsà	taːsà	PRON	_	Case=Gen|Gender=Fem|PronType=Prs	8	mod@poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-sà|PersonAf=3|Poss=Yes|SpaceAfter=No|wordform=taː
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
@@ -867,13 +867,13 @@
 10	shìga	shig-	VERB	_	_	9	comp:aux	_	Gloss=enter
 11	nuːnà	nuːn-	VERB	_	_	10	comp:obj@G	_	Gloss=show
 12	shàʼawàː	shàʼawàː	NOUN	_	Gender=Fem	11	comp:obj	_	Gloss=interest.Fem
-13	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Part	14	mod	_	Gloss=together
-14	dà	dà	ADP	_	_	12	mod	_	Gloss=with
-15	Fela	Fela	PROPN	_	_	14	comp:obj	_	Gloss=Fela|SpaceAfter=No
+13	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Part	12	mod	_	Gloss=gather.Part|Idiom=Yes
+14	dà	dà	ADP	_	_	13	comp:obl	_	Gloss=with|IndIdiom=Yes
+15	Fela	Fela	PROPN	_	_	13	comp:obj	_	Gloss=Fela|SpaceAfter=No
 16	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 17	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	18	comp:pred	_	Gloss=3Masc.Nom
 18	nèː	neː	AUX	_	_	0	root	_	Copula=Yes|Gloss=be
-19	gàme	gàme	ADV	_	ExtPos=ADV|VerbForm=Part	18	dislocated@comp	_	Gloss=together
+19	gàme	gam-	VERB	_	ExtPos=ADV|VerbForm=Part	18	dislocated@comp	_	Gloss=gather.Part
 20	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=with
 21	maːtansà	màːtaː	NOUN	_	Definite=Cons|Number=Plur	20	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=wife.Plur.Cons-3MascGen|MSeg=maːtan-sà|PersonAf=3|Poss=Yes|SpaceAfter=No
 22	na	na	PART	_	Case=Gen|Number=Plur|PartType=Case	21	mod	_	Gloss=Gen

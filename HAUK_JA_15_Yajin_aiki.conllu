@@ -105,7 +105,7 @@
 1	hàɗaɗɗiyar̃	hàɗaɗɗiyeː	ADJ	_	Definite=Cons|Gender=Fem	2	mod	_	Gloss=united.Fem.Cons|wordform=Hadaddiyar
 2	Ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	19	dislocated@top	_	Gloss=union.Fem.Cons|wordform=Kungiyar
 3	'Yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	2	mod	_	Gloss=child.Plur.Cons
-4	Ƙoːdagon	ƙoːdagoː	NOUN	_	Gender=Masc	3	compound	_	Gloss=labour.Masc
+4	Ƙoːdagon	ƙoːdagoː	NOUN	_	Definite=Cons|Gender=Masc	3	compound	_	Gloss=labour.Masc.Cons
 5	Ƙasâr̃	ƙasaː	NOUN	_	Definite=Def|Gender=Fem	3	mod	_	Gloss=country.Fem.Def|SpaceAfter=No|wordform=Kasar
 6	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 7	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	2	mod@relcl	_	Gloss=REL.Fem|wordform=wadda
@@ -140,7 +140,7 @@
 3	Hàɗaɗɗiyar̃	hàɗaɗɗiyeː	ADJ	_	Definite=Cons|Gender=Fem	4	mod	_	Gloss=united.Fem.Cons|wordform=Hadaddiyar
 4	Ƙungìyar̃	ƙungìyaː	NOUN	_	Definite=Cons|Gender=Fem	1	conj:appos	_	Gloss=union.Fem.Cons|wordform=Kungiyar
 5	'Yan	ɗaː	NOUN	_	Definite=Cons|Number=Plur	4	mod	_	Gloss=child.Plur.Cons
-6	Ƙoːdagôn	ƙoːdagoː	NOUN	_	Gender=Masc	5	compound	_	Gloss=labour.Masc
+6	Ƙoːdagôn	ƙoːdagoː	NOUN	_	Definite=Def|Gender=Masc	5	compound	_	Gloss=labour.Masc.Def
 7	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Prog
 8	dàgà	dàgà	ADP	_	ExtPos=ADP	13	mod	_	Gloss=from
 9	kân	kân	ADP	_	_	8	comp:obj	_	Gloss=top_of
@@ -409,7 +409,7 @@
 24	dà	dà	SCONJ	_	_	23	mod@relcl	_	Gloss=COMP
 25	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	24	comp:obj	_	Gloss=3Masc.Fut
 26	tsaːrà	tsaːr-	VERB	_	_	25	comp:aux	_	Gloss=arrange
-27	irìn	irìː	NOUN	_	_	26	comp:obj	_	Gloss=type_of
+27	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	26	comp:obj	_	Gloss=type_of.Masc.Cons
 28	sàuye-sàuyên	sauyìː	NOUN	_	Definite=Def|Number=Plur	27	mod	_	Gloss=change.Plur.Def
 29	dà	dà	SCONJ	_	_	28	mod@relcl	_	Gloss=COMP
 30	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	29	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Yes
