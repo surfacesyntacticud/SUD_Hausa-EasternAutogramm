@@ -100,8 +100,8 @@
 22	yi	yi	VERB	_	_	21	comp:aux	_	Gloss=do
 23	wà	mà	ADP	_	Case=Dat	22	comp:obl	_	Gloss=Dat
 24	àlluːr̃àr̃	àlluːr̃àː	NOUN	_	Definite=Def|Gender=Fem	22	comp:pred	_	Gloss=injection.Fem.Def
-25	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	16	comp:obj	_	Gloss=3Masc.Prog
-26	dà	dà	ADP	_	_	25	comp:pred	_	Gloss=with
+25	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	16	comp:obj	_	Copula=Yes|Gloss=3Masc.Prog
+26	dà	dà	ADP	_	_	25	comp:aux	_	Gloss=with
 27	ƙwaːyoːyin	ƙwàːyaː	NOUN	_	Definite=Cons|Number=Plur	26	comp:obj	_	Gloss=virus.Plur.Cons
 28	cùːtar̃	cùːtaː	NOUN	_	Definite=Cons|Gender=Fem	27	mod	_	Gloss=disease.Fem.Cons
 29	AIDS	AIDS	PROPN	_	_	28	mod@appos	_	Gloss=AIDS
@@ -146,8 +146,8 @@
 19	dà	dà	CCONJ	_	_	20	cc	_	Gloss=and
 20	namijì	namijì	NOUN	_	Gender=Masc	18	conj:coord	_	Gloss=man.Masc|SpaceAfter=No
 21	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
-22	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Prog
-23	dà	dà	ADP	_	_	22	comp:pred	_	Gloss=with
+22	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	Copula=Yes|Gloss=3Fem.Prog
+23	dà	dà	ADP	_	_	22	comp:aux	_	Gloss=with
 24	haɗàriː	haɗàriː	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=danger.Masc|SpaceAfter=No
 25	.	.	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 
@@ -290,8 +290,8 @@
 24	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	26	det	_	Gloss=some.Masc.Spec
 25	bàbban	bàbba	ADJ	_	Definite=Cons|Gender=Masc	26	mod	_	Gloss=big.Masc.Cons
 26	asìbitì	asìbitì	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=hospital.Masc
-27	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	15	comp:obj	_	Gloss=3Plur.Prog
-28	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Part	27	comp:pred	_	Gloss=take.Part
+27	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	15	comp:obj	_	Copula=Yes|Gloss=3Plur.Prog
+28	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Part	27	comp:aux	_	Gloss=take.Part
 29	dà	dà	ADP	_	_	28	comp:obl	_	Gloss=with
 30	ƙwaːyoːyin	ƙwàːyaː	NOUN	_	Definite=Cons|Number=Plur	29	comp:obj	_	Gloss=virus.Plur.Cons
 31	cùːtâr̃	cùːtaː	NOUN	_	Definite=Def|Gender=Fem	30	compound	_	Gloss=disease.Fem.Def|SpaceAfter=No

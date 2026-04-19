@@ -47,8 +47,8 @@
 1	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	2	det	_	Gloss=some.Masc.Spec
 2	loːkàciː	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	4	mod	_	Gloss=time.Masc
 3	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	4	subj	_	Gloss=thing.Masc.Def
-4	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Prog
-5	dà	dà	ADP	_	_	4	comp:pred	_	Gloss=with
+4	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Copula=Yes|Gloss=3Masc.Prog
+5	dà	dà	ADP	_	_	4	comp:aux	_	Gloss=with
 6	ban	baː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:obj	_	Gloss=give
 7	haushiː	haushiː	NOUN	_	Gender=Masc	6	compound	_	Gloss=anger.Masc|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
@@ -344,8 +344,8 @@
 3	har̃kàr̃	har̃kàː	NOUN	_	Definite=Cons|Gender=Fem	6	subj	_	Gloss=matter.Fem.Cons
 4	wayàr̃	wayàː	NOUN	_	Definite=Cons|Gender=Fem	3	mod	_	Gloss=wire.Fem.Cons
 5	tàr̃hôː	tàr̃hôː	NOUN	_	Gender=Masc	4	compound	_	Gloss=telephone.Masc
-6	takè	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	2	comp:cleft	_	Gloss=3Fem.Prog.Rel2|Relative=Variante
-7	à	à	ADP	_	_	6	comp:pred	_	Gloss=at
+6	takè	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	2	comp:cleft	_	Copula=Yes|Gloss=3Fem.Prog.Rel2|Relative=Variante
+7	à	à	ADP	_	_	6	comp:aux	_	Gloss=at
 8	ƙasàːshen	ƙasaː	NOUN	_	Definite=Cons|Number=Plur	7	comp:obj	_	Gloss=country.Plur.Cons
 9	Afìr̃kà	Afìr̃kà	PROPN	_	_	8	mod	_	Gloss=Africa|SpaceAfter=No
 10	?	?	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -358,8 +358,8 @@
 2	Zambìyà	Zambìyà	PROPN	_	_	5	subj	_	Gloss=Zambìyà
 3	dà	dà	CCONJ	_	_	4	cc	_	Gloss=and
 4	Mazàmbîk	Mazàmbîk	PROPN	_	_	2	conj:coord	_	Gloss=Mazàmbîk
-5	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
-6	hannun	hannuː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:pred	_	Gloss=hand.Masc.Cons
+5	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Copula=Yes|Gloss=3Plur.Prog
+6	hannun	hannuː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:aux	_	Gloss=hand.Masc.Cons
 7	rìːgaː	rìːgaː	NOUN	_	Gender=Fem	6	compound	_	Gloss=boubou.Fem
 8	nèː	neː	PART	_	PartType=Foc	6	discourse@foc	_	Gloss=Emph
 9	dà	dà	CCONJ	_	_	6	comp:pred	_	Gloss=and

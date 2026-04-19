@@ -30,8 +30,8 @@
 11	mulkìn	mulkìː	NOUN	_	Definite=Cons|Gender=Masc	10	mod	_	Gloss=rule.Masc.Cons
 12	soːjà	soːjà	NOUN	_	Number=Plur	11	mod	_	Gloss=soldiers.Plur
 13	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=COMP
-14	kèː	nàː	AUX	_	Aspect=Prog	13	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
-15	Afir̃kà	Afir̃kà	PROPN	_	_	14	comp:pred	_	Gloss=Africa|SpaceAfter=No
+14	kèː	nàː	AUX	_	Aspect=Prog	13	comp:obj	_	Copula=Yes|Gloss=Prog.Rel|Relative=Yes
+15	Afir̃kà	Afir̃kà	PROPN	_	_	14	comp:aux	_	Gloss=Africa|SpaceAfter=No
 16	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = 05_Gurfanarwa_da_lauya_3
@@ -131,9 +131,9 @@
 # text_en = They also have the power to keep the man in prison for ever.
 # text_ortho = Tanàː kuma dà iːkòn cîː gàba dà tsarè mùtumìn har̃ sai illaː maː shaː Àllaːhù.
 # text = tanàː kuma dà iːkòn cîː gàba dà tsarè mùtumìn har̃ sai illaː maː shaː Àllaːhù.
-1	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Prog
+1	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	Copula=Yes|Gloss=3Fem.Prog
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
-3	dà	dà	ADP	_	_	1	comp:pred	_	Gloss=with
+3	dà	dà	ADP	_	_	1	comp:aux	_	Gloss=with
 4	iːkòn	iːkòː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=power.Masc.Cons
 5	cîː	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	mod	_	Gloss=proceed.Vnoun.Masc
 6	gàba	gàba	ADV	_	_	5	mod	_	Gloss=in_front
@@ -562,8 +562,8 @@
 10	wàːtòː	wàːtòː	CCONJ	_	_	11	cc	_	Gloss=i.e.
 11	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	6	conj:dicto	_	Gloss=time.Masc.Def
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
-13	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	12	comp:obj	_	Gloss=3Fem.Prog.Rel|Relative=Yes
-14	cikin	cikin	ADP	_	_	13	comp:pred	_	Gloss=inside
+13	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	12	comp:obj	_	Copula=Yes|Gloss=3Fem.Prog.Rel|Relative=Yes
+14	cikin	cikin	ADP	_	_	13	comp:aux	_	Gloss=inside
 15	shirìn	shiry-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:obj	_	Gloss=prepare.Vnoun.Masc.Cons
 16	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	17	det	_	Gloss=some.Masc.Spec
 17	tàːroː	tàːroː	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=meeting.Masc

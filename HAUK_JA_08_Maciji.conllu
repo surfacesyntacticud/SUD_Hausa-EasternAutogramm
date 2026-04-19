@@ -19,8 +19,8 @@
 4	Gboko	Gboko	PROPN	_	_	2	mod@appos	_	Gloss=Gboko
 5	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 6	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=COMP
-7	kèː	nàː	AUX	_	Aspect=Prog	6	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
-8	jihàr̃	jihàr̃	ADP	_	Gender=Fem	7	comp:pred	_	Gloss=state.Fem.Cons
+7	kèː	nàː	AUX	_	Aspect=Prog	6	comp:obj	_	Copula=Yes|Gloss=Prog.Rel|Relative=Yes
+8	jihàr̃	jihàr̃	ADP	_	Gender=Fem	7	comp:aux	_	Gloss=state.Fem.Cons
 9	Binuwài	Binuwài	PROPN	_	_	8	mod@appos	_	Gloss=Benue
 10	can	can	ADV	_	Deixis=Remt|PronType=Dem	7	mod	_	Gloss=Remt
 11	areːwacin	areːwacin	ADP	_	_	10	conj:appos	_	Gloss=north_of
@@ -293,8 +293,8 @@
 5	gà	gà	ADP	_	_	4	comp:obl	_	Gloss=to
 6	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	5	comp:obj	_	Gloss=people.Plur.Def
 7	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=COMP
-8	kèː	nàː	AUX	_	Aspect=Prog	7	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
-9	zàune	zaun-	VERB	_	ExtPos=ADV|VerbForm=Part	8	comp:pred	_	Gloss=stay.Part
+8	kèː	nàː	AUX	_	Aspect=Prog	7	comp:obj	_	Copula=Yes|Gloss=Prog.Rel|Relative=Yes
+9	zàune	zaun-	VERB	_	ExtPos=ADV|VerbForm=Part	8	comp:aux	_	Gloss=stay.Part
 10	à	à	ADP	_	_	9	comp:obl	_	Gloss=at
 11	yankìn	yankìː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	Gloss=area.Masc.Def
 12	dà	dà	SCONJ	_	_	4	comp:obl	_	Gloss=COMP

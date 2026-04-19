@@ -218,7 +218,7 @@
 29	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 30	gàrîn	gàriː	NOUN	_	Definite=Def|Gender=Masc	26	conj:appos	_	Gloss=city.Masc.Def
 31	dà	dà	SCONJ	_	_	30	mod@relcl	_	Gloss=COMP
-32	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	31	comp:obj	_	Gloss=3Fem.Prog.Rel2|Relative=Variante
+32	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	31	comp:obj	_	Copula=Yes|Gloss=3Fem.Prog.Rel2|Relative=Variante
 33	duk	dukà	ADV	_	ExtPos=SCONJ|PronType=Tot	43	mod	_	Gloss=all|Idiom=Yes
 34	dà	dà	ADP	_	_	33	unk	_	Gloss=with|InIdiom=Yes
 35	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	34	unk	_	Gloss=say.Vnoun.Fem|InIdiom=Yes
@@ -229,7 +229,7 @@
 40	,	,	PUNCT	_	_	43	punct	_	Gloss=PUNCT
 41	àmmaː	àmmaː	CCONJ	_	_	43	discourse	_	Gloss=but
 42	Kir̃istoːciː	Kir̃istàː	NOUN	_	Number=Plur	43	subj	_	Gloss=Christian.Plur
-43	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	32	comp:pred	_	Gloss=3Plur.Perf
+43	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	32	comp:aux	_	Gloss=3Plur.Perf
 44	fi	fi	VERB	_	_	43	comp:aux	_	Gloss=exceed
 45	yawàː	yawàː	NOUN	_	Gender=Masc	44	comp:obj	_	Gloss=quantity.Masc
 46	à	à	ADP	_	_	44	mod	_	Gloss=at
@@ -319,8 +319,8 @@
 2	jàːr̃ìːdun	jàːr̃iːdàː	NOUN	_	Definite=Cons|Number=Plur	1	compound	_	Gloss=newspaper.Plur.Cons
 3	Nàjeːr̃iyàː	Nàjeːr̃iyàː	PROPN	_	_	1	mod	_	Gloss=Nigeria
 4	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
-5	kèː	nàː	AUX	_	Aspect=Prog	4	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
-6	Baucîn	Baucîn	PROPN	_	Definite=Def	5	comp:pred	_	Gloss=Bauchi.Def
+5	kèː	nàː	AUX	_	Aspect=Prog	4	comp:obj	_	Copula=Yes|Gloss=Prog.Rel|Relative=Yes
+6	Baucîn	Baucîn	PROPN	_	Definite=Def	5	comp:aux	_	Gloss=Bauchi.Def
 7	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
 8	cêː	cêː	VERB	_	_	7	comp:aux	_	Gloss=say
 9	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	8	comp:obj	_	Gloss=3Plur.Perf

@@ -149,8 +149,8 @@
 15	anàː	nàː	AUX	_	Aspect=Prog|Person=4	5	comp:obj	_	Gloss=4.Prog
 16	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:aux	_	Gloss=hear.Vnoun.Masc.Cons
 17	cêːwaː	cêːwaː	SCONJ	_	_	16	comp:obj	_	Gloss=COMP
-18	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	17	comp:obj	_	Gloss=3Fem.Prog
-19	dà	dà	ADP	_	_	18	comp:pred	_	Gloss=with|wordform=da
+18	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	17	comp:obj	_	Copula=Yes|Gloss=3Fem.Prog
+19	dà	dà	ADP	_	_	18	comp:aux	_	Gloss=with|wordform=da
 20	ƙwàƙƙwaːran	ƙwàƙƙwaːraː	ADJ	_	Definite=Cons|Gender=Masc	21	mod	_	Gloss=strong.Masc
 21	tuːshèː	tuːshèː	NOUN	_	Gender=Masc	19	comp:obj	_	Gloss=foundation.Masc
 22	à	à	ADP	_	_	18	mod	_	Gloss=at
@@ -223,8 +223,8 @@
 15	akèː	nàː	AUX	_	Aspect=Prog|Person=4	13	comp:obj	_	Gloss=4.Prog.Rel|Relative=Yes
 16	jîn	ji	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:aux	_	Gloss=hear.Vnoun.Masc.Cons
 17	cêːwaː	cêːwaː	SCONJ	_	_	16	comp:obj	_	Gloss=COMP
-18	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	17	comp:obj	_	Gloss=3Masc.Prog|wordform=yanaː
-19	Amìr̃kà	Amìr̃kà	PROPN	_	_	18	comp:pred	_	Gloss=America
+18	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	17	comp:obj	_	Copula=Yes|Gloss=3Masc.Prog|wordform=yanaː
+19	Amìr̃kà	Amìr̃kà	PROPN	_	_	18	comp:aux	_	Gloss=America
 20	yànzu	yànzu	ADV	_	_	18	mod	_	Gloss=now|SpaceAfter=No|wordform=yanzu
 21	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
@@ -317,8 +317,8 @@
 36	ɗîn	ɗîn	DET	_	Definite=Def	34	det	_	Gloss=Def|SpaceAfter=No
 37	,	,	PUNCT	_	_	38	punct	_	Gloss=PUNCT
 38	wàddà	wandà	PRON	_	Gender=Fem|PronType=Rel	34	mod@relcl	_	Gloss=REL.Fem|wordform=wadda
-39	takè	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	38	comp:obj	_	Gloss=3Fem.Prog.Rel|Relative=Yes
-40	à	à	ADP	_	_	39	comp:pred	_	Gloss=at
+39	takè	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	38	comp:obj	_	Copula=Yes|Gloss=3Fem.Prog.Rel|Relative=Yes
+40	à	à	ADP	_	_	39	comp:aux	_	Gloss=at
 41	nànnàɗe	nannaɗ-	VERB	_	ExtPos=ADV|Number=Plur|VerbForm=Part	40	comp:pred	_	Gloss=tie.Plur.Part
 42	cikin	cikin	ADP	_	_	41	mod	_	Gloss=inside
 43	r̃oːbàː	r̃oːbàː	NOUN	_	Gender=Masc	42	comp:obj	_	Gloss=condom.Masc
@@ -404,8 +404,8 @@
 12	cikin	cikin	ADP	_	_	11	comp:obj	_	Gloss=inside
 13	cikìn	cikìː	NOUN	_	Definite=Cons|Gender=Masc	12	comp:obj	_	Gloss=belly.Masc.Cons
 14	wàɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	13	mod	_	Gloss=REL.Plur|wordform=wadandal
-15	kèː	nàː	AUX	_	Aspect=Prog	14	mod@relcl	_	Gloss=Prog.Rel|Relative=Yes
-16	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Part	15	comp:pred	_	Gloss=take.Part
+15	kèː	nàː	AUX	_	Aspect=Prog	14	mod@relcl	_	Copula=Yes|Gloss=Prog.Rel|Relative=Yes
+16	ɗàuke	ɗauk-	VERB	_	ExtPos=ADV|VerbForm=Part	15	comp:aux	_	Gloss=take.Part
 17	dà	dà	CCONJ	_	_	16	comp:obl	_	Gloss=and|wordform=da
 18	ƙwaːyoːyîn	ƙwàːyaː	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	17	comp:obj	_	Gloss=drug.Plur.Def|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
@@ -561,8 +561,8 @@
 11	à	à	ADP	_	_	14	mod	_	Gloss=at
 12	haːlin	haːliː	NOUN	_	Definite=Cons	11	comp:obj	_	Gloss=situation.Masc.Cons
 13	yànzu	yànzu	ADV	_	_	12	mod	_	Gloss=now
-14	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Prog
-15	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	14	comp:pred	_	Gloss=ProxH
+14	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Copula=Yes|Gloss=3Masc.Prog
+15	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	14	comp:aux	_	Gloss=ProxH
 16	tsùndum	tsùndum	IDEO	_	_	17	mod	_	Gloss=deep
 17	à	à	ADP	_	_	14	comp:obl	_	Gloss=at
 18	cikin	cikin	ADP	_	_	17	comp:obj	_	Gloss=inside
@@ -655,8 +655,8 @@
 # text_en = He said that it was just some big drug dealers slandering him.
 # text_ortho = yanàː mài cêːwaː mânyan màːsu fataucìn miyàːgun ƙwaːyoːyiː nèː kawài sukà ɓaːtà suːnansà .
 # text = yanàː mài cêːwaː mânyan màːsu fataucìn miyàːgun ƙwaːyoːyiː nèː kawài sukà ɓaːtà suːnansà .
-1	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Prog
-2	mài	mài	PART	_	Number=Sing|PartType=Der	1	comp:pred	_	Gloss=owner_of.Sing
+1	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Copula=Yes|Gloss=3Masc.Prog
+2	mài	mài	PART	_	Number=Sing|PartType=Der	1	comp:aux	_	Gloss=owner_of.Sing
 3	cêːwaː	cê	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	compound	_	Gloss=say.Vnoun.Fem|wordform=cêwaː
 4	mânyan	bàbba	ADJ	_	Definite=Cons|Number=Plur	5	mod	_	Gloss=big.Plur.Cons
 5	màːsu	mài	PART	_	Number=Plur|PartType=Der	3	comp:obj	_	Gloss=owner/doer_of.Plur
@@ -683,8 +683,8 @@
 7	cêː	cêː	VERB	_	_	6	comp:aux	_	Gloss=say|wordform=cê
 8	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	10	mod	_	Gloss=there_is.Neg
 9	shakkàː	shakkàː	NOUN	_	Gender=Fem	8	subj	_	Gloss=doubt.Fem
-10	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	7	comp:obj	_	Gloss=3Masc.Prog
-11	dà	dà	ADP	_	_	10	comp:pred	_	Gloss=with
+10	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	7	comp:obj	_	Copula=Yes|Gloss=3Masc.Prog
+11	dà	dà	ADP	_	_	10	comp:aux	_	Gloss=with
 12	dàngàntakàr̃	dàngàntakàː	NOUN	_	Definite=Def|Gender=Fem	11	comp:obj	_	Gloss=relationship.Fem.Def
 13	ƙut	ƙut	IDEO	_	_	12	mod	_	Gloss=intimate
 14	dà	dà	CCONJ	_	_	15	cc	_	Gloss=and

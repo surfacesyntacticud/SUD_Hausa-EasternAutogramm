@@ -63,8 +63,8 @@
 1	yâːraː	yaːròː	NOUN	_	Number=Plur	31	dislocated@subj	_	Gloss=child.Plur
 2	ƙanaːnàː	ƙàramiː	ADJ	_	Number=Plur	1	mod	_	Gloss=small.Plur
 3	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
-4	kèː	nàː	AUX	_	Aspect=Prog	3	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
-5	kân	kân	ADP	_	_	4	comp:pred	_	Gloss=on
+4	kèː	nàː	AUX	_	Aspect=Prog	3	comp:obj	_	Copula=Yes|Gloss=Prog.Rel|Relative=Yes
+5	kân	kân	ADP	_	_	4	comp:aux	_	Gloss=on
 6	gadoːjiː	gadàː	NOUN	_	Number=Plur	5	comp:obj	_	Gloss=bridge.Plur
 7	na	na	PART	_	Case=Gen|Number=Plur|PartType=Case	6	mod	_	Gloss=Gen
 8	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=city.Masc.Cons
@@ -124,8 +124,8 @@
 11	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	9	comp:obj	_	Gloss=house.Masc.Cons
 12	gwamnatì	gwamnatì	NOUN	_	Gender=Fem	11	mod	_	Gloss=government.Fem
 13	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
-14	kèː	nàː	AUX	_	Aspect=Prog	13	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
-15	Ìkko	Ìkko	PROPN	_	_	14	comp:pred	_	Gloss=Lagos|SpaceAfter=No
+14	kèː	nàː	AUX	_	Aspect=Prog	13	comp:obj	_	Copula=Yes|Gloss=Prog.Rel|Relative=Yes
+15	Ìkko	Ìkko	PROPN	_	_	14	comp:aux	_	Gloss=Lagos|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 17	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	11	mod@relcl	_	Gloss=REL.Masc
 18	à	à	ADP	_	_	21	mod	_	Gloss=at
@@ -146,16 +146,16 @@
 # text = gidân nàː gab dà bàːkin tèːku kuma har̃ yànzu yanàː dà ban shàꞌawàː dà haskàkâːwaː duk dà gyàːre-gyàːren zaːmàniː dà akà yi masà loːkàcîn dà Nàːjeːr̃iyàː takèː cìke dà ar̃zìkin mân feːtùr̃.
 # text_ortho = Gidân nàː gab dà bàːkin tèːku kuma har̃ yànzu yanàː dà ban shàꞌawàː da haskàkâːwaː duk dà gyàːre-gyàːren zaːmàniː dà akà yi masà loːkàcîn dà Nàːjeːr̃iyàː takèː cìke dà ar̃zìkin mân feːtùr̃.
 1	gidân	gidaː	NOUN	_	Definite=Def|Gender=Masc	2	subj	_	Gloss=house.Masc.Def
-2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog
-3	gab	gab	IDEO	_	ExtPos=ADP	2	comp:pred	_	Gloss=close|Idiom=Yes
+2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Copula=Yes|Gloss=Prog
+3	gab	gab	IDEO	_	ExtPos=ADP	2	comp:aux	_	Gloss=close|Idiom=Yes
 4	dà	dà	ADP	_	_	3	compound	_	Gloss=with|InIdiom=Yes
 5	bàːkin	bàːkiː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=shore.Masc.Cons
 6	tèːku	tèːku	NOUN	_	Gender=Fem	5	compound	_	Gloss=sea.Fem
 7	kuma	kuma	CCONJ	_	_	10	cc	_	Gloss=also
 8	har̃	har̃	ADP	_	_	10	mod	_	Gloss=up_to
 9	yànzu	yànzu	ADV	_	_	8	comp:obj	_	Gloss=now
-10	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	2	conj:coord	_	Gloss=3Masc.Prog
-11	dà	dà	ADP	_	_	10	comp:pred	_	Gloss=with
+10	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	2	conj:coord	_	Copula=Yes|Gloss=3Masc.Prog
+11	dà	dà	ADP	_	_	10	comp:aux	_	Gloss=with
 12	ban	baː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:obj	_	Gloss=give
 13	shàꞌawàː	shàꞌawàː	NOUN	_	Gender=Fem	12	compound	_	Gloss=interest.Fem
 14	dà	da	CCONJ	_	_	15	cc	_	Gloss=and|wordform=da
@@ -192,8 +192,8 @@
 7	daːɗin	daːɗiː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	Gloss=pleasure.Masc.Cons
 8	ràːyuwaː	ràːyuwaː	NOUN	_	Gender=Fem	7	mod	_	Gloss=life.Fem
 9	dà	dà	SCONJ	_	_	5	mod@relcl	_	Gloss=COMP
-10	kèː	nàː	AUX	_	Aspect=Prog	9	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
-11	cikin	cikin	ADP	_	_	10	comp:pred	_	Gloss=inside
+10	kèː	nàː	AUX	_	Aspect=Prog	9	comp:obj	_	Copula=Yes|Gloss=Prog.Rel|Relative=Yes
+11	cikin	cikin	ADP	_	_	10	comp:aux	_	Gloss=inside
 12	gidân	gidaː	NOUN	_	Definite=Def|Gender=Masc	11	comp:obj	_	Gloss=house.Masc.Def
 13	kèː	nàː	AUX	_	Aspect=Prog	5	comp:cleft	_	Gloss=Prog.Rel|Relative=Yes
 14	aikìː	aikìː	NOUN	_	Gender=Masc	13	comp:aux	_	Gloss=work.Masc
@@ -462,8 +462,8 @@
 7	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:obj	_	Gloss=type_of.Masc.Cons
 8	gadàː	gadàː	NOUN	_	Gender=Fem	7	mod	_	Gloss=bridge.Fem
 9	waddà	wandà	PRON	_	Gender=Fem|PronType=Rel	7	mod@relcl	_	Gloss=REL.Fem
-10	kèː	nàː	AUX	_	Aspect=Prog	9	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
-11	reːtòː	rētòː	NOUN	_	Gender=Masc	10	comp:pred	_	Gloss=hanging.Masc
+10	kèː	nàː	AUX	_	Aspect=Prog	9	comp:obj	_	Copula=Yes|Gloss=Prog.Rel|Relative=Yes
+11	reːtòː	rētòː	NOUN	_	Gender=Masc	10	comp:aux	_	Gloss=hanging.Masc
 12	dàgà	dàgà	ADP	_	_	11	comp:obl	_	Gloss=from
 13	samà	samà	ADV	_	_	12	comp:obj	_	Gloss=above|SpaceAfter=No
 14	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -484,8 +484,8 @@
 10	jinsunàn	jinsìː	NOUN	_	Definite=Def|Number=Plur	9	mod	_	Gloss=species.Plur.Def
 11	birân	birìː	NOUN	_	Definite=Def|Number=Plur	10	mod	_	Gloss=monkey.Plur.Def
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
-13	akè	nàː	AUX	_	Aspect=Prog|Person=4	12	comp:obj	_	Gloss=4.Prog.Rel2|Relative=Variante
-14	dà	dà	ADP	_	_	13	comp:pred	_	Gloss=with
+13	akè	nàː	AUX	_	Aspect=Prog|Person=4	12	comp:obj	_	Copula=Yes|Gloss=4.Prog.Rel2|Relative=Variante
+14	dà	dà	ADP	_	_	13	comp:aux	_	Gloss=with
 15	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	comp:obj	_	Gloss=3Plur.Nom
 16	à	à	ADP	_	_	13	mod	_	Gloss=at
 17	Afìr̃kà	Afìr̃kà	PROPN	_	_	16	comp:obj	_	Gloss=Africa

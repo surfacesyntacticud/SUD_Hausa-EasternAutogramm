@@ -514,8 +514,8 @@
 10	Surulere	Surulere	PROPN	_	_	8	mod@appos	_	Gloss=Surulere
 11	"	"	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 12	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=COMP
-13	kèː	nàː	AUX	_	Aspect=Prog	12	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
-14	baːyan	baːyan	ADP	_	_	13	comp:pred	_	Gloss=after
+13	kèː	nàː	AUX	_	Aspect=Prog	12	comp:obj	_	Copula=Yes|Gloss=Prog.Rel|Relative=Yes
+14	baːyan	baːyan	ADP	_	_	13	comp:aux	_	Gloss=after
 15	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:obj	_	Gloss=city.Masc.Cons
 16	Ìkko	Ìkko	PROPN	_	_	15	mod@appos	_	Gloss=Lagos|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
@@ -600,8 +600,8 @@
 30	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	29	mod	_	Gloss=house.Masc.Cons
 31	Fela	Fela	PROPN	_	_	30	mod	_	Gloss=Fela
 32	dà	dà	SCONJ	_	_	30	mod@relcl	_	Gloss=COMP
-33	kèː	nàː	AUX	_	Aspect=Prog	32	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
-34	Ìkko	Ìkko	PROPN	_	_	33	comp:pred	_	Gloss=Lagos|SpaceAfter=No|wordform=Ikko
+33	kèː	nàː	AUX	_	Aspect=Prog	32	comp:obj	_	Copula=Yes|Gloss=Prog.Rel|Relative=Yes
+34	Ìkko	Ìkko	PROPN	_	_	33	comp:aux	_	Gloss=Lagos|SpaceAfter=No|wordform=Ikko
 35	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
 # sent_id = 11_Fela_Kuti_20

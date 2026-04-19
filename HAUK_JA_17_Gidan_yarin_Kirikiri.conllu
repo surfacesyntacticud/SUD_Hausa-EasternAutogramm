@@ -37,8 +37,8 @@
 25	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 26	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	18	mod@relcl	_	Gloss=REL.Masc
 27	kuma	kuma	PART	_	PartType=Top	26	discourse@top	_	Gloss=also
-28	kèː	nàː	AUX	_	Aspect=Prog	26	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
-29	can	can	ADV	_	Deixis=Remt|PronType=Dem	28	comp:pred	_	Gloss=Remt
+28	kèː	nàː	AUX	_	Aspect=Prog	26	comp:obj	_	Copula=Yes|Gloss=Prog.Rel|Relative=Yes
+29	can	can	ADV	_	Deixis=Remt|PronType=Dem	28	comp:aux	_	Gloss=Remt
 30	bir̃nin	bir̃niː	NOUN	_	Definite=Cons|Gender=Masc	29	conj:appos	_	Gloss=city.Masc.Cons
 31	Ìkko	Ìkko	PROPN	_	_	30	mod@appos	_	Gloss=Lagos|SpaceAfter=No|wordform=Ikko
 32	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
@@ -117,8 +117,8 @@
 4	cùnkoːson	cùnkoːsoː	NOUN	_	Definite=Cons|Gender=Masc	12	subj	_	Gloss=congestion.Masc.Cons
 5	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	4	mod	_	Gloss=people.Plur.Def
 6	dà	dà	SCONJ	_	_	5	mod@relcl	_	Gloss=COMP
-7	kèː	nàː	AUX	_	Aspect=Prog	6	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
-8	cikin	cikin	ADP	_	_	7	comp:pred	_	Gloss=inside
+7	kèː	nàː	AUX	_	Aspect=Prog	6	comp:obj	_	Copula=Yes|Gloss=Prog.Rel|Relative=Yes
+8	cikin	cikin	ADP	_	_	7	comp:aux	_	Gloss=inside
 9	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=house.Masc.Cons
 10	fur̃sùnàn	fur̃sùnàː	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	9	compound	_	Gloss=warder.Masc.Cons
 11	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	9	mod@appos	_	Gloss=Kirikiri
@@ -312,8 +312,8 @@
 6	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	14	subj	_	Gloss=type_of.Masc.Cons
 7	cùnkoːsôn	cùnkoːsoː	NOUN	_	Definite=Def|Gender=Masc	6	mod	_	Gloss=congestion.Masc.Def
 8	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=COMP
-9	kèː	nàː	AUX	_	Aspect=Prog	8	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
-10	àkwai	àkwai	PART	_	PartType=Pred	9	comp:pred	_	Gloss=there_is
+9	kèː	nàː	AUX	_	Aspect=Prog	8	comp:obj	_	Copula=Yes|Gloss=Prog.Rel|Relative=Yes
+10	àkwai	àkwai	PART	_	PartType=Pred	9	comp:aux	_	Gloss=there_is
 11	à	à	ADP	_	_	10	comp:pred	_	Gloss=at
 12	kûr̃kukùn	kûr̃kukùː	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	Gloss=prison.Masc.Cons
 13	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	12	mod@appos	_	Gloss=Kirikiri
@@ -336,8 +336,8 @@
 30	cikin	cikin	ADP	_	_	29	comp:obj	_	Gloss=inside
 31	tsàràrrûn	tsàrarreː	NOUN	_	Definite=Def|Number=Plur	30	comp:obj	_	Gloss=prisoner.Plur.Def
 32	dà	dà	SCONJ	_	_	31	mod@relcl	_	Gloss=COMP
-33	kèː	nàː	AUX	_	Aspect=Prog|Person=2	32	comp:obj	_	Gloss=Prog.Rel|Relative=Variante
-34	dà	dà	ADP	_	_	33	comp:pred	_	Gloss=with
+33	kèː	nàː	AUX	_	Aspect=Prog|Person=2	32	comp:obj	_	Copula=Yes|Gloss=Prog.Rel|Relative=Variante
+34	dà	dà	ADP	_	_	33	comp:aux	_	Gloss=with
 35	gaːliːhù	gaːliːhù	NOUN	_	Gender=Masc	34	comp:obj	_	Gloss=privilege.Masc|SpaceAfter=No
 36	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
@@ -410,8 +410,8 @@
 13	tsabtàː	tsabtàː	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=hygiene.Fem
 14	à	à	ADP	_	_	7	mod	_	Gloss=at
 15	kûr̃kukùn	kûr̃kukùː	NOUN	_	Definite=Def|Gender=Masc	14	comp:obj	_	Gloss=prison.Masc.Def
-16	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	6	comp:obj	_	Gloss=3Masc.Prog
-17	dà	dà	ADP	_	_	16	comp:pred	_	Gloss=with
+16	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	6	comp:obj	_	Copula=Yes|Gloss=3Masc.Prog
+17	dà	dà	ADP	_	_	16	comp:aux	_	Gloss=with
 18	haɗàr̃iː	haɗàr̃iː	NOUN	_	Gender=Masc	17	comp:obj	_	Gloss=danger.Masc|SpaceAfter=No
 19	;	;	PUNCT	_	_	36	punct	_	Gloss=PUNCT
 20	wàːtòː	wàːtòː	CCONJ	_	_	36	cc	_	Gloss=i.e.
@@ -430,8 +430,8 @@
 33	ìsasshen	ìsassheː	ADJ	_	Definite=Cons|Gender=Masc	34	mod	_	Gloss=sufficient.Masc
 34	hasken	haskeː	NOUN	_	Definite=Cons|Gender=Masc	32	comp:obj	_	Gloss=light.Masc
 35	làntar̃kìː	làntar̃kìː	NOUN	_	Definite=Cons|Gender=Masc	34	mod	_	Gloss=lamp.Masc
-36	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	16	conj:dicto	_	Gloss=3Masc.Prog|wordform=yanaː
-37	sànàdiyyàr̃	sànàdiyyàː	NOUN	_	Definite=Cons|Gender=Fem	36	comp:pred	_	Gloss=cause.Fem.Cons
+36	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	16	conj:dicto	_	Copula=Yes|Gloss=3Masc.Prog|wordform=yanaː
+37	sànàdiyyàr̃	sànàdiyyàː	NOUN	_	Definite=Cons|Gender=Fem	36	comp:aux	_	Gloss=cause.Fem.Cons
 38	bàːzuwar̃	baːz-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	37	mod	_	Gloss=spread.Vnoun.Fem.Cons|wordform=baːzuwar
 39	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	40	det	_	Gloss=some.Plur.Spec
 40	ƙwaːyoːyin	ƙwàːya:	NOUN	_	Definite=Cons|Number=Plur	38	comp:obj	_	Gloss=grain.Plur.Cons
@@ -680,8 +680,8 @@
 2	cèː	cêː	VERB	_	Gender=Fem	1	comp:aux	_	Gloss=be.Fem
 3	haːlîn	haːlîː	NOUN	_	Definite=Def|Gender=Masc	10	subj	_	Gloss=situation.Masc.Def
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
-5	akè	nàː	AUX	_	Aspect=Prog|Person=4	4	comp:obj	_	Gloss=4.Prog.Rel2|Relative=Variante
-6	ciki	ciki	ADV	_	_	5	comp:pred	_	Gloss=inside
+5	akè	nàː	AUX	_	Aspect=Prog|Person=4	4	comp:obj	_	Copula=Yes|Gloss=4.Prog.Rel2|Relative=Variante
+6	ciki	ciki	ADV	_	_	5	comp:aux	_	Gloss=inside
 7	à	à	ADP	_	_	5	mod	_	Gloss=at
 8	kûr̃kukùn	kûr̃kukùː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=prison.Masc.Cons
 9	Ƙìr̃iƙìr̃i	Ƙìr̃iƙìr̃i	PROPN	_	_	8	mod@appos	_	Gloss=KiriKiri

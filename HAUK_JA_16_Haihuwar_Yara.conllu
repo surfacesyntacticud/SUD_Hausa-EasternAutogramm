@@ -47,8 +47,8 @@
 31	kuma	kuma	PART	_	PartType=Top	30	discourse@top	_	Gloss=also
 32	maː	maː	PART	_	PartType=Top	31	discourse@top	_	Gloss=even
 33	tun	tun	SCONJ	_	_	24	conj:coord	_	Gloss=since
-34	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	33	comp:obj	_	Gloss=3Plur.Prog
-35	dà	dà	ADP	_	_	34	comp:pred	_	Gloss=with
+34	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	33	comp:obj	_	Copula=Yes|Gloss=3Plur.Prog
+35	dà	dà	ADP	_	_	34	comp:aux	_	Gloss=with
 36	cikìː	cikìː	NOUN	_	Gender=Masc	35	comp:obj	_	Gloss=pregnancy.Masc|SpaceAfter=No
 37	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
@@ -184,8 +184,8 @@
 10	à	à	ADP	_	_	9	mod	_	Gloss=at
 11	yàːyîn	yàːyiː	ADV	_	PronType=Rel	10	comp:obj	_	Gloss=when
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
-13	sukèː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	12	comp:obj	_	Gloss=3Plur.Prog.Rel|Relative=Yes
-14	ƙòƙarin	ƙòƙariː	NOUN	_	Definite=Cons|Gender=Masc	13	comp:pred	_	Gloss=trying.Masc.Cons
+13	sukèː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	12	comp:obj	_	Copula=Yes|Gloss=3Plur.Prog.Rel|Relative=Yes
+14	ƙòƙarin	ƙòƙariː	NOUN	_	Definite=Cons|Gender=Masc	13	comp:aux	_	Gloss=trying.Masc.Cons
 15	zamaː	zama	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	mod	_	Gloss=become.Vnoun.Masc
 16	iyàːyeː	uwaː	NOUN	_	Number=Plur	15	comp:pred	_	Gloss=mother.Plur
 17	à	à	ADP	_	_	9	mod	_	Gloss=at
@@ -261,8 +261,8 @@
 18	à	à	ADP	_	_	17	comp:obl	_	Gloss=at
 19	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	18	comp:obj	_	Gloss=time.Masc.Def
 20	dà	dà	SCONJ	_	_	19	mod@relcl	_	Gloss=COMP|wordform=da
-21	sukè	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	20	comp:obj	_	Gloss=2Plur.Prog.Rel|Relative=Variante
-22	dà	dà	ADP	_	_	21	comp:pred	_	Gloss=with
+21	sukè	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	20	comp:obj	_	Copula=Yes|Gloss=2Plur.Prog.Rel|Relative=Variante
+22	dà	dà	ADP	_	_	21	comp:aux	_	Gloss=with
 23	juːnaː	juːnaː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=each_other.Masc
 24	biyu	biyu	NUM	_	_	23	compound	_	Gloss=two|SpaceAfter=No
 25	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
@@ -322,15 +322,15 @@
 26	à	à	ADP	_	_	29	mod	_	Gloss=at
 27	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	26	comp:obj	_	Gloss=time.Masc.Def|wordform=loːkacin
 28	màigida	màigida	NOUN	_	Gender=Masc	29	subj	_	Gloss=husband.Masc
-29	baːyàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	10	conj:coord	_	Gloss=3Masc.Prog.Neg
-30	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	29	comp:pred	_	Gloss=ProxH|SpaceAfter=No
+29	baːyàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	10	conj:coord	_	Copula=Yes|Gloss=3Masc.Prog.Neg
+30	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	29	comp:aux	_	Gloss=ProxH|SpaceAfter=No
 31	,	,	PUNCT	_	_	38	punct	_	Gloss=PUNCT
 32	koː	koː	CCONJ	_	_	38	cc	_	Gloss=or
 33	kuma	kuma	PART	_	PartType=Top	32	discourse@top	_	Gloss=also
 34	koː	koː	SCONJ	_	_	38	mod	_	Gloss=even_if
 35	dàː	dàː	SCONJ	_	_	34	comp:obj	_	Gloss=Counterfactual
-36	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	35	comp:obj	_	Gloss=3Masc.Prog
-37	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	36	comp:pred	_	Gloss=ProxH
+36	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	35	comp:obj	_	Copula=Yes|Gloss=3Masc.Prog
+37	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	36	comp:aux	_	Gloss=ProxH
 38	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	29	conj:coord	_	Gloss=3Masc.Perf.Neg
 39	baː	baː	VERB	_	_	38	comp:aux	_	Gloss=give
 40	dà	dà	ADP	_	_	39	comp:obl	_	Gloss=with
@@ -385,8 +385,8 @@
 16	à	à	ADP	_	_	22	mod	_	Gloss=at
 17	haːlîn	haːlîː	NOUN	_	Definite=Def|Gender=Masc	16	comp:obj	_	Gloss=situation.Masc.Def
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=COMP
-19	akè	nàː	AUX	_	Aspect=Prog|Person=4	18	comp:obj	_	Gloss=4.Prog.Rel2|Relative=Variante
-20	ciki	ciki	ADV	_	_	19	comp:pred	_	Gloss=inside
+19	akè	nàː	AUX	_	Aspect=Prog|Person=4	18	comp:obj	_	Copula=Yes|Gloss=4.Prog.Rel2|Relative=Variante
+20	ciki	ciki	ADV	_	_	19	comp:aux	_	Gloss=inside
 21	yànzu	yànzu	ADV	_	_	19	mod	_	Gloss=now|wordform=yanzu
 22	an	yaː	AUX	_	Aspect=Perf|Person=4	7	conj:coord	_	Gloss=4.Perf
 23	waːtsar̃	waːts-	VERB	_	Voice=Cau	22	comp:aux	_	Gloss=throw_away.Cau
@@ -411,8 +411,8 @@
 # text = Nàːjeːr̃iyàː dai tanàː dà kàmar̃ kashìː goːmà shâː bìyar̃ dàgà cikin ɗàriː na yawàn iyàːyeː maːtaː waɗàndà sukèː mutuwàː dàgà cikin iyàːyeː maːtaː na duːniyàː;
 1	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	3	subj	_	Gloss=Nigeria
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=anyway
-3	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Prog
-4	dà	dà	ADP	_	_	3	comp:pred	_	Gloss=with
+3	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	Copula=Yes|Gloss=3Fem.Prog
+4	dà	dà	ADP	_	_	3	comp:aux	_	Gloss=with
 5	kàmar̃	kàmar̃	ADP	_	_	4	comp:obj	_	Gloss=like
 6	kashìː	kashìː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=portion.Masc
 7	goːmà	goːmà	NUM	_	_	6	mod:num	_	Gloss=ten
@@ -462,8 +462,8 @@
 20	yawàn	yawàn	ADJ	_	Definite=Cons|Gender=Masc	19	comp:obj	_	Gloss=quantity.Masc.Cons
 21	mutàːnên	mùtûm	NOUN	_	Definite=Def|Number=Plur	20	comp:obj	_	Gloss=people.Plur.Def
 22	dà	dà	SCONJ	_	_	21	mod@relcl	_	Gloss=COMP
-23	akè	nàː	AUX	_	Aspect=Prog|Person=4	22	comp:obj	_	Gloss=4.Prog.Rel2|Relative=Variante
-24	dà	dà	ADP	_	_	23	comp:pred	_	Gloss=with
+23	akè	nàː	AUX	_	Aspect=Prog|Person=4	22	comp:obj	_	Copula=Yes|Gloss=4.Prog.Rel2|Relative=Variante
+24	dà	dà	ADP	_	_	23	comp:aux	_	Gloss=with
 25	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	24	comp:obj	_	Gloss=3Plur.Nom
 26	à	à	ADP	_	_	23	mod	_	Gloss=at
 27	duk	dukà	DET	_	PronType=Tot	28	det	_	Gloss=all

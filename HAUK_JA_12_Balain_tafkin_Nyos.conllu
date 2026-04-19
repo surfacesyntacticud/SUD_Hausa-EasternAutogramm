@@ -144,8 +144,8 @@
 2	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	3	det	_	Gloss=some.Masc.Spec
 3	ƙauyèː	ƙauyèː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=village.Masc
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
-5	kèː	nàː	AUX	_	Aspect=Prog|Person=2	4	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
-6	kusa	kusa	ADV	_	_	5	comp:pred	_	Gloss=close
+5	kèː	nàː	AUX	_	Aspect=Prog|Person=2	4	comp:obj	_	Copula=Yes|Gloss=Prog.Rel|Relative=Yes
+6	kusa	kusa	ADV	_	_	5	comp:aux	_	Gloss=close
 7	dà	dà	ADP	_	_	6	mod	_	Gloss=with
 8	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	7	comp:obj	_	Gloss=river.Masc.Def
 9	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also|SpaceAfter=No
@@ -218,8 +218,8 @@
 2	wannàn	nân	PRON	_	Deixis=ProxS|Number=Sing|PronType=Dem	3	subj	_	Gloss=ProxS.Sing
 3	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 4	sâː	sâː	VERB	_	_	3	comp:aux	_	Gloss=cause
-5	anàː	nàː	AUX	_	Aspect=Prog|Person=4	4	comp:obj	_	Gloss=4.Prog
-6	dà	dà	ADP	_	_	5	comp:pred	_	Gloss=with
+5	anàː	nàː	AUX	_	Aspect=Prog|Person=4	4	comp:obj	_	Copula=Yes|Gloss=4.Prog
+6	dà	dà	ADP	_	_	5	comp:aux	_	Gloss=with
 7	'yar̃	ɗan	ADJ	_	Definite=Cons|Gender=Fem	8	mod	_	Gloss=small.Fem.Cons|wordform=yar
 8	shakkàː	shakkàː	NOUN	_	Gender=Fem	6	comp:obj	_	Gloss=doubt.Fem
 9	à	à	ADP	_	_	8	mod	_	Gloss=at
@@ -358,8 +358,8 @@
 11	famfòn	famfòː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:pred	_	Gloss=pumping.Masc.Cons
 12	ruwân	ruwaː	NOUN	_	Definite=Def|Gender=Masc	11	comp:obj	_	Gloss=water.Masc.Def
 13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
-14	kèː	nàː	AUX	_	Aspect=Prog	13	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
-15	dà	dà	ADP	_	_	14	comp:pred	_	Gloss=with
+14	kèː	nàː	AUX	_	Aspect=Prog	13	comp:obj	_	Copula=Yes|Gloss=Prog.Rel|Relative=Yes
+15	dà	dà	ADP	_	_	14	comp:aux	_	Gloss=with
 16	carbon	carbon	X	_	Foreign=Yes	15	comp:obj	_	Gloss=carbon|Lang=en
 17	dioxide	dioxide	X	_	Foreign=Yes	16	flat@foreign	_	Gloss=dioxide|Lang=en
 18	dàgà	dàgà	ADP	_	_	11	comp:obl	_	Gloss=from
