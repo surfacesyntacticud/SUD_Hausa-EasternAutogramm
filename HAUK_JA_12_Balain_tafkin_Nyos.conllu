@@ -17,7 +17,7 @@
 # text_ortho = À watàn Àgustàː na shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà neː wata irìn iskàː mài gubàː, wàːtòː " carbon dioxide" , ta riƙà fìtaː dàgà Tafkìn Nyos ƙasar̃ Kàmàr̃u har̃ ta yi sànàdiyyàr̃ mutuwàr̃ mutàːneː kàmar̃ dubuː dà ɗàriː bakwài.
 # text = à watàn Àgustàː na shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà neː wata irìn iskàː mài gubàː, wàːtòː " carbon dioxide" , ta riƙà fìtaː dàgà Tafkìn Nyos ƙasar̃ Kàmàr̃u har̃ ta yi sànàdiyyàr̃ mutuwàr̃ mutàːneː kàmar̃ dubuː dà ɗàriː bakwài.
 1	à	à	ADP	_	_	27	mod	_	Gloss=at
-2	watàn	watàː	NOUN	_	Definite=Cons|Gender=Masc	1	comp:obj	_	Gloss=month.Masc.Cons
+2	watàn	watàː	NOUN	_	Definite=Cons|Gender=Masc	1	comp	_	Gloss=month.Masc.Cons
 3	Àgustàː	Àgustàː	PROPN	_	Gender=Masc	2	mod@appos	_	Gloss=august.Masc
 4	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	2	mod	_	Gloss=Gen
 5	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	4	comp:obj	_	Gloss=year.Fem.Cons
@@ -46,18 +46,18 @@
 28	riƙà	riƙ-	VERB	_	_	27	comp:aux	_	Gloss=keep_doing
 29	fìtaː	fìtaː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	28	comp:obj	_	Gloss=go_out.Vnoun.Fem
 30	dàgà	dàgà	ADP	_	_	29	comp:obl	_	Gloss=from
-31	Tafkìn	tafkìː	NOUN	_	Definite=Cons|Gender=Masc	30	comp:obj	_	Gloss=river.Masc.Cons|wordform=Tar̃kin
+31	Tafkìn	tafkìː	NOUN	_	Definite=Cons|Gender=Masc	30	comp	_	Gloss=river.Masc.Cons|wordform=Tar̃kin
 32	Nyos	Nyos	PROPN	_	_	31	mod	_	Gloss=Nyos
 33	ƙasar̃	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	31	mod	_	Gloss=country.Fem.Cons
 34	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	33	mod@appos	_	Gloss=Cameroon
 35	har̃	har̃	SCONJ	_	_	28	mod	_	Gloss=so_that
-36	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	35	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Yes
+36	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	35	comp	_	Gloss=3Fem.Perf.Rel|Relative=Yes
 37	yi	yi	VERB	_	_	36	comp:aux	_	Gloss=do
 38	sànàdiyyàr̃	sànàdiyyàː	NOUN	_	Definite=Cons|Gender=Fem	37	comp:pred	_	Gloss=cause.Fem.Cons
 39	mutuwàr̃	mutuwàː	NOUN	_	Definite=Cons|Gender=Fem	38	mod	_	Gloss=death.Fem.Cons|wordform=mutawar
 40	mutàːneː	mùtûm	NOUN	_	Number=Plur	39	mod	_	Gloss=people.Plur|wordform=mutâne
 41	kàmar̃	kàmar̃	ADP	_	_	40	mod	_	Gloss=like
-42	dubuː	dubuː	NOUN	_	Gender=Fem	41	comp:obj	_	Gloss=thousand.Fem
+42	dubuː	dubuː	NOUN	_	Gender=Fem	41	comp	_	Gloss=thousand.Fem
 43	dà	dà	CCONJ	_	_	44	cc	_	Gloss=and
 44	ɗàriː	ɗàriː	NUM	_	Gender=Fem	42	conj:coord	_	Gloss=hundred
 45	bakwài	bakwài	NUM	_	_	44	mod:num	_	Gloss=seven|SpaceAfter=No
@@ -69,7 +69,7 @@
 # text = àbîn dà ya fàːru shiː nèː hakà kawài tafkìn ya bur̃tsoː dà wajen tân dubuː shidà na iskàr̃ ta carbon dioxide , har̃ ya jaːwoː ruwaː tân dubuː mèːtan ya yi àmbaːliyàː.
 1	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	6	subj	_	Gloss=thing.Masc.Def|wordform=Abin
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=COMP
-3	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	2	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
+3	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	2	comp	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 4	fàːru	faːr-	VERB	_	_	3	comp:aux	_	Gloss=begin
 5	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	comp:pred	_	Gloss=3Masc.Nom
 6	nèː	neː	AUX	_	_	0	root	_	Copula=Yes|Gloss=be
@@ -79,8 +79,8 @@
 10	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	6	dislocated@comp	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 11	bur̃tsoː	bur̃ts-	VERB	_	_	10	comp:aux	_	Gloss=blow
 12	dà	dà	ADP	_	_	11	comp:obl	_	Gloss=with
-13	wajen	wajen	ADP	_	_	12	comp:obj	_	Gloss=about
-14	tân	tân	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=ton
+13	wajen	wajen	ADP	_	_	12	comp	_	Gloss=about
+14	tân	tân	NOUN	_	Gender=Masc	13	comp	_	Gloss=ton
 15	dubuː	dubuː	NUM	_	_	14	mod:num	_	Gloss=thousand
 16	shidà	shidà	NUM	_	_	15	flat@num	_	Gloss=six
 17	na	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	14	mod	_	Gloss=Gen
@@ -90,7 +90,7 @@
 21	dioxide	dioxide	X	_	Foreign=Yes	20	flat@foreign	_	Gloss=dioxide|Lang=en
 22	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 23	har̃	har̃	SCONJ	_	_	11	mod	_	Gloss=so_that
-24	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	23	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
+24	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	23	comp	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 25	jaːwoː	jaː	VERB	_	_	24	comp:aux	_	Gloss=cause
 26	ruwaː	ruwaː	NOUN	_	Gender=Masc	30	comp:obj	_	Gloss=water.Masc
 27	tân	tân	NOUN	_	Definite=Cons|Gender=Masc	26	mod	_	Gloss=ton.Masc
@@ -110,25 +110,25 @@
 3	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 4	zama	zama	VERB	_	_	3	comp:aux	_	Gloss=become
 5	kàmar̃	kàmar̃	ADP	_	_	4	comp:pred	_	Gloss=like
-6	hazoː	hazoː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=mist.Masc|SpaceAfter=No
+6	hazoː	hazoː	NOUN	_	Gender=Masc	5	comp	_	Gloss=mist.Masc|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 8	hàɗe	haɗ-	VERB	_	ExtPos=ADV|VerbForm=Part	6	mod	_	Gloss=group.Part
 9	kuma	kuma	PART	_	PartType=Top	8	discourse@top	_	Gloss=also
 10	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with
-11	iskàr̃	iskàː	NOUN	_	Definite=Def|Gender=Fem	10	comp:obj	_	Gloss=gas.Fem.Def|SpaceAfter=No
+11	iskàr̃	iskàː	NOUN	_	Definite=Def|Gender=Fem	10	comp	_	Gloss=gas.Fem.Def|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	akà	yaː	AUX	_	Aspect=Perf|Person=4	3	parataxis@conj	_	Gloss=4.Perf.Rel|Relative=Yes
 14	hankàɗaː	hankaɗ-	VERB	_	_	13	comp:aux	_	Gloss=push
 15	su	su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	comp:obj	_	Gloss=3Plur.Acc
 16	ta	ta	ADP	_	_	14	comp:obl	_	Gloss=via
-17	indà	indà	ADV	_	PronType=Rel	16	comp:obj	_	Gloss=where
+17	indà	indà	ADV	_	PronType=Rel	16	comp	_	Gloss=where
 18	ruwan	ruwaː	NOUN	_	Definite=Cons|Gender=Masc	20	subj	_	Gloss=water.Masc.Cons
 19	kòːgiː	kòːgiː	NOUN	_	Gender=Masc	18	mod	_	Gloss=river.Masc
 20	yakèː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	17	mod@relcl	_	Gloss=3Fem.Prog.Rel|Relative=Yes
 21	bîː	bi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	20	comp:aux	_	Gloss=follow.Vnoun.Masc
 22	zuwàː	zuwàː	ADP	_	_	14	comp:obl	_	Gloss=towards
-23	cikin	cikin	ADP	_	_	22	comp:obj	_	Gloss=inside
-24	kwarìː	kwarìː	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=valley.Masc
+23	cikin	cikin	ADP	_	_	22	comp	_	Gloss=inside
+24	kwarìː	kwarìː	NOUN	_	Gender=Masc	23	comp	_	Gloss=valley.Masc
 25	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	13	parataxis@conj	_	Gloss=3Plur.Perf.Rel|Relative=Yes
 26	shìga	shig-	VERB	_	_	25	comp:aux	_	Gloss=enter
 27	ƙauyukàː	ƙauyèː	NOUN	_	Number=Plur	26	comp:obj@G	_	Gloss=village.Plur
@@ -142,12 +142,12 @@
 # text = à wani ƙauyèː dà kèː kusa dà tafkìn kuma, sai duk mutàːnen cikinsà sukà mutù, in bandà mùtûm bìyar̃ kawài.
 1	à	à	ADP	_	_	15	mod	_	Gloss=at|wordform=A
 2	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	3	det	_	Gloss=some.Masc.Spec
-3	ƙauyèː	ƙauyèː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=village.Masc
+3	ƙauyèː	ƙauyèː	NOUN	_	Gender=Masc	1	comp	_	Gloss=village.Masc
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
-5	kèː	nàː	AUX	_	Aspect=Prog|Person=2	4	comp:obj	_	Copula=Yes|Gloss=Prog.Rel|Relative=Yes
+5	kèː	nàː	AUX	_	Aspect=Prog|Person=2	4	comp	_	Copula=Yes|Gloss=Prog.Rel|Relative=Yes
 6	kusa	kusa	ADV	_	_	5	comp:aux	_	Gloss=close
 7	dà	dà	ADP	_	_	6	mod	_	Gloss=with
-8	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	7	comp:obj	_	Gloss=river.Masc.Def
+8	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	7	comp	_	Gloss=river.Masc.Def
 9	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also|SpaceAfter=No
 10	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 11	sai	sai	ADV	_	_	15	mod	_	Gloss=then
@@ -158,8 +158,8 @@
 16	mutù	mutù	VERB	_	_	15	comp:aux	_	Gloss=die|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	in	in	SCONJ	_	_	16	mod	_	Gloss=if
-19	bandà	bandà	ADP	_	_	18	comp:obj	_	Gloss=apart_from
-20	mùtûm	mùtûm	NOUN	_	Gender=Masc	19	comp:obj	_	Gloss=man.Masc
+19	bandà	bandà	ADP	_	_	18	comp	_	Gloss=apart_from
+20	mùtûm	mùtûm	NOUN	_	Gender=Masc	19	comp	_	Gloss=man.Masc
 21	bìyar̃	bìyar̃	NUM	_	_	20	mod:num	_	Gloss=five|wordform=biyar
 22	kawài	kawài	ADV	_	_	20	mod	_	Gloss=merely|SpaceAfter=No
 23	.	.	PUNCT	_	_	15	punct	_	Gloss=PUNCT
@@ -189,7 +189,7 @@
 4	bàsù	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Polarity=Neg	0	root	_	Gloss=3Plur.Perf.Neg
 5	baː	baː	VERB	_	_	4	comp:aux	_	Gloss=give
 6	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=with
-7	bàyaːnìn	bàyaːnìː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj	_	Gloss=explanation.Masc.Cons
+7	bàyaːnìn	bàyaːnìː	NOUN	_	Definite=Cons|Gender=Masc	6	comp	_	Gloss=explanation.Masc.Cons
 8	yaddà	yaddà	ADV	_	PronType=Rel	7	comp:obj	_	Gloss=how
 9	jikunkunàn	jìkiː	NOUN	_	Definite=Cons|Number=Plur	13	subj	_	Gloss=body.Plur.Cons
 10	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	9	mod@relcl	_	Gloss=REL.Plur
@@ -207,7 +207,7 @@
 22	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	18	comp:pred	_	Gloss=ProxH
 23	duk	dukà	ADV	_	PronType=Tot	24	mod	_	Gloss=all
 24	à	à	ADP	_	_	18	comp:obl	_	Gloss=at
-25	sàːle	saːl-	VERB	_	ExtPos=ADV|VerbForm=Part	24	comp:obj	_	Gloss=blister.Part|SpaceAfter=No
+25	sàːle	saːl-	VERB	_	ExtPos=ADV|VerbForm=Part	24	comp	_	Gloss=blister.Part|SpaceAfter=No
 26	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_8
@@ -221,26 +221,26 @@
 5	anàː	nàː	AUX	_	Aspect=Prog|Person=4	4	comp:obj	_	Copula=Yes|Gloss=4.Prog
 6	dà	dà	ADP	_	_	5	comp:aux	_	Gloss=with
 7	'yar̃	ɗan	ADJ	_	Definite=Cons|Gender=Fem	8	mod	_	Gloss=small.Fem.Cons|wordform=yar
-8	shakkàː	shakkàː	NOUN	_	Gender=Fem	6	comp:obj	_	Gloss=doubt.Fem
+8	shakkàː	shakkàː	NOUN	_	Gender=Fem	6	comp	_	Gloss=doubt.Fem
 9	à	à	ADP	_	_	8	mod	_	Gloss=at
-10	kân	kân	ADP	_	_	9	comp:obj	_	Gloss=top
-11	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	Gloss=thing.Masc.Def
+10	kân	kân	ADP	_	_	9	comp	_	Gloss=top
+11	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	10	comp	_	Gloss=thing.Masc.Def
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=COMP
 13	bìncìkên	bìncìkeː	NOUN	_	Definite=Def|Gender=Masc	15	subj	_	Gloss=investigation.Masc.Def
 14	naːsù	naːsù	PRON	_	Case=Gen|Gender=Masc|PronType=Prs	13	mod@poss	_	CaseAf=Gen|Gloss=Gen.Masc-3PlurGen|MSeg=naː-sù|NumberAf=Plur|PersonAf=3|Poss=Yes|wordform=naː
-15	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	12	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
+15	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	12	comp	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 16	gaːnoː	gaːn-	VERB	_	_	15	comp:aux	_	Gloss=discover|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	cêːwar̃	cêːwaː	SCONJ	_	_	16	comp:obj	_	Gloss=COMP
 19	iskàr̃	iskàː	NOUN	_	Definite=Def|Gender=Fem	27	subj	_	Gloss=gas.Fem.Def
 20	dà	dà	SCONJ	_	_	19	mod@relcl	_	Gloss=COMP
-21	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	20	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Yes
+21	ta	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	20	comp	_	Gloss=3Fem.Perf.Rel|Relative=Yes
 22	yiwoː	yi	VERB	_	_	21	comp:aux	_	Gloss=do
 23	bùr̃tsîn	bùr̃tsiː	NOUN	_	Definite=Def|Gender=Masc	22	comp:obj	_	Gloss=expulsion.Masc.Def
 24	wai	wai	PART	_	Evident=Nfh|PartType=Evident	27	discourse	_	Gloss=reportedly
 25	carbon	carbon	X	_	Foreign=Yes	27	comp:pred	_	Gloss=carbon|Lang=en
 26	dioxide	dioxide	X	_	Foreign=Yes	25	flat@foreign	_	Gloss=dioxide|Lang=en
-27	ceː	neː	AUX	_	Gender=Fem	18	comp:obj	_	Copula=Yes|Gloss=be.Fem
+27	ceː	neː	AUX	_	Gender=Fem	18	comp	_	Copula=Yes|Gloss=be.Fem
 28	kawài	kawài	ADV	_	_	27	mod	_	Gloss=merely|SpaceAfter=No
 29	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
@@ -250,17 +250,17 @@
 # text = ɗaya dàgà cikin masànaː kìːmiyyàn yaː yi màːmaːkìː dà ya gaːnoː cêːwaː an yi irìn wannàn aman gâs mài gubàː à wani tafkìn à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà huɗu.
 1	ɗaya	ɗaya	NUM	_	_	6	subj	_	Gloss=one
 2	dàgà	dàgà	ADP	_	_	1	mod	_	Gloss=from
-3	cikin	cikin	ADP	_	_	2	comp:obj	_	Gloss=inside
-4	masànaː	masàniː	NOUN	_	Number=Plur	3	comp:obj	_	Gloss=expert.Plur
+3	cikin	cikin	ADP	_	_	2	comp	_	Gloss=inside
+4	masànaː	masàniː	NOUN	_	Number=Plur	3	comp	_	Gloss=expert.Plur
 5	kìːmiyyàn	kìːmiyyàː	NOUN	_	Definite=Def|Gender=Fem	4	comp:obj	_	Gloss=science
 6	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 7	yi	yi	VERB	_	_	6	comp:aux	_	Gloss=do
 8	màːmaːkìː	màːmaːkìː	NOUN	_	Gender=Masc	7	comp:pred	_	Gloss=surprise.Masc
 9	dà	dà	SCONJ	_	_	6	mod	_	Gloss=COMP
-10	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	9	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
+10	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	9	comp	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 11	gaːnoː	gaːn-	VERB	_	_	10	comp:aux	_	Gloss=discover
 12	cêːwaː	cêwaː	SCONJ	_	_	11	comp:obj	_	Gloss=COMP|wordform=cêwaː
-13	an	yaː	AUX	_	Aspect=Perf|Person=4	12	comp:obj	_	Gloss=4.Perf
+13	an	yaː	AUX	_	Aspect=Perf|Person=4	12	comp	_	Gloss=4.Perf
 14	yi	yi	VERB	_	_	13	comp:aux	_	Gloss=do
 15	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:obj	_	Gloss=type_of.Masc.Cons
 16	wannàn	nân	DET	_	Deixis=ProxS|Number=Sing|PronType=Dem	17	det	_	Gloss=ProxS.Sing
@@ -270,9 +270,9 @@
 20	gubàː	gubàː	NOUN	_	Gender=Fem	19	compound	_	Gloss=poison.Fem
 21	à	à	ADP	_	_	14	mod	_	Gloss=at
 22	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	23	det	_	Gloss=some.Masc.Spec
-23	tafkìn	tafkìː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:obj	_	Gloss=lake.Masc.Cons
+23	tafkìn	tafkìː	NOUN	_	Definite=Cons|Gender=Masc	21	comp	_	Gloss=lake.Masc.Cons
 24	à	à	ADP	_	_	14	mod	_	Gloss=at
-25	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	24	comp:obj	_	Gloss=year.Fem.Cons
+25	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	24	comp	_	Gloss=year.Fem.Cons
 26	alìf	alìf	NUM	_	_	25	mod@appos	_	Gloss=one_thousand
 27	dà	dà	CCONJ	_	_	28	cc	_	Gloss=and|wordform=da
 28	ɗàriː	ɗàriː	NUM	_	_	26	conj:coord	_	Gloss=hundred
@@ -289,7 +289,7 @@
 # text = à wànnan loːkàciː mutàːneː tàlàːtin dà bakwài neː sukà mutù .
 1	à	à	ADP	_	_	9	mod	_	Gloss=at|wordform=A
 2	wànnan	nan	DET	_	Deixis=ProxH|Gender=Masc|PronType=Dem	3	det	_	Gloss=ProxH.Masc
-3	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=time.Masc
+3	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	1	comp	_	Gloss=time.Masc
 4	mutàːneː	mùtûm	NOUN	_	Number=Plur	9	subj	_	Gloss=people.Plur
 5	tàlàːtin	tàlàːtin	NUM	_	_	4	mod:num	_	Gloss=thirty
 6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=and
@@ -309,24 +309,24 @@
 4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 5	gaːnoː	gaːn-	VERB	_	_	4	comp:aux	_	Gloss=see
 6	cêːwaː	cêːwaː	SCONJ	_	_	5	comp:obj	_	Gloss=COMP
-7	àkwai	àkwai	PART	_	PartType=Pred	6	comp:obj	_	Gloss=there_is
+7	àkwai	àkwai	PART	_	PartType=Pred	6	comp	_	Gloss=there_is
 8	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	7	subj	_	Gloss=type_of.Masc.Cons
 9	waɗànnân	nân	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	10	det	_	Gloss=ProxS.Plur
 10	tafkunàː	tafkìː	NOUN	_	Number=Plur	8	mod	_	Gloss=lake.Plur
 11	har̃	har̃	ADP	_	_	8	mod	_	Gloss=up_to
-12	sìttin	sìttin	NUM	_	_	11	comp:obj	_	Gloss=sixty
+12	sìttin	sìttin	NUM	_	_	11	comp	_	Gloss=sixty
 13	à	à	ADP	_	_	7	comp:pred	_	Gloss=at
 14	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	15	det	_	Gloss=ProxS.Masc
-15	yankìː	yankìː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=area.Masc
+15	yankìː	yankìː	NOUN	_	Gender=Masc	13	comp	_	Gloss=area.Masc
 16	à	à	ADP	_	_	15	mod	_	Gloss=at
-17	cikin	cikin	ADP	_	_	16	comp:obj	_	Gloss=inside
-18	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	17	comp:obj	_	Gloss=Cameroon
+17	cikin	cikin	ADP	_	_	16	comp	_	Gloss=inside
+18	Kàmàr̃u	Kàmàr̃u	PROPN	_	_	17	comp	_	Gloss=Cameroon
 19	dà	dà	CCONJ	_	_	20	cc	_	Gloss=and
 20	Nàːjeːr̃iyàː	Nàːjeːr̃iyàː	PROPN	_	_	18	conj:coord	_	Gloss=Nigeria|SpaceAfter=No
 21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 22	indà	indà	PRON	_	PronType=Rel	20	mod@relcl	_	Gloss=where
 23	sabòːdà	sabòːdà	ADP	_	_	27	mod	_	Gloss=because_of
-24	yanàyin	yanàyiː	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=nature.Masc.Cons
+24	yanàyin	yanàyiː	NOUN	_	Definite=Cons|Gender=Masc	23	comp	_	Gloss=nature.Masc.Cons
 25	duwàːtsun	duːtsèː	NOUN	_	Definite=Cons|Number=Plur	24	mod	_	Gloss=stone.Plur.Cons
 26	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	25	mod	_	Gloss=place.Masc.Def
 27	anàː	nàː	AUX	_	Aspect=Prog|Person=4	22	comp:obj	_	Gloss=4.Prog
@@ -338,7 +338,7 @@
 33	gâs	gâs	NOUN	_	Definite=Cons|Gender=Masc	32	mod	_	Gloss=gas.Masc
 34	à	à	ADP	_	_	29	mod	_	Gloss=at
 35	koːwànè	koːwànè	DET	_	Gender=Masc	36	det	_	Gloss=each.Masc
-36	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	34	comp:obj	_	Gloss=time.Masc
+36	loːkàciː	loːkàciː	NOUN	_	Gender=Masc	34	comp	_	Gloss=time.Masc
 37	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = 12_Bala'in_tafkin_Nyos_11
@@ -358,18 +358,18 @@
 11	famfòn	famfòː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:pred	_	Gloss=pumping.Masc.Cons
 12	ruwân	ruwaː	NOUN	_	Definite=Def|Gender=Masc	11	comp:obj	_	Gloss=water.Masc.Def
 13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
-14	kèː	nàː	AUX	_	Aspect=Prog	13	comp:obj	_	Copula=Yes|Gloss=Prog.Rel|Relative=Yes
+14	kèː	nàː	AUX	_	Aspect=Prog	13	comp	_	Copula=Yes|Gloss=Prog.Rel|Relative=Yes
 15	dà	dà	ADP	_	_	14	comp:aux	_	Gloss=with
-16	carbon	carbon	X	_	Foreign=Yes	15	comp:obj	_	Gloss=carbon|Lang=en
+16	carbon	carbon	X	_	Foreign=Yes	15	comp	_	Gloss=carbon|Lang=en
 17	dioxide	dioxide	X	_	Foreign=Yes	16	flat@foreign	_	Gloss=dioxide|Lang=en
 18	dàgà	dàgà	ADP	_	_	11	comp:obl	_	Gloss=from
-19	cikin	cikin	ADP	_	_	18	comp:obj	_	Gloss=inside
-20	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	19	comp:obj	_	Gloss=pump.Masc.Def|SpaceAfter=No
+19	cikin	cikin	ADP	_	_	18	comp	_	Gloss=inside
+20	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	19	comp	_	Gloss=pump.Masc.Def|SpaceAfter=No
 21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 22	à	yà	AUX	_	Mood=Sub|Person=4	9	parataxis@conj	_	Gloss=4.Sub
 23	fid	fit-	VERB	_	Voice=Cau	22	comp:aux	_	Gloss=go_out.Cau
 24	dà	dà	ADP	_	_	23	comp:obl	_	Gloss=with
-25	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	24	comp:obj	_	Gloss=3Masc.Nom
+25	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	24	comp	_	Gloss=3Masc.Nom
 26	gàbaː	gàbaː	NOUN	_	Gender=Masc	23	mod	_	Gloss=front.Masc
 27	ɗayansà	ɗaya	NUM	_	Definite=Cons	26	mod:num	_	CaseAf=Gen|GenderAf=Masc|Gloss=one.Cons-3MascGen|MSeg=ɗayan-sà|PersonAf=3|Poss=Yes|SpaceAfter=No
 28	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
@@ -390,10 +390,10 @@
 10	ƙaːrà	ƙaːr-	VERB	_	_	9	comp:aux	_	Gloss=increase
 11	ɓulɓulôːwaː	ɓulɓul-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	10	comp:obj	_	Gloss=gush.Vnoun.Fem
 12	cikin	cikin	ADP	_	_	10	comp:obl	_	Gloss=inside
-13	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	12	comp:obj	_	Gloss=lake.Masc.Cons
+13	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	12	comp	_	Gloss=lake.Masc.Cons
 14	dà	dà	ADP	_	ExtPos=SCONJ	10	mod@relcl	_	Gloss=COMP|Idiom=Yes
-15	zaːrar̃	zaːraː	NOUN	_	Definite=Cons|Gender=Fem	14	comp:obj	_	Gloss=excess.Cons|InIdiom=Yes|wordform=zarar
-16	an	yaː	AUX	_	Aspect=Perf|Person=4	14	comp:obj	_	Gloss=4.Perf
+15	zaːrar̃	zaːraː	NOUN	_	Definite=Cons|Gender=Fem	14	comp	_	Gloss=excess.Cons|InIdiom=Yes|wordform=zarar
+16	an	yaː	AUX	_	Aspect=Perf|Person=4	14	comp	_	Gloss=4.Perf
 17	ragè	rag-	VERB	_	_	16	comp:aux	_	Gloss=reduce
 18	ruwansà	ruwansà	NOUN	_	Definite=Cons|Gender=Masc	17	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=water.Masc.Cons-3MascGen|MSeg=ruwan-sà|PersonAf=3|Poss=Yes|SpaceAfter=No|wordform=ruwan
 19	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
@@ -413,7 +413,7 @@
 9	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	8	comp:obj	_	Gloss=3Masc.Fut
 10	tsai	tsay-	VERB	_	Voice=Cau	9	comp:aux	_	Gloss=stand/stay.Cau
 11	dà	dà	ADP	_	_	10	comp:obl	_	Gloss=with
-12	aman	amai	NOUN	_	Definite=Cons|Gender=Masc	11	comp:obj	_	Gloss=explosion.Masc.Cons
+12	aman	amai	NOUN	_	Definite=Cons|Gender=Masc	11	comp	_	Gloss=explosion.Masc.Cons
 13	gâs	gâs	NOUN	_	Definite=Cons|Gender=Masc	12	mod	_	Gloss=gas.Masc
 14	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	13	det	_	Gloss=Def|SpaceAfter=No
 15	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
@@ -433,29 +433,29 @@
 # text_ortho = Don hakà masànaː kìːmiyyàː sukà kaːwoː shaːwar̃àr̃ cêːwaː bài kàmaːtà yawàn ruwân dà zaː'à kwaːshèː dàgà tafkìn yà wucè yawàn ruwan samàn dà kèː shìgaː cikinsà ba.
 # text = don hakà masànaː kìːmiyyàː sukà kaːwoː shaːwar̃àr̃ cêːwaː bài kàmaːtà yawàn ruwân dà zaː'à kwaːshèː dàgà tafkìn yà wucè yawàn ruwan samàn dà kèː shìgaː cikinsàba.
 1	don	don	SCONJ	_	_	5	discourse	_	Gloss=because
-2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=thus
+2	hakà	hakà	ADV	_	_	1	comp	_	Gloss=thus
 3	masànaː	masàniː	VERB	_	ExtPos=NOUN|Number=Plur|VerbForm=Vnoun	5	subj	_	Gloss=expert.Plur
 4	kìːmiyyàː	kìːmiyyàː	NOUN	_	Gender=Fem	3	comp:obj	_	Gloss=science.Fem
 5	sukà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf.Rel|Relative=Yes
 6	kaːwoː	kai	VERB	_	_	5	comp:aux	_	Gloss=carry/take_to|wordform=kaːn
 7	shaːwar̃àr̃	shaːwar̃àː	NOUN	_	Definite=Cons|Gender=Fem	6	comp:obj	_	Gloss=advice.Fem.Cons
 8	cêːwaː	cêːwaː	SCONJ	_	_	7	mod	_	Gloss=COMP|wordform=cêwaː
-9	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	8	comp:obj	_	Gloss=3Masc.Perf.Neg
+9	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	8	comp	_	Gloss=3Masc.Perf.Neg
 10	kàmaːtà	kamaːt-	VERB	_	_	9	comp:aux	_	Gloss=be_appropriate
 11	yawàn	yawàː	NOUN	_	Definite=Cons|Gender=Masc	18	subj	_	Gloss=quantity.Masc.Cons
 12	ruwân	ruwaː	NOUN	_	Definite=Def|Gender=Masc	11	mod	_	Gloss=water.Masc.Def
 13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=COMP
-14	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	13	comp:obj	_	Gloss=4.Fut
+14	zaː'à	zâi	AUX	_	Person=4|Tense=Fut	13	comp	_	Gloss=4.Fut
 15	kwaːshèː	kwaːs-	VERB	_	_	14	comp:aux	_	Gloss=remove
 16	dàgà	dàgà	ADP	_	_	15	comp:obl	_	Gloss=from
-17	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	16	comp:obj	_	Gloss=lake.Masc.Def|wordform=tar̃kin
+17	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	16	comp	_	Gloss=lake.Masc.Def|wordform=tar̃kin
 18	yà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	10	comp:obj@agent	_	Gloss=3Masc.Sub
 19	wucè	wut-	VERB	_	_	18	comp:aux	_	Gloss=pass
 20	yawàn	yawàː	ADJ	_	Definite=Cons|Gender=Masc	19	comp:obj	_	Gloss=quantity.Masc.Cons
 21	ruwan	ruwaː	NOUN	_	Definite=Cons|Gender=Masc	20	mod	_	Gloss=water.Masc.Cons
 22	samàn	samàː	NOUN	_	Definite=Def	21	compound	_	Gloss=above.Def
 23	dà	dà	SCONJ	_	_	21	mod@relcl	_	Gloss=COMP
-24	kèː	nàː	AUX	_	Aspect=Prog	23	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
+24	kèː	nàː	AUX	_	Aspect=Prog	23	comp	_	Gloss=Prog.Rel|Relative=Yes
 25	shìgaː	shig-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	24	comp:aux	_	Gloss=enter.Fem.Vnoun.
 26	cikinsà	cikin	ADP	_	_	25	comp:obl	_	CaseAf=Gen|GenderAf=Masc|Gloss=inside-3MascGen|MSeg=cikin-sà|PersonAf=3|Poss=Yes|SpaceAfter=No|wordform=cikin
 27	ba	ba	PART	_	PartType=Neg|Polarity=Neg	10	mod	_	Gloss=Neg|SpaceAfter=No
@@ -472,28 +472,28 @@
 5	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Perf
 6	baː	baː	VERB	_	_	5	comp:aux	_	Gloss=give
 7	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=with
-8	shaːwar̃àr̃	shaːwar̃àː	NOUN	_	Definite=Cons|Gender=Fem	7	comp:obj	_	Gloss=advice.Fem.Cons|wordform=shawarar
+8	shaːwar̃àr̃	shaːwar̃àː	NOUN	_	Definite=Cons|Gender=Fem	7	comp	_	Gloss=advice.Fem.Cons|wordform=shawarar
 9	cêːwaː	cêːwaː	SCONJ	_	_	8	mod	_	Gloss=COMP|wordform=cêwaː
 10	kàmaːtàː	kamaːt-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	11	subj	_	Gloss=be_appropriate.Vnoun.Fem
-11	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	9	comp:obj	_	Gloss=3Masc.Perf
+11	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	9	comp	_	Gloss=3Masc.Perf
 12	yi	yi	VERB	_	_	11	comp:aux	_	Gloss=do
 13	à	yà	AUX	_	Mood=Sub|Person=4	12	comp:obj@agent	_	Gloss=4.Sub
 14	lùːr̃a	luːr̃-	VERB	_	_	13	comp:aux	_	Gloss=pay_attention
 15	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=with
-16	haːlin	haːliː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	Gloss=situation.Masc.Cons
+16	haːlin	haːliː	NOUN	_	Definite=Cons|Gender=Masc	15	comp	_	Gloss=situation.Masc.Cons
 17	ruwan	ruwaː	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	16	mod	_	Gloss=water.Masc.Cons
 18	Tafkìn	tafkìː	NOUN	_	Definite=Cons|Gender=Masc	17	mod	_	Gloss=river.Masc.Cons
 19	Nyos	Nyos	PROPN	_	_	18	mod	_	Gloss=Nyos
 20	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	18	det	_	Gloss=Def
 21	kàːfin	kàːfin	SCONJ	_	_	14	mod	_	Gloss=before
-22	à	yà	AUX	_	Mood=Sub|Person=4	21	comp:obj	_	Gloss=4.Sub
+22	à	yà	AUX	_	Mood=Sub|Person=4	21	comp	_	Gloss=4.Sub
 23	kwaːshè	kwaːs-	VERB	_	_	22	comp:aux	_	Gloss=remove
 24	gâs	gâs	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=gas.Masc
 25	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	24	det	_	Gloss=Def|SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 27	àbîn	àbù	NOUN	_	Definite=Def|Gender=Masc	23	parataxis:parenth	_	Gloss=thing.Masc.Def
 28	dà	dà	SCONJ	_	_	27	mod@relcl	_	Gloss=COMP
-29	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	28	comp:obj	_	Gloss=3Masc.Fut
+29	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	28	comp	_	Gloss=3Masc.Fut
 30	zamoː	zama	VERB	_	_	29	comp:aux	_	Gloss=become
 31	àbù	àbù	NOUN	_	Gender=Masc	30	comp:obj	_	Gloss=thing.Masc
 32	mài	mài	PART	_	Number=Sing|PartType=Der	31	mod	_	Gloss=owner_of.Sing
@@ -506,7 +506,7 @@
 # text_ortho = Bandà hakà maː zâi kasànceː àbù mài tsàːdar̃ gàske.
 # text = bandà hakà maː zâi kasànceː àbù mài tsàːdar̃ gàske.
 1	bandà	bandà	ADP	_	_	4	mod	_	Gloss=apart_from
-2	hakà	hakà	ADV	_	_	1	comp:obj	_	Gloss=thus
+2	hakà	hakà	ADV	_	_	1	comp	_	Gloss=thus
 3	maː	maː	PART	_	PartType=Top	1	discourse@top	_	Gloss=even
 4	zâi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	0	root	_	Gloss=3Masc.Fut
 5	kasànceː	kasant-	VERB	_	_	4	comp:aux	_	Gloss=become
@@ -526,7 +526,7 @@
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=COMP
 5	mazàunaː	mazàuniː	NOUN	_	Number=Plur	7	subj	_	Gloss=inhabitant.Plur
 6	yankìn	yankìː	DET	_	Definite=Def|Gender=Masc	5	comp:obj@L	_	Gloss=area.Masc.Def
-7	zaːsù	zâi	AUX	_	Number=Plur|Person=3|Tense=Fut	4	comp:obj	_	Gloss=3Plur.Fut
+7	zaːsù	zâi	AUX	_	Number=Plur|Person=3|Tense=Fut	4	comp	_	Gloss=3Plur.Fut
 8	iyà	iy-	VERB	_	_	7	comp:aux	_	Gloss=be_able_to
 9	yî:	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:obj	_	Gloss=do
 10	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	11	comp:pred	_	Gloss=3Masc.Nom
@@ -538,7 +538,7 @@
 16	neːsà	neːsà	ADV	_	_	15	comp:obj@G	_	Gloss=far
 17	ƙwar̃ai	ƙwar̃ai	ADV	_	_	16	mod	_	Gloss=really
 18	dàgà	dàgà	ADP	_	_	16	mod	_	Gloss=from
-19	indà	indà	ADV	_	PronType=Rel	18	comp:obj	_	Gloss=where
+19	indà	indà	ADV	_	PronType=Rel	18	comp	_	Gloss=where
 20	tafkìn	tafkìː	NOUN	_	Definite=Def|Gender=Masc	21	subj	_	Gloss=lake.Masc.Def|wordform=tar̃kin
 21	yakè	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	19	mod@relcl	_	Gloss=3Fem.Prog.Rel2|Relative=Variante|SpaceAfter=No
 22	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
@@ -548,7 +548,7 @@
 # text_ortho = À shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà dai mutàneː fìye dà dubuː dà ɗàriː bakwài neː sukà mutù, kuma Allàh neː kawài ya san yawàn waɗàndà zaːsù mutù ìdan tafkìn ya saːkè yîn wani aman gâs ɗîn.
 # text = à shèːkaràr̃ alìf dà ɗàriː tar̃à dà tàmàːnin dà shidà dai mutàneː fìye dà dubuː dà ɗàriː bakwài neː sukà mutù, kuma Allàh neː kawài ya san yawàn waɗàndà zaːsù mutù ìdan tafkìn ya saːkè yîn wani aman gâs ɗîn.
 1	à	à	ADP	_	_	20	mod	_	Gloss=at
-2	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	1	comp:obj	_	Gloss=year.Fem.Cons
+2	shèːkaràr̃	shèːkaràː	NOUN	_	Definite=Cons|Gender=Fem	1	comp	_	Gloss=year.Fem.Cons
 3	alìf	alìf	NUM	_	_	2	mod@appos	_	Gloss=one_thousand
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=and
 5	ɗàriː	ɗàriː	NUM	_	Gender=Fem	3	conj:coord	_	Gloss=hundred
@@ -561,7 +561,7 @@
 12	mutàneː	mùtûm	NOUN	_	Number=Plur	20	subj	_	Gloss=man.Plur
 13	fìye	fi	VERB	_	VerbForm=Part	12	mod	_	Gloss=exceed.Part
 14	dà	dà	ADP	_	_	13	comp:obl	_	Gloss=with
-15	dubuː	dubuː	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=thousand.Fem
+15	dubuː	dubuː	NOUN	_	Gender=Fem	14	comp	_	Gloss=thousand.Fem
 16	dà	dà	CCONJ	_	_	17	cc	_	Gloss=and|wordform=ɗà
 17	ɗàriː	ɗàriː	NUM	_	Gender=Fem	15	conj:coord	_	Gloss=hundred
 18	bakwài	bakwài	NUM	_	_	17	mod:num	_	Gloss=seven
@@ -581,7 +581,7 @@
 32	mutù	mutù	VERB	_	_	31	comp:aux	_	Gloss=die
 33	ìdan	ìdan	SCONJ	_	_	32	mod	_	Gloss=if
 34	tafkìn	tafkìn	NOUN	_	Definite=Def|Gender=Masc	35	subj	_	Gloss=river.Masc.Def
-35	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	33	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
+35	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	33	comp	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 36	saːkè	saːk-	VERB	_	_	35	comp:aux	_	Gloss=repeat
 37	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	36	comp:obj	_	Gloss=do.Vnoun.Masc.Cons
 38	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	39	det	_	Gloss=some.Masc.Spec
